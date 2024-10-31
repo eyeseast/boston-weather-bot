@@ -1,9 +1,11 @@
 name: Hourly Boston Weather Update
 
 on:
-  schedule:
-    - cron: "0 * * * *" # Run every hour
+  #schedule:
+  #  - cron: "0 * * * *" # Run every hour
   workflow_dispatch: # Allow manual triggers
+  push:
+    branches: [main]
 
 jobs:
   update-weather:

@@ -1,4 +1,6 @@
-# Foggy Bot
+# Boston Weather Bot
 
-- [North Image](https://cameras.alertcalifornia.org/public-camera-data/Axis-SutroTower2/panogrid/latest-pg-0.jpg)
-- [East Image](https://cameras.alertcalifornia.org/public-camera-data/Axis-SutroTower2/panogrid/latest-pg-2.jpg)
+Images by [Hazecam](https://hazecam.net/camsite.aspx?site=bluehill) at Blue Hill Observatory.
+
+![](https://hazecam.net/images/main/bluehill_left.jpg)
+![](https://hazecam.net/images/main/bluehill_right.jpg)
