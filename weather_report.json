@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T20:53:00+00:00",
-            "temperature_f": 75.92,
-            "temperature_c": 24.4,
-            "humidity": 40.19232870211,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 180,
+            "timestamp": "2024-10-31T21:53:00+00:00",
+            "temperature_f": 73.04,
+            "temperature_c": 22.8,
+            "humidity": 51.212777434697,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-10-31T17:00:00-04:00",
-                "endTime": "2024-10-31T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 80,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 80. Southwest wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-10-31T18:00:00-04:00",
+                "startTime": "2024-10-31T19:00:00-04:00",
                 "endTime": "2024-11-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 62. Southwest wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-11-01T06:00:00-04:00",
+                "endTime": "2024-11-01T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 77,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 77, with temperatures falling to around 70 in the afternoon. West wind 10 to 15 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "As evening settles softly over Boston, the city is cloaked in a gentle embrace of clouds that hint at the day's warmth, now receding into the twilight. The remnants of sunlight color the horizon with subdued hues, creating a canvas that reflects the day's earlier promise of partly sunny skies. The 80-degree warmth, though now a memory, lingers in the air's embrace, while a light southwest breeze dances through the streets, providing a playful respite from the lingering humidity. It's a time when the world seems to pause, allowing for contemplation as the sky deepens into shades of indigo and gray.\n\nTonight's forecast invites you to dress comfortably, perhaps in a light sweater or a long-sleeve shirt, as temperatures gently fall to a cozy 62 degrees. Activities under the soft glow of lamplight might include a thoughtful stroll through local parks, where the crunch of leaves underfoot and the rustle of branches weave a symphony of autumn ambiance. Alternatively, engaging in a quiet evening at a neighborhood caf\u00e9 offers warmth and reflection, as the world outside gradually slips into darkness. The ambiance may be tinged with clouds, but the spirit of the evening feels intimate and inviting, encouraging you to savor this fleeting moment before winter wraps the city in its chill.",
-    "color_code": "#A8C4E4",
-    "timestamp": "2024-10-31 18:02:24"
+    "weather_report": "As evening descends upon Boston, a veil of clouds drapes the city, casting a mellow glow across the urban landscape. The air hangs warm for late October, around 62 degrees, with a gentle southwest breeze whispering softly through the streets. While the night sky may seem unremarkable, those accustomed to its shades can find a tranquility that beckons them outside, where the city\u2019s lights sparkle like jewels against the dark canvas\u2014a subtle reminder of the life thrumming beyond the confines of home.\n\nLooking toward tomorrow, as dawn breaks over the horizon, the forecast promises a refreshing contrast; a tapestry of mostly sunny skies will greet the morning. The day will bring a welcome warmth, reaching toward 77 degrees, before settling back into the cooler embrace of afternoon. Wisps of wind will dance playfully across the landscape, lending a spirited edge to the otherwise gentle warmth. For an outing, layering may be the best course\u2014perhaps a light sweater or scarf to ease the transition from day to night. This is a perfect day to stroll through neighborhood parks, visiting local bakeries amidst the soft rustle of leaves surrendering to autumn\u2019s embrace, or maybe even indulge in the simple pleasure of sipping a warm beverage while watching the world meander by.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-10-31 19:03:50"
 }
