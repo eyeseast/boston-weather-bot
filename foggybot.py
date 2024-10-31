@@ -154,7 +154,6 @@ if __name__ == "__main__":
         forecasts += PROMPT
 
         model = llm.get_model("gpt-4o-mini")
-        model.key = os.environ.get("OPENAI_API_KEY")
         response = model.prompt(
             forecasts,
             attachments=[
