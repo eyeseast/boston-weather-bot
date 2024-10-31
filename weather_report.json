@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-10-31T00:53:00+00:00",
-            "temperature_f": 60.980000000000004,
-            "temperature_c": 16.1,
-            "humidity": 80.798233627009,
+            "timestamp": "2024-10-31T13:53:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 63.235822148634,
             "wind_speed_mph": 20.93832,
-            "wind_direction": 180,
+            "wind_direction": 220,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-10-30T21:00:00-04:00",
-                "endTime": "2024-10-31T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "1 to 9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 53. Southwest wind 1 to 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2024-10-31T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2024-10-31T11:00:00-04:00",
                 "endTime": "2024-10-31T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 80,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 80. Southwest wind 8 to 12 mph."
+                "detailedForecast": "Mostly sunny, with a high near 80. Southwest wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-10-31T18:00:00-04:00",
+                "endTime": "2024-11-01T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 63. Southwest wind around 10 mph."
             }
         ]
     },
-    "weather_report": "As twilight envelops Boston this evening, a gentle hush blankets the city. The air is crisp, whispering of autumn, with temperatures dipping gracefully to around 53 degrees. Underneath the muted glow of streetlamps and the twinkling lights from afar, the atmosphere feels calm and serene, inviting evening strolls through neighborhoods adorned with seasonal decor. A soft southwest breeze flickers through, just enough to rustle the leaves still clinging to their branches, creating a harmonious symphony of rustling foliage and city hum.\n\nLooking ahead to tomorrow, the sun will rise on a canvas of mostly sunny skies, a welcome invitation for outdoor endeavors as it warms the air, inviting highs near 80 later in the day. Those who venture out can expect a day that dances between warmth and a light breeze, making it perfect for a leisurely lunch at a favorite caf\u00e9 or perhaps an afternoon exploration of the gardens and parks where the last vestiges of fall foliage might still be admired. As the day unfolds, light layers will be your trusted companions; a comfortable shirt or a light sweater will suffice to enjoy the delightful embrace of an Indian summer.",
-    "color_code": "#FFC107",
-    "timestamp": "2024-10-30 22:17:24"
+    "weather_report": "In Boston today, a gentle sun bathes the landscape, lending warmth to the air as it reaches near 80 degrees. The morning has unfurled into a tapestry of mostly sunny skies, effortlessly punctuated by soft clouds drifting lazily overhead. A pleasant southwestern breeze nudges through the streets, whispering the promise of autumn adventures. As the day progresses, one can expect the sky to soften to a muted gray, cloaking the city in a shroud of clouds by nightfall, with temperatures falling to a comfortable 63 degrees.\n\nSuch delightful weather invites you to pull on your favorite lightweight sweater and perhaps a pair of breathable chinos. Why not take a meandering walk along the Charles River, where the reflections shimmer against the water\u2019s surface, or perhaps find a nearby caf\u00e9 to savor a cup of rich coffee? As the sun descends into the horizon, cozy up with a book or engage in intimate conversation with friends on a patio, absorbing the ephemeral beauty of the day. The outdoor sculpture parks and historic sidewalks of your city await, ready for exploration under a sky that promises an unusually pleasant Halloween eve.",
+    "color_code": "#A5C1D4",
+    "timestamp": "2024-10-31 11:00:30"
 }
