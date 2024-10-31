@@ -1,5 +1,8 @@
 import json
+import os
 import re
+import sys
+
 from pytz import timezone
 from datetime import datetime
 
@@ -129,6 +132,10 @@ class WeatherGov:
 
 
 if __name__ == "__main__":
+
+    if not os.environ.get("OPENAI_API_KEY"):
+        print("Missing API key. Please set OPENAI_API_KEY")
+        sys.exit(1)
 
     weather = WeatherGov()
     data = weather.get_weather_data(LAT, LON)
