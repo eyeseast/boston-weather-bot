@@ -1,127 +1,158 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css" integrity="sha512-EZLkOqwILORob+p0BXZc+Vm3RgJBOe1Iq/0fiI7r/wJgzOFZMlsqTa29UEl6v6U6gsV4uIpsNZoV32YZqrCRCQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.min.css"
+      integrity="sha512-EZLkOqwILORob+p0BXZc+Vm3RgJBOe1Iq/0fiI7r/wJgzOFZMlsqTa29UEl6v6U6gsV4uIpsNZoV32YZqrCRCQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
     <title>Weather Report</title>
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            fetch('weather_report.json')
-                .then(response => response.json())
-                .then(data => {
-                    document.getElementById('weather-report').innerText = data.weather_report;
-                    const options = { year: 'numeric', month: 'long', day: 'numeric', hour: 'numeric', minute: 'numeric'};
-                    const formattedTimestamp = new Date(data.timestamp).toLocaleDateString('en-US', options);
-                    document.getElementById('timestamp').innerText = "Generated on " + formattedTimestamp + ", San Francisco time.";
-                    document.querySelectorAll('.divider').forEach(element => {
-                        element.style.backgroundColor = data.color_code;
-                    });
-                })
-                .catch(error => console.error('Error loading weather report:', error));
-        });
+      document.addEventListener("DOMContentLoaded", function () {
+        fetch("weather_report.json")
+          .then((response) => response.json())
+          .then((data) => {
+            document.getElementById("weather-report").innerText =
+              data.weather_report;
+            const options = {
+              year: "numeric",
+              month: "long",
+              day: "numeric",
+              hour: "numeric",
+              minute: "numeric",
+            };
+            const formattedTimestamp = new Date(
+              data.timestamp
+            ).toLocaleDateString("en-US", options);
+            document.getElementById("timestamp").innerText =
+              "Generated on " + formattedTimestamp + ", Boston time.";
+            document.querySelectorAll(".divider").forEach((element) => {
+              element.style.backgroundColor = data.color_code;
+            });
+          })
+          .catch((error) =>
+            console.error("Error loading weather report:", error)
+          );
+      });
     </script>
-</head>
-<body>
+  </head>
+  <body>
     <div class="container">
-        <h1>Downtown San Francisco Weather Vibes</h1>
-        <hr class="divider">
-        <div class="cropped-image-container">
-            <img src="https://cameras.alertcalifornia.org/public-camera-data/Axis-SutroTower2/panogrid/latest-pg-2.jpg" alt="National Weather Service logo" class="cropped-image">
-        </div>
-        <p id="weather-report">Loading...</p>
-        <hr class="divider">
-        <div id="footer">
-            <p id="timestamp">Loading...</p>
-            <p>By <a href="https://www.dbreunig.com">Drew Breunig</a>. Powered by the <a href="https://www.weather.gov/">National Weather Service</a>, <a href="https://alertcalifornia.org">Alert California</a>, <a href="https://llm.datasette.io/en/stable/">llm</a>, and vibes somewhere between Jack Kerouac and J. Peterman.</p>
-            <p>View <a href="https://github.com/dbreunig/foggy-bot">the code</a>.</p>
-        </div>
+      <h1>Boston Weather Vibes</h1>
+      <hr class="divider" />
+      <div class="cropped-image-container">
+        <img
+          src="https://hazecam.net/images/main/bluehill_right.jpg"
+          alt="View of Boston from Blue Hills Observatory"
+          class="cropped-image"
+        />
+      </div>
+      <p id="weather-report">Loading...</p>
+      <hr class="divider" />
+      <div id="footer">
+        <p id="timestamp">Loading...</p>
+        <p>
+          By <a href="">Chris Amico</a>, adapted from
+          <a href="https://github.com/dbreunig/foggy-bot">foggy-bot</a> by
+          <a href="https://www.dbreunig.com">Drew Breunig</a>. Powered by the
+          <a href="https://www.weather.gov/">National Weather Service</a>,
+          <a href="https://hazecam.net/camsite.aspx?site=bluehill">HazeCam</a>,
+          <a href="https://llm.datasette.io/en/stable/">llm</a>, and vibes
+          somewhere between Jack Kerouac and J. Peterman.
+        </p>
+        <p>
+          View
+          <a href="https://github.com/eyeseast/boston-weather-bot">the code</a>.
+        </p>
+      </div>
     </div>
-</body>
+  </body>
 
-<style>
-/* Set base font and background */
-body {
-  font-family: 'Merriweather', 'Georgia', 'Cambria', 'Times New Roman', Times, serif;
-  line-height: 1.6;
-  color: #2d2d2d;
-  background-color: #ffffff;
-  padding: 1rem;
-  font-weight: 400;
-  
-}
+  <style>
+    /* Set base font and background */
+    body {
+      font-family: "Merriweather", "Georgia", "Cambria", "Times New Roman",
+        Times, serif;
+      line-height: 1.6;
+      color: #2d2d2d;
+      background-color: #ffffff;
+      padding: 1rem;
+      font-weight: 400;
+    }
 
-/* Heading styles */
-h1 {
-  font-family: 'Playfair Display', 'Georgia', serif;
-  font-size: clamp(1.8rem, 4vw, 2.5rem);
-  line-height: 1.2;
-  margin: 2rem 0 1.5rem;
-  margin-top: 3em;
-  font-weight: 700;
-  color: #1a1a1a;
-  letter-spacing: -0.02em;
-}
+    /* Heading styles */
+    h1 {
+      font-family: "Playfair Display", "Georgia", serif;
+      font-size: clamp(1.8rem, 4vw, 2.5rem);
+      line-height: 1.2;
+      margin: 2rem 0 1.5rem;
+      margin-top: 3em;
+      font-weight: 700;
+      color: #1a1a1a;
+      letter-spacing: -0.02em;
+    }
 
-h3 {
-  font-family: 'Playfair Display', 'Georgia', serif;
-  font-size: clamp(1.2rem, 2vw, 1.5rem);
-  line-height: 1.2;
-  font-style: italic;
-  color: #666;
-  letter-spacing: -0.02em;
-}
+    h3 {
+      font-family: "Playfair Display", "Georgia", serif;
+      font-size: clamp(1.2rem, 2vw, 1.5rem);
+      line-height: 1.2;
+      font-style: italic;
+      color: #666;
+      letter-spacing: -0.02em;
+    }
 
+    /* Container for better readability */
+    .container {
+      max-width: 70ch;
+      margin: 0 auto;
+      padding: 0 1rem;
+    }
 
-/* Container for better readability */
-.container {
-  max-width: 70ch;
-  margin: 0 auto;
-  padding: 0 1rem;
-}
+    hr {
+      margin-top: 1em;
+      height: 4px;
+    }
 
-hr {
-    margin-top: 1em;
-    height: 4px;
-}
+    /* Footer styles */
+    #footer {
+      margin-top: 2em;
+      font-size: 1.2rem;
+      color: #666;
+    }
 
-/* Footer styles */
-#footer {
-  margin-top: 2em;
-  font-size: 1.2rem;
-  color: #666;
-}
+    #footer p {
+      margin: 1em 0;
+    }
 
-#footer p {
-  margin: 1em 0;
-}
+    /* Image cropping styles */
+    .cropped-image-container {
+      width: 100%;
+      position: relative;
+      overflow: hidden;
+      aspect-ratio: 16/8; /* This creates a container with 50% height of width */
+      margin-bottom: 2em;
+    }
 
-/* Image cropping styles */
-.cropped-image-container {
-  width: 100%;
-  position: relative;
-  overflow: hidden;
-  aspect-ratio: 16/8; /* This creates a container with 50% height of width */
-  margin-bottom: 2em;
-}
+    .cropped-image {
+      position: absolute;
+      top: -25%;
+      left: 0;
+      width: 100%;
+      height: 150%; /* 150% height to account for the 25% crop on top and bottom */
+      object-fit: cover;
+    }
 
-.cropped-image {
-  position: absolute;
-  top: -25%;
-  left: 0;
-  width: 100%;
-  height: 150%; /* 150% height to account for the 25% crop on top and bottom */
-  object-fit: cover;
-}
+    #weather-report {
+      font-size: 1.5rem;
+      line-height: 1.6;
+      margin-bottom: 2em;
+    }
 
-#weather-report {
-  font-size: 1.5rem;
-  line-height: 1.6;
-  margin-bottom: 2em;
-}
-
-/* Font imports */
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Playfair+Display:wght@700&display=swap');
-</style>
-
+    /* Font imports */
+    @import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Playfair+Display:wght@700&display=swap");
+  </style>
 </html>

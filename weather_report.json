@@ -1,62 +1,62 @@
 {
     "forecast_data": {
         "location": {
-            "name": "Sausalito",
-            "state": "CA",
-            "latitude": 37.7885,
-            "longitude": -122.4071
+            "name": "Brookline",
+            "state": "MA",
+            "latitude": 42.287,
+            "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-10-30T13:43:00+00:00",
-            "temperature_f": 51.584,
-            "temperature_c": 10.88,
-            "humidity": 82.012847345258,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": ""
+            "timestamp": "2024-10-31T00:53:00+00:00",
+            "temperature_f": 60.980000000000004,
+            "temperature_c": 16.1,
+            "humidity": 80.798233627009,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 180,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-10-30T08:00:00-07:00",
-                "endTime": "2024-10-30T18:00:00-07:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 60
-                },
-                "windSpeed": "3 to 13 mph",
-                "windDirection": "WSW",
-                "icon": "https://api.weather.gov/icons/land/day/sct/rain,60?size=medium",
-                "shortForecast": "Mostly Sunny then Light Rain Likely",
-                "detailedForecast": "Rain likely after 5pm. Mostly sunny, with a high near 58. West southwest wind 3 to 13 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-10-30T18:00:00-07:00",
-                "endTime": "2024-10-31T06:00:00-07:00",
+                "startTime": "2024-10-30T21:00:00-04:00",
+                "endTime": "2024-10-31T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 53,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": null
                 },
-                "windSpeed": "8 to 18 mph",
+                "windSpeed": "1 to 9 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Mostly cloudy, with a low around 53. Southwest wind 8 to 18 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 53. Southwest wind 1 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2024-10-31T06:00:00-04:00",
+                "endTime": "2024-10-31T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 80,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 80. Southwest wind 8 to 12 mph."
             }
         ]
     },
-    "weather_report": "In Downtown San Francisco, the morning begins under a canopy of soft gray clouds, hinting at the rain forecasted to arrive later in the day. The air carries a crisp chill, the temperature hovering comfortably near",
-    "color_code": null,
-    "timestamp": "2024-10-30 08:01:40"
+    "weather_report": "As dusk descends upon Boston, a gentle serenity envelops the city, the warmth of the day beginning to give way to cooler evening breezes. The skies remain partly cloudy, cradling hints of starlight peeking through, while the southwest winds whisper softly, bringing comfortable temperatures that linger around fifty-three degrees. With clarity settling over the landscape, the urban illumination sparkles like scattered gems across the horizon, inviting evening strolls or cozy gatherings indoors where the atmosphere is imbued with the scents of warm cider or hearty dinners.\n\nLooking forward to Thursday, the promise of a mostly sunny day approaches, filled with golden rays that reach toward a high of near eighty. The world awakens as people emerge from their homes, eager to embrace the mild, embracing temperatures. It\u2019s a day made for simple pleasures\u2014perhaps a visit to the local farmers' market, exploring the vibrant stalls of autumn produce, or finding a tranquil park bench where one can bask in the sunlight with a good book. Dress comfortably, layering light fabrics that offer flexibility from warm moments in the sun to cooler breezes as the sun slips lower in the sky. Tomorrow carries with it an invitation to adventure, a chance to relish in the beauty of Boston as the seasons change, painting our lives with gentle hues of fall.",
+    "color_code": "#D3C6B2",
+    "timestamp": "2024-10-30 21:57:36"
 }
