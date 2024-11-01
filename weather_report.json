@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-01T06:53:00+00:00",
-            "temperature_f": 62.059999999999995,
-            "temperature_c": 16.7,
-            "humidity": 80.352964765246,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 170,
+            "timestamp": "2024-11-01T10:53:00+00:00",
+            "temperature_f": 64.94,
+            "temperature_c": 18.3,
+            "humidity": 75.526486555437,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 210,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-01T04:00:00-04:00",
-                "endTime": "2024-11-01T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 62. Southwest wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2024-11-01T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2024-11-01T08:00:00-04:00",
                 "endTime": "2024-11-01T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 78,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "10 to 15 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 78, with temperatures falling to around 68 in the afternoon. West wind 10 to 15 mph, with gusts as high as 29 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 78, with temperatures falling to around 68 in the afternoon. West wind 10 to 15 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-01T18:00:00-04:00",
+                "endTime": "2024-11-02T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 14 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 45. Northwest wind 8 to 14 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfurls over Boston, the night gives way to a gentle transition, with a whisper of clouds lingering in the sky. The air holds a mild embrace, resting just above 60 degrees, while the streets begin to stir with the promise of a new day. As the sun makes its ascent, it will coax forth a delightful blend of partly sunny skies, with temperatures climbing toward the late afternoon, beckoning a respite from the gentle chill of the morning. The westward breeze, a friend to those who wander, will dance at 10 to 15 mph, each gust creating a playful chill that hints at the shifting seasons.\n\nDress in layers that respect both the coolness of early hours and the warmth of midday\u2019s radiance. Perhaps a light jacket, easily shed, would complement a comfortable sweater, giving you the freedom to embrace the day without fuss. With such inviting weather, consider a leisurely stroll along the esplanade or a visit to one of Boston\u2019s many intriguing bookstores. A warm cup of coffee in hand, you might meander through the spirited streets, exploring quaint corners and breathing in the crisp fall air, savoring the understated beauty of an unhurried November day.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-01 04:08:37"
+    "weather_report": "In Boston today, the day unfolds under a canvas of mostly sunny skies, as the sun lifts gently towards a high of 78, making way for a warm embrace before the afternoon chill slips in. The air carries a lively west wind that dances through the streets, at times whirling with gusts that remind us of autumn\u2019s mischievous spirit. As the sun reaches its zenith, temperatures will subtly retreat, hinting at the coolness that follows. Tonight, the stars will peek through a mostly clear sky, with temperatures dropped to a refreshing 45, inviting an evening wrapped in light layers.\n\nAs the morning progresses, the city invites you to step outdoors, perhaps to meander along the Charles River Esplanade, where the gentle breeze mingles with the soothing sights of autumn foliage, unspooling their golden hues. It\u2019s a day for light jackets or cozy sweaters, perfect for enjoying a cup of coffee at a local caf\u00e9 or partaking in a leisurely stroll through one of Boston's scenic parks. Evening will bring a brief respite under a starry sky, ideal for an evening walk or outdoor dining. It\u2019s a day that offers a harmonious blend of warmth and cool, creating an atmosphere ripe for simple pleasures and quiet reflections.",
+    "color_code": "#A2B4E3",
+    "timestamp": "2024-11-01 08:10:30"
 }
