@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-04T18:53:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 51.831917527575,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 180,
-            "description": "Clear"
+            "timestamp": "2024-11-04T22:53:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 65.581393779178,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-04T15:00:00-05:00",
-                "endTime": "2024-11-04T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 54. South wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-04T18:00:00-05:00",
+                "startTime": "2024-11-04T19:00:00-05:00",
                 "endTime": "2024-11-05T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 46. South wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2024-11-05T06:00:00-05:00",
+                "endTime": "2024-11-05T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 71,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 71. Southwest wind 6 to 12 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "As afternoon settles over Boston, the skyline is draped in a soft, gray shroud that hints at a quiet, muted kind of beauty. The air, still and cool, cradles temperatures near fifty-four degrees, a reminder that autumn\u2019s breath lingers, urging travelers to embrace their sweaters. A gentle south wind stirs, reminiscent of brisk walks along shaded streets, where fallen leaves crunch beneath footfalls, painting a crisp soundtrack to the slow unraveling of the day.\n\nTonight, the clouds will continue to accompany us, offering a warm embrace with lows dipping to forty-six. The veil of darkness will not reveal much beyond the muted silhouettes of trees and rooftops, but the ambiance remains cozy, perfect for reconnecting with a favorite book or crafting a comforting meal. Soft layers made of wool or cotton will keep out the evening chill, making time spent outdoors\u2014perhaps at a local caf\u00e9 sipping a warm beverage\u2014quite delightful. As the day fades softly, it calls for pleasant activities that blend the simple joys of life with the tranquil mood of this overcast, yet inviting, November day.",
-    "color_code": "#A0A8B3",
-    "timestamp": "2024-11-04 15:07:20"
+    "weather_report": "As evening descends over Boston, the sky dons a shroud of clouds, persistent and gray, with the air still and crisp. The temperature hovers around a cool 46 degrees, hinting at the chill of the season. The south wind whispers softly, almost shyly, promising a more invigorating day ahead. Tomorrow will greet the city with partly sunny skies; a pleasant transition as the day warms to around 71, with the southwest wind stirring a gentle excitement, as gusts play along the avenues and parks.\n\nTonight's muted colors reflect the gathering clouds and an almost tranquil atmosphere; if one steps outside, they might find an autumnal evening best suited for a light jacket, perhaps layered with a sweater for comfort. It\u2019s the kind of weather that invites contemplation, the perfect backdrop for a quiet walk through the familiar streets or a moment spent sipping a warm drink in a cozy nook, watching the city pulse with life. Tomorrow promises more vibrancy, encouraging a foray into the outdoors\u2014be it a visit to the beautiful Boston Common or a stroll along the banks of the Charles, where the sun might pierce through the clouds for a moment, chasing away the lingering chill.",
+    "color_code": "#6c757d",
+    "timestamp": "2024-11-04 19:26:57"
 }
