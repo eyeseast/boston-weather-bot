@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-07T18:53:00+00:00",
-            "temperature_f": 69.98,
-            "temperature_c": 21.1,
-            "humidity": 33.470396041034,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Clear"
+            "timestamp": "2024-11-07T22:53:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 47.416810583467,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 280,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-07T15:00:00-05:00",
-                "endTime": "2024-11-07T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 69, with temperatures falling to around 61 in the afternoon. Northwest wind around 13 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-07T18:00:00-05:00",
+                "startTime": "2024-11-07T19:00:00-05:00",
                 "endTime": "2024-11-08T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 42. West wind around 8 mph."
+                "detailedForecast": "Clear, with a low around 42. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-11-08T06:00:00-05:00",
+                "endTime": "2024-11-08T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 64, with temperatures falling to around 57 in the afternoon. West wind 8 to 13 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over the charming city of Boston, a golden clarity bathes the landscape, inviting you to embrace the beauty of the season. The temperature gracefully dances between 61 and 69 degrees, accompanied by a gentle northwest breeze that carries whispers of autumn through the air. With clouds placed strategically in the sky, the sun remains the star of the show, illuminating the vibrant hues of the fallen leaves and the sturdy silhouettes of the urban skyline. Tonight promises a peaceful retreat into clear skies, where the once-lively sun bids adieu at a humble but stunning twilight.\n\nIn light of such delightful conditions, dressing smartly would serve one well\u2014perhaps a light sweater layered over a shirt, complemented by comfortable jeans, so you can savor the delightful chill of the evening. Considering the clear blue canvas above and the brisk temperatures, a leisurely stroll along the Charles River or through the Boston Common would be a splendid way to pass the afternoon, breathing in the crisp air, or perhaps finding a quiet corner with a good book and a warm drink as the day softly transitions into the night. Such simple pleasures feel magnified on days like this, where nature's artistry invites you to pause and cherish each moment.",
-    "color_code": "#87CEEB",
-    "timestamp": "2024-11-07 15:07:03"
+    "weather_report": "As the evening settles over Boston, a serene clarity blankets the city, punctuated by the flickering lights of its skyline, a comforting constellation against the darkened sky. Tonight, temperatures gently plunge to a chill reminiscent of early autumn, lingering around 42 degrees, with a gentle wind whispering from the west. Such conditions invite the haven of a cozy sweater or a layered jacket, urging locals to embrace warmth while stepping outside for an evening stroll or simply enjoying the brisk air.\n\nLooking ahead to tomorrow, the promise of a sunny day unfurls with hints of blue peeking through, though clouds may whisk in for the afternoon. The day will greet us with a mild high near 64, yet the temperature is likely to retreat gracefully into the mid-50s as the sun descends. A steady west wind may raise a playful gust now and then, setting the scene for a delightful day to wander along the Charles or perhaps linger in the parks, where the colorful foliage remains a feast for the eyes. In this gentle embrace of cool weather, one might revel in the simple joy of a hot cup of coffee at a local caf\u00e9, or lose oneself in the pages of a good book, both activities perfectly attuned to the rhythm of this blissful November day.",
+    "color_code": "#4A90E2",
+    "timestamp": "2024-11-07 19:26:52"
 }
