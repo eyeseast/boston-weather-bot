@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T14:53:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 25.815238204727,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 190,
+            "timestamp": "2024-11-10T17:53:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 33.131557418545,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 200,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-10T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2024-11-10T15:00:00-05:00",
                 "endTime": "2024-11-10T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 57. Southwest wind 7 to 13 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 57. Southwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-11-10T18:00:00-05:00",
                 "endTime": "2024-11-11T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 52,
+                "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 80
                 },
                 "windSpeed": "12 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely after 11pm. Cloudy, with a low around 52. Southwest wind around 12 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,60/rain,80?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain after 9pm. Mostly cloudy, with a low around 50. Southwest wind around 12 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In this quiet corner of Boston, a day drapes itself in soft hues of blue, with the sun occasionally peeking through patches of cloud, casting a gentle light over the city. As the morning unfolds, the temperature settles at a refreshing chill, hinting at the approaching warmth, yet a sweater or light jacket remains a reliable companion. It's a day that beckons with whispers of autumn's lingering touch, encouraging a stroll through the crisp air or perhaps a moment spent savoring a steaming cup of coffee in one of the city's inviting cafes.\n\nAs evening approaches, the charm of the day will shift. Cloud cover will gather, and the forecast predicts rain will weave its way into the fabric of the night, creating a cozy backdrop for a more subdued evening. The anticipated precipitation, though mild, urges you to embrace the comforts of home\u2014perhaps curling up with a good book or watching a film, while the rhythms of the rain accompany your quiet moments. Dress in layers to transition smoothly through the day to night, and let the changing weather inspire a reflective pause amidst your regular activities.",
-    "color_code": "#A7C2DB",
-    "timestamp": "2024-11-10 11:06:09"
+    "weather_report": "The afternoon in Boston unfolds with a gentle blessing of sunshine, painting the sky in a soft palette of blue and wispy clouds. The air whispers an invitation to step outside, where temperatures hover pleasantly around 57 degrees, kissed by a light southwest breeze that carries the earthy scent of autumn. As daylight begins to wane, the atmosphere teases the imminent change, with shadows lengthening and a chill creeping in as evening approaches.\n\nHowever, the serenity is poised for an abrupt transformation as rain is on the horizon, set to arrive after nightfall. Clouds gather their strength, promising a wet night with temperatures settling around 50 degrees, likely drenching the streets in a glossy sheen. It would be wise to wrap oneself in layers\u2014perhaps a comfortable sweater beneath a rain jacket, ensuring protection from the encroaching dampness. As the daylight fades and the clouds deepen, a quiet stroll or a leisurely coffee at a cozy caf\u00e9 might be the ideal way to appreciate the day's fading light before the rains begin. With the potential for less than gentle showers later, perhaps a visit to a local gallery or a contemplative read in the warmth of home would suit the mood as the evening unfolds.",
+    "color_code": "#A7C9E0",
+    "timestamp": "2024-11-10 15:06:21"
 }
