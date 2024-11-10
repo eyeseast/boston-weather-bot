@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-10T06:53:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 74.306858307595,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2024-11-10T14:53:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 25.815238204727,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-10T03:00:00-05:00",
-                "endTime": "2024-11-10T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 27. West wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2024-11-10T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-11-10T11:00:00-05:00",
                 "endTime": "2024-11-10T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 10 mph",
+                "windSpeed": "7 to 13 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 57. Southwest wind 3 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 57. Southwest wind 7 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-10T18:00:00-05:00",
+                "endTime": "2024-11-11T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,70?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely after 11pm. Cloudy, with a low around 52. Southwest wind around 12 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "The early hours in Boston unfold beneath a tranquil, mostly clear sky, where the chill of the night lingers, accompanied by a gentle westward breeze. As dawn nudges the horizon, the city awaits a promising day, one that invites both warmth and clarity. By midday, the sun will reveal itself, bathing the streets and parks in a glorious light, transforming the landscape into a canvas of mild hues. With a temperature expected to rise near fifty-seven, it feels like a vocal promise of pleasantness amidst the crispness, a moment where autumn steps back to allow a brief embrace of warmth.\n\nFor those venturing out, dressing in layers proves wise; a cozy sweater or light jacket will suffice for the morning chill, while a breathable long-sleeve shirt could usher one comfortably into the afternoon. As you navigate the avenues, consider strolling through the Public Garden or grabbing a hot cup of coffee from a favorite haunt, perhaps pairing it with a quiet moment by the banks of the Charles. There\u2019s an unmistakable contentment to be found in simply existing alongside the rhythm of the city.",
-    "color_code": "#C2C9D4",
-    "timestamp": "2024-11-10 03:07:23"
+    "weather_report": "In this quiet corner of Boston, a day drapes itself in soft hues of blue, with the sun occasionally peeking through patches of cloud, casting a gentle light over the city. As the morning unfolds, the temperature settles at a refreshing chill, hinting at the approaching warmth, yet a sweater or light jacket remains a reliable companion. It's a day that beckons with whispers of autumn's lingering touch, encouraging a stroll through the crisp air or perhaps a moment spent savoring a steaming cup of coffee in one of the city's inviting cafes.\n\nAs evening approaches, the charm of the day will shift. Cloud cover will gather, and the forecast predicts rain will weave its way into the fabric of the night, creating a cozy backdrop for a more subdued evening. The anticipated precipitation, though mild, urges you to embrace the comforts of home\u2014perhaps curling up with a good book or watching a film, while the rhythms of the rain accompany your quiet moments. Dress in layers to transition smoothly through the day to night, and let the changing weather inspire a reflective pause amidst your regular activities.",
+    "color_code": "#A7C2DB",
+    "timestamp": "2024-11-10 11:06:09"
 }
