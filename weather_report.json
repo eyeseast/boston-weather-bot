@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-11T06:53:00+00:00",
-            "temperature_f": 57.02,
-            "temperature_c": 13.9,
-            "humidity": 86.590548811883,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 180,
-            "description": "Light Rain"
+            "timestamp": "2024-11-11T14:53:00+00:00",
+            "temperature_f": 62.959999999999994,
+            "temperature_c": 17.2,
+            "humidity": 65.16088648828,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 240,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-11T03:00:00-05:00",
-                "endTime": "2024-11-11T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 60
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Cloudy, with a low around 50. Southwest wind around 13 mph, with gusts as high as 24 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Veterans Day",
-                "startTime": "2024-11-11T06:00:00-05:00",
+                "startTime": "2024-11-11T11:00:00-05:00",
                 "endTime": "2024-11-11T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": null
                 },
                 "windSpeed": "8 to 14 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/sct?size=medium",
-                "shortForecast": "Chance Light Rain then Mostly Sunny",
-                "detailedForecast": "A chance of rain before 7am. Mostly sunny. High near 66, with temperatures falling to around 60 in the afternoon. West wind 8 to 14 mph, with gusts as high as 28 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 66. West wind 8 to 14 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-11T18:00:00-05:00",
+                "endTime": "2024-11-12T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 45. West wind 6 to 14 mph."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, a cloak of clouds envelops the city, where the promise of rain lingers. The air feels cool, suggesting that those stepping outdoors should layer up for comfort\u2014perhaps a light jacket over a cozy sweater, a nod to the brisk southwest winds that dance around sixteen miles per hour. The early hours might see lingering rain, but the day is poised to break into patches of sun, with temperatures gently rising to a mild 66 degrees before dipping in the afternoon. \n\nThis Veterans Day invites a balance of contemplation and activity. With the chance of rain diminishing, consider a leisurely stroll through the parks, where fallen leaves carpet the ground, whispering secrets as autumn takes its final bow. A visit to a local caf\u00e9, perhaps to indulge in a warm cup of coffee while watching the world wake, seems fitting. The blend of clouds and sun offers a backdrop that feels both reflective and invigorating, perfect for enjoying Boston's vibrant pulse. The foliage may be past its peak, yet the city\u2019s spirit shines brightly, offering a day that balances the charm of an early fall with whispers of winter's approach.",
-    "color_code": "#5B5B5B",
-    "timestamp": "2024-11-11 03:08:55"
+    "weather_report": "In Boston this Veterans Day, the day unfurls with a gentle warmth under a mostly sunny sky, punctuated by the playful dance of clouds. A soft westward breeze lifts the chill of early morning, inviting residents to step outside and appreciate the crisp clarity of the air. The temperature climbs toward a pleasant high, encouraging leisurely strolls along the Charles River or afternoons spent sipping coffee from one of the many inviting cafes that frame the city\u2019s bustling streets.\n\nThis midday, as the clock ticks on, the sun bathes the landscape in a golden hue, light spilling between clouds, creating a canvas of evolving shadows. With the low settling in around forty-five this evening, those venturing out later might consider a light jacket to ward off the cooling air. Ideal attire would balance comfort and style\u2014perhaps a cozy sweater paired with well-fitted jeans, complemented with a light scarf for an added touch of warmth as dusk approaches. As for activities, it\u2019s a perfect day to explore local art galleries or to catch a live performance at a nearby venue, where the vibrant pulse of the city continues to resonate, harmonizing with the soft rustle of the remaining autumn leaves.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2024-11-11 11:07:16"
 }
