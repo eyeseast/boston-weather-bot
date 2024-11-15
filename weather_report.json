@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-15T05:53:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 77.648450049995,
+            "timestamp": "2024-11-15T10:53:00+00:00",
+            "temperature_f": 21.92,
+            "temperature_c": -5.6,
+            "humidity": 71.132633959784,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-15T03:00:00-05:00",
-                "endTime": "2024-11-15T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 26,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 26. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2024-11-15T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-11-15T07:00:00-05:00",
                 "endTime": "2024-11-15T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 55. Northwest wind 6 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-15T18:00:00-05:00",
+                "endTime": "2024-11-16T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 37,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 37. Northwest wind around 9 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "As the early morning hours settle over Boston, the city rests under a blanket of cloud cover, casting a muted light across the streets. The temperature hovers in the chill of the night, a brisk 26 degrees that hints at the imminent arrival of sunrise. The northwest wind whispers softly, barely stirring the air, yet enough to remind the mindful that warmth is a luxury soon to be claimed with the sun\u2019s ascent. \n\nCome Friday, a transformation awaits. The clouds will dissipate, yielding to a canvas of bright blue, and the day promises a refreshing high around 55 degrees. This shift in weather invites one to step outside, basking in not just sunlight, but also the gentle breeze stirring the leaves. For those venturing beyond their door, layering up will be wise; a cozy sweater under a light jacket will provide comfort against the morning chill while allowing for the embrace of warmer air as the day unfolds. With the promise of pleasant weather, activities such as wandering along the Charles River, exploring a hidden caf\u00e9, or stopping by local markets will prove delightful. A stroll to soak in the autumn hues, or simply enjoying a moment with a book at a nearby park, will foster a connection with the beauty enveloping this historic city as it awakens anew.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-11-15 03:08:57"
+    "weather_report": "As dawn breaks over Boston, a gentle clarity envelops the landscape, revealing a sunlit sky unmarred by clouds. The cool air\u2014tinged with the crispness of autumn\u2014is poised for the day ahead, inviting fresh breaths amid the invigorating breeze. With temperatures reaching the mid-fifties, the day promises warmth in the sun, buffered by a soothing northwest wind that rustles through the remaining leaves, reminding us of the season\u2019s transition.\n\nAs evening draws near, the sky will transition into a tapestry of softly swirling clouds against the shimmery backdrop of twilight. The temperatures will dip, urging a cozy embrace of layers as the chill sets in. One might consider donning a light jacket, perhaps accompanied by a scarf to ward off the brisk air while enjoying an evening stroll along the Charles River, watching as the city\u2019s vibrancy dims into softer undertones. Given the splendid clarity and pleasant temperatures, today is ripe for a leisurely walk through the city, perhaps stopping by a nearby caf\u00e9 for a warm drink, or visiting one of the myriad parks to relish the fading hues of autumn.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2024-11-15 07:10:59"
 }
