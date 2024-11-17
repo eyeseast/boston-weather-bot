@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-17T04:53:00+00:00",
+            "timestamp": "2024-11-17T08:53:00+00:00",
             "temperature_f": null,
             "temperature_c": null,
             "humidity": null,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-17T03:00:00-05:00",
-                "endTime": "2024-11-17T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 38. Northwest wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2024-11-17T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-11-17T07:00:00-05:00",
                 "endTime": "2024-11-17T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "6 to 10 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 60, with temperatures falling to around 54 in the afternoon. Northwest wind 6 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-17T18:00:00-05:00",
+                "endTime": "2024-11-18T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 39. Northwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the night deepens over Boston, the air is crisp and refreshingly cool, setting the stage for a bright Sunday. The morning light promises clarity and a gentle embrace of sunshine, with the day unfolding to reveal blues and golds reminiscent of late autumn. A touch of the northwest breeze carries whispers of a fleeting winter, nudging temperatures into the pleasant mid-fifties by afternoon, though they may dip slightly before resettling. This clear day invites the city\u2019s dwellers to step outside, wrapping themselves in light layers\u2014perhaps a snug sweater over a long-sleeve shirt, perfectly suited for those transitional moments between morning\u2019s chill and midday warmth.\n\nWith the sun climbing higher, the absence of fog enhances the serene allure of the skyline, inviting wanderers to explore the parks bathed in golden light or stroll along the historic avenues. It's a day made for simple indulgences: sipping coffee at a favorite caf\u00e9 while watching the world hurry by, or perhaps immersed in the vivid colors of seasonal markets. As one navigates the gentle maze of Boston\u2019s streets, there lies a festival of muted hues reflecting both the past and the story yet to unfold in the heart of this vibrant city.",
-    "color_code": "#BBA2D9",
-    "timestamp": "2024-11-17 03:07:56"
+    "weather_report": "As dawn breaks over Boston, the morning presents a serene clarity, with the sun rising to cast gentle hues across the sky. A refreshing breeze carries a hint of crispness, indicative of the shifting seasons. Today, the temperatures, nearing a modest 60 degrees, will gracefully descend to the low 50s by afternoon, courtesy of a northwest wind that whispers through the trees. The air lacks the dampness of fog, leaving a canvas of blue above where the day's activities can unfold in dry, pleasant comfort.\n\nAs the hours roll on, layers will become your ally. A light jacket or sweater will serve well against the cooling afternoon air, enhancing your comfort as you venture outside. Consider a leisurely stroll along the Charles River, or perhaps a quiet meander through one of the city's lovely parks, where the vivid fall foliage can still be savored. As evening approaches, the allure of a cozy caf\u00e9 beckons, a place to unwind in the glow of soft lights, perhaps with a warm drink in hand. Embrace this day of serene autumn beauty, where the lingering warmth of the sun dances with the chill of the approaching night.",
+    "color_code": "#A0C1E0",
+    "timestamp": "2024-11-17 07:09:41"
 }
