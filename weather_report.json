@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-17T13:53:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 23.866572857272,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 340,
+            "timestamp": "2024-11-17T23:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 170,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-11-17T11:00:00-05:00",
-                "endTime": "2024-11-17T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 to 10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 60, with temperatures falling to around 54 in the afternoon. Northwest wind 6 to 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-17T18:00:00-05:00",
+                "startTime": "2024-11-17T19:00:00-05:00",
                 "endTime": "2024-11-18T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 39,
@@ -49,14 +30,33 @@
                     "value": null
                 },
                 "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 39. West wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2024-11-18T06:00:00-05:00",
+                "endTime": "2024-11-18T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 39. Northwest wind around 6 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 60. Northwest wind 5 to 10 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, a crisp clarity envelops the landscape, celebrating a sun-drenched morning that invites exploration. The air carries a refreshing chill, veiling the city in a quiet vibrancy as the temperatures hover near sixty, only to settle into comfortable mid-fifties by the afternoon. There\u2019s a gentle northwest breeze, soft yet steady, whispering the promise of a pleasant day. The sun, high and unyielding, bathes the iconic skyline in illuminating warmth, creating an atmosphere that encourages both reflection and light-heartedness. \n\nAs the evening approaches, the sky will transition into a soft canvas of partly clouded hues, ushering in a more serene ambiance that beckons one to undertake gentle evening strolls through bustling neighborhoods or perhaps savor a moment at one of the local cafes, basking in the remnants of daylight. Dressing in layers would be prudent, with a light sweater and a jacket to embrace the coolness of the forthcoming night. The sublime balance of autumn's grace invites leisure, whether it's a quiet read in a park or a casual gathering with friends. Embrace this splendid day; it calls for simplicity amid beauty.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2024-11-17 11:06:27"
+    "weather_report": "As evening descends over Boston, the city is enveloped in a subtle veil of clouds, forming a cool backdrop to the glittering lights of the skyline. The air holds a crispness that nudges the temperature down to a low around 39 degrees, while a gentle western breeze whispers through the streets, adding a delicate chill. There\u2019s a calmness to the night, a serene clarity punctuated by the warmth of illuminated buildings that stand as sentinels against the darkness. \n\nTomorrow promises a bright transition, greeting the early risers with mostly sunny skies and temperatures creeping toward the inviting touch of 60 degrees. A northwest wind will dance playfully, delivering gusts that remind us of the autumn air that lingers just a bit longer, urging us to embrace layers. As you step outside, consider donning a light sweater or jacket, perhaps with a scarf to wrap against the wind\u2019s playful nips. With the pleasant weather unfolding, tomorrow is perfect for a leisurely stroll through the city\u2019s winding streets, perhaps stopping by a quiet caf\u00e9 to savor a warm drink while watching the world awaken. Engage in a book at a park, marvel at the golden hues of late autumn, or simply take time to immerse in the soft conversations of the bustling neighborhood.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2024-11-17 19:30:05"
 }
