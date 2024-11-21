@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-21T06:25:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 85.913626837241,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2024-11-21T10:53:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 86.090017231195,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 70,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-21T03:00:00-05:00",
-                "endTime": "2024-11-21T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 4am. Cloudy, with a low around 43. Northeast wind around 12 mph. Chance of precipitation is 40%."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2024-11-21T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-11-21T07:00:00-05:00",
                 "endTime": "2024-11-21T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "13 to 18 mph",
+                "windSpeed": "12 to 17 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/rain,80/rain,90?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 51. Northeast wind 12 to 17 mph, with gusts as high as 30 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-21T18:00:00-05:00",
+                "endTime": "2024-11-22T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "12 to 20 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,90/rain,60?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "Rain likely before 9am, then rain and patchy fog. Cloudy, with a high near 51. Northeast wind 13 to 18 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+                "detailedForecast": "Rain. Mostly cloudy, with a low around 39. Southeast wind 12 to 20 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night deepens over Boston, a gentle murmur of rain begins to whisper against the rooftops, heralding a change in the air. With the temperature dipping around 43 degrees, a chill settles in, and the northeast wind carries a crispness that wraps the city in a cool embrace. There\u2019s a tentative promise of dawn\u2014cloudy skies heavy with moisture are a harbinger of the rain likely to drench the morning. The fog, creeping quietly from the harbor, blurs the edges of familiar sights and draws a veil over the details, adding a touch of mystery to the night.\n\nAs you wake to this cool, wet Thursday, prepare for a day best spent indoors or dressed for comfort against the chill. With rain likely cascading from the grey clouds overhead and the chance of visibility reduced by patchy fog, a good, sturdy coat and waterproof footwear will serve you well. Nestle into a favorite caf\u00e9, perhaps, where the aroma of freshly brewed coffee mingles with the sound of soft music\u2014the perfect backdrop for catching up on reading or quietly reflecting. Alternatively, consider visiting a local museum, where the warmth and rich history can be an inviting escape from the dampness outside. On a day like this, Boston transforms into a haven of cozy activities, where the mundane is tinged with the beauty of quiet moments.",
-    "color_code": "#4A4A4A",
-    "timestamp": "2024-11-21 03:09:03"
+    "weather_report": "In Boston, the morning unfolds under a shroud of rain and overcast skies, where the air feels as though it is imbued with the heavy essence of impending storms. A gentle but relentless northeast wind carries the scent of damp earth and fallen leaves, the whispers of a chill that nips at the skin. As the day progresses, expect the rain to persist, drenching the streets and softening the sounds of the city. With the clouds hanging low, visibility dims, offering a somewhat moody backdrop to the morning commute, rendering the world muted in shades of gray. \n\nFor those venturing out, a sturdy umbrella and a warm, waterproof jacket will serve as faithful companions. The prevailing wetness combined with cooler temperatures invites reflective moments indoors, perhaps with a good book to savor while listening to the rain dance against the windowpanes. A cozy caf\u00e9 with a steaming cup of coffee could provide solace as the landscape outside remains drenched and dramatic. As evening approaches, the rain will continue, accompanied by gusty winds, perfect for snuggling in or enjoying a leisurely evening with friends, sharing stories of the storm's caprices.",
+    "color_code": "#A3B3C5",
+    "timestamp": "2024-11-21 07:11:10"
 }
