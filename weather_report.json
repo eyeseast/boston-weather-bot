@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-22T06:33:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 86.141284587185,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 80,
-            "description": ""
+            "timestamp": "2024-11-22T12:53:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 79.552255325388,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 150,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-22T03:00:00-05:00",
-                "endTime": "2024-11-22T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 40,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "13 to 17 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain and patchy fog. Mostly cloudy, with a low around 40. South wind 13 to 17 mph, with gusts as high as 32 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2024-11-22T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-11-22T11:00:00-05:00",
                 "endTime": "2024-11-22T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 52,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 40
                 },
-                "windSpeed": "7 to 14 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Mostly cloudy, with a high near 52. Southeast wind 7 to 14 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Partly sunny. High near 52, with temperatures falling to around 46 in the afternoon. Southeast wind 10 to 15 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-22T18:00:00-05:00",
+                "endTime": "2024-11-23T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,80/rain,70?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "A chance of rain showers before 7pm, then rain and patchy fog. Cloudy, with a low around 38. Northeast wind 7 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In the quiet hours before dawn, Boston clings to a blanket of muted darkness, the streets shrouded in patchy fog that swathes the city in a ghostly embrace. As the winds whisper softly through the trees, a South breeze stirs, promising to awaken the day with a certain chill. Temperatures linger near the 40-degree mark, hinting at coolness that lingers in the air long past the light of day. The clouds overhead, thick and brooding, carry the promise of rain, their somber hue suggesting a day that might not lift.\n\nAs the clock ticks onward, the prospect for Friday materializes as one of layered clouds and intermittent showers. The looming possibility of rain as temperatures reach the low 50s suggests a day best spent indoors. Should you venture out, wrap yourself in a warm, water-resistant coat and a soft scarf, allowing the day's dampness not to dampen your spirit. With visibility diminished, perhaps consider a tranquil morning stroll through Boston\u2019s charming neighborhoods, where the patter of raindrops on leaves forms a delightful soundtrack, or dive into the welcoming warmth of a local caf\u00e9, savoring a comforting beverage as you watch the world awaken, each drop of rain a reminder of nature\u2019s quiet rhythm.",
-    "color_code": "#4B4D3E",
-    "timestamp": "2024-11-22 03:09:03"
+    "weather_report": "As the morning unfolds in Boston, the atmosphere reveals a tapestry of shifting clouds, hinting at the dynamic weather awaiting the city. A cool breeze stirs, bringing with it a mosaic of sunlit patches interspersed with the promise of rain. The temperature, straddling the edge of comfort, is set to dip to a brisk 46 degrees later today as chilly winds sweep in from the southeast, a reminder of the transitioning seasons. While the sun plays peekaboo amidst the clouds, the ominous rain showers linger on the horizon, hinting at a more enveloping gloom as evening approaches.\n\nDressing for the day calls for layers\u2014perhaps a warm sweater beneath a waterproof coat to brave both the cool temperatures and the impending moisture. As rain and patchy fog settle in later, one's plans might adjust to indoor pleasures: perhaps losing oneself in a gripping novel at a cozy caf\u00e9, or exploring the local art scene with the comforting aroma of coffee guiding the way. The combination of sporadic rain and cool air creates a scene ripe for introspection, making it a perfect day to indulge in quiet enjoyment, taking time to savor the little moments amidst nature's whispers of change.",
+    "color_code": "#B0C4E3",
+    "timestamp": "2024-11-22 11:07:32"
 }
