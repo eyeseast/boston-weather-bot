@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-21T19:16:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 86.090017231195,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 50,
-            "description": "Rain and Fog/Mist"
+            "timestamp": "2024-11-22T03:12:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 83.239115566642,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 80,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-21T15:00:00-05:00",
-                "endTime": "2024-11-21T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy, with a high near 48. Northeast wind around 16 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-21T18:00:00-05:00",
+                "startTime": "2024-11-21T23:00:00-05:00",
                 "endTime": "2024-11-22T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -49,14 +30,33 @@
                     "value": 100
                 },
                 "windSpeed": "13 to 20 mph",
-                "windDirection": "E",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy, with a low around 40. East wind 13 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain and patchy fog. Mostly cloudy, with a low around 40. Southeast wind 13 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-11-22T06:00:00-05:00",
+                "endTime": "2024-11-22T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,70?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Mostly cloudy, with a high near 52. Southeast wind 7 to 14 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In the heart of Boston this afternoon, a shroud of gray envelops the city as rain steadily falls, intermingled with patches of fog that wrap around buildings like a soft, damp embrace. With temperatures lingering in the mid-forties, the air carries a chill, made brisker by a northeast wind that makes the droplets dance across any exposed skin. The forecast promises not just this persistent rain, but the likelihood of heavier downpours continuing into the evening. Visibility is notably reduced, suggesting that outdoor adventures might be met with more challenge than delight.\n\nGiven the conditions, a sensible wardrobe is essential. One would do well to bundle up in a waterproof jacket, perhaps an umbrella at the ready, and sturdy footwear to navigate the slick streets. The day's mood leans toward reflection; a cozy caf\u00e9 visit, indulging in a warm drink while watching the rain create patterns against the window, would suit this atmosphere perfectly. Alternatively, a leisurely stroll through sheltered underpasses or quiet galleries might provide both solace and inspiration as the world becomes a faint echo, softened by the fog.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2024-11-21 15:07:28"
+    "weather_report": "As the night deepens in Boston, the atmosphere wraps the city in a cloak of moisture and muted light. Rain falls steadily, accompanied by the whisper of patchy fog that drifts lazily through the streets. The air is cool, brushing against your skin with the kind of chill that hints at the waning season, encouraging an embrace of cozy layers. Tomorrow beckons with more rain likely, the clouds continuing their gray embrace, shrouding the city in a delicate mist. A high near 52 Fahrenheit should offer some relief from the night\u2019s chill, but with a southeast wind stirring at 7 to 14 mph, one might feel a lingering dampness in the air.\n\nTonight, consider wrapping yourself in a warm, well-worn coat, perhaps with a scarf that brings to mind the gentle comfort of home. A sensible pair of waterproof shoes will ensure you navigate the puddled streets without a care. Tomorrow may bring further dreariness, yet it\u2019s an invitation to indulge in quiet pursuits\u2014perhaps finding a lovely caf\u00e9 with warm drinks, or weaving through the nearly deserted parks, where drops of rain create ripples in the stillness. In this atmospheric setting, there is beauty in the quietude, a reminder that even on the gloomiest of days, the city's charm persists beneath the surface gloom.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2024-11-21 23:08:18"
 }
