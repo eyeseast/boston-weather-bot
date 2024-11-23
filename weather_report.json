@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T06:53:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 85.913626837241,
-            "wind_speed_mph": 12.0798,
+            "timestamp": "2024-11-23T14:21:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 82.248266054167,
+            "wind_speed_mph": 41.07132,
             "wind_direction": 320,
-            "description": "Rain and Fog/Mist"
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-23T03:00:00-05:00",
-                "endTime": "2024-11-23T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-11-23T11:00:00-05:00",
+                "endTime": "2024-11-23T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "16 to 20 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely before 5pm. Cloudy, with a high near 47. Northwest wind 16 to 20 mph, with gusts as high as 44 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-23T18:00:00-05:00",
+                "endTime": "2024-11-24T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 39,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 90
+                    "value": null
                 },
-                "windSpeed": "10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy, with a low around 39. Northwest wind around 10 mph, with gusts as high as 23 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2024-11-23T06:00:00-05:00",
-                "endTime": "2024-11-23T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 90
-                },
-                "windSpeed": "12 to 21 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,90/rain,70?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain before 8am, then rain and patchy fog. Cloudy, with a high near 46. Northwest wind 12 to 21 mph, with gusts as high as 40 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "windSpeed": "14 to 18 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 39. West wind 14 to 18 mph, with gusts as high as 36 mph."
             }
         ]
     },
-    "weather_report": "As the glimmer of dawn approaches, Boston lies under a quilt of clouds, the rain softly murmuring against window panes, a reminder of the lingering chill. The atmosphere is damp, with a pervasive grayness that dulls the light and dampens spirits. If one were to step outside, the brisk northwest winds would whip against one\u2019s cheeks, urging the shivering masses to wrap themselves in layers\u2014a sturdy coat, perhaps a knitted scarf, and waterproof boots for the evening squalls that will persist into the early daylight. \n\nToday promises a day heavier with rain, as the morning precipitation will continue, accompanied by the elusive dance of fog, which will weave through the city streets. Despite the somber tones of the sky, there\u2019s an intimacy to be found in such weather. It offers a perfect backdrop for joining friends in a warm caf\u00e9, sharing stories over steaming cups of coffee, or perhaps finding refuge in the pages of a well-loved book. For those who may venture out, a brisk walk through muted parks, while listening to the soft patter of rain against the leaves, could provide a serene escape from the ordinary hustle and bustle, showcasing the beauty of a city caught in a melancholic embrace with the elements.",
-    "color_code": "#5B5C52",
-    "timestamp": "2024-11-23 03:07:56"
+    "weather_report": "The day in Boston unfolds under a muted sky, where rain hovers just before making its entrance, teasing with a likelihood that fills the air with a sense of dampness. The clouds hang low, a gray blanket enveloping the city, casting a cool, subdued light over the bustling streets. With the temperature barely scraping 47 degrees, the northwest winds whip through with a brisk intensity, adding a sharp bite that cuts through any lingering warmth. It\u2019s a day not for the faint-hearted but for those who find a certain charm in the solemn murmur of rain against rooftops and the rhythmic sound of boots on wet sidewalks.\n\nAs evening approaches, the clouds may partly part, revealing a glimpse of stillness under a low, churning sky. The temperature is expected to drop to a slightly brisk 39 degrees, so it would be wise to don layers\u2014perhaps a sturdy coat paired with a warm scarf, comfortable yet resilient against the chill. Those looking to escape the darkened outlines of the horizon might find joy in cozy nooks, perfect for savoring the rich notes of a warm beverage, or perhaps visiting a local gallery where the art can shine amidst the dreariness outside, transforming the day\u2019s gloom into a profound appreciation for the warmth of creativity.",
+    "color_code": "#A5A8A4",
+    "timestamp": "2024-11-23 11:06:26"
 }
