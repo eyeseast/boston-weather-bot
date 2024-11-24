@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-23T15:53:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 82.248266054167,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 310,
-            "description": "Light Rain"
+            "timestamp": "2024-11-23T23:53:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 62.58483935326,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 300,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-23T15:00:00-05:00",
-                "endTime": "2024-11-23T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain before 5pm. Mostly cloudy, with a high near 47. Northwest wind around 18 mph, with gusts as high as 40 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-23T18:00:00-05:00",
+                "startTime": "2024-11-23T19:00:00-05:00",
                 "endTime": "2024-11-24T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 39,
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 39. West wind 14 to 17 mph, with gusts as high as 36 mph."
+                "detailedForecast": "Partly cloudy, with a low around 39. West wind 14 to 17 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2024-11-24T06:00:00-05:00",
+                "endTime": "2024-11-24T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "14 to 17 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 50. West wind 14 to 17 mph, with gusts as high as 36 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon drapes itself over Boston, a muted palette prevails, with clouds thickening the sky in a gentle embrace. A chill lingers in the air, with gusts of wind weaving through the streets, rustling leaves and sending a shiver through those unprepared for the briskness. While a trace of rain may have lingered earlier, the clouds maintain their dominance without much promise of sun. The atmosphere feels dynamic, alive with the energy of transition, yet tinged with the dampness that begs for a warm cup \u2013 perhaps a rich coffee or spiced tea.\n\nAs day fades to evening, the temperature will slip further into the cool embrace of the season. Tonight brings a mix of partial clouds with a persistent breeze, creating a backdrop perfect for cozying up indoors or enjoying a brisk walk clad in layers. A light jacket or sweater will provide comfort against the creeping chill. The biting wind may discourage prolonged stays outside, but it offers an invigorating backdrop for simple errands or a leisurely stroll along the Charles, where the reflections on the water mirror the dynamic clouds above. This weather paints a scene that invites a quiet appreciation for the beauty in a brisk, autumn day while hinting at the comforts of a warm home waiting at day's end.",
-    "color_code": "#A9B6B4",
-    "timestamp": "2024-11-23 15:06:37"
+    "weather_report": "As the evening settles over Boston, a cool breeze dances through the streets, carrying the unmistakable crispness that heralds the onset of late autumn. The temperature is gently dipping towards 39 degrees, while the western winds, bold at 14 to 17 mph, seem to weave a tapestry of shifting shadows around the city's skyline. The sky, partly cloaked by whispers of clouds, casts a mild yet contemplative mood, perfect for those seeking solace after a long day. There\u2019s a definite chill in the air, urging residents to wrap themselves in warmth\u2014perhaps a sturdy jacket or a favorite scarf to guard against the brisk gusts.\n\nLooking ahead, Sunday promises a brighter disposition as the sun takes center stage, chasing away the remnants of the night's chill. With a high near 50, it's an ideal canvas for a day outdoors, perhaps exploring the Boston Common or savoring a leisurely stroll along the Charles River. The winds may remain a dynamic companion, gusting up to 36 mph, yet they carry with them the invigorating essence of the season, inviting the adventurous spirit to step outside. Given the day's splendid potential and the early dusk that accompanies this November night, it might be a fine time to enjoy a quiet walk, entwined in the soft glow of street lights, amidst the quiet audience of nature.",
+    "color_code": "#5B6B8A",
+    "timestamp": "2024-11-23 19:31:09"
 }
