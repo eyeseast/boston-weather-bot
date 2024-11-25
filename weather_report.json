@@ -7,20 +7,39 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T06:53:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 61.374450766375,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 270,
+            "timestamp": "2024-11-25T10:53:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 58.385080368741,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 260,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-25T03:00:00-05:00",
-                "endTime": "2024-11-25T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-11-25T07:00:00-05:00",
+                "endTime": "2024-11-25T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 50. West wind 6 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-25T18:00:00-05:00",
+                "endTime": "2024-11-26T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 33,
                 "temperatureUnit": "F",
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 33. West wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2024-11-25T06:00:00-05:00",
-                "endTime": "2024-11-25T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 51. West wind 5 to 10 mph."
+                "windSpeed": "1 to 5 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 33. Southwest wind 1 to 5 mph."
             }
         ]
     },
-    "weather_report": "As the dawn approaches over Boston, the quiet night is a canvas painted in deep blues and blacks, with the city\u2019s lights twinkling like distant stars. Crisp air whispers through the trees, hinting at the chill that accompanies a low falling around 33 degrees. By morning, the sun will rise to grace us with a clear day bathed in golden warmth, as it steadily climbs to a comfortable high near 51. The gentle west wind, a companion throughout the day, will add a playful layer to the serene atmosphere, inviting residents to reclaim the outdoors.\n\nWith this enticing promise of sunshine, one might choose to layer up in cozy sweaters or light jackets that can be peeled off as warmth envelopes the day. Casual strolls along the Esplanade, perhaps a visit to a quaint caf\u00e9, or simply lounging with a favorite book in a sunlit corner of a local park could make for delightful ways to enjoy the day. The clear skies set a tone of simplicity and peace, ideal for those moments of reflection, keeping the pace unhurried as Sunday unfolds gently.",
-    "color_code": "#003366",
-    "timestamp": "2024-11-25 03:09:32"
+    "weather_report": "A crisp morning blankets Boston, where the sun peeks through a clear, blue expanse, casting a serene glow over the skyline. The gentle west wind whispers through the streets, adding a refreshing touch to the air, as the temperature hovers around the fifty-degree mark. Tonight promises a peaceful transition into cooler temperatures, with the sky remaining mostly clear, inviting a soothing calmness that contrasts sharply with the usual bustle of the city.\n\nToday is well-suited for a leisurely stroll along the Charles River or a quiet moment in one of Boston\u2019s many parks, where the golden hues of autumn persist in the trees, beckoning those seeking respite in nature. As the day unfolds, a light jacket will serve as a perfect companion, ensuring warmth against the cool breeze, while layers beneath will keep you comfortable. The tranquility of this day offers a perfect backdrop for simple pleasures: perhaps a visit to a caf\u00e9 for a warm drink, or a quiet afternoon spent reading in a sunlit nook. Embrace the gentle beauty of this day, finding joy in the unremarkable moments that Boston has to offer.",
+    "color_code": "#B2C3D4",
+    "timestamp": "2024-11-25 07:11:29"
 }
