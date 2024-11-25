@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-24T18:53:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 33.061975175318,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Clear"
+            "timestamp": "2024-11-25T02:53:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 48.725352388491,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 280,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-24T15:00:00-05:00",
-                "endTime": "2024-11-24T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 48. West wind around 16 mph, with gusts as high as 33 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-24T18:00:00-05:00",
+                "startTime": "2024-11-24T23:00:00-05:00",
                 "endTime": "2024-11-25T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 14 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 33. West wind 10 to 14 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 33. West wind around 10 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2024-11-25T06:00:00-05:00",
+                "endTime": "2024-11-25T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 51. West wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "Boston is basking in the gentle embrace of a sunny afternoon, the radiance of the day's light painting the skyline in hues of blue and gold. The air, brisk and invigorating, carries with it a whisper of energy, courtesy of a steady westward breeze. While the temperature hovers near 48 degrees, the gusts reach for the high thirties, adding an edge to the atmosphere that suggests a delightful chill rather than discomfort. This hint of winter invigorates the spirit, beckoning locals to don their softest sweaters and scarves, perhaps with a flawed yet charming knit pattern that speaks of cozy firesides and shared laughter.\n\nAs the sun dips towards the horizon, the clarity of the evening will provide a picturesque backdrop for leisurely strolls along the waterfront. The forecast reveals a calm night ahead, with temperatures settling around a crisp 33 degrees. Tonight, the appeal lies in the clean, vast expanse of a mostly clear sky, inviting souls out from their homes to gaze at the stars without interference. For those comfortable with the cool air, an evening walk to savor the quiet charm of the city might just be the perfect remedy for the day\u2019s hustle. Or perhaps, consider curling up in a favorite caf\u00e9, hands cradling a warm cup, while the world outside begins to settle into its tranquil nocturne.",
-    "color_code": "#A2C2E0",
-    "timestamp": "2024-11-24 15:06:45"
+    "weather_report": "As the night leans into its deeper hours, Boston rests under a blanket of crisp clarity, the air fresh and invigorating. With temperatures dipping to around 33 degrees, a gentle wind whispers through the city, playfully tugging at clothing, urging you to wrap up warmly. The serene quiet of the nighttime landscape offers a tranquil elegance, perhaps prompting a midnight stroll to take in the shimmering lights of the skyline, with the faintest chill invigorating the spirit.\n\nAs dawn breaks, the promise of a sunny day unfolds, forecasted to greet the morning with clear blue skies and a high reaching toward 51 degrees. The gentle, westward breeze will continue, a companion that keeps the air lively but not overwhelming. It is a day that beckons outdoor pursuits\u2014perhaps a leisurely walk along the Charles River or a visit to a local caf\u00e9 where the warmth and aroma of fresh coffee invite reflection or conversation. Dress in layers; a knit scarf and a good coat will serve you well against the lingering chill of the morning, while a lighter ensemble will suffice as the sun ascends and bathes the city in comforting warmth. This day holds simple pleasures, an opportunity to enjoy the beauty of a late November in Boston.",
+    "color_code": "#1F3A3A",
+    "timestamp": "2024-11-24 23:08:30"
 }
