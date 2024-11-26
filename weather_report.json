@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-25T18:53:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 34.920071104525,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 300,
-            "description": "Clear"
+            "timestamp": "2024-11-25T22:53:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 49.040056032403,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-25T15:00:00-05:00",
-                "endTime": "2024-11-25T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 to 9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 50. West wind 6 to 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-25T18:00:00-05:00",
+                "startTime": "2024-11-25T19:00:00-05:00",
                 "endTime": "2024-11-26T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 33. Southwest wind 1 to 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2024-11-26T06:00:00-05:00",
+                "endTime": "2024-11-26T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "2 to 9 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain likely between 8am and 11am, then rain and patchy fog between 11am and 5pm. Cloudy, with a high near 50. South wind 2 to 9 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the atmosphere greets you with a refreshing brightness. With the sun radiating its soft warmth, temperatures hover near a pleasant 50 degrees, while a gentle west wind carries traces of autumn's fading breath. The sky stretches in an expansive blue canvas, unmarred by clouds, beckoning those who might venture outdoors. As daylight wanes into evening, temperatures will dip to about 33, ushering in a gentle chill that hints at the approaching winter. The southwest winds will calm, whispering subtle reminders of the season's change.\n\nFor today\u2019s expedition, one might choose light layers\u2014perhaps a comfortable sweater beneath a well-fitted jacket\u2014as the day stands poised between the lingering warmth of fall and the crispness of impending winter. It\u2019s an ideal moment for unwinding at a local caf\u00e9, savoring the rich aroma of hot coffee while gazing out at the unfolding season. Alternatively, a leisurely stroll through the quiet streets, where the remnants of autumn foliage cling to the trees and rustle gently underfoot, offers a serene escape. Embrace the gentle embrace of this splendid day, for soon enough, the deeper chill will command its presence.",
-    "color_code": "#AED6F1",
-    "timestamp": "2024-11-25 15:07:24"
+    "weather_report": "As twilight descends upon Boston, the atmosphere bears a chilly embrace, hinting at the colder hours of the night ahead. Currently, the sky is cloaked in a subtle shroud, with the bright lights of the city flickering against the dark canvas, providing a warm contrast to the drop in temperature, which lingers near the low thirties. The gentle southwest breeze barely stirs, carrying whispers of what lies ahead\u2014a rain-soaked Tuesday that approaches with a resolute certainty.\n\nTomorrow invites the inevitable rain, with clouds thickening as the daylight struggles to break through. As the city awakens to the rhythmic dance of drops on rooftops, the day will unfurl under an overcast blanket. For those navigating this damp backdrop, a sturdy umbrella and a water-resistant coat will serve as wise companions. While the forecast calls for humidity and potential fog, seeking the warmth of a cozy caf\u00e9 or the solace of a good book indoors may provide the perfect balm against the dreariness of the day. Embrace the understated charm of a rainy afternoon; perhaps the hum of the city\u2019s heartbeat can be best felt amidst its embrace.",
+    "color_code": "#4B5563",
+    "timestamp": "2024-11-25 19:28:56"
 }
