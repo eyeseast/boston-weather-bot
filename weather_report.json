@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-26T06:53:00+00:00",
-            "temperature_f": 26.060000000000002,
-            "temperature_c": -3.3,
-            "humidity": 88.020159269446,
+            "timestamp": "2024-11-26T10:53:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 85.061084990212,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-26T03:00:00-05:00",
-                "endTime": "2024-11-26T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 32,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 32. South wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2024-11-26T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-11-26T07:00:00-05:00",
                 "endTime": "2024-11-26T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 50,
@@ -52,11 +33,30 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,100?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers between 7am and 11am, then rain showers and patchy fog between 11am and 5pm. Mostly cloudy, with a high near 50. Southeast wind 2 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain showers likely between 9am and 11am, then rain showers and patchy fog between 11am and 5pm. Mostly cloudy, with a high near 50. Southeast wind 2 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-26T18:00:00-05:00",
+                "endTime": "2024-11-27T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 34,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 34. West wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "As the night clings to Boston, a quiet anticipation lingers in the air, foreshadowing the rain-soaked day ahead. Current conditions offer a hint of chill, with temperatures drifting down to around 32 degrees, encouraging cozy layers and perhaps a steaming cup of something warm. As dawn approaches, the promise of vibrant rain showers emerges, set to commence around the gentle stirrings of morning. By daybreak, the sky will bear a heavy shroud of clouds, releasing rain and leaving the air thick with a patchy fog that might blur the edges of the familiar skyline.\n\nThis Tuesday, Boston will be wrapped in a damp embrace, making it a day best suited for those who find comfort in the indoors. With the temperatures hovering around the brisk mid-50s, it may be wise to don a waterproof jacket, perhaps paired with sturdy shoes, to navigate the wet streets with ease. Should you find the spirit to venture out, consider visiting a local caf\u00e9 to enjoy a moment of quiet nestled away from the rain, or perhaps indulge in a leisurely stroll through an art gallery, where the colors inside stand vibrant against the muted tones of the outside. While it may not present as the sunniest of days, there is a certain charm to the coziness found on a drizzly afternoon.",
-    "color_code": "#A6B2C6",
-    "timestamp": "2024-11-26 03:09:13"
+    "weather_report": "As dawn breaks over Boston, a veil of clouds holds dominion, shrouding the city in a soft grayness. The air is thick with the promise of rain, the moisture hanging palpably, portending the arrival of sporadic showers that will grace the morning hours. By mid-morning, expect a gentle but persistent patter to accompany you as you navigate through your day, with the potential for patchy fog adding a touch of mystery to the brisk atmosphere. The temperature hovers in the low fifties, encouraging you to don a warm coat, perhaps accompanied by a scarf to fend off the cool southeast breeze that whispers through the streets.\n\nAs daylight wanes into the evening, a transition is in store, bringing clarity and calm as the clouds disperse to unveil a mostly clear sky. The chill will deepen, making a cozy evening indoors with a warm beverage a splendid choice. Tonight, the temperatures will dip into the thirties, creating an embrace of warmth necessary for your well-deserved respite after a day of muted encounters with the elements. Consider wrapping up in a soft sweater or snuggling up with a good book, allowing the hustle of the day to melt away as the crisp night envelops you.",
+    "color_code": "#A3B8C7",
+    "timestamp": "2024-11-26 07:11:23"
 }
