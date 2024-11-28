@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T06:53:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 85.253168149775,
+            "timestamp": "2024-11-28T10:53:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 85.441682739594,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Cloudy"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-28T03:00:00-05:00",
-                "endTime": "2024-11-28T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 34,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 34. South wind around 2 mph."
-            },
-            {
-                "number": 2,
                 "name": "Thanksgiving Day",
-                "startTime": "2024-11-28T06:00:00-05:00",
+                "startTime": "2024-11-28T07:00:00-05:00",
                 "endTime": "2024-11-28T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 47,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "2 to 10 mph",
+                "windSpeed": "3 to 10 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/rain,90/rain,100?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "A slight chance of rain between 7am and 9am, then rain and patchy fog. Cloudy, with a high near 47. East wind 2 to 10 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain. Cloudy, with a high near 47. East wind 3 to 10 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-28T18:00:00-05:00",
+                "endTime": "2024-11-29T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 34,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain,40/bkn?size=medium",
+                "shortForecast": "Chance Light Rain then Mostly Cloudy",
+                "detailedForecast": "A chance of rain before 10pm. Mostly cloudy, with a low around 34. West wind 7 to 12 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night envelops Boston, a cloak of cloudiness settles over the city, announcing a cooler night with temperatures dipping to around 34 degrees. The gentle south wind sighs softly, whispering of a needed respite that will soon give way to the day's chill. As dawn approaches, anticipation builds for Thanksgiving Day, which promises a tapestry of rain accompanied by patches of fog that will dance through the streets. A steady embrace of clouds hangs above, hinting at a high of 47 degrees\u2014a texture of grey that might seem dreary yet holds the potential for a cozy, reflective day.\n\nConsider dressing warmly; layers will be your steadfast companion as you traverse the day. A sturdy jacket, perhaps a soft scarf, and a pair of comfortable boots should suffice as you prepare for the rain, which is nearly certain to grace the morning hours. As the fog rolls in, obscuring the familiar skyline, it invites you to explore the quieter corners of the city or perhaps linger at a favorite caf\u00e9, savoring the rich aroma of freshly brewed coffee. It\u2019s a day not meant for grand pursuits but rather for intimate gatherings and tranquil moments, where the soft symphony of rain might encourage a good book or an unhurried conversation with a friend. So content yourself in the simple joys that this weather brings, wrapped in warmth both from your attire and the company you choose to keep.",
-    "color_code": "#A8A1A4",
-    "timestamp": "2024-11-28 03:09:20"
+    "weather_report": "In Boston this morning, the atmosphere hangs thick with a damp fog, the skies draped in gray, hinting at rain that quietly lingers in the air. The day, barely awake, carries an unmistakable chill, with a muted light filtering through the clouds, casting a subdued glow over the city. As you prepare for your day, consider layering up\u2014a warm coat draped over a light sweater will serve you well against the brisk east wind, which promises to whip around you with occasional gusts.\n\nAs the day unfolds, the chance of rain transforms from a whisper to a promise, likely drenching the streets before evening settles in. Despite the dampness, there\u2019s a kind of beauty to the misty landscape, beckoning one to stroll through the historic cobblestone paths that define the city. If it\u2019s not too drizzly, an early afternoon visit to a cozy caf\u00e9 might just be the remedy for a day like this, where the warmth of a hot beverage can be savored while watching the world beyond the window work its way through a likely dreary day. Embrace the tranquility this weather brings, perfect for moments that call for reflection or quiet conversation.",
+    "color_code": "#A0A8B4",
+    "timestamp": "2024-11-28 07:11:19"
 }
