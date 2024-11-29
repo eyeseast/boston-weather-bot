@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T06:53:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 67.236128296999,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Partly Cloudy"
+            "timestamp": "2024-11-29T10:53:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 75.407684600098,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 250,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-11-29T03:00:00-05:00",
-                "endTime": "2024-11-29T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 34,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 34. West wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2024-11-29T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-11-29T07:00:00-05:00",
                 "endTime": "2024-11-29T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "6 to 10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 45. West wind 6 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 45. West wind 6 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-11-29T18:00:00-05:00",
+                "endTime": "2024-11-30T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 28,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 28. West wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the city of Boston rests beneath a canopy of darkness, a pleasant stillness envelops the night, marked only by the distant twinkle of lights softly illuminating the Boston skyline. The air, crisp and invigorating, whispers of an approaching dawn that promises clarity and a touch of sunshine. With temperatures settling around a cool thirty-four degrees, a gentle breeze from the west adds a playful chill, beckoning for the comfort of a warm coat or a cozy scarf.\n\nCome Friday, the sun will rise and sweep away the remnants of night, giving way to a bright and sunny day with temperatures inching up to a modest forty-five degrees. This gentle warmth will feel refreshing against the backdrop of clear blue skies. It is a day that invites you outdoors, whether for a leisurely stroll through Boston Common, where the early light dances on the dewy grass, or perhaps an unhurried visit to a local caf\u00e9, where the aroma of freshly brewed coffee fills the air. Dress in layers, allowing for the cool early morning and the mild afternoon; don a sturdy jacket and perhaps a knitted hat to ward off the briskness of the day. For today\u2019s adventures, seek solace in the rhythm of a quiet city coming to life, where the mundane becomes a delightful tapestry of moments shared under the brightening sky.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2024-11-29 03:09:07"
+    "weather_report": "As dawn breaks softly over Boston, the air carries a crispness that speaks to the transition of the season. The sun\u2019s early rays scatter across a canvas of pale blue, illuminating the skyline with a gentle warmth while hinting at the chill still lingering in the atmosphere. At 45 degrees, today\u2019s weather offers a mostly sunny disposition, an invitation to step outside, breathe deeply, and appreciate the clarity that accompanies this November day. A light west wind stirs, promising to lift spirits while keeping the air refreshingly cool.\n\nAs the day unfolds, the forecast indicates a shift into a partly cloudy evening, with temperatures dipping toward 28 degrees. It is a day where layers are advisable; a cozy sweater, perhaps a scarf, combined with a sturdy coat would be perfect to ward off the encroaching cold as night approaches. The lack of fog suggests visibility is excellent, making it a wonderful opportunity to explore the local parks\u2014perhaps a stroll along the Charles River or visiting the vibrant twists of the city\u2019s streets, each corner offering new sights and sounds. In this season where the days are shorter, such moments outside can rejuvenate the spirit and bring a sense of peace, reminding us to savor the simple beauty surrounding us.",
+    "color_code": "#A0C2E0",
+    "timestamp": "2024-11-29 07:11:13"
 }
