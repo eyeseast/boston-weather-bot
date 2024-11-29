@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-28T17:53:00+00:00",
+            "timestamp": "2024-11-28T22:53:00+00:00",
             "temperature_f": 46.94,
             "temperature_c": 8.3,
             "humidity": 86.028130972357,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 50,
-            "description": "Rain and Fog/Mist"
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 320,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Thanksgiving Day",
-                "startTime": "2024-11-28T15:00:00-05:00",
-                "endTime": "2024-11-28T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 47,
+                "name": "Tonight",
+                "startTime": "2024-11-28T19:00:00-05:00",
+                "endTime": "2024-11-29T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 35,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 90
+                    "value": 20
                 },
-                "windSpeed": "12 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,90?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy, with a high near 47. Northeast wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "windSpeed": "9 to 15 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain before 9pm. Mostly cloudy, with a low around 35. Northwest wind 9 to 15 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
-                "name": "Tonight",
-                "startTime": "2024-11-28T18:00:00-05:00",
-                "endTime": "2024-11-29T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 34,
+                "name": "Friday",
+                "startTime": "2024-11-29T06:00:00-05:00",
+                "endTime": "2024-11-29T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 45,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": null
                 },
-                "windSpeed": "13 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40/bkn?size=medium",
-                "shortForecast": "Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain before 10pm. Mostly cloudy, with a low around 34. West wind around 13 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 45. West wind 7 to 10 mph."
             }
         ]
     },
-    "weather_report": "A gentle curtain of mist settles over Boston this afternoon, veiling the skyline in a soft, muted gray. The rain, which heralded today\u2019s Thanksgiving atmosphere, has quieted for now, leaving a thick cloudiness that blurs the edges of the cityscape. With a high hovering around 47 degrees and a brisk northeast breeze, the air feels damp and brisk against the skin, inviting thoughtful layers. For those venturing outside, a warm jacket paired with a scarf would provide comfort against the chill, while sturdy shoes may offer a reliable grip on slick surfaces.\n\nAs the day wanes and twilight encroaches, the chance of rain lingers, casting an air of uncertainty over plans. In this contemplative weather, one might consider a serene stroll through the streets adorned with soft glows from shop windows, enjoying the understated beauty of the urban landscape. However, cozying up with a book by the fire or attending an intimate gathering with family and friends seems equally inviting, allowing the rhythmic patter of rain to serve as a tranquil backdrop. Whether one finds joy in the company of loved ones indoors or braves the weather for a wander, the essence of the day lies in taking a moment to appreciate the soothing presence of this gray, contemplative afternoon.",
-    "color_code": "#6C757D",
-    "timestamp": "2024-11-28 15:07:25"
+    "weather_report": "As the sun retreats beyond the horizon, Boston finds itself cloaked in a veil of clouds, hinting at the cool embrace of winter. This evening holds a slight chance of rain, though it seems the heavens may keep their offerings to a whisper, with temperatures dipping to a brisk 35 degrees. A northwest wind breathes through the streets, dancing at 9 to 15 mph, occasionally gusting with an exuberance that stirs the fallen leaves, making for an unsettling chill that sneaks beneath layers of clothing. \n\nTomorrow promises a brighter outlook as the sun ascends, ushering in a day adorned with clear blue skies and a gentle warmth near 45 degrees. Such conditions invite the city\u2019s dwellers outdoors; whether it be a quiet stroll along the Charles or a visit to your favorite caf\u00e9, the atmosphere will be refreshingly pleasant. Layer yourself sensibly\u2014perhaps a cozy sweater beneath a sturdy jacket, complemented by a scarf to ward off the evening chill. As day transitions into night, the air may turn crisp, echoing the spirit of the season. Embrace this transitional time, for there is beauty in both the quiet dusk and the promise of a golden day ahead.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-11-28 19:29:13"
 }
