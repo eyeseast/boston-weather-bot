@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-11-29T18:53:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 38.58752275642,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 270,
+            "timestamp": "2024-11-29T22:53:00+00:00",
+            "temperature_f": 33.98,
+            "temperature_c": 1.1,
+            "humidity": 69.291521433314,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-11-29T15:00:00-05:00",
-                "endTime": "2024-11-29T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 45. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-11-29T18:00:00-05:00",
+                "startTime": "2024-11-29T19:00:00-05:00",
                 "endTime": "2024-11-30T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 28,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/snow,20/sct?size=medium",
                 "shortForecast": "Isolated Snow Showers then Partly Cloudy",
-                "detailedForecast": "Isolated snow showers between 7pm and 8pm. Partly cloudy, with a low around 28. West wind 5 to 8 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Isolated snow showers before 8pm. Partly cloudy, with a low around 28. West wind around 8 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-11-30T06:00:00-05:00",
+                "endTime": "2024-11-30T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 40,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 40. West wind 7 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, the sun graces the sky with a gentle warmth, encouraging a stroll beneath its watchful gaze. The high of 45 brings a touch of briskness, a reminder that winter approaches, yet the southwest breeze lends a soft touch, coaxing you to venture outside. The afternoon light dances through the clouds, creating a dynamic tableau overhead. Tonight shifts the mood slightly, as isolated snow showers flirt with the evening, a fleeting gesture before the clear chill settles in. With a low of around 28, one should prepare to bundle up as the west wind stirs.\n\nAs the sun begins to dip, allowing the crispness to permeate, it might be the perfect time for a leisurely walk by the waterfront or perhaps an unhurried visit to a cozy caf\u00e9, where the aroma of warm coffee mingles with the soft chatter of patrons. A scarf should be your faithful companion, along with layers that embrace against the encroaching chill. While the day is not devoid of cloud cover, the moments devoid of fog offer clarity, making the city feel vibrant yet tranquil. An evening at home with a good book or enjoying a gentle indoor hobby could also be inviting, as the world outside begins to shimmer with the soft glow of streetlights against falling snow.",
-    "color_code": "#A7C8E4",
-    "timestamp": "2024-11-29 15:07:15"
+    "weather_report": "As darkness envelops Boston this evening, the air carries the crisp chill typical of late November. Isolated snow showers flirted with the evening sky earlier, leaving a gentle reminder of winter's approach, though the clouds are now parting to reveal a serene, partly cloudy expanse. The temperature hovers around 28 degrees, complemented by a gusty west wind that whispers its presence at about eight miles per hour. While the air feels invigorating, with a slight chance of precipitation now receding, a shroud of quiet calm has settled over the city, lending itself to a respite that few may appreciate.\n\nAs we look ahead to Saturday, a charming sun will grace the horizon, promising a bright day with a high nearing 40 degrees\u2014ideal for a leisurely stroll along the Charles River or perhaps indulging in a cup of coffee at a quaint caf\u00e9 in the South End. Layers will be your best ally: a warm coat, a cozy scarf, and perhaps a woolen hat to fend off the cool breeze. With the potential for sunshine, those with a touch of spontaneity might find joy in visiting the local markets or taking a quiet moment in one of the city's parks, savoring the last hints of autumn before winter settles in for good.",
+    "color_code": "#333333",
+    "timestamp": "2024-11-29 19:28:18"
 }
