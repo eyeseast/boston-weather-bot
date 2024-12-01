@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-01T02:53:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 58.229148519071,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 240,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-01T09:53:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 65.481393052415,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 230,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-11-30T23:00:00-05:00",
-                "endTime": "2024-12-01T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 25,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 25. West wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2024-12-01T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-12-01T07:00:00-05:00",
                 "endTime": "2024-12-01T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 38,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "7 to 12 mph",
+                "windSpeed": "6 to 10 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 38. Southwest wind 7 to 12 mph."
+                "detailedForecast": "Sunny, with a high near 38. Southwest wind 6 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-01T18:00:00-05:00",
+                "endTime": "2024-12-02T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 22,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 22. Southwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the evening settles into Boston, a light hush cloaks the city, the air crisp with the promise of a winter chill. The tranquility is punctuated by the occasional whir of distant traffic, but mostly, it is the soft sound of night that now reigns. Clouds blanket the sky, casting shadows over the urban landscape, while the city lights shimmer like scattered jewels, a twinkling contrast to the dark canvas above. Tonight\u2019s temperature lingers around a brisk 25 degrees, with a gentle westerly breeze whispering through the streets, urging you to seek comfort and warmth.\n\nCome Sunday, expect a cheerful shift as the sun rises, breaking through the cloud cover and casting vibrant rays upon Boston. The temperature will climb to a respectable 38 degrees, inviting residents outdoors to bask in the newfound sunshine. Yet, the brisk southwest wind will remind you that winter is still in full swing. As you prepare your day, consider bundling up in layers\u2014 a warm coat, a scarf, and perhaps a sturdy pair of gloves will make your outdoor excursions much more enjoyable. With the sky painted in azure hues and the sun gracing the day, it\u2019s a perfect opportunity for a leisurely walk along the Charles River or a visit to your favorite caf\u00e9 for a warming brew. Simple pleasures await in this serene and inviting winter day.",
-    "color_code": "#4C4C4C",
-    "timestamp": "2024-11-30 23:10:32"
+    "weather_report": "In Boston this morning, a promise of bright skies unfurls as the sun ascends with a soft golden glow, welcoming the day with clarity and warmth. At this hour, the air is crisp, holding a delicate chill that hints at the season's embrace, while a gentle southwest breeze carries the distant whispers of autumn's retreat. With temperatures expected to rise modestly, you'll find the day buoyed by a sense of cheerful optimism, perfect for a leisurely stroll along the Charles River or a quiet moment savoring a warm cup of coffee at your favorite caf\u00e9.\n\nAs the day unfolds, the sun\u2019s radiant presence encourages you to dress in layers\u2014perhaps a cozy sweater beneath a light jacket, paired with comfortable shoes suitable for wandering the city streets. Though the midday sun may bring a welcome warmth, the lingering coolness of evening beckons down jackets and scarves, perfect for a peaceful walk as twilight descends. This day, unmarred by fog or haze, invites you to indulge in the simple joys\u2014explore a local bookshop, take in the serenity of the parks, or simply pause to enjoy the vibrant life of a city that pulses with energy even in winter\u2019s grip.",
+    "color_code": "#B0C4D2",
+    "timestamp": "2024-12-01 07:10:10"
 }
