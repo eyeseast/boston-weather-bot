@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-04T06:53:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 78.009892957999,
+            "timestamp": "2024-12-04T10:53:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 71.049271208777,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Cloudy"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-04T03:00:00-05:00",
-                "endTime": "2024-12-04T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 20,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 20. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2024-12-04T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-12-04T07:00:00-05:00",
                 "endTime": "2024-12-04T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 36,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct/snow,20?size=medium",
                 "shortForecast": "Mostly Sunny then Slight Chance Light Snow",
                 "detailedForecast": "A slight chance of snow after 5pm. Mostly sunny, with a high near 36. Southwest wind 5 to 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-04T18:00:00-05:00",
+                "endTime": "2024-12-05T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "13 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/snow,80/rain,90?size=medium",
+                "shortForecast": "Chance Light Snow then Light Rain",
+                "detailedForecast": "A chance of snow before 9pm, then rain and patchy fog. Cloudy, with a low around 33. South wind around 13 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "The night in Boston envelops the city in a tranquil darkness, the soft glow of distant lights offering a glimmer of warmth against the chill that nips at the air. As the hours creep towards dawn, the temperature hovers around a crisp 20 degrees, with a gentle northwest breeze whispering through the streets. The sky remains mostly clear, a promising canvas for the day ahead, although a slight chance of snow looms in the late afternoon, hinting at a delicate transformation in the weather fabric.\n\nAs dawn breaks and the sun ascends, expect a mostly sunny day, where the warmth of the sun might invite the city's residents outdoors. With a high nearing 36 degrees, layering is essential. A cozy sweater or a light jacket paired with a scarf will serve well against the brisk winds. For those venturing out, this is a perfect day for a reflective walk along the Charles River or perhaps a leisurely stroll through the Boston Common, where the aroma of fresh coffee beckons from nearby cafes. As evening approaches, a sense of anticipation builds with the possibility of snowflakes gracing the sidewalks, adding a delicate charm to the Boston landscape.",
-    "color_code": "#A9B0C8",
-    "timestamp": "2024-12-04 03:09:16"
+    "weather_report": "As dawn breaks over Boston, a delicate chill settles into the air, promising a day that wavers between clarity and the murkiness of approaching winter weather. The sun fights to unveil a mostly sunny sky, though a faint whisper of snow flirts on the horizon. By the afternoon, one might see these once bright rays reluctantly cloaked by clouds, preparing for the snow to transform into rain and a thickening fog as evening wraps around the city. The air grows heavier, laden with the expectation of dampness, a refreshing but chill embrace that might make one yearn for the warmth of a cozy caf\u00e9 or a snug corner in a beloved bookstore.\n\nFor today\u2019s journey, one would do well to dress in layers, with a sturdy coat to guard against the biting southwest winds, a soft scarf to shield the neck from the impending frost, and perhaps a trusted pair of boots - sensible for the slipping possibilities of slush that may soon coat the sidewalks. As twilight approaches, the potential for rain and jingling droplets invites thoughts of leisurely pursuits: perhaps a comforting stroll through the quiet streets of Beacon Hill, where the warmth of old brownstones contrasts with the fog, or curling up with a good book at home, savoring the quiet intimacy of a chilly evening. Keep an eye on the horizon, where the dance of weather may lead you to unexpected moments of beauty and introspection.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2024-12-04 07:11:25"
 }
