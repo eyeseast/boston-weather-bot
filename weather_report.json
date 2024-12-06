@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-05T18:53:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 70.097333034191,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 260,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-06T02:53:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 54.233871494567,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-05T15:00:00-05:00",
-                "endTime": "2024-12-05T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 41,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 60
-                },
-                "windSpeed": "17 to 23 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/snow,60?size=medium",
-                "shortForecast": "Snow Showers Likely",
-                "detailedForecast": "A chance of rain showers before 4pm, then snow showers likely. Mostly cloudy, with a high near 41. West wind 17 to 23 mph, with gusts as high as 38 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-05T18:00:00-05:00",
+                "startTime": "2024-12-05T23:00:00-05:00",
                 "endTime": "2024-12-06T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 26,
+                "temperature": 27,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "17 to 23 mph",
+                "windSpeed": "20 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 26. West wind 17 to 23 mph, with gusts as high as 43 mph."
+                "detailedForecast": "Mostly clear, with a low around 27. West wind around 20 mph, with gusts as high as 38 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-12-06T06:00:00-05:00",
+                "endTime": "2024-12-06T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "16 to 21 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 33. West wind 16 to 21 mph, with gusts as high as 33 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a blanket of clouds hangs low, hinting at the impending transition from the dampness of rain to the chill of snow. The air carries a briskness that stirs the senses, animated by a westward wind that whistles through the city streets, a reminder of winter\u2019s advance. Temperatures hover near a respectable 41 degrees, though the gusts whisper of a sharper bite to come. A 60% chance of precipitation promises that the scene may soon shift, soft flakes beginning their descent to cover the dull gray pavement with a delicate white layer.\n\nAs night approaches, the skies will clear, revealing a vast expanse lit only by the stars and the moon\u2019s gentle glow. A chilly night looms ahead, with temperatures dipping to about 26 degrees. The day's weather insists on a practical wardrobe\u2014layers are your allies, perhaps a warm sweater under a sturdy coat, complemented by a woolen hat and scarf to guard against the wind's insistence. Consider a quiet evening indoors, perhaps with a book or a warm cup of tea, as the city prepares to settle into a serene, if brisk, night.",
-    "color_code": "#5B7F9C",
-    "timestamp": "2024-12-05 15:07:50"
+    "weather_report": "As the night wraps its cool embrace around Boston, a brisk west wind dances through the streets, ushering in a chill that carries whispers of winter's arrival. The evening sky, mostly clear, reveals a tapestry of stars twinkling above, their glow mirrored faintly in the distant city lights. While the temperature dips to a nippy 27 degrees, the gusts, peaking at 38 mph, add a sharp bite that reminds any late-night wanderer to seek warmth against the elements.\n\nAs dawn breaks, tomorrow promises a sun-drenched canvas painted in shades of blue, with clear skies beckoning for an invigorating day ahead. The high will settle near 33, a fitting temperature for brisk walks or contemplative moments in the nearby parks. Perhaps a stroll along the Emerald Necklace or a quiet visit to a cozy caf\u00e9 would suit the day, inviting both locals and visitors to relish the crispness of the air while sipping something warm. Layering up with a woolen scarf and a sturdy coat will ensure comfort against the winds, allowing one to fully embrace the beauty of an unblemished winter's day in Boston.",
+    "color_code": "#004080",
+    "timestamp": "2024-12-05 23:08:28"
 }
