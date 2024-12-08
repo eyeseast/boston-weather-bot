@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-08T06:53:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 81.430557804696,
+            "timestamp": "2024-12-08T10:53:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 69.646389672147,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 160,
-            "description": "Light Snow"
+            "wind_direction": 200,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-08T03:00:00-05:00",
-                "endTime": "2024-12-08T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 28,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30?size=medium",
-                "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow. Cloudy, with a low around 28. Southwest wind around 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2024-12-08T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-12-08T07:00:00-05:00",
                 "endTime": "2024-12-08T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 46,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "12 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20/sct?size=medium",
-                "shortForecast": "Slight Chance Rain And Snow then Mostly Sunny",
-                "detailedForecast": "A slight chance of rain and snow before 9am. Mostly sunny, with a high near 46. Southwest wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Slight Chance Light Rain then Mostly Sunny",
+                "detailedForecast": "A slight chance of rain before 9am. Mostly sunny, with a high near 46. Southwest wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-08T18:00:00-05:00",
+                "endTime": "2024-12-09T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 30,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 30. West wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning hours, Boston is cloaked in a veil of quiet anticipation. The chill lingers in the air, a gentle reminder of winter\u2019s hold, as temperatures hover near the freezing mark. There is a hint of snow, whispering in the breeze, with conditions that suggest a light dusting may grace the earth before dawn fully arrives. As the sun prepares to break through the cloud cover, it carries the promise of a day that will transition from the frost of the night into a refreshing clarity. Throughout the morning, a shy mix of rain and snow might flirt with the skyline, soon yielding to a predominantly sunny disposition by midday.\n\nAs the day unfolds, temperatures will rise ever so slightly, nudging toward the forties, embodying the spirit of a brisk winter's day. Winds from the southwest will dance around, creating a playful chill that begs for a layered approach to attire\u2014a good time for that favorite scarf and a comfortable coat, perhaps even a pair of gloves for moments spent outdoors. Given the scenery of a brightening day, it would be a delightful opportunity to stroll through the quiet streets, stopping by local caf\u00e9s for a warm drink, or wandering through open parks to admire the skeletal beauty of trees against a crisp blue sky. Today\u2019s weather, while chilly, is decidedly uplifting, inviting both comfort and exploration into the heart of Boston.",
-    "color_code": "#A9B2C5",
-    "timestamp": "2024-12-08 03:08:17"
+    "weather_report": "As dawn stretches languidly over Boston, a hushed, blue-grey haze hangs in the air, suggesting that the day ahead is still waking up. The chill permeates the atmosphere, hovering just above freezing, while whispers of sunlight tease the horizon, hinting at brighter moments to come. A gentle southwest wind stirs, a companion that might tug at your coat if you venture outside, subtly encouraging you to dress warmly in layers. A sturdy jacket and perhaps a scarf will serve you well as you navigate this cool morning. \n\nThroughout the day, expect the clouds to begin parting, releasing their hold on the gloomy morning scene. By midday, the sun will bathe the city in a more amiable glow, lifting spirits with its warmth while the chill remains a gentle reminder of the season. In gentle defiance of the cooler temperatures, today invites simple pleasures \u2014 perhaps a stroll along the Charles, where reflections dance upon water, or a quiet moment spent in one of the many cafes tucked within the historic streets, where a warm mug can cradle your hands against the cold. As evening descends, clarity will give way to a cool, clear night, perfect for a moment of quiet observation under a starlit sky. Tonight will be calm, providing a soothing backdrop to end the day, with only a light breeze to keep you company.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2024-12-08 07:10:23"
 }
