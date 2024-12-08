@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-07T18:53:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 37.588391345536,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 290,
+            "timestamp": "2024-12-07T22:53:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 65.73639723745,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-07T15:00:00-05:00",
-                "endTime": "2024-12-07T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 to 10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 38. Southwest wind 3 to 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2024-12-07T18:00:00-05:00",
                 "endTime": "2024-12-08T06:00:00-05:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow,20/snow,30?size=medium",
                 "shortForecast": "Chance Light Snow",
                 "detailedForecast": "A chance of snow after 11pm. Mostly cloudy, with a low around 28. Southwest wind 3 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2024-12-08T06:00:00-05:00",
+                "endTime": "2024-12-08T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/sct?size=medium",
+                "shortForecast": "Slight Chance Rain And Snow then Mostly Sunny",
+                "detailedForecast": "A slight chance of rain and snow before 9am. Mostly sunny, with a high near 46. Southwest wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In this afternoon light, Boston greets us with a gentle embrace of pastel hues, as the sun drifts among scattered clouds and offers a momentary warmth against the chill. With temperatures hovering around 38 degrees, the air carries a crispness that hints at the evening to come. You may notice the subtle shift in the atmosphere, a whisper of potential snow looming with the clouds thickening into a moody gray as night approaches. The wind, a soft southwest breath, is inviting but carries the promise of colder air edging in soon.\n\nAs dusk settles, a chance of snowflakes may dance down after 11 PM, lightly brushing the city\u2019s rooftops and encouraging a tranquil ambiance. Tonight's forecast suggests a low in the upper 20s, and while the chill may urge you to retreat indoors, donning your coziest layers\u2014perhaps a snug scarf and hat\u2014will allow for an evening stroll, savoring the quiet streets adorned with their early winter charm. Rather than seeking out overly ambitious adventures, imagine a quiet coffee shop where you can savor a warm drink and gaze out at the gently falling snow, nestled comfortably against the backdrop of a friendly city winding down the day.",
-    "color_code": "#A0C3E1",
-    "timestamp": "2024-12-07 15:06:34"
+    "weather_report": "As night descends over Boston, a gentle cloak of clouds gathers, hinting at the possibility of snow later in the evening. The air is crisp and taut, with a temperature that hovers around a chill 28 degrees. A whisper of wind from the southwest wraps around the streets like a lingering thought, but it does little to disrupt the tranquility of this winter night. The ambiance is undeniably serene, punctuated by the distant glow of city lights shimmering like stars fallen to Earth. There is a 30 percent chance of some light snow, which may dust the city with a delicate icing, lending a touch of magic to an otherwise still evening.\n\nLooking ahead to Sunday, a slight chance of rain and snow flurries dances in the early morning air, though the day promises to transform into a mostly sunny affair with a high nearing 46. As the day progresses, the winds will pick up ever so slightly, carrying with them an invigorating chill. It invites you to dress warmly\u2014a coat, perhaps a scarf, and your most reliable boots to navigate the remnants of frost that linger in the shade. This day encourages simple warmth and coziness, and perhaps a stroll through the Boston Common, where one might find solace in the quiet of the park, or a small caf\u00e9 where the aroma of freshly brewed coffee beckons like an old friend. Enjoy the beauty of these subdued winter moments, and embrace the softness of the season with a quiet heart.",
+    "color_code": "#232f34",
+    "timestamp": "2024-12-07 19:32:37"
 }
