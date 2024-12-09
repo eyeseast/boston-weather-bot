@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T06:53:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
+            "timestamp": "2024-12-09T14:53:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 67.832396838868,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-09T03:00:00-05:00",
-                "endTime": "2024-12-09T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 31. Northwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2024-12-09T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-12-09T11:00:00-05:00",
                 "endTime": "2024-12-09T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 80
                 },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "NE",
+                "windSpeed": "6 mph",
+                "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain,80?size=medium",
-                "shortForecast": "Partly Sunny then Light Rain",
-                "detailedForecast": "Rain after 3pm. Partly sunny, with a high near 45. Northeast wind 2 to 6 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+                "shortForecast": "Mostly Cloudy then Light Rain",
+                "detailedForecast": "Rain after 3pm. Mostly cloudy, with a high near 45. East wind around 6 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-09T18:00:00-05:00",
+                "endTime": "2024-12-10T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,30?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain before midnight, then a chance of rain and patchy fog between midnight and 2am, then patchy fog and a slight chance of rain. Cloudy, with a low around 38. Northeast wind around 6 mph, with gusts as high as 21 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In the quiet hours of the night, Boston rests beneath a blanket of stillness, the air crisp with a whisper of frost that foretells the day ahead. The temperature dips close to freezing, inviting a chill that wraps around the city like an old friend. As dawn approaches, a promise of transformation hovers in the atmosphere. The forecast suggests that as the afternoon unfolds, soft rains will make their entrance, accompanied by a gentle northeast breeze that rustles through the remnants of autumn\u2019s foliage. \n\nWhile the morning may begin with the faintest glimmers of sunlight, those venturing out will want to dress warmly\u2014perhaps a knitted scarf and a sturdy jacket will do, to fend off the biting chill. As the day progresses and clouds gather, the prospect of rain looms with an 80% chance of dampness. Nevertheless, the impending precipitation shouldn't deter the spirit; a stroll through one of Boston\u2019s historic neighborhoods, sheltering under an umbrella, could be a serene escape. The reflections of raindrops on cobblestones and the muted sounds of the city provide an intimate tapestry of urban life in winter.",
-    "color_code": "#6A8D8D",
-    "timestamp": "2024-12-09 03:09:44"
+    "weather_report": "As the clock drifts beyond eleven this morning, Boston is shrouded in a blanket of cloud cover, hinting at the rain that will soon make its presence felt. The atmosphere is thickening with anticipation, a scent of moisture brewing beneath the overcast sky. With temperatures lingering in the mid-forties, the air is cool and carries a whisper of eastward winds, nudging the day toward a damp embrace. By afternoon, clouds will yield to a steady rainfall, painting the city in muted hues of gray and wet asphalt. Expect the rain to reach its crescendo before midnight, turning the surface streets into shimmering paths reflecting the depths of the coming fog.\n\nThis is not the day to be caught unprepared; a warm, waterproof coat would serve you well, perhaps layered over a cozy sweater to fend off the chill seeping in from the northeast breeze. As you move through the city, you might consider seeking refuge in a quaint caf\u00e9, where the aroma of freshly brewed coffee mingles with the sound of rain against the windows. Or perhaps a visit to a nearby bookstore, where the world outside fades amid the turning pages. Such mundane pursuits transform into small adventures when embraced with the right spirit, making this gloomy day not just bearable, but a catalyst for cozy contemplation and quiet delight.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2024-12-09 11:08:12"
 }
