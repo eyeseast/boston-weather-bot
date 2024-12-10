@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-10T03:14:00+00:00",
-            "temperature_f": 46.04,
-            "temperature_c": 7.8,
-            "humidity": 85.976252301,
+            "timestamp": "2024-12-10T10:53:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 85.375550299468,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 40,
+            "wind_direction": 350,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
+                "name": "Today",
+                "startTime": "2024-12-10T07:00:00-05:00",
+                "endTime": "2024-12-10T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 40,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
+                "shortForecast": "Chance Drizzle",
+                "detailedForecast": "A chance of drizzle and patchy fog. Cloudy, with a high near 40. Northeast wind 6 to 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-09T23:00:00-05:00",
-                "endTime": "2024-12-10T06:00:00-05:00",
+                "startTime": "2024-12-10T18:00:00-05:00",
+                "endTime": "2024-12-11T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 36,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 70
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain before midnight, then a chance of rain and patchy fog between midnight and 4am, then patchy fog and a slight chance of rain. Cloudy, with a low around 36. Northeast wind around 7 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2024-12-10T06:00:00-05:00",
-                "endTime": "2024-12-10T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,30?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of drizzle. Cloudy, with a high near 46. North wind around 6 mph. Chance of precipitation is 30%."
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,70?size=medium",
+                "shortForecast": "Patchy Fog then Light Rain Likely",
+                "detailedForecast": "A chance of drizzle and patchy fog before 7pm, then patchy fog and a slight chance of rain between 7pm and midnight, then rain likely and patchy fog. Cloudy. Low around 36, with temperatures rising to around 45 overnight. East wind 6 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night envelops Boston, a gentle chill settles over the city, a reminder that winter is inching closer. The air is thick with the promise of rain, merging with the haze of patchy fog that steals in quietly. With temperatures hovering around the mid-thirties, it feels particularly cool, and the northeast breeze adds a briskness that nudges the senses awake. A chance of light rain lingers in the air, hinting at moisture that may come and go, teasing the night with its fleeting presence.\n\nOn the morrow, expect a muted day to unfold, with the clouds holding their sway over the skyline, offering a palette of greys and soft shadows. Amongst the fog, a slight drizzle may kiss the streets, but it\u2019s the lingering chill that will define the experience. Dressing in layers seems prudent; a warm coat, perhaps paired with a snug knit sweater below, will guard against the day\u2019s briskness. As for activities, consider a leisurely stroll along the waterfront, where the fog wraps the buildings in an ethereal embrace, or find refuge in a cozy caf\u00e9, savoring a warm drink while observing the world move a little slower under the clouds. The calm of the day suits quiet moments, giving way to reflection as the city holds its breath in anticipation of winter\u2019s deeper approach.",
-    "color_code": "#4B6F9F",
-    "timestamp": "2024-12-09 23:08:26"
+    "weather_report": "In Boston, the morning unfolds under a shroud of gray, where the persistent brush of drizzle creates a canvas of muted hues. The air feels heavy with moisture, a gentle reminder of the fog that clings to the buildings and streets. While the temperature hovers near the chilly forties, there\u2019s a palpable chill that invites a snug embrace of layers. The northeastern wind whispers softly as it sweeps through the city, adding to the sense of a day still waking from slumber.\n\nAs the hours progress, the likelihood of rain increases, settling into the evening with the promise of warmth as temperatures drift towards the mid-forties. The cloudy sky will likely remain, draping the city in a blanket that softens the edges of its busy life. It\u2019s an ideal day for leisurely pursuits\u2014perhaps ducking into a cozy caf\u00e9 for a steaming cup of coffee or indulging in that book you\u2019ve been meaning to explore. As you move through the day, dressing warmly, perhaps adding a scarf to ward off the dampness, will keep you comfortable as you navigate the soft wetness of Boston\u2019s streets.",
+    "color_code": "#A4B9C5",
+    "timestamp": "2024-12-10 07:11:32"
 }
