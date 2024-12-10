@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-09T16:53:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 49.662820822763,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 100,
-            "description": "Mostly Clear"
+            "timestamp": "2024-12-09T23:22:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 85.913626837241,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 80,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-09T15:00:00-05:00",
-                "endTime": "2024-12-09T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy, with a high near 46. East wind around 8 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-09T18:00:00-05:00",
+                "startTime": "2024-12-09T19:00:00-05:00",
                 "endTime": "2024-12-10T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -52,11 +33,30 @@
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,30?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "Rain before midnight, then a chance of rain and patchy fog between midnight and 4am, then patchy fog and a slight chance of rain. Cloudy, with a low around 36. Northeast wind 6 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain before midnight, then a chance of rain and patchy fog between midnight and 4am, then patchy fog and a slight chance of rain. Cloudy, with a low around 36. Northeast wind 6 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2024-12-10T06:00:00-05:00",
+                "endTime": "2024-12-10T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,30?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and a slight chance of drizzle. Cloudy, with a high near 46. North wind around 6 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, the air is thick with a persistent drizzle, a gentle reminder of winter\u2019s embrace. The sky, cloaked in a heavy blanket of gray, melds seamlessly with the swirling rain, creating a tapestry of muted tones. With temperatures hovering just above chilly, a brisk east wind adds a crisp bite to the atmosphere, inviting those braving the outdoors to layer up. Rain is anticipated to continue, saturating the landscape, while fog creeps in quietly, weaving through the streets and enveloping the city in a soft shroud.\n\nAs the evening approaches and the clock edges closer to midnight, the forecast hints at lingering rain accompanied by patchy fog, offering a sense of quiet introspection. Beneath this cloak, the city might whisper to those willing to listen, suggesting a cozy evening indoors. For those who must venture out, warmth becomes key; a sturdy raincoat, perhaps paired with waterproof boots, would shield against the dampness. A stroll through fog-laden streets or a visit to a local caf\u00e9 for a comforting warm drink could provide simple pleasures amidst the somber chill. While activities may be subdued, the mood invites a reflective pause, a chance to appreciate the serene beauty of a rainy day in the city.",
-    "color_code": "#A9B1B3",
-    "timestamp": "2024-12-09 15:07:49"
+    "weather_report": "As night settles over Boston, a veil of rain drapes the city, whispering against windows and blurring the lines between the familiar and the unknown. The air is chill, a bite of frost hinting at the elusive warmth of the day ahead. Wisps of fog creep in, obscuring the silhouettes of familiar landmarks, creating an aura of mystery as they move softly like apparitions through the streets. From the northeast, a gentle wind carries the dampness, urging you towards a cozy embrace, perhaps a thick scarf wrapped tight around your neck, a hat to shield from the damp chill.\n\nTomorrow promises a muted palette, the sun playing coy behind a curtain of overcast sky. Patchy fog and a hint of drizzle will linger, inviting you to stroll along sheltered avenues or indulge in the comfort of a local caf\u00e9, its warmth a welcome relief from the chill outside. As you wander, be mindful that the dampness might cling to your clothes, so layering is key. A light jacket over a snug sweater, accompanied by sturdy shoes, will keep you grounded as you navigate the day. While the weather may seem dreary, find joy in small pleasures \u2013 a warm drink cradled in your hands or the company of others seeking refuge from the rain.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2024-12-09 19:30:18"
 }
