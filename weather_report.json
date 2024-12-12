@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T14:53:00+00:00",
+            "timestamp": "2024-12-12T18:53:00+00:00",
             "temperature_f": 42.08,
             "temperature_c": 5.6,
-            "humidity": 48.581570434768,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 240,
-            "description": "Clear"
+            "humidity": 37.480003989033,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-12T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2024-12-12T15:00:00-05:00",
                 "endTime": "2024-12-12T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 41,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
-                "windSpeed": "18 mph",
+                "windSpeed": "16 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 41, with temperatures falling to around 34 in the afternoon. West wind around 18 mph, with gusts as high as 32 mph."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain before 4pm. Mostly sunny. High near 41, with temperatures falling to around 35 in the afternoon. West wind around 16 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-12-12T18:00:00-05:00",
                 "endTime": "2024-12-13T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 22,
+                "temperature": 23,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "9 to 14 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 22. West wind 10 to 15 mph."
+                "detailedForecast": "Mostly clear, with a low around 23. West wind 9 to 14 mph."
             }
         ]
     },
-    "weather_report": "As the day unfolds in Boston, a blanket of clear blue skies stretches above, marked by the occasional wandering cloud that drifts lazily across the expanse. The sun, though not overly warm, offers a gentle reprieve from the chill, illuminating the city with a soft glow. With temperatures hovering in the low forties and a brisk west wind rattling the windows, the atmosphere carries a pleasant clarity, completely devoid of the fog typically associated with winter. It feels invigorating yet crisp, nudging you to step outside and embrace the freshness of the day.\n\nIn terms of attire, layering is your ally; a cozy sweater beneath a jacket will protect against the biting winds while allowing for some flexibility as the sun climbs. Those with a penchant for activity might find joy in strolling through the intricate streets of Beacon Hill, where the architecture whispers stories of yesteryear, or perhaps a scenic walk along the Charles River Esplanade, where the gentle lap of the water against the shore harmonizes with your thoughts. The promise of a bright day beckons, inviting you to savor the beauty of a winter day in New England, where each moment carries the simple pleasure of being outside, surrounded by the reassuring presence of the city.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2024-12-12 11:07:50"
+    "weather_report": "As the afternoon light bathes Boston in a gentle glow, the day unfolds with the promise of clarity, although whispers of rain linger in the air. With temperatures hovering near the low forties, the brisk west wind carries a bite, urging those outside to bundle up against its playful gusts. The sky stretches in hues of blue punctuated by soft, drifting clouds, suggesting a serene yet somewhat stark beauty typical of late autumn. While the chance of rain is minimal, the coolness reminds us that warmth is a prized commodity this time of year, compelling residents to reach for their heavier jackets and perhaps a scarf for good measure. \n\nAs twilight approaches, the air will cool further, settling to a chilly embrace as evening descends. This setting promises a peaceful winter night, perfect for cozy indoor pursuits. Perhaps a visit to a local caf\u00e9 would be in order, where the warmth of a steaming cup can contrast the crisp atmosphere outside. Alternatively, engaging in a quiet stroll through the vibrant streets, wrapped snugly in layers, can offer a delightful way to savor the crisp evening air and the twinkle of streetlights. Overall, while the day dances between briskness and fleeting warmth, it holds a simple charm, inviting both introspection and a touch of adventure in the brisk Boston air.",
+    "color_code": "#6699CC",
+    "timestamp": "2024-12-12 15:07:47"
 }
