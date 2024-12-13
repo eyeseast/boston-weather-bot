@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-12T18:53:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 37.480003989033,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-12T22:53:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 37.068058999747,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 260,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-12T15:00:00-05:00",
-                "endTime": "2024-12-12T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 41,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain before 4pm. Mostly sunny. High near 41, with temperatures falling to around 35 in the afternoon. West wind around 16 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-12T18:00:00-05:00",
+                "startTime": "2024-12-12T19:00:00-05:00",
                 "endTime": "2024-12-13T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 23,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "9 to 14 mph",
+                "windSpeed": "9 to 13 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 23. West wind 9 to 14 mph."
+                "detailedForecast": "Mostly clear, with a low around 23. West wind 9 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-12-13T06:00:00-05:00",
+                "endTime": "2024-12-13T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 33. West wind 8 to 13 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon light bathes Boston in a gentle glow, the day unfolds with the promise of clarity, although whispers of rain linger in the air. With temperatures hovering near the low forties, the brisk west wind carries a bite, urging those outside to bundle up against its playful gusts. The sky stretches in hues of blue punctuated by soft, drifting clouds, suggesting a serene yet somewhat stark beauty typical of late autumn. While the chance of rain is minimal, the coolness reminds us that warmth is a prized commodity this time of year, compelling residents to reach for their heavier jackets and perhaps a scarf for good measure. \n\nAs twilight approaches, the air will cool further, settling to a chilly embrace as evening descends. This setting promises a peaceful winter night, perfect for cozy indoor pursuits. Perhaps a visit to a local caf\u00e9 would be in order, where the warmth of a steaming cup can contrast the crisp atmosphere outside. Alternatively, engaging in a quiet stroll through the vibrant streets, wrapped snugly in layers, can offer a delightful way to savor the crisp evening air and the twinkle of streetlights. Overall, while the day dances between briskness and fleeting warmth, it holds a simple charm, inviting both introspection and a touch of adventure in the brisk Boston air.",
-    "color_code": "#6699CC",
-    "timestamp": "2024-12-12 15:07:47"
+    "weather_report": "As night envelops Boston, the city glimmers with a tapestry of twinkling lights, awakening a sense of quiet awe in its evening stillness. The west wind whispers through the crisp air, carrying with it the promise of a chilly night, where temperatures settle comfortably around 23 degrees. The sky, mostly clear, offers glimpses of the constellations that blanket the urban landscape, while shadows dance along the rooftops and streets, inviting a contemplative stroll under the starlit expanse. \n\nTomorrow promises to be a day of abundant sunshine, brightening the frosty surroundings with a high near 33. The blue sky will invite you outdoors, making it the ideal setting for a leisurely walk through the city's historic streets or perhaps a thoughtful visit to a cozy caf\u00e9 where the warmth from a steaming cup complements the invigorating chill. As you prepare, consider wrapping yourself in layers\u2014a warm coat, a snug scarf, and perhaps your favorite gloves\u2014each layer a shield against the winter\u2019s breath while you delight in the simple pleasures of the day. With nature ready to reveal its splendor under the sun\u2019s embrace, seizing the moment to appreciate the serene beauty of Boston\u2019s winter landscape seems the perfect remedy for the season.",
+    "color_code": "#3F5A8E",
+    "timestamp": "2024-12-12 19:30:13"
 }
