@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T06:53:00+00:00",
-            "temperature_f": 15.979999999999997,
-            "temperature_c": -8.9,
-            "humidity": 76.986692404061,
+            "timestamp": "2024-12-15T10:53:00+00:00",
+            "temperature_f": 15.079999999999998,
+            "temperature_c": -9.4,
+            "humidity": 76.281223431248,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-15T03:00:00-05:00",
-                "endTime": "2024-12-15T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 17,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 17. North wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2024-12-15T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-12-15T07:00:00-05:00",
                 "endTime": "2024-12-15T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 36,
@@ -49,14 +30,33 @@
                     "value": null
                 },
                 "windSpeed": "3 mph",
-                "windDirection": "E",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 36. East wind around 3 mph."
+                "detailedForecast": "Mostly sunny, with a high near 36. Southeast wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-15T18:00:00-05:00",
+                "endTime": "2024-12-16T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 27. South wind around 5 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of night, Boston rests beneath a velvety sky, the city lights twinkling like scattered jewels. The air is brisk, with a distinct chill settling in as temperatures drop to a crisp 17 degrees. A gentle north wind whispers through the hushed streets, adding to the quiet serenity of the early hours. As dawn approaches, it promises a mostly sunny day, lifting spirits along with the mercury to a more inviting 36 degrees. \n\nDressed in layers, one would do well to wrap up warmly with a snug scarf and perhaps a woolen hat, allowing the comfort of warmth to accompany you on a stroll along the Charles River, where the reflections dance playfully on the water. The retreating chill invites a rhythm of simple pleasures; a leisurely walk in a sunlit park or a visit to a cozy caf\u00e9 to enjoy a steaming cup of coffee. The clarity of the day beckons, suggesting a perfect opportunity to enjoy the idyllic architecture of the city, or perhaps indulge in a window-shopping expedition, as the shops await their patrons with open doors and welcoming displays.",
-    "color_code": "#192f5d",
-    "timestamp": "2024-12-15 03:08:05"
+    "weather_report": "As the sun begins its ascent over Boston this crisp December morning, an elegant clarity envelops the city, heralding a day filled with moments both serene and invigorating. The forecast speaks of a mostly sunny disposition with temperatures drifting gently to a high near 36 degrees, inviting a poised sense of anticipation. The soft, southeast breeze \u2013 so mild at three miles per hour \u2013 caresses the air, lifting spirits in a season often marked by chill and gloom. Though clouds will make their entrance after sundown, tonight\u2019s low slips just below freezing, enveloping the evening in a cool embrace complemented by a light south wind.\n\nWith this delightful blend of sunshine and modest temperatures, it is a perfect moment to step out, perhaps to savor a leisurely walk along the Charles River, where the reflective waters dance playfully under the gentle sun. Attire for the day would benefit from thoughtful layering: a cozy knit sweater beneath a medium-weight coat, paired with comfortable boots to navigate the city\u2019s potentials. Consider a warm scarf to fend off the evening\u2019s coolness should you stay outside to soak in the waning light or explore the vibrant streets. This is a day to relish the calm and simple joys of late autumn, where the world feels just a touch more vibrant, and in the quiet spaces, one can find both peace and the thrill of possibility.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2024-12-15 07:10:06"
 }
