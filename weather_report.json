@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-16T06:53:00+00:00",
+            "timestamp": "2024-12-16T10:53:00+00:00",
             "temperature_f": 30.02,
             "temperature_c": -1.1,
-            "humidity": 74.820566562862,
+            "humidity": 81.277356533637,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": ""
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-16T03:00:00-05:00",
-                "endTime": "2024-12-16T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 28,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 28. South wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2024-12-16T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-12-16T07:00:00-05:00",
                 "endTime": "2024-12-16T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 40,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "3 to 9 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 40. South wind 3 to 9 mph."
+                "icon": "https://api.weather.gov/icons/land/day/fog?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog between 11am and 1pm. Cloudy, with a high near 40. South wind 3 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-16T18:00:00-05:00",
+                "endTime": "2024-12-17T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "9 to 15 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30/rain,100?size=medium",
+                "shortForecast": "Patchy Fog then Light Rain",
+                "detailedForecast": "Patchy fog and a slight chance of rain between 8pm and 11pm, then rain and patchy fog. Cloudy. Low around 38, with temperatures rising to around 48 overnight. South wind 9 to 15 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the early hours of the morning settle over Boston, the city embraces an enveloping cloud cover that hangs like a soft blanket, muted and serene. The chill in the air is palpable, hinting at temperatures that will barely rise above the forties today. Winds unfurl gently from the south, creating an undercurrent of motion against the stillness that accompanies this wintry night. It\u2019s a moment where the glittering city lights speak of life within, while the cool, crisp air outside nudges you gently to bundle up as you prepare for the day ahead.\n\nLooking to the hours that follow, expect a continuation of this hazy, cloudy tranquility, promising a high that struggles for warmth. The feeling outside will be refreshingly brisk, yet there is an unmistakable charm in the muted tones of the day. This is the sort of weather that invites cozy gatherings indoors, perhaps at a familiar caf\u00e9 or a snug bookstore, where the world outside can be witnessed through a frost-tinted window. A good scarf and warm coat will serve you well, as one ventures forth to sip on a hot beverage, embracing a day that feels both reflective and quietly invigorating.",
-    "color_code": "#696969",
-    "timestamp": "2024-12-16 03:10:10"
+    "weather_report": "Boston awakens to a muted blanket of fog and overcast skies, casting a somber tranquility over the morning. The air is still, laced with that intangible chill that suggests the day will hover close to forty, heralded by gentle winds from the south. Fog will present itself intermittently today between the hours of eleven and one, weaving a shroud of mystery that could inspire spontaneous moments of reflection or contemplation.\n\nAs night wraps its arms around the city, patchy fog might transform into gentle rain, swirling softly with the promise of more on the horizon\u2014temperatures will rise, a breath of warmth offering solace as we melt into the evening. The environment is decidedly cozy, leaning towards the comfort of soft sweaters and perhaps a woolen scarf, ideal for strolling along the Charles or cozying up in a quaint caf\u00e9 with a loved one, enjoying a warm beverage as the world outside dances in droplets.\n\nGiven the forecast's generous chance of precipitation and the alluring calm of this dreary day, the best moments may lie within the walls of our favorite haunts, where the flicker of candlelight complements the hum of conversation. Whether it's diving into a new read or experimenting with that recipe you've been eager to try, today invites a slower pace, a time to enjoy the little things that often slip unnoticed in the rush of brighter days.",
+    "color_code": "#A5B2C3",
+    "timestamp": "2024-12-16 07:11:59"
 }
