@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-15T18:53:00+00:00",
-            "temperature_f": 35.96,
-            "temperature_c": 2.2,
-            "humidity": 42.012030350583,
+            "timestamp": "2024-12-15T22:53:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 65.481393052415,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-15T15:00:00-05:00",
-                "endTime": "2024-12-15T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 36,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 36. Northeast wind around 2 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-15T18:00:00-05:00",
+                "startTime": "2024-12-15T19:00:00-05:00",
                 "endTime": "2024-12-16T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
                 "detailedForecast": "Cloudy, with a low around 29. South wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2024-12-16T06:00:00-05:00",
+                "endTime": "2024-12-16T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 42. Southeast wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon meanders along in Boston, the skyline peeks through layers of muted clouds, casting a soft, grayish veil over the day. With temperatures hovering around 36 degrees, there's a coolness in the air that whispers of winter\u2019s approach, yet the gentle northeast breeze barely nudges its way into your coat, offering a reprieve from harsher chills. The overall ambiance feels tranquil, marked by a serene hesitance rather than bustling energy, as if the city itself is preparing for a cozy evening indoors.\n\nTonight, the mercury dips further, settling close to 29 degrees as the clouds deepen into a thicker blanket against the settling dusk. With a soft breeze shifting from the south, it\u2019s a perfect invitation to don your coziest layers\u2014a warm scarf paired with a layered sweater will do well. As the day unwinds, consider a peaceful stroll through the nearby park or a meandering visit to a local caf\u00e9, where the scent of freshly brewed coffee cocoons the space with warmth and comfort. In this cool, subdued atmosphere, ordinary moments are easily transformed into delightful discoveries, whether you choose to lose yourself in a book or simply savor the calm as day gives way to night.",
-    "color_code": "#A8B3C1",
-    "timestamp": "2024-12-15 15:06:48"
+    "weather_report": "Tonight in Boston, the city dons a cloak of clouds, wrapping its neighborhoods in a soft, gray blanket. The temperature dips to a brisk 29 degrees, accompanied by a gentle south wind whispering through the streets. As the evening unfolds, the scintillating urban glow flickers against the darkening sky, creating a quiet yet vibrant tapestry of lights. The atmosphere feels crisp, with a hint of frost in the air that speaks to the winter season\u2019s embrace.\n\nAs we look ahead to tomorrow, the morning promises a continuation of the muted clouds, with only the faintest hints of brightness struggling to break through. Daytime temperatures will inch upwards, nearing 42 degrees under soft southeast breezes that tease the chill away. While it may not be the most inviting day to explore the great outdoors, a light jacket is advisable to ward off the lingering cold. Perhaps curl up with a warm beverage at a favorite caf\u00e9, losing yourself in the pages of a good book or the musings of a friend. Alternatively, an afternoon walk through one of Boston\u2019s quieter parks could reveal the serene beauty of the season, as nature gradually prepares for the onset of deeper winter.",
+    "color_code": "#1D1E35",
+    "timestamp": "2024-12-15 19:31:30"
 }
