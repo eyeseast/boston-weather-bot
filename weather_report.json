@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-17T07:37:00+00:00",
-            "temperature_f": 55.04,
-            "temperature_c": 12.8,
-            "humidity": 86.482711038053,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 180,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2024-12-17T11:22:00+00:00",
+            "temperature_f": 57.02,
+            "temperature_c": 13.9,
+            "humidity": 86.590548811883,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 200,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-17T03:00:00-05:00",
-                "endTime": "2024-12-17T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy. Low around 39, with temperatures rising to around 53 overnight. South wind around 16 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2024-12-17T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-12-17T07:00:00-05:00",
                 "endTime": "2024-12-17T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": null
                 },
-                "windSpeed": "9 to 16 mph",
+                "windSpeed": "9 to 15 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/bkn?size=medium",
-                "shortForecast": "Chance Light Rain then Partly Sunny",
-                "detailedForecast": "A chance of rain and patchy fog before 8am. Partly sunny. High near 58, with temperatures falling to around 51 in the afternoon. Southwest wind 9 to 16 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Partly Sunny",
+                "detailedForecast": "Patchy fog before 8am. Partly sunny. High near 58, with temperatures falling to around 51 in the afternoon. Southwest wind 9 to 15 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-17T18:00:00-05:00",
+                "endTime": "2024-12-18T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 33. West wind around 9 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of the night, Boston finds itself cloaked in the embrace of rain and a gentle fog, evoking thoughts of distant shores and quiet reflections. The air is cool and laced with moisture, a reminder that winter casts its long shadow over the city. As the night slips slowly into early morning, temperatures are set to rise gently, luring the remnants of the chill away. The promise of rain is etched in the atmosphere, a steadfast 100% chance that hints at puddled streets and glistening sidewalks come daylight.\n\nAs dawn approaches, the sky may grant glimpses of sunlight peeking through the clouds, though the remnants of fog may linger, softening the edges of the world. The forecast today allows for a few moments of sun between the rain, with temperatures reaching a mild 58 degrees, creating a mosaic of warmth and chill. Given the dampness, dressing in layers might be the wise choice\u2014think cozy scarves and waterproof jackets\u2014to navigate the brisk wind and occasional sprinkles. A brisk stroll through the historic streets, perhaps with a warm drink in hand, could unfold delightfully, each sip warming the spirit as the city awakens around you. Alternatively, indulging in those small, comforting indoor moments\u2014like browsing a favorite bookstore or sipping coffee at a corner caf\u00e9\u2014might be the perfect way to spend this tranquil day.",
-    "color_code": "#4A4A4A",
-    "timestamp": "2024-12-17 03:09:30"
+    "weather_report": "As dawn breaks over Boston, a light veil of fog continues to cling to the waking city, a gentle reminder of the night just passed. With hints of sunlight starting to emerge, the air is crisp and invigorating, inviting the breath of a new day. As the hours unfold, expect a gradual lifting of the fog, giving way to partly sunny skies. The temperature will dance between the upper fifties and the low fifties as the afternoon progresses, accompanied by a soft southwest wind, adding a touch of warmth while rustling the leaves still clinging to their branches.\n\nAs you step out into this serene morning, consider wearing layers that embrace the transitional weather\u2014a light sweater beneath a jacket may serve you well as the chill will recede by midday. This is a perfect day for a leisurely stroll along the Charles River or perhaps to visit a local caf\u00e9 where the aroma of freshly brewed coffee mingles with the crisp air. Take in the sights and sounds of the city, perhaps indulging in the simple pleasure of people-watching or reading a book in a park, soaking in the fleeting warmth as the sun continues its journey across the sky.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-17 07:11:26"
 }
