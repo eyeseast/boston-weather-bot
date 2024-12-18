@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-18T06:53:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 84.573028786765,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2024-12-18T14:53:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 62.58483935326,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": null,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-18T03:00:00-05:00",
-                "endTime": "2024-12-18T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 34,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 34. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2024-12-18T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-12-18T11:00:00-05:00",
                 "endTime": "2024-12-18T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 46,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct/rain,20?size=medium",
                 "shortForecast": "Mostly Sunny then Slight Chance Light Rain",
                 "detailedForecast": "A slight chance of rain after 5pm. Mostly sunny, with a high near 46. Southwest wind around 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-18T18:00:00-05:00",
+                "endTime": "2024-12-19T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy, with a low around 36. North wind 3 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "The night drapes Boston in a veil of quiet serenity, the urban pulse steady beneath the sky's dark canvas. Currently, there\u2019s a crispness in the air, with temperatures settling around the chill of 34 degrees, a foretaste of the winter to come. The stars flicker faintly above, enmeshed in a tapestry of scattered clouds. As dawn breaks, there\u2019s the whisper of warmth in the forecast, with the sun stretching its rays to herald a high of 46 degrees. There\u2019s only a slight chance of rain, brushing the edges of the evening, yet for the daytime, the sky promises mostly sunny spells, coaxed along by a gentle southwest wind.\n\nAs you prepare to greet the day, a modest layering will serve you well. Consider a warm sweater beneath a sturdy jacket, complemented by a scarf to ward off the morning chill. Sturdy boots will ground your feet against the cold pavement. Whether you find solace in a leisurely walk through the city\u2019s storied streets, perhaps stopping by a favorite caf\u00e9 for a cup of warm delight, or indulging in the simple pleasure of reading a book in a cozy spot, the day beckons with possibilities that capture the essence of a late autumn afternoon. The tranquility of the moment is yours to seize; there is something utterly compelling about a day that begins quietly amidst the evolving pulse of a city awakening.",
-    "color_code": "#3A3D4C",
-    "timestamp": "2024-12-18 03:09:03"
+    "weather_report": "As Boston wakes to a day graced with a light touch of sunshine, the air carries an invigorating chill, a reminder that winter is firmly settled in. The skyline emerges from the horizon, a gentle silhouette against the pale blue of the sky, lending an ethereal quality to the morning. With a high forecasted near 46 degrees, the initial warmth of the sun invites one to step outside, yet caution whispers to bring along a light jacket, lest the chill of the southwest breeze remind you of its presence. As the clock advances toward the evening, an unexpected shift approaches; clouds will unfurl and drape the city in a shroud of gray as rain begins to fall, promising a thorough soaking tonight.\n\nAs the day unfolds, consider seeking solace in indoor spaces, perhaps relishing the quiet of a cozy caf\u00e9, where the aroma of fresh coffee mingles with soft chatter\u2014a perfect retreat as the rain begins its descent. Alternatively, a leisurely stroll through Boston\u2019s historic streets could take on a different charm under the watchful sky, where the anticipation of the rain adds a certain magic to the atmosphere. For the more intrepid, an unhurried visit to a bookstore or gallery might provide just the escape sought on this transition from mild to damp. In any case, prepare for the encroaching evening with layers and an umbrella, for winter's unpredictable temperament is alive and well.",
+    "color_code": "#9BC5E0",
+    "timestamp": "2024-12-18 11:07:38"
 }
