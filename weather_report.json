@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-19T07:36:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 88.816089115542,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Light Rain"
+            "timestamp": "2024-12-19T10:53:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 82.614624284648,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 290,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-19T03:00:00-05:00",
-                "endTime": "2024-12-19T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 36,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy, with a low around 36. Northwest wind around 8 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2024-12-19T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-12-19T07:00:00-05:00",
                 "endTime": "2024-12-19T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 42,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "8 to 13 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 42. Northwest wind 8 to 12 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Mostly sunny, with a high near 42. Northwest wind 8 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-19T18:00:00-05:00",
+                "endTime": "2024-12-20T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 26,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 26. North wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the remnants of yesterday\u2019s rains linger in the air, casting a shroud of mist that softens the contours of the city. Rain has painted the streets a glossy black, while a chill drapes itself over the landscape, making the world feel hushed and contemplative. Although the clock reads three, the fog still whispers secrets, wrapping around buildings and blurring the edges of reality. Today, however, promises a shift. Once the sun rises and dispels the fog, a gentle warmth will greet the city, with a high near 42, inviting those with a taste for crisp air to step outside.\n\nAs the morning unfolds, expect the clouds to gradually give way to the sun, crafting a much more pleasant canvas for the day. It's an ideal time for layered clothing; a sturdy jacket, perhaps, layered over a soft sweater will provide just the right insulation as the brisk winds brush against you. While the weather may seem dreary at first, the afternoon brings a brighter atmosphere, perfect for a stroll along the Charles, where the reflections of the trees and the distant glow of the skyline will create a serene backdrop. A simple errand, a leisurely walk, or perhaps a visit to a local caf\u00e9 to savor a warm drink feels particularly apt today, allowing the invigorating chill to awaken your senses while the sun slowly weaves joy into the fabric of the day.",
-    "color_code": "#4B4E6D",
-    "timestamp": "2024-12-19 03:08:55"
+    "weather_report": "As dawn breaks over Boston, the city awakens to a gentle embrace of azure skies, punctuated by the soft hues of early light. The air carries a crispness, hinting at the cold duality of winter's charm and bite. Today promises mostly sunny intervals, with the sun\u2019s rays set to dance upon the frost-kissed pavements, while a cool northwest wind brushes through the streets at a steady pace. This is a day to bundle up\u2014with warm layers, a sturdy coat, and perhaps a touch of flair with a scarf that compliments the cool tones of the environment.\n\nAs the sun ascends, it will cast a warm embrace on the city, but as evening whispers its approach, a curtain of clouds will descend, cloaking the sky in gray tones. The temperatures will relinquish their hold, dipping to a chilly 26 degrees as night falls, inviting you to retreat into cozy corners of your favorite caf\u00e9 or perhaps wandering through the twinkling lights adorning local shops. The air feels undeniably fresh, invigorating the spirit for leisurely strolls or brief outings. Today might inspire a visit to a nearby gallery or to simply watch the world unfold from a window, savoring a warm drink as the day transitions into a tranquil evening.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2024-12-19 07:11:08"
 }
