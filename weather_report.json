@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T06:53:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 60.825667827517,
-            "wind_speed_mph": 16.91172,
+            "timestamp": "2024-12-20T10:53:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 63.929305394195,
+            "wind_speed_mph": 12.0798,
             "wind_direction": 350,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-20T03:00:00-05:00",
-                "endTime": "2024-12-20T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 28,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
-                "shortForecast": "Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers after 5am. Cloudy, with a low around 28. Northeast wind around 6 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2024-12-20T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-12-20T07:00:00-05:00",
                 "endTime": "2024-12-20T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 36,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,60?size=medium",
                 "shortForecast": "Chance Snow Showers",
                 "detailedForecast": "A chance of snow showers before 2pm, then rain and snow showers likely. Cloudy, with a high near 36. Northeast wind 6 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-20T18:00:00-05:00",
+                "endTime": "2024-12-21T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 24,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/snow,60/snow,30?size=medium",
+                "shortForecast": "Snow Showers Likely",
+                "detailedForecast": "Snow showers likely. Mostly cloudy, with a low around 24. North wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "As the early morning wraps Boston in a shroud of soft darkness, a hint of snow dances lightly through the air, whispering promises of a wintry embrace. The streets lie hushed, the city just waking from its slumber, while a steady northeast breeze nudges the temperature into the brisk territory of twenty-eight degrees. As dawn approaches, the atmosphere is laden with clouds, creating an ethereal backdrop that blends the urban landscape into a muted canvas.\n\nThroughout the day, expect a continuation of this somber charm, with snow showers initially teasing the horizon before transitioning into a delicate mix of rain and snow. The high will struggle to reach thirty-six, bringing a damp chill that seeps into the bones. Dressing warmly is imperative; a layered approach will serve you well\u2014a snug sweater beneath a reliable winter coat, paired with a scarf and sturdy boots to navigate the slick streets. As the day unfolds, consider embracing the cozy atmosphere by retreating into a local caf\u00e9, sipping warm drinks while the world outside swirls. Alternatively, a gentle walk through the historic streets, under the soft flakes of precipitation, offers a serene invitation to experience Boston's winter wonder\u2014a quiet, reflective exploration before the holiday bustle truly begins.",
-    "color_code": "#7C7B7A",
-    "timestamp": "2024-12-20 03:08:34"
+    "weather_report": "The morning sky over Boston wears a heavy cloak of gray, a promise of the chill that settles in with the winter season. Snow showers dance about, whispering through the air before transitioning into a steady rhythm of raindrops. Cloudy and cool, the atmosphere suggests a lingering hug of dampness. One might find the day uninviting, yet there is a certain beauty to the muted tones and the delicate juxtaposition of snowflakes with the fleeting warmth of rain. As temperatures hover in the mid-thirties, the need for layers becomes clear; an insulated coat accompanied by a soft scarf and sturdy, waterproof boots will allow you to navigate the day's slightly moody whimsy with comfort. \n\nAs you step outside, contemplating the best course for today, a warm beverage could provide solace as you wander through Boston's quieter, decorative streets. Perhaps indulging in a leisurely afternoon at a local caf\u00e9, with the world outside a swirl of sleet and mist, could offer a perfect escape. Alternatively, a walk through the park, invigorating and brisk, could uncover the beauty of winter in its purest form\u2014just be prepared for a chilly breeze that bites at your cheeks and curls around your ears. For now, the tranquility of a snow-kissed city calls softly, inviting you to embrace the day\u2019s contemplative essence.",
+    "color_code": "#B0C4D6",
+    "timestamp": "2024-12-20 07:10:23"
 }
