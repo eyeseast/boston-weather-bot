@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-19T16:53:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 47.567077130119,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "timestamp": "2024-12-20T02:53:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 75.018440463752,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-19T15:00:00-05:00",
-                "endTime": "2024-12-19T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 to 9 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 44. Northwest wind 6 to 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-19T18:00:00-05:00",
+                "startTime": "2024-12-19T23:00:00-05:00",
                 "endTime": "2024-12-20T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 28,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "6 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 28. North wind around 6 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 28. North wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2024-12-20T06:00:00-05:00",
+                "endTime": "2024-12-20T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 50
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/snow,40/snow,50?size=medium",
+                "shortForecast": "Chance Light Snow",
+                "detailedForecast": "A chance of snow before 11am, then a chance of rain between 11am and 5pm, then a chance of snow. Cloudy, with a high near 39. Northeast wind 6 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sky offers a subtle contrast of partly sunny intervals, where muted sunlight plays gently on the city below, hinting at the invigorating chill of late December. Hints of warmth linger in the air, as the temperature hovers near a crisp 44 degrees, complemented by a light northwesterly breeze that carries the scent of winter's approach. As night draws near, the clouds will thicken into a mostly cloudy evening, descending toward a low of about 28 degrees, offering a gentle reminder of the season's chill as muffled sounds fill the air and the city lights flicker to life.\n\nGiven the prevailing conditions, a light jacket or a warm sweater is advisable, layered over a shirt to embrace the brisk winds while maintaining comfort. The grayish hues punctuating the sky may inspire a reflective wander along the Charles River, perhaps a contemplative stroll through Boston Common, where nature's beauty is muted yet still compelling. Alternatively, a cozy afternoon spent at a local caf\u00e9, savoring a hot cup of coffee, offers the perfect sanctuary from the cold. As shadows stretch across the evening, the warmth of companionship or a good book may serve equally well against the backdrop of this picturesque winter day.",
-    "color_code": "#A3B0C8",
-    "timestamp": "2024-12-19 15:07:05"
+    "weather_report": "As twilight gathers over Boston, the city wears a cloak of clouds, hinting at the chill that lingers in the air. With temperatures dipping to a brisk 28 degrees, tonight invites a sense of quiet introspection. The gentle north wind whispers through the streets, creating an atmosphere that beckons for warmth. It is an evening suited for quiet reflection, perhaps curled up with a book or enjoying a steaming cup of tea while watching the light fade from the horizon.\n\nLooking ahead to tomorrow, the dawn promises a canvas of gray, with the likelihood of snow flurries teasing the morning. The day will oscillate between light snow and occasional rain, a reminder of the unpredictable embrace of winter. The air will hold a chill, with highs barely reaching the upper thirties, encouraging layers and cozy attire\u2014think knitted scarves, warm hats, and boots ready to tread through the dampness. Given the weather, it may be an excellent opportunity for a leisurely stroll through a local park, where one might witness the delicate beauty of snowflakes dancing on the wind, or perhaps a visit to a quaint caf\u00e9 to savor the simple pleasures of life\u2014a warm pastry paired with a rich brew, while the world outside contemplates the transition from winter's grasp into the promise of spring.",
+    "color_code": "#2C2E4F",
+    "timestamp": "2024-12-19 23:08:05"
 }
