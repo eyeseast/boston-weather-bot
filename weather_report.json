@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T02:53:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 75.018440463752,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Clear"
+            "timestamp": "2024-12-20T06:53:00+00:00",
+            "temperature_f": 33.08,
+            "temperature_c": 0.6,
+            "humidity": 60.825667827517,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 350,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-19T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-12-20T03:00:00-05:00",
                 "endTime": "2024-12-20T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 28,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
                 "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 28. North wind around 6 mph."
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
+                "shortForecast": "Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers after 5am. Cloudy, with a low around 28. Northeast wind around 6 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-12-20T06:00:00-05:00",
                 "endTime": "2024-12-20T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 39,
+                "temperature": 36,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 60
                 },
                 "windSpeed": "6 to 10 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,40/snow,50?size=medium",
-                "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow before 11am, then a chance of rain between 11am and 5pm, then a chance of snow. Cloudy, with a high near 39. Northeast wind 6 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,60?size=medium",
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers before 2pm, then rain and snow showers likely. Cloudy, with a high near 36. Northeast wind 6 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "As twilight gathers over Boston, the city wears a cloak of clouds, hinting at the chill that lingers in the air. With temperatures dipping to a brisk 28 degrees, tonight invites a sense of quiet introspection. The gentle north wind whispers through the streets, creating an atmosphere that beckons for warmth. It is an evening suited for quiet reflection, perhaps curled up with a book or enjoying a steaming cup of tea while watching the light fade from the horizon.\n\nLooking ahead to tomorrow, the dawn promises a canvas of gray, with the likelihood of snow flurries teasing the morning. The day will oscillate between light snow and occasional rain, a reminder of the unpredictable embrace of winter. The air will hold a chill, with highs barely reaching the upper thirties, encouraging layers and cozy attire\u2014think knitted scarves, warm hats, and boots ready to tread through the dampness. Given the weather, it may be an excellent opportunity for a leisurely stroll through a local park, where one might witness the delicate beauty of snowflakes dancing on the wind, or perhaps a visit to a quaint caf\u00e9 to savor the simple pleasures of life\u2014a warm pastry paired with a rich brew, while the world outside contemplates the transition from winter's grasp into the promise of spring.",
-    "color_code": "#2C2E4F",
-    "timestamp": "2024-12-19 23:08:05"
+    "weather_report": "As the early morning wraps Boston in a shroud of soft darkness, a hint of snow dances lightly through the air, whispering promises of a wintry embrace. The streets lie hushed, the city just waking from its slumber, while a steady northeast breeze nudges the temperature into the brisk territory of twenty-eight degrees. As dawn approaches, the atmosphere is laden with clouds, creating an ethereal backdrop that blends the urban landscape into a muted canvas.\n\nThroughout the day, expect a continuation of this somber charm, with snow showers initially teasing the horizon before transitioning into a delicate mix of rain and snow. The high will struggle to reach thirty-six, bringing a damp chill that seeps into the bones. Dressing warmly is imperative; a layered approach will serve you well\u2014a snug sweater beneath a reliable winter coat, paired with a scarf and sturdy boots to navigate the slick streets. As the day unfolds, consider embracing the cozy atmosphere by retreating into a local caf\u00e9, sipping warm drinks while the world outside swirls. Alternatively, a gentle walk through the historic streets, under the soft flakes of precipitation, offers a serene invitation to experience Boston's winter wonder\u2014a quiet, reflective exploration before the holiday bustle truly begins.",
+    "color_code": "#7C7B7A",
+    "timestamp": "2024-12-20 03:08:34"
 }
