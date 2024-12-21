@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-20T15:08:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 84.573028786765,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 360,
+            "timestamp": "2024-12-20T23:53:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 85.061084990212,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 10,
             "description": "Light Snow and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2024-12-20T11:00:00-05:00",
-                "endTime": "2024-12-20T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 36,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 60
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,60?size=medium",
-                "shortForecast": "Chance Snow Showers",
-                "detailedForecast": "A chance of snow showers before 2pm, then rain and snow showers likely. Cloudy, with a high near 36. Northeast wind around 10 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-20T18:00:00-05:00",
+                "startTime": "2024-12-20T19:00:00-05:00",
                 "endTime": "2024-12-21T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 24,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 90
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "10 to 16 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/snow,60/snow,30?size=medium",
-                "shortForecast": "Snow Showers Likely",
-                "detailedForecast": "Snow showers likely. Mostly cloudy, with a low around 24. North wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,90/snow,30?size=medium",
+                "shortForecast": "Light Snow",
+                "detailedForecast": "Snow before 2am. Cloudy, with a low around 24. North wind 10 to 16 mph, with gusts as high as 28 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-12-21T06:00:00-05:00",
+                "endTime": "2024-12-21T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 31,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 12 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 31. Northwest wind 8 to 12 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "In the heart of Boston, the day unfolds beneath a thick veil of clouds, promising an atmosphere heavy with anticipation. As the snow showers make their quiet entrance, fine flakes dance momentarily before yielding to a drizzling rain that loves to blur the lines of the skyline. The temperature hovers around a muted 36 degrees, where the chill gently nudges one to seek the warmth of cozy layers. Gusts of wind, playful yet insistent at times, weave through the streets, urging you to secure your scarf and enjoy the enveloping embrace of a well-insulated jacket.\n\nAs night draws near, the promise of additional snow flurries lingers, transforming the ambiance into something almost dreamlike. The low will dip to a crisp 24, an invitation for warm cups of tea and quiet conversations. Perhaps a stroll through the city\u2019s dimly lit streets could provide the perfect respite, where reflections on damp pavements offer an ethereal quality. Wrapped in wool and accompanied by a friend, this evening could be brilliantly spent exploring local cafes, where the steam from hot beverages mingles with the chill in the air, creating a moment that feels as fleeting as the delicate snowflakes themselves.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-20 11:07:02"
+    "weather_report": "As the evening settles over Boston, a gentle snowfall is beginning to embrace the city, weaving a quilt of white across the streets and rooftops. The air carries a crisp chill, the kind that seeps into your bones, with gusts of wind that tell tales of winter's fierce temperament. With temperatures hovering around 24 degrees, the scene outside feels both ethereal and stark, a reminder of nature\u2019s quieter moods. Visibility may be diminishing as the darkness deepens, obscured by snowflakes swirling in the breeze, making it a perfect night to retreat indoors with a warm drink or perhaps a cozy blanket.\n\nLooking ahead to tomorrow, the promise of partial sunshine will contrast sharply with the night\u2019s snowfall, hinting at a merciful thaw from the cold. Though the high will only reach near 31, the winds will be light, allowing for a calmer experience outside than tonight\u2019s tumultuous gusts. Layering will be essential, with a warm coat, sturdy boots, and perhaps a scarf wrapped snugly around one's neck as you step out into the winter day. For those drawn to the outdoors, a brisk walk through the softly dusted parks or a leisurely visit to a local coffee shop might provide a moment of enjoyment, allowing you to appreciate the hushed beauty of a city dressed in winter's finest.",
+    "color_code": "#A5A7A9",
+    "timestamp": "2024-12-20 19:26:58"
 }
