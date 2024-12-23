@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-23T06:53:00+00:00",
-            "temperature_f": 8.96,
-            "temperature_c": -12.8,
-            "humidity": 60.270139969165,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 320,
+            "timestamp": "2024-12-23T10:53:00+00:00",
+            "temperature_f": 6.080000000000002,
+            "temperature_c": -14.4,
+            "humidity": 72.244324344656,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-23T03:00:00-05:00",
-                "endTime": "2024-12-23T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 2,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 2. Wind chill values as low as -6. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2024-12-23T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-12-23T07:00:00-05:00",
                 "endTime": "2024-12-23T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 24,
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 24. Wind chill values as low as -6. West wind around 6 mph."
+                "detailedForecast": "Sunny, with a high near 24. Wind chill values as low as -1. West wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-23T18:00:00-05:00",
+                "endTime": "2024-12-24T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 20,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/snow,40?size=medium",
+                "shortForecast": "Chance Light Snow",
+                "detailedForecast": "A chance of snow after 11pm. Mostly cloudy. Low around 20, with temperatures rising to around 26 overnight. Southwest wind around 6 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning, as the city rests beneath a blanket of stars, Boston presents an enchanting, if brisk, tableau. The night sky is clear, promising a bright day ahead, yet the temperature dips precariously low, urging the vigilant to bundle up against the biting chill. As dawn approaches, the air is laced with the faintest hints of frost, while whispers of wind dance through the streets, creating a crisp reminder that winter is firmly in command.\n\nBy day's light, the sun will rise to welcome a bright, sunny morning, the kind that invites you to step outside but does so with the caution of its frigid embrace. With highs reaching a modest 24 degrees, the sun\u2019s rays may glimmer invitingly, yet the reality of wind chill\u2014plunging to a cutting -6\u2014demands thoughtful attire. Imagine wrapping yourself in layered wool and cashmere, a cozy scarf tightly woven, gloves snug against thawing fingers. For those braving the outdoors, it is a day to indulge in simple pleasures: perhaps a stroll along the Charles with a steaming cup of coffee, the warmth of the beverage a fleeting comfort against the cold. For the more daring, a visit to one of Boston\u2019s lesser-known museums may provide an afternoon of culture while sheltering from the sharp winds outside. \n\nAs another day dawns in this storied city, the brisk air and clear skies beckon a balance of tranquillity and adventure, inviting all to embrace both the beauty and challenge of the season.",
-    "color_code": "#A0C6E1",
-    "timestamp": "2024-12-23 03:09:04"
+    "weather_report": "This morning, Boston awakens to a tranquil scene, bathed in the soft light of dawn. The air is crisp, with a shiver at the edges, as temperatures settle near twenty degrees. Despite the cold, the sky reveals a splendid clarity, tinged with the gentle hues of a winter sunrise. The forecast hints at a pleasant, albeit brisk, day ahead, with abundant sunshine and a high creeping toward twenty-four degrees. One might feel a biting chill on exposed skin, a reminder of winter\u2019s unyielding touch, as a gentle west wind whispers through the streets.\n\nAs evening approaches, a subtle transformation awaits. Clouds will gather, promising a chance of snow after nightfall, though only a modest accumulation is expected. This shift invites a certain coziness, a call for warm layers\u2014a thick sweater or a stylish coat, perhaps paired with a scarf to shield against the chill and an extra layer to fend off the evening\u2019s embrace. In this dynamic weather, one might stroll through a nearby park, savoring the crispness of the air, or settle into a local caf\u00e9, cradling a warm drink, watching the world transform as snowflakes begin to dance in the light. With each moment, Boston reveals its winter charm, urging us to embrace the quiet beauty of the season.",
+    "color_code": "#B2C0D6",
+    "timestamp": "2024-12-23 07:10:45"
 }
