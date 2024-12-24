@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-24T02:53:00+00:00",
-            "temperature_f": 15.979999999999997,
-            "temperature_c": -8.9,
-            "humidity": 80.13711548321,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Clear"
+            "timestamp": "2024-12-24T06:53:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 80.719316800236,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 130,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-23T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-12-24T03:00:00-05:00",
                 "endTime": "2024-12-24T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 20,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,30?size=medium",
-                "shortForecast": "Cloudy then Chance Light Snow",
-                "detailedForecast": "A chance of snow after midnight. Cloudy, with a low around 20. South wind around 7 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
+                "shortForecast": "Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 5am. Cloudy, with a low around 20. South wind around 7 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2024-12-24T06:00:00-05:00",
                 "endTime": "2024-12-24T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 34,
+                "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 100
                 },
                 "windSpeed": "6 to 10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/snow,50/bkn?size=medium",
-                "shortForecast": "Chance Light Snow then Partly Sunny",
-                "detailedForecast": "A chance of snow before noon. Partly sunny, with a high near 34. West wind 6 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,100/bkn?size=medium",
+                "shortForecast": "Light Snow then Mostly Cloudy",
+                "detailedForecast": "Snow before noon. Mostly cloudy, with a high near 33. West wind 6 to 10 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "As the midnight chill settles over Boston, a gentle anticipation hangs in the air, inviting thoughts of snowflakes, twinkling like tiny stars against a dark canvas. The sky, cloaked in clouds, hints at a moisture-rich embrace; a chance of snow after midnight whispers promises of winter's delicate touch. The temperature, dipping close to twenty, nudges you towards cozy layers\u2014perhaps a thick sweater beneath your coat, complemented by a soft scarf to ward off the night\u2019s bite. The south wind, barely a whisper at seven miles per hour, divulges a calm yet crisp atmosphere, setting the stage for a serene night ahead.\n\nOn Tuesday, the day emerges with the same promise of snow, dancing softly before noon under a partly sunny disposition. With a high near thirty-four, the sun intermittently peeks through the clouds, casting a patchwork of warm light across the city. Today would be best enjoyed with a companion\u2014perhaps a leisurely stroll through a park, where the snowflakes might find you mid-sentence in conversation. An afternoon spent inside a favorite caf\u00e9, steaming mug in hand, offers a cozy haven from the chill, as you watch the world outside transform with tender snow. Dressing for the day\u2019s whimsy\u2014layers lend warmth, a woolen hat secures your comfort, and sturdy boots invite you to explore the winter wonderland emerging around you. With this blend of chilly clarity and the joyful peace of a gentle snowfall, a quiet magic envelops Boston, making the mundane glimmer with possibilities.",
-    "color_code": "#1c1c3d",
-    "timestamp": "2024-12-23 23:08:03"
+    "weather_report": "In the serene hours before dawn, Boston lies cloaked in a quiet stillness, the air crisp with a hint of impending snow. A slight chance of flurries whispers promises of a snowy embrace by morning, as temperatures dip to a chill around twenty degrees, painted by the south wind bristling softly. As the city awakens, clouds gather ominously overhead, heralding the certainty of snow before noon. With a commanding expectation of a white winter wonderland, the day unfolds cool and gray, the temperature slowly climbing to a modest thirty-three degrees as the winds shift from the west.\n\nIn this delicate ballet of winter, the scene could sway either way\u2014inviting some to revel in the magic of a snow-kissed landscape while others might find the chill biting and the clouds oppressive. For those venturing out, warmth is key; heavy coats, knitted scarves, and mittens should be donned as you navigate the city's streets. Perhaps a slow stroll through a nearby park will reveal the enchanting stillness that comes with falling snow, or a cozy caf\u00e9 beckons for a hot cup of something invigorating. For the contemplative soul, curling up with a good book beside a window, watching the snow dance outside, could be the most delightful way to embrace the day.",
+    "color_code": "#A9B1C1",
+    "timestamp": "2024-12-24 03:08:35"
 }
