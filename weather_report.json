@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-23T18:53:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 52.831443695114,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 230,
+            "timestamp": "2024-12-24T02:53:00+00:00",
+            "temperature_f": 15.979999999999997,
+            "temperature_c": -8.9,
+            "humidity": 80.13711548321,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-23T15:00:00-05:00",
-                "endTime": "2024-12-23T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 23,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 23. South wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-23T18:00:00-05:00",
+                "startTime": "2024-12-23T23:00:00-05:00",
                 "endTime": "2024-12-24T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 20,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Light Snow",
-                "detailedForecast": "A chance of snow after midnight. Mostly cloudy, with a low around 20. South wind around 7 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,30?size=medium",
+                "shortForecast": "Cloudy then Chance Light Snow",
+                "detailedForecast": "A chance of snow after midnight. Cloudy, with a low around 20. South wind around 7 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2024-12-24T06:00:00-05:00",
+                "endTime": "2024-12-24T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 34,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 50
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/snow,50/bkn?size=medium",
+                "shortForecast": "Chance Light Snow then Partly Sunny",
+                "detailedForecast": "A chance of snow before noon. Partly sunny, with a high near 34. West wind 6 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, the sun breaks through the lingering clouds, casting a gentle warmth over the city, with a touch of hope for a pleasant day. With a high near 23 degrees, the air feels crisp, but the south wind carries a softness that whispers of winter\u2019s retreat, at least for now. Those venturing out will find the day inviting, although layers remain essential\u2014think of a warm coat, perhaps a scarf, to stave off the chill once the sun dips below the horizon. \n\nAs night approaches, clouds will thicken, bringing with them a hint of unpredictability. A chance of snow lurks in the air, a mere 30% chance, yet a reminder that winter\u2019s embrace is still palpable. For those considering evening plans, cozy activities may be in order, such as visiting local shops or enjoying a warm beverage at a quaint caf\u00e9, where conversation and laughter can flow as freely as the steam from your cup. The evening promises a quiet charm, punctuated by the soft glow of lights reflecting off the snow, an invitation to savor the simple joys of the season.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2024-12-23 15:06:51"
+    "weather_report": "As the midnight chill settles over Boston, a gentle anticipation hangs in the air, inviting thoughts of snowflakes, twinkling like tiny stars against a dark canvas. The sky, cloaked in clouds, hints at a moisture-rich embrace; a chance of snow after midnight whispers promises of winter's delicate touch. The temperature, dipping close to twenty, nudges you towards cozy layers\u2014perhaps a thick sweater beneath your coat, complemented by a soft scarf to ward off the night\u2019s bite. The south wind, barely a whisper at seven miles per hour, divulges a calm yet crisp atmosphere, setting the stage for a serene night ahead.\n\nOn Tuesday, the day emerges with the same promise of snow, dancing softly before noon under a partly sunny disposition. With a high near thirty-four, the sun intermittently peeks through the clouds, casting a patchwork of warm light across the city. Today would be best enjoyed with a companion\u2014perhaps a leisurely stroll through a park, where the snowflakes might find you mid-sentence in conversation. An afternoon spent inside a favorite caf\u00e9, steaming mug in hand, offers a cozy haven from the chill, as you watch the world outside transform with tender snow. Dressing for the day\u2019s whimsy\u2014layers lend warmth, a woolen hat secures your comfort, and sturdy boots invite you to explore the winter wonderland emerging around you. With this blend of chilly clarity and the joyful peace of a gentle snowfall, a quiet magic envelops Boston, making the mundane glimmer with possibilities.",
+    "color_code": "#1c1c3d",
+    "timestamp": "2024-12-23 23:08:03"
 }
