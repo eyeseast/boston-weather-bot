@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-28T06:53:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 84.80706707563,
+            "timestamp": "2024-12-28T10:53:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 84.70082200911,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2024-12-28T03:00:00-05:00",
-                "endTime": "2024-12-28T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 29,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_fzra,20?size=medium",
-                "shortForecast": "Slight Chance Freezing Rain",
-                "detailedForecast": "A slight chance of freezing rain between 4am and 5am, then a slight chance of freezing rain and a slight chance of rain. Cloudy, with a low around 29. Southwest wind around 7 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2024-12-28T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2024-12-28T07:00:00-05:00",
                 "endTime": "2024-12-28T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 42,
@@ -52,11 +33,30 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain,60/rain,50?size=medium",
                 "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely and patchy fog before 4pm, then patchy fog and a slight chance of rain between 4pm and 5pm, then patchy drizzle and patchy fog. Cloudy, with a high near 42. South wind 3 to 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain before 10am, then rain likely and patchy fog between 10am and 4pm, then patchy fog and a slight chance of rain between 4pm and 5pm, then patchy drizzle and patchy fog. Cloudy, with a high near 42. South wind 3 to 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2024-12-28T18:00:00-05:00",
+                "endTime": "2024-12-29T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle and patchy fog. Cloudy, with a low around 38. Southwest wind around 5 mph."
             }
         ]
     },
-    "weather_report": "In the quiet hours of the early morning, a veil of clouds blankets Boston, whispering hints of moisture in the air. The temperature hovers around that cusp of chill, threatening to dip into the realm of freezing rain, but with only a faint chance acting as a warning rather than a certainty. As the day begins, anticipation brews with the forecast promising rain and the lurking presence of patchy fog. By midday, the atmosphere is expected to grow thicker with clouds, weaving a shroud that softens the city\u2019s edges and dulls the sharpness of outlines. A high near 42 degrees suggests a hushed warmth, but the sense of dampness lingers, urging caution in our outdoor forays.\n\nFor those venturing out, dressing in layers becomes a considerate choice; a sturdy jacket repelling the damp, perhaps an umbrella, as the promise of rain looms ahead. A stroll through a tucked-away caf\u00e9 or an art gallery might provide a respite from the wet chill, inviting leisurely exploration and the indulgence of warm beverages. While the day may not boast the crystalline clarity of a sunny winter's day, the muted tones and soft fog bear their own unique beauty, a reminder of nature's gentler whims in the heart of winter. As the clock inches forward, let the spirit of the season guide you to cozy corners and quiet moments.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2024-12-28 03:07:36"
+    "weather_report": "In Boston, a soft veil of fog blankets the morning, casting a muted light over the day ahead. As you step outside, the air feels damp, mingling with the promise of rain that lingers like a well-worn song. Today, the sky remains overcast, with a persistent chance of drizzle escalating through the morning hours, lingering well into the afternoon. The temperature hangs around a cool 42 degrees, suggesting layers will be your ally; a warm sweater paired with a waterproof jacket should shield you from the chill and unexpected showers.\n\nAs the day unfolds, the potential for fog adds an ethereal quality to your surroundings, inviting one to embrace the quieter pleasures of indoor activities. Perhaps treat yourself to a comforting morning at a nearby caf\u00e9, sipping a warm beverage while admiring the soft glow of lights against the foggy backdrop. Alternatively, consider a leisurely stroll through a local museum, where the ambiance complements the weather\u2019s introspective nature. This is not a day for grandiosity, but for finding joy in the subtlety of moments that invite reflection and warmth.",
+    "color_code": "#A5B2B2",
+    "timestamp": "2024-12-28 07:09:17"
 }
