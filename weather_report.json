@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-27T18:53:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 37.923047671377,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 200,
+            "timestamp": "2024-12-27T23:53:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 72.137811402908,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-27T15:00:00-05:00",
-                "endTime": "2024-12-27T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 37,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 37, with temperatures falling to around 31 in the afternoon. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-27T18:00:00-05:00",
+                "startTime": "2024-12-27T19:00:00-05:00",
                 "endTime": "2024-12-28T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 28,
+                "temperature": 29,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct/fzra?size=medium",
-                "shortForecast": "Partly Cloudy then Slight Chance Freezing Rain",
-                "detailedForecast": "A slight chance of freezing rain after 5am. Partly cloudy, with a low around 28. Southwest wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 29. Southwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2024-12-28T06:00:00-05:00",
+                "endTime": "2024-12-28T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain_fzra,60/rain,60?size=medium",
+                "shortForecast": "Slight Chance Freezing Rain then Light Rain Likely",
+                "detailedForecast": "A slight chance of freezing rain between 7am and 8am, then a chance of rain between 8am and 9am, then rain likely and patchy fog. Cloudy, with a high near 42. South wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "The afternoon in Boston unfolds under a mostly sunny sky, where a crisp chill accompanies the day. Temperatures hover gently around thirty-seven degrees, dipping slightly as the hours pass, inviting a sense of quiet contemplation. The prominent southwest wind, whispering at five miles per hour, provides just enough movement to remind one of the season's ever-approaching evening. The horizon offers a clear view, albeit tempered by the promise of some precipitation later in the night, casting a subtle shadow on the otherwise pristine daylight.\n\nAs shadows lengthen and night approaches, the temperature is set to retreat to a low of twenty-eight, making a light layer or cardigan prudent against the chill. The likelihood of freezing rain looms, stirring a hint of caution amidst the calm. Should you find yourself wandering the streets, a long scarf and warm gloves would ensure comfort against the autumn air settling in. This evening, perhaps a quiet stroll around the neighborhood, or a cozy bookstore visit, could be the ideal remedy for a day that straddles the line between invigorating sunlight and encroaching frost. As the sun dips, consider a warm drink in a familiar caf\u00e9, where the hum of conversation and the scent of brewed coffee cradle the spirit, providing a fitting end to such a day.",
-    "color_code": "#A0C4E2",
-    "timestamp": "2024-12-27 15:06:37"
+    "weather_report": "The evening in Boston unfolds under a mostly cloudy canopy, the chill in the air a reminder of winter\u2019s firm grasp. With temperatures dipping to around 29 degrees, the southwest wind whispers through the streets, carrying a gentle rustle of leaves and the distant sounds of the city winding down. As night drapes itself over the landscape, the lights of the city shimmer like scattered stars, momentarily lifting the heaviness of the sky.\n\nSaturday promises a whisper of uncertainty, with the potential for a brief flirtation with freezing rain early in the morning, followed by the anticipation of a steady rain. The forecast hints at a high of 42 degrees, ensuring that any icy remnants will give way to a fog-laden day, a delicate veil softening the outlines of familiar streets. As the day unfolds, one might consider wrapping up warmly before stepping into the misty embrace of the morning, perhaps donning a sturdy coat and waterproof boots. The chance of rain looms, but so too does the enchanting allure of a quiet day spent exploring cozy caf\u00e9s or perusing the galleries and shops, where the warmth of good company and a steaming cup can transform the damp chill into something delightful.",
+    "color_code": "#4B9CD3",
+    "timestamp": "2024-12-27 19:26:47"
 }
