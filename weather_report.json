@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-28T02:53:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 84.677701356961,
+            "timestamp": "2024-12-28T06:53:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 84.80706707563,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2024-12-27T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2024-12-28T03:00:00-05:00",
                 "endTime": "2024-12-28T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 29. Southwest wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain_fzra,20?size=medium",
+                "shortForecast": "Slight Chance Freezing Rain",
+                "detailedForecast": "A slight chance of freezing rain between 4am and 5am, then a slight chance of freezing rain and a slight chance of rain. Cloudy, with a low around 29. Southwest wind around 7 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 60
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_fzra,60/rain,60?size=medium",
-                "shortForecast": "Slight Chance Freezing Rain then Light Rain Likely",
-                "detailedForecast": "A slight chance of freezing rain between 7am and 8am, then a chance of rain between 8am and 9am, then rain likely and patchy fog. Cloudy, with a high near 42. South wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,60/rain,50?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely and patchy fog before 4pm, then patchy fog and a slight chance of rain between 4pm and 5pm, then patchy drizzle and patchy fog. Cloudy, with a high near 42. South wind 3 to 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As night drapes its serene cloak over Boston, the city nestles into a mostly cloudy embrace, with temperatures hovering around the chill of 29 degrees. A gentle southwest wind whispers through the streets, hinting at the subtle shifts in weather to come. Tomorrow, dawn will bring a hint of tension with a slight chance of freezing rain, flirting briefly with the early morning hours. This is soon followed by a transformation\u2014rain is expected to lace the city in a melancholic shroud, punctuated by patches of fog that could soften the outlines of familiar buildings, rendering them almost dreamlike against the gray backdrop. With a high near 42 degrees, this transition invites not just a change in weather, but perhaps a reflective shift in one\u2019s plans.\n\nAs you prepare for the day ahead, it would serve you well to bundle up in layers that evoke both comfort and practicality: a warm coat, perhaps a snug hat, and sturdy footwear for the inevitable dampness underfoot. Consider setting out for a leisurely stroll through the quieter parts of the city, with the slight aroma of rain mingling in the air, leading you to a cozy caf\u00e9 where you can revel in the simple pleasure of a warm drink while watching the world drift by in its muted colors. Or perhaps a visit to an art gallery, where escaping the weather for a while will nourish your spirit amid the dreary tapestry of the outdoors. In these moments, the weather becomes not just a backdrop but an integral part of the day, inviting stillness in a bustling world.",
-    "color_code": "#6C757D",
-    "timestamp": "2024-12-27 23:07:27"
+    "weather_report": "In the quiet hours of the early morning, a veil of clouds blankets Boston, whispering hints of moisture in the air. The temperature hovers around that cusp of chill, threatening to dip into the realm of freezing rain, but with only a faint chance acting as a warning rather than a certainty. As the day begins, anticipation brews with the forecast promising rain and the lurking presence of patchy fog. By midday, the atmosphere is expected to grow thicker with clouds, weaving a shroud that softens the city\u2019s edges and dulls the sharpness of outlines. A high near 42 degrees suggests a hushed warmth, but the sense of dampness lingers, urging caution in our outdoor forays.\n\nFor those venturing out, dressing in layers becomes a considerate choice; a sturdy jacket repelling the damp, perhaps an umbrella, as the promise of rain looms ahead. A stroll through a tucked-away caf\u00e9 or an art gallery might provide a respite from the wet chill, inviting leisurely exploration and the indulgence of warm beverages. While the day may not boast the crystalline clarity of a sunny winter's day, the muted tones and soft fog bear their own unique beauty, a reminder of nature's gentler whims in the heart of winter. As the clock inches forward, let the spirit of the season guide you to cozy corners and quiet moments.",
+    "color_code": "#8B9DC3",
+    "timestamp": "2024-12-28 03:07:36"
 }
