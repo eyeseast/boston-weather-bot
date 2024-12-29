@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-28T18:53:00+00:00",
-            "temperature_f": 44.06,
-            "temperature_c": 6.7,
-            "humidity": 88.909043890296,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 160,
-            "description": "Fog/Mist"
+            "timestamp": "2024-12-28T22:53:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 92.560961924407,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Fog"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-28T15:00:00-05:00",
-                "endTime": "2024-12-28T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain?size=medium",
-                "shortForecast": "Areas Of Drizzle",
-                "detailedForecast": "Areas of fog before 4pm, then areas of drizzle and areas of fog. Cloudy, with a high near 42. South wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-28T18:00:00-05:00",
+                "startTime": "2024-12-28T19:00:00-05:00",
                 "endTime": "2024-12-29T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
                 "shortForecast": "Areas Of Drizzle",
                 "detailedForecast": "Areas of drizzle and areas of fog. Cloudy, with a low around 36. Southwest wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2024-12-29T06:00:00-05:00",
+                "endTime": "2024-12-29T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
+                "shortForecast": "Areas Of Drizzle",
+                "detailedForecast": "Areas of drizzle and areas of fog before 8am, then areas of drizzle and areas of fog and a chance of rain. Cloudy, with a high near 46. South wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "A gentle veil of fog envelops Boston this afternoon, casting a muted shroud over the city and muffleing the usual hustle. The air hangs with an uncharacteristic softness, marked by a persistent drizzle that adds a touch of melancholic charm to the afternoon. As the day wears on, the gray sky looms, offering little in the way of warmth or sun, creating a pervasive chill that invites those who venture outdoors to seek comfort in layers. With the temperature hovering around a somewhat brisk 42 degrees, a cozy sweater or light jacket accompanied by a sturdy umbrella would serve any afternoon stroll or quiet outing well.\n\nAs evening approaches, the fog deepens, and the drizzle is set to continue its dance, fostering a sense of tranquility yet urging caution. The soft murmurs of rain against leaves and rooftops create a soothing backdrop for a quiet night in, perfect for curling up with a book, or perhaps indulging in a leisurely cup of tea at your favorite caf\u00e9. Such days may push us to embrace indoor pastimes, but they can also inspire creativity and reflection. Consider immersing yourself in a local art exhibit or taking a serene walk through one of Boston's winding paths, where the charm of the city can envelop you in a different light.",
-    "color_code": "#A4B6C1",
-    "timestamp": "2024-12-28 15:06:31"
+    "weather_report": "Tonight in Boston, the air is cloaked in a misty embrace, with drizzle settling over the landscape like a whisper that softens the edges of the city. Conditions are notably hazy, with visibility compromised by the gentle fog that weaves through the streets, inviting a slower pace. As the temperature hovers around a brisk 36 degrees, a mild southwest wind adds a touch of chill to the evening, urging you to reach for your warmest layers. A snug coat, perhaps, accompanied by a scarf, would serve well against the dampness rising from the ground.\n\nAs Sunday dawns, the weather continues to be marked by the presence of fog and drizzle, likely lingering until late morning. By noon, the clouds will remain a steadfast companion, with temperatures creeping toward a slightly warmer high near 46. Despite the sporadic drizzle and a hint of rain in the air\u2014accompanied by a gentle breeze from the south\u2014there exists a peculiar charm in this muted atmosphere. A stroll through the quiet streets could reveal tranquil scenes, untouched by the stir of the usual weekend bustle. Cozy cafes beckon for a leisurely cup of coffee, where one might get lost in a good book while watching the world go by through fogged windows. In such weather, one might savor the simple pleasure of a warm drink, wrapped in soft layers, while the city gently awakens beneath a gray veil.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2024-12-28 19:30:38"
 }
