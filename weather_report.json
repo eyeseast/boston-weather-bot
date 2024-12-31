@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2024-12-30T19:15:00+00:00",
-            "temperature_f": 60.08,
-            "temperature_c": 15.6,
-            "humidity": 74.582928368531,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 210,
-            "description": "Partly Cloudy"
+            "timestamp": "2024-12-30T23:53:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 54.110084017545,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 220,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2024-12-30T15:00:00-05:00",
-                "endTime": "2024-12-30T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 57, with temperatures falling to around 49 in the afternoon. Southwest wind around 13 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2024-12-30T18:00:00-05:00",
+                "startTime": "2024-12-30T19:00:00-05:00",
                 "endTime": "2024-12-31T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 37. Southwest wind 8 to 12 mph."
+                "detailedForecast": "Mostly clear, with a low around 37. Southwest wind around 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2024-12-31T06:00:00-05:00",
+                "endTime": "2024-12-31T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 50. Southwest wind 5 to 9 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon sun filters through a patchwork of clouds, Boston enjoys a brief respite from the chill. The air is crisp, a gentle reminder that winter has taken firm hold. With temperatures hovering near 57 degrees before settling into the low 40s, the day carries a pleasant but brisk quality, inviting residents to embrace the outdoors with layers. The sweeping vistas offer clarity, gleaming with the promise of a refreshingly clear evening ahead. \n\nFor those contemplating an outing, a leisurely walk through one of Boston's storied neighborhoods holds appeal, perhaps indulging in a warm cup of coffee at a local caf\u00e9. As dusk approaches, the temperatures will dip invitingly into the 30s, suggesting that a light jacket or a cozy sweater would be wise companions for anyone who wishes to extend their time outside. With a southwest breeze providing a lively touch, it\u2019s a perfect afternoon for embracing the city\u2019s vibrant winter spirit, where moments of tranquility and the subtle charm of the season mingle effortlessly in the air.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2024-12-30 15:06:49"
+    "weather_report": "As the evening deepens over Boston, a gentle clarity descends that is characteristic of a crisp winter night. The low temperatures flirt around the upper thirties, a reminder of the fleeting warmth of the day past. The southwest wind whispers softly, carrying a coolness that nudges one to seek warmth. The streets and parks, draped in the faint glow of city lights, create a charming yet tranquil scene, embodying the contemplative spirit of this time of year. \n\nLooking ahead to tomorrow, the promise of a mostly sunny day brings a welcome anticipation, with temperatures projected to reach near fifty. It will be a day of blue skies adorned with the occasional wispy cloud, an invitation to step outside and soak in the refreshing winter air. For those venturing out, layering will be key: a lightweight sweater nestled beneath a warm jacket, perhaps complemented by a soft scarf. Activities abound within the city\u2019s embrace; a leisurely stroll along the Esplanade could be just the antidote to the everyday hustle, or perhaps a visit to a local caf\u00e9, where the warmth of freshly brewed coffee can be enjoyed while gazing out onto the charming, albeit chilly, streets of Boston.",
+    "color_code": "#2A4A77",
+    "timestamp": "2024-12-30 19:27:19"
 }
