@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-01T19:12:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 82.606319428922,
+            "timestamp": "2025-01-01T23:44:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 76.443291612891,
             "wind_speed_mph": 37.04472,
             "wind_direction": 280,
-            "description": "Cloudy"
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "New Year's Day",
-                "startTime": "2025-01-01T15:00:00-05:00",
-                "endTime": "2025-01-01T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain after 5pm. Partly sunny, with a high near 49. West wind around 10 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-01T18:00:00-05:00",
+                "startTime": "2025-01-01T19:00:00-05:00",
                 "endTime": "2025-01-02T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 40
                 },
-                "windSpeed": "9 to 21 mph",
+                "windSpeed": "12 to 21 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/rain,40/wind_bkn?size=medium",
                 "shortForecast": "Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain and patchy fog before 10pm. Mostly cloudy, with a low around 33. West wind 9 to 21 mph, with gusts as high as 32 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain before 10pm. Mostly cloudy, with a low around 33. West wind 12 to 21 mph, with gusts as high as 32 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-01-02T06:00:00-05:00",
+                "endTime": "2025-01-02T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 41,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "18 to 23 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 41. West wind 18 to 23 mph, with gusts as high as 47 mph."
             }
         ]
     },
-    "weather_report": "As New Year\u2019s Day unfolds in Boston, an atmosphere of muted anticipation hangs over the city, cloaked in a blanket of clouds. The air is cool and carries the faintest chance of rain, a whisper of moisture that might graze the streets as evening draws near. A brisk wind dances through the urban landscape, painting a picture of both vigor and chill, urging passersby to bundle up in their warmest coats against the nipping air. \n\nThis afternoon, with a high around 49 degrees, the skies are partly sunny, presenting brief, elusive glimpses of light that play hide-and-seek behind the cloud cover. Yet, don\u2019t be deceived by the hints of brightness; a chance of patchy fog may weave its way in before night falls, making for a potentially murky transition. As the day wears on and the temperature dips toward a low of around 33, the elements will invite the comfort of layers\u2014a cozy scarf, a sturdy hat, and perhaps the warmth of a good pair of gloves. \n\nIdeal for a low-key wander through the city\u2019s nooks, consider a leisurely stroll along the waterfront, a chance to savor the brisk air and reflections in the harbor, or perhaps a quiet afternoon in a local cafe, steaming mugs warming your hands as the world gently obscures itself in the dusk. Embrace the day, for there is beauty even in the grayness that lies ahead.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-01-01 15:06:38"
+    "weather_report": "As the twilight descends upon Boston, the city wears a cloak of clouds, thick and swirling, framing the brisk evening air. A hint of rain lingers, fading into the distance but leaving behind a chill that slinks through the alleyways and against the brick facades. With temperatures dipping into the low thirties, the gusty west wind dances through the streets, tugging at coats and scarves, reminding all that the season\u2019s chill is far from over. This evening, under a mottled sky, the possibility of rain\u2014albeit slight\u2014brings an edge to the atmosphere, coloring the unyielding winds with an almost dramatic flair.\n\nLooking ahead to tomorrow, one can find solace in the promise of a clear sky, with the sun making a gallant return. The forecast suggests the day will evolve from tonight's turbulent mood into a refreshing briskness, ideal for a brisk walk or a venture into one of the city\u2019s congenial cafes. Warm layers will be necessary, especially as the wind\u2019s intensity peaks, with gusts demanding attention. This isn\u2019t a day for the faint of heart but rather for those willing to embrace the invigorating chill that will characterize the morning. Whether one finds joy in the quiet hum of a bookshop or in the warmth of a steaming cup, the day holds an invitation to revel in the resilient spirit of a Boston winter.",
+    "color_code": "#4B4C4D",
+    "timestamp": "2025-01-01 19:27:06"
 }
