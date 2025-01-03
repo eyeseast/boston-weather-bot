@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-03T06:53:00+00:00",
+            "timestamp": "2025-01-03T10:53:00+00:00",
             "temperature_f": 35.06,
             "temperature_c": 1.7,
             "humidity": 45.276702565598,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 270,
-            "description": "Clear"
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 260,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-03T03:00:00-05:00",
-                "endTime": "2025-01-03T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 28,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 28. West wind around 10 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-01-03T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-03T07:00:00-05:00",
                 "endTime": "2025-01-03T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 38,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 38. West wind 9 to 16 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-03T18:00:00-05:00",
+                "endTime": "2025-01-04T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 23,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 23. West wind around 8 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning, Boston rests beneath a mostly clear canopy, hinting at the briskness of a season that has settled deeply into winter. The chill air, brushing against the skin like a whisper of frost, reaches a low of 28 degrees\u2014the kind of cold that nudges one to burrow deeper into layers of warmth. As the hours unfold, the day promises to greet us with bright, mostly sunny skies above\u2014a brilliant backdrop against which the stark beauty of the cold landscape becomes all the more defined. With a high of near 38 degrees, the warmth of the sun will be fleeting, accentuated by a west wind quietly stirring and nudging the chill into our bones, its gusts reminding us of the season\u2019s capacity for briskness.\n\nAs you contemplate your attire for the day, a well-structured coat, perhaps of wool or down, will serve you best, along with a soft scarf to guard against the biting air and gloves to shield those precious fingers. The weather invites a gentle venture outdoors\u2014perhaps a stroll through one of the many serene parks, where the gnarled branches cradle their snow-laden crowns, or along the waterfront, where the mesmerizing dance of the waves echoes the distant heartbeat of the city. It\u2019s a day to appreciate the subtle simplicity of winter\u2019s embrace, to sip a warm beverage filled with the sweetness of the season, and to engage in the quiet, contemplative moments that this time of year so generously offers.",
-    "color_code": "#A3B0C3",
-    "timestamp": "2025-01-03 03:08:25"
+    "weather_report": "As the dawn breaks over Boston, a gentle glow emerges, heralding a day that promises clarity beneath a mostly sunny sky. Despite the early chill whispering through the trees, where the temperature approaches a crisp 38 degrees, the sun\u2019s rays gradually peel away the remnants of the night, signaling a lively day ahead. A brisk westerly wind dances through the streets, inviting one to embrace the freshness in the air while serving as a brisk reminder of winter\u2019s unmistakable presence.\n\nToday\u2019s conditions beckon for a layered outfit; a warm coat paired with a soft scarf will do wonders against the biting wind, while perhaps comfortable gloves might add to one\u2019s outdoor experience. With the afternoon sun painting a vibrant scene, the city around the Common comes alive. A leisurely stroll through one of Boston\u2019s storied parks or a quiet moment at your favorite caf\u00e9 could be perfect for savoring the lively atmosphere. As evening approaches, the skies will remain clear, making way for a peaceful night filled with stars, a sharp contrast to the sunlit day. Embrace the day, for it is a charming tapestry woven with the threads of a typical New England winter day.",
+    "color_code": "#A3C1E0",
+    "timestamp": "2025-01-03 07:10:33"
 }
