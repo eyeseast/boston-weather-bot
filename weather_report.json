@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-04T18:53:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 34.516165332387,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Clear"
+            "timestamp": "2025-01-04T22:53:00+00:00",
+            "temperature_f": 28.94,
+            "temperature_c": -1.7,
+            "humidity": 42.498706742801,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 290,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-04T15:00:00-05:00",
-                "endTime": "2025-01-04T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 29,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 29. West wind around 17 mph, with gusts as high as 35 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-04T18:00:00-05:00",
+                "startTime": "2025-01-04T19:00:00-05:00",
                 "endTime": "2025-01-05T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 22,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "9 to 14 mph",
+                "windSpeed": "9 to 13 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 22. West wind 9 to 14 mph, with gusts as high as 26 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 22. West wind 9 to 13 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-01-05T06:00:00-05:00",
+                "endTime": "2025-01-05T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 31,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 31. West wind 10 to 15 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon sun stretches across Boston, the city is basking in a mostly sunny embrace, with a gentle breeze weaving through the streets. The air is crisp, inviting a slight chill that teases the skin, while the blue sky overhead is punctuated by a few playful clouds, scattered like thought bubbles on a canvas. With temperatures hovering around 29 degrees, this is a moment where winter\u2019s chill claims dominance, yet the sunlight offers a warm contrast, making the world outside feel alive and inviting. \n\nAs night softly descends, the temperatures will dip to around 22 degrees, but the wispy clouds will keep the evening relatively comfortable as they shift and dance overhead. A stroll through one of Boston\u2019s quieter streets would be a delightful choice today, perhaps a visit to a local caf\u00e9 to savor a steaming cup of cocoa or coffee, as the surrounding lights begin to twinkle against the dusk. Dressing in layers\u2014perhaps a warm scarf and a sturdy coat\u2014would be wise, ensuring you can transition from the briskness of the outdoors to the coziness of indoor retreats with ease. This afternoon and evening, the air is filled with potential, as Boston invites you to savor its winter charm amidst a picturesque setting.",
-    "color_code": "#AEDDFF",
-    "timestamp": "2025-01-04 15:06:27"
+    "weather_report": "Tonight in Boston, the skies are mostly shrouded in clouds, lending the atmosphere a muted quality\u2014an urban canvas softened by the night. The temperature is settling down to a brisk chill, around 22 degrees, with a substantial west wind whispering through the streets, occasionally gusting to create an unwelcome bite in the air. Those venturing out will want to layer up, perhaps donning a woolen scarf and a comfortable jacket to fend off the evening's crisp embrace. \n\nAs dawn breaks tomorrow, the clouds may thin slightly to reveal a mix of sun, offering a glimpse of warmth amid the chill. Temperatures will climb towards a high of 31, with the winds continuing their dance, adding to the ever-constant rhythm of winter in the city. Sunday presents an opportunity for simple pleasures: a leisurely stroll along the waterfront or perhaps a visit to a cozy caf\u00e9, where the steam from a warm drink can fortify against the lingering cold. It promises to be a day that, while brisk, encourages a gentle exploration of Boston's charm, where even in the chill, warmth can be found in the heart of the city.",
+    "color_code": "#6C7C93",
+    "timestamp": "2025-01-04 19:30:22"
 }
