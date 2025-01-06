@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-06T06:53:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 52.197931439354,
+            "timestamp": "2025-01-06T10:53:00+00:00",
+            "temperature_f": 21.02,
+            "temperature_c": -6.1,
+            "humidity": 54.042108292291,
             "wind_speed_mph": 33.01812,
-            "wind_direction": 310,
+            "wind_direction": 300,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-06T03:00:00-05:00",
-                "endTime": "2025-01-06T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 17,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 17. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-01-06T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-06T07:00:00-05:00",
                 "endTime": "2025-01-06T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 27,
+                "temperature": 30,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 27. Northwest wind around 8 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 30. Northwest wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-06T18:00:00-05:00",
+                "endTime": "2025-01-07T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 16,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 16. Northwest wind 7 to 10 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a gentle stillness envelops the city, with a cool breeze whispering through the air. The overnight sky, a canvas of scattered clouds, has settled into a crisp tranquility, marking a low temperature that hints at the chill of winter. The night\u2019s low has created a serene atmosphere, ideal for contemplation or a quiet stroll through the dimly lit streets lined with flickering lamplights. The night\u2019s slumber still lingers, revealing a view softened by the distance that hugs the city, and the faint outline of the skyline adds a touch of enchantment.\n\nAs the day unfolds, the clouds will gently thicken, casting a muted glow over Boston and offering a soft shield against the sun. The high temperature promises a slight increase, encouraging both adventure and relaxation under the watchful eye of a northwest wind. Dress warmly, layering your favorite woolen garments and making space for a sturdy coat to fend off the crisp air. While the chill may urge you indoors, consider an afternoon jaunt to one of Boston\u2019s lesser-known galleries or a cozy caf\u00e9, nestled away from the hustle\u2014places where the warmth of a hot cup can infuse both comfort and inspiration. The day calls for quiet exploration, a gentle embrace of the ordinary, where the subtle shifts in the weather reflect the simple joys of life.",
-    "color_code": "#1A1A1A",
-    "timestamp": "2025-01-06 03:09:19"
+    "weather_report": "This morning in Boston, a gentle cloak of clouds stretches across the sky, lending the city a serene, muted ambiance, as if it were wrapped in soft fabric. The chill in the air whispers of winter, with temperatures climbing slowly toward a high that barely grazes the freezing point. Clouds hover, yet they are not stubbornly gray\u2014the hint of brightness hints at the possibility of afternoon clarity, a gift for those who venture outdoors. As evening beckons, the skies are set to clear, offering a glimpse into the deep stillness of the night and inviting the contemplative soul to reflect under a gently shimmering canopy. \n\nFor those seeking comfort amid the cool embrace of the day, layering is key. A warm coat, perhaps complemented by a snug scarf, will shield against the brisk northwest winds that weave through the streets. As the sun begins to dip, embrace the evening with a warm drink in hand, perhaps exploring nearby caf\u00e9s or taking a quiet walk along the Esplanade. The sights and sounds of the city will transform into a gentle lullaby, perfect for those who wish to savor the tranquil beauty of a winter evening in Boston.",
+    "color_code": "#7C9CD3",
+    "timestamp": "2025-01-06 07:11:01"
 }
