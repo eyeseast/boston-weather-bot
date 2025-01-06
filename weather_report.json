@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-05T18:53:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 43.3562493312,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 260,
+            "timestamp": "2025-01-05T23:53:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 49.208503140793,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 330,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-05T14:00:00-05:00",
-                "endTime": "2025-01-05T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 33,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 33. Northwest wind around 15 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-05T18:00:00-05:00",
+                "startTime": "2025-01-05T19:00:00-05:00",
                 "endTime": "2025-01-06T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 17,
@@ -52,11 +33,30 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 17. Northwest wind 8 to 13 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Mostly clear, with a low around 17. Northwest wind 8 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-01-06T06:00:00-05:00",
+                "endTime": "2025-01-06T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 27. West wind around 9 mph."
             }
         ]
     },
-    "weather_report": "As afternoon unfolds over Boston, the sky dons a quilt of scattered clouds, occasionally making way for glimpses of a sun that fights against the chill. With temperatures struggling to reach 33 degrees, the invigorating northwest wind adds a playful bite to the air, reminding us of winter\u2019s presence. A gentle rustle of leaves may accompany brisk walks, making for a day that feels both crisp and refreshing. Though the atmosphere appears generally clear, a soft haze clings to the landscape, suggesting the city\u2019s outlines are slightly blurred; one might envision a scene painted in subdued tones.\n\nAs evening approaches, temperatures will drop to around 17 degrees, encouraging those venturing outside to opt for layered clothing, pairing warm coats with scarves and gloves to ward off the chill. The night promises a clearer sky, providing a perfect backdrop for a quiet stroll perhaps along the Esplanade, where the tranquility of the evening can be savored amidst the rustling of trees and the soft sounds of the city winding down. With the wind calming somewhat, one might take a moment to appreciate the serene beauty of winter in the city, where the air feels fresh and invigorating\u2014a reminder of nature\u2019s quiet resilience.",
-    "color_code": "#A0C4FF",
-    "timestamp": "2025-01-05 15:06:25"
+    "weather_report": "As night settles over Boston, a gentle crispness fills the air, inviting quiet contemplation. The sky, mostly clear, reveals scattered clouds that dance shyly across the face of the darkness, while the city lights twinkle like distant stars, offering a warm glow against the chill. With temperatures dipping to a refreshing low, the northwest wind, whispering through the streets, adds a brisk note to the evening. Wrapped in layers of warmth\u2014perhaps a cozy sweater and a well-fitted coat\u2014one might delight in a leisurely stroll along the Charles River or wander the quaint streets of Beacon Hill, savoring the stillness that nights like this can bring.\n\nLooking ahead to the morrow, one can expect a charming return of sunshine, breaking through the remnants of night with a cheerful disposition. Temperatures will rise gently, promising a day that is both invigorating and pleasant. With a light wind carrying the hints of late winter, it is a perfect opportunity for quiet coffee in a favorite caf\u00e9 or exploring the vibrant yet serene beauty of one of Boston's many parks. Embracing the day with light attire, perhaps a tailored jacket and comfortable shoes, will suit the spirit of adventure while ensuring warmth against the lingering chill of January.",
+    "color_code": "#1A1A1A",
+    "timestamp": "2025-01-05 19:29:14"
 }
