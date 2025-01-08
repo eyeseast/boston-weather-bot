@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-08T10:53:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 52.197931439354,
+            "timestamp": "2025-01-08T18:53:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 33.986643485513,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": "Clear"
@@ -18,8 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-01-08T07:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2025-01-08T15:00:00-05:00",
                 "endTime": "2025-01-08T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 25,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "14 to 20 mph",
+                "windSpeed": "20 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 25. West wind 14 to 20 mph, with gusts as high as 33 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 25. West wind around 20 mph, with gusts as high as 39 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-01-08T18:00:00-05:00",
                 "endTime": "2025-01-09T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 14,
+                "temperature": 15,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
-                "windSpeed": "16 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers after 3am. Mostly cloudy, with a low around 14. Northwest wind around 16 mph, with gusts as high as 31 mph. Chance of precipitation is 20%."
+                "windSpeed": "15 to 18 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 15. West wind 15 to 18 mph, with gusts as high as 37 mph."
             }
         ]
     },
-    "weather_report": "This morning in Boston, the air carries a crisp clarity that hints at the promise of a splendid winter day. A substantial sun hangs in the sky, reinvigorating the landscape with its golden touch, while a brisk west wind sweeps across the city, playfully tousling tree branches and scattering loose leaves. As the day progresses, temperatures will hover around a comfortable 25 degrees, augmented by a dynamic breeze that refreshes without being overpowering. Yet, as evening approaches, there's a whisper of uncertainty with the potential for light snow showers, adding an enigmatic charm to the night skies.\n\nFor those stepping out today, a layered approach to dressing is key\u2014heavy coats and warm scarves blanket the chilly air, while sturdy boots will keep feet secure against any unexpected flurries. Whether meandering through the city\u2019s parks, savoring a warm beverage from a local caf\u00e9, or exploring hidden corners of Boston's historic streets, the day invites a sense of quiet adventure. As the sun dips low and the clouds roll in, each moment captures the beauty of winter\u2019s embrace, urging you to seize the day before the snowflakes start to dance.",
-    "color_code": "#CAD8E0",
-    "timestamp": "2025-01-08 07:11:00"
+    "weather_report": "This afternoon in Boston, a bright array of sunlight spills across the city, casting sharp shadows and illuminating the chill of a winter day. With a brisk west wind singeing the air at around 20 miles per hour, the temperature hovers near a refreshing 25 degrees. While the skies exhibit a modest fullness of clouds, they remain mostly sunny, revealing patches of blue that invite a moment of stillness and contemplation. This late afternoon can be felt as invigorating, yet the persistent gusts remind us of the season's bite, suggesting that a well-crafted scarf and a sturdy coat are prudent choices to ward off the cold.\n\nAs twilight approaches, temperatures will dip to around 15 degrees, with winds continuing to shift toward a steady murmur, maintaining their impact on the chill factor. The shift to an evening filled with mostly cloudy skies introduces a feeling of coziness longed for on winter nights. One might find it the perfect time to engage in a good book by the fire or enjoy a tranquil stroll, appreciating the almost serene atmosphere settling over the city. Whether sipping a steaming cup of cocoa at a local caf\u00e9 or exploring the quiet beauty of a nearby park, this day, though brisk, unfolds with inviting potential.",
+    "color_code": "#6495ED",
+    "timestamp": "2025-01-08 15:07:06"
 }
