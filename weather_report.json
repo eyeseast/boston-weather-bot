@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-08T06:53:00+00:00",
-            "temperature_f": 24.08,
-            "temperature_c": -4.4,
-            "humidity": 49.888896066596,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 280,
+            "timestamp": "2025-01-08T10:53:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 52.197931439354,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-08T03:00:00-05:00",
-                "endTime": "2025-01-08T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 16,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 16. West wind around 14 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-01-08T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-08T07:00:00-05:00",
                 "endTime": "2025-01-08T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 24,
+                "temperature": 25,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 24. West wind 14 to 20 mph, with gusts as high as 33 mph."
+                "detailedForecast": "Sunny, with a high near 25. West wind 14 to 20 mph, with gusts as high as 33 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-08T18:00:00-05:00",
+                "endTime": "2025-01-09T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 14,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "16 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers after 3am. Mostly cloudy, with a low around 14. Northwest wind around 16 mph, with gusts as high as 31 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the night deepens over Boston, the city envelops itself in a tranquil cloak, punctuated only by the glimmering starlight of nearby urban luminescence. A brisk wind whispers secrets through the quiet streets, carrying a chill that nudges the mercury down to a modest level. The sunrise, though a few hours away, promises to sweep the horizon in amber hues, awakening the world in a gentle caress of warmth. \n\nTomorrow's forecast heralds a resplendent day, brightened by the sun's confident ascension, where soft rays will dance upon the surface of the Charles and imbue the air with a sense of optimism. With temperatures flirting with the twenties, the day will beckon you outdoors; yet, the wind remains a steadfast companion, insistent at times, reminding all to dress appropriately in layers\u2014perhaps a cozy wool sweater beneath a sturdy jacket, complemented by a knitted hat to ward off the briskness. It\u2019s a splendid opportunity to stroll through the Public Garden, perhaps savoring a hot drink at a favorite caf\u00e9, or a casual exploration of the winding paths that lead to unanticipated views and inspired thoughts. In this harmonious blend of cool and sun, the day extends an invitation to engage with life's simple pleasures, to breathe richly and embrace the journey ahead.",
-    "color_code": "#2C2F35",
-    "timestamp": "2025-01-08 03:08:25"
+    "weather_report": "This morning in Boston, the air carries a crisp clarity that hints at the promise of a splendid winter day. A substantial sun hangs in the sky, reinvigorating the landscape with its golden touch, while a brisk west wind sweeps across the city, playfully tousling tree branches and scattering loose leaves. As the day progresses, temperatures will hover around a comfortable 25 degrees, augmented by a dynamic breeze that refreshes without being overpowering. Yet, as evening approaches, there's a whisper of uncertainty with the potential for light snow showers, adding an enigmatic charm to the night skies.\n\nFor those stepping out today, a layered approach to dressing is key\u2014heavy coats and warm scarves blanket the chilly air, while sturdy boots will keep feet secure against any unexpected flurries. Whether meandering through the city\u2019s parks, savoring a warm beverage from a local caf\u00e9, or exploring hidden corners of Boston's historic streets, the day invites a sense of quiet adventure. As the sun dips low and the clouds roll in, each moment captures the beauty of winter\u2019s embrace, urging you to seize the day before the snowflakes start to dance.",
+    "color_code": "#CAD8E0",
+    "timestamp": "2025-01-08 07:11:00"
 }
