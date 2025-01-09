@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-09T06:53:00+00:00",
-            "temperature_f": 19.939999999999998,
-            "temperature_c": -6.7,
-            "humidity": 44.898266276713,
+            "timestamp": "2025-01-09T14:53:00+00:00",
+            "temperature_f": 24.08,
+            "temperature_c": -4.4,
+            "humidity": 45.608526116688,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Cloudy"
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-09T03:00:00-05:00",
-                "endTime": "2025-01-09T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 16,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 16. West wind around 17 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-01-09T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-09T11:00:00-05:00",
                 "endTime": "2025-01-09T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": null
                 },
-                "windSpeed": "17 to 21 mph",
+                "windSpeed": "20 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,60/snow,50?size=medium",
-                "shortForecast": "Snow Showers Likely",
-                "detailedForecast": "Snow showers likely before 4pm. Mostly cloudy, with a high near 29. Wind chill values as low as 0. Northwest wind 17 to 21 mph, with gusts as high as 38 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow?size=medium",
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers before 4pm. Partly sunny, with a high near 29. Northwest wind around 20 mph, with gusts as high as 38 mph. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-09T18:00:00-05:00",
+                "endTime": "2025-01-10T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 23,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "13 to 18 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 23. Northwest wind 13 to 18 mph, with gusts as high as 37 mph."
             }
         ]
     },
-    "weather_report": "The chill of night envelops Boston, where the air carries not just a hint of winter but a promise of snow as dawn approaches. The skies above are mostly cloudy, a blanket of gray obscure the stars, holding secrets that will soon reveal themselves in the form of flurries. As the world awakens, temperatures hover around a biting sixteen degrees, with an invigorating west wind whipping through the streets, making it feel even colder. This brisk gust serves as a reminder of the season, invigorating yet demanding a thoughtful preparation.\n\nAs the day unfolds, snow showers are on the horizon, likely to grace the city before the afternoon sun can take flight. With a high expected to reach twenty-nine, the oscillation of temperature and wind chill creates an atmosphere that is best approached with layers. A warm scarf, a hat snug against the ears, and a sturdy coat will serve well against the famed Boston breeze. Today's urban tapestry may not lend itself to leisurely strolls, but the glistening snow can transform an ordinary day; one might find solace in a cozy caf\u00e9, the aroma of fresh coffee mingling with the dusting of snow on the ground. Alternatively, a simple walk along the scenic Charles might reveal the understated beauty of a city turning itself white, inviting quiet reflection.",
-    "color_code": "#4B4B4B",
-    "timestamp": "2025-01-09 03:08:29"
+    "weather_report": "A brisk winter day greets Boston, as the remnants of a snowy morning retreat into the past. The sky, a canvas emblazoned with soft blues, holds the crispness of the day, while remnants of cloud drift lazily by. The chill in the air hints at the season\u2019s embrace, urging passersby to wrap themselves in layers that blend comfort and warmth. Winds gusting from the northwest weave their way through the streets, capable of stealing the breath from even the most steadfast souls. \n\nThis afternoon's flirtation with sunshine is tempered by a reminder of winter's grip, with temperatures barely coaxing above the freezing point. As daylight fades and the evening draws nearer, the forecast predicts a shift toward clear skies, inviting a tranquil atmosphere perfect for reflecting on the day's journey. As residents contemplate their activities, a stroll through the city's snow-dusted parks or a visit to a cozy caf\u00e9 offers a delightful reprieve from the hustle of life. One might enjoy the company of a good book or the warmth of a favorite drink, finding solace in the simple pleasures this season affords. It\u2019s a day that beckons one to embrace the chill, to revel in the beauty of winter, and to seek moments of quiet introspection amid the bustling rhythms of the city.",
+    "color_code": "#A5C8E8",
+    "timestamp": "2025-01-09 11:07:25"
 }
