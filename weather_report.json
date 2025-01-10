@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-10T06:53:00+00:00",
-            "temperature_f": 26.060000000000002,
-            "temperature_c": -3.3,
-            "humidity": 54.833072865634,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 320,
+            "timestamp": "2025-01-10T10:53:00+00:00",
+            "temperature_f": 24.98,
+            "temperature_c": -3.9,
+            "humidity": 59.671266588386,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 300,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-10T03:00:00-05:00",
-                "endTime": "2025-01-10T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 23,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 23. Northwest wind around 15 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-01-10T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-10T07:00:00-05:00",
                 "endTime": "2025-01-10T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 38,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 38. Northwest wind 7 to 14 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-10T18:00:00-05:00",
+                "endTime": "2025-01-11T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 26,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 5am. Mostly cloudy, with a low around 26. Northwest wind 2 to 7 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the world drapes itself in quiet slumber, a crisp serenity blankets Boston. The moon casts its silvery gaze upon the silent streets, illuminating the glistening frost that adorns the sidewalks like a delicate lacework of nature. The air is brisk, tinged with the chill of January; it speaks of freshness and a stillness that invites introspection. With temperatures hovering around the low twenties and a gusty northwest wind rustling through the bare branches, one may be reminded of the strength found in winter\u2019s embrace.\n\nAs dawn unfurls its arms and the sun peeks over the horizon, the promise of a sunny day emerges. The anticipated high of thirty-eight will offer a welcome thaw, but the breeze may still carry a bite, nudging you to pull your coat a little closer. Dress warmly in layers\u2014perhaps a well-insulated jacket, a scarf to ward off the air's sharpness, and sturdy boots suitable for the winter-stained pavement. This day, painted in shades of blue skies and gentle sunlight, invites you to take a leisurely stroll through the parks, to breathe deeply of the clean, brisk air, or perhaps to find solace in a quaint caf\u00e9, where warmth and the aroma of coffee can sweep you off your feet. The quiet elegance of the moment encourages you to embrace the day, finding beauty in the mundane rhythm of the everyday.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-01-10 03:08:33"
+    "weather_report": "Boston awakens on this brisk January morning, the sun spilling its golden light over a landscape crisp with winter's embrace. The air is tinged with the promise of chill, where the temperature teeters at a refreshing thirty-eight degrees, encouraged by a playful northwest wind that dances between seven and fourteen miles per hour. As the day unfolds, the sky reveals itself, clothed in a mostly sunny disposition, occasionally graced by the scatter of clouds - soft and inviting against the deep azure above. \n\nHowever, as dusk approaches this evening, an air of mystery ensues. A gentle whisper of snow may enter the scene, with a slight chance appearing after five, cloaked in the cool shadows of a low settling around twenty-six. Wrapping oneself in layers becomes a prudent choice\u2014 a warm coat, perhaps a snug scarf, and sturdy boots to navigate the biting chill, especially for those compelled to step outside. This day, ripe with a clarity that invites contemplation, beckons one to explore a quiet stroll through the winding paths of Boston Common or perhaps, a visit to a cozy caf\u00e9 where the steam from a hot beverage mirrors the warmth held within. While the potential flurry may deter some, the atmosphere offers an intimate charm that rewards those who venture out, each moment like a fine thread woven into the tapestry of the season.",
+    "color_code": "#6C7C94",
+    "timestamp": "2025-01-10 07:10:45"
 }
