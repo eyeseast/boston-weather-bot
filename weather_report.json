@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-10T10:53:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 59.671266588386,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 300,
+            "timestamp": "2025-01-10T23:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-01-10T07:00:00-05:00",
-                "endTime": "2025-01-10T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 to 14 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 38. Northwest wind 7 to 14 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-10T18:00:00-05:00",
+                "startTime": "2025-01-10T19:00:00-05:00",
                 "endTime": "2025-01-11T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 26,
+                "temperature": 25,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow after 5am. Mostly cloudy, with a low around 26. Northwest wind 2 to 7 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of snow after 5am. Mostly cloudy, with a low around 25. Northwest wind 2 to 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-01-11T06:00:00-05:00",
+                "endTime": "2025-01-11T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 32,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 50
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/snow,50/snow,40?size=medium",
+                "shortForecast": "Chance Light Snow",
+                "detailedForecast": "A chance of snow. Cloudy, with a high near 32. Northwest wind 3 to 8 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 2 inches possible."
             }
         ]
     },
-    "weather_report": "Boston awakens on this brisk January morning, the sun spilling its golden light over a landscape crisp with winter's embrace. The air is tinged with the promise of chill, where the temperature teeters at a refreshing thirty-eight degrees, encouraged by a playful northwest wind that dances between seven and fourteen miles per hour. As the day unfolds, the sky reveals itself, clothed in a mostly sunny disposition, occasionally graced by the scatter of clouds - soft and inviting against the deep azure above. \n\nHowever, as dusk approaches this evening, an air of mystery ensues. A gentle whisper of snow may enter the scene, with a slight chance appearing after five, cloaked in the cool shadows of a low settling around twenty-six. Wrapping oneself in layers becomes a prudent choice\u2014 a warm coat, perhaps a snug scarf, and sturdy boots to navigate the biting chill, especially for those compelled to step outside. This day, ripe with a clarity that invites contemplation, beckons one to explore a quiet stroll through the winding paths of Boston Common or perhaps, a visit to a cozy caf\u00e9 where the steam from a hot beverage mirrors the warmth held within. While the potential flurry may deter some, the atmosphere offers an intimate charm that rewards those who venture out, each moment like a fine thread woven into the tapestry of the season.",
-    "color_code": "#6C7C94",
-    "timestamp": "2025-01-10 07:10:45"
+    "weather_report": "As the evening settles over Boston, a shroud of muted gray cloaks the sky, hinting at the slight chance of snow flurries that may materialize after dawn. The gentle breath of a northwest wind stirs through the streets, whispering of a night where temperatures dip to a crisp 25 degrees. The air carries that quintessential winter chill, a reminder of the season's grip, yet the city remains alive with a soft glow from its streetlights and distant buildings, casting a calm but bustling ambiance to those who venture out into its embrace.\n\nLooking ahead to Saturday, the forecast suggests that the clouds will deepen, perhaps releasing a light dusting of snow that could blanket the city in a serene white. The high will hover around 32, a numbing but manageable chill for those prepared. As you consider your attire, layered clothing, including a warm coat, scarf, and resilient boots would serve you well, navigating between the warmth of indoor comforts and the brisk air outside. The snowfall, although not heavy, beckons gentle pursuits\u2014one might take a leisurely walk through the parks, watch the soft flakes swirl in the streetlights, or perhaps settle into a cozy caf\u00e9 with a warm drink, enveloped in the winter\u2019s embrace.",
+    "color_code": "#3e3e3e",
+    "timestamp": "2025-01-10 19:27:40"
 }
