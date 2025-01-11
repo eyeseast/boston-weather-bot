@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-11T06:53:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 56.013892454347,
+            "timestamp": "2025-01-11T11:12:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 68.823797236386,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-11T03:00:00-05:00",
-                "endTime": "2025-01-11T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 26,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30?size=medium",
-                "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow. Cloudy, with a low around 26. North wind around 3 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-01-11T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-11T07:00:00-05:00",
                 "endTime": "2025-01-11T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -52,11 +33,30 @@
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/snow,50/snow,40?size=medium",
                 "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow before 7am, then a chance of snow and patchy fog. Cloudy, with a high near 33. North wind 3 to 9 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+                "detailedForecast": "A chance of snow and patchy fog. Cloudy, with a high near 33. North wind 3 to 9 mph. Chance of precipitation is 50%. New snow accumulation of less than one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-11T18:00:00-05:00",
+                "endTime": "2025-01-12T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 23,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/sct?size=medium",
+                "shortForecast": "Patchy Fog then Partly Cloudy",
+                "detailedForecast": "Patchy fog and a slight chance of snow before 10pm. Partly cloudy, with a low around 23. Northwest wind around 12 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the night deepens in Boston, a gentle chill envelops the city, hinting at the frost that will greet the dawn. The sky is dressed in a shroud of clouds, with the faint possibility of snow weaving its quiet magic overnight. At this hour, the streets are still, and the city glimmers under a muted palette of artificial lights, promising a soft, almost dreamlike quality as people retreat into warm spaces, cups of something hot in hand.\n\nCome Saturday, the wintery embrace of possibility continues, as forecasters whisper of patchy fog and the lingering chance of light snow. The day will unfold beneath a muted canopy, perfect for cozy indoor pursuits, perhaps visiting a beloved caf\u00e9 or seeking solace in the pages of a good book. Attire will lean toward warmth; thick layers, sturdy boots, and a scarf to wrap around against the brisk air will serve you well. As you navigate the streets, the chill will be most apparent but comforting in its own right, inviting you to partake in the city's quieter charms. Whether it\u2019s a leisurely stroll through the hushed streets or a moment spent people-watching from a window seat, Boston will reward you with its understated beauty on this chilly day.",
-    "color_code": "#4A556D",
-    "timestamp": "2025-01-11 03:07:33"
+    "weather_report": "As dawn breaks over Boston, the city is wrapped in a gentle embrace of fog, creating an ethereal atmosphere reminiscent of dreams and quiet reflection. The air carries a chill, hinting at the possibility of snow later in the day, though nothing significant seems imminent. The forecast whispers of a brief interlude of snow flurries, but today, the clouds dominate the sky, shrouding the sunlight and scattering the warmth. With temperatures hovering around the low thirties, an ominous grayness cloaks the landscape, urging you to don layers that promise comfort against the cold wind skimming from the northwest. \n\nAs you venture out, a sturdy coat and perhaps a knitted hat will serve you well against the slight nips of winter air. Consider a warm scarf to wrap around your neck, offering solace against the briskness that follows. The fog lends a surreal quality to a stroll through the quieter parts of the city, where the sounds of life are dulled, inviting moments of introspection. Whether it\u2019s a visit to a favorite cozy caf\u00e9 for a warm beverage or a leisurely wander through a park setting, today\u2019s weather encourages a contemplative spirit, allowing you to appreciate the subtleties of a New England winter\u2019s day in its more hushed tones.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-01-11 07:09:21"
 }
