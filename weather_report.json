@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-11T15:17:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 78.458012744656,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Light Snow"
+            "timestamp": "2025-01-11T23:53:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 75.476605631193,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 330,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-01-11T11:00:00-05:00",
-                "endTime": "2025-01-11T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 33,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "5 to 9 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,60/snow,70?size=medium",
-                "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely. Cloudy, with a high near 33. North wind 5 to 9 mph. Chance of precipitation is 70%. New snow accumulation of 1 to 2 inches possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-11T18:00:00-05:00",
+                "startTime": "2025-01-11T19:00:00-05:00",
                 "endTime": "2025-01-12T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 21,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
                 "windSpeed": "12 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20/sct?size=medium",
-                "shortForecast": "Slight Chance Light Snow then Partly Cloudy",
-                "detailedForecast": "A slight chance of snow before 7pm. Partly cloudy, with a low around 21. Northwest wind around 12 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/fog/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Cloudy",
+                "detailedForecast": "Patchy fog before 8pm. Mostly cloudy, with a low around 21. Northwest wind around 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-01-12T06:00:00-05:00",
+                "endTime": "2025-01-12T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 34,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 34. Northwest wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, a soft veil of snow blankets the city, whispering reminders of winter\u2019s grip. The overcast sky casts a muted light, with clouds stretching thick and low overhead, creating an atmosphere thick with anticipation. A north wind tousles the air at a gentle pace, hinting at the chill as temperatures hover around thirty-three degrees. With the likelihood of light snow, one might expect the ground to cradle an enchanting layer of white, glimmering under the dim daylight\u2014an invitation for those seeking a peaceful stroll or a moment of reflection in parks that wear winter's coat.\n\nAs evening approaches, the chance of snow will taper off to a mere whisper, giving way to clearer skies, though a brisk northwest wind serves as a reminder of the lingering cold. Lurking temperatures will drop to a frosty twenty-one, prompting thoughts of bundling up in cozy layers. A warm scarf and a reliable pair of gloves will serve you well against the biting air. While outdoor plans might feel less enticing, perhaps a moment spent enjoying a warm beverage in the cozy embrace of a local caf\u00e9 or diving into a good book by a window could enrich your afternoon. In these winter moments, simplicity and warmth can paint the day in hues of contentment, making it a perfect time to find delight in quiet pleasures.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-01-11 11:06:23"
+    "weather_report": "As the evening deepens in Boston, the fog lingers like a whisper before retreating into the night, offering a mellow backdrop to the city's vibrant lights. The air carries a crispness, a reminder of winter\u2019s firm grip, with temperatures dipping into the low twenties. A gentle northwest wind weaves through the streets, its chill a warning to those unprepared for the season\u2019s embrace. The clouds hover, casting a muted softness over the skyline, their shadows enriching the urban landscape with a touch of mystique.\n\nLooking ahead to Sunday, one can expect the sun to rise in a blaze of clarity, promising a day imbued with a warmth that is rare for this time of year. With temperatures pushing near thirty-five, it will be a delightful reprieve from the winter chill, invigorated by a soft breeze. Dressing warmly yet comfortably will be essential; think layers that offer both protection from the brisk air and the ability to shed as the sun warms the day. Embrace the outdoors\u2014perhaps take a stroll along the Charles or explore one of Boston\u2019s charming neighborhoods, where the crunch of snow underfoot mixes with the lively conversations spilling from cafes. The day holds a quiet promise, perfect for savoring the subtle pleasures that a bright winter day can bring.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-01-11 19:30:50"
 }
