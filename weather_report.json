@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-13T10:53:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 80.879103407165,
+            "timestamp": "2025-01-13T22:53:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 61.688238382189,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-01-13T07:00:00-05:00",
-                "endTime": "2025-01-13T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 40,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 40. Southwest wind 2 to 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-13T18:00:00-05:00",
+                "startTime": "2025-01-13T19:00:00-05:00",
                 "endTime": "2025-01-14T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 24,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "5 to 8 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20/few?size=medium",
-                "shortForecast": "Slight Chance Rain And Snow then Mostly Clear",
-                "detailedForecast": "A slight chance of rain before 7pm, then a slight chance of rain and snow between 7pm and 9pm. Mostly clear, with a low around 24. West wind 5 to 8 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/sct?size=medium",
+                "shortForecast": "Isolated Rain Showers then Partly Cloudy",
+                "detailedForecast": "Isolated rain showers before 9pm. Partly cloudy, with a low around 24. West wind 5 to 8 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-01-14T06:00:00-05:00",
+                "endTime": "2025-01-14T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 32,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 32. West wind 8 to 12 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the day starts with a sense of promise, the sky adorned with soft hues that hint at the warmth soon to come. The forecast reveals a mostly sunny disposition, with temperatures rising delicately into the 40s. A gentle southwest breeze stirs, whispering tales of milder times. Though the morning may retain a chill, the sun's presence is poised to chase away the remnants of the night, coaxing Boston\u2019s residents to venture outside. \n\nTonight brings a slight chance of rain, intermingled with the possibility of snow, transforming the air into something crisp and invigorating. As the skies clear, the temperature will drop to a cool 24 degrees. Hence, dress warmly\u2014a cozy scarf and a sensible jacket will serve you well. Consider a quiet stroll along the Charles River as the sun wanes, or perhaps a visit to a local caf\u00e9, where the aroma of coffee mingles with the laughter of familiar voices. Such moments, woven into the fabric of the city, promise a delightful escape from the everyday rush.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-01-13 07:11:25"
+    "weather_report": "As evening descends upon Boston, the sky wears a cloak of clouds, casting a twilight hue over the city. Isolated rain showers are making their way out, leaving behind a gentle chill that threads through the air. With temperatures dipping to near 24 degrees, this night holds a crispness that speaks of winter's steadfast presence. Those venturing outdoors should bundle up, a sturdy coat paired with gloves and a warm scarf, for the west wind will remind you of its gentle but persistent gusts.\n\nLooking ahead to tomorrow, the sun will peek through the clouds, promising a bright interlude with temperatures rising to just around 32 degrees. The mix of partly sunny skies and playful gusts invites one to step outside, perhaps for a leisurely stroll along the Charles River or a visit to one of the local caf\u00e9s where the aroma of freshly brewed coffee warms the heart. Embrace the day with a spirit of adventure, while being prepared for the cool air that will cling to you, a constant reminder of winter's chill lingering just beyond the warmth of hospitality.",
+    "color_code": "#4B6F8E",
+    "timestamp": "2025-01-13 19:26:22"
 }
