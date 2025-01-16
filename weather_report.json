@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-16T06:53:00+00:00",
-            "temperature_f": 14.0,
-            "temperature_c": -10,
-            "humidity": 73.135752749235,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 140,
+            "timestamp": "2025-01-16T10:53:00+00:00",
+            "temperature_f": 10.04,
+            "temperature_c": -12.2,
+            "humidity": 79.624628468594,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-16T03:00:00-05:00",
-                "endTime": "2025-01-16T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 16,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 16. West wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-01-16T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-16T07:00:00-05:00",
                 "endTime": "2025-01-16T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny, with a high near 31. West wind 6 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-16T18:00:00-05:00",
+                "endTime": "2025-01-17T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 21,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/snow,20?size=medium",
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers between 8pm and 1am. Cloudy, with a low around 21. West wind 3 to 7 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In the deep hours before dawn, Boston rests under a cloak of clarity, the air crisp and still, hinting at the chill that lingers like a secret in the heart of winter. The mercury, edging down to a brisk low, reveals the quiet fortitude of both city and inhabitants, urging warmth to envelop their daily pursuits. As sunrise approaches, the sky promises a canvas of partly sunny hues, an optimistic omen for those who venture forth into the day. \n\nAs the morning unfolds, the high will rise comfortably, inviting a subtle balance of coolness and warmth with light breezes brushing against the face\u2014a gentle nudge to embrace the outdoors. To navigate this tender scene, one should don layers to allow for the shifting temperatures; a solid coat paired with a cozy scarf, perhaps a hat to deflect the morning's chill, will suffice. The charms of a walk through the neighborhood beckon\u2014exploring quaint shops or taking a contemplative stroll along the harbor, where the gentle play of sunlight dances on the water's surface, embodies a moment of peace amidst the hustle of life.",
-    "color_code": "#4B8EBA",
-    "timestamp": "2025-01-16 03:08:03"
+    "weather_report": "This morning in Boston, a gentle chill lingers in the air, a reminder that winter holds sway over the city. As the sun rises, it peeks through a veil of clouds, casting a soft light that bathes the skyline in hues of muted pink and blue. With temperatures expected to hover close to that desirable warmth of 31 degrees, the day promises a comfortable outing, though the brisk west wind creates a sharp feel against the skin. \n\nAs evening approaches, the clouds may gather, bringing with them a chance of snow showers. There\u2019s an unmistakable coolness that hints at a winter wonderland, even if just momentarily. Dressing in layers will be wise\u2014a sturdy coat, perhaps a scarf to snugly wrap around the neck, and a good pair of boots will prepare you for any slippery spots as the day transitions to night. With a fleeting glance at the forecast, it might be just the day to enjoy a leisurely stroll along the Charles River or to seek warmth in a tucked-away caf\u00e9, sipping on hot cocoa as the faint possibility of snow adds a touch of magic to the ordinary evening.",
+    "color_code": "#A4B4D9",
+    "timestamp": "2025-01-16 07:10:14"
 }
