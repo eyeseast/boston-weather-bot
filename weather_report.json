@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-18T06:53:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-01-18T10:53:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 84.876962917972,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 150,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-18T03:00:00-05:00",
-                "endTime": "2025-01-18T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 24,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 24. South wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-01-18T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-18T07:00:00-05:00",
                 "endTime": "2025-01-18T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "12 to 15 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,90?size=medium",
                 "shortForecast": "Cloudy then Rain Showers",
-                "detailedForecast": "Rain showers after 1pm. Cloudy, with a high near 44. South wind 10 to 15 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain showers after 1pm. Cloudy, with a high near 44. South wind 12 to 15 mph, with gusts as high as 26 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-18T18:00:00-05:00",
+                "endTime": "2025-01-19T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,70/bkn?size=medium",
+                "shortForecast": "Chance Light Rain then Mostly Cloudy",
+                "detailedForecast": "Rain showers likely before 7pm, then a chance of rain and patchy fog between 7pm and 11pm. Mostly cloudy, with a low around 33. Southwest wind 5 to 14 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In the stillness of the night, Boston rests under a canopy of mostly cloudy skies, where the chill serves as a reminder that winter holds tight to its grip. With temperatures dipping to a brisk 24 degrees, the gentle breath of a south wind brushes against the cheeks, delivering whispers of incoming rainfall that is poised to blanket the city by afternoon. As dawn approaches, the atmosphere hangs heavy with anticipation, hinting at the grayness that will soon unfurl over the landscape.\n\nAs you step into the daylight, prepare for a day of overcast skies, where rain showers will emerge post-lunch, creating a sense of melancholy that intertwines with the vivid pulse of the city. The high will nudge towards a mild 44, yet it may feel cooler with gusts reaching 26 mph. Dressing warmly in layers, perhaps donning a woolen scarf should keep the brisk breeze at bay, while a waterproof jacket will safeguard against the impending dampness. Ideal activities might include seeking warmth in one of the many inviting cafes that dot the streets, indulging in a comforting cup of coffee, or leisurely browsing through tucked-away bookstores. As the rain begins to fall, the vibrant energy of Boston transforms, revealing a different charm \u2014 one that beckons you to wander beneath awnings, where the scent of rain mingles with the rich aroma of baked goods wafting from nearby bakeries.",
-    "color_code": "#3C3C3C",
-    "timestamp": "2025-01-18 03:07:05"
+    "weather_report": "As dawn nudges the horizon, a solemn blanket of clouds envelops Boston, cloaking the city in a muted luminescence. The air is heavy with the promise of rain, a persistent drizzle that will soon dance upon the streets. With temperatures lingering in the mid-forties and a gusty south wind weaving through the buildings, it\u2019s a day where umbrellas will become essential companions. The visuals evoke an atmosphere of cozy contemplation, perhaps inviting one to sip a warm coffee while watching the world go by through a window.\n\nAs the hours pass, expect the rain to persist, likely tapering off by evening, replaced by a lingering veil of fog that may shroud the city in mystique. It would be wise to don layers today: a comfortable sweater beneath a water-resistant jacket, perhaps paired with sturdy boots to navigate the anticipated puddles. As for activities, today is perfect for quiet errands, meandering through tucked-away shops that feel less hectic on dreary days, or engaging in creative pursuits at home, writing or painting as the raindrops provide a soft, rhythmic backdrop.",
+    "color_code": "#6B7F93",
+    "timestamp": "2025-01-18 07:08:52"
 }
