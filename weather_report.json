@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-18T18:53:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 65.200583476966,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 190,
-            "description": "Cloudy"
+            "timestamp": "2025-01-18T23:05:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 85.680483315611,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-18T15:00:00-05:00",
-                "endTime": "2025-01-18T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 80
-                },
-                "windSpeed": "9 to 13 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,80?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain between 4pm and 5pm, then rain and patchy fog. Cloudy, with a high near 44. South wind 9 to 13 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-18T18:00:00-05:00",
+                "startTime": "2025-01-18T19:00:00-05:00",
                 "endTime": "2025-01-19T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/snow_fzra,100/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Cloudy",
-                "detailedForecast": "Rain and patchy fog before 7pm, then patchy fog and a slight chance of freezing rain and a slight chance of rain and snow between 7pm and 10pm. Mostly cloudy, with a low around 32. Southwest wind around 8 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,100/bkn?size=medium",
+                "shortForecast": "Light Rain then Mostly Cloudy",
+                "detailedForecast": "Rain before 10pm. Mostly cloudy, with a low around 32. Southwest wind around 6 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-01-19T06:00:00-05:00",
+                "endTime": "2025-01-19T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 41,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/sct/snow,100?size=medium",
+                "shortForecast": "Mostly Sunny then Rain And Snow Likely",
+                "detailedForecast": "Rain and snow likely between 4pm and 5pm, then rain and snow. Mostly sunny, with a high near 41. North wind around 8 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, the city finds itself cloaked in the somber embrace of overcast skies. The air carries with it the unmistakable hint of rain, as droplets tease the horizon, poised to cascade down between four and five o'clock. A chill lingers, with temperatures hovering around forty-four degrees, while the south wind whispers through the streets, urging citizens to consider the warmth of layered clothing. With an eighty percent chance of precipitation, the time has come to reach for umbrellas, perhaps even those worn with the slight battle scars of the past.\n\nAs dusk begins to set in, the forecast foretells a continuing dance with rain and an eerie patchiness of fog that could weave into the night. By seven o'clock, the city may experience a flirtation with freezing rain, while the low dips to thirty-two degrees. Given these conditions, it would be wise to don water-resistant footwear and a cozy coat, perhaps complemented by a scarf to shield against the dampness. For those seeking solace from the chill, a quiet afternoon spent tucked away in a caf\u00e9 with a warm beverage would fit the bill\u2014perfect for watching the world gently blur through the rain-streaked window. Alternatively, one may meander along the quieter streets, feeling the ephemeral nature of the day's three o'clock light gradually surrender to the encroaching gloom.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-01-18 15:06:13"
+    "weather_report": "As night drapes over Boston, the sky is a muted canvas, shrouded with the promise of rain. The air is dense with humidity, a whisper of fog lingering on the edges where streetlights cast their halo, creating a tranquil yet melancholic ambiance. The forecast teases with a certainty of precipitation, transforming the usual urban rhythm into a soft, rhythmic patter as the raindrops begin their quiet descent. There's a bite to the air that will leave an impression, the temperature dropping to a cool embrace that hints at the chill of lingering winter.\n\nLooking ahead to tomorrow, the m\u00e9lange of rain and snow will bring an exhilarating unpredictability, perhaps a light dusting of snow over the cobblestones and rooftops that make up this historic city. The hours will flip between icy gray and fleeting glimpses of sun, too brief to linger, leaving you to ponder a kaleidoscope of clouds and atmosphere. For the adventurous soul, this moment is best savored indoors, where the warmth of a cozy caf\u00e9 invites you to nestle into a quiet corner. A good book or engaging conversation can help you bridge the gap between the wintry wonder outside and the snug space you inhabit. Dress in layers, perhaps with a trusty waterproof coat and sturdy boots, ready for the elements as you embrace the nuances of the day that unfolds.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2025-01-18 19:29:26"
 }
