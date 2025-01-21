@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-21T06:53:00+00:00",
-            "temperature_f": 5.0,
-            "temperature_c": -15,
-            "humidity": 75.89477656774,
+            "timestamp": "2025-01-21T10:53:00+00:00",
+            "temperature_f": 1.9400000000000048,
+            "temperature_c": -16.7,
+            "humidity": 71.761937043363,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,30 +18,11 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-21T03:00:00-05:00",
-                "endTime": "2025-01-21T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 5,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 5. Wind chill values as low as -1. West wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-01-21T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-21T07:00:00-05:00",
                 "endTime": "2025-01-21T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 21,
+                "temperature": 20,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 21. Wind chill values as low as -4. West wind 5 to 10 mph."
+                "detailedForecast": "Partly sunny, with a high near 20. Wind chill values as low as -2. West wind 5 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-21T18:00:00-05:00",
+                "endTime": "2025-01-22T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 4,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 4. Wind chill values as low as -4. Northwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the quiet hours of early morning settle over Boston, a calmness permeates the air, stark against the chill that has gripped the city. With temperatures dipping into the single digits, there's a biting frost that crawls across the skin, hinting at a day that will unfold under a sky painted in muted blues and whites. The forecast promises a partly sunny embrace, a gentle reminder that warmth follows even the most bitter nights. While the wind whispers through the streets, it carries with it a crispness that invigorates, inviting a brisk walk or a thoughtful moment at a cozy caf\u00e9.\n\nAs the day transitions into brighter hours, consider dressing in layers, wrapping yourself in the comfort of a woolen scarf and a sturdy coat to keep that winter chill at bay. The sun may peek through the clouds at times, urging residents to step outside, perhaps to explore the quiet corners of a local park or to enjoy the serene beauty of the city, where reflections of the skyline glimmer on the icy remnants of the past night's frost. This day, while marked by low temperatures and gusty winds, promises pockets of brightness that can lift spirits and remind us of the warmth yet to come.",
-    "color_code": "#AEC6D4",
-    "timestamp": "2025-01-21 03:08:26"
+    "weather_report": "As dawn stretches its arms across Boston, the air bears a crispness that speaks of winter\u2019s lingering grasp. With temperatures hovering around the chill of 4 degrees, today's high promises to gently breach the 20-degree mark, though the wind chill may make the day feel like it\u2019s clinging stubbornly to the cusp of freezing. A partly sunny visage is expected as the sun lifts higher into the morning sky, gradually revealing a clearer atmosphere, albeit with a whisper of chill in the air from the west winds. It is a day that invites warmth through layers\u2014perhaps a smartly woven scarf and a well-insulated coat to ward off the biting breeze.\n\nIn such conditions, a crisp afternoon stroll along the riverbank could prove invigorating, perhaps even more delightful with a warm beverage cradled in your hands. Those who embrace the chill might find joy in a visit to a local caf\u00e9, where the scent of freshly brewed coffee or hot chocolate offers a pleasant retreat from the cold. As evening treads softly upon Boston, the temperatures will retreat again, urging one to don an extra layer or two. Tonight, the sky holds onto its partly cloudy nature, but a gentle calm prevails, promising a cozy respite as the city settles into its evening rhythm.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-01-21 07:10:29"
 }
