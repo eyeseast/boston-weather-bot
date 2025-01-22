@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-22T06:53:00+00:00",
-            "temperature_f": 12.920000000000002,
-            "temperature_c": -10.6,
-            "humidity": 43.671166860074,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 330,
+            "timestamp": "2025-01-22T10:53:00+00:00",
+            "temperature_f": -0.04000000000000625,
+            "temperature_c": -17.8,
+            "humidity": 71.527117155373,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-22T03:00:00-05:00",
-                "endTime": "2025-01-22T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 5,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 5. Wind chill values as low as -1. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-01-22T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-22T07:00:00-05:00",
                 "endTime": "2025-01-22T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 19,
+                "temperature": 20,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 19. Wind chill values as low as -6. Northwest wind around 7 mph."
+                "detailedForecast": "Sunny, with a high near 20. Wind chill values as low as -4. Northwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-22T18:00:00-05:00",
+                "endTime": "2025-01-23T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 12,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 12. Southwest wind around 5 mph."
             }
         ]
     },
-    "weather_report": "As Boston drifts into the early hours of a winter night, a sense of tranquility is palpable in the crisp air, unmarred by fog or haze. The sky, mostly clear, hints at the cold awaiting as temperatures settle to around 5 degrees. Wind chill adds a biting edge, whispering promises of more chill to come as the northwest breeze stirs softly at around 6 mph. It\u2019s a perfect night for huddled warmth indoors, perhaps savoring a cup of something steaming, while the city\u2019s distant lights flicker in serene silence.\n\nAs dawn breaks, Boston will greet a day wrapped in sunshine, though the cold persists with a high near 19. The same cool northwest winds will continue to weave through the streets, reminding citizens of winter's firm embrace. While the sun's rays may glimmer brightly, the actual feel of the day will be more akin to single-digit temperatures once the wind makes its presence known, nudging everyone to layer wisely. A heavy coat, along with a knit hat and gloves, will offer solace for those venturing outside. Local parks could beckon for a brisk stroll, where the glistening frost lingers on the grass, or perhaps a leisurely visit to a cozy caf\u00e9, where the warmth welcomes with open arms. The beauty of the day lies not just in its crispness, but in the shared moments that unfurl amidst the winter\u2019s charm.",
-    "color_code": "#4A90E2",
-    "timestamp": "2025-01-22 03:08:28"
+    "weather_report": "This morning in Boston unfolds beneath a sky of gentle blue, with traces of a chill that hint at the briskness of the air. The day carries itself with a promise of sunshine, beckoning the temperatures to flirt with the low twenties, yet it will not shy away from the sensation of cold that bites at exposed skin, especially as the wind whispers through the streets. The forecast suggests a northwest breeze, light yet persistent, accentuating that nippy feeling as it dances around the city. This morning ambience, just after dawn, maintains a quiet clarity, free from fog, leaving the horizon open for clear views across the landscape. \n\nAs you venture out, consider layering your attire\u2014a warm coat, complemented perhaps by a scarf and gloves, as comfort will not only be found in aesthetics but also in pragmatism. It may be an ideal time for a stroll through the hushed streets or to visit a local caf\u00e9, invigorating both the body and spirit. Evening will usher in cloud coverage, with temperatures settling down close to twelve, and the soft glow of warm indoor spaces will beckon to you for solace after a day filled with icy air and bright sunlight. In essence, today is an invitation to enjoy the briskness, the sunshine, and the subtle beauty of winter\u2019s embrace.",
+    "color_code": "#A7C5E5",
+    "timestamp": "2025-01-22 07:10:26"
 }
