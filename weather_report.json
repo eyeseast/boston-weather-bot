@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-23T06:53:00+00:00",
-            "temperature_f": 10.940000000000001,
-            "temperature_c": -11.7,
-            "humidity": 80.35955575612,
+            "timestamp": "2025-01-23T10:53:00+00:00",
+            "temperature_f": 12.020000000000003,
+            "temperature_c": -11.1,
+            "humidity": 79.797537001551,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-23T03:00:00-05:00",
-                "endTime": "2025-01-23T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 10,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 10. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-01-23T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-23T07:00:00-05:00",
                 "endTime": "2025-01-23T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 9 mph",
+                "windSpeed": "5 to 9 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 29. Southwest wind 3 to 9 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 29. Southwest wind 5 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-23T18:00:00-05:00",
+                "endTime": "2025-01-24T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 15,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 15. Southwest wind around 8 mph."
             }
         ]
     },
-    "weather_report": "As the dawn breaks over Boston, the city is wrapped in the embrace of a gentle cloud cover that lends a muted quality to the atmosphere. The temperature hovers in the low teens, a chill that nudges one to layer comfortably before stepping outside. The hum of distant traffic mingles with a soft southwest wind that brushes past, hinting at a day where the sky may play coy with shades of gray, yet offers a promise of warmth as the afternoon approaches. \n\nFor the hours ahead, expect the clouds to linger, shrouding any vibrant hues while temperatures rise towards nearly freezing. While the midday sun may shy away from putting on a show, it will still bring a measure of solace, enough to make a stroll along the quiet streets enticing. Don a warm coat, perhaps a scarf, and those sturdy boots ideally suited for the crunch of frost beneath your feet. With such conditions, the city reveals itself best through a mundane yet delightful activity\u2014a visit to one of Boston\u2019s cozy caf\u00e9s, where the aroma of freshly brewed coffee dances in the air, or perhaps a quiet moment in a local bookstore, connecting with the feel of paper and ink while the world outside forges ahead under its shroud of clouds.",
-    "color_code": "#A2A7B0",
-    "timestamp": "2025-01-23 03:08:41"
+    "weather_report": "The dawn breaks over Boston, muted shades of gray embracing the day, with the gentle promise of mostly clear skies. As the sun stretches toward its zenith, temperatures will climb toward a brisk high, urging jackets and scarves to mingle with woolen hats. The southwest breeze whispers softly, a reminder of winter\u2019s lingering chill. Tonight, the calm will deepen as the city settles into a tranquil embrace, dipping into cooler temperatures, preparing for a quiet night under a star-studded canvas.\n\nToday invites one to embrace a modest adventure; perhaps a leisurely stroll along the Charles River, where the wintry air is invigorating enough to rekindle a playful spirit. For those disinclined toward cold excursions, a cozy caf\u00e9 awaits, ready to serve warmth in the form of a rich brew or a sweet pastry. As the day unfolds, dressing in layers will offer both comfort and protection against the brisk wind\u2014fleece-lined jackets and sturdy boots are recommended companions for today\u2019s jaunt through the enduring beauty of Boston in winter.",
+    "color_code": "#A7C6ED",
+    "timestamp": "2025-01-23 07:10:32"
 }
