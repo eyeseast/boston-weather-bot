@@ -7,7 +7,7 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-24T06:53:00+00:00",
+            "timestamp": "2025-01-24T10:53:00+00:00",
             "temperature_f": null,
             "temperature_c": null,
             "humidity": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-24T03:00:00-05:00",
-                "endTime": "2025-01-24T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 14,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 14. West wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-01-24T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-24T07:00:00-05:00",
                 "endTime": "2025-01-24T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 30. West wind 6 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-24T18:00:00-05:00",
+                "endTime": "2025-01-25T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 12,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 12. Northwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of this early morning in Boston, a tapestry of darkness blankets the city, punctuated only by the twinkling lights that shimmer like distant stars, hinting at the vibrancy that will soon emerge. The air carries a crisp chill, whispering promises of a clear dawn ahead. As the day unfolds, the sun will rise triumphantly, casting its warm embrace across the landscape, illuminating the city with a brilliant brightness that beckons one to step outside. \n\nBy afternoon, the sky will reveal a vivid blue, unmarred by clouds, a canvas suitable for exploration. The temperatures will rise to a pleasant warmth, inviting one to don lighter layers\u2014a cozy sweater paired with a sturdy jacket for the morning\u2019s coolness, transitioning to a comfortable shirt as the day grows warmer. A leisurely stroll through one of Boston\u2019s historic neighborhoods or a peaceful moment spent in a local caf\u00e9, savoring a warm beverage, would be perfect under the sun\u2019s affectionate gaze. Whether it\u2019s finding solace in a book at the park or catching up with a friend while wandering the quaint streets, the day holds ample opportunities for enjoyment, marked by clarity and tranquility.",
-    "color_code": "#A7C8E4",
-    "timestamp": "2025-01-24 03:08:50"
+    "weather_report": "As dawn breaks over Boston, the clamor of the city lies nestled beneath a veil of tranquility, touched by a faint blush of pastel hues in the sky. The day ahead promises a sunny embrace, with temperatures climbing toward a pleasant warmth. A gentle west wind carries hints of fresh beginnings, albeit with an undertone that whispers of the winter chill still lingering in the air. By nightfall, the weather will cool significantly, as the warmth fades into a crisp evening where stars may twinkle brightly against the deepening sky.\n\nDressing for this day calls for layers; a light jacket will suffice for the warmth of midday, but it would be wise to keep a snug sweater handy for the evening chill. This is a splendid day for a leisurely walk through the still sleep-laden streets, inhaling the scent of fresh coffee wafting from neighborhood caf\u00e9s, or perhaps indulging in a stroll along the waterfront, where the water sparkles invitingly in the sun\u2019s rays. Engaging in the simple pleasures of life today feels right\u2014a quiet morning into the bustle of afternoon, replete with warmth and splendor, allowing for gentle moments of reflection amid the lively rhythm of the city.",
+    "color_code": "#A8B5C2",
+    "timestamp": "2025-01-24 07:10:16"
 }
