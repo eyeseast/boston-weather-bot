@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-27T05:53:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 65.194226854189,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 250,
+            "timestamp": "2025-01-27T10:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-01-27T03:00:00-05:00",
-                "endTime": "2025-01-27T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 20,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 20. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-01-27T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-01-27T07:00:00-05:00",
                 "endTime": "2025-01-27T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 37,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "8 to 17 mph",
+                "windSpeed": "6 to 16 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 37. Southwest wind 8 to 17 mph."
+                "detailedForecast": "Sunny, with a high near 37. Southwest wind 6 to 16 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-01-27T18:00:00-05:00",
+                "endTime": "2025-01-28T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "14 to 17 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 27. Southwest wind 14 to 17 mph."
             }
         ]
     },
-    "weather_report": "As the day softly approaches in Boston, the night sky cradles the city in a deep hush, the kind that stirs whispers only the wind seems to understand. With temperatures plummeting to a brisk twenty degrees, a gentle southwest breeze, gliding at a leisurely pace, reminds us that warmth is a precious commodity. The atmosphere, free from fog's damp embrace, hints at clarity while the lights of the city shimmer like scattered jewels against the dark canvas.\n\nTomorrow promises to unfold under the golden gaze of the sun, a cheerful transformation as temperatures nudge up to a brisk thirty-seven. The winds will converse in somewhat bolder tones, adding a spirited edge to the brightness. This is a day for light layers: a sturdy coat as the protective outer shell, perhaps a woven scarf to ward off the chill, and sturdy shoes for those who might want to explore. Embrace the morning by strolling along the waterfront where the crisp air awakens the senses, or perhaps a visit to a local caf\u00e9, where the aroma of fresh coffee mingles with warm pastries. Engage in the day with a simple, quiet presence, enjoying the beauty of a sunlit city awakening after a long night.",
-    "color_code": "#1F1F1F",
-    "timestamp": "2025-01-27 03:09:21"
+    "weather_report": "As dawn breaks over Boston, the city awakens under a canvas of clear blue skies, kissed by the gentle warmth of the sun. The air is crisp but carries a promise of mildness as the day unfolds, with temperatures expected to flirt with a high of 37 degrees. A soft southwest breeze stirs, weaving through the streets, inviting passersby to embrace the delightful contrast of the cool morning and the promise of a brighter afternoon. Tonight, the skies will cloak themselves in a tender layer of clouds, as temperatures descend to a comfortable 27 degrees, perfect for a quiet evening wrapped in a cozy embrace.\n\nFor those venturing out into this invigorating weather, dress warmly yet stylishly\u2014perhaps a well-fitted coat paired with a soft scarf, allowing for comfortable layering. This is a day meant for casual strolls along the River Esplanade, where the tranquility of nature eclipses the city\u2019s bustle, or perhaps a visit to a local caf\u00e9, where you can savor a warm drink and engage in earnest conversation. Each moment carries the potential for simple joys, be it a visit to a neighborhood bookstore or enjoying the quietude of a park. In Boston, even the mundane can stir the heart when skies are clear and spirits are high.",
+    "color_code": "#A3C1E0",
+    "timestamp": "2025-01-27 07:11:01"
 }
