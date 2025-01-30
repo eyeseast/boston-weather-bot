@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-29T18:53:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 42.095680379388,
+            "timestamp": "2025-01-29T23:53:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 36.622912133962,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Cloudy"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-01-29T15:00:00-05:00",
-                "endTime": "2025-01-29T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers before 4pm. Partly sunny. High near 47, with temperatures falling to around 37 in the afternoon. West wind around 18 mph, with gusts as high as 39 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-29T18:00:00-05:00",
+                "startTime": "2025-01-29T19:00:00-05:00",
                 "endTime": "2025-01-30T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "13 to 18 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 14. Northwest wind 13 to 18 mph, with gusts as high as 40 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 14. Northwest wind 13 to 18 mph, with gusts as high as 39 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-01-30T06:00:00-05:00",
+                "endTime": "2025-01-30T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "9 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 27. West wind 9 to 14 mph, with gusts as high as 24 mph."
             }
         ]
     },
-    "weather_report": "The afternoon air in Boston carries a chill with an undertone of resilience; the forecast hints at a slight chance of rain, teasing the notion of dampness before day\u2019s end. As the hours pass, the sky wavers between partly sunny moments and brooding clouds, with temperatures ebbing from a high of 47 to a brisk 37, encouraging a retreat into warmer layers. A potent west wind dances through the city, whipping at 18 mph, urging one to snug in a cozy scarf and perhaps a well-fitted hat to fend off the gusts that flirt with a ferocious 39 mph. \n\nAs twilight approaches, the clarity of the evening draws near, bringing with it a promise of a night that feels crisp and clean, stripped of any lingering humidity. The low will settle around 14, a reminder that winter holds sway over this urban landscape. While the forecast does not promise fog, the air is sharp, and although the chill might deter an evening stroll along the river, it invites cozy corners in cafes where the warm glow of lamps beckons. A good book and a steaming cup, or perhaps a gathering of friends, would be the perfect companions for this enterprising winter day, capturing both the heart of the season and the spirit of its inhabitants.",
-    "color_code": "#A2B5C4",
-    "timestamp": "2025-01-29 15:07:04"
+    "weather_report": "As night drapes softly over Boston, the air carries a chill that echoes hints of winter's grasp. With temperatures settling near the fourteen-degree mark, a gentle but biting northwest wind dances through the streets, an occasional gust murmuring reminders of its strength. The skyline, silhouetted against a velvety backdrop, embodies an urban charm, illuminated by twinkling lights that hint at life within. While the stars may be obscured by a partisan cloud cover, the atmosphere remains devoid of fog, offering clear enough vision to admire the city's subtle allure.\n\nAs dawn breaks over the horizon tomorrow, Boston will welcome a sun-drenched embrace, promising a high near twenty-seven degrees. The cobalt sky will call for adventure, tempered by a moderate breeze that sways the trees. Dressing in layers will harmonize well with the day, allowing for removal of an outer coat as warmth prevails. This inviting weather whispers tales of afternoon strolls along the Charles River or perhaps an exploration of the local caf\u00e9 scene, where one might savor a hot beverage, letting the warmth seep through and extend moments of solace amid the day's rhythm.",
+    "color_code": "#4B3C30",
+    "timestamp": "2025-01-29 19:26:35"
 }
