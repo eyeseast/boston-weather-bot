@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-01-30T10:53:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 45.239196555289,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 290,
+            "timestamp": "2025-01-30T23:53:00+00:00",
+            "temperature_f": 24.08,
+            "temperature_c": -4.4,
+            "humidity": 39.636527242624,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 210,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-01-30T07:00:00-05:00",
-                "endTime": "2025-01-30T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 28,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 to 14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 28. West wind 7 to 14 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-01-30T18:00:00-05:00",
+                "startTime": "2025-01-30T19:00:00-05:00",
                 "endTime": "2025-01-31T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 22,
+                "temperature": 21,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 22, with temperatures rising to around 29 overnight. Southwest wind 6 to 13 mph."
+                "detailedForecast": "Mostly cloudy. Low around 21, with temperatures rising to around 30 overnight. Southwest wind 6 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-01-31T06:00:00-05:00",
+                "endTime": "2025-01-31T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "2 to 13 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,70?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain between 11am and 2pm, then rain likely and patchy fog. Cloudy, with a high near 39. Southwest wind 2 to 13 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "This morning, Boston awakens under a canopy of mostly clear skies, tinged with the soft colors of dawn. The air is crisp, with the promise of a sunny day unfolding before the city. Temperatures will climb, reaching a pleasant warmth by midday, a welcome contrast to the chill of the morning. As the sun ascends in the sky, it will cast lively shadows over the streets, while a gentle west wind whispers through the trees, adding a rhythmic undertone to the urban soundscape. While a few clouds linger at the edges, they only add character to the brilliant day ahead.\n\nAs the evening draws near, the atmosphere will shift, giving way to mostly cloudy skies, with temperatures gently rising overnight. For those venturing out today, a light jacket will suffice, allowing for ease and comfort as you traverse the vibrant neighborhoods. The day beckons for simple pleasures; perhaps a stroll along the Esplanade, where the delightful mix of people and nature serves as a reminder of life\u2019s small joys, or perhaps a visit to one of Boston\u2019s many quaint caf\u00e9s, where you can savor a warm drink while the world bustles around you. Keep your spirits high and embrace the beauty of the day.",
-    "color_code": "#A6C9E2",
-    "timestamp": "2025-01-30 07:10:50"
+    "weather_report": "As the night deepens over Boston, a blanket of clouds veils the city\u2019s charm, ushering in a chill that lingers in the air. Under the muted glow of the urban lights, the temperature hovers around a brisk 21 degrees, whispering promises of a gradual warming through the night. The northwest wind stirs softly, echoing the quietude of a winter eve, though its presence carries a hint of what tomorrow may bring\u2014a blend of rain and fog that could weave a hazy tapestry across the streets. \n\nFriday beckons, presenting a canvas painted with gray skies and a likelihood of rain by late morning, emerging from the damp chill that has enveloped the city. Expect a high near 39, a modest elevation as the grey sky seems to press gently upon the horizon. For those venturing out, dressing in layers will be crucial; a warm piece against the chill, complemented by a waterproof shell, will help navigate the dampness that lingers in the air and the roads. The forecast hints at obscured visibility, giving you the perfect excuse to find solace indoors\u2014perhaps an intimate caf\u00e9 where the rich aroma of coffee mingles with soft jazz, or a cozy bookstore inviting you to lose track of time within its pages. For those who embrace the outdoors despite the weather, a stroll under the canopy of clouds may evoke an invigorating breath of fresh, crisp air, tailored to those unafraid of a little rain.",
+    "color_code": "#708090",
+    "timestamp": "2025-01-30 19:27:07"
 }
