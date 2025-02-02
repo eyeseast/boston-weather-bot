@@ -7,22 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-02T06:53:00+00:00",
-            "temperature_f": 12.920000000000002,
-            "temperature_c": -10.6,
-            "humidity": 48.425083199547,
+            "timestamp": "2025-02-02T10:53:00+00:00",
+            "temperature_f": 10.04,
+            "temperature_c": -12.2,
+            "humidity": 60.430933869133,
             "wind_speed_mph": 12.0798,
-            "wind_direction": 330,
+            "wind_direction": 320,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-02T03:00:00-05:00",
-                "endTime": "2025-02-02T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 6,
+                "name": "Today",
+                "startTime": "2025-02-02T07:00:00-05:00",
+                "endTime": "2025-02-02T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 26,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -30,33 +30,33 @@
                     "value": null
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 6. Wind chill values as low as 0. Northwest wind around 5 mph."
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 26. East wind around 5 mph."
             },
             {
                 "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-02-02T06:00:00-05:00",
-                "endTime": "2025-02-02T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 27,
+                "name": "Tonight",
+                "startTime": "2025-02-02T18:00:00-05:00",
+                "endTime": "2025-02-03T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 24,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 100
                 },
-                "windSpeed": "5 mph",
+                "windSpeed": "2 to 6 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 27. South wind around 5 mph."
+                "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,100?size=medium",
+                "shortForecast": "Light Snow",
+                "detailedForecast": "Snow after 8pm. Cloudy. Low around 24, with temperatures rising to around 30 overnight. South wind 2 to 6 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
             }
         ]
     },
-    "weather_report": "As the early hours unfold in Boston, a serene stillness blankets the landscape. The night sky is mostly clear, beckoning glimpses of the stars and a promise of a crisp morning on the horizon. With temperatures dipping to the low single digits, one might find the air sharp yet invigorating, evoking that distinctive winter bite. Wind chill, reminiscent of a whisper from the northwest, dances around zero, urging a thoughtful layer of warmth\u2014perhaps a cozy scarf wrapped tightly or a hat to shield against the briskness.\n\nAs morning awakens, expect the sun to cast a soft glow across the city, inviting a more comfortable high of near twenty-seven degrees. The south wind, though gentle, carries with it the hope of a brighter day. While the early chill may linger, the promise of partial sunshine throughout the day suggests a potential for leisurely outdoor walks or a visit to one of the city's charming caf\u00e9s, where the warmth of hot drinks and conversation can uplift one's spirits. One might favor sensible attire for the day: a warm coat layered over a comfortable sweater, complemented with sturdy boots for those who venture outside, ready to embrace the quiet beauty of a winter's day in Boston, where the simple pleasure of watching the sunlight play across the snow can offer a delightful respite from the everyday hustle.",
-    "color_code": "#1A1A1D",
-    "timestamp": "2025-02-02 03:07:11"
+    "weather_report": "Boston awakens under a canvas of muted clouds, a soft blanket draped over the city, while a chill gently pricks at the skin. The air carries the promise of snow, thickening as the day inches forward and the thin veil of frost begins to yield to the warmth awaiting us. As the clock ticks closer to evening, the forecast hints at transformation: flurries will not just fall but dance, coaxed by the soft south wind, inviting a sense of cozy anticipation. With temperatures hovering around the mid-twenties, the time calls for layering\u2014perhaps a woolen scarf, a trusty coat, and boots that can crunch through the emerging snow.\n\nAs the day unfolds, there's a sense of enchantment in the air, a perfect backdrop for quiet contemplation or gentle exploration. Those with an inclination like to pop into the local coffee shop, steaming mugs in hand, or wander down tree-lined streets, perhaps finding a nook to scribble in a journal as the snowflakes begin to cascade down like tiny, gentle works of art. The weather invites moments of stillness as the world transforms into a softer version of itself, where the rhythmic hush of snowfall offers solace\u2014a fitting time to embrace the simple treasures of winter days in this venerable city.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-02-02 07:09:09"
 }
