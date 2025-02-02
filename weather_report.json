@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-01T11:21:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 81.581963887112,
+            "timestamp": "2025-02-01T23:53:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": null,
             "wind_speed_mph": 37.04472,
-            "wind_direction": 350,
-            "description": "Light Snow"
+            "wind_direction": 320,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-01T07:00:00-05:00",
-                "endTime": "2025-02-01T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "7 to 15 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,50/bkn?size=medium",
-                "shortForecast": "Areas Of Fog then Partly Sunny",
-                "detailedForecast": "Areas of fog and patchy freezing drizzle and a slight chance of snow before 8am, then a chance of snow and patchy freezing drizzle between 8am and 11am. Partly sunny. High near 31, with temperatures falling to around 22 in the afternoon. North wind 7 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 50%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-01T18:00:00-05:00",
+                "startTime": "2025-02-01T19:00:00-05:00",
                 "endTime": "2025-02-02T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 7,
+                "temperature": 6,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 7. Wind chill values as low as -1. Northwest wind 3 to 13 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly clear, with a low around 6. Wind chill values as low as 0. Northwest wind 3 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-02-02T06:00:00-05:00",
+                "endTime": "2025-02-02T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 27. South wind around 5 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a muted haze cloaks the city in a shroud of fog, wielding wisps of freezing drizzle that cling to chill the air. The early hours are marked by a somber stillness, with a faint whisper of possibility in the air, hinting at snow before the sun casts its initial rays. By late morning, the skies may reveal a more hopeful sun peeking through the clouds, albeit with temperatures that hover uncomfortably low. The north wind rustles through the streets, a brisk escort that reminds you to bundle up well against its chill.\n\nAs the day transitions, consider donning layers; a warm coat, perhaps a knitted scarf, and sturdy boots to navigate the dampness underfoot. The allure of this winter morning may lead one to enjoy a quiet stroll through the lingering fog or to seek refuge in a favorite caf\u00e9, savoring the embrace of warmth with a steaming cup of coffee. This chilly February day opens its arms to a mix of calm introspection and the satisfaction of simple pleasures, allowing for moments of quiet joy amidst the cold's relentless grip.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-02-01 07:09:10"
+    "weather_report": "As the night settles over Boston, a crisp clarity blankets the city, the kind that sharpens the outlines of buildings against a deep, inky sky. The air is cool, hovering around six degrees, with a whisper of wind that may bear a chill startling enough to remind you of winter's lingering touch. Tonight\u2019s calmness invites contemplation, perhaps a quiet walk through familiar streets or a moment spent sipping something warm, watching the city blink its bright lights into the evening.\n\nLooking ahead to tomorrow, the sun promises a return, partially veiled yet determined to grace the day with a high of near twenty-seven degrees. A gentle breeze from the south will accompany the sunlight, coaxing the chill away and inviting a more vibrant atmosphere. One might don a layered outfit, incorporating a warm coat for the morning\u2019s cool embrace, perhaps with a lighter scarf that may be cast aside as the day unfolds. It\u2019s a kind of day that encourages both movement and mindfulness\u2014a stroll along the Charles, a visit to a cozy caf\u00e9, or indulging in the art of browsing through a nearby bookstore. As the dawn breaks, Boston will breathe anew under the sun\u2019s tender gaze, creating perfect moments just waiting to be embraced.",
+    "color_code": "#002147",
+    "timestamp": "2025-02-01 19:29:08"
 }
