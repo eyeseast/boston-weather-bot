@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-03T03:31:00+00:00",
+            "timestamp": "2025-02-03T07:00:00+00:00",
             "temperature_f": 28.94,
             "temperature_c": -1.7,
-            "humidity": 78.18750662918,
+            "humidity": 84.934853406073,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Light Snow"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-02-02T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2025-02-03T03:00:00-05:00",
                 "endTime": "2025-02-03T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 25,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 40
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/snow,100/snow,90?size=medium",
-                "shortForecast": "Light Snow",
-                "detailedForecast": "Snow before 4am, then patchy fog and a slight chance of snow. Cloudy. Low around 25, with temperatures rising to around 32 overnight. South wind around 7 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,40?size=medium",
+                "shortForecast": "Chance Light Snow",
+                "detailedForecast": "A chance of snow before 5am. Cloudy. Low around 25, with temperatures rising to around 31 overnight. South wind around 5 mph. Chance of precipitation is 40%."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "6 to 9 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Cloudy",
-                "detailedForecast": "Patchy fog before 9am. Mostly cloudy, with a high near 44. Southwest wind 6 to 9 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 44. Southwest wind 5 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the night deepens in Boston, a delicate veil of snow whispers through the city, cloaking rooftops and sidewalks in muted white. The fog settles in, softening the sharp edges of the urban landscape, fostering a sense of quiet intimacy among the streets. Temperatures linger around a chill of 25 degrees, promising to nudge upwards as the night unfurls. The South wind, gentle and unassuming, sways the treetops, but the frigid air encourages snug layers. Tomorrow morning will arrive with patches of fog still lingering, slowly giving way to a more temperate day with hints of sun peeking through the clouds, bringing a high around 44 degrees. \n\nIt\u2019s a night for cocooning, perhaps indulging in a favorite book or sharing warmth with friends over a comforting hot beverage. The prevailing conditions suggest that cozy attire\u2014a warm scarf, reliable gloves, and a thick coat\u2014will serve anyone venturing out well. As the snow settles and the dawn beckons, consider a quiet stroll through the neighborhoods, where streetlamps cast a glow onto newly blanketed streets, creating a serene winter tableau. This tranquil moment before the hustle of Monday unfolds offers a retreat into simple pleasures amid fleeting beauty and the promise of brighter, more vibrant days ahead.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-02-02 23:07:58"
+    "weather_report": "In the tender hours of the early morning, Boston is shrouded in a veil of clouds, offering a dance of uncertainty between snowflakes and wisps of moisture that conspire to elevate the air to a barely noticeable warmth. The chill lingers at around 25 degrees, a crispness nudged upward by a gentle south wind. As daylight beckons, the atmosphere remains murky, cloaked in an enigmatic haze that challenges its clarity, a fleeting lingering of tired night, hinting at snow before dawn breaks. \n\nAs Monday unfolds, the promise of warmth grows, with clouds gathering amidst a reluctant sun, swirling about a high of 44 degrees. This weather calls for layers: a sturdy coat over a soft sweater, perhaps a scarf to insulate against the breath of winter still in the air. For those considering their day, the canvas of weather invites leisurely strolls through local parks or quiet moments in cozy caf\u00e9s, where warm drinks and soft pastries beckon. It is a day for reflection rather than rush, a perfect opportunity for the comfort of familiar routine amid the sometimes melancholic beauty of a winter sky.",
+    "color_code": "#6B7C9A",
+    "timestamp": "2025-02-03 03:09:03"
 }
