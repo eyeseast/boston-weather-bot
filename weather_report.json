@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-02T14:53:00+00:00",
-            "temperature_f": 19.939999999999998,
-            "temperature_c": -6.7,
-            "humidity": 54.313842740533,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 10,
-            "description": "Clear"
+            "timestamp": "2025-02-02T22:53:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 62.990234298163,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 70,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-02T11:00:00-05:00",
-                "endTime": "2025-02-02T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 26,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 26. Southeast wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-02T18:00:00-05:00",
+                "startTime": "2025-02-02T19:00:00-05:00",
                 "endTime": "2025-02-03T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 24,
+                "temperature": 25,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,100?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,100/snow,90?size=medium",
                 "shortForecast": "Light Snow",
-                "detailedForecast": "Snow after 9pm. Cloudy. Low around 24, with temperatures rising to around 30 overnight. South wind 2 to 6 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
+                "detailedForecast": "Snow between 9pm and 4am, then patchy fog and a slight chance of snow. Cloudy. Low around 25, with temperatures rising to around 32 overnight. South wind around 8 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-02-03T06:00:00-05:00",
+                "endTime": "2025-02-03T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Cloudy",
+                "detailedForecast": "Patchy fog before 9am. Mostly cloudy, with a high near 44. Southwest wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the day unfolds under a heavy gray blanket, the kind of overcast sky that seems to whisper of imminent snow. The temperature hovers around a subtle chill, layered beneath the promise of warmth later as the night approaches. For now, the atmosphere is heavy with clouds that lend a somewhat somber hue to the surroundings, the visibility muted, as if the city itself is tucking in for a midwinter's rest. \n\nAs the hours meander towards evening, snow is anticipated, lighting up the already drab palette with a delicate touch of winter's charm. With the winds speaking softly at about six miles per hour, one may feel the need to wrap themselves in layers\u2014perhaps a thick scarf and a cozy coat would provide the comfort necessary against the rising chill of the night. While it may not be the most inviting weather for outdoor adventures, a stroll through a nearby park could be rejuvenating against the prospect of watching the first snowflakes dance down. Alternatively, one might find solace in a snug caf\u00e9, savoring a warm drink and watching the world transform into a glistening winter wonderland as night falls.",
-    "color_code": "#A1A1A1",
-    "timestamp": "2025-02-02 11:05:59"
+    "weather_report": "As night deepens over Boston, the promise of snow hangs in the cool, still air, a prelude to the delicate dance nature is about to perform. The clouds, heavy and overcast, shroud the city in a blanket of gray, signaling a snowfall beginning soon, likely just before night veers into dawn. Tonight, the capital will embrace the chill, with temperatures dipping to a biting 25 degrees. As the snow gently touches the ground, painting a fresh canvas, expect a modest accumulation that will cloak the streets in a quiet, white embrace, with fog whispering into being as the hours pass. \n\nMonday dawns with the remnants of snow lingering underfoot, as patchy fog may greet those who wander out before the sun climbs fully into the sky. The day promises a high near a temperate 44 degrees, wrapped in warm southwest breezes that invite freedom from heavy coats. The atmosphere, still layered with clouds, hints at a muted charm, softened contours, and a comforting melancholy. It will be best to dress in layers, perhaps donning a cozy sweater beneath a coat, ready for the transition from the morning chill to a more comfortable afternoon. A winter walk through the city might reveal the serene beauty of snow-kissed streets, while a visit to a local caf\u00e9 might provide the perfect refuge to savor a warm drink, enveloped in the fragrant warmth of coffee or cocoa as you watch the day unfold.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-02-02 19:28:04"
 }
