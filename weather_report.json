@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-04T06:53:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 70.539119120885,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 260,
-            "description": "Cloudy"
+            "timestamp": "2025-02-04T10:53:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 81.731601290632,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-04T03:00:00-05:00",
-                "endTime": "2025-02-04T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 36,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 36. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-02-04T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-02-04T07:00:00-05:00",
                 "endTime": "2025-02-04T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 40,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "7 to 20 mph",
+                "windSpeed": "8 to 20 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 40, with temperatures falling to around 32 in the afternoon. Northwest wind 7 to 20 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly sunny. High near 40, with temperatures falling to around 32 in the afternoon. Northwest wind 8 to 20 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-04T18:00:00-05:00",
+                "endTime": "2025-02-05T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 15,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 15 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 15. Northwest wind 8 to 15 mph."
             }
         ]
     },
-    "weather_report": "As the early hours of the morning embrace Boston, a thick blanket of clouds rests heavily overhead, creating an atmosphere that feels hushed and contemplative. The temperature dances around the 36-degree mark, lending a chill to the air that suggests more winter lies ahead. As dawn approaches, the forecast whispers promises of mostly sunny skies later in the day, yet, for now, a northwest wind gently unfurls, stirring a crispness that permeates the stillness of the night.\n\nBy the time the sun makes its appearance, expect a climb toward a high near 40, before the afternoon ushers in a notable drop back down to the colder realm of 32 degrees. Gusts may playfully tease the trees, reaching up to 30 mph, urging anyone who ventures outdoors to wrap themselves warmly against the wind's bite. This is no day for light jackets; consider layering thick sweaters beneath a sturdy coat, accompanied by a stylish scarf to fend off the cold. The gusty conditions allow for a brisk stroll through the quiet streets, perhaps indulging in coffee from a beloved caf\u00e9, allowing the warmth to seep into fingertips long chilled by winter's grasp. With the sun trying to break through the ever-persistent clouds, the day beckons exploration, especially for those who appreciate the serene beauty of a city awakening amidst shifting weather.",
-    "color_code": "#7E7D7A",
-    "timestamp": "2025-02-04 03:08:44"
+    "weather_report": "As dawn breaks over Boston, the city awakens under a vast expanse of mostly sunny skies, though the chill of winter lingers in the air. The temperature has gently settled, hovering near 40, though it promises to dip into the thirties this afternoon, beckoning residents to wrap themselves in layers that embrace both warmth and comfort. A brisk northwest wind dances through the streets, whipping against the facades of buildings, sowing a touch of energy into the quiet of the early hour. The gusts, reminiscent of the vigor that makes this city resilient, may take even the most seasoned Bostonian by surprise.\n\nTonight brings the solace of clarity as the skies will remain clear and crisp, with temperatures dropping to a whisper of 15 degrees. It\u2019s the kind of evening that invites a cozy nook, perhaps with a warm drink in hand, offering an escape from the briskness outdoors. Dressing in layers\u2014think a sturdy coat, gloves, and a snug scarf\u2014will not only keep one warm but amplify the pleasure of a late afternoon stroll through the parks adorned with remnants of winter. With the clarity of the day, wandering the winding pathways of the Emerald Necklace could prove both invigorating and peaceful, providing a perfect opportunity to witness the slow transition of the sun as it bows out of the day.",
+    "color_code": "#A7C9E0",
+    "timestamp": "2025-02-04 07:11:03"
 }
