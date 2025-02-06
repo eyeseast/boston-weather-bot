@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-05T14:53:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 39.794000472894,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 300,
+            "timestamp": "2025-02-05T22:53:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 34.721351966767,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-05T11:00:00-05:00",
-                "endTime": "2025-02-05T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 to 10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 27. Northwest wind 6 to 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-05T18:00:00-05:00",
+                "startTime": "2025-02-05T19:00:00-05:00",
                 "endTime": "2025-02-06T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 14. Southwest wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-02-06T06:00:00-05:00",
+                "endTime": "2025-02-06T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/snow,100/snow_fzra,100?size=medium",
+                "shortForecast": "Snow",
+                "detailedForecast": "Snow between 8am and noon, then snow and sleet between noon and 3pm, then sleet likely and rain likely between 3pm and 4pm, then a chance of freezing rain. Cloudy, with a high near 33. Southeast wind 6 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. Little or no ice accumulation expected."
             }
         ]
     },
-    "weather_report": "In Boston today, the sky unfolds in brilliant clarity, an expanse of sunlit blue casting cheer over the city\u2019s contours. The morning greets us with a gentle northwest breeze that whispers of winter\u2019s retreat, stirring the air just enough to remind one of the chill that still lingers. With temperatures edging toward a pleasant warmth, the mood is decidedly buoyant for those venturing outdoors. As the sun energetically climbs, it invites all to bask under its gaze, illuminating the architectural grace of downtown against the soft, muted browns of the surrounding landscape.\n\nAs the daylight wanes into the evening, one may find a sense of tranquility settling in. The temperature will drop, encapsulating the day\u2019s promise in a lingering coolness. A light jacket will serve well against the brisk air, while a cozy scarf might add a touch of comfort against the evening\u2019s embrace. It\u2019s a perfect time for a leisurely walk through a neighborhood park, perhaps to admire how the sun dips behind the horizon or to enjoy a quiet moment with a favorite book, wrapped in a blanket on a front porch. As Boston rests beneath a star-speckled sky later tonight, it serves as a gentle reminder of life\u2019s simple pleasures, effortlessly coaxing us to cherish the present.",
-    "color_code": "#ADD8E6",
-    "timestamp": "2025-02-05 11:07:44"
+    "weather_report": "As the evening unfolds in Boston, the city is cloaked in a cool embrace, with temperatures dipping to around 14 degrees. The night promises a partly cloudy sky, gently brushed by a whisper of a southwest wind, rendering the air crisp and refreshing. However, anticipation hangs thick in the air, for tomorrow beckons with a wintry mix that will transform the landscape. Snow, sleet, and rain will dance through the morning hours, painting the streets with a fresh coating of white amid the familiar gray of winter. With winds shifting from the southeast, those venturing outdoors will need to prepare for a true winter experience, where the high will hover around 33, marked by a certainty of precipitation.\n\nDressed warmly in layers that invite both comfort and mobility is wise; a sturdy coat, thick gloves, and a reliable pair of boots will serve well against the thaw and freeze that the day promises. The charm of winter may call for a stroll through the neighborhoods, the crunch of snow underfoot echoing the quiet magic that surrounds. One might indulge in a warm drink from a local caf\u00e9, taking refuge from the cold while watching the world, or consider an indoor venture\u2014perhaps a museum or gallery\u2014imbibing the warmth of culture as the weather outside shifts dramatically. Whatever the choice, the evening and coming day suggest an atmosphere thick with possibility, blending the warmth of community with the crispness of the season.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2025-02-05 19:27:35"
 }
