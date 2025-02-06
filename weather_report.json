@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-06T06:53:00+00:00",
-            "temperature_f": 14.0,
-            "temperature_c": -10,
-            "humidity": 76.795028696768,
+            "timestamp": "2025-02-06T10:53:00+00:00",
+            "temperature_f": 17.96,
+            "temperature_c": -7.8,
+            "humidity": 77.176122897176,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-06T03:00:00-05:00",
-                "endTime": "2025-02-06T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 14,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 14. South wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-02-06T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-02-06T07:00:00-05:00",
                 "endTime": "2025-02-06T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "5 to 9 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/snow,100/snow_fzra,100?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow between 8am and noon, then snow and sleet between noon and 3pm, then sleet likely and rain likely between 3pm and 4pm, then a chance of freezing rain. Cloudy, with a high near 33. Southeast wind 6 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. Little or no ice accumulation expected."
+                "detailedForecast": "Snow before 1pm, then snow and a chance of sleet between 1pm and 3pm, then a chance of freezing rain between 3pm and 4pm, then a chance of freezing rain and a chance of rain between 4pm and 5pm. Cloudy, with a high near 33. Southeast wind 5 to 9 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. Little or no ice accumulation expected."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-06T18:00:00-05:00",
+                "endTime": "2025-02-07T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 30,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 30. West wind 3 to 9 mph."
             }
         ]
     },
-    "weather_report": "As the quiet of the early morning envelopes Boston, the night sky is mostly veiled in a soft blanket of clouds, hinting at the impending transformation that awaits. The thermometer registers a brisk chill, foreshadowing a day where winter's grasp will take center stage. By mid-morning, expect snow to make its presence known, gathering in lazy flurries before mingling with sleet and perhaps even the unwelcome touch of freezing rain. The day's view may continue to be shrouded, casting the city in muted tones, with the promise of a wintry landscape slowly unfolding.\n\nTo navigate through this chilly reverie, it would be wise to don layers that embrace both warmth and mobility\u2014think a cozy sweater beneath a sturdy coat, paired with insulated boots to tackle the accumulating snow. As you wander through the city, perhaps indulge in the simple pleasures that winter brings: find solace in a snug caf\u00e9, inhaling the aroma of fresh coffee while watching the world outside transform under a cascade of snowflakes. Or take a quick stroll to appreciate the serene beauty of the quiet streets, brushed white with the flurry of nature\u2019s brush, reminding us how enchanting this season can be, despite its chill.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-02-06 03:08:35"
+    "weather_report": "As the dawn breaks over Boston, a melancholic veil of clouds hangs low, merging seamlessly with the remnants of last night\u2019s snowfall. The world feels hushed beneath a thick blanket, as fresh snow settles quietly onto the streets, transforming the city into a scene both serene and somber. This morning, the air is crisp, biting with hints of moisture; the foreboding promise of more snow lingers as the day unfolds. The temperature hovers near freezing, and there is a distinct chill that nudges you to layer up\u2014perhaps don a woolen sweater beneath a heavy coat, complemented by warm gloves and a snug scarf that hugs you against the elements.\n\nAs the day progresses, expect a fluctuating dance of precipitation, shifting from snow to a wintry mix of sleet and freezing rain, bringing with it a sense of urgency in each flake that drifts downwards. The high will struggle to reach 33, where the southeast wind will add an extra bite, reminding all of the vigorous winter we are deep within. Tonight, the clouds will linger, casting shadows over a city dressed in a muted palette\u2014a reminder of nature's quiet artistry. Given these conditions, a thoughtful idea for the day might be to embrace the warmth of home. A cozy reading nook with a steaming cup of tea feels appropriate, or perhaps indulging in the nostalgia of a favorite film. It is a time to reflect, to appreciate the stillness of the season while being wrapped in comforting layers, drawn close to the hearth as the world outside merges into shades of gray and white.",
+    "color_code": "#A3B5C3",
+    "timestamp": "2025-02-06 07:10:38"
 }
