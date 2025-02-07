@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-06T18:21:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 84.573028786765,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Light Snow and Fog/Mist"
+            "timestamp": "2025-02-06T23:10:00+00:00",
+            "temperature_f": 33.98,
+            "temperature_c": 1.1,
+            "humidity": 88.423674328272,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 320,
+            "description": "Light Freezing Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-06T15:00:00-05:00",
-                "endTime": "2025-02-06T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 33,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain_fzra,50?size=medium",
-                "shortForecast": "Chance Freezing Rain",
-                "detailedForecast": "A chance of freezing rain before 4pm, then a chance of freezing rain and a chance of rain between 4pm and 5pm. Cloudy, with a high near 33. East wind around 7 mph. Chance of precipitation is 50%. Little or no ice accumulation expected."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-02-06T18:00:00-05:00",
                 "endTime": "2025-02-07T06:00:00-05:00",
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 9 mph",
+                "windSpeed": "3 to 12 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 30. West wind 3 to 9 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 30. West wind 3 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-02-07T06:00:00-05:00",
+                "endTime": "2025-02-07T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "12 to 22 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 36. West wind 12 to 22 mph, with gusts as high as 38 mph."
             }
         ]
     },
-    "weather_report": "In Boston, a delicate veil of clouds hangs over the city, a muted gray sky embracing the day with a quiet chill. The temperature hovers around just above freezing, and there\u2019s a lingering chance of freezing rain that might add an uneasy sparkle to the pavement by late afternoon. As the hours creep towards sunset, the moisture in the air mixes with the brisk easterly wind, crafting an ambiance that is both brisk and slightly foreboding, yet distinctly characteristic of a New England winter. Tonight, the mercury will dip further, nudging down as twilight settles, marking a transition to a quieter evening.\n\nAs you prepare to venture out, layers will be your ally; a snug sweater beneath a heavier coat will keep you warm against the chill, while a hat is an integral defense against the cold wind kissing your cheeks. Opt for waterproof shoes if you find yourself beneath the intermittent drizzle, as the streets may become slick. The afternoon is ripe for mundane yet enjoyable activities, perhaps a visit to a cozy caf\u00e9, where you might savor a warm drink while gazing out at the bustle of the city. Alternatively, a leisurely stroll through the tranquil parks could reveal the subtle beauty of winter\u2014branches heavy with remnants of unfrozen rain, and the soothing rustle of muted leaves underfoot. This seemingly ordinary day unfolds with the potential for understated moments of reflection amid the layered nuances of winter.",
-    "color_code": "#AEB8C5",
-    "timestamp": "2025-02-06 15:07:11"
+    "weather_report": "As the evening settles over Boston, a veil of clouds hugs the horizon, casting a muted gray upon the bustling city streets. The temperature dips to a crisp 30 degrees, inviting a gentle westward breeze that whispers through the air. The landscape, while devoid of bracing sunlight, holds a certain quiet charm as the warmth of indoor spaces beckons. With the promise of a clear Friday on the horizon, expect the sun to break through to reveal a landscape bathed in bright light, albeit accompanied by brisk winds that remind us of winter's lingering presence.\n\nAs you prepare to step out into the cool night, layering becomes your best ally\u2014choose a snug sweater beneath a sturdy coat, and don a stylish yet warm hat to battle the chill. Tomorrow, with highs touching 36, the pleasant sunshine will make it a fine day to stroll along the Common or sip a warm beverage in an outdoor caf\u00e9. However, be ready for the gusty winds that may make even the sun seem a tad brisk, so a scarf and gloves will help keep you comfortable. Amidst the gentle shifting of the seasons, embrace the ebb and flow of Boston\u2019s evening serenity\u2014the perfect backdrop for a quiet night in, a read, or an exploration of city light and shadow.",
+    "color_code": "#4B9CD3",
+    "timestamp": "2025-02-06 19:27:36"
 }
