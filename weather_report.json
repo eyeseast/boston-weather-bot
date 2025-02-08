@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-08T06:53:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 57.3471522885,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 240,
+            "timestamp": "2025-02-08T10:53:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 62.296039135512,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 250,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-08T02:00:00-05:00",
-                "endTime": "2025-02-08T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 19,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 19. West wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-02-08T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-02-08T07:00:00-05:00",
                 "endTime": "2025-02-08T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 34,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 34. West wind 7 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 34. West wind 5 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-08T18:00:00-05:00",
+                "endTime": "2025-02-09T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 24,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/snow,100?size=medium",
+                "shortForecast": "Heavy Snow",
+                "detailedForecast": "Snow. Cloudy, with a low around 24. Southeast wind 2 to 6 mph. Chance of precipitation is 100%. New snow accumulation of 4 to 8 inches possible."
             }
         ]
     },
-    "weather_report": "As dawn approaches, the crisp air carries with it the faint promise of clarity. The skies above Boston, currently draped in a quilt of partial cloud, suggest a gentle transition from night\u2019s deep embrace to the quiet brightness of morning. With temperatures settling near the low twenties, the westward winds whisper their presence, inviting a moment of contemplation before the day unfolds. \n\nSaturday is poised to offer a welcoming respite from the winter\u2019s chill, with sunshine anticipated to grace the city as it rises to a comfortable thirty-four degrees. A gentle breeze will dance through the streets, making it a perfect occasion to layer up in cozy sweaters complemented by a light jacket, perhaps with a warm scarf to buffer against the lingering briskness. This is no time to be idle; the atmosphere encourages leisurely strolls through the park or perhaps a visit to that quaint caf\u00e9 you\u2019ve been meaning to try, where you can savor a warm drink while watching the world awaken. Engage in simple pleasures, allowing the day\u2019s potential to slowly unfurl, basking in the combination of warmth and coolness that only a New England winter day can provide.",
-    "color_code": "#A8C8E3",
-    "timestamp": "2025-02-08 03:07:45"
+    "weather_report": "Boston awakens this morning under a canopy of delicate blue, hinting at the promise of a day that begins with a whisper of sunshine. As the temperature gently edges towards a high of 34 degrees, a mild west wind plays softly on the skin, inviting those who brave the outdoors to linger a moment longer. Yet, the calm is fleeting; the forecast speaks of a transformation as evening descends, bringing with it a blanket of snow that will embrace the city in a gentle white shroud, cloaking it in silence as the night deepens. With precipitation likely to reach near certainty, one can expect a new layer of four to eight inches, making the world outside both a challenge and a charm.\n\nAs one contemplates hedging against the forthcoming winter chill, a heavy coat, perhaps layered over a warm knit, would do marvels today. One might opt for waterproof boots, preparing for the cozy crunch of snow underfoot by nightfall. Consider a leisurely morning stroll through the quiet neighborhoods, perhaps stopping by a nearby caf\u00e9 for a hot cup of coffee to savor while admiring the morphology of the frost as it glistens in the sunlight. As the day wanes and the snow begins to fall, the comfort of home will beckon, ideal for curling up with a good book, allowing the serene rhythm of the falling snow to become your very own lullaby.",
+    "color_code": "#A7C6ED",
+    "timestamp": "2025-02-08 07:09:06"
 }
