@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-09T07:15:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 84.876962917972,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 50,
-            "description": "Light Snow and Fog/Mist"
+            "timestamp": "2025-02-09T11:12:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 81.277356533637,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 360,
+            "description": "Haze"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-09T03:00:00-05:00",
-                "endTime": "2025-02-09T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 25,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/snow,100?size=medium",
-                "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy, with a low around 25. East wind around 6 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-02-09T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-02-09T07:00:00-05:00",
                 "endTime": "2025-02-09T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 34,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 60
                 },
                 "windSpeed": "5 to 10 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,80/snow,20?size=medium",
-                "shortForecast": "Snow then Slight Chance Snow Showers",
-                "detailedForecast": "Snow before noon, then a slight chance of snow showers between noon and 1pm. Cloudy, with a high near 34. North wind 5 to 10 mph. Chance of precipitation is 80%. New snow accumulation of 1 to 2 inches possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,60/ovc?size=medium",
+                "shortForecast": "Snow Likely then Cloudy",
+                "detailedForecast": "Snow likely before 10am, then a slight chance of snow showers between 10am and 11am. Cloudy, with a high near 34. North wind 5 to 10 mph. Chance of precipitation is 60%. New snow accumulation of less than one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-09T18:00:00-05:00",
+                "endTime": "2025-02-10T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 17,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 17. West wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As we embrace the early hours of this winter morning in Boston, a delicate blanket of snow gently embraces the landscape, painting it in soft hues of white. The air holds a crisp chill, with temperatures resting in the low twenties, an invitation for warmth and comfort. The east wind wafts through the streets, whispering promises of more snow, as the forecast hints at continued flakes throughout the day. By noon, the city may find itself amid sporadic snow showers, but for now, there's a certain quietude in the air, an ethereal stillness that often accompanies a snowfall.\n\nToday, as daylight stirs and the clouds loom overhead, one might ponder their wardrobe to best adapt to the impending cold. Layering is paramount\u2014think wool or cashmere for warmth, complemented by a good coat to shield against the persistent wind. A scarf wound snugly around the neck can stave off the chill, while sturdy, snow-ready boots will do wonders for stability on slick sidewalks. In terms of activity, this almost magical weather calls for a leisurely stroll through the snow-dusted paths of Boston Commons, or perhaps a cozy visit to a local caf\u00e9, where the warmth of a hot chocolate or a steaming cup of coffee can be savored while gazing at the gentle snowfall outside. Simple moments can transform this winter day into a cherished memory.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-02-09 03:07:33"
+    "weather_report": "The morning in Boston unfolds under a veil of heavy gray, hinting at a lingering chill as snow flurries dance through the air. The forecast suggests a soft hush of snow likely before 10 a.m., an invitation to embrace the winter\u2019s gentle whims, albeit with an uncertain touch as light showers may linger momentarily after. The clouds cling tightly, casting a muted light over the city, a backdrop painted in shades of slate and frost. As the day progresses, the promise of much colder air creeps in, nudging the temperature near the mid-thirties, while a subtle north wind whispers through, creating a crisp ambiance that commands attention.\n\nAs twilight approaches tonight, the sky will start to clear, revealing the stark beauty of a starry winter\u2019s night. With temperatures dropping to the teens, layers will be your ally; a warm coat, complemented by a scarf and sturdy boots will provide comfort amidst the biting air. Such a day is perfect for a leisurely stroll through Boston\u2019s historic streets, perhaps meandering past old brick buildings and sampling a hot beverage from a local caf\u00e9, allowing yourself to sink into the warm embrace of a cozy atmosphere\u2014enough to dispel the chill without hastening away the day. Embrace clarity in thought, as this winter morning cradles you in its tranquil yet invigorating grasp.",
+    "color_code": "#B0C4D6",
+    "timestamp": "2025-02-09 07:09:18"
 }
