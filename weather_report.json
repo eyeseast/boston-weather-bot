@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-11T18:53:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 42.86305110069,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 250,
-            "description": "Clear"
+            "timestamp": "2025-02-11T22:53:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 43.020939297205,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 200,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-11T15:00:00-05:00",
-                "endTime": "2025-02-11T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 34,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 34. Southwest wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-11T18:00:00-05:00",
+                "startTime": "2025-02-11T19:00:00-05:00",
                 "endTime": "2025-02-12T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 19,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
                 "detailedForecast": "Cloudy, with a low around 19. West wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-02-12T06:00:00-05:00",
+                "endTime": "2025-02-12T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 34,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/snow/snow,20?size=medium",
+                "shortForecast": "Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers after 10am. Cloudy, with a high near 34. Northeast wind 6 to 10 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Boston, a veil of clouds lingers overhead this afternoon, wrapping the city in a subdued gray embrace. The air holds a crisp bite, a reminder that winter remains firmly in its grasp as the temperature hovers near 34 degrees. The southwest breeze brushes past with a gentle caress, inviting passersby to feel the chill, yet the world remains undisrupted, maintaining an air of serene stillness as everyone goes about their day.\n\nAs evening descends, the clouds will persist, thickening as temperatures dip to around 19 degrees. The westward wind will whisper softly, a calm prelude to the night ahead. Dress warmly, perhaps in layers that can be shed indoors, and consider a sturdy coat to fend off the penetrating chill. It's a fine day for quiet pursuits\u2014perhaps an afternoon spent in a local caf\u00e9, savoring a hot drink while watching the world drift past, or taking a leisurely stroll through the hushed streets, where the soft crunch of snow underfoot harmonizes with the muted echoes of the city. Embrace the quietude of a wintry day, allowing the cool air and low light to invite reflection and tranquility.",
-    "color_code": "#B0C4C8",
-    "timestamp": "2025-02-11 15:07:19"
+    "weather_report": "As night envelops Boston, the air carries a crispness, with a hint of chill that announces February\u2019s arrival. The sky is shrouded in clouds, a blanket that dulls the stars and dims the horizon. With temperatures dipping to a low around 19, the west wind whispers softly, creating a subtle rustle among the remaining dry leaves. For those venturing outdoors, a warm coat, perhaps layered over a snug sweater, would be advisable. A well-worn scarf and sturdy shoes would add an extra measure of comfort against the persistent chill.\n\nLooking ahead to Wednesday, the city may awaken to the soft promise of snow showers, a light dance of flakes expected after ten. The day carries a forecast high of 34, a manageable temperature for the adventurous soul. While the air remains mostly clouded, a fleeting glimpse of sunshine could brighten the spirit, even if momentarily. Indoor pursuits may beckon; perhaps a leisurely stroll through a local bookstore, where the familiar scent of paper and ink offers a warm embrace, or a visit to a cozy caf\u00e9 for a steaming cup of something indulgent. It is a perfect day for reflective moments spent in quiet corners, where the outside frost fades into a distant thought.",
+    "color_code": "#2F2F2F",
+    "timestamp": "2025-02-11 19:27:26"
 }
