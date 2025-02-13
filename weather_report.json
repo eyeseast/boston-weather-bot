@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-13T07:00:00+00:00",
-            "temperature_f": 33.08,
-            "temperature_c": 0.6,
-            "humidity": 84.573028786765,
-            "wind_speed_mph": 24.964920000000003,
+            "timestamp": "2025-02-13T11:38:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 85.375550299468,
+            "wind_speed_mph": 20.93832,
             "wind_direction": 70,
-            "description": "Light Snow and Fog/Mist"
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-13T03:00:00-05:00",
-                "endTime": "2025-02-13T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/sleet,100?size=medium",
-                "shortForecast": "Light Snow",
-                "detailedForecast": "Snow before 5am, then snow and a chance of sleet. Cloudy, with a low around 31. Southeast wind around 15 mph, with gusts as high as 26 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-02-13T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-02-13T07:00:00-05:00",
                 "endTime": "2025-02-13T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 40,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "10 to 15 mph",
+                "windSpeed": "10 to 14 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/snow_fzra,100/rain_fzra,40?size=medium",
-                "shortForecast": "Light Snow Likely then Light Rain",
-                "detailedForecast": "Snow likely before 7am, then rain and a chance of freezing rain between 7am and 3pm. Cloudy, with a high near 40. South wind 10 to 15 mph, with gusts as high as 28 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,100/rain,30?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain before noon, then a chance of rain and patchy fog between noon and 3pm. Cloudy, with a high near 40. South wind 10 to 14 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-13T18:00:00-05:00",
+                "endTime": "2025-02-14T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 24,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "12 to 17 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 24. West wind 12 to 17 mph, with gusts as high as 35 mph."
             }
         ]
     },
-    "weather_report": "In the hush of this early morn, Boston lies wrapped in a blanket of snow, a shroud that whispers promises of winter's embrace. The air is tinged with a crisp chill, an invitation to retreat indoors. As dawn approaches, snow falls gently, accompanied by a chance of sleet that may arrive uninvited. The clouds loom heavy, carrying the weight of expectation. Winds from the southeast stir the chill, creating a brisk symphony that pulls at the edges of your coat. Dress warmly, layering for comfort; a sturdy scarf is your friend, while waterproof boots will serve you well as you navigate the slick remnants of overnight flurries.\n\nAs the day unfolds, the world outside remains burdened under a canopy of gray. Snow is likely to transition into rain, perhaps with a fleeting flirtation with freezing rain. The high will ascend to a modest 40 degrees, a glimmer of warmth amid the chill. If adventure calls, consider a visit to a cozy caf\u00e9, where the aroma of fresh coffee and baked goods may offer solace against the biting cold. A stroll through Boston\u2019s historic streets, with umbrellas at the ready, can unveil a beauty unique to this weather\u2014a certain quiet charm that only a gloomy day can unveil. Seek out the comfort of a local library, lost among pages and thoughts, while the world outside finds a rhythm in the falling precipitation.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-02-13 03:08:36"
+    "weather_report": "As dawn breaks over Boston, the whisper of rain mingles with a veil of gray, heralding a day where the elements play their somber tunes. The skies, draped in heavy clouds, bear down with an unwavering promise of precipitation before noon, creating a damp ambiance that thickens the air, leaving hints of a patchy fog to linger briefly in the afternoon. Step outside today, and you will feel the chill that accompanies a damp high of around 40 degrees, with winds sweeping in from the south, urging you to bundle up against the chilly gusts. \n\nThe sun may strive to break through in the evening, giving way to a clearer night sky as the temperature dips to a cool 24 degrees. As the day unfolds, considering an understated yet practical ensemble is wise\u2014think warm layers topped with a waterproof jacket to ward off the relentless drizzle. It seems the ideal time for a reflective stroll along the river or to explore the charm of a cozy caf\u00e9, where the warmth and aroma of freshly brewed coffee provide solace from the uninviting weather outside.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-02-13 07:10:48"
 }
