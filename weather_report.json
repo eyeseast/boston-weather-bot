@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-16T07:17:00+00:00",
-            "temperature_f": 28.04,
-            "temperature_c": -2.2,
-            "humidity": 84.876962917972,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 80,
-            "description": ""
+            "timestamp": "2025-02-16T10:53:00+00:00",
+            "temperature_f": 33.98,
+            "temperature_c": 1.1,
+            "humidity": 85.253168149775,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 60,
+            "description": "Light Freezing Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-16T03:00:00-05:00",
-                "endTime": "2025-02-16T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 25,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "9 to 13 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/ovc,100?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. Low around 25, with temperatures rising to around 31 overnight. East wind 9 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-02-16T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-02-16T07:00:00-05:00",
                 "endTime": "2025-02-16T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain and patchy fog after 10am. Cloudy, with a high near 39. Northeast wind 10 to 17 mph. Chance of precipitation is 100%. Little or no ice accumulation expected."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-16T18:00:00-05:00",
+                "endTime": "2025-02-17T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 21,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "2 to 22 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,80/wind_sct?size=medium",
+                "shortForecast": "Light Rain then Partly Cloudy",
+                "detailedForecast": "Rain and patchy fog before 11pm. Partly cloudy, with a low around 21. Southwest wind 2 to 22 mph, with gusts as high as 38 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night shrouds Boston in a thick cloak of clouds, the temperature hovers at a chill that promises to rise only slightly in the coming hours. The air is laden with the scent of impending snow, and, though it's nearly morning, the promise of rain and fog lies in wait like an uninvited guest. As dawn approaches, one can almost sense the weight of each droplet inching closer, threatening to diminish visibility and transform familiar landmarks into a mere suggestion behind the low-hanging mist. A brisk wind carries the frigid whispers of winter, rattling those who venture outside, urging them to bundle up in layers that trap warmth against the encroaching chill.\n\nAs daylight breaks, the forecast delivers a rather dreary disposition for the city. The day ahead appears more gray than bright, with an unmistakable expectation of rain gathering after 10 a.m. The air will be thick, rendering outdoor activities less than appealing for most. Yet, with proper attire\u2014cozy jackets, sturdy boots, and a scarf to ward off the wind\u2014a stroll through the quiet streets or a stop into a cozy caf\u00e9 to sip something warm can still offer solace amidst the fog. As the hustle of the city continues, the muted sounds of life beneath the haze can serve as a gentle reminder of the beauty found even in the most unremarkable of days.",
-    "color_code": "#7D7D7D",
-    "timestamp": "2025-02-16 03:07:31"
+    "weather_report": "In the heart of Boston, a thick shroud of fog weaves through the cityscape, wrapping each corner in a blanket of moisture. This morning, the air carries the scent of impending rain, blending with the chill that lingers just above freezing. The sky, a somber canvas of gray, offers little promise of warmth or clarity. As the hours drift toward midday, the persistent mist will only deepen, ushering in the certainty of rain that lingers like an uninvited guest. The northeast wind sways the naked branches, whispering secrets of winter while delivering a bite that calls for layers.\n\nAs evening approaches, the clouds will part slightly, allowing for moments of moonlight glinting off puddles where rain collected during the day. Temperatures will drop, coaxing those venturing out to bundle up in sweaters and coats, perhaps with a cozy scarf wrapped close against the night air. The gusts of wind will dance once more, a playful reminder of the season. Tonight, though the rain may recede, the lingering dampness may make one yearn for the warmth of home, perhaps flipping through pages of a well-loved book or enjoying a movie that speaks to the comfort of domesticity.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-02-16 07:11:43"
 }
