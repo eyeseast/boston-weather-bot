@@ -7,22 +7,41 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-17T06:53:00+00:00",
+            "timestamp": "2025-02-17T18:53:00+00:00",
             "temperature_f": 30.92,
             "temperature_c": -0.6,
-            "humidity": 58.229148519071,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 260,
-            "description": "Cloudy"
+            "humidity": 41.153125681742,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-17T03:00:00-05:00",
-                "endTime": "2025-02-17T06:00:00-05:00",
+                "name": "Washington's Birthday",
+                "startTime": "2025-02-17T15:00:00-05:00",
+                "endTime": "2025-02-17T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "21 to 24 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 27. West wind 21 to 24 mph, with gusts as high as 49 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-17T18:00:00-05:00",
+                "endTime": "2025-02-18T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 20,
+                "temperature": 12,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -33,30 +52,11 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 20. West wind around 20 mph, with gusts as high as 44 mph."
-            },
-            {
-                "number": 2,
-                "name": "Washington's Birthday",
-                "startTime": "2025-02-17T06:00:00-05:00",
-                "endTime": "2025-02-17T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "18 to 25 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 27. West wind 18 to 25 mph, with gusts as high as 52 mph."
+                "detailedForecast": "Partly cloudy, with a low around 12. Wind chill values as low as -5. West wind around 20 mph, with gusts as high as 47 mph."
             }
         ]
     },
-    "weather_report": "As the night cloaks Boston, a cool but crisp atmosphere blankets the city, with gentle whispers of wind weaving through the streets. The current tranquility is punctuated by a chill that nudges its way into the bones, resting quietly around 20 degrees, accompanied by a steady westerly breeze that is anything but timid. By dawn, the horizon will brighten to reveal a mostly sunny display, a stark contrast to the night\u2019s embrace. The day ahead promises highs near 27, yet the wind will continue to exhibit its audacious nature, sending gusts up to 52 miles per hour; this is not an environment to underestimate.\n\nDressing for such weather calls for layers; a sturdy coat, perhaps, paired with a scarf to shield your neck from the biting gusts. Sturdy boots will serve you well on the frost-kissed ground, whose surface may betray a sheen of ice in places. Given the conditions, one might find satisfaction in a leisurely stroll through a nearby park, where the gentle rustle of leaves harmonizes with the crisp air. Alternatively, an afternoon spent in a cozy caf\u00e9, cradling a warm drink while gazing out at the wintry scene beyond the window, seems a fitting reprieve. This day, with its bold winds and clear skies, invites discovery and warmth, wrapped in the simple joys of life\u2019s everyday moments.",
-    "color_code": "#2C2D34",
-    "timestamp": "2025-02-17 03:09:20"
+    "weather_report": "Today, Boston greets us under a bright blue sky, punctuated by wispy clouds that hint at an invigorating winter chill. With temperatures struggling to reach the mid-twenties, the crisp air carries a notable bite, especially as the west wind whips through the city at a lively pace. There\u2019s a certain clarity to the day that invites contemplation, though the gusts\u2014strong enough to dance the dry leaves along the sidewalk\u2014remind us that we are firmly in winter\u2019s embrace. As evening approaches, the sky shifts to a soft, muted palette, with the mercury dipping to a frosty 12 degrees.\n\nFor those venturing out, dressing with care will be essential. Layering is the savvy choice; a thick woolen sweater beneath a sturdy coat, coupled with a snug scarf and gloves, will work wonders against the sharp wind chill. The day speaks to quiet exploration\u2014perhaps a brisk walk along the Charles River, letting the cool air invigorate your senses while admiring the silhouette of the skyline against the fading light. Alternatively, embracing the warmth of a cozy caf\u00e9, with the comforting aroma of freshly brewed coffee, offers a perfect retreat, allowing for a moment of solace amidst the bustling city.",
+    "color_code": "#A7C2E9",
+    "timestamp": "2025-02-17 15:07:07"
 }
