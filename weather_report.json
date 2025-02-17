@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-16T18:52:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 85.496461459529,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 50,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2025-02-16T23:34:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 88.57425771123,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-16T15:00:00-05:00",
-                "endTime": "2025-02-16T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "1 to 9 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy, with a high near 38. North wind 1 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-16T18:00:00-05:00",
+                "startTime": "2025-02-16T19:00:00-05:00",
                 "endTime": "2025-02-17T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 20,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "6 to 20 mph",
+                "windSpeed": "9 to 20 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,90/bkn?size=medium",
-                "shortForecast": "Light Rain then Mostly Cloudy",
-                "detailedForecast": "Rain before 10pm. Mostly cloudy, with a low around 20. West wind 6 to 20 mph, with gusts as high as 47 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,90/sct?size=medium",
+                "shortForecast": "Light Rain then Partly Cloudy",
+                "detailedForecast": "Rain before 10pm. Partly cloudy, with a low around 20. West wind 9 to 20 mph, with gusts as high as 47 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Washington's Birthday",
+                "startTime": "2025-02-17T06:00:00-05:00",
+                "endTime": "2025-02-17T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "20 to 25 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 27. West wind 20 to 25 mph, with gusts as high as 55 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a somber veil of rain settles over the city, wrapping everything in a damp embrace. The air hangs thick and chilly, filled with the promise of steady drops that will become a familiar lullaby as the hours pass. Gloomy clouds dapple the sky, obscuring the sun's warmth, and as the gentle north wind whispering through the streets picks up speed, one can almost hear the anticipation of the evening's gusts.\n\nTonight, the rain will give way to a mercifully brief respite, the darkening sky revealing a chill that tumbles into the low twenties. Those venturing out should dress in layers, wrapping themselves snugly in heavier outerwear, warm scarves, and sturdy shoes that can withstand the rugged terrain left by the downpour. This is not a time for outdoor revelry; instead, consider settling indoors with a good book, perhaps near a window to listen to the rain as it taps a rhythmic pattern against the panes. Alternatively, a warm, inviting caf\u00e9 might beckon, where one can wind down with a hot beverage, watching the world morph into shades of gray outside. The curtain of drizzle casts a quiet spell on the city, encouraging reflection and solitude, inviting you to embrace the stillness of a damp winter evening.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-02-16 15:06:45"
+    "weather_report": "As evening descends upon Boston, the air carries the promise of rain, a gentle but insistent reminder that winter is still firmly in its grasp. The clouds loom heavily, their dark forms dripping with moisture, while a brisk west wind whips through the streets, sending a shiver through those bold enough to venture outside. The temperature hovers near a chill that urges the wise to bundle in layers, perhaps donning a sturdy coat paired with a wool scarf; warm gloves will also provide a welcome shield against the biting breeze. The rain, expected to grace the city until around ten, will likely leave the ground sparkling with a layer of fresh droplets, offering a moment of serene beauty amid the storm.\n\nLooking ahead to Washington's Birthday, a transformation awaits\u2014a scattered sky giving way to glimpses of sunlight across the city. As the sun fights to shine through, the temperature will crawl to a more agreeable level, urging residents to cast off their winter blues in favor of outdoor pursuits. A brisk walk through the quiet, snow-dusted streets or a quiet moment at a local caf\u00e9 with a steaming cup may be just the balm the soul needs, gently nudging you to admire the beauty of a winter nearly at its end. Remembering to dress warmly will be paramount, but today, a sense of adventure beckons amid the shifting weather, inviting all to embrace the unique rhythm of this chilly season.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2025-02-16 19:29:26"
 }
