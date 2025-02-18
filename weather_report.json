@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-17T18:53:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 41.153125681742,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": ""
+            "timestamp": "2025-02-17T22:53:00+00:00",
+            "temperature_f": 26.96,
+            "temperature_c": -2.8,
+            "humidity": 46.09675930015,
+            "wind_speed_mph": 66.03624,
+            "wind_direction": 270,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Washington's Birthday",
-                "startTime": "2025-02-17T15:00:00-05:00",
-                "endTime": "2025-02-17T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "21 to 24 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 27. West wind 21 to 24 mph, with gusts as high as 49 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-17T18:00:00-05:00",
+                "startTime": "2025-02-17T19:00:00-05:00",
                 "endTime": "2025-02-18T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 12,
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 12. Wind chill values as low as -5. West wind around 20 mph, with gusts as high as 47 mph."
+                "detailedForecast": "Partly cloudy, with a low around 12. Wind chill values as low as -5. West wind around 20 mph, with gusts as high as 46 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-02-18T06:00:00-05:00",
+                "endTime": "2025-02-18T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 21,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "18 to 22 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 21. Wind chill values as low as -5. West wind 18 to 22 mph, with gusts as high as 46 mph."
             }
         ]
     },
-    "weather_report": "Today, Boston greets us under a bright blue sky, punctuated by wispy clouds that hint at an invigorating winter chill. With temperatures struggling to reach the mid-twenties, the crisp air carries a notable bite, especially as the west wind whips through the city at a lively pace. There\u2019s a certain clarity to the day that invites contemplation, though the gusts\u2014strong enough to dance the dry leaves along the sidewalk\u2014remind us that we are firmly in winter\u2019s embrace. As evening approaches, the sky shifts to a soft, muted palette, with the mercury dipping to a frosty 12 degrees.\n\nFor those venturing out, dressing with care will be essential. Layering is the savvy choice; a thick woolen sweater beneath a sturdy coat, coupled with a snug scarf and gloves, will work wonders against the sharp wind chill. The day speaks to quiet exploration\u2014perhaps a brisk walk along the Charles River, letting the cool air invigorate your senses while admiring the silhouette of the skyline against the fading light. Alternatively, embracing the warmth of a cozy caf\u00e9, with the comforting aroma of freshly brewed coffee, offers a perfect retreat, allowing for a moment of solace amidst the bustling city.",
-    "color_code": "#A7C2E9",
-    "timestamp": "2025-02-17 15:07:07"
+    "weather_report": "As the evening unfolds in Boston, a brisk chill envelops the city, the air crisp and biting under a canopy of partly cloudy skies. The temperature has dropped to a low of around 12, with the wind wrapping itself around you like a sharp embrace at twenty miles per hour, creating wind chill values that feel even colder. In this twilight haze, the streetlights flicker to life, illuminating a city nestled under nightfall's blanket. The skies, though devoid of fog, maintain a gauzy quality, revealing only hints of distant stars battling the glow of the urban landscape.\n\nTomorrow, Boston anticipates a clear and bright sunrise, promising a day bathed in sunlight with temperatures climbing near 21. A similar wind will carry throughout the day, a companion that lingers just enough to remind you of the winter chill. It may not be the best time for a leisurely walk along the Charles, but a brisk jaunt through downtown might be invigorating, perhaps with a stop at a cozy caf\u00e9 to warm your hands around a steaming mug. To embrace the elements, dressing in layers is advisable\u2014a snug scarf, a well-insulated coat, and sturdy boots to weather the wind. As the mantle of night remains, consider the simple pleasure of a warming meal at home, where you can let the chill drift away with the evening's shadow.",
+    "color_code": "#2F2F2F",
+    "timestamp": "2025-02-17 19:27:19"
 }
