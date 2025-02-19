@@ -7,20 +7,39 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-19T06:53:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 47.537461666186,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 280,
-            "description": "Cloudy"
+            "timestamp": "2025-02-19T10:53:00+00:00",
+            "temperature_f": 19.939999999999998,
+            "temperature_c": -6.7,
+            "humidity": 51.701408829492,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 290,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-19T03:00:00-05:00",
-                "endTime": "2025-02-19T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-02-19T07:00:00-05:00",
+                "endTime": "2025-02-19T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 29,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 29. Wind chill values as low as 0. West wind 10 to 15 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-19T18:00:00-05:00",
+                "endTime": "2025-02-20T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 10,
                 "temperatureUnit": "F",
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "12 mph",
-                "windDirection": "W",
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 10. Wind chill values as low as -2. West wind around 12 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-02-19T06:00:00-05:00",
-                "endTime": "2025-02-19T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 28,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 to 13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 28. Wind chill values as low as -3. West wind 8 to 13 mph."
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 10. Northwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "In the quiet hours before dawn, Boston slumbers beneath an expansive, mostly clear sky. The chill of the night air brings a crisp stillness\u2014each breath feels sharp and alive, stirring thoughts of warmth. The temperature dips close to the freezing mark, teasing even lower with the wind chill, a reminder that winter still possesses its bite. Overnight winds rustle through the trees, their whispers resonating like an urgent call to remind us of the season's embrace.\n\nAs morning unfolds, a brilliant sun will rise, casting a warm light across the city, its rays beckoning the day ahead with a promise of clarity and brightness. The forecast hints at a high of near freezing, where one may sense an invigorating chill against the skin, perhaps urging a cozy scarf or a well-worn woolen coat. With winds becoming gentle and the sun stretching its fingers towards the horizon, this day offers a rare opportunity to wander through the quiet streets, appreciating the stillness before the city stirs into life. An afternoon stroll along the Harborwalk could be particularly delightful, where the gentle waves kiss the shoreline, or perhaps a visit to a local caf\u00e9\u2014sipping something warm and rich while watching the world awaken outside its windows feels like the perfect indulgence. Wrapped in layers, one can fully embrace the day's vibrant energy, holding tight to the warmth that these moments create in the heart.",
-    "color_code": "#A5A88D",
-    "timestamp": "2025-02-19 03:09:00"
+    "weather_report": "As dawn breaks over Boston, the sky unfolds in a serene expanse of blue, offering a tranquil backdrop to a day promising clarity and briskness. With temperatures already poised to soar near a brisk 29 degrees, the sunlight dances upon the city, banishing any remnants of fog to the periphery. Yet, the harsh wind chill, dipping as low as zero, serves as a rigorous reminder of winter\u2019s lingering presence. The west wind, gusting up to 29 mph, stirs the atmosphere, adding a biting edge that may compel even the heartiest of souls to seek out layers of warmth.\n\nAs the day progresses, the invitation to embrace the outdoors is tempered by the need for sensible attire. A well-insulated coat, perhaps a snug hat, and sturdy gloves would serve as trusted allies against the chill, while ensuring one remains unaffected by the brisk winds. The early hours might inspire a quiet stroll along the Charles River, with its tranquil waters reflecting the bright sky, or a visit to a cozy caf\u00e9 where the aroma of freshly brewed coffee warms the spirit. As the evening approaches, the clouds may part slightly, ushering in a partly cloudy night, calling for a transition in plans\u2014perhaps a low-key gathering with friends indoors, where laughter and warmth can replace the day\u2019s briskness.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-02-19 07:10:59"
 }
