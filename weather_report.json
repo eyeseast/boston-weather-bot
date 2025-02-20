@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-19T18:53:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 35.860214533146,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 270,
+            "timestamp": "2025-02-19T22:53:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 39.054788037019,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 260,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-19T15:00:00-05:00",
-                "endTime": "2025-02-19T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 29,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 29. West wind around 12 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-19T18:00:00-05:00",
+                "startTime": "2025-02-19T19:00:00-05:00",
                 "endTime": "2025-02-20T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 10,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 10. Northwest wind 5 to 10 mph."
+                "detailedForecast": "Partly cloudy, with a low around 10. Northwest wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-02-20T06:00:00-05:00",
+                "endTime": "2025-02-20T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 27. Wind chill values as low as 0. Northwest wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, a gentle glow graces the city, casting a serene light that dances across both the bustling streets and whispering landscapes. The air, infused with a crisp edge, carries with it a refreshing breeze, hinting at the late winter\u2019s promise to revive the spirit with hints of warmth that seem just around the corner. Contrary to the more muted days of January, today offers a vibrant blue canvas, with clouds playfully stringing along like soft brushstrokes against the expansive sky, conveying a moral victory over the more somber season's shadows.\n\nEvening beckons as the temperature dips toward a brisk ten degrees, inviting residents to wrap themselves in layers that are both functional and comforting. Consider a sweater paired with a light coat to stave off the chill while strolling through the city\u2019s historic avenues or perhaps enjoying a quiet moment at a local caf\u00e9, where the aroma of freshly brewed coffee mingles delightfully with tales of the day. Tonight\u2019s partly cloudy expanse may conceal a scattering of stars, but even in the dimming light, there\u2019s a subtle warmth to the surroundings, offering an escape from the bustle of everyday life. Rejuvenate your spirit; the weather is sublime for reflective walks or intimate gatherings, embracing the calm beauty that this season\u2019s landscape uniquely provides.",
-    "color_code": "#A3C4D8",
-    "timestamp": "2025-02-19 15:07:26"
+    "weather_report": "As darkness envelops Boston, the city settles into a cool embrace, with shadows flickering over its landmarks. The air is crisp and invigorating, carrying a whisper of the frigid temperatures to come. With a low expected around ten degrees, tonight feels like a prelude\u2014Achingly clear, with a gentle northwest wind that steals breaths and glances. The streets glisten under the dim glow of streetlights, evoking a quiet allure as Bostonians retreat into the warmth of their homes or step out for a solitary stroll, wrapped in cozy layers against the cold.\n\nThursday dawns with a slightly heavier cloak of clouds, hinting at the day\u2019s chill. You may want to embrace the thickness of wool and the weight of a sturdy coat, as you face a high near twenty-seven, but with a wind chill that whispers reminders of zero. The blues and grays of the sky may cast a subdued palette over the city, yet there\u2019s an understated beauty as the clouds drift by, promising the kind of cozy indoor day that invites steaming mugs of coffee and the turn of well-worn pages in a favorite book. Those braving the elements might find solace in a brisk walk along the Charles, the quiet murmur of the water harmonizing with the crunch of snow underfoot. No grand adventures await, but the mundane can transform into moments of clarity in the embrace of winter's chill.",
+    "color_code": "#2C2C2F",
+    "timestamp": "2025-02-19 19:27:59"
 }
