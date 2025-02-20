@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-20T06:53:00+00:00",
-            "temperature_f": 17.96,
-            "temperature_c": -7.8,
-            "humidity": 61.584645225237,
+            "timestamp": "2025-02-20T10:53:00+00:00",
+            "temperature_f": 10.940000000000001,
+            "temperature_c": -11.7,
+            "humidity": 80.35955575612,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-20T03:00:00-05:00",
-                "endTime": "2025-02-20T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 10,
+                "name": "Today",
+                "startTime": "2025-02-20T07:00:00-05:00",
+                "endTime": "2025-02-20T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 30,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 10. Northwest wind around 6 mph."
+                "windSpeed": "8 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 30. North wind around 8 mph."
             },
             {
                 "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-02-20T06:00:00-05:00",
-                "endTime": "2025-02-20T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 27,
+                "name": "Tonight",
+                "startTime": "2025-02-20T18:00:00-05:00",
+                "endTime": "2025-02-21T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 18,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
-                "windSpeed": "6 to 9 mph",
+                "windSpeed": "7 to 14 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 27. Wind chill values as low as 0. Northwest wind 6 to 9 mph."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/ovc?size=medium",
+                "shortForecast": "Slight Chance Snow Showers then Cloudy",
+                "detailedForecast": "A slight chance of snow showers between 9pm and midnight. Cloudy, with a low around 18. Northwest wind 7 to 14 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the city sinks into the quiet hours of the morning, Boston rests beneath a shroud of partly cloudy tranquility, the cold air enveloping the streets with a crisp embrace. Temperatures hover at a modest low, drifting around ten degrees, while the gentle northwest wind whispers at six miles per hour, coaxing the chill ever so slightly inward. As dawn approaches, the skies will gradually give way to a mostly cloudy day, with a high reaching nearby twenty-seven. These clouds suggest a muted illumination, perhaps soothing to those who savor a softer light.\n\nYet, as the wind chill dips perilously close to zero, one may wish to dress with care against the biting air; layered warmth and a soft scarf will serve well against the brisk kiss of winter. This is a day that invites quiet contemplation amid the bustle: perhaps a stroll through the hushed streets, the soft crunch of heels against the frost-hardened sidewalks, or visiting an intimate caf\u00e9 where the aroma of warm coffee mingles with the promise of a slow, reflective afternoon. Whether you find solace in the pages of a book or the comforting presence of a friend, the day carries a certain charm, albeit a cool one, perfect for finding beauty in the understated.",
-    "color_code": "#2B2B2B",
-    "timestamp": "2025-02-20 03:08:50"
+    "weather_report": "As dawn breaks over Boston, a gentle light casts a muted glow on the horizon, signaling a day that promises to unfold under a mostly cloudy sky. The chill of the air clings to the remnants of winter, with temperatures teetering around the low twenties\u2014a reminder that despite the sun\u2019s rising path, spring is still on the distant horizon. While the day may start off brisk, a soft north wind whispers through the streets, a tender invitation to step into the world outside, though a touch of warmth might be required to fend off the lingering coolness.\n\nAs the hours wax on, expect clouds to linger, their gray hues more a veil than a barricade to the sun\u2019s warm embrace. With a slight chance of snow showers creeping in later, there\u2019s an opportunity for whimsical flurries between the hours of darkness, drawing a curtain on the day around midnight. Given the conditions, dressing in layers may be your best defense: a sturdy coat to shield from harsh winds, topped with a cozy scarf and gloves to ward off any unexpected chill. Consider a leisurely stroll through one of Boston's historic streets, or perhaps a quiet afternoon spent at a quaint caf\u00e9, cradling a cup of something warm, as you watch the clouds drift lazily overhead, pondering the stories they might carry.",
+    "color_code": "#A9CBA2",
+    "timestamp": "2025-02-20 07:10:54"
 }
