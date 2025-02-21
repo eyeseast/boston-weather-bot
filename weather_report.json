@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-20T18:53:00+00:00",
-            "temperature_f": 30.02,
-            "temperature_c": -1.1,
-            "humidity": 55.442805168911,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 10,
-            "description": "Cloudy"
+            "timestamp": "2025-02-20T23:53:00+00:00",
+            "temperature_f": 28.94,
+            "temperature_c": -1.7,
+            "humidity": 57.937742198765,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-20T14:00:00-05:00",
-                "endTime": "2025-02-20T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 30. North wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-20T18:00:00-05:00",
+                "startTime": "2025-02-20T19:00:00-05:00",
                 "endTime": "2025-02-21T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 18,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 18. Northwest wind 6 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-02-21T06:00:00-05:00",
+                "endTime": "2025-02-21T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 31,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 31. Northwest wind around 15 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston unfolds under a canopy of partly sunny skies, those fleeting moments when the sun breaks free, inviting warmth in a brisk breeze that dances around 7 mph from the north. A high near 30 settles in, providing a touch of reprieve from the winter chill, though the evening beckons with a promise of clouds that will gradually enshroud the horizon, escorting temperatures down to a frosty 18 degrees as the northwest winds whisper at 6 to 13 mph.\n\nAs the day wanes, the thickening clouds lend a muted grayness to the landscape, rendering the city somewhat melancholic but dignified in its twilight hours. One might find solace in a quiet stroll down the cobblestones of Beacon Hill, wrapped snugly in layers\u2014perhaps a woolen scarf, a well-fitted coat, and sturdy boots to brave the chill beneath. Such a day, teeming with potential for understated enjoyment, recommends simple pleasures: consider a serene visit to a local caf\u00e9, where the warmth of freshly brewed coffee mingles with the scent of pastries, or perhaps a quiet reading nook with a view, allowing the soft play of the waning light to inspire reflection.",
-    "color_code": "#A1C6D9",
-    "timestamp": "2025-02-20 15:07:17"
+    "weather_report": "As evening settles over Boston, a veil of clouds drapes the city, softening the sharp edges of its skyline under the muted glow of artificial lights. The chill in the air, tracing the contours of the architecture, hints at winter\u2019s tenacity. Temperatures will dip to around 18 degrees, although the promise of a bright Friday looms just over the horizon. In the morning, the sun will make a valiant entrance, illuminating the day with a touch of warmth, peaking at approximately 31 degrees. A brisk northwest wind will accompany this transition, adding a lively rush that beckons one to dress warmly yet stylishly\u2014layers of wool and a sturdy coat will serve well, perhaps a scarf to fend off the evening's bite.\n\nAmid the looming clouds, tonight\u2019s ambiance pulses with the solitude of a quiet city, whispering invitations to savor ordinary pleasures\u2014a walk along the waterfront, perhaps, or enjoying the hushed atmosphere of a cozy caf\u00e9. Tomorrow, as the sun spills over the horizon, your activities might lean towards clearer pursuits: a leisurely stroll through a park enjoying the sun's nurturing embrace or gathering with friends for a casual brunch, savoring the brightness of a new day. Even as winter holds its grip, there is a gentle promise of cheer in the air, an anticipation of warmth and light, waiting just around the corner.",
+    "color_code": "#1A1A1A",
+    "timestamp": "2025-02-20 19:28:04"
 }
