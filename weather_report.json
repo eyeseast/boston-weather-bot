@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-22T06:53:00+00:00",
-            "temperature_f": 21.92,
-            "temperature_c": -5.6,
-            "humidity": 54.626326662184,
-            "wind_speed_mph": 37.04472,
+            "timestamp": "2025-02-22T10:53:00+00:00",
+            "temperature_f": 19.04,
+            "temperature_c": -7.2,
+            "humidity": 53.726736646471,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 290,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-22T03:00:00-05:00",
-                "endTime": "2025-02-22T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 14,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 14. Northwest wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-02-22T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-02-22T07:00:00-05:00",
                 "endTime": "2025-02-22T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 36,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 36. West wind around 10 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-22T18:00:00-05:00",
+                "endTime": "2025-02-23T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 23,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 23. Southwest wind around 10 mph."
             }
         ]
     },
-    "weather_report": "As the night draws on in Boston, serenity blankets the city, punctuated only by the twinkling lights that flicker like distant stars. The air, crisp and still, carries with it a chill that hints at the chillier moments yet to come. With temperatures settling around 14 degrees, a gentle northwest wind stirs the silence, whispering reminders of winter\u2019s lingering presence.\n\nAs dawn breaks, the promise of a radiant Saturday emerges. Clear skies will unveil themselves, allowing the sun to warm the day to a comfortable 36 degrees. The west wind, though light, adds a playful note with its occasional gusts. This is a day that beckons for a leisurely stroll through historic streets, perhaps stopping by a cozy caf\u00e9 for a warm beverage that staves off the cold. The ambiance invites layers; a well-fitted coat, a snug scarf, and perhaps a pair of gloves will serve you well against the winter bite. Embrace the outdoors, whether wandering through a park or visiting a local market, as the clarity of the day offers an invigorating escape from the confines of home.",
-    "color_code": "#1F2937",
-    "timestamp": "2025-02-22 03:07:19"
+    "weather_report": "Boston awakens under a clear sky, the sun spilling radiant light upon a chilly landscape. Today\u2019s temperatures hover around a brisk 36 degrees, with a gentle west wind ruffling the air\u2014an invitation for those ready to embrace the invigorating chill. The atmosphere feels fresh and crisp, perfect for a morning stroll through the quiet streets or a leisurely visit to one of the many warm cafes that line the brick sidewalks.\n\nAs evening approaches, the temperature dips to a cozy 23 degrees, enriched by a soft southwest breeze. Tonight's partly cloudy sky will whisper promises of a peaceful night ahead, ideal for curling up with a good book or enjoying a relaxed dinner at home. Layer wisely in your attire\u2014perhaps a snug scarf and a warm coat will be your allies against the brisk evening air. For the day, a stroll through one of Boston\u2019s storied parks or a visit to the vibrant galleries scattered throughout the city might become a delightful choice, allowing you to relish both the briskness of winter's touch and the warmth of community and culture, all under a fine canopy of blue.",
+    "color_code": "#A1C6EA",
+    "timestamp": "2025-02-22 07:09:16"
 }
