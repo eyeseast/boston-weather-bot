@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-21T18:53:00+00:00",
-            "temperature_f": 35.06,
-            "temperature_c": 1.7,
-            "humidity": 36.283443421983,
+            "timestamp": "2025-02-21T22:53:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 34.423767391292,
             "wind_speed_mph": null,
             "wind_direction": null,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-21T14:00:00-05:00",
-                "endTime": "2025-02-21T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 30. Northwest wind around 15 mph, with gusts as high as 31 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-21T18:00:00-05:00",
+                "startTime": "2025-02-21T19:00:00-05:00",
                 "endTime": "2025-02-22T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "13 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 14. Northwest wind around 13 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 14. Northwest wind around 13 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-02-22T06:00:00-05:00",
+                "endTime": "2025-02-22T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 35,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 35. West wind around 9 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon sun bathes Boston in a crisp, bright light, the air carries a refreshing chill that invigorates the senses. Today\u2019s high brings the temperature to a pleasant warmth, while the northwest wind sweeps playfully through the streets, offering a gentle reminder of winter\u2019s lingering presence. The sky stretches vast and clear, an expansive canvas of blue, inviting exploration and activity.\n\nAs evening approaches, those venturing outside will find the warmth of the day transitioning to a cooler embrace. With a low that hints at the evening's chill, it's wise to bundle up against the brisk winds. A cozy scarf and elegant jacket might serve well, along with comfortable shoes for a stroll along the Charles River or perhaps a quiet evening in a local caf\u00e9, where the warmth of conversation and the aroma of coffee intertwine beautifully. Whether enjoying the serenity of a winter's day or the cozy corners of the city, Boston beckons you to savor the moment under the gorgeous winter sky.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-02-21 15:07:13"
+    "weather_report": "As the evening descends upon Boston, the city settles into a tranquil stillness, illuminated by the soft glow of countless lights. Tonight, the skies are clear, offering a crisp canvas against which the stars might play, though any deep celestial gaze may be tempered by the chill in the air\u2014a low hovering around 14 degrees, accompanied by a brisk northwesterly wind that gives a lively dance to the treetops. The gusts, reaching up to 23 mph, whisper of winter\u2019s presence, creating a gentle reminder to wrap oneself warmly in layers.\n\nLooking towards Saturday, the promise of sunshine beckons with a high expected near 35. There is a sense of renewal in the air as the day unfolds, with the west wind carrying a lightness that encourages both ambition and leisure. As you venture out, consider donning a sturdy jacket, perhaps with some wool layers beneath, to guard against the lingering bite of February. With this weather, a stroll along the banks of the Charles, a quiet visit to a local caf\u00e9, or simply curling up with a good book at home would suit the mood of the day. Take a moment to enjoy the gentle shift in seasons, as Boston prepares for the warmth that is surely on the horizon.",
+    "color_code": "#002244",
+    "timestamp": "2025-02-21 19:26:56"
 }
