@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-23T06:53:00+00:00",
-            "temperature_f": 26.96,
-            "temperature_c": -2.8,
-            "humidity": 68.455685141767,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Clear"
+            "timestamp": "2025-02-23T10:53:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 68.823797236386,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 250,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-23T03:00:00-05:00",
-                "endTime": "2025-02-23T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 24,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 24. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-02-23T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-02-23T07:00:00-05:00",
                 "endTime": "2025-02-23T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 42,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "8 to 13 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 42. West wind 7 to 10 mph."
+                "detailedForecast": "Partly sunny, with a high near 42. West wind 8 to 13 mph, with gusts as high as 24 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-23T18:00:00-05:00",
+                "endTime": "2025-02-24T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 23,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 23. West wind 3 to 8 mph."
             }
         ]
     },
-    "weather_report": "In the quiet hours of the early morning, Boston cloaks itself in a cozy shroud of clouds, the air nipping at exposed skin with a briskness that speaks of winter's lingering presence. As the sun begins its ascent, there lingers an expectation\u2014tomorrow's promise of a partly sunny disposition with the day breaking gently beneath a low, muted sky, where wisps of cloud dance reluctantly with beams of light. The atmosphere holds a subtle vibrancy, as if sighing with relief at the prospect of warmth, yet the chill persists. A west wind whispers through the city, urging residents to dress in layers, embracing the warmth of a sturdy coat accompanied by scarves and gloves as they step outside. \n\nDespite the crisp bite in the air, the forecast invites the leisurely pursuit of a Sunday filled with moments of simple joy. One might stroll along the Charles River, watching as the sky shifts from pale gray to hints of blue, or perhaps explore the nooks of a cherished caf\u00e9, savoring a hot drink that brings solace against the cold. The day offers a canvas for the ordinary yet profound, encouraging a connection with the city's pulse, where the serene hum of life unfolds beneath an evolving sky, a testament to the beauty of a world waking from its nocturnal slumber.",
-    "color_code": "#A2C2E4",
-    "timestamp": "2025-02-23 03:07:47"
+    "weather_report": "As the dawn breaks over Boston, a soft veil of clouds drapes the city in a muted light, casting an air of quiet contemplation. The day promises a brisk experience, with the chill of morning settling around 23 degrees. A gentle west wind stirs, rustling through the remnants of winter, but it is not harsh\u2014rather, it brings a lively energy and a sense of anticipation for what lies ahead. By afternoon, expect a transition toward partly sunny skies, encouraging those who venture outside to feel the warmth of the sun on their faces, even as it hovers around 42 degrees.\n\nFor those stepping out today, layering is the key. A warm jacket, perhaps a cozy scarf, will ensure comfort against the nipping air, while a pair of sturdy shoes will guide you through the day\u2019s pursuits. While the weather invites a stroll through the winding streets or perhaps a leisurely visit to one of the city's many cozy cafes, it also beckons for a quiet moment indoors\u2014a perfect opportunity to lose oneself in a book or enjoy the company of friends over warm beverages. Whatever your choice, the day carries a subtle charm, whispering of the promise of spring just around the corner.",
+    "color_code": "#A5C3D0",
+    "timestamp": "2025-02-23 07:09:21"
 }
