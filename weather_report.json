@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-24T18:53:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 41.589433213327,
+            "timestamp": "2025-02-24T22:53:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 70.097333034191,
             "wind_speed_mph": 37.04472,
-            "wind_direction": 210,
-            "description": "Mostly Clear"
+            "wind_direction": 180,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-24T15:00:00-05:00",
-                "endTime": "2025-02-24T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 42. South wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-24T18:00:00-05:00",
+                "startTime": "2025-02-24T19:00:00-05:00",
                 "endTime": "2025-02-25T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 36. South wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-02-25T06:00:00-05:00",
+                "endTime": "2025-02-25T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a high near 52. Southwest wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, the atmosphere dances between the crispness of early spring and the lingering chill of winter. This afternoon reveals a mostly sunny day, where the sky stretches wide with soft, cottony clouds, their forms gracefully rolling away into the horizon. The air carries a refreshing touch, aided by a gentle south wind that hums softly through the streets, lifting spirits as it sweeps past. As twilight approaches, the clouds will gather, hinting at the quiet chill that will seep in with the night. The temperature is expected to settle into a cool embrace, inviting you to wrap yourself in layers as you venture out.\n\nAs you plan your afternoon, a stroll along the Charles River could provide a moment of peace, with the calm waters reflecting the faded warmth of the sun. Dress warmly, perhaps in your favorite wool sweater or a sturdy jacket, complemented by a scarf that shields against the evening cool. A foam cup of coffee from a local caf\u00e9 could accompany you, inviting you to take a moment on a bench and enjoy the beauty of fleeting winter into spring. As you move through the day, let the simplicity of these moments wash over you, for there is beauty in the quiet transitions around us.",
-    "color_code": "#A1C3D8",
-    "timestamp": "2025-02-24 15:07:32"
+    "weather_report": "As dusk wraps its gentle arms around Boston, the atmosphere hangs in a soft embrace of cloudiness, erasing the sun\u2019s remnants from the sky. With a current chill settling in, temperatures inch toward the low thirties, beckoning one to adjust layers \u2014 perhaps a well-worn wool sweater over a simple shirt, paired with a warm scarf and a sturdy pair of shoes. The south wind whispers a light tune, carrying hints of the moisture that lingers in the air, suggesting a cozy gathering indoors or a leisurely stroll through the city's illuminated streets.\n\nLooking ahead to tomorrow, the clouds will carry on their quiet dominion over the city, creating a monochromatic canvas punctuated by intermittent patches of brighter hues. The daytime will remain cool, though the sun might make tentative attempts to peek through. Considering these conditions, it could be a marvelous time for a stroll through the smaller, less traveled streets of Beacon Hill, where the echoes of history meet the whispers of modernity. Alternatively, it\u2019s a perfect moment for indulging in a warm cup of coffee at a favorite caf\u00e9, allowing the world to bustle by while one finds solace within cozy walls, wrapped in the comforts of a good book or the company of friends.",
+    "color_code": "#575757",
+    "timestamp": "2025-02-24 19:28:19"
 }
