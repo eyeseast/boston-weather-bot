@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-27T06:53:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 72.46851624886,
+            "timestamp": "2025-02-27T10:53:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 78.320613177263,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Cloudy"
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-02-27T03:00:00-05:00",
-                "endTime": "2025-02-27T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 34,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely after 4am. Cloudy, with a low around 34. South wind around 3 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-02-27T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-02-27T07:00:00-05:00",
                 "endTime": "2025-02-27T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
                 "shortForecast": "Light Rain Likely",
                 "detailedForecast": "Rain likely. Cloudy, with a high near 51. South wind 5 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-02-27T18:00:00-05:00",
+                "endTime": "2025-02-28T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain showers before 7pm. Mostly cloudy, with a low around 36. Southwest wind 7 to 12 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As night drapes its soft cloak over Boston, the atmosphere is heavy with anticipation, a promise of rain lurking just beyond the horizon. The temperature sits low, brushing the chill of the early morning air, lending itself to a sense of solemn stillness. The clouds roll in, thick and gray, veiling the city in a muted shroud, while the whispered winds gently tease through the streets. Those who venture out will find a morning best suited to layers; perhaps a warm sweater under a durable coat, shielding against the dampness while keeping the chill at bay.\n\nAs the day unfolds, rain is likely to establish its presence, inviting residents to trade their morning coffee for a comforting cup of tea. The high will rise, yet the skies will remain stubbornly overcast, casting a cool palette over the city. The occasional gust of wind may rattle the branches and rustle the leaves, but the urban landscape, under a blanket of clouds, will reveal its own beauty. Enjoy a quiet stroll through the nearby parks, where the sounds of falling droplets create a gentle symphony, or lose yourself in a cozy nook of your favorite caf\u00e9, watching the world drift by through misty windows. With every raindrop, Boston reminds us of the quiet joys found in the comforting embrace of an indoor refuge, reveling in the small moments that bring us together, even on a day that feels marked by the weight of a gray sky.",
-    "color_code": "#4B4B4B",
-    "timestamp": "2025-02-27 03:08:54"
+    "weather_report": "As dawn breaks over Boston, the day unfurls under a blanket of clouds, heavy and brooding, with hints of rain lingering in the air. The atmospheric weight is palpable, suggesting that the promise of precipitation is nigh; indeed, clouds cloak the horizon, muted in their shades, as the city awakens to the prospect of drizzling skies. A brisk southern breeze adds an element of chill, swirling with a hint of dampness, which invades even the warmest layers of clothing. The temperature hovers close to the brisk chill of early spring, urging residents to consider wrapping themselves in something with both warmth and water resistance, striking a balance between comfort and practicality.\n\nThroughout the day, the high may inch towards a modest 51 degrees, yet as darkness nears, the foreboding clouds will begin to clear slightly, allowing the chill to deepen with a drop to around 36. In this kind of weather, the streets may offer themselves as a canvas rich with reflections, perfect for a quiet stroll through the neighborhoods, perhaps stopping in a cozy caf\u00e9 to savor a steaming cup while watching the world move by, draped in quick bursts of rain. Alternatively, an afternoon spent indoors could be just as rewarding\u2014perhaps indulging in a riveting novel or engaging in a leisurely board game with friends. Embrace the atmospheric character of this day, where mundanity mingles gracefully with a quiet sense of adventure, reminding us of the gentle embrace of winter holding on a little longer.",
+    "color_code": "#A3B3C6",
+    "timestamp": "2025-02-27 07:11:08"
 }
