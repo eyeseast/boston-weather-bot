@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-26T14:53:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 49.831135182182,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 280,
+            "timestamp": "2025-02-26T22:53:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 41.917509969514,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 290,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-02-26T11:00:00-05:00",
-                "endTime": "2025-02-26T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "9 to 13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 49. West wind 9 to 13 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-26T18:00:00-05:00",
+                "startTime": "2025-02-26T19:00:00-05:00",
                 "endTime": "2025-02-27T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 34,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,70?size=medium",
+                "shortForecast": "Mostly Cloudy then Rain And Snow Likely",
+                "detailedForecast": "Rain and snow likely after 3am. Mostly cloudy, with a low around 34. Southwest wind 3 to 8 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-02-27T06:00:00-05:00",
+                "endTime": "2025-02-27T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
                     "value": 60
                 },
-                "windSpeed": "2 to 7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,60?size=medium",
-                "shortForecast": "Mostly Cloudy then Rain And Snow Likely",
-                "detailedForecast": "A chance of rain between 3am and 5am, then rain and snow likely. Mostly cloudy, with a low around 34. Southwest wind 2 to 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "6 to 15 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Cloudy, with a high near 50. South wind 6 to 15 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston today, the skies are a tender blue, gently punctuated by puffy clouds drifting lazily across the horizon. It is a deceptively serene winter day, with temperatures hovering around a brisk 49 degrees. The west winds carry a playful chill, reminding us of the season\u2019s lingering bite despite the sunshine. As the day progresses, clouds will gather, and the promise of rain and snow looms on the horizon, creeping into the early hours of the night. The air carries an anticipatory whisper of moisture, hinting at a transformation that will unfold as temperatures dip to a chilly 34.\n\nFor those stepping outside, layering remains a wise decision\u2014consider a cozy sweater beneath a capable jacket, perhaps coupled with a soft scarf to fend off the subtle chill. The day\u2019s beauty invites a leisurely stroll through the city, where the call of a coffee shop or a quaint bookstore may beckon. Later, as the weather turns toward a muddled mix of rain and snow, the evening may be best suited for indoor endeavors: curling up with a warm book or sharing stories over soothing cups of tea. Embrace today\u2019s playful dichotomy of sunlight and impending weather, allowing each moment to flow smoothly into the next.",
-    "color_code": "#A3C1E0",
-    "timestamp": "2025-02-26 11:08:06"
+    "weather_report": "As evening descends upon Boston, the air hangs heavy with the promise of rain mixed with snow, a subtle reminder of winter\u2019s lingering touch. A low murmur of clouds blankets the skyline, casting a soft gray hue over the city. With temperatures settling around the mid-thirties, a slight breeze whispers through the streets, just enough to remind pedestrians that warmth is best found close to home. Late-night excursions should be approached with care; a waterproof jacket and sturdy footwear would serve well against the impending precipitation expected due to arrive after 3 a.m. \n\nLooking ahead to Thursday, the forecast reveals a day swallowed by rain clouds, the kind that weaves a tapestry of gray, painting the day in muted tones\u2014ideal for a slow, thoughtful pace. With high temperatures nearing a comfortable fifty degrees, it invites a gentle exploration, though not without a sense of urgency for an umbrella. As the streets glisten with moisture and life stirs beneath layers of wool and cotton, one might find solace in the warmth of a favorite caf\u00e9, perhaps indulging in a book or friendly conversation, while the city dances in raindrops just outside. Embrace the dampness, for often, it is in these ordinary moments, huddled against the chill with warmth in our hearts, that we find the simple joys of city life.",
+    "color_code": "#5B5C63",
+    "timestamp": "2025-02-26 19:28:14"
 }
