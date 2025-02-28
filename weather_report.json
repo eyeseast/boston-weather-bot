@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-27T18:53:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 76.817807374338,
+            "timestamp": "2025-02-27T22:53:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 76.720923803697,
             "wind_speed_mph": 33.01812,
-            "wind_direction": 200,
-            "description": "Light Rain"
+            "wind_direction": 220,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-27T15:00:00-05:00",
-                "endTime": "2025-02-27T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 60
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Cloudy, with a high near 51. Southwest wind around 14 mph, with gusts as high as 26 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-27T18:00:00-05:00",
+                "startTime": "2025-02-27T19:00:00-05:00",
                 "endTime": "2025-02-28T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
-                "windSpeed": "7 to 12 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30/bkn?size=medium",
-                "shortForecast": "Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain before 7pm. Mostly cloudy, with a low around 36. Southwest wind 7 to 12 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Cloudy",
+                "detailedForecast": "Patchy fog and a slight chance of rain before 9pm. Mostly cloudy, with a low around 36. Southwest wind around 9 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-02-28T06:00:00-05:00",
+                "endTime": "2025-02-28T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 44. West wind 8 to 14 mph, with gusts as high as 24 mph."
             }
         ]
     },
-    "weather_report": "Boston finds itself enveloped in a tender embrace of cloud and dampness this afternoon, as rain arrives, heralded by gusts of wind that whisper through the drab skies. The temperature hovers around a rather cool 51 degrees, offering little in the way of warmth, while the chance of precipitation dances at a modest 60%. The landscape outside is cloaked in muted hues, with the air saturated and thick\u2014a soft gray that speaks of lingering drizzles and the promise of a quiet afternoon. As twilight approaches, the rain's grip will ease only slightly, yielding to a mostly cloudy canvas with temperatures slipping towards that colder realm of 36 degrees.\n\nIn these conditions, layering becomes an art form. A sturdy jacket, preferably waterproof, will serve as a reliable shield against the elements. A scarf might provide comfort against the cool breaths of wind that ripple through the air. As the day winds down, consider steering clear of outdoor excursions\u2014perhaps now is the ideal time for a cozy afternoon spent indulging in a good book by the window, or practicing that hobby you\u2019ve put on the back burner. The allure of an intimate caf\u00e9, with the aroma of freshly brewed coffee blending with the soft sound of rain on the rooftops, beckons as a perfect refuge from the murky chill outside, inviting you to savor warmth and engage in the solace of quiet moments.",
-    "color_code": "#A6A8A6",
-    "timestamp": "2025-02-27 15:07:28"
+    "weather_report": "As twilight descends upon Boston, a soft veil of patchy fog drifts through the air, mingling with a slight chance of rain that may linger into the night. The atmosphere carries a cool whisper, inviting you to tuck away in layers against the faint chill that drags down to the low thirties. A moderate southwest breeze dances through the streets, reminding us that even the nighttime holds a certain vigor. With a mere brush of cloud cover overhead, the city\u2019s lights twinkle like distant stars, creating a quiet charm amidst the early night.\n\nLooking ahead to tomorrow, the fog will lift, paving the way for a splendid sunny day bathed in gentle warmth as the temperature edges closer to the mid-forties. The West wind will add a playful edge, caressing your cheeks as it gusts, encouraging outdoor pursuits. In this golden light, dress in several layers\u2014perhaps a keen sweater beneath a lighter jacket\u2014to strike the perfect balance of comfort and resilience. A stroll through Boston Common could be a delightful way to embrace the invigorating air, or a cozy afternoon in a local caf\u00e9 could beckon, inviting you to sip a warm beverage while watching life trot by in this vibrant city.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2025-02-27 19:28:20"
 }
