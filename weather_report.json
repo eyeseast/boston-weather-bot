@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-01T06:53:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 40.411396916547,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 160,
-            "description": "Cloudy"
+            "timestamp": "2025-03-01T10:53:00+00:00",
+            "temperature_f": 44.06,
+            "temperature_c": 6.7,
+            "humidity": 62.322868593296,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 190,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-01T03:00:00-05:00",
-                "endTime": "2025-03-01T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 32,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. Low around 32, with temperatures rising to around 38 overnight. South wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-03-01T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-03-01T07:00:00-05:00",
                 "endTime": "2025-03-01T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "14 mph",
+                "windSpeed": "16 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers after 7am. Mostly cloudy. High near 58, with temperatures falling to around 41 in the afternoon. Southwest wind around 14 mph, with gusts as high as 37 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 10am. Mostly cloudy. High near 58, with temperatures falling to around 42 in the afternoon. Southwest wind around 16 mph, with gusts as high as 30 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-01T18:00:00-05:00",
+                "endTime": "2025-03-02T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 16,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "17 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 16. West wind around 17 mph, with gusts as high as 33 mph."
             }
         ]
     },
-    "weather_report": "As the early morning hours blanket Boston in a veil of muted darkness, the air carries a distinct chill, with temperatures hovering near the freezing mark. A whisper of a south wind stirs the stillness, promising a subtle shift as daylight draws near. The day ahead holds a mixture of clouds and scattered showers, with temperatures peeking into the high fifties before gracefully retreating to the lower forties by afternoon. Those venturesome souls stepping out might find their spirits lifted by the anticipation of rain, though the gusty winds\u2014dancing at 14 mph and occasionally flaring up to 37 mph\u2014remind us that Mother Nature is anything but predictable.\n\nAs the day unfolds, consider donning layers that can adapt to the shifting temperatures. A light waterproof jacket would serve well against unexpected splatters from above, while a cozy sweater can provide comfort as that brisk breeze brushes past. The ambience may not beg for outdoor explorations, yet there is beauty in the simplicity of an afternoon stroll along the Charles, where reflections of the city\u2019s muted colors shimmer, or perhaps an inviting corner caf\u00e9 where a warm drink can be savored in the companionship of a good book. The world awakens slowly, wrapped in clouds, yet life persists, offering quiet moments that can be appreciated amidst the ebb and flow of this whimsical weather.",
-    "color_code": "#A6A4C9",
-    "timestamp": "2025-03-01 03:07:52"
+    "weather_report": "As dawn nudges the horizon in Boston, a muted, gray sky blankets the city. The atmospheric promise of rain lingers as clouds drift lazily overhead, casting a soft glow over the suburban sprawl. Today, temperatures are poised to oscillate around the mid-fifties before retreating to an evening chill, nudging the mercury to a brisk sixteen. With a steady southwest wind dancing at sixteen miles per hour, gusts leap higher, adding a touch of urgency to the otherwise languid day. As the shadows lengthen toward afternoon, the prospect of rain showers becomes more tangible; a chance of thirty percent awaits those venturing outdoors after ten.\n\nIn this tapestry of shifting weather, one may find solace in a cozy sweater layered beneath a light windbreaker\u2014comfort is key against the chill. The increasing likelihood of rain necessitates an umbrella, a faithful companion for those strolls along cobblestone streets or ventures to nearby cafes. As twilight approaches, the skies clear to unveil a stark, crisp night. The evening beckons with the charm of a warm drink, the laughter of friends sharing tales beneath the illuminating glow of street lamps. While the weather may deter some from grand outdoor escapades, it certainly invites others to relish intimate gatherings, perhaps indulging in the quiet discovery of a favorite book or the artful narrative of an enduring film.",
+    "color_code": "#7A7B8A",
+    "timestamp": "2025-03-01 07:09:50"
 }
