@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-02-28T18:53:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 25.012709121122,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Clear"
+            "timestamp": "2025-03-01T02:53:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 47.444227348131,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-02-28T15:00:00-05:00",
-                "endTime": "2025-02-28T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 46, with temperatures falling to around 40 in the afternoon. West wind 10 to 15 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-02-28T18:00:00-05:00",
+                "startTime": "2025-02-28T23:00:00-05:00",
                 "endTime": "2025-03-01T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "5 to 14 mph",
+                "windSpeed": "6 to 12 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 32, with temperatures rising to around 38 overnight. South wind 5 to 14 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy. Low around 32, with temperatures rising to around 38 overnight. South wind 6 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-03-01T06:00:00-05:00",
+                "endTime": "2025-03-01T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
+                "shortForecast": "Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers after 7am. Mostly cloudy. High near 58, with temperatures falling to around 41 in the afternoon. Southwest wind around 14 mph, with gusts as high as 37 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the weather greets us with a bright, mostly sunny demeanor that invites a lingering breath of fresh, crisp air. As the sun casts its gentle glow, temperatures are settling near the mid-forties, gradually dropping to about forty as the afternoon wears on, carried by a westward breeze that dances between ten to fifteen miles per hour, punctuated by occasional gusts that remind us of the season's chill. Clouds are flirting at the edges, heralding a shift to a mostly cloudy night with low temperatures settling around thirty-two degrees, and a soft rising warmth as the evening arrives.\n\nThis delightful interplay of sun and cloud presents an opportunity for an invigorating stroll through the early evening streets or perhaps an exploration of one\u2019s favorite caf\u00e9, where warmth envelops you in comfort. Layer yourself wisely; a cozy sweater or jacket coupled with a light scarf would harmonize well with the day's cool embrace. Keep an eye on the horizon as the clouds gather\u2014tonight's forecast promises a slow climb in temperature, hinting at a night that might be more forgiving than it first appears. Embrace the day\u2019s charm, as the hints of spring linger enticingly close, whispering promises of warmer moments ahead.",
-    "color_code": "#A8C7E0",
-    "timestamp": "2025-02-28 15:07:23"
+    "weather_report": "As night shrouds Boston in its gentle embrace, the air carries a brief chill, signaling temperatures hovering around the freezing mark. A cloud-draped sky cloaks the city, adding a layer of mystery to the night, yet hinting at a warmer dawn as the mercury may rise to the mid-30s come morning. With a mild southerly breeze slipping through the streets, it\u2019s a night less suited for outdoor revelry and more for the cozy comfort of home, perhaps with a book or a warm drink in hand.\n\nAs Saturday unfurls, expect scattered rain showers to weave through the clouds after dawn, while the day shifts from the cool embrace of the morning to mild temperatures reaching the upper 50s, though they will fall again by afternoon, whispering of a chill that\u2019s not far behind. The southwest wind will pick up, stirring leaves and carrying a freshness that could invigorate the spirit but may also remind you to tighten your scarf. For those venturing out, layers will be your ally; a light waterproof jacket and comfortable shoes will keep you steady as you navigate through the blurred contours of an invite-wrought landscape. Embrace the day\u2019s potential for quiet strolls in the park or an artisanal coffee shop expedition, where the persistent rhythm of life in the city hums a backdrop to your own leisurely pursuits.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2025-02-28 23:07:44"
 }
