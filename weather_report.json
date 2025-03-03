@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-03T06:53:00+00:00",
-            "temperature_f": 17.96,
-            "temperature_c": -7.8,
-            "humidity": 48.869399187417,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2025-03-03T10:53:00+00:00",
+            "temperature_f": 14.0,
+            "temperature_c": -10,
+            "humidity": 46.181073489452,
+            "wind_speed_mph": 24.964920000000003,
             "wind_direction": 320,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-03T03:00:00-05:00",
-                "endTime": "2025-03-03T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 11,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 11. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-03-03T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-03-03T07:00:00-05:00",
                 "endTime": "2025-03-03T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 32,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 32. Northwest wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-03T18:00:00-05:00",
+                "endTime": "2025-03-04T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 20,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 20. West wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As the quiet of the night holds Boston in its embrace, the stars gaze down upon the city, their twinkling muted by the sigh of the softly blowing northwest wind. Although the temperature has dipped to a brisk low of around 11, there\u2019s a gentle clarity in the air that promises a bright awakening. Morning will unveil a tapestry of sunlit skies, as the city unfurls itself in a most invigorating embrace of radiant warmth. The forecast speaks of a high reaching near 32, a transformation from a wintry chill to a welcoming glow, inviting those with heart and spirit to step outside and absorb the day's splendor.\n\nAs the sun rises, it is an opportune moment for simple pleasures. Perhaps a leisurely walk along the banks of the Charles River, where the sunlight dances upon the water's surface, or a trip to a local caf\u00e9, where the aroma of freshly brewed coffee mingles harmoniously with the laughter of companions. In dressing for the day, layer your attire wisely; a sturdy jacket to ward off the lingering coolness of early morning, complemented by a lighter top as the day warms. Gloves may be cast aside, but a scarf might still provide a cocoon of comfort against the briskness of the breeze. Revel in the charm of a day that encourages exploration, a canvas waiting for the strokes of human experience beneath an expansive blue sky.",
-    "color_code": "#7EC4C3",
-    "timestamp": "2025-03-03 03:09:50"
+    "weather_report": "The morning unfolds over Boston with a delightful clarity, casting a golden light upon the city that promises warmth and cheer. On this sunny day, the air stirs gently with a northwest breeze, inviting you to step outside and embrace the world around you. Tonight, as the shadows stretch and the sky remains mostly clear, the landscape will cool down, a reminder to bundle up in layers for the evening chill that settles around twenty degrees. \n\nIn this splendid weather, a stroll along the Charles River would be a vibrant choice. The calm waters reflect the blue sky, creating a peaceful backdrop for quiet contemplation or leisurely conversation. Alternatively, the Boston Common beckons for a picnic or perhaps an engrossing read on a well-worn blanket, surrounded by the early signs of spring bravely peeking through. Whether sipping a warm beverage at a local caf\u00e9 or exploring one of the city's rich historical trails, today invites a connection to the beauty of the present moment, wrapped in the comforts of a light jacket or sweater as the sun gently casts its golden glow.",
+    "color_code": "#A0D6E6",
+    "timestamp": "2025-03-03 07:11:07"
 }
