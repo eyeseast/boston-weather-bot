@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-03T18:53:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 21.677223899417,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 320,
+            "timestamp": "2025-03-03T22:53:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": 23.632165135832,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 250,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-03T15:00:00-05:00",
-                "endTime": "2025-03-03T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 32,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 32. West wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-03T18:00:00-05:00",
+                "startTime": "2025-03-03T19:00:00-05:00",
                 "endTime": "2025-03-04T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 20,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 20. West wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-03-04T06:00:00-05:00",
+                "endTime": "2025-03-04T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 47. Southwest wind 6 to 14 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, the sun shines bright against a backdrop of azure, casting long shadows and illuminating the winter landscape with an inviting warmth. The air feels crisp, invigorating, as a gentle west wind stirs, offering a pleasant respite from the chill of the season. With the high gracefully hovering around 32 degrees, it seems nature is in a generous mood, encouraging folks to step outside and breathe in the clear, refreshing atmosphere. \n\nAs evening approaches, the sky will soften, transitioning to partly cloudy with a mellow low settling around 20 degrees. A light breeze will accompany this gentle shift, fostering an ambience perfect for cozy gatherings or quiet reflection. Dressing in layers would be wise\u2014think of a well-worn sweater and a sturdy jacket\u2014allowing for comfort as temperatures dip. The golden hour invites leisurely strolls through the city's historic streets, perhaps a visit to a neighborhood caf\u00e9 where the warmth of coffee blends seamlessly with the evening's charm. Today\u2019s conditions inspire activities that celebrate both the tranquility of winter's retreat and the promise of spring just around the corner.",
-    "color_code": "#A7C6E7",
-    "timestamp": "2025-03-03 15:07:12"
+    "weather_report": "As the twilight envelops Boston, the evening air carries a whisper of stillness. Tonight\u2019s weather offers a partly cloudy canvass under which the temperature languishes around a brisk 20 degrees. A gentle westerly breeze brushes past, a reminder of winter's lingering touch, but it is soft enough to invite a leisurely stroll. While the sky may not be entirely clear, it has a certain clarity that speaks of a transient chill, promoting layers of warmth for those venturing outside. \n\nLooking ahead to Tuesday, the sun promises to break through with a splash of brightness, heralding a day that will rise to a relatively mild 47 degrees. The southwest winds will dance among us, a more vivacious presence that hints at the potential for a refreshing jaunt outdoors. For those planning their attire, think cozy yet breathable\u2014a good mix of warmth and freedom of movement. As the day unfolds, one might find joy in a simple adventure: perhaps a quiet walk along the Charles River, or savoring a hot beverage while perusing the local shops. The world is subtly shifting, and even in the chill, a gentle energy abounds that begs to be embraced.",
+    "color_code": "#4A90E2",
+    "timestamp": "2025-03-03 19:28:30"
 }
