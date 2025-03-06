@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-06T02:26:00+00:00",
+            "timestamp": "2025-03-06T14:53:00+00:00",
             "temperature_f": 53.06,
             "temperature_c": 11.7,
-            "humidity": 85.795186713907,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 150,
-            "description": "Rain and Fog/Mist"
+            "humidity": 89.317597936371,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 190,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-03-05T23:00:00-05:00",
-                "endTime": "2025-03-06T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "15 to 20 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy, with a low around 52. South wind 15 to 20 mph, with gusts as high as 31 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-03-06T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-03-06T11:00:00-05:00",
                 "endTime": "2025-03-06T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
-                "windSpeed": "7 to 14 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/bkn?size=medium",
-                "shortForecast": "Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain and patchy fog before 8am. Mostly cloudy, with a high near 57. Southwest wind 7 to 14 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,20?size=medium",
+                "shortForecast": "Cloudy then Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers after noon. Cloudy, with a high near 57. Southwest wind around 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-06T18:00:00-05:00",
+                "endTime": "2025-03-07T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 30,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "10 to 20 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 30. West wind 10 to 20 mph, with gusts as high as 37 mph."
             }
         ]
     },
-    "weather_report": "As the evening blankets Boston, a gentle rain plays a soft melody against the windows, accompanied by a veil of patchy fog that dances mysteriously among the city's streets. The temperature hovers around a cool 52 degrees, while brisk winds from the south whip through the air, occasionally punctuated by stronger gusts that remind us of nature's subtle power. This night promises an unwavering 100% chance of rain, bringing with it a cozy, introspective ambiance perfect for staying indoors. \n\nLooking ahead to the morrow, the dawn will greet us with remnants of fog and the last whispers of rain until about 8 a.m. The day will open under a mostly cloudy sky, hinting at a high of around 57 degrees\u2014a day that invites a simple yet thoughtful layering of clothing. Perhaps a light jacket over a soft sweater would provide comfort against the cool breezes, while waterproof footwear might be prudent given the slosh of rain-soaked pavements. In light of the weather, tomorrow may offer a perfect opportunity for solitary pursuits: perhaps a quiet morning spent with a book at your favorite caf\u00e9, watching the world softly awaken, or a leisurely stroll through the stillness of the city\u2019s fog-shrouded parks. Either choice allows one to embrace the charm of a day cloaked in nature\u2019s gentle embrace.",
-    "color_code": "#4B4B4B",
-    "timestamp": "2025-03-05 23:08:08"
+    "weather_report": "As the day unfolds in Boston, a veil of low-hanging clouds drapes over the city, thick and gray, reminiscent of a heavy tapestry that muffles sound yet invites contemplation. The forecast suggests the possibility of isolated rain showers emerging after noon, a reminder of nature's whimsy. With the temperature lingering comfortably around 57, the gentle push of a southwest wind offers a slight reprieve, while the clouds threaten to mar the vibrancy of the sun. It is a day that beckons for a walk beneath the brooding skies, a moment to gather thoughts in the soft rustle of leaves and the distant echo of urban life.\n\nAs evening approaches and the temperature dips to around 30, a brisk west wind will dance through the streets, stirring up energy akin to an artist poised for inspiration. The gusts, fierce at times, speak of the coming chill and suggest that layering will be essential; a warm coat, a knit hat, and perhaps a scarf that can be wrapped like a comforting embrace. The promise of rain and looming clouds may cause some to retreat to cozy interiors, yet for those who dare to embrace the day, a leisurely stroll to a nearby caf\u00e9 to savor a warm brew can be the antidote to the drab. Alternatively, seeking shelter in a local bookstore, wrapped in the scent of pages and coffee, might provide solace from the elements while igniting the imagination.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2025-03-06 11:07:49"
 }
