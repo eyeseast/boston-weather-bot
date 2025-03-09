@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-08T18:53:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 25.238323433228,
+            "timestamp": "2025-03-08T22:53:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 35.196499747224,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Partly Cloudy"
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-08T15:00:00-05:00",
-                "endTime": "2025-03-08T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "23 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 42, with temperatures falling to around 35 in the afternoon. West wind around 23 mph, with gusts as high as 40 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-08T18:00:00-05:00",
+                "startTime": "2025-03-08T19:00:00-05:00",
                 "endTime": "2025-03-09T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 23,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "15 to 21 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 23. West wind 15 to 21 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Mostly clear, with a low around 23. West wind 15 to 20 mph, with gusts as high as 31 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-03-09T06:00:00-04:00",
+                "endTime": "2025-03-09T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "10 to 16 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
+                "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 1pm. Mostly sunny, with a high near 46. West wind 10 to 16 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, a mostly sunny allure graces the city. The chill in the air insists on its presence, as temperatures hover around 42 degrees, before yielding to a steady retreat toward the more biting realm of 35. The brisk west wind whistles, a sharp sound reminiscent of the coming change, gusting up to 40 mph. In this playful yet piercing embrace of the elements, one should prepare for a walk through the vibrant streets wrapped in layers\u2014a snug sweater beneath a resilient coat, perhaps completed with a sturdy scarf to fend off the playful gusts.\n\nAs dusk approaches, the sky's clarity promises a peaceful evening. The temperature dips to the upper twenties, while the winds shift in their temperament, settling into a steadier pace but still maintaining their frosty bite. The vibrant blues of the late afternoon sky contrast with the cooling earth, creating an inviting backdrop for mundane yet soothing activities. A stroll along the Charles or a cozy visit to a local caf\u00e9 might be just the respite needed, offering the warmth of companionship and perhaps a steaming mug of cocoa to cradle in the hands. As the sun dips beyond the horizon, the urban landscape of Boston transforms into a canvas of shadows and soft whispers, perfectly suited for quiet contemplation or the gentle laughter of friends gathering together.",
-    "color_code": "#A9C6E2",
-    "timestamp": "2025-03-08 15:06:20"
+    "weather_report": "As the evening settles over Boston, a crisp chill wraps itself around the city like a gentle reminder of winter's lingering embrace. Tonight's sky remains mostly clear, revealing the brilliant stars that dot the cold expanse above. The air carries a sharpness, with gusty winds that underscore the approaching night, making one feel the bite of the season. With temperatures dipping to around 23 degrees, a sturdy jacket is essential, layered perhaps with a scarf to keep the brisk air at bay. The urban landscape is illuminated, the lights reflecting off the darkened surfaces, creating an intimate glow against the stark chill.\n\nLooking ahead to Sunday, the promise of a slightly warmer day offers a sense of renewal. A modest chance of rain showers after noon looms gently on the horizon, but for the early part of the day, the sun may grace us with its presence, peeking through with the clarity of promising spring. The high temperature reaches toward 46, inviting the wanderer to explore the city's parks or meander through its historic streets. A light sweater should suffice under the jacket, as the winds will continue to whisper their coolness. A stroll along the Charles River or a relaxed visit to a favorite caf\u00e9 sounds just right, providing comfort against the gentle shifts of early spring weather.",
+    "color_code": "#4E6E9D",
+    "timestamp": "2025-03-08 19:25:50"
 }
