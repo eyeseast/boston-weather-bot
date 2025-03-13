@@ -7,20 +7,39 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-12T12:53:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 42.860546685877,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 360,
-            "description": ""
+            "timestamp": "2025-03-12T22:53:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 48.234614784925,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 50,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-12T12:00:00-04:00",
-                "endTime": "2025-03-12T18:00:00-04:00",
+                "name": "Tonight",
+                "startTime": "2025-03-12T20:00:00-04:00",
+                "endTime": "2025-03-13T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 32,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
+                "shortForecast": "Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow between 10pm and 1am. Cloudy, with a low around 32. East wind 5 to 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-03-13T06:00:00-04:00",
+                "endTime": "2025-03-13T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 45,
                 "temperatureUnit": "F",
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 45. Northeast wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-03-12T18:00:00-04:00",
-                "endTime": "2025-03-13T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "5 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
-                "shortForecast": "Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers between 9pm and 5am. Cloudy, with a low around 31. East wind around 5 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 45. East wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, the afternoon light bathes the city in a gentle embrace, with a promising clarity that dances across the horizon. As you step outside, you'll find a refreshing chill in the air, a reminder that despite the sunny facade, winter still lingers like an old acquaintance. The sky, a soft blue canvas, invites you to revel in its simplicity, though wispy clouds drift lazily above, hinting at the night's possibilities. As temperatures hover around 45 degrees, bundled layers will serve you well. A light jacket, perhaps accompanied by a cozy scarf, is the perfect antidote to the cool northeastern breeze that stirs intermittently.\n\nAs dusk approaches, a slight murmuring of snow showers may grace the evening hours, though they will come with only a whisper of intention. With a low settling near 31, the calmness of the approaching night may prompt a quiet evening indoors or perhaps an urban wander to admire the twinkling lights as they flicker to life. Enjoy an afternoon stroll through the vibrant streets, maybe pause for a warm drink, and relish the subtle magic that this transition brings. While the allure of the sun is strong, let the impending evening's hint of snow be a gentle nudge to embrace the warmth of home and the cozy moments that await.",
-    "color_code": "#A9C0D5",
-    "timestamp": "2025-03-12 12:08:14"
+    "weather_report": "As night embraces Boston, a chill underscores the air, wrapping the city in a delicate layer of clouds. The slight possibility of snow flurries lingers between the hours of ten and one, hinting at a symphony of winter's final notes before the curtain falls. The evening's coolness, around 32 degrees, carries a gentle east wind that tousles the shadows of trees while the city's lights flicker like restless dreams against the darkened canvas.\n\nTomorrow holds a promise of a cloudy respite, with the high reaching a modest 45 degrees. It's a day where the sun may shy away, allowing the clouds to dwell a bit longer, perhaps even crafting a backdrop for indoor daydreams. Dressing warmly will be wise; layers will wrap you in comfort, while a sturdy coat and perhaps a soft knit hat will keep the chill at bay. Consider a stroll through the local cafes, where the aroma of fresh coffee mingles with the warmth of camaraderie, or perhaps a visit to an art exhibit, where the imagination can flourish in the cozy obscurity of a gallery. Allow the day to unfold slowly, savoring the simple pleasures as the city holds its breath, waiting for spring's gentle touch.",
+    "color_code": "#6B7C92",
+    "timestamp": "2025-03-12 20:29:18"
 }
