@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-14T06:53:00+00:00",
-            "temperature_f": 35.96,
-            "temperature_c": 2.2,
-            "humidity": 81.731601290632,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 360,
-            "description": "Clear"
+            "timestamp": "2025-03-14T10:53:00+00:00",
+            "temperature_f": 37.94,
+            "temperature_c": 3.3,
+            "humidity": 72.8884420502,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 340,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-14T04:00:00-04:00",
-                "endTime": "2025-03-14T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 36,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 36. Northeast wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-03-14T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-03-14T08:00:00-04:00",
                 "endTime": "2025-03-14T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 52,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny, with a high near 52. Northeast wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-14T18:00:00-04:00",
+                "endTime": "2025-03-15T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 36. Southeast wind around 3 mph."
             }
         ]
     },
-    "weather_report": "As the early morning embraces Boston, a blanket of clouds fills the sky, evoking a sense of hush that accompanies the gentle, cool breeze. With the temperature resting near the chill of 36 degrees, the atmosphere possesses a calm stillness, the kind that whispers secrets of the night. The low murmur of a northeast wind adds to the ambiance, creating an understated choreography of trees swaying lightly, while city lights twinkle like stars, still bracing themselves for the emerging dawn.\n\nAs the sun eases into the day, Friday promises to reveal a landscape cast in soft hues, with a high nearing a comforting 52 degrees. Partly sunny skies will filter through, reminding us that warmth is merely a moment away, yet the lingering cloud cover holds the remnants of overnight coolness. Today feels like an invitation to bundle a bit\u2014perhaps a light sweater to shield against the morning's crispness, accompanied by comfortable shoes for wandering the quiet streets or enjoying a leisurely stroll along the waterfront. With such alluring softness in the day, one might find pleasure in a simple caf\u00e9 visit, savoring the aroma of freshly brewed coffee while observing the world awaken. A visit to a local bookshop, tucked away in a corner of the city, might just yield treasures hidden within dog-eared pages, promising companionship through the delayed springtime warmth.",
-    "color_code": "#B0C4D3",
-    "timestamp": "2025-03-14 04:08:52"
+    "weather_report": "In Boston this morning, a gentle veil of clouds blankets the city, rendering the day with a muted luminosity that nudges the sunplay into a soft, diffused glow. As the hours unfurl, the high will flirt with the coolness that lingers in the air, hovering near fifty-two degrees. The northeast wind whispers at a leisurely pace, embracing light layers rather than heavy attire, perfect for those who might seek solace in a stroll along the charmed, cobblestone streets or perhaps a quiet escape into one of the local caf\u00e9s. \n\nTonight, as darkness takes its turn, the clouds will deepen, casting a shawl of gray over the evening, with temperatures retreating to a cool thirty-six degrees. The atmosphere is one for cozy pursuits; imagine curling up with a good book or indulging in a leisurely dinner with friends. There\u2019s an inviting stillness in the air, a gentle prompt to savor the simple pleasures of life. Embrace this transient weather, as the promise of spring hovers just beyond the horizon.",
+    "color_code": "#A0A3A9",
+    "timestamp": "2025-03-14 08:10:40"
 }
