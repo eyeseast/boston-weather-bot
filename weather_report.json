@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-15T06:53:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 75.599112643171,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Clear"
+            "timestamp": "2025-03-15T14:53:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 74.00710179304,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 240,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-15T04:00:00-04:00",
-                "endTime": "2025-03-15T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog after 5am. Mostly cloudy, with a low around 38. South wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-03-15T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-15T12:00:00-04:00",
                 "endTime": "2025-03-15T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog before 9am. Partly sunny, with a high near 59. South wind 2 to 8 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 59. South wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-15T18:00:00-04:00",
+                "endTime": "2025-03-16T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog between 1am and 5am, then patchy fog and a slight chance of rain. Mostly cloudy. Low around 45, with temperatures rising to around 51 overnight. South wind around 8 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the early morning hours unfurl across Boston, a delicate veil of patchy fog hangs in the air, lingering with a gentle insistence. The world is ensconced in muted hues, a soft tapestry of mostly cloudy skies cradling the city, while the air hangs cool, whispering secrets of the night behind it. The temperature nestles around a brisk 38 degrees, making it a perfect moment for the soft warmth of a light jacket, perhaps layered over a cozy sweater, as one steps outside to embrace the day\u2019s awakening.\n\nAs dawn approaches, expect the fog to gradually dissipate, giving way to a charming almost-spring warmth. The day will unfold with the sun peeking through, casting a gentle glow, while temperatures will rise to a pleasant high near 59. A calm south wind blows gently, inviting the soul to embrace leisurely ventures\u2014the type of day that beckons a peaceful stroll along the waterfront, or perhaps a quiet moment savoring a steaming cup of coffee at a nearby caf\u00e9. As the city continues to shake off the remnants of night, revel in the simple pleasures, from the crispness of the morning air to the lingering clouds that promise a day of soft transitions and quiet joys.",
-    "color_code": "#B0C4D6",
-    "timestamp": "2025-03-15 04:07:48"
+    "weather_report": "The afternoon in Boston presents a charming display of mostly sunny skies, with a gentle warmth wrapping around the city as temperatures approach a pleasant 59 degrees. The soft south wind brushes through the streets, encouraging a leisurely wander. As the day progresses into the evening, however, expect the veil of clarity to give way to a more muted reality. Patchy fog is expected to creep in during the early hours, accompanied by a slight chance of rain, cloaking the city in a shroud of mystery, with temperatures delicately rising through the night. This transition heralds a sense of calm, perhaps perfect for sipping a warm cup of tea or seeking comfort in a cozy nook.\n\nFor those venturing outside, light layers will suit the day well; a cardigan or a light jacket would guard against the cooling evening air, which will soon brush past, inviting a sense of introspection. Engaging in a gentle stroll through the city\u2019s historic streets or visiting a local caf\u00e9 seems fitting given the current conditions. The day's tranquility invites moments of quiet reflection or light-hearted conversation with friends. As dusk approaches, the fog may create an atmosphere well-suited for an intimate gathering, or perhaps a solitary walk along the river, where the sounds and sights of the city blend into a serene backdrop of life.",
+    "color_code": "#B2C8DB",
+    "timestamp": "2025-03-15 12:06:45"
 }
