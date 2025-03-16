@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-16T06:53:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 89.091584214285,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 190,
+            "timestamp": "2025-03-16T14:53:00+00:00",
+            "temperature_f": 60.980000000000004,
+            "temperature_c": 16.1,
+            "humidity": 77.679888272611,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 180,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-16T04:00:00-04:00",
-                "endTime": "2025-03-16T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Cloudy. Low around 45, with temperatures rising to around 51 overnight. South wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-03-16T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-16T12:00:00-04:00",
                 "endTime": "2025-03-16T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "8 to 16 mph",
+                "windSpeed": "16 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/fog/ovc?size=medium",
-                "shortForecast": "Patchy Fog then Cloudy",
-                "detailedForecast": "Patchy fog before noon. Cloudy, with a high near 66. South wind 8 to 16 mph, with gusts as high as 33 mph."
+                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a high near 66. South wind around 16 mph, with gusts as high as 33 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-16T18:00:00-04:00",
+                "endTime": "2025-03-17T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "17 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain,70/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "A chance of rain between 8pm and 9pm, then rain and patchy fog. Cloudy, with a low around 53. South wind around 17 mph, with gusts as high as 33 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "Boston awakens under a veil of patchy fog, a gentle shroud that hangs across the landscape, muffling the sounds of the awakening city. The warmth of the night lingers, with temperatures gradually rising to embrace the morning at around 51 degrees. As day breaks softly, the clouds, like wandering thoughts, float in a muted sky. By midday, the fog will recede, giving way to a high near 66, as a south wind begins to weave through the streets, picking up strength and breath. \n\nIn this brisk transition, it would be wise to don layers: a light sweater or jacket to chase away the morning chill, coupled with comfortable fabrics to enjoy the gentle warmth of the afternoon sun. As the winds pick up, consider a stroll along the Charles River, where the light shimmering on the water invites moments of quiet reflection. Alternatively, find comfort in a local caf\u00e9, sipping a warm brew while watching the city pulse with the rhythm of life, each person carrying their own story into the day. The beauty of this Sunday lies not only in the weather's fickle dance but in the simple pleasures it encourages.",
-    "color_code": "#A3B1C5",
-    "timestamp": "2025-03-16 04:07:53"
+    "weather_report": "In Boston today, the sky dons a heavy cloak of gray, for the clouds are not just mere visitors but rather a persistent companion wrapping the city in a cool embrace. With temperatures hovering around a mild 66 degrees, the persistent south wind carries with it a reminder of spring\u2019s awakening, though it breathes a more autumnal chill as gusts push through, dancing at 33 miles per hour. As the afternoon coasts toward evening, don't be fooled by the momentary clarity that may slip through; rain is set to make an appearance, ushered in by the very winds we now feel. Expect the gentle patter and patchy fog to emerge sometime after dusk, with a resolute chance of precipitation reaching a perfect 100%. \n\nOn a day like this, practicality in attire becomes paramount; a light waterproof jacket and perhaps a cozy scarf could make the journey through misty streets more pleasant. Heavy drops may find themselves pooling in the evening, teasing the possibility of a cozy movie night indoors or an inviting caf\u00e9 where the rain can drench the world outside while you sip something warm. Embrace the gentle hum of the city, where the sound of raindrops on pavement become a calming symphony, a prelude to more tranquil moments as day fades to night.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-03-16 12:06:57"
 }
