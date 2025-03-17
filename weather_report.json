@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-16T17:53:00+00:00",
-            "temperature_f": 71.06,
-            "temperature_c": 21.7,
-            "humidity": 58.847971651165,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-03-16T22:53:00+00:00",
+            "temperature_f": 64.04,
+            "temperature_c": 17.8,
+            "humidity": 74.954456791337,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 190,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-16T16:00:00-04:00",
-                "endTime": "2025-03-16T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 66. South wind around 16 mph, with gusts as high as 32 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-16T18:00:00-04:00",
+                "startTime": "2025-03-16T20:00:00-04:00",
                 "endTime": "2025-03-17T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,100?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain after 10pm. Cloudy, with a low around 55. South wind around 17 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-03-17T06:00:00-04:00",
+                "endTime": "2025-03-17T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "7 to 16 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,100/rain,90?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 59. Southwest wind 7 to 16 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
             }
         ]
     },
-    "weather_report": "In Boston today, the atmosphere carries a certain heaviness, the skies cloaked in a mosaic of grays suggestive of an impending change. As the afternoon warms up to a soft 66 degrees, a persistent breeze breathes life into the scene, while the clouds gather strength, hinting at the rain that will soon drape the city. The clarity is subdued, with only fleeting glimpses of brightness struggling to break through the thickening layers above. \n\nAs night approaches, a gentle rain will begin to fall, a rhythmic patter that invites a cozy reprieve indoors. With temperatures dropping to a mild 55, dressing in softer fabrics, perhaps a light waterproof jacket and a comfortable pair of shoes, would be wise. This is a night perfect for slipping into a favorite caf\u00e9 with a book in hand or gathering with friends for an evening of conversation and warmth. The sounds of rain against windows will provide a soothing backdrop, making the world outside seem all the more distant and tranquil.",
-    "color_code": "#7F9CBA",
-    "timestamp": "2025-03-16 16:06:56"
+    "weather_report": "As the evening deepens over Boston, a veil of clouds gathers, setting the stage for the rain anticipated to arrive after 10 PM. The air is thick with humidity, and a balmy breeze stirs from the south, whispering promises of the more substantial rainfall to come. The temperature, languidly resting around the mid-fifties, invites you to seek warmth in layers\u2014perhaps a soft sweater or a light jacket will serve you well against the chill that accompanies the wind gusting at times to nearly thirty-five miles per hour. \n\nTomorrow, rain will dominate the landscape. One can expect an overcast sky, cloaked in shades of gray, with a high creeping near sixty. As the city draws closer to this forecasted downpour, you might feel inclined to tuck away in a cozy nook, perhaps wrapping your fingers around a steaming cup of tea, or indulging in the quiet comfort of a good book. Given the weather's propensity for gloom, this evening\u2014and indeed much of Monday\u2014may be most suitable for introspective evenings, perhaps attend a gallery exhibit or immerse yourself in the warmth of local cafes, absorbing the rhythm of life as the rain presents its symphony outside your window.",
+    "color_code": "#303030",
+    "timestamp": "2025-03-16 20:30:54"
 }
