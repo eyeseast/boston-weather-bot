@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-17T06:53:00+00:00",
-            "temperature_f": 60.08,
-            "temperature_c": 15.6,
-            "humidity": 86.191267982613,
-            "wind_speed_mph": 53.95644000000001,
+            "timestamp": "2025-03-17T10:13:00+00:00",
+            "temperature_f": 57.92,
+            "temperature_c": 14.4,
+            "humidity": 90.117153427448,
+            "wind_speed_mph": 24.964920000000003,
             "wind_direction": 180,
-            "description": "Heavy Rain and Fog/Mist"
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-17T04:00:00-04:00",
-                "endTime": "2025-03-17T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy, with a low around 58. South wind around 16 mph, with gusts as high as 31 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-03-17T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-03-17T08:00:00-04:00",
                 "endTime": "2025-03-17T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "7 to 16 mph",
+                "windSpeed": "7 to 14 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,100/rain,90?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy, with a high near 60. Southwest wind 7 to 16 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+                "detailedForecast": "Rain. Cloudy, with a high near 60. Southwest wind 7 to 14 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-17T18:00:00-04:00",
+                "endTime": "2025-03-18T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,70/rain,40?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely before 5am. Cloudy, with a low around 38. Northwest wind around 9 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the city awakens to the soft patter of raindrops\u2014a chilling reminder that winter's grip is not yet fully relinquished. The air hangs heavy with humidity, a melancholic veil that dampens the skyline, leaving the sturdy outlines of buildings to loom like ghosts against the relentless gray. A steady south wind whispers through empty streets, stirring anything unanchored and carrying the scent of wet pavement and damp earth. The forecast promises little reprieve as the day unfolds, guaranteeing a continuing symphony of rain well into the afternoon. This is a time for reflection, where the bustle of daily life finds itself softened by the rhythm of the falling droplets.\n\nWith such conditions, discerning how best to dress becomes an exercise in both practicality and comfort. A sturdy waterproof coat layered over a warm sweater, paired with sensible shoes that can brave the puddles, becomes the attire of choice. For those who feel the call to venture outside, a stroll along the sheltered pathways of the Boston Common offers solace amid the rain. Alternatively, one might gravitate toward the cozy embrace of a local caf\u00e9, where the warmth of coffee mingles with the calming sound of rain, providing a perfect setting for unwinding with a good book or perhaps engaging in quiet conversation. Embrace the damp; today is the kind of day that invites introspection, urging you to find pleasure in the simple joys wrapped in the arms of a gray, rainy Boston morning.",
-    "color_code": "#4F4F4F",
-    "timestamp": "2025-03-17 04:09:51"
+    "weather_report": "In Boston, a sullen curtain of rain envelops the morning, the sky draped in heavy gray clouds that promise a day of dampness and chill. The air is thick with moisture, each droplet painting the world in muted shades, obscuring the familiar sights of the city. It feels as though nature has wrapped itself in a heavy blanket, making even the most vibrant streets seem subdued. With temperatures hovering around a cool 60 degrees, the wind whispers softly from the southwest, but it\u2019s a voice that carries the damp chill of impending rain, inviting you to seek warmth and shelter.\n\nAs the day unfolds, expect the rain to linger, with only a faint glimmer of hope for its reprieve before dawn transitions into a brisk evening. With temperatures dropping to the low 30s, it would be wise to dress warmly\u2014perhaps layering a cozy sweater beneath a waterproof jacket, complemented by sturdy shoes to keep the elements at bay. This weather calls for indoor pursuits; consider a stroll through the quiet aisles of a local bookstore, where the soft rustle of pages turns into an inviting symphony. Coupled with a warm cup of coffee, the day\u2019s melancholy might transform into a comforting retreat. Alternatively, a leisurely visit to a nearby art gallery allows the heart to embrace creativity and the spirit to escape the dreary weather outside.",
+    "color_code": "#A8B8C5",
+    "timestamp": "2025-03-17 08:11:27"
 }
