@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-17T10:13:00+00:00",
-            "temperature_f": 57.92,
-            "temperature_c": 14.4,
-            "humidity": 90.117153427448,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 180,
-            "description": "Light Rain"
+            "timestamp": "2025-03-18T02:53:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 68.066342482018,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 320,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-03-17T08:00:00-04:00",
-                "endTime": "2025-03-17T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "7 to 14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100/rain,90?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy, with a high near 60. Southwest wind 7 to 14 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-03-17T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-03-18T00:00:00-04:00",
                 "endTime": "2025-03-18T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 38,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 30
                 },
-                "windSpeed": "9 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,70/rain,40?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely before 5am. Cloudy, with a low around 38. Northwest wind around 9 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "windSpeed": "13 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain before 3am. Cloudy, with a low around 38. North wind around 13 mph, with gusts as high as 24 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-03-18T06:00:00-04:00",
+                "endTime": "2025-03-18T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 54. North wind 6 to 13 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "In Boston, a sullen curtain of rain envelops the morning, the sky draped in heavy gray clouds that promise a day of dampness and chill. The air is thick with moisture, each droplet painting the world in muted shades, obscuring the familiar sights of the city. It feels as though nature has wrapped itself in a heavy blanket, making even the most vibrant streets seem subdued. With temperatures hovering around a cool 60 degrees, the wind whispers softly from the southwest, but it\u2019s a voice that carries the damp chill of impending rain, inviting you to seek warmth and shelter.\n\nAs the day unfolds, expect the rain to linger, with only a faint glimmer of hope for its reprieve before dawn transitions into a brisk evening. With temperatures dropping to the low 30s, it would be wise to dress warmly\u2014perhaps layering a cozy sweater beneath a waterproof jacket, complemented by sturdy shoes to keep the elements at bay. This weather calls for indoor pursuits; consider a stroll through the quiet aisles of a local bookstore, where the soft rustle of pages turns into an inviting symphony. Coupled with a warm cup of coffee, the day\u2019s melancholy might transform into a comforting retreat. Alternatively, a leisurely visit to a nearby art gallery allows the heart to embrace creativity and the spirit to escape the dreary weather outside.",
-    "color_code": "#A8B8C5",
-    "timestamp": "2025-03-17 08:11:27"
+    "weather_report": "In the quiet hours of Boston's night, a gentle whisper of rain dances softly against the backdrop of a cloudy sky, cloaking the city in a serene, muted embrace. As the clock ticks past midnight, temperatures hover around 38 degrees, with a subtle north wind carrying the chill. Gusts brush through like a fleeting thought, nudging the frail hopes of early risers, reminding them of the intrinsic beauty of spring's tentative arrival. The chance of precipitation lingers, whispering a promise of a few, delicate droplets before dawn unveils a new day.\n\nAs Tuesday dawns, the clouds are set to linger, with the promise of a high near 54 that may warm the air but not the heart of the day. In this mild yet brooding atmosphere, it's best to embrace layers\u2014cozy knits paired with a light jacket, perhaps a scarf to ward off the morning chill as one ventures out. A stroll along the Charles River Embankment beckons\u2014where the soft cadence of life stirs slowly, and a visit to a local caf\u00e9, with the rich aroma of freshly brewed coffee, could offer the perfect respite before the day fully blooms. Amid the umbrellas and slick pavements, the spirit of Boston whispers through the streets, urging one to find solace in simpler pleasures: a book read beside the window, or perhaps the gentle murmur of a conversation with a friend under the cloak of stillness.",
+    "color_code": "#6C757D",
+    "timestamp": "2025-03-18 00:08:20"
 }
