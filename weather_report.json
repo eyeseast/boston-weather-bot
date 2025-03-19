@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-18T22:53:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 32.554017247018,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 20,
+            "timestamp": "2025-03-19T10:53:00+00:00",
+            "temperature_f": 30.02,
+            "temperature_c": -1.1,
+            "humidity": 85.003898179532,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-03-18T20:00:00-04:00",
-                "endTime": "2025-03-19T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 33,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 33. North wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-03-19T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-03-19T08:00:00-04:00",
                 "endTime": "2025-03-19T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "3 to 8 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 54. Northeast wind around 8 mph."
+                "detailedForecast": "Sunny, with a high near 54. Northeast wind 3 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-19T18:00:00-04:00",
+                "endTime": "2025-03-20T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Drizzle then Patchy Fog",
+                "detailedForecast": "A slight chance of drizzle between 8pm and midnight, then patchy fog and a slight chance of drizzle. Mostly cloudy, with a low around 39. East wind 2 to 6 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As night drapes its cloak over Boston, the chill in the air whispers promises of a clear, crisp evening ahead. With the temperature settling around the low thirties, the northern breeze carries with it a hint of winter's departing breath. Tonight, the stars seem to wink from above, a few brave points of light shining through the vast expanse, illuminating the city\u2019s shimmering edges like diamonds scattered across a dark velvet canvas. The atmosphere is serene, inviting one to wrap up in a warm coat and venture out for a leisurely stroll along the waterfront or perhaps a quiet moment at a local caf\u00e9, where the aroma of freshly brewed coffee fills the air.\n\nAs dawn breaks over the horizon on Wednesday, the sun will greet the day with a soft embrace, lifting the spirits of those fortunate enough to witness its arrival. Expect a day filled with sunshine and gentle breezes, a perfect backdrop for daytime pursuits. A light sweater paired with a comfortable pair of jeans would suit the day well, allowing one to relish the mild temperatures hovering near the mid-fifties. The inviting weather encourages simple pleasures: a visit to a local market, where the sights and sounds of neighbors chatting add warmth to the day, or perhaps an afternoon spent exploring the cobblestone streets where history seeps from every corner. It is a day painted in the hues of discovery and delight, urging one to step outside and find joy in the everyday moments that weave the fabric of life in this remarkable city.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-03-18 20:29:45"
+    "weather_report": "A tranquil morning envelops Boston, where the sunlight pours down from a clear blue sky, illuminating the fa\u00e7ades of brick and granite that define the city\u2019s historic charm. The temperature lends itself to a brisk feel, lingering around the mid-fifties, as a gentle northeast breeze whispers through the streets. This sunny interlude, however, is destined to give way, as twilight approaches and the possibility of drizzle creeps in after supper, with a soft veil of fog expected to descend upon the city, transforming its silhouette into something more ethereal.\n\nAs day transitions to night, consider dressing in layers\u2014perhaps donning a light sweater under a windbreaker to embrace the changing conditions. As the sun sinks low and you venture out for the evening, a casual walk along the Charles River or a visit to a cozy caf\u00e9 might be the best way to savor this fleeting moment before the clouds roll in. The slight chance of drizzle provides the perfect excuse to indulge in simple pleasures, perhaps sampling a warm pastry or diving into a good book as the city prepares to cocoon itself in the comforting haze of night.",
+    "color_code": "#A1C6EA",
+    "timestamp": "2025-03-19 08:11:02"
 }
