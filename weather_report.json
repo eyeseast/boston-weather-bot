@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-19T18:53:00+00:00",
-            "temperature_f": 55.04,
-            "temperature_c": 12.8,
-            "humidity": 48.495910884434,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 60,
-            "description": "Clear"
+            "timestamp": "2025-03-19T22:53:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 79.390286642183,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 50,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-19T16:00:00-04:00",
-                "endTime": "2025-03-19T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 54, with temperatures falling to around 48 in the afternoon. East wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-19T18:00:00-04:00",
+                "startTime": "2025-03-19T20:00:00-04:00",
                 "endTime": "2025-03-20T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 39,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "3 to 7 mph",
-                "windDirection": "E",
+                "windSpeed": "6 mph",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/rain/rain,20?size=medium",
-                "shortForecast": "Patchy Drizzle then Patchy Fog",
-                "detailedForecast": "Patchy drizzle between 8pm and 9pm, then patchy drizzle and patchy fog between 9pm and 1am, then patchy fog and a slight chance of rain. Mostly cloudy, with a low around 39. East wind 3 to 7 mph. Chance of precipitation is 20%."
+                "shortForecast": "Areas Of Drizzle",
+                "detailedForecast": "Areas of fog between 9pm and 10pm, then areas of drizzle and areas of fog. Cloudy, with a low around 39. Southeast wind around 6 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-03-20T06:00:00-04:00",
+                "endTime": "2025-03-20T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/ovc?size=medium",
+                "shortForecast": "Areas Of Drizzle then Cloudy",
+                "detailedForecast": "Areas of drizzle and areas of fog before 11am. Cloudy, with a high near 56. Southeast wind 5 to 9 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the ambiance is a blend of partial sunlight and the promise of a brisk evening. Temperatures, while initially mild, are on a trajectory towards the cooler side, whispering a reminder that spring's warmth is still finding its footing. As the day unfolds, a gentle east wind stirs, offering a reflective pause as the clouds begin to stretch across the sky. There's a quiet foretelling of moisture in the air, with patches of drizzle punctuating the latter hours and perhaps a hint of fog that will weave through the twilight.\n\nAs nightfall approaches, layers will be your ally; a light jacket will keep the chill at bay as you embrace a stroll through the city streets, where the faint drizzle might invite a more introspective mood. The promise of fog adds a soft mystery to the already enchanting atmosphere of Boston. Indulging in a cozy caf\u00e9, savoring warm beverages, or simply wandering under the soft glow of streetlights could fill your evening with a sense of tranquil satisfaction. Enjoy the gentle ebb and flow of the day, allowing yourself to be enveloped by the stillness that the evolving weather brings.",
-    "color_code": "#A6B7C7",
-    "timestamp": "2025-03-19 16:07:47"
+    "weather_report": "The air in Boston tonight carries an intimate chill, a gentle whisper that speaks of cushions wrapped in soft fabrics and the aroma of warm tea steaming gently on a nearby table. As night cloaks the city, expect areas of fog to drift in, mingling with the persistent drizzle, creating an almost ethereal quality to the surroundings. With clouds hanging low, the overall ambiance feels serene but slightly damp, as if the city is holding a secret beneath its gauzy cover. A light breeze hovers around, a quiet nod from the southeast, offering just enough warmth to let the chill be an afterthought.\n\nTomorrow anticipates a similar haze, with drizzle and fog weaving through the morning hours, before it decides to relent slightly toward midday. Temperatures will gently rise, inviting a modest reprieve and making room for a high that feels refreshingly mild. While the day may not scream for outdoor adventures, the subtlety of its grey tones invites reflection, perhaps a quiet walk through your favorite park cloaked in a cardigan, or a meander to a local caf\u00e9 bustling with life. The flavors of freshly brewed coffee or a comforting pastry become your companions against the damp chill, as the world outside hums softly beneath the veil of fog. Another chance to savor Boston in a way that feels both timeless and intimate.",
+    "color_code": "#A7A49D",
+    "timestamp": "2025-03-19 20:28:42"
 }
