@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-20T10:53:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 92.59561987308,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 80,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2025-03-20T18:53:00+00:00",
+            "temperature_f": 55.94,
+            "temperature_c": 13.3,
+            "humidity": 74.688740763976,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 170,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-03-20T08:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-20T16:00:00-04:00",
                 "endTime": "2025-03-20T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 8 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain?size=medium",
-                "shortForecast": "Areas Of Drizzle",
-                "detailedForecast": "Areas of drizzle and patchy fog before 1pm. Mostly cloudy, with a high near 55. Southeast wind 3 to 8 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 55. Southeast wind around 8 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-03-20T18:00:00-04:00",
                 "endTime": "2025-03-21T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 42,
+                "temperature": 43,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 80
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "A slight chance of rain between 7pm and 8pm, then rain likely and patchy fog. Cloudy, with a low around 42. Southeast wind around 8 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,80?size=medium",
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Areas of fog between 7pm and 10pm, then areas of fog and a chance of rain between 10pm and 4am, then rain and areas of fog. Cloudy, with a low around 43. Southeast wind 5 to 8 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn unfolds in Boston, the city is enveloped in a shroud of light drizzle and mist, the air heavy with humidity and an elusive fog that dances around the streets. The day begins under a muted palette, as gray clouds hang like a gentle curtain across the skyline, softly obscuring contours and fine details. While the temperature rises to a mild 55 degrees, the drizzly nature of the morning creates a chill that suggests a warm wrap or a cozy sweater might be wise companions for your morning jaunts. A light breeze from the southeast adds an element of stillness, inviting a contemplative stroll through local streets where the soft patter of rain accompanies the sound of distant life.\n\nAs evening approaches, there's a likelihood that the rain will intensify, bringing with it more fog that blankets the surroundings. With a low dipping to around 42 degrees, stepping out later may call for a more insulated choice of attire, perhaps a raincoat or a layer beneath that can shield against the pooling moisture. Given these conditions, this is not a day for grand outings; instead, it offers a perfect opportunity to curl up with a book in a caf\u00e9, sipping something warm while watching the quiet life of the city\u2014where droplets intermingle with laughter, and the world feels both calm and invitingly introspective.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-03-20 08:11:22"
+    "weather_report": "As afternoon wanes in Boston, the sky adopts a brooding demeanor, cloaked in a veil of clouds that leaves the city shrouded in soft, muted hues. There's a gentle warmth in the air, a hint of spring softness that invites you to linger outside while it lasts. Yet, the promise of evening looms ahead, ushering in the prospect of fog and rain, perfect companions for those moments when the bustle of daily life gives way to a quieter, contemplative pace.\n\nFor the evening's embrace, one might consider dressing in layers\u2014a light jacket can offer comfort from the cool breath of the southeast wind, while a scarf might catch the wisps of mystery that the fog brings. As twilight beckons, adventures could unfold in the cozy interiors of local cafes or the warm embrace of bookstores, where the essence of rain pattering softly on windows sets the perfect backdrop for a few quiet hours spent in good company or with a book that transports you elsewhere. Though the day may fade into clouds and gentle rainfall, find solace in the moments that this earthy weather invites, creating a symphony of your own among the muted brilliance of Boston\u2019s landscape.",
+    "color_code": "#A2B2C8",
+    "timestamp": "2025-03-20 16:07:20"
 }
