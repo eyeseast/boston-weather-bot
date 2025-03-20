@@ -7,22 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-20T02:53:00+00:00",
+            "timestamp": "2025-03-20T06:53:00+00:00",
             "temperature_f": 41.0,
             "temperature_c": 5,
             "humidity": 88.764904189773,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": null,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2025-03-20T00:00:00-04:00",
+                "startTime": "2025-03-20T04:00:00-04:00",
                 "endTime": "2025-03-20T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 39,
+                "temperature": 40,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -30,10 +30,10 @@
                     "value": 20
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "SE",
+                "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
                 "shortForecast": "Areas Of Drizzle",
-                "detailedForecast": "Areas of drizzle and areas of fog. Cloudy, with a low around 39. Southeast wind around 5 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Areas of drizzle and patchy fog. Cloudy, with a low around 40. East wind around 5 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-03-20T06:00:00-04:00",
                 "endTime": "2025-03-20T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 56,
+                "temperature": 55,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "3 to 8 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/ovc?size=medium",
-                "shortForecast": "Areas Of Drizzle then Cloudy",
-                "detailedForecast": "Areas of drizzle and areas of fog before 11am. Cloudy, with a high near 56. Southeast wind 5 to 9 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain?size=medium",
+                "shortForecast": "Areas Of Drizzle",
+                "detailedForecast": "Areas of drizzle and patchy fog before 1pm. Mostly cloudy, with a high near 55. Southeast wind 3 to 8 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the stillness of the night, Boston cloaks itself in a gentle embrace of drizzle and fog. The air is cool, a whispering reminder of the lingering chill of early spring, as the temperatures sink just below the threshold of comfort. A hazy softness envelops the city, allowing only muted silhouettes to emerge, while the southeast breeze carries a hint of moisture, underscoring the quiet ambiance of this nocturnal landscape.\n\nAs dawn approaches, the cloud cover will persist, creating a grayish canvas that hints at a day shrouded in mist. The fog will be reluctant to lift until later in the morning, but by noon, a modest warming will usher in temperatures reaching the mid-fifties. It will be a day best met in layers: a light sweater or a windbreaker could serve as a protective barrier against the dampness, paired with sensible footwear for those who may be tempted to stroll through the city\u2019s hushed streets. A hot cup of coffee in hand, one might find solace in a visit to a nearby caf\u00e9, where the warmth and the hum of conversation provide a stark contrast to the cool air outside. Alternatively, browsing through a local bookstore or art gallery could present a lovely way to spend the hours, wrapped in the quiet charm that a foggy day brings.",
-    "color_code": "#676C77",
-    "timestamp": "2025-03-20 00:08:06"
+    "weather_report": "As morning dawns quietly over Boston, a gentle drizzle accompanies the veil of patchy fog, hinting at a day that unfolds with a graceful unease. The air is cool, caressing the skin with its dampness, perfect for those who appreciate the solace found in a muted palette of cloudy skies. You might feel inclined to wear a light sweater or a thin jacket, perhaps with an umbrella in hand, as the east wind whispers through the city, barely stirring the leaves of early spring.\n\nThe forecast nudges us toward a mostly cloudy but mild afternoon, where the temperature will climb to a modest warmth. It is a day best enjoyed at a slower pace; perhaps a stroll through the historic streets, seeking shelter in a cozy caf\u00e9 to savor the rich aroma of freshly brewed coffee while gazing out as the world drips and moves in grey hues. Alternatively, the quietude of home may call\u2014an ideal setting for reading or perhaps catching up on a leisurely hobby, while the soft patter of drizzle becomes the soundtrack of contemplation. As the hours pass, take a moment to appreciate the subtle beauty of a city cloaked in mist; it holds a charm all its own, inviting you to pause and appreciate life in its quieter moments.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2025-03-20 04:09:07"
 }
