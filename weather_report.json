@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-20T06:53:00+00:00",
+            "timestamp": "2025-03-20T10:53:00+00:00",
             "temperature_f": 41.0,
             "temperature_c": 5,
-            "humidity": 88.764904189773,
+            "humidity": 92.59561987308,
             "wind_speed_mph": 12.0798,
-            "wind_direction": null,
-            "description": "Fog/Mist"
+            "wind_direction": 80,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-20T04:00:00-04:00",
-                "endTime": "2025-03-20T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 40,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Areas Of Drizzle",
-                "detailedForecast": "Areas of drizzle and patchy fog. Cloudy, with a low around 40. East wind around 5 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-03-20T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-03-20T08:00:00-04:00",
                 "endTime": "2025-03-20T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
                 "windSpeed": "3 to 8 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain?size=medium",
                 "shortForecast": "Areas Of Drizzle",
-                "detailedForecast": "Areas of drizzle and patchy fog before 1pm. Mostly cloudy, with a high near 55. Southeast wind 3 to 8 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Areas of drizzle and patchy fog before 1pm. Mostly cloudy, with a high near 55. Southeast wind 3 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-20T18:00:00-04:00",
+                "endTime": "2025-03-21T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,70?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "A slight chance of rain between 7pm and 8pm, then rain likely and patchy fog. Cloudy, with a low around 42. Southeast wind around 8 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As morning dawns quietly over Boston, a gentle drizzle accompanies the veil of patchy fog, hinting at a day that unfolds with a graceful unease. The air is cool, caressing the skin with its dampness, perfect for those who appreciate the solace found in a muted palette of cloudy skies. You might feel inclined to wear a light sweater or a thin jacket, perhaps with an umbrella in hand, as the east wind whispers through the city, barely stirring the leaves of early spring.\n\nThe forecast nudges us toward a mostly cloudy but mild afternoon, where the temperature will climb to a modest warmth. It is a day best enjoyed at a slower pace; perhaps a stroll through the historic streets, seeking shelter in a cozy caf\u00e9 to savor the rich aroma of freshly brewed coffee while gazing out as the world drips and moves in grey hues. Alternatively, the quietude of home may call\u2014an ideal setting for reading or perhaps catching up on a leisurely hobby, while the soft patter of drizzle becomes the soundtrack of contemplation. As the hours pass, take a moment to appreciate the subtle beauty of a city cloaked in mist; it holds a charm all its own, inviting you to pause and appreciate life in its quieter moments.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2025-03-20 04:09:07"
+    "weather_report": "As dawn unfolds in Boston, the city is enveloped in a shroud of light drizzle and mist, the air heavy with humidity and an elusive fog that dances around the streets. The day begins under a muted palette, as gray clouds hang like a gentle curtain across the skyline, softly obscuring contours and fine details. While the temperature rises to a mild 55 degrees, the drizzly nature of the morning creates a chill that suggests a warm wrap or a cozy sweater might be wise companions for your morning jaunts. A light breeze from the southeast adds an element of stillness, inviting a contemplative stroll through local streets where the soft patter of rain accompanies the sound of distant life.\n\nAs evening approaches, there's a likelihood that the rain will intensify, bringing with it more fog that blankets the surroundings. With a low dipping to around 42 degrees, stepping out later may call for a more insulated choice of attire, perhaps a raincoat or a layer beneath that can shield against the pooling moisture. Given these conditions, this is not a day for grand outings; instead, it offers a perfect opportunity to curl up with a book in a caf\u00e9, sipping something warm while watching the quiet life of the city\u2014where droplets intermingle with laughter, and the world feels both calm and invitingly introspective.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-03-20 08:11:22"
 }
