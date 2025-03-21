@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-21T06:53:00+00:00",
+            "timestamp": "2025-03-21T09:53:00+00:00",
             "temperature_f": 48.92,
             "temperature_c": 9.4,
-            "humidity": 89.741574390528,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "humidity": 86.141284587185,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 250,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-21T04:00:00-04:00",
-                "endTime": "2025-03-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 80
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/rain,80?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and areas of fog. Cloudy, with a low around 44. East wind around 6 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-03-21T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-03-21T08:00:00-04:00",
                 "endTime": "2025-03-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 48,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 50
                 },
-                "windSpeed": "6 to 18 mph",
+                "windSpeed": "13 to 20 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,20?size=medium",
-                "shortForecast": "Light Rain Likely then Patchy Fog",
-                "detailedForecast": "Rain likely and patchy fog before 11am, then patchy fog and a slight chance of rain between 11am and 1pm. Mostly cloudy, with a high near 48. Northwest wind 6 to 18 mph, with gusts as high as 31 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,50/rain,20?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain and patchy fog before 1pm. Partly sunny, with a high near 48. Northwest wind 13 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-21T18:00:00-04:00",
+                "endTime": "2025-03-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 18 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 36. West wind 8 to 18 mph, with gusts as high as 33 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfurls over Boston, the atmosphere is draped in a cloak of rain and fog, a muted symphony of cloudy greys and gentle whispers of moisture. The temperature lingers in the cool embrace of the early morning, inviting a reflective stillness as the world awakens under a sky heavy with promise of precipitation. Throughout the day, expect the rain to linger, teasing us with patchy fog that dances in and out of sight. Though the temperatures will inch towards the chillier side, a brisk northwest wind will waltz through the city, making each drop feel more poignant against your skin.\n\nFor those who must venture out, a comfortable but substantial jacket becomes an essential companion, while sturdy footwear is a wise choice for navigating the slippery sidewalks. Consider a scarf to ward off the chill from the wind, as it has an uncanny ability to creep through the smallest of openings. Today may not beckon outdoor adventures, but it offers a gentle invitation to linger in warm caf\u00e9s, perhaps with a book in hand as you sip something steaming. Embrace the opportunity to reconnect with the familiar rhythm of the city, its wet streets reflecting the muted colors of the day, as the rain plays its soft, soothing melody.",
-    "color_code": "#7A9B9A",
-    "timestamp": "2025-03-21 04:08:53"
+    "weather_report": "Today in Boston, a lingering air of dampness clings to the morning, hinting at the patchy fog that wraps its fingers around the city, gradually loosening its grip as the hours slide on. The high, a modest 48 degrees, pushes through a veil of persistent clouds, creating a day that straddles the line between dreariness and the hopeful brush of sun peeking through. A brisk northwest wind dances through the streets, adding a chill that may persuade even the most daring of souls to reach for a warmer garment. It\u2019s a day that, while not ideal for leisurely strolls, invites a cozy gathering with friends over coffee, or perhaps a leisurely visit to a museum, where the stillness can provide a comforting refuge from the season's uncertainties.\n\nAs evening approaches, the forecast promises clarity to the skies, gifting us with a peaceful night where the temperature dips to around 36 degrees. The lowering sun may cast a soft, reflective glow across the dimming landscape, encouraging the weary to step out for a brisk walk beneath the emerging stars. As you navigate the transition from day to night, consider layering upon layers\u2014perhaps a flannel jacket over a warm sweater, with a scarf close at hand to fend off the lingering chill. The day may have started with somber tones, but it gradually invites an exploration of the simple pleasures that these quiet moments can offer.",
+    "color_code": "#A1B8D0",
+    "timestamp": "2025-03-21 08:10:58"
 }
