@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-20T18:53:00+00:00",
-            "temperature_f": 55.94,
-            "temperature_c": 13.3,
-            "humidity": 74.688740763976,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 170,
+            "timestamp": "2025-03-20T23:00:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 82.954048467221,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-20T16:00:00-04:00",
-                "endTime": "2025-03-20T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 55. Southeast wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-20T18:00:00-04:00",
+                "startTime": "2025-03-20T20:00:00-04:00",
                 "endTime": "2025-03-21T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 43,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 80
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,80?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/fog/rain,80?size=medium",
                 "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog between 7pm and 10pm, then areas of fog and a chance of rain between 10pm and 4am, then rain and areas of fog. Cloudy, with a low around 43. Southeast wind 5 to 8 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Areas of fog before midnight, then areas of fog and a chance of rain between midnight and 4am, then rain and areas of fog. Cloudy, with a low around 43. Southeast wind around 7 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-03-21T06:00:00-04:00",
+                "endTime": "2025-03-21T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "3 to 17 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,20?size=medium",
+                "shortForecast": "Light Rain Likely then Patchy Fog",
+                "detailedForecast": "Rain likely and patchy fog before 11am, then patchy fog and a slight chance of rain between 11am and 1pm. Mostly cloudy, with a high near 49. Northwest wind 3 to 17 mph, with gusts as high as 31 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As afternoon wanes in Boston, the sky adopts a brooding demeanor, cloaked in a veil of clouds that leaves the city shrouded in soft, muted hues. There's a gentle warmth in the air, a hint of spring softness that invites you to linger outside while it lasts. Yet, the promise of evening looms ahead, ushering in the prospect of fog and rain, perfect companions for those moments when the bustle of daily life gives way to a quieter, contemplative pace.\n\nFor the evening's embrace, one might consider dressing in layers\u2014a light jacket can offer comfort from the cool breath of the southeast wind, while a scarf might catch the wisps of mystery that the fog brings. As twilight beckons, adventures could unfold in the cozy interiors of local cafes or the warm embrace of bookstores, where the essence of rain pattering softly on windows sets the perfect backdrop for a few quiet hours spent in good company or with a book that transports you elsewhere. Though the day may fade into clouds and gentle rainfall, find solace in the moments that this earthy weather invites, creating a symphony of your own among the muted brilliance of Boston\u2019s landscape.",
-    "color_code": "#A2B2C8",
-    "timestamp": "2025-03-20 16:07:20"
+    "weather_report": "As the night unfolds over Boston, a persistent cloak of fog shrouds the city in its cool embrace, weaving through the streets and alleys before giving way to the gentle promise of rain. The air\u2014fresh yet tinged with moisture\u2014brushes against your skin, whispering secrets of the night ahead. As the clock ticks towards midnight, expect this fog to thicken, carrying with it the rhythmic patter of raindrops, a soothing lullaby that lingers in the air well into the early hours. Temperatures dip to a chilly 43 degrees, and while the night may feel damp, a light layer will shield you from the wind\u2019s subtle bites.\n\nAs dawn breaks on Friday, the fog may yet hold tight, teasing glimpses of clarity as the sun struggles to break through. Expect patchy fog to linger, mingling with the scattered remnants of rain, which may sprinkle down sporadically throughout the morning. The day promises to be cloudy, with a high shy of 50 degrees. The gusts from the northwest will playfully tug at your attire, reminding you to bundle up\u2014perhaps a cozy sweater layered beneath a water-resistant jacket would suffice. With the city dressed in subdued hues, consider venturing to a quiet caf\u00e9, where the steam from your drink mirrors the soft clouds outside. It\u2019s a day for reflective moments, perhaps a gentle stroll along the Charles, taking in the muted beauty of a Boston morning where the promise of renewal whispers through the damp air.",
+    "color_code": "#7F7F7F",
+    "timestamp": "2025-03-20 20:29:15"
 }
