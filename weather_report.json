@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-21T18:53:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 47.249895431357,
+            "timestamp": "2025-03-21T22:53:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 33.751842232069,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Cloudy"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-21T16:00:00-04:00",
-                "endTime": "2025-03-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 46. Northwest wind around 16 mph, with gusts as high as 31 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-21T18:00:00-04:00",
+                "startTime": "2025-03-21T19:00:00-04:00",
                 "endTime": "2025-03-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 35,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "6 to 15 mph",
+                "windSpeed": "6 to 14 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 35. West wind 6 to 15 mph, with gusts as high as 29 mph."
+                "detailedForecast": "Mostly clear, with a low around 35. West wind 6 to 14 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-03-22T06:00:00-04:00",
+                "endTime": "2025-03-22T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 59. Southwest wind 6 to 14 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the sun approaches the horizon, Boston wears a cloak of crisp clarity, adorned with clouds that dance lazily across a sky of deep, faded blue. This afternoon, our fair city basks in a delightful symphony of mild temperatures and the playful, but brisk, embrace of the northwest wind. The air carries a hint of awakening\u2014after a chill, the warmth of spring is inching its way in, though it's not without a certain bite that reminds us winter lingers in Boston\u2019s heart.\n\nTonight beckons with promises of serenity as the stars prepare to unveil themselves against a backdrop of mostly clear skies. With a gentle west wind that whispers sweet nothings, it invites evening strolls or quiet moments on the balcony, perhaps while listening to the hum of the city settling in for the night. As you navigate the streets, consider donning layers\u2014perhaps a lightweight sweater paired with a sturdy jacket, so you can fully embrace the evening's tranquility without the chill nipping at your heels.\n\nIn this temperate interlude, the city is ripe for casual explorations. A visit to a local caf\u00e9 could be the perfect way to engage with neighbors in this evolving season, or perhaps a leisurely walk along the waterfront, where the reflections of softening daylight ripple gently on the surface. Whichever path you choose, the rhythmic pulse of life in Boston awaits your presence.",
-    "color_code": "#A8C8EC",
-    "timestamp": "2025-03-21 16:09:36"
+    "weather_report": "As the night settles over Boston, a gentle clarity envelops the city, with clouds dissipating and the stars beginning to dot the sky like scattered talismans. The evening is cool but not cold, a refreshing breath of spring lingering in the air. The west wind whispers through the streets, stirring up a playful chill that hints at warmer days ahead. Though the current hour is marked by darkness, the conditions are quite pleasant, inviting those with a taste for the outdoors to savor a late-night stroll along the waterfront or through the quiet corners of a city slowly unwinding.\n\nLooking to tomorrow, the promise of a sunny Saturday awaits, where the sun will rise bright and bold, casting a golden glow over the landscape. With temperatures set to reach the mild upper fifties, it will be a day to embrace the outdoors, perhaps visiting one of Boston\u2019s myriad parks or sipping coffee at a sidewalk caf\u00e9. Light layers will serve you well, a simple sweater or jacket against the gentle breeze, allowing you to bask in the spring warmth without succumbing to an overbearing chill. Whether seeking solitude or companionship, tomorrow will offer a delightful tableau, perfect for quiet reflection or thoughtful conversation as life resumes its lively rhythm.",
+    "color_code": "#C2D1E4",
+    "timestamp": "2025-03-21 20:28:30"
 }
