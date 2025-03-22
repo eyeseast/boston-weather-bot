@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-22T02:53:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 31.560388208751,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 290,
+            "timestamp": "2025-03-22T10:53:00+00:00",
+            "temperature_f": 35.96,
+            "temperature_c": 2.2,
+            "humidity": 45.78105124815,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 220,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-22T00:00:00-04:00",
-                "endTime": "2025-03-22T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 35,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 to 9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 35. West wind 6 to 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-03-22T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-03-22T08:00:00-04:00",
                 "endTime": "2025-03-22T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 59,
+                "temperature": 60,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "6 to 14 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 59. Southwest wind 6 to 14 mph, with gusts as high as 25 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 60. Southwest wind 6 to 14 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-22T18:00:00-04:00",
+                "endTime": "2025-03-23T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 28,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 28. West wind around 13 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "As midnight unfurls across the quiet city of Boston, a crisp clarity blankets the landscape, with the temperature settling gently around 35 degrees. A soft west wind whispers through the streets, stirring an early promise of a calm and inviting day ahead. The moonlight casts a serene glow on the urban panorama, hinting at the warmth that will soon beckon as dawn breaks.\n\nOn Saturday, the skies will awaken with a brilliant sun, coaxing the temperature to rise toward a pleasant 59 degrees. The southwest wind, playful and determined, will whip through the trees and across the Common, perhaps gusting boldly to remind us that spring is in its tentative grasp yet still followed by the cool breath of winter. It\u2019s a day that invites exploration, making it ideal for a leisurely stroll through the historic streets, where the vibrant hues of the city come alive under the radiance of sunlight. Those venturing outside should dress in layers\u2014perhaps a lightweight sweater over a shirt, accompanied by comfortable jeans and a light scarf to ward off the chill in the early hours. As the day unfolds, the cheerful brightness will reveal itself to be a beautiful backdrop for an afternoon spent in the parks, perhaps on a bench with a good book or sharing conversation with a friend.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-03-22 00:07:45"
+    "weather_report": "As dawn breaks over Boston, the sky unfurls its cerulean canvas, presenting a scene that invites the heart into the cool embrace of a March day. There is a promise of brightness, the sort that brushes the landscape with clarity and invites wanderers into the world beyond their windows. With temperatures poised near sixty, the air carries a gentle warmth, stirred by southwest winds that playfully weave through the streets, whispering secrets of spring\u2019s approach. The moment, still young, hints at the fulfillment of longed-for adventures, as the bright horizon beckons toward leisurely strolls along the Charles River or casual gatherings in local caf\u00e9s.\n\nAs night settles, a cool reprieve will descend, tempering the day with a low around twenty-eight. The west winds will dance among the trees, creating an atmosphere perfect for cozy layers. So, as you embrace the midday sun, consider donning a light sweater, perhaps with a scarf to wrap yourself in if you linger outdoors as evening creeps in. The natural world reawakens, inviting the observant to enjoy a walk, explore the blooming parks, or simply reflect under the vast sky, taking in the tapestry of late winter and early spring. Today\u2019s beauty offers not just a visual delight but a moment to savor in the rhythm of life that flows through this vibrant city.",
+    "color_code": "#A7C6ED",
+    "timestamp": "2025-03-22 08:09:45"
 }
