@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-24T09:53:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 69.058867777488,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-03-24T12:53:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 66.864121260669,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 180,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-03-24T08:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-24T12:00:00-04:00",
                 "endTime": "2025-03-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 47,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "6 to 12 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,90/snow_fzra,100?size=medium",
-                "shortForecast": "Rain And Snow",
-                "detailedForecast": "A chance of rain before 10am, then rain and snow between 10am and 1pm, then a chance of sleet and a chance of freezing rain and patchy fog and rain and snow. Cloudy, with a high near 47. Southeast wind 6 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "windSpeed": "10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,100?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers before 1pm, then rain showers and patchy fog. Cloudy, with a high near 47. South wind around 10 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-03-24T18:00:00-04:00",
                 "endTime": "2025-03-25T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 38,
+                "temperature": 37,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 80
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50/bkn?size=medium",
-                "shortForecast": "Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain before 8pm, then patchy fog between 9pm and 10pm. Mostly cloudy, with a low around 38. Southwest wind around 7 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,80/bkn?size=medium",
+                "shortForecast": "Rain Showers then Mostly Cloudy",
+                "detailedForecast": "Rain showers before 7pm, then a chance of rain showers and patchy fog between 7pm and 10pm. Mostly cloudy, with a low around 37. Southwest wind around 7 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a muted gray veil cloaks the city, shrouding its familiar skyline with a somber yet atmospheric elegance. The air hangs heavy with anticipation as rain begins to intermingle with the promise of snow, creating a tableau that is as whimsical as it is wintry. It would seem that the clouds have collectively conspired to deliver a day filled with a heady mix of precipitation and fog, leaving a chilly embrace around those brave enough to venture outdoors. The temperature is poised to hover near a mild 47 degrees, while gusty southeast winds flirt with the harried umbrellas of passersby.\n\nAs the day evolves into a symphony of moisture, one might consider donning layered attire\u2014perhaps a light waterproof jacket over a cozy sweater, paired with sensible boots to navigate the slick terrain. Outdoor plans may be best kept subdued, leaning towards inviting warmth found in a corner caf\u00e9, where the rich aroma of coffee lies in delightful contrast to the dampness outside. Here, one may pause to sip a steaming cup while watching the world blur past through a foggy window, savoring the hidden stories of those huddled against the weather. As evening descends, the fog may gradually lift, offering fleeting glimpses of clearer skies, but remain prepared for the remnants of rain and chilly breezes as night wraps its quiet embrace around the city.",
-    "color_code": "#A9B1B7",
-    "timestamp": "2025-03-24 08:12:11"
+    "weather_report": "As the afternoon unfolds in Boston, a tapestry of clouds blankets the sky, laden with moisture that hints at ongoing rain showers. The landscape exists in a muted palette of grays, lending a wistful quality to the day, as fog gradually wraps its tendrils around the city, creating a veil over familiar sights. With a touch of South wind whispering through, the air carries the promise of warmth, yet it is tempered by the chill that a high of 47 brings. A steady rhythm of raindrops patters against rooftops, weaving a soothing soundtrack amidst the evening's approach.\n\nAs we descend into the twilight hours, the rain persists, perhaps lightening to a soft drizzle as the clock edges toward 7 PM. The low hovering around 37 will coax you into warmer layers\u2014a cozy sweater or perhaps a light jacket, ideal for navigating the damp streets that glisten under a shroud of fog. Even though outdoor adventures might be best saved for brighter times, the allure of a snug caf\u00e9, with the aroma of freshly brewed coffee wafting through the air, beckons warmly. Here, the world can drift by as you watch, wrapped in your own warm cocoon, listening to the soft chatter and the gentle sound of rain outside, marking a day caught in liminal moments.",
+    "color_code": "#A6A9AD",
+    "timestamp": "2025-03-24 12:08:24"
 }
