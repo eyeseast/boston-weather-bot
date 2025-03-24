@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-23T14:53:00+00:00",
-            "temperature_f": 37.04,
-            "temperature_c": 2.8,
-            "humidity": 26.960905699575,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2025-03-23T22:53:00+00:00",
+            "temperature_f": 42.08,
+            "temperature_c": 5.6,
+            "humidity": 21.091595532532,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 310,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-23T12:00:00-04:00",
-                "endTime": "2025-03-23T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "13 to 16 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 44. Northwest wind 13 to 16 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-23T18:00:00-04:00",
+                "startTime": "2025-03-23T20:00:00-04:00",
                 "endTime": "2025-03-24T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 32,
+                "temperature": 29,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 10 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 32. Northwest wind 3 to 10 mph."
+                "detailedForecast": "Partly cloudy, with a low around 29. Northwest wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-03-24T06:00:00-04:00",
+                "endTime": "2025-03-24T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/snow,90/snow,100?size=medium",
+                "shortForecast": "Slight Chance Light Snow then Patchy Fog",
+                "detailedForecast": "A slight chance of snow between 8am and 9am, then a chance of snow and patchy fog between 9am and 10am, then patchy fog and rain and snow. Cloudy, with a high near 42. Southeast wind 6 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, the sun generously bathes the city in its golden glow, a refreshing respite from the lingering chill of winter. The temperatures hover around a modest 44 degrees, but a brisk northwest wind weaves through the streets, nudging the last remnants of frost from the air. This clear day invites an ambivalence of feelings\u2014thrilling for those yearning for the rekindling warmth of spring, yet a stark reminder that warmth is still a fleeting promise rather than an established reality. \n\nTonight shifts gently towards a muted tranquility, with a low dipping to a cool 32 degrees, as partly cloudy skies settle in. The wind will ease its intensity, offering a gentler caress, perfect for quiet moments spent outdoors\u2014perhaps over a warm cup of coffee or a leisurely stroll along the charmed streets of Beacon Hill, where the wrought iron railings and cobblestone pathways quietly absorb the day's warmth. Dress in layers to harmonize with nature's ebb and flow: a cozy sweater beneath a sturdy jacket will balance the day's sun and evening chill, while comfortable shoes will carry you to your desired rhythm amidst the unfolding evening. Engage in familiar routines, whether it be an intimate dinner at a neighborhood caf\u00e9 or an impromptu catch-up with an old friend.",
-    "color_code": "#A5C7E0",
-    "timestamp": "2025-03-23 12:06:46"
+    "weather_report": "As the night settles over Boston, a quiet chill lingers in the air, underscored by the soft glow of city lights peeking through the dark. With temperatures dipping to a modest low, the scene invites a reflective solitude, perfect for those tucked warmly in their homes or bundled up for an evening stroll. The wind brushes against the skin, gently urging a reminder of winter\u2019s lingering grip, though there\u2019s promise of change on the horizon.\n\nLooking ahead to Monday, the atmosphere hints at a rather unsettled day filled with a tapestry of weather conditions. Morning hours bring the possibility of snow intermingling with patches of fog, cloaking the city in a delicate mystery. By afternoon, expect a thick embrace of clouds with a blend of rain and snow, as the southeast breeze stirs up energy, adding a touch of drama to the otherwise muted palette of nature. Given these conditions, it would be wise to don layers\u2014a warm coat, scarf, and perhaps even waterproof boots. It\u2019s a day that beckons for quiet joys, like the comfort of a caf\u00e9, a collection of books, or a leisurely conversation with a friend, as the world outside transforms under the weight of moisture and fog.",
+    "color_code": "#404040",
+    "timestamp": "2025-03-23 20:30:51"
 }
