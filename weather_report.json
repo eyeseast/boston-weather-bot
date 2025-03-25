@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-24T16:53:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 85.680483315611,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 150,
-            "description": "Light Rain"
+            "timestamp": "2025-03-24T22:53:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 88.858482392758,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 120,
+            "description": "Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-24T16:00:00-04:00",
-                "endTime": "2025-03-24T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy, with a high near 42. South wind around 9 mph, with gusts as high as 21 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-24T18:00:00-04:00",
+                "startTime": "2025-03-24T20:00:00-04:00",
                 "endTime": "2025-03-25T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": null
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,80/bkn?size=medium",
-                "shortForecast": "Light Rain then Mostly Cloudy",
-                "detailedForecast": "Rain before 8pm. Mostly cloudy, with a low around 37. Southwest wind around 7 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Areas of fog. Mostly cloudy, with a low around 37. Southwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-03-25T06:00:00-04:00",
+                "endTime": "2025-03-25T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
+                "shortForecast": "Areas Of Fog then Mostly Sunny",
+                "detailedForecast": "Areas of fog before 8am. Mostly sunny, with a high near 53. West wind 6 to 12 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, a dense veil of rain envelops the city, painting the surroundings in muted tones. The cloud cover hangs heavy, interspersed with gusts that dance through the air, as if teasing the droplets falling steadily from the slate-gray sky. With a high temperature hovering close to forty-two, the chill infiltrates even the coziest attire, demanding layers to ward off the dampness. As the day wanes and evening approaches, rain will taper off, but an air of melancholy will remain, with temperatures dipping into the chilly mid-thirties.\n\nDress wisely for these uninviting conditions; a warm, waterproof jacket will provide much-needed insulation and protection against the lingering dampness, complemented by a cozy scarf and sensible footwear to navigate the puddles. While outdoor excursions may not be the most appealing prospect, consider retreating into the embrace of an intimate caf\u00e9 or a local bookstore, where the scent of fresh coffee mingles comfortably with the pages of well-loved tomes. Alternatively, a quiet afternoon spent enjoying the rhythm of rainfall on windowpanes offers a serendipitous opportunity for contemplation or creative endeavors, making this day an invitation to pause and reflect.",
-    "color_code": "#AFAFAF",
-    "timestamp": "2025-03-24 16:07:22"
+    "weather_report": "As the evening draws near, Boston dons its cloak of fog, the ethereal veil that softens the sharp edges of the bustling city. Currently, the air is cool, hovering near the brisk 37 degrees\u2014the kind of chill that whispers of winter\u2019s lingering breath, even though spring is at the doorstep. A gentle southwest wind rustles the trees, offering a soothing, rhythmic lullaby, while the cloudy expanse above wraps the town in a muted embrace. The interplay of fog and soft cloud cover transforms familiar landmarks into shadows, inviting a contemplative stroll along the quieter streets.\n\nLooking toward the morrow, the fog will ebb, allowing the sun to break through with a promise of mostly sunny skies. The temperature will rise toward a moderate high of around 53 degrees, making it an ideal day for casual errands or light outdoor pursuits. As you step into the brightness, consider layers\u2014perhaps a cozy sweater beneath a light jacket, perfect for transitioning from the cool morning to the gentle warmth of the afternoon. A path through one of Boston\u2019s scenic parks beckons, favoring a leisurely walk or a quiet moment by the water\u2019s edge, where the city's heartbeat slows, inviting you to savor the serenity before life resumes its hurried pace.",
+    "color_code": "#4B9CD3",
+    "timestamp": "2025-03-24 20:29:56"
 }
