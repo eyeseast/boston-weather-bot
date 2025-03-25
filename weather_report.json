@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-25T06:53:00+00:00",
-            "temperature_f": 35.96,
-            "temperature_c": 2.2,
-            "humidity": 89.16280483489,
+            "timestamp": "2025-03-25T11:17:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 88.477151746126,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-25T04:00:00-04:00",
-                "endTime": "2025-03-25T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 35,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 35. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-03-25T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-03-25T08:00:00-04:00",
                 "endTime": "2025-03-25T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "6 to 13 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 53. West wind 6 to 12 mph."
+                "detailedForecast": "Partly sunny, with a high near 53. West wind 6 to 13 mph, with gusts as high as 24 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-25T18:00:00-04:00",
+                "endTime": "2025-03-26T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 35,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 35. Southwest wind 5 to 8 mph."
             }
         ]
     },
-    "weather_report": "As Boston awakens from the night\u2019s embrace, a curtain of clouds lingers, casting a muted tone over the early hours. With temperatures resting atop a chilly 35 degrees, the air carries a crispness, hinting at the lingering vestiges of winter. The gentle sway of the west wind, whispering through the nooks and corners of the city, speaks of the day to come\u2014a promise of the sun\u2019s warmth filtered through patches of scattered clouds.\n\nAs Tuesday unfolds, the sky is set to reveal its more amiable side. The day will gradually brighten, adorned with bursts of sunlight that coax the temperature to a comfortable 53 degrees. With the breeze at a mild 6 to 12 mph, it\u2019s a day when light layers are your best ally; a cozy sweater coupled with a light jacket will allow one to navigate the shifting temperatures of this early spring day comfortably. \n\nOne might find pleasure in a leisurely stroll along the Charles, beneath the burgeoning buds of trees coming alive with the season. Alternatively, a visit to a local caf\u00e9, where the aroma of fresh brews and baked goods wafts through the air, could serve as the perfect haven from the coolness of the morning. Whether wandering through the streets adorned with history or savoring a moment of repose with a beloved book, today unfolds as an invitation to embrace simplicity and connect with the city\u2019s heart as it transitions into spring.",
-    "color_code": "#A3B1D5",
-    "timestamp": "2025-03-25 04:09:09"
+    "weather_report": "In Boston, the morning air carries a crispness that speaks to the lingering chill of late March. A gentle west wind rustles through the streets, making the promise of a partly sunny day all the more inviting. As the sun gradually ascends, it clears away the remnants of fog, revealing a serene skyline that glimmers beneath smiling blue skies. With temperatures expected to climb toward a mild 53 degrees, it beckons you to shed the heavy layers of winter, while still holding onto a light jacket for the evening coolness.\n\nAs the day unfolds, it offers the kind of clarity that encourages leisurely strolls along the Charles; perhaps you might pause for a moment to watch the reflections dance on the water\u2019s surface. The breezy conditions might inspire a casual bike ride or a visit to one of the inviting caf\u00e9s dotting the neighborhood, where you can sip a warm beverage while watching the world pass by. In the spirit of embracing the day\u2019s charm, opt for layers that can adapt with you\u2014perhaps a soft sweater paired with a lighter coat, complemented with comfortable shoes to fully savor this delightful spring day.",
+    "color_code": "#A2C1D8",
+    "timestamp": "2025-03-25 08:11:24"
 }
