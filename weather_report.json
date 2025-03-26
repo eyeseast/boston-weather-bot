@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-26T06:53:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 85.061084990212,
+            "timestamp": "2025-03-26T09:53:00+00:00",
+            "temperature_f": 35.06,
+            "temperature_c": 1.7,
+            "humidity": 81.663801872323,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-03-26T04:00:00-04:00",
-                "endTime": "2025-03-26T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 35,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 35. Northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-03-26T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-03-26T08:00:00-04:00",
                 "endTime": "2025-03-26T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "2 to 9 mph",
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,30?size=medium",
+                "shortForecast": "Partly Sunny then Chance Light Rain",
+                "detailedForecast": "A chance of rain after 1pm. Partly sunny, with a high near 49. Northwest wind 2 to 7 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-03-26T18:00:00-04:00",
+                "endTime": "2025-03-27T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "8 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 8am. Mostly cloudy, with a high near 49. West wind 2 to 9 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/rain,30/sct?size=medium",
+                "shortForecast": "Chance Light Rain then Partly Cloudy",
+                "detailedForecast": "A chance of rain before 9pm. Partly cloudy, with a low around 33. West wind around 8 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the dawn breaks over Boston, a cloak of cloud lingers in the cool air, casting a muted palette upon the city. The temperature hovers near the edge of chilly, beckoning you to wrap yourself in a cozy layer as the northwest winds whisper gently through the trees. It\u2019s a night where warmth and comfort take precedence, inviting you to snuggle under a wool scarf and perhaps pull on your favorite knit hat before venturing outside.\n\nThe day ahead promises a mix of clouds and a hint of impending rain, as soft raindrops may dance upon the streets after morning light. Expect a high that nudges toward coolness, reminding you that spring is still hesitant to fully arrive. It\u2019s a day best suited for subdued but lively endeavors\u2014perhaps a stroll through the galleries nestled in SoWa or a leisurely coffee at a corner caf\u00e9 where the scent of baked goods mingles with the hum of conversation. A light jacket and comfortable shoes will suit you well in this urban landscape, as you navigate the cloudy but characterful Boston streets. Embrace the serenity of the day and let the gentle chill inspire you to take a moment to pause\u2014perhaps plan a cozy read or a warm drink waiting at home.",
-    "color_code": "#7B9A8E",
-    "timestamp": "2025-03-26 04:09:06"
+    "weather_report": "In Boston today, the sky offers a juxtaposition of fleeting sunshine and looming clouds, setting a tranquil yet uncertain mood as the day progresses. A gentle, cool breeze hugs the city, with temperatures nudging their way towards 49 degrees. As the afternoon unfolds, the whisper of rain might tease the air, floating in around 1 PM\u2014a fitting accompaniment to the day\u2019s partly sunny disposition. Tonight, anticipate a mild retreat into partly cloudy skies, dipping down to around 33 degrees, while the chance of rain lingers slightly before 9 PM, a reminder of nature's unpredictability.\n\nAs you venture outdoors in this delicate balance between coolness and potential rain, consider layering your attire\u2014perhaps a light jacket paired with long sleeves is most prudent, offering comfort against the chill while being prepared for the possibility of a damp evening. While the forecast may hint at wetness, the allure of the day still beckons. A leisurely stroll through nearby gardens or a quiet visit to a local caf\u00e9, embracing the warmth of a hot beverage as clouds amble above, could provide a peaceful respite from the mundane. Embrace this moment, crafting your own encapsulation of tranquility amidst the shifting skies.",
+    "color_code": "#A3B6D6",
+    "timestamp": "2025-03-26 08:11:25"
 }
