@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-26T09:53:00+00:00",
-            "temperature_f": 35.06,
-            "temperature_c": 1.7,
-            "humidity": 81.663801872323,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "timestamp": "2025-03-26T18:53:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 30.736702203206,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-03-26T08:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-26T16:00:00-04:00",
                 "endTime": "2025-03-26T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,30?size=medium",
-                "shortForecast": "Partly Sunny then Chance Light Rain",
-                "detailedForecast": "A chance of rain after 1pm. Partly sunny, with a high near 49. Northwest wind 2 to 7 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 5pm. Partly sunny, with a high near 49. Northwest wind around 6 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30/sct?size=medium",
-                "shortForecast": "Chance Light Rain then Partly Cloudy",
-                "detailedForecast": "A chance of rain before 9pm. Partly cloudy, with a low around 33. West wind around 8 mph. Chance of precipitation is 30%."
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/sct?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
+                "detailedForecast": "A slight chance of rain showers before 10pm. Partly cloudy, with a low around 33. Northwest wind around 8 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Boston today, the sky offers a juxtaposition of fleeting sunshine and looming clouds, setting a tranquil yet uncertain mood as the day progresses. A gentle, cool breeze hugs the city, with temperatures nudging their way towards 49 degrees. As the afternoon unfolds, the whisper of rain might tease the air, floating in around 1 PM\u2014a fitting accompaniment to the day\u2019s partly sunny disposition. Tonight, anticipate a mild retreat into partly cloudy skies, dipping down to around 33 degrees, while the chance of rain lingers slightly before 9 PM, a reminder of nature's unpredictability.\n\nAs you venture outdoors in this delicate balance between coolness and potential rain, consider layering your attire\u2014perhaps a light jacket paired with long sleeves is most prudent, offering comfort against the chill while being prepared for the possibility of a damp evening. While the forecast may hint at wetness, the allure of the day still beckons. A leisurely stroll through nearby gardens or a quiet visit to a local caf\u00e9, embracing the warmth of a hot beverage as clouds amble above, could provide a peaceful respite from the mundane. Embrace this moment, crafting your own encapsulation of tranquility amidst the shifting skies.",
-    "color_code": "#A3B6D6",
-    "timestamp": "2025-03-26 08:11:25"
+    "weather_report": "In Boston, as evening approaches, the city is softly draped in a mantle of muted light, with layers of clouds casting gentle shadows upon the neighborhoods below. This afternoon\u2019s warmth barely reaches 49 degrees, attended by a crisp northwest breeze that brings a reminder of the lingering chill of early spring. While the sun teases from behind a gauzy veil of gray, the forecast hints at a possibility of rain showers after 5 PM, creating a subtle tension in the air; the chance is modest, yet one can sense the dance of weather in the backdrop of urban life.\n\nAs nightfall sweeps in, the temperature will descend to around 33 degrees, prompting thoughtful choices in attire. A warm jacket, perhaps layered over a light sweater, would suffice to combat the encroaching coolness, while a sturdy umbrella might find a place in your hand just in case the sky weeps. The ambience, tinged with both the promise of gentle rain and the clarity of crisp air, invites a leisurely evening stroll through the quiet streets or perhaps a visit to a cozy caf\u00e9 where steaming mugs of tea or coffee await, perfect companions for contemplation on this softly dramatic day.",
+    "color_code": "#A9B1C4",
+    "timestamp": "2025-03-26 16:07:29"
 }
