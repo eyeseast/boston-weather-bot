@@ -7,33 +7,33 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-29T09:53:00+00:00",
-            "temperature_f": 44.06,
-            "temperature_c": 6.7,
-            "humidity": 78.920027625265,
+            "timestamp": "2025-03-29T19:19:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 85.441682739594,
             "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 10,
-            "description": "Cloudy"
+            "wind_direction": 40,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-03-29T08:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-03-29T16:00:00-04:00",
                 "endTime": "2025-03-29T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 38,
+                "temperature": 39,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 30
                 },
-                "windSpeed": "12 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,50?size=medium",
-                "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog and a chance of rain showers before 3pm, then areas of fog and a chance of rain showers and patchy drizzle. Cloudy, with a high near 38. Northeast wind around 12 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain and patchy fog. Cloudy, with a high near 39. Northeast wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 60
                 },
-                "windSpeed": "9 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,60?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely and areas of fog and patchy drizzle before 1am, then areas of fog and a chance of rain showers and patchy drizzle. Cloudy, with a low around 35. East wind around 9 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,60/rain,50?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely and patchy fog before 2am, then patchy fog and a slight chance of rain. Cloudy, with a low around 35. East wind 6 to 9 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston, this morning unfurls beneath a heavy veil of gray, where the air hangs thick with the possibility of moisture\u2014a foggy embrace that dances with the threat of rain showers. As the day unfolds, the chilly breath of a northeast wind whispers through the streets, while the temperature lingers uncomfortably near thirty-eight degrees. Layers will be essential today: a warm coat draped over a sweater, perhaps a light scarf to protect against the dampness that seeps through the fog. \n\nAs the day wears on into evening, the chances of rain increase, promising to drench the streets with new water. There remains an allure to this drizzly landscape, inviting contemplative strolls under an umbrella or quiet moments spent in cozy cafes, where the steam from a hot cup of coffee can rise to meet the chill that cloaks the city. Those with an appetite for nature might find solace in a brisk walk, listening to the soft patter of moisture against the pavement, relishing the tranquil ambiance that this weather often brings. Boston\u2019s charm persists, even on these drearier days, waiting for those willing to embrace its quieter side.",
-    "color_code": "#A2B9D3",
-    "timestamp": "2025-03-29 08:09:51"
+    "weather_report": "In the heart of Boston, a curtain of fog shrouds the day, painting the skyline in muted greys as rain whispers its presence. The atmosphere is thick with the promise of moisture, and for those wandering this chilly afternoon, a compelling sense of coziness awaits indoors. With temperatures hovering near the cool 39 degrees, it might be wise to don layers\u2014a soft sweater beneath a waterproof jacket would provide warmth while keeping the elements at bay. \n\nAs dusk approaches, the likelihood of rain escalates, accompanied by subduing patches of fog that lend an almost melancholic charm to the streets. Evening strolls may be best replaced with the comfort of a favorite caf\u00e9, where lingering over a warm drink becomes an act of gentle defiance against the chilly embrace of the day. So venture forth, but find solace in sheltered spaces, and allow the quiet drama of the weather to envelop your evening in a serene yet invigorating ambiance.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2025-03-29 16:06:23"
 }
