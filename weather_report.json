@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-28T18:53:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 17.663775831873,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 240,
-            "description": "Clear"
+            "timestamp": "2025-03-28T22:53:00+00:00",
+            "temperature_f": 57.92,
+            "temperature_c": 14.4,
+            "humidity": null,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 290,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-28T16:00:00-04:00",
-                "endTime": "2025-03-28T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 58. West wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-28T18:00:00-04:00",
+                "startTime": "2025-03-28T20:00:00-04:00",
                 "endTime": "2025-03-29T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 39,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 60
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,60/rain_showers,80?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers between 9pm and 4am, then rain showers likely and patchy drizzle between 4am and 5am, then rain showers likely and patchy drizzle and patchy fog. Cloudy, with a low around 39. Southeast wind 2 to 6 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,30/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely between 11pm and 5am, then rain likely and patchy drizzle and patchy fog. Cloudy, with a low around 39. Southeast wind around 5 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-03-29T06:00:00-04:00",
+                "endTime": "2025-03-29T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,60/rain,50?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely and patchy drizzle and patchy fog. Cloudy, with a high near 43. Northeast wind 6 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the sun hangs low in the afternoon sky above Boston, a gentle breeze stirs the air, carrying with it the promise of cooler times ahead. The clouds drift lazily, casting a muted light over the city, as temperatures settle near 58 degrees. The west wind whispers like an old friend, making the outdoors feel just brisk enough to remind us of the fleeting warmth of spring. As the day wanes, dark clouds gather their strength, hinting at the rain showers that will soon dance across the rooftops and cobblestones, ushering in a night filled with drizzles and the lingering touch of fog.\n\nFor those venturing outdoors, a sweater or light jacket would serve well against the chill to come, especially as evening approaches and the thermometer dips toward that cool threshold. For the more intrepid souls, consider seeking refuge in a cozy caf\u00e9, where the rich scents of freshly brewed coffee intertwine with the muffled sounds of rain tapping against the window, creating a perfect backdrop for quiet contemplation or an engaging read. It\u2019s an evening to savor the simple pleasures, perhaps indulging in a warm pastry while the city is wrapped in the embrace of a gentle fog, blurring the edges of the vibrant urban landscape into something almost dreamlike.",
-    "color_code": "#A3B6C8",
-    "timestamp": "2025-03-28 16:07:21"
+    "weather_report": "As the evening settles over Boston, a blanket of clouds wraps the city in shadows\u2014an epitome of early spring\u2019s unpredictable charm. Rain is expected to descend gently throughout the night, interspersed with a hushed drizzle, mingling with patchy fog that will undoubtedly soften the edges of familiar sights. The wind whispers from the southeast, adding a slight chill to the already crisp air, creating an ambiance that speaks of cozy indoor pursuits rather than outdoor adventures. With temperatures tumbling to around 39, the chill may cling to your skin, so layering may be wise\u2014a comfortable sweater, perhaps, paired with a light waterproof jacket to guard against the night\u2019s dampness. \n\nTomorrow paints a similar picture, as the day dawns cloudy and damp, with a high lingering around 43. The frequent promise of rain lingers like an old tune, hinting at moments best spent indoors. A stroll through one of Boston\u2019s historic coffee houses might just be the perfect remedy\u2014a chance to savor warmth in a steaming cup while gazing out at the mists enveloping the streets. Alternatively, one could find solace in the pages of a good book at home, the sound of rain tapping against the windows providing the perfect soundtrack. In these soft, muted hours, let the promise of warmer days ahead rest easy in your mind, and savor tonight\u2019s embrace of nature\u2019s more melancholic moods.",
+    "color_code": "#4A4E6D",
+    "timestamp": "2025-03-28 20:29:13"
 }
