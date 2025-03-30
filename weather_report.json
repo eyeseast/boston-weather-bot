@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-29T22:31:00+00:00",
+            "timestamp": "2025-03-30T02:53:00+00:00",
             "temperature_f": 37.04,
             "temperature_c": 2.8,
-            "humidity": 81.812485552844,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 70,
+            "humidity": 85.441682739594,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 60,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-03-29T20:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-03-30T00:00:00-04:00",
                 "endTime": "2025-03-30T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 35,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 60
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/rain,60/rain,50?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely and patchy fog before 2am, then patchy fog and a slight chance of rain. Cloudy, with a low around 35. East wind around 8 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,60?size=medium",
+                "shortForecast": "Areas Of Drizzle",
+                "detailedForecast": "Areas of drizzle and areas of fog and a slight chance of rain showers before 2am, then rain showers likely and areas of drizzle and areas of fog between 2am and 5am, then areas of drizzle and areas of fog and a chance of rain showers. Cloudy, with a low around 35. East wind around 7 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-03-30T06:00:00-04:00",
                 "endTime": "2025-03-30T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 44,
+                "temperature": 40,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 80
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/ovc?size=medium",
-                "shortForecast": "Chance Light Rain then Cloudy",
-                "detailedForecast": "A chance of rain and patchy fog before 9am, then patchy fog and a slight chance of rain between 9am and noon. Cloudy, with a high near 44. East wind around 8 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,80/rain_showers,30?size=medium",
+                "shortForecast": "Rain Showers then Areas Of Drizzle",
+                "detailedForecast": "Rain showers and areas of drizzle and areas of fog before 9am, then areas of drizzle and areas of fog and a chance of rain showers. Cloudy, with a high near 40. East wind around 10 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As evening envelops Boston in a cool embrace, the air is laden with the scent of impending rain. The darkness around you is punctuated by the glimmer of city lights fighting against the encroaching fog. An east wind whispers softly through the streets, urging small droplets of rain to make their presence felt. With a temperature hovering near thirty-five degrees, one might find solace in a warm jacket, perhaps layered over a soft sweater, as the night unfurls its damp cloak.\n\nThe forecast for the morrow paints a similar palette of gray. A gentle chance of rain will linger into the morning, mixing with the fog that will cradle the city like an old friend. As the day unfolds, temperatures will creep to a modest forty-four, with a damp chill that may dampen spirits\u2014yet, within this brooding atmosphere lies an opportunity. A stroll along the quieter streets, perhaps stopping in at a cozy caf\u00e9 to sip something warm, could serve as a delightful antidote to the gloom. Embrace the weather not as an adversary, but as an invitation to explore the quieter corners of the city, finding beauty amid the murmurs of raindrops and the hushed conversations of those around you.",
-    "color_code": "#4B4C4F",
-    "timestamp": "2025-03-29 20:32:29"
+    "weather_report": "As the early hours of Sunday unfold, Boston is enveloped in a cloak of fog and drizzle, the city shrouded in a soft haze that lingers in the air like whispered secrets. The temperatures are dipping, lending an unmistakable chill as the night quietly shifts toward morning. The clouds loom overhead, heavy with the promise of rain showers, and a gentle breeze from the east stirs the atmosphere, carrying with it the earthy scent of impending moisture. The dim glow of street lamps competes with the oncoming fog, creating a somewhat ethereal ambiance, yet the daylight remains reluctant, hidden behind layers of gray.\n\nAs dawn breaks and the day progresses, expect the fog to persist, wrapping itself around Boston until the late morning, perfectly mirroring the weather forecast. A frigid high of 40 degrees awaits as rain showers make their predicted appearance, appropriately echoing the mood of this early spring day. Dressing in layers would serve you well; opt for a warm jacket, perhaps knit gloves, and a water-resistant umbrella to keep dry while you traverse the city. The murky conditions might prompt you to take refuge in a cozy caf\u00e9, sipping on something warm, or perhaps meandering through an art gallery, where the vibrancy of colors can contrast beautifully against the muted hues outside. It\u2019s a day best suited for introspection, nurturing oneself against the encroaching chill, while allowing the city\u2019s character to emerge beneath the surface, waiting patiently for the warmth of spring.",
+    "color_code": "#4B4F52",
+    "timestamp": "2025-03-30 00:07:52"
 }
