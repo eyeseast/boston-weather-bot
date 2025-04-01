@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-03-31T14:53:00+00:00",
+            "timestamp": "2025-03-31T23:53:00+00:00",
             "temperature_f": 59.0,
             "temperature_c": 15,
-            "humidity": 83.351127453408,
-            "wind_speed_mph": 37.04472,
+            "humidity": 86.697136399328,
+            "wind_speed_mph": 24.964920000000003,
             "wind_direction": 180,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-03-31T12:00:00-04:00",
-                "endTime": "2025-03-31T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "15 to 18 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 1pm. Cloudy, with a high near 67. Southwest wind 15 to 18 mph, with gusts as high as 31 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-03-31T18:00:00-04:00",
+                "startTime": "2025-03-31T20:00:00-04:00",
                 "endTime": "2025-04-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "12 to 15 mph",
+                "windSpeed": "8 to 13 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,100?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "A chance of rain showers before 9pm, then showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy. Low around 44, with temperatures rising to around 50 overnight. West wind 12 to 15 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra,80/tsra,100?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain likely before 11pm, then rain and a slight chance of thunderstorms. Cloudy. Low around 44, with temperatures rising to around 51 overnight. West wind 8 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-04-01T06:00:00-04:00",
+                "endTime": "2025-04-01T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "12 to 15 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,40/sct?size=medium",
+                "shortForecast": "Chance Light Rain then Mostly Sunny",
+                "detailedForecast": "A chance of rain before 9am. Mostly sunny, with a high near 52. Northwest wind 12 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a soft shroud of clouds envelops the city, subtly hinting at the possibility of rain showers that may drift in after 1 PM. The air is invigorated by a brisk southwest wind, lending a spirited coolness to the high that hovers around 67 degrees. However, there is an aromatic promise of rain lurking, as the clouds thicken and the atmosphere thickens with an impending chance of thunderstorms later tonight. With temperatures expected to dip into the mid-forties, rising slightly overnight, the evening will likely find many seeking shelter under cozy layers as moisture gathers in the air.\n\nGiven these conditions, those venturing out should dress warmly in layers, complementing their attire with waterproof elements to combat the gathering storms. As the skies darken and rain begins to tap softly on rooftops, perhaps it is an ideal time to lose oneself in a cozy caf\u00e9 with a well-worn book, letting the world outside fade into the gentle sound of rain. Alternatively, for those feeling adventurous, a brisk walk under the shadows of historic architecture could invigorate the spirit before the real downpour settles in. Embrace the day\u2019s nuance, for even in the gathering clouds, there lies a serene beauty.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-03-31 12:08:15"
+    "weather_report": "As night envelops Boston, the air is thick with the promise of rain, progressively nudging the city into a damp embrace. Dark clouds hang heavy above, charged with the anticipation of a downpour that seemingly whispers to the trees and streets. The low temperature hints at a chill that penetrates clothing but is coupled with the rising warmth of the evening. Winds stir gently, carrying the earthy scent of impending rainfall, a reminder of nature's rhythms.\n\nAs tomorrow dawns, expect a transition as the rain surrenders to the sun, revealing a fragile warmth beneath the clouds. The day holds a playful mix of sun and scattered clouds, inviting a chance to step into the beauty beyond your door. Given the lingering chill in the air, layering is wise; perhaps a comfortable light jacket over a soft sweater and sturdy shoes would serve you well should you find yourself outdoors. Whether it\u2019s a brisk walk along the harbor or a quiet moment with a book at a cozy caf\u00e9, the city invites you to experience its charm amidst the delicate interplay of weather.",
+    "color_code": "#5c6c7d",
+    "timestamp": "2025-03-31 20:34:16"
 }
