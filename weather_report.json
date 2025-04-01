@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-01T06:53:00+00:00",
-            "temperature_f": 57.02,
-            "temperature_c": 13.9,
-            "humidity": 89.490389141325,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2025-04-01T18:53:00+00:00",
+            "temperature_f": 55.04,
+            "temperature_c": 12.8,
+            "humidity": 32.484481613826,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 320,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-01T04:00:00-04:00",
-                "endTime": "2025-04-01T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 80
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,80?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy. Low around 43, with temperatures rising to around 49 overnight. Northwest wind around 12 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-04-01T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-04-01T16:00:00-04:00",
                 "endTime": "2025-04-01T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": null
                 },
-                "windSpeed": "13 to 16 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/bkn?size=medium",
-                "shortForecast": "Chance Rain Showers then Partly Sunny",
-                "detailedForecast": "A chance of rain showers before 8am. Partly sunny, with a high near 53. Northwest wind 13 to 16 mph, with gusts as high as 29 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 53. Northwest wind around 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-01T18:00:00-04:00",
+                "endTime": "2025-04-02T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 27. Northwest wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "In the dim early hours of this Boston morning, the city is cloaked in the gentle embrace of rain, with clouds hovering low and heavy like a comforting quilt. The air is crisp, with temperatures fluctuating as they rise modestly through the night, offering a cool, brisk embrace. There\u2019s promise of showers tapering off by morning, but the chance still lingers, painting the town in shades of gray. The Northwest wind sighs softly, its gusts hinting at brief, lively moments, but it is the persistent moisture that holds sway, a reminder of spring's erratic temperament.\n\nAs daylight breaks, there remains a curtain of cloud, lending a muted quality to the scenery, though soon the sky will flirt with moments of blue, transforming the day from a dismal outset to a more amiable embrace. Attire should reflect this duality\u2014a light rain jacket over layers may serve one well, with comfortable shoes designed to navigate the dampened streets. For those with an eye for simple pleasures, consider a leisurely stroll through the Boston Common, perhaps stopping for warm coffee at a nearby caf\u00e9, where the aromatic steam contrasts delightfully with the cool, fresh air. By mid-morning, as clouds yield to patches of sun, embrace the day\u2019s potential for quiet exploration\u2014there is magic to be found in the soft glow of a rainy city transitioning into light.",
-    "color_code": "#4B6F8C",
-    "timestamp": "2025-04-01 04:09:27"
+    "weather_report": "As the afternoon sun bathes Boston in a warm, golden hue, the air is brisk yet inviting, with clear skies stretching as far as the eye can see. A Northwest breeze gently sweeps through the streets, creating a refreshing contrast to the soft rays of sunlight that grace the city. With temperatures aiming for a peak near 53, it\u2019s a day that beckons one to step outside and savor the early spring charm. The chill in the evening air will soon arrive, drawing down to a cooler 27 degrees, compelling a cozy retreat as the sun dips below the horizon.\n\nFor those wandering the cobblestone streets of historic Boston, layering is key\u2014perhaps a light sweater under a tailored jacket, complemented by a comfortable scarf to ward off the evening\u2019s cool embrace. This is an opportune moment to indulge in a leisurely walk along the Charles River, where the reflection of the skyline dances upon the water, or to pop into a quaint caf\u00e9 for a warming cup of tea. As the sun sets, the twinkling city lights will begin to emerge, casting a sparkling glow over the charming neighborhoods, providing ample reason to soak in the serene beauty of this picturesque spring day.",
+    "color_code": "#A0C6E7",
+    "timestamp": "2025-04-01 16:07:57"
 }
