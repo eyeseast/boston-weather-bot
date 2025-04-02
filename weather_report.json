@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-02T10:53:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 43.020939297205,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 360,
+            "timestamp": "2025-04-02T18:53:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 36.539946543905,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 80,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-04-02T08:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-04-02T16:00:00-04:00",
                 "endTime": "2025-04-02T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 42,
@@ -30,10 +30,10 @@
                     "value": null
                 },
                 "windSpeed": "8 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 42. Northeast wind around 8 mph."
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 42. East wind around 8 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-04-02T18:00:00-04:00",
                 "endTime": "2025-04-03T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 36,
+                "temperature": 35,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 80
                 },
                 "windSpeed": "9 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40/rain,60?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely after 10pm. Cloudy, with a low around 36. Southeast wind around 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,50/sleet,80?size=medium",
+                "shortForecast": "Sleet Likely",
+                "detailedForecast": "A chance of rain showers between 8pm and 10pm, then a chance of snow showers between 10pm and 11pm, then a chance of rain showers between 11pm and midnight, then sleet likely and rain and snow showers likely between midnight and 2am, then rain showers and a chance of sleet between 2am and 5am, then rain showers likely and patchy fog. Cloudy, with a low around 35. Southeast wind around 9 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "Dawn in Boston greets us with a mellow embrace, the sun shyly arising to cast a gentle light across the city\u2019s skyline. For the moment, the air holds a crisp clarity, though whispers of clouds gather like uninvited guests promising rain later in the day. There\u2019s a lingering chill that brushes against your skin, a reminder to dress warmly as you step into the morning. An ensemble featuring a cozy sweater, perhaps layered with a light jacket, would suit the day\u2019s atmospheric temperament as you traverse the urban tapestry.\n\nAs the hours draw on, anticipation stirs with the forecast hinting at rainfall after nightfall, ushering in a cloudy atmosphere. The prospect of enduring a 60% chance of precipitation looms, yet this should not overshadow the day\u2019s potential. It\u2019s a fine time for an introspective walk through the park, where the trees seem to sway softly, grappling with stillness before the impending rain. Alternatively, consider a quiet afternoon in a local caf\u00e9, savoring each sip of warm coffee while the world outside dances between sunlight and shadows\u2014a perfect backdrop for catching up on a book or simply people-watching as they bustle past under their umbrellas. As the day winds down, remember that the evening promises to carry the scent of wet earth and renewal, a reminder that even the dreariest of days can cloak beauty in their wake.",
-    "color_code": "#A9C4E3",
-    "timestamp": "2025-04-02 08:11:20"
+    "weather_report": "As the afternoon unfolds over Boston, a blanket of clouds drapes the city, heralding a typical New England day where the sun casts a wistful absence. With temperatures hovering just above the chill of winter, the air carries a brisk whisper from the east, inviting a touch of warmth in the attire\u2014perhaps a well-worn sweater beneath a sturdy jacket to fend off that persistent bite. \n\nAs night descends, the sky will awaken with the prospect of rain, transitioning tentatively to snow, and later to sleet, an orchestra of precipitation dancing through the dark. The streets might glisten with a thin sheen of moisture, punctuated by the thickening fog that will soon blanket the landscape. In preparation for these shifting elements, soft, durable footwear may prove prudent for those venturing out. While the evening invites a cozy gathering indoors\u2014perhaps cradling a warm mug of tea and contemplating the comforts of home\u2014there remains an appeal in a brisk stroll through the streets, where the soft glow of streetlights serves as a comforting guide amidst the evening\u2019s dusky embrace.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-04-02 16:07:40"
 }
