@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-02T06:53:00+00:00",
-            "temperature_f": 35.06,
-            "temperature_c": 1.7,
-            "humidity": 36.283443421983,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 350,
+            "timestamp": "2025-04-02T10:53:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 43.020939297205,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 360,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-02T04:00:00-04:00",
-                "endTime": "2025-04-02T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 30. North wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-04-02T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-02T08:00:00-04:00",
                 "endTime": "2025-04-02T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 42,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 42. Northeast wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-02T18:00:00-04:00",
+                "endTime": "2025-04-03T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,40/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely after 10pm. Cloudy, with a low around 36. Southeast wind around 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the early hours of the morning unfurl gently over Boston, a quietude envelops the city, with the air carrying a crisp bite that hints at the transition from night to day. The sky is draped in a patchwork of partially cloudy hues, offering a sliver of clarity that allows the stars to wink goodbye. With temperatures dipping into the 30s, the chill serves as a reminder of the season\u2019s lingering grasp, urging those awake to wrap themselves in layers that embrace warmth\u2014a sturdy coat, perhaps, accented by a snug scarf. A slightly brisk north-northeast wind whispers through the streets, lending a briskness that might cause one to hurriedly clutch their morning cup of coffee, drawing warmth from its steam.\n\nAs the sun ascends, lifting the veil of darkness, the promise of a mostly sunny day unfolds. The anticipated high of 42 degrees brings the prospect not just of a brighter sky but of a delightful expedition outdoors. It\u2019s a day suited for a stroll through the quaint cobblestone streets of Beacon Hill or a reflective moment in one of the city\u2019s serene parks, where the sights and sounds of life begin to stir. Light layers are the attire of choice, ideally matched with comfortable shoes for navigating the city's sidewalks. This is a day that speaks softly to the heart, inviting simple pleasures\u2014perhaps a visit to a local bakery, savoring a pastry while the world awakens around you.",
-    "color_code": "#8FB5B1",
-    "timestamp": "2025-04-02 04:09:20"
+    "weather_report": "Dawn in Boston greets us with a mellow embrace, the sun shyly arising to cast a gentle light across the city\u2019s skyline. For the moment, the air holds a crisp clarity, though whispers of clouds gather like uninvited guests promising rain later in the day. There\u2019s a lingering chill that brushes against your skin, a reminder to dress warmly as you step into the morning. An ensemble featuring a cozy sweater, perhaps layered with a light jacket, would suit the day\u2019s atmospheric temperament as you traverse the urban tapestry.\n\nAs the hours draw on, anticipation stirs with the forecast hinting at rainfall after nightfall, ushering in a cloudy atmosphere. The prospect of enduring a 60% chance of precipitation looms, yet this should not overshadow the day\u2019s potential. It\u2019s a fine time for an introspective walk through the park, where the trees seem to sway softly, grappling with stillness before the impending rain. Alternatively, consider a quiet afternoon in a local caf\u00e9, savoring each sip of warm coffee while the world outside dances between sunlight and shadows\u2014a perfect backdrop for catching up on a book or simply people-watching as they bustle past under their umbrellas. As the day winds down, remember that the evening promises to carry the scent of wet earth and renewal, a reminder that even the dreariest of days can cloak beauty in their wake.",
+    "color_code": "#A9C4E3",
+    "timestamp": "2025-04-02 08:11:20"
 }
