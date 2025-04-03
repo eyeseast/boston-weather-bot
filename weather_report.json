@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-03T06:53:00+00:00",
-            "temperature_f": 37.94,
-            "temperature_c": 3.3,
-            "humidity": 85.496461459529,
+            "timestamp": "2025-04-03T11:35:00+00:00",
+            "temperature_f": 42.08,
+            "temperature_c": 5.6,
+            "humidity": 88.816089115542,
             "wind_speed_mph": 20.93832,
-            "wind_direction": 130,
-            "description": "Light Rain"
+            "wind_direction": 160,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-03T04:00:00-04:00",
-                "endTime": "2025-04-03T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 35,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 60
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Cloudy, with a low around 35. Southeast wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-04-03T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-03T08:00:00-04:00",
                 "endTime": "2025-04-03T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 70
                 },
-                "windSpeed": "10 to 17 mph",
+                "windSpeed": "12 to 17 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain_showers,40?size=medium",
-                "shortForecast": "Chance Light Rain then Rain Showers Likely",
-                "detailedForecast": "A chance of rain before 7am, then rain showers likely between 7am and 4pm. Cloudy, with a high near 64. South wind 10 to 17 mph, with gusts as high as 31 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/rain_showers,40?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely before 4pm. Cloudy, with a high near 64. South wind 12 to 17 mph, with gusts as high as 31 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-03T18:00:00-04:00",
+                "endTime": "2025-04-04T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "8 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 7pm. Mostly cloudy, with a low around 52. Southwest wind 8 to 15 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dawn stirs over Boston, the night embraces the city with a soft blanket of clouds, hinting at the moisture that lingers in the air. The specter of rain, already whispering its presence, will likely be more insistent as the morning matures. A chill, still clinging to the low thirties, adds a crispness that brushes against your skin, a reminder of late winter's hesitant grip. As you prepare to step out, consider donning a warm layer beneath a sturdy rain jacket, while sturdy footwear will help navigate the soon drenched sidewalks.\n\nAs the hours unfold, clouds will thicken and the promise of showers will be fulfilled, with rain beginning to fall by mid-morning. Striding through the city, one might find comfort in a lively caf\u00e9, where the warmth of fresh coffee can pierce the chill outside. The south winds howling and gusting remind us of nature's unpredictable temperament, stirring leaves and creating a rustle that is almost musical. Although today might lack the sun's warm embrace, Boston is never dull; there are galleries to visit, bookshops to explore, and the tantalizing aromas of the city's renowned eateries just a short stroll away, inviting you in from the dampness for a cozy afternoon of indulgence.",
-    "color_code": "#4B4F63",
-    "timestamp": "2025-04-03 04:09:19"
+    "weather_report": "As the morning unfolds over Boston, a blanket of low clouds seems to hang heavy in the air, shrouding the skyline in muted tones of gray. A gentle yet unwavering breeze whispers from the south, teasing the promise of rain. The day ahead is likely to remain overcast, with rain showers set to grace the city before the afternoon hours draw near. Though the air carries a slight chill, it hints at a more forgiving warmth, settling around the mid-sixties, countered by wind gusts reminding us of nature's temperamental spirit.\n\nFor those stepping outdoors today, a thoughtful choice in attire could smooth the transition through this fluctuating weather. A light rain jacket paired with comfortable layers would serve as both protection against the inevitable showers and a comfort against the brisk breeze. As you navigate the city's streets, perhaps consider finding solace in one of Boston's inviting cafes, where the aroma of freshly brewed coffee can create a moment of respite. Alternatively, a stroll under umbrella cover along the waterfront may reveal the rhythmic dance of raindrops upon the harbor. Embrace the romance of a rainy day, for even the most muted of skies can inspire a gentle reflection of life\u2019s quiet rhythms.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-04-03 08:11:18"
 }
