@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-05T05:53:00+00:00",
-            "temperature_f": 44.96,
-            "temperature_c": 7.2,
-            "humidity": 55.585563066252,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-04-05T10:53:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 62.58483935326,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 90,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-05T04:00:00-04:00",
-                "endTime": "2025-04-05T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 42. East wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-04-05T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-05T08:00:00-04:00",
                 "endTime": "2025-04-05T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,90?size=medium",
-                "shortForecast": "Mostly Cloudy then Light Rain",
-                "detailedForecast": "Rain after 1pm. Mostly cloudy, with a high near 45. East wind 6 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain,90?size=medium",
+                "shortForecast": "Cloudy then Light Rain",
+                "detailedForecast": "Rain after noon. Cloudy, with a high near 45. East wind 7 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-05T18:00:00-04:00",
+                "endTime": "2025-04-06T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain,70/rain_showers,50?size=medium",
+                "shortForecast": "Light Rain Likely then Rain Showers Likely",
+                "detailedForecast": "Rain likely before 7pm, then rain showers likely. Cloudy, with a low around 42. South wind 3 to 8 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In the stillness of early morning, Boston lies cloaked in a gentle shroud of darkness. The nighttime air is cool, whispering softly of the chill that lingers with a low temperature settling around forty-two degrees. As dawn inches closer, the horizon promises the murky embrace of clouds, hinting at the rain that will drench the city after the midday hour. The east wind, light but persistent, dances through the trees, stirring a sense of anticipation for the day ahead.\n\nAs the clock ticks toward late morning, prepare for the arrival of rain that will transform the landscape. This is not a day for frivolity, but rather a time to don layers that offer warmth without overwhelming weight\u2014perhaps a light jacket accompanied by a cozy scarf. The urban palette of Boston will be muted, the vibrancy drenched, and the streets slickened with the patter of raindrops that will gently erase the remnants of yesterday's sun. As the weather calls for quietude and reflection, consider venturing out with a good book to a charming caf\u00e9, a place where the aroma of brewed coffee mingles with the sound of rain tapping against the window. This day paints a picture of subdued beauty; it invites you to savor the simple pleasures of life while nestled in warmth, sheltered from the downpour.",
-    "color_code": "#404040",
-    "timestamp": "2025-04-05 04:07:54"
+    "weather_report": "In Boston, the morning unfolds under a heavy blanket of cloud, the kind that yawns out over the horizon like a whispered secret. This demeanor hints at a day destined for rain, a shroud that will not lift as the hours progress. By noon, the soft patter of rain will begin to echo against windows, drawing the city\u2019s inhabitants indoors for warmth and comfort. The chill in the air nudges us towards warmer garments\u2014perhaps a sturdy jacket layered over a cozy sweater, accompanied by a well-loved pair of waterproof boots, perfect for splashing through puddles that will inevitably form. \n\nAs the afternoon light dims, and the rain persists, there's an undeniable cozy allure to staying in with a book or indulging in the warmth of a caf\u00e9, where the steam from a hot coffee might momentarily fog your glasses. The evening brings a gentle continuation of the drizzle, with the air feeling thick and soft\u2014a perfect backdrop for quiet reflection or a solitary evening walk under the muted glow of street lamps. Yet there lies also the charm of community gatherings in snug corners of the city, where the rain is a distant murmur, and laughter thrives amid the clinking of cups and the rustling of pages. Bostonians will find a way to nestle into this rainy day, cradled between the comforts of home and the tantalizing promise of stories to be shared.",
+    "color_code": "#A4B8C4",
+    "timestamp": "2025-04-05 08:09:43"
 }
