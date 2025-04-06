@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-06T07:05:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 92.59561987308,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 280,
+            "timestamp": "2025-04-06T10:53:00+00:00",
+            "temperature_f": 42.980000000000004,
+            "temperature_c": 6.1,
+            "humidity": 85.79775135553,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 320,
             "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-06T04:00:00-04:00",
-                "endTime": "2025-04-06T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 40,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers and patchy fog. Cloudy, with a low around 40. West wind around 3 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-04-06T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-06T07:00:00-04:00",
                 "endTime": "2025-04-06T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 50
                 },
-                "windSpeed": "3 to 7 mph",
+                "windSpeed": "2 to 7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,30?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain_showers,30?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 2pm. Mostly cloudy, with a high near 55. West wind 3 to 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers before 2pm. Mostly cloudy, with a high near 55. West wind 2 to 7 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-06T18:00:00-04:00",
+                "endTime": "2025-04-07T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 37,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain,80?size=medium",
+                "shortForecast": "Cloudy then Light Rain",
+                "detailedForecast": "Rain after midnight. Cloudy, with a low around 37. Northwest wind around 7 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn gently breaks over Boston, the air hangs heavy with the promise of rain, mixed with a whisper of fog that lends a muted articulation to the waking world. The coolness nips at your cheeks, hovering around a moderate 40 degrees, inviting you to wrap yourself in layers. A solitary west wind barely rustles the branches, making the morning feel still and contemplative. As the day unfolds, the clouds are expected to conquer the skyline, with intermittent showers anticipated before the afternoon sun peeks through, albeit faintly.\n\nThe overarching grayness gives the city a tranquil, if somber, hue, perfect for those seeking solace in a quiet caf\u00e9 with a good book or for a leisurely stroll under an umbrella, listening to the distant sound of soft rain pattering against cobblestone. Dress wisely in a lightweight, water-resistant jacket and comfortable shoes \u2014 perfect for both the unpredictable dampness and an afternoon exploration of Boston's rich history. Today feels like an invitation to slow down, maybe indulge in a timely visit to a local museum or enjoy a warm beverage while people-watching from a cozy window seat. As the forecast hints at fleeting moments of brightness later, let the day unfold gently as the city breathes in that familiar blend of rain and possibility.",
-    "color_code": "#4f5454",
-    "timestamp": "2025-04-06 04:08:11"
+    "weather_report": "A veil of gloom hangs over Boston this morning, where the day unfolds beneath a thick shroud of cloud and mist. The air holds a chill that nudges towards the uncomfortable, beckoning you to consider your choice of attire carefully. While the forecast hints at the possibility of rain, with showers lingering until mid-afternoon, the atmosphere has a muted tranquility that may temper the grayness. Winds whisper gently from the west, offering a slight reprieve with their cool embrace, but this is no day for light jackets or airy scarves. Instead, reach for something warmer, perhaps a fine wool sweater layered beneath a reliable raincoat.\n\nAs the hours wane and evening approaches, rain lurks just beyond the horizon, promising to settle over the city after midnight. Those venturing out today may find solace in a cozy caf\u00e9, where the aroma of fresh coffee dances in harmony with the pitter-patter of rain against the windows. Alternatively, a quiet stroll beneath a sturdy umbrella could unveil the somber beauty of the city cloaked in its drizzly attire. Today is less about adventure and more a moment of introspection, inviting you to find comfort in the simplest pleasures as the world outside drizzles into a serene, gray palette.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2025-04-06 08:10:09"
 }
