@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-06T10:53:00+00:00",
-            "temperature_f": 42.980000000000004,
-            "temperature_c": 6.1,
-            "humidity": 85.79775135553,
+            "timestamp": "2025-04-06T17:53:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 82.818647556175,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 320,
-            "description": "Light Rain and Fog/Mist"
+            "wind_direction": 260,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-04-06T07:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-04-06T16:00:00-04:00",
                 "endTime": "2025-04-06T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": null
                 },
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 2pm. Mostly cloudy, with a high near 55. West wind 2 to 7 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 55. West wind around 7 mph."
             },
             {
                 "number": 2,
@@ -48,15 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 80
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/rain,80?size=medium",
-                "shortForecast": "Cloudy then Light Rain",
-                "detailedForecast": "Rain after midnight. Cloudy, with a low around 37. Northwest wind around 7 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,80?size=medium",
+                "shortForecast": "Mostly Cloudy then Light Rain",
+                "detailedForecast": "Rain after midnight. Mostly cloudy, with a low around 37. Northwest wind 6 to 9 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "A veil of gloom hangs over Boston this morning, where the day unfolds beneath a thick shroud of cloud and mist. The air holds a chill that nudges towards the uncomfortable, beckoning you to consider your choice of attire carefully. While the forecast hints at the possibility of rain, with showers lingering until mid-afternoon, the atmosphere has a muted tranquility that may temper the grayness. Winds whisper gently from the west, offering a slight reprieve with their cool embrace, but this is no day for light jackets or airy scarves. Instead, reach for something warmer, perhaps a fine wool sweater layered beneath a reliable raincoat.\n\nAs the hours wane and evening approaches, rain lurks just beyond the horizon, promising to settle over the city after midnight. Those venturing out today may find solace in a cozy caf\u00e9, where the aroma of fresh coffee dances in harmony with the pitter-patter of rain against the windows. Alternatively, a quiet stroll beneath a sturdy umbrella could unveil the somber beauty of the city cloaked in its drizzly attire. Today is less about adventure and more a moment of introspection, inviting you to find comfort in the simplest pleasures as the world outside drizzles into a serene, gray palette.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2025-04-06 08:10:09"
+    "weather_report": "As the sun wanes this afternoon, Boston finds itself enveloped in a cloak of gray, a prelude to the evening's promised rains. The air carries a chill as a gentle west wind whispers through the streets, harmonizing with the soft rustle of leaves. The skyline, though partially obscured by clouds, stands resilient against the shifting weather, hinting at a city dynamic and alive beneath the overcast canopy. The light is subdued, creating a reflective atmosphere that invites thoughtful walks along the waterfront or through the quieter neighborhoods.\n\nAs night draws in, the forecast predicts rain beginning after midnight, making it essential to plan accordingly. With temperatures dipping to a brisk 37 degrees, a thoughtful layering of clothing is advised\u2014perhaps a warm sweater beneath a waterproof jacket, and sturdy footwear to navigate the wet terrain. The precipitation may be minimal, but the potential for a damp evening calls for preparedness. For those seeking an indoor retreat, now is a perfect time to indulge in a cozy caf\u00e9 or a welcoming bookstore, relishing the warmth and the aroma of freshly brewed coffee. Tonight holds the promise of introspection and comfort, offering a tranquil close to a day marked by a serene but brooding beauty.",
+    "color_code": "#A9B0B8",
+    "timestamp": "2025-04-06 16:07:03"
 }
