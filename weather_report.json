@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-06T17:53:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 82.818647556175,
-            "wind_speed_mph": 16.91172,
+            "timestamp": "2025-04-06T21:53:00+00:00",
+            "temperature_f": 55.04,
+            "temperature_c": 12.8,
+            "humidity": 63.745815259196,
+            "wind_speed_mph": 20.93832,
             "wind_direction": 260,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-04-06T16:00:00-04:00",
-                "endTime": "2025-04-06T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 55. West wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-04-06T18:00:00-04:00",
+                "startTime": "2025-04-06T20:00:00-04:00",
                 "endTime": "2025-04-07T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,60?size=medium",
+                "shortForecast": "Mostly Cloudy then Light Rain Likely",
+                "detailedForecast": "Rain likely after 3am. Mostly cloudy, with a low around 37. Northwest wind 5 to 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-04-07T06:00:00-04:00",
+                "endTime": "2025-04-07T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 41,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
                     "value": 80
                 },
-                "windSpeed": "6 to 9 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,80?size=medium",
-                "shortForecast": "Mostly Cloudy then Light Rain",
-                "detailedForecast": "Rain after midnight. Mostly cloudy, with a low around 37. Northwest wind 6 to 9 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,80/rain,40?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain before 7am, then rain and patchy fog between 7am and 2pm, then patchy fog and a slight chance of rain between 2pm and 3pm, then a chance of rain and patchy fog between 3pm and 4pm, then patchy fog and a slight chance of rain between 4pm and 5pm, then a chance of rain and patchy fog. Cloudy, with a high near 41. Northeast wind 6 to 12 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the sun wanes this afternoon, Boston finds itself enveloped in a cloak of gray, a prelude to the evening's promised rains. The air carries a chill as a gentle west wind whispers through the streets, harmonizing with the soft rustle of leaves. The skyline, though partially obscured by clouds, stands resilient against the shifting weather, hinting at a city dynamic and alive beneath the overcast canopy. The light is subdued, creating a reflective atmosphere that invites thoughtful walks along the waterfront or through the quieter neighborhoods.\n\nAs night draws in, the forecast predicts rain beginning after midnight, making it essential to plan accordingly. With temperatures dipping to a brisk 37 degrees, a thoughtful layering of clothing is advised\u2014perhaps a warm sweater beneath a waterproof jacket, and sturdy footwear to navigate the wet terrain. The precipitation may be minimal, but the potential for a damp evening calls for preparedness. For those seeking an indoor retreat, now is a perfect time to indulge in a cozy caf\u00e9 or a welcoming bookstore, relishing the warmth and the aroma of freshly brewed coffee. Tonight holds the promise of introspection and comfort, offering a tranquil close to a day marked by a serene but brooding beauty.",
-    "color_code": "#A9B0B8",
-    "timestamp": "2025-04-06 16:07:03"
+    "weather_report": "As twilight envelops Boston, a muted veil of clouds hangs over the city, promising rain in the still hours of the night. The air, crisp yet damp, hovers around a cool 37 degrees, making it an ideal time for flannel shirts layered beneath cozy jackets. Those venturing out should prepare for the dampness ahead, readying umbrellas to brace against the impending drizzle that will arrive post-3 a.m., with a gentle northwest breeze weaving through the streets.\n\nThe dawn will greet Bostonians with a symphony of rain and patchy fog, wrapping the city in an ethereal blanket until the afternoon. A high of 41 degrees will keep the chill persistent, so it\u2019s wise to don practical footwear for those slipping through puddles in the early light. If one must venture outdoors, a stroll through the wet streets might inspire a contemplative pause, perhaps to enjoy a warm cup of coffee while watching the umbrellas dot the thoroughfare. This day feels like an invitation to linger indoors, perhaps nestled in a favorite caf\u00e9 or pursuing the charm of a local bookstore, the rhythmic patter of rain on windows creating a soothing backdrop for a cozy retreat from the elements.",
+    "color_code": "#5B5E7C",
+    "timestamp": "2025-04-06 20:31:18"
 }
