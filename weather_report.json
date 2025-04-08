@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-07T18:53:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 79.226480114693,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 90,
-            "description": "Fog/Mist"
+            "timestamp": "2025-04-07T22:53:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 82.614624284648,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 70,
+            "description": "Haze"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-04-07T16:00:00-04:00",
-                "endTime": "2025-04-07T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/snow,70?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Rain likely and patchy fog before 5pm, then patchy fog and rain and snow likely. Cloudy, with a high near 39. East wind around 9 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-04-07T18:00:00-04:00",
+                "startTime": "2025-04-07T20:00:00-04:00",
                 "endTime": "2025-04-08T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 35,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 80
                 },
-                "windSpeed": "5 to 9 mph",
-                "windDirection": "NE",
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,40?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and rain and snow before 4am, then patchy fog and a slight chance of snow between 4am and 5am, then patchy fog and a slight chance of snow showers. Cloudy, with a low around 35. Northeast wind 5 to 9 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Patchy fog and rain and snow before 4am, then patchy fog and a slight chance of snow between 4am and 5am, then patchy fog and a slight chance of snow showers. Cloudy, with a low around 35. North wind 5 to 8 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-04-08T06:00:00-04:00",
+                "endTime": "2025-04-08T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "6 to 25 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/snow,30/rain_showers,20?size=medium",
+                "shortForecast": "Patchy Fog then Chance Rain Showers",
+                "detailedForecast": "Patchy fog and a slight chance of snow showers before 7am, then a chance of snow showers and patchy fog between 7am and 10am, then a chance of rain showers between 10am and 1pm. Mostly cloudy. High near 44, with temperatures falling to around 38 in the afternoon. Northwest wind 6 to 25 mph, with gusts as high as 44 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the afternoon meanders on in Boston, a soft curtain of rain and patchy fog envelops the city, imparting a muted quality to the skyline. The temperature hovers around 39 degrees, marking a day that feels distinctly wintry despite the calendar's insistence on spring. With an east wind gently stirring at about 9 mph, there's a palpable chill in the air, carried forth by the moisture that clings to everything it touches. The chance of precipitation looms large, casting a damp shadow over the landscape as the skies weep intermittently, lending a sense of intimacy to the bustling streets below.\n\nAs evening approaches, the forecast hints at lingering fog accompanied by light snow showers after the clock strikes four. The temperature dips to a cool 35 degrees, beckoning layers and warmth. One might consider donning a cozy sweater under a waterproof jacket, paired with sturdy shoes to navigate the slick sidewalks. Perhaps today is best suited for quiet pursuits, like savoring a cup of tea in a cozy nook or losing oneself in the pages of a beloved book. A touch of creativity could also be found in the kitchen, where the rhythmic chime of pots and pans might create an alluring symphony against the backdrop of the steady rain. Let the quiet beauty of this gloomy day guide your choices, transforming it into a canvas for tranquility.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-04-07 16:07:31"
+    "weather_report": "As twilight descends upon Boston, a gentle shroud of patchy fog envelops the city, mingling with the lingering whispers of rain and snow. The night is cloaked in a cool embrace, with temperatures settling around 35 degrees. A light north wind carries a hint of chill, reminding us that spring is still hesitant to fully arrive. This atmospheric dance is set to continue, as the possibility of snow showers flirts with the edges of consciousness; a delicate reminder of winter's reluctance to relinquish its grip. \n\nTomorrow unfolds with the promise of more overcast skies and a touch of that wistful fog lingering in the morning air. Expect temperatures to fluctuate, dipping in the afternoon as winter\u2019s breath still graces the ground. While the day may not dazzle with warmth or sunshine, it invites a more introspective experience \u2014 perhaps a leisurely stroll through the Boston Public Garden, eyes drawn to the awakening buds that herald the eventual bloom of spring. Layering is key; wrap yourself in a warm cardigan or a light jacket, and don sturdy boots to navigate the damp paths. While the weather may not inspire grand outdoor adventures, the beauty of Boston during these transitional moments offers an understated charm all its own.",
+    "color_code": "#5B5C69",
+    "timestamp": "2025-04-07 20:29:29"
 }
