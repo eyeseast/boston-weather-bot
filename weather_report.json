@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-08T06:34:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 88.67016884985,
+            "timestamp": "2025-04-08T10:53:00+00:00",
+            "temperature_f": 39.92,
+            "temperature_c": 4.4,
+            "humidity": 85.615924273902,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-08T04:00:00-04:00",
-                "endTime": "2025-04-08T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 35,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Areas Of Drizzle",
-                "detailedForecast": "Areas of drizzle and areas of fog. Cloudy, with a low around 35. North wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-04-08T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-08T08:00:00-04:00",
                 "endTime": "2025-04-08T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "6 to 25 mph",
-                "windDirection": "NW",
+                "windSpeed": "7 to 25 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,20?size=medium",
                 "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Areas of drizzle and areas of fog before 8am, then scattered rain showers between 10am and 1pm. Mostly cloudy. High near 44, with temperatures falling to around 38 in the afternoon. Northwest wind 6 to 25 mph, with gusts as high as 44 mph. Chance of precipitation is 30%."
+                "detailedForecast": "Scattered rain showers between 10am and 1pm. Mostly cloudy. High near 44, with temperatures falling to around 38 in the afternoon. West wind 7 to 25 mph, with gusts as high as 44 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-08T18:00:00-04:00",
+                "endTime": "2025-04-09T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "16 to 25 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 27. West wind 16 to 25 mph, with gusts as high as 47 mph."
             }
         ]
     },
-    "weather_report": "The atmosphere in Boston this morning is draped in a soft veil of drizzle and fog, casting a muted shroud over the city as it greets the early hours. The air holds a crisp chill, hovering around the mid-thirties, where the gentle north wind adds a hint of sharpness to the tranquility. Those who venture outside may find the world cloaked in a kind of stillness, the kind that whispers of introspection and quiet moments spent in thoughtful solitude.\n\nAs the day unfolds, the drizzle will gradually evolve into scattered showers during the late morning hours, while the clouds remain steadfast, painting a gloomy backdrop for the hours ahead. The temperature is expected to dip subtly, leaving the day to carry a somewhat somber demeanor. One might dress in layers today, opting for a snug sweater beneath a reliable raincoat, topped off with a scarf to fend off the brisk gusts that could betray a sudden chill. This is a time for quiet activities: meandering through museums, enjoying a warm cup of coffee in a cozy caf\u00e9, or perhaps visiting a local bookstore, where the scent of paper and stories mingles with the warmth of friendly chatter. It\u2019s a day that invites you to slow down and relish simple pleasures, finding comfort in the serenity that accompanies a rainy Boston morning.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-04-08 04:09:58"
+    "weather_report": "In Boston today, the air carries a hushed melancholy, with scattered rain showers drifting through the morning like whispers from above. As the clouds swirl, a muted palette of gray blankets the city, offering little in the way of cheerfulness. The temperature, creeping from the chill of the morning toward the afternoon, invites a restless wind that speaks in gusts, rattling branches and stirring leaves. A robust western breeze, strong enough to remind one of the power of nature, feels invigorating under the dampness, calling you to find solace in warmer layers and a sturdy jacket.\n\nTonight, as the sun sets beyond the horizon, the clouds shall part to reveal a crisp, mostly clear sky, leaving behind a refreshing tranquility. The stars may flicker to life, a contrast to the day\u2019s gloom, as the temperature dips. For those seeking respite from the weight of gray, an evening stroll through the still streets might reveal a different beauty, one that speaks of quiet contemplation. Embracing such moments, clad in cozy attire suited for the chill, would allow for an unhurried enjoyment of the splendor that lies in the simple act of being outdoors on a night that promises to arrive cool and serene.",
+    "color_code": "#A4B0C4",
+    "timestamp": "2025-04-08 08:11:51"
 }
