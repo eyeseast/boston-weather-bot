@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-09T18:53:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 24.038498277764,
+            "timestamp": "2025-04-09T22:53:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 22.774063424998,
             "wind_speed_mph": 20.93832,
-            "wind_direction": null,
+            "wind_direction": 240,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-04-09T16:00:00-04:00",
-                "endTime": "2025-04-09T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 47. West wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-04-09T18:00:00-04:00",
+                "startTime": "2025-04-09T20:00:00-04:00",
                 "endTime": "2025-04-10T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 28,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 28. West wind 2 to 8 mph."
+                "detailedForecast": "Mostly clear, with a low around 28. West wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-04-10T06:00:00-04:00",
+                "endTime": "2025-04-10T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "1 to 7 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 51. Southeast wind 1 to 7 mph."
             }
         ]
     },
-    "weather_report": "The afternoon in Boston unfolds under a canvas of clear blue, an invitation to bask in the gentle warmth of the sun reaching towards a high that dances near 47 degrees. The air is crisp, enlivened by a light westward breeze that whispers through the streets, beckoning you to step outdoors. Tonight promises a serene transition, as the sky remains mostly clear, ushering in cooler tones closer to 28 degrees, perfect for evening strolls under the starlit heavens.\n\nIn these refreshing conditions, a cozy yet light ensemble \u2013 perhaps a snug sweater layered beneath a classic jacket \u2013 will keep you comfortable against the chill as the sun dips below the horizon. As the afternoon wanes, why not wander through one of Boston's charming neighborhoods? Take a moment to explore the tranquil pathways of the Public Garden or to savor a quiet cup of coffee at a nearby caf\u00e9. One might even bring along a book, letting the soothing ambiance wash over you. The day invites a slower pace, rewarding those who seize the moment with beauty and tranquility.",
-    "color_code": "#A1C3D4",
-    "timestamp": "2025-04-09 16:07:36"
+    "weather_report": "As the evening deepens over Boston, the city gently settles into a tranquil embrace of mostly clear skies. A delicate chill lingers in the air, with temperatures dipping to a brisk 28 degrees. The west wind whispers softly, an understated companion as lights dot the horizon, casting a cozy glow upon this beloved urban landscape. The tranquility of the night adds a hint of charm to your stroll, a reminder of nature\u2019s grace in a city that never truly sleeps.\n\nLooking forward to Thursday, the promise of a brighter day emerges, with mostly sunny skies inviting the sun's warmth as it climbs toward a high of 51 degrees. A gentle southeast breeze will add just a touch of playfulness, urging locals and wanderers alike to embrace the refreshing air. As you venture out, layering is key: a light jacket over a comfortable sweater will suit the mood beautifully, allowing you to bask in the sun's rays while remaining prepared for the crispness that still tugs at springtime. With such awakenings in the weather, consider meandering through one of Boston's charming parks, perhaps indulging in a quiet moment with a favorite book or enjoying a coffee at a nearby caf\u00e9, welcoming the day ahead with openness and grace.",
+    "color_code": "#2A2A1D",
+    "timestamp": "2025-04-09 20:29:37"
 }
