@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-10T01:53:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 60.951277799881,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 160,
+            "timestamp": "2025-04-10T09:53:00+00:00",
+            "temperature_f": 26.060000000000002,
+            "temperature_c": -3.3,
+            "humidity": 80.965460067521,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-10T00:00:00-04:00",
-                "endTime": "2025-04-10T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 28,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 28. West wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-04-10T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-10T08:00:00-04:00",
                 "endTime": "2025-04-10T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 51,
+                "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "1 to 7 mph",
+                "windSpeed": "2 to 9 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 51. Southeast wind 1 to 7 mph."
+                "detailedForecast": "Mostly sunny, with a high near 50. Southeast wind 2 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-10T18:00:00-04:00",
+                "endTime": "2025-04-11T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely after 11pm. Mostly cloudy, with a low around 36. Southeast wind 5 to 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the midnight hour softly envelops Boston, the air is crisp and invigorating, with a calmness that hints at the day's promise. The skies are mostly clear, and a gentle breeze meanders through the city, whispering secrets of the chilly night that has settled in, with temperatures dipping to around 28 degrees. The quiet is punctuated only by the distant hum of urban life, shimmering lights casting a warm glow against the darkness.\n\nCome dawn, the promise of a brightening morning unfolds, where the sun shall rise in glory, draping the city in a soft embrace of light. Anticipate mostly sunny skies, with temperatures gracefully ascending to near comforting 51 degrees. Such conditions invite leisurely pursuits; perhaps a serene stroll along the Charles River or a visit to a local coffee shop to savor a warm brew while watching the world slowly wake. Dressing in layers will serve you well, providing enough warmth to navigate the cool morning air before shedding the outer layer to embrace the milder afternoon. Activities reflecting the calmness of a Thursday, like exploring a quaint bookstore or enjoying a quiet afternoon at home with a good book, would harmonize beautifully with this serene and pleasant weather.",
-    "color_code": "#f0e68c",
-    "timestamp": "2025-04-10 00:08:43"
+    "weather_report": "As dawn unfolds over Boston, a tapestry of mostly sunny skies stretches across the horizon, with a gentle breeze whispering through the trees. The air is crisp, the temperature nestled comfortably in the early fifty-degree range. This tranquility, however, is poised to shift after nightfall, as rain is expected to make its entrance, cloaking the city in a shroud of clouds and soft, persistent drizzle. The twilight will carry with it a hint of chill, prompting even the most ardent of wanderers to prepare for a cozy evening indoors.\n\nAs you step out this morning, a light jacket will serve you well against the faint chill and the softness of the wind. While the day may not beckon grand outdoor adventures, it invites leisurely strolls through your favorite neighborhoods, or perhaps a quiet cup of coffee at a local caf\u00e9, where the warmth and bustle provide a pleasant contrast to the coolness outside. In these moments, even a brief outing becomes an opportunity to savor the subtle changes of the day, making each experience rich and layered. But as evening approaches, consider settling in with a good book or gathering around the table with friends, shielding yourself from the impending rain and reveling in the comfort of good company and conversation.",
+    "color_code": "#A5C8E0",
+    "timestamp": "2025-04-10 08:11:48"
 }
