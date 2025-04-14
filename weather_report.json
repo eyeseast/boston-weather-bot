@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-13T18:53:00+00:00",
-            "temperature_f": 46.94,
-            "temperature_c": 8.3,
-            "humidity": 68.297979771867,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 350,
+            "timestamp": "2025-04-13T23:35:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 85.913626837241,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-04-13T15:00:00-04:00",
-                "endTime": "2025-04-13T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 80
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain,80?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy, with a high near 45. North wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-04-13T18:00:00-04:00",
+                "startTime": "2025-04-13T20:00:00-04:00",
                 "endTime": "2025-04-14T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 39,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 20
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50/bkn?size=medium",
-                "shortForecast": "Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain before 10pm. Mostly cloudy, with a low around 39. Northwest wind 7 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain before 10pm. Mostly cloudy, with a low around 39. Northwest wind around 8 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-04-14T06:00:00-04:00",
+                "endTime": "2025-04-14T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 66. Northwest wind around 8 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a persistent drizzle accentuates the overcast sky, wrapping the city in a blanket of gray. With temperatures hovering around a modest 45 degrees, the air turns brisk, stirred by a north wind that adds an edge to the dampness. The chance of rain looms large\u2014about 80%\u2014suggesting that umbrellas are not just a precaution but rather an essential accessory today. As twilight approaches, the chance of rain lingers into the evening, with clouds drawing ever nearer towards nightly obscurity, while temperatures dip to the high 30s.\n\nIn this kind of weather, comfort reigns supreme. A sturdy waterproof jacket combined with a soft scarf will shield against the chill, and a pair of well-worn boots will prove vital, especially if you find yourself traversing puddles that dot the city streets. Activities may call you indoors; perhaps peruse a local caf\u00e9, savoring a warm beverage while watching life unfold through fogged-up windows, or seek refuge in a nearby bookstore where the pages of novels can transport you far beyond today's gloomy embrace. The weather does not appear inviting for a stroll along the Charles, but it raises the perfect opportunity for quiet reflection or a leisurely gathering with friends.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-04-13 16:07:04"
+    "weather_report": "As the sun transitions beneath the horizon, Boston's skyline glistens faintly through a veil of clouds, the evening air carrying a cool whisper of what is to come. Tonight, there\u2019s a slight chance of rain brushing against the city before retreating into the night. With temperatures dipping down to a brisk 39 degrees, it\u2019s wise to pull on a warm sweater and perhaps a lightweight jacket to wrap around you like a comforting embrace. A gentle northwest wind, drifting at around 8 mph, hints at a stillness that will soon settle over the city.\n\nLooking ahead to tomorrow, the promise of sunshine peaks through the clouds, inviting Boston to bask in a delightful high near 66. This is a perfect canvas for a stroll along the Charles River or perhaps a casual afternoon spent outdoors, where the warmth of the sun gently chases away the remnants of winter. As the day unfolds, it beckons you to enjoy the vibrant sights and sounds of the city\u2014perhaps a visit to a quaint caf\u00e9 or a leisurely wander through the local shops, where the bustle of life weaves through the air like the scent of freshly brewed coffee. Embrace the weather, let the day inspire you, and revel in the simple pleasures that await.",
+    "color_code": "#5B9EA0",
+    "timestamp": "2025-04-13 20:32:26"
 }
