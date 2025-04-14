@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-14T06:06:00+00:00",
-            "temperature_f": 35.96,
-            "temperature_c": 2.2,
-            "humidity": 85.375550299468,
+            "timestamp": "2025-04-14T10:16:00+00:00",
+            "temperature_f": 30.92,
+            "temperature_c": -0.6,
+            "humidity": null,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Fog"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-14T04:00:00-04:00",
-                "endTime": "2025-04-14T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Partly cloudy, with a low around 39. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-04-14T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-14T08:00:00-04:00",
                 "endTime": "2025-04-14T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 66. Northwest wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-14T18:00:00-04:00",
+                "endTime": "2025-04-15T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,30?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Light Rain",
+                "detailedForecast": "A chance of rain after 1am. Mostly cloudy, with a low around 46. Southwest wind 3 to 7 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the sun dips below the horizon, Boston nestles into a cloak of patchy fog that sweeps across the landscape, painting the city in a gentle gray hue. The temperature cools to a comforting 39 degrees, inviting a soft sweater and perhaps a light scarf to ward off the brisk northern breeze. The quiet moments of the night inspire a cup of warm tea or the simple pleasure of a book by the window, watching as shadows dance against the glimmer of city lights.\n\nWith dawn on the horizon, Monday promises to dawn bright and optimistic, as the fog gradually dissipates to unveil a refreshing sunlit sky. The forecast hints at a delightful high near 66, each ray of sunlight infused with a gentle warmth, encouraging light layers to usher in the day. A leisurely stroll along the Charles River beckons, where the vibrant trees sway in the soft breeze, and the radiant blooms greet early passersby with open arms. It's a fine day to explore local art galleries or to savor a meal outdoors at one of Boston's charming cafes, welcoming the spring and all its possibilities. Enjoy each moment, for there's beauty to be found in the mundane.",
-    "color_code": "#A7B8D6",
-    "timestamp": "2025-04-14 04:10:16"
+    "weather_report": "As the sun rises over Boston, the day begins under a brilliant blue canvas, unmarred by clouds or fog, cradling the promise of a pleasantly warm spring. A gentle northwest breeze rustles the budding leaves, invigorating the senses. With temperatures gracefully climbing to the high 60s, it\u2019s a moment befitting a stroll along the Charles or a leisurely exploration of the Public Garden. However, as twilight approaches, foreboding whispers of rain might find their way into the evening air, so carrying a light jacket could mean embracing the comfort of a cozy caf\u00e9 later, should the sprinkles arrive.\n\nToday invites you to shed the heaviness of winter garments, opting instead for a breathable shirt paired with jeans or chinos\u2014perfect for balancing comfort and style. Whether indulging in a quiet moment with a good book on a sunlit bench or listening to the distant echoes of laughter on the Esplanade, you may find that the day\u2019s charm lies in its subtlety. As dusk paints the skyline in soft hues, preparation for a night that hints at rain will ensure that you remain snug while casting content glances at the vibrant city.",
+    "color_code": "#A1C4FF",
+    "timestamp": "2025-04-14 08:12:10"
 }
