@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-15T13:53:00+00:00",
-            "temperature_f": 57.02,
-            "temperature_c": 13.9,
-            "humidity": 68.973277430726,
+            "timestamp": "2025-04-16T02:53:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 60.763303347215,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 190,
-            "description": "Mostly Clear"
+            "wind_direction": 260,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-04-15T15:00:00-04:00",
-                "endTime": "2025-04-15T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,50?size=medium",
-                "shortForecast": "Scattered Showers And Thunderstorms",
-                "detailedForecast": "Scattered showers and thunderstorms after 4pm. Mostly cloudy. High near 66, with temperatures falling to around 60 in the afternoon. Southwest wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-04-15T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-04-16T00:00:00-04:00",
                 "endTime": "2025-04-16T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": null
                 },
-                "windSpeed": "12 mph",
+                "windSpeed": "14 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,40/sct?size=medium",
-                "shortForecast": "Scattered Showers And Thunderstorms then Partly Cloudy",
-                "detailedForecast": "Scattered showers and thunderstorms before 8pm. Partly cloudy, with a low around 40. West wind around 12 mph, with gusts as high as 28 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 40. West wind around 14 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-04-16T06:00:00-04:00",
+                "endTime": "2025-04-16T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 52. West wind around 15 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, the air carries a palpable tension, hinting at the imminent arrival of scattered showers and thunderstorms. The clouds begin to weave a tapestry of gray overhead, softening the light that spills across the city. Temperatures, once climbing toward a mild 66, will soon yield to the cooler embrace of the low 60s, a gentle reminder that spring\u2019s warming touch can still waver. A breeze from the southwest stirs, a companion that invites one to step outside, though not without a light jacket to fend off the moisture that lingers in the air.\n\nAs night descends, the clouds will part slightly, revealing glimpses of stars amidst the drifting remnants of afternoon storms. With temperatures dipping to 40, the crispness will call for warmth, perhaps a knitted scarf or a well-loved coat. Such a setting is perfect for an evening stroll through the brick-lined streets of Beacon Hill, or perhaps a visit to a cozy caf\u00e9, where the aroma of freshly brewed coffee mingles with the day\u2019s fading warmth. As the thunder rumbles in the distance, it serves as a gentle reminder to embrace the beauty of this transitional season, one raindrop at a time.",
-    "color_code": "#AFAFAF",
-    "timestamp": "2025-04-15 16:07:47"
+    "weather_report": "As midnight settles over Boston, the city is embraced in a tranquil darkness, punctuated only by the distant glow of streetlights and the soft thrum of life that continues to pulse in the night. The air is crisp, an embrace of coolness that lingers as temperatures hover around 40 degrees, invigorating yet demanding a protective layer. A brisk west wind rustles through the empty streets, its presence felt in gusts, carrying with it the promise of clarity ahead. \n\nTomorrow greets us with the sun peeking through, announcing a day where shadows will dance beneath a mostly sunny sky. The temperature will gently rise to about 52 degrees, inviting you to shed the heavier winter cloaks in favor of lighter layers. A scarf or sweater will offer comfort against the playful grabs of the wind, while sturdy shoes will serve well for those strolling along the cobblestone paths or exploring quiet corners of this historic city. Amidst this embracing warmth of the day\u2019s sun, one might find joy in a leisurely visit to a local caf\u00e9, savoring the aroma of rich coffee warming both hands and heart, or perhaps peruse a bookstore, enveloped by the written word as the world awakens outside.",
+    "color_code": "#3B3B3B",
+    "timestamp": "2025-04-16 00:08:26"
 }
