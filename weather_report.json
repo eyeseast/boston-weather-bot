@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-16T05:53:00+00:00",
-            "temperature_f": 48.02,
-            "temperature_c": 8.9,
-            "humidity": 51.363749738048,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": ""
+            "timestamp": "2025-04-16T10:53:00+00:00",
+            "temperature_f": 44.06,
+            "temperature_c": 6.7,
+            "humidity": 48.897284183763,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 270,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-16T04:00:00-04:00",
-                "endTime": "2025-04-16T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 41,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 41. West wind around 12 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-04-16T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-16T08:00:00-04:00",
                 "endTime": "2025-04-16T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 52,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "12 to 15 mph",
+                "windSpeed": "15 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 52. West wind 12 to 15 mph, with gusts as high as 31 mph."
+                "detailedForecast": "Partly sunny, with a high near 52. West wind around 15 mph, with gusts as high as 31 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-16T18:00:00-04:00",
+                "endTime": "2025-04-17T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 37,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "8 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 37. West wind 8 to 15 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "As Boston embraces the soft embrace of morning, the chill in the air serves as a gentle reminder that winter's grip is still reluctant to fully release its hold. Tonight's clear skies will gradually yield to a partly sunny day, bringing with it a modest warmth that may be welcomed but should still be approached with caution. The winds, playful yet persistent, will sweep through the city at a brisk pace, carrying with them the freshness of spring tempered by the lingering coolness of the night.\n\nIn this transitional period, attire should reflect a blend of practicality and comfort. Layering is key\u2014a lightweight sweater over a long-sleeve shirt, accompanied by a windbreaker to fend off the brisk gusts. A warm scarf can offer a touch of coziness while strolling through the historic streets, perhaps pausing briefly to admire the delicate choreography of leaves dancing in the wind. With the day unfurling gently before us, it\u2019s perfect for a leisurely coffee at a local caf\u00e9, an easy wander through the neighborhood shops, or simply enjoying a tranquil moment in one of Boston\u2019s many parks, where the signs of spring begin to awaken.",
-    "color_code": "#747C92",
-    "timestamp": "2025-04-16 04:09:27"
+    "weather_report": "The day begins in Boston under a partial embrace of the sun, peeking through a tapestry of delicate clouds that hint at both warmth and a cool breeze. The air carries a freshness, spirited by a rather lively west wind that rustles through the city streets, whispering tales of springtime's gentle resurgence. As the morning stretches into noon, expect the mercury to nudge toward a delightful 52 degrees, a comfortable threshold for both adventurers and quiet souls alike. Tonight, the skies will slip into a more contemplative mood, settling around 37 degrees under a blanket of partly cloudy skies, accompanied by a more subdued breeze.\n\nGiven the mid-April charm, a light jacket or sweater adorned with a wool scarf would become your faithful companions, perfect companions for an invigorating stroll along the Charles or perhaps a leisurely jaunt through the Public Garden. This weather invites moments of tranquility, whether sipping a steaming cup of coffee at a sidewalk caf\u00e9 or browsing the shops in Harvard Square. As paths intersect under the cerulean sky, take a moment to relish the invigorating dance of the wind, fluttering leaves, and the soft laughter of spring unfolding in the distance.",
+    "color_code": "#BAC4C2",
+    "timestamp": "2025-04-16 08:11:43"
 }
