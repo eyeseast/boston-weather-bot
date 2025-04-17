@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-17T06:53:00+00:00",
-            "temperature_f": 39.92,
-            "temperature_c": 4.4,
-            "humidity": 59.521720372817,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 250,
+            "timestamp": "2025-04-17T09:53:00+00:00",
+            "temperature_f": 37.04,
+            "temperature_c": 2.8,
+            "humidity": 66.620363339567,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 200,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-17T04:00:00-04:00",
-                "endTime": "2025-04-17T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 37,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 37. West wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-04-17T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-17T08:00:00-04:00",
                 "endTime": "2025-04-17T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 58. West wind 8 to 12 mph."
+                "detailedForecast": "Sunny, with a high near 58. West wind around 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-17T18:00:00-04:00",
+                "endTime": "2025-04-18T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 36. West wind 3 to 9 mph."
             }
         ]
     },
-    "weather_report": "The night over Boston embraces a cool calmness, with the sky gently fading into the backdrop of a day yet to awaken. Currently, the temperature hovers around the fresh low of 37 degrees, and a gentle west wind whispers at approximately eight miles per hour, promising a crisp start to the morning. As dawn draws closer, the promise of a sunny day emerges, with a high near 58 illuminating the landscape. \n\nToday\u2019s weather invites you to revel in the outdoors. The clarity of the sky ahead portends a pleasantry rarely found in the haze of spring, making it much too inviting to stay indoors. A light jacket will serve you well in the coolness of the morning, while layers become your ally as the sun ascends, warmly greeting the city. A walk through the Common or a leisurely visit to a local caf\u00e9 could provide a delightful reprieve, a chance to embrace the day as it unfolds. Feel free to explore the charming streets, but be prepared for a gentle breeze as the sun fully graces the horizon.",
-    "color_code": "#A9C1D5",
-    "timestamp": "2025-04-17 04:09:47"
+    "weather_report": "A crisp morning dawns over Boston, where the clear, cloudless sky invites an exuberance that seems to resonate with the bright, beckoning sun. Temperatures hover pleasantly, suggesting a balmy high will brush against 58 degrees. The gentle westward wind dances through the trees, rustling their leaves and adding a spirited note to the day. By nightfall, the air will calm, transforming into a tranquil invitation that drapes the city in a serene stillness, with temperatures dipping toward the comfortable embrace of 36 degrees.\n\nAs you step outside, consider donning layers that acknowledge the morning chill while remaining light enough for the warmth to come. A light jacket or a cozy sweater should serve well as you wander the city streets or enjoy a leisurely stroll along the waterfront. With such splendid weather, an afternoon at one of Boston\u2019s picturesque parks, perhaps the Boston Common or Public Garden, could provide the perfect backdrop for leisurely reading, quiet reflection, or engaging conversation with friends. Take a moment to savor a coffee at a nearby caf\u00e9 while absorbing the vibrant pulse of the city, attuned to its rhythm, as life unfolds in the golden light of a clear day.",
+    "color_code": "#A7C7E3",
+    "timestamp": "2025-04-17 08:11:39"
 }
