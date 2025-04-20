@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-19T17:53:00+00:00",
-            "temperature_f": 82.94,
-            "temperature_c": 28.3,
-            "humidity": 34.354542776464,
-            "wind_speed_mph": 62.00964,
-            "wind_direction": 250,
-            "description": "Clear"
+            "timestamp": "2025-04-20T02:53:00+00:00",
+            "temperature_f": 73.94,
+            "temperature_c": 23.3,
+            "humidity": 53.397094170713,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-04-19T16:00:00-04:00",
-                "endTime": "2025-04-19T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 80,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 80. Southwest wind around 14 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-04-19T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-04-20T00:00:00-04:00",
                 "endTime": "2025-04-20T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": null
                 },
                 "windSpeed": "13 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain,40/bkn?size=medium",
-                "shortForecast": "Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain before 11pm. Mostly cloudy, with a low around 54. West wind around 13 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 54. West wind around 13 mph, with gusts as high as 24 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-04-20T06:00:00-04:00",
+                "endTime": "2025-04-20T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "15 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 62. Northwest wind around 15 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds beneath a partly sunny canopy, the warmth of the sun nudging the temperature near a delightful 80 degrees. A gentle southwest breeze dances through the streets, hinting at an invigorating promise of outdoor comfort, although it carries occasional gusts that playfully rustle the leaves above. As twilight approaches, the clouds thicken, and a chance of evening rain casts a soft shadow over the day. While the allure of the sun may wane into soft overcast, the air cools neatly into the mid-fifties, inviting a cozy embrace from a light jacket or a sweater.\n\nAs the day carries forward, this is the kind of weather that beckons one to venture outside, perhaps to explore the winding pathways of a nearby park or to linger with a good book at a local caf\u00e9. Those drawn to the waterfront might find solace in the breeze, as the evening stirs gently, offering a chance to reflect and unwind. With the changing skies leading to the possibility of rain, it\u2019s wise to carry an umbrella, ensuring that the vibrant lifestyle of Boston continues unabated, come what may.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-04-19 16:07:05"
+    "weather_report": "As the night drapes its quiet cloak over Boston, the city lies under a tapestry of scattered clouds, the air a cool embrace of subtle whispers around 54 degrees. The brisk west winds, rustling like a gentle conversation in the trees, carry the promise of clearer skies ahead. As dawn approaches, one can almost sense the warmth that the sun will soon bestow. Tomorrow\u2019s forecast speaks of sunshine painted over a canvas of blue, rendering a high near 62, while the northwest gusts will invigorate the atmosphere, reminding all who venture out to feel alive in its presence.\n\nFor those waking to this serene morning, consider dressing in layers\u2014perhaps a light sweater or jacket to stave off the lingering chill, complemented by comfortable trousers and sturdy shoes for the adventures of the day. It\u2019s an opportune moment to wander through the winding paths of the city or find solace among the quiet corners of a local caf\u00e9. Engage in contemplative strolls, meandering along the waterfront, where the gentle lapping of waves sings in harmony with the crisp air. A visit to a nearby park, adorned with budding greenery, offers a retreat that captures the essence of spring, inviting you to breathe deeply and appreciate the delicate balance between nature and city life.",
+    "color_code": "#748C8C",
+    "timestamp": "2025-04-20 00:07:48"
 }
