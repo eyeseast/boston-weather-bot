@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-20T17:53:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 21.70309544818,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2025-04-20T22:53:00+00:00",
+            "temperature_f": 62.059999999999995,
+            "temperature_c": 16.7,
+            "humidity": 18.800679553469,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 300,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-04-20T16:00:00-04:00",
-                "endTime": "2025-04-20T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 62. Northwest wind around 17 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-04-20T18:00:00-04:00",
+                "startTime": "2025-04-20T20:00:00-04:00",
                 "endTime": "2025-04-21T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 15 mph",
+                "windSpeed": "3 to 10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 36. Northwest wind 3 to 15 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly clear, with a low around 36. Northwest wind 3 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-04-21T06:00:00-04:00",
+                "endTime": "2025-04-21T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "2 to 10 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 62. Southeast wind 2 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon reveals a splendid expanse of sunshine, wrapping the city in a gentle embrace, the vibrant blues of the sky juxtaposed against the vigorous rustle of tree branches stirred by a lively northwest wind. As daylight wanes towards evening, the temperature settles comfortably in the low 60s, casting a pleasant warmth over the streets yet hinting at the evening chill that beckons from the horizon with whispers of a 36-degree night ahead. The air is crisp but invigorating, and visibility stretches endlessly\u2014free from the veil of fog, offering splendid views of both urban and natural landscapes.\n\nAs the sun begins its descent, the tranquil beauty of this spring day invites exploration. Layering your attire will serve you well, allowing for the day's warmth to mingle with the approaching coolness\u2014perhaps a lightweight sweater over a simple shirt, paired with comfortable trousers for those strolling along the Charles or sitting on a park bench with a good book. Take a leisurely walk to soak in the canvas of a pleasing day, or perhaps indulge in an outdoor caf\u00e9 visit, where the cool breeze complements a warm cup of coffee, inspiring quiet conversations that drift like the puffy clouds overhead. Evening's calm beckons a chance to savor simplicity\u2014a moment to reflect, breathe deeply, and appreciate the serene beauty of a day well lived.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-04-20 16:06:49"
+    "weather_report": "As dusk unfolds over Boston, the sky transforms into a serene canvas, presenting a blend of deep navy and muted hints of twilight. The air grows still, and the low temperature whispers hints of a chill that beckons a cozy embrace, perhaps in the form of a lightweight scarf or a soft jacket. Tonight\u2019s air is crisp, carrying with it the faint rustle of the early spring, the gentle reminder of winter\u2019s retreat while still holding onto moments of coolness.\n\nWith the dawn on the horizon, the morrow promises to awaken with sunny grace, the kind of day that stirs the soul and invites leisurely strolls through the city. A high near sixty-two degrees will lace the day with warmth, so thoughtfully choose your attire\u2014something breathable yet layered, allowing for the joy of being outdoors while still being prepared for that occasional breeze. It\u2019s a splendid time to wander through the parks or perhaps visit a local caf\u00e9, basking in the sunlight streaming through budding leaves. The ensuing hours promise to cradle citizens in an embrace of vibrancy, urging a sigh of gratitude for the fleeting beauty of spring.",
+    "color_code": "#002F6C",
+    "timestamp": "2025-04-20 20:32:21"
 }
