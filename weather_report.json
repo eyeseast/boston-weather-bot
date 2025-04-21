@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-21T06:53:00+00:00",
-            "temperature_f": 42.08,
-            "temperature_c": 5.6,
-            "humidity": 42.711004837581,
+            "timestamp": "2025-04-21T10:53:00+00:00",
+            "temperature_f": 39.02,
+            "temperature_c": 3.9,
+            "humidity": 66.864121260669,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-21T04:00:00-04:00",
-                "endTime": "2025-04-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 38. Northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-04-21T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-21T08:00:00-04:00",
                 "endTime": "2025-04-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -49,14 +30,33 @@
                     "value": null
                 },
                 "windSpeed": "2 to 10 mph",
-                "windDirection": "E",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 62. East wind 2 to 10 mph."
+                "detailedForecast": "Mostly sunny, with a high near 62. Southeast wind 2 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-21T18:00:00-04:00",
+                "endTime": "2025-04-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,70?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely between 11pm and 5am, then rain showers likely and patchy fog. Cloudy, with a low around 47. South wind 7 to 10 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the sky remains mostly clear, harkening the promise of a pleasant day ahead. The cool air embraces the city, a gentle reminder of spring's tentative arrival, with temperatures dipping into the lower 30s overnight. With a whispering northwest wind, the city awakens in an idyllic calm, offering a serene backdrop for morning rituals. \n\nAs the sun stretches its rays, today will unfold with mostly sunny skies and a warming embrace, ushering highs near 62 degrees. The soft east wind will add a certain buoyancy to the air, inviting a leisurely stroll along the Charles or perhaps a quiet moment with coffee at an outdoor caf\u00e9. To navigate this inviting day, consider layering a light jacket over a comfortable shirt, allowing for a gentle transition from the cool morning to the midday warmth. Such tranquil conditions provide opportunities for a reflective walk through the Public Garden, where budding flowers burst forth in colorful celebration or perhaps a quiet hour spent reading in a sun-drenched park corner, letting the rhythm of the city envelop you in its soft embrace.",
-    "color_code": "#A5C0B0",
-    "timestamp": "2025-04-21 04:09:48"
+    "weather_report": "This morning, Boston awakens under a gentle embrace of warmth, the sun casting a soft glow that hints at the beauty of the day ahead. The air is crisp yet inviting, making it a fine opportunity for a leisurely stroll along the Charles River, where the water glimmers in tandem with the sky. As the hours drift closer to midday, temperatures are set to rise, nudging playfully toward a comfortable 62 degrees. The winds whisper softly from the southeast, barely rustling the budding leaves.\n\nHowever, as evening approaches, the serene tiding of the day will yield to a more elusive character. Rain showers are anticipated to unfurl their misty tendrils between midnight and dawn, carrying with them the promise of patchy fog that may linger in the corners of the city, cloaking the streets in a gauzy veil. As the temperature dips toward a cooler 47, the gentle embrace of a light jacket may be in order; perhaps even a forgiving scarf to ward off the evening chill. For those with their hearts set on evening outings, seeking refuge in a cozy caf\u00e9 with a warm drink and a good book might be the best way to ride out the anticipated rain, enjoying the simple pleasures of urban life as the world outside transforms under a curtain of refreshing droplets.",
+    "color_code": "#A5C4D9",
+    "timestamp": "2025-04-21 08:11:26"
 }
