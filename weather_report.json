@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-21T18:53:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 21.70309544818,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 240,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-04-21T22:53:00+00:00",
+            "temperature_f": 51.08,
+            "temperature_c": 10.6,
+            "humidity": 38.984929340657,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 190,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-04-21T16:00:00-04:00",
-                "endTime": "2025-04-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 62. South wind around 12 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-04-21T18:00:00-04:00",
+                "startTime": "2025-04-21T20:00:00-04:00",
                 "endTime": "2025-04-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 80
                 },
-                "windSpeed": "7 to 12 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,80?size=medium",
                 "shortForecast": "Cloudy then Rain Showers",
-                "detailedForecast": "Rain showers after midnight. Cloudy, with a low around 49. South wind 7 to 12 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain showers after midnight. Cloudy, with a low around 49. South wind around 9 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-04-22T06:00:00-04:00",
+                "endTime": "2025-04-22T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 73,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 50
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/bkn?size=medium",
+                "shortForecast": "Chance Rain Showers then Partly Sunny",
+                "detailedForecast": "A chance of rain showers before 8am. Partly sunny, with a high near 73. Southwest wind 7 to 14 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds beneath a veil of clouds, their gray tones casting a subdued ambiance over the city. The air is cool yet moderately inviting at around sixty-two degrees, accompanied by a gentle south wind that whispers through the streets, hinting at the rain that will weave its way into the night. As the sun makes its way toward the horizon, a curtain of stillness settles over the landscape, punctuated only by the occasional flutter of leaves stirred by the breeze. This evening, expect rain showers to sweep in shortly after midnight, as the temperatures dip to a brisk forty-nine. A promise of eighty percent precipitation looms over the city, with whispers of a fine mist falling gently, making the air even cooler and crisper.\n\nAs clouds blanket the sky, envision dressing in layers\u2014a light sweater adorned with a scarf, perhaps, complemented by a waterproof jacket ready to shield against the impending showers. Today invites simple pleasures: perhaps a leisurely stroll through the cobbled streets, savoring a warm cup of coffee or a visit to one of Boston\u2019s many intimate bookshops, where the scent of old volumes mingles with the aroma of freshly brewed pastries. The gray sky can inspire reflection and quiet moments, perfect for seeking out a cozy corner to read or to muse quietly by the window, watching droplets play their dance against the glass.",
-    "color_code": "#A5A8AD",
-    "timestamp": "2025-04-21 16:07:38"
+    "weather_report": "As twilight falls over Boston, the air is thick with anticipation, carrying the scent of rain that is destined to transform the landscape overnight. The sky is a muted canvas, draped in a cloak of clouds, hinting at the 80% chance of showers that will soon arrive. With temperatures settling around 49 degrees, a soft breeze from the south gently whispers through the streets, adding a chill to the evening. Those venturing out might find it wise to don a light jacket and perhaps an umbrella, as the night is poised to offer a few sprightly showers just after midnight.\n\nTomorrow dawns with the promise of transition, the lingering raindrops giving way to moments of sunlight as the day unfolds. A high near 73 invites a sense of warmth, though the remnants of evening moisture may still linger. A fleeting chance of light showers gives way to partly sunny skies, perfect for a leisurely stroll in the commons or to seek refuge in a cozy caf\u00e9, savoring a warm drink as a gentle wind brushes the leaves. For those inclined to explore, it may also be the perfect moment to visit a local bookstore or art gallery, relishing the blend of warmth and the rejuvenating aftermath of the rain.",
+    "color_code": "#666666",
+    "timestamp": "2025-04-21 20:30:47"
 }
