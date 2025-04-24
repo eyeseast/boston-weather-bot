@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-24T06:53:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 52.341729915711,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": null,
-            "description": ""
+            "timestamp": "2025-04-24T10:53:00+00:00",
+            "temperature_f": 46.04,
+            "temperature_c": 7.8,
+            "humidity": 76.360744861859,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-24T04:00:00-04:00",
-                "endTime": "2025-04-24T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 45. North wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-04-24T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-24T08:00:00-04:00",
                 "endTime": "2025-04-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 72,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 72. East wind 3 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-24T18:00:00-04:00",
+                "endTime": "2025-04-25T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 50. Southwest wind 6 to 13 mph."
             }
         ]
     },
-    "weather_report": "As the early hours of the morning stretch gently into dawn over Boston, the city is blanketed in a serene embrace of stillness, the air crisp and cool, reflecting the promise of a bright day ahead. Currently hovering around 45 degrees, a light breeze from the north meanders through the streets, evoking an unhurried sense of awakening. The night has played hide-and-seek with the clouds, yielding only a few, hinting at the clarity that the sun will soon bring.\n\nAs the sun rises above the horizon, Thursday is expected to unfold in a glorious display of blue skies and sun-kissed warmth, with temperatures climbing to a comfortable 72 degrees. The eastern breeze will play its part, lending a welcoming touch to the unfolding day. Such conditions encourage the unhurried moments of life: perhaps a leisurely stroll through the parks, or a quiet visit to a local caf\u00e9 for a morning cup of coffee, where one can savor both the drink and the company of fellow dawn seekers. Dress in layers; a light jacket would serve you well in the cooler morning, giving way to something more casual as the sun warms the air. Engage in simple pleasures, watch the world come alive, or simply lose yourself in a book while perched on a bench, allowing the beauty of the day to wash over you.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-04-24 04:09:39"
+    "weather_report": "Morning graces Boston with a promise of a splendid spring day. Currently kissed by soft sunlight, the city awakens beneath a sky of serene azure, adorned with a few fluffy clouds that seem content to drift lazily by. The air carries a pleasant freshness, hinting at the gentle eastward breeze that stirs with a whisper, urging you to step outside and savor the moment. The temperature dances close to a delightful warmth, coaxing us to shed heavier layers and embrace lighter attire that still offers a gentle shield against the coolness lingering from night.\n\nAs the day unfolds, expect the sun to shine brighter, illuminating the streets with a soft glow and drawing people outdoors. A stroll through the Public Garden, perhaps, would be well-suited to such a day, where blooming flowers provide splashes of color amidst lush greenery. For those who find joy in quieter moments, a cozy caf\u00e9 with an inviting outdoor seating area would offer a perfect respite to sip on a warm beverage and watch the city animate around you. As the evening approaches, the sky will collect hints of evening\u2019s blush, and it's wise to keep a light jacket at hand, considering the temperature will dip gently, inviting a calm end to a fulfilling day.",
+    "color_code": "#87CEFA",
+    "timestamp": "2025-04-24 08:12:05"
 }
