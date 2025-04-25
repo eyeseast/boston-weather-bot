@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-24T18:53:00+00:00",
-            "temperature_f": 75.92,
-            "temperature_c": 24.4,
-            "humidity": 25.362014356795,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2025-04-25T02:53:00+00:00",
+            "temperature_f": 57.92,
+            "temperature_c": 14.4,
+            "humidity": 55.493664570432,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-04-24T16:00:00-04:00",
-                "endTime": "2025-04-24T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 72,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 to 12 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 72. South wind 8 to 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-04-24T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-04-25T00:00:00-04:00",
                 "endTime": "2025-04-25T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "6 to 13 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/smoke?size=medium",
-                "shortForecast": "Patchy Smoke",
-                "detailedForecast": "Patchy smoke between 10pm and 5am. Mostly cloudy, with a low around 53. Southwest wind 6 to 13 mph."
+                "shortForecast": "Smoke",
+                "detailedForecast": "Smoke. Mostly cloudy, with a low around 53. Southwest wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-04-25T06:00:00-04:00",
+                "endTime": "2025-04-25T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 74,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "1 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/smoke/bkn?size=medium",
+                "shortForecast": "Smoke then Partly Sunny",
+                "detailedForecast": "Smoke before 11am. Partly sunny. High near 74, with temperatures falling to around 67 in the afternoon. Northwest wind 1 to 10 mph."
             }
         ]
     },
-    "weather_report": "A gentle warmth envelops Boston this afternoon, as the sun takes center stage behind a canvas of azure, punctuated by wispy clouds that drift lazily across the sky. The temperature, hovering around a comfortable 72 degrees, invites one to step outside and bask in the early spring light. The south winds, soft and soothing, sweep through the city, encouraging a leisurely stroll along the banks of the Charles or a quiet afternoon in one of the city's charming parks. \n\nAs twilight approaches, the scene will shift. Expect the vibrant hues of the day to fade into a more subdued palette; a patch of smoke likely to linger in the night air could cast a veil over the evening, supporting the banks of low clouds that are forecast to gather. With temperatures dipping to a cool 53 in the late hours, a light sweater or jacket will serve you well should you find yourself outside. Tonight may be an opportune moment to explore the hidden nooks of Boston's neighborhoods: the allure of a local caf\u00e9, perhaps, or a quiet corner for reading that has long been overlooked. There\u2019s much to appreciate in these transitional hours, lending the evening an air of calm that accompanies the soft hum of the city winding down.",
-    "color_code": "#A2B2D6",
-    "timestamp": "2025-04-24 16:07:36"
+    "weather_report": "The night settles over Boston, draping the city in a shroud of smoke that quietly envelops its landscapes. As dawn approaches, a ghostly veil lingers, casting a muted glow. Though the air is mild, at about fifty-three degrees, the scene hints at a nascent day that may feel more hazy than bright. The quiet southwest breeze, gently nudging through the corners of the city, carries both the promise and uncertainty of the hours ahead.\n\nCome morning, the smoke is expected to dissipate, giving way to fragmented sunlight that encourages a more optimistic view. By afternoon, the temperature will descend to a comfortable sixty-seven, one that invites flannel or light sweaters while walking along the seafront or exploring the cobblestone streets of Beacon Hill. As the day unfolds, the weather transforms into a canvas of shifting light, with hints of blue peeking through the clouds, beckoning you to savor quiet moments at an outdoor caf\u00e9, or to meander through one of Boston\u2019s historic parks, all while keeping an eye on the weather's delicate changes.\n\nIn this atmospheric embrace, it\u2019s a day that whispers of tranquility, ideal for simple pleasures. Perhaps a leisurely stroll along the Charles River or a visit to a local art gallery, where the clarity of day and the nuances of shaded colors mirror the subtle transformation in the sky. Indeed, dress accordingly, and step into the day with a sense of exploration, for Boston holds its secrets in the interplay of shadows and light.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2025-04-25 00:08:32"
 }
