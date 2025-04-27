@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-27T06:53:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 58.518037708605,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 280,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-04-27T10:53:00+00:00",
+            "temperature_f": 48.02,
+            "temperature_c": 8.9,
+            "humidity": 58.088232736586,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 260,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-27T04:00:00-04:00",
-                "endTime": "2025-04-27T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 44. West wind around 14 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-04-27T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-27T08:00:00-04:00",
                 "endTime": "2025-04-27T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "13 to 18 mph",
+                "windSpeed": "15 to 18 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 56. West wind 13 to 18 mph, with gusts as high as 31 mph."
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 56. West wind 15 to 18 mph, with gusts as high as 31 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-27T18:00:00-04:00",
+                "endTime": "2025-04-28T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "9 to 20 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 48. Northwest wind 9 to 20 mph, with gusts as high as 33 mph."
             }
         ]
     },
-    "weather_report": "As the early morning unfolds over Boston, a gentle serenity blankets the city, with temperatures dipping to a brisk 44 degrees. The clear skies invite a cool breeze from the west, rustling through the quiet streets. As dawn breaks, it prepares the way for a Sunday filled with partly sunny hues, where the cool air will give way to a pleasant 56 degrees later in the day. The westward winds, whispering at 13 to 18 mph, carry a certain freshness that speaks of possibility, although they may gust forth with playful vigor now and again.\n\nSuch weather calls for a careful choice in attire\u2014a light jacket layered over a comfortable sweater should suffice, allowing one to embrace both the crispness of the morning and the gradual warmth of the afternoon. As the climate encourages exploration, the hours ahead invite a stroll through the nearby parks, where the freshness of the grass and the awakening of blossoms beckon. A quiet moment at a caf\u00e9, sipping something warm while looking out onto the unfolding city life, would perfectly suit this lovely day. For those seeking a modest adventure, a leisurely walk along the Charles River could provide rejuvenation, a treasured escape amid the gentle stirrings of a Boston spring day.",
-    "color_code": "#6A8E9B",
-    "timestamp": "2025-04-27 04:08:23"
+    "weather_report": "As dawn gives way to a quieter morning in Boston, the atmosphere is marked by a gentle mix of clouds against a backdrop of expansive sky. The brisk west wind, whispering through tree branches, carries with it the chill characteristic of spring, nudging the thermometer to a comfortable yet fresh high of 56 degrees. With gusts that dance around 31 mph, one may find a vibrant energy in the air, a readiness that beckons all to step outside. \n\nAs evening approaches, the clouds will part slightly, inviting glimpses of starlight amid a cool embrace that promises a low of 48 degrees tonight. It\u2019s a day when layering becomes essential; a light sweater or jacket paired with a scarf provides warmth against the brisk breeze, while comfortable shoes invite leisurely strolls through the streets or along the Charles. One might find pleasure in a quiet afternoon of visiting local coffee shops, indulging in warm beverages, or perhaps taking a walk through the emerald parks that spring forth with life and color. After all, this beautiful city, with its historic charm and urban rhythm, is best explored at a personal pace, letting the whispers of the evening guide the way.",
+    "color_code": "#A2B2D8",
+    "timestamp": "2025-04-27 08:10:21"
 }
