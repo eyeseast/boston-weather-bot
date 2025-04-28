@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-27T13:53:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 58.518037708605,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 290,
-            "description": "Light Rain"
+            "timestamp": "2025-04-27T23:53:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 58.366985638618,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 330,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-04-27T12:00:00-04:00",
-                "endTime": "2025-04-27T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "18 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain before 2pm. Mostly cloudy, with a high near 56. Northwest wind around 18 mph, with gusts as high as 31 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-04-27T18:00:00-04:00",
+                "startTime": "2025-04-27T20:00:00-04:00",
                 "endTime": "2025-04-28T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 48,
+                "temperature": 49,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "9 to 20 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 48. Northwest wind 9 to 20 mph, with gusts as high as 33 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 49. Northwest wind 10 to 15 mph, with gusts as high as 31 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-04-28T06:00:00-04:00",
+                "endTime": "2025-04-28T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 73,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 73. Northwest wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfurls its muted hues in Boston, a blanket of cloud gently envelops the skyline, offering a sense of tranquility amid the brisk spring air. With the day hovering around a cool fifty-six degrees and a northwest wind whispering through the streets at a steady eighteen miles per hour, the atmosphere breathes a refreshing chill. A mere hint of rain lingers in the forecast, although its appearance seems hesitant, likely to part ways before making any real impact. The chance for precipitation is low, resting easily at twenty percent, yet the clouds may drape the city with an enigmatic charm, lending itself to contemplative walks or quiet moments in sheltered spots.\n\nAs dusk approaches, expect the temperature to dip, settling to a comfortable forty-eight degrees. The winds will remain present, possibly prompting one to reach for a light jacket or scarf\u2014a wise choice for those who find solace in the calming embrace of the outdoors during these fleeting daylight hours. With the late afternoon sun struggling to break through the cloud cover, it may be an opportune time for leisurely pursuits that require neither the bustle of crowded places nor the blazing heat of unfiltered sunlight. Perhaps a quiet stroll along the Charles River will yield thoughts unfettered, or a seat at a local caf\u00e9 can nurture one\u2019s spirit with warm coffee as the world outside drifts softly into the evening.",
-    "color_code": "#9BB4C8",
-    "timestamp": "2025-04-27 12:07:06"
+    "weather_report": "As the evening deepens in Boston, a cloak of uncertainty drapes over the skyline; the low-hanging clouds scatter what remains of the day's light, revealing a waltz of shadow and soft glow. The temperature is cooling, settling around a crisp 49 degrees, and the air carries a gentle bite, stirred by a northwestern breeze\u2014an echo of winter's retreat yet still palpable in the evening's chill. For those out and about, a light jacket or sweater becomes a trusted companion to fend off the evening breeze, blending comfort with subtle sophistication.\n\nTomorrow promises a serene transition, as the sun will awaken to clear skies and a gentle warmth, nudging temperatures near 73 degrees with a soft wind teasing the branches above. It will be a day ideal for leisurely strolls through Boston\u2019s historic streets or perhaps a quiet afternoon in one of its lush parks. Consider indulging in a book while seated at a sidewalk caf\u00e9, or take a casual jaunt along the Charles, where the glimmer of blue and the laughter of passersby might lift your spirits. The juxtaposition of tonight's muted tones and tomorrow\u2019s vibrant promise creates an invitation to embrace both the calm of dusk and the beauty of a new day gently unfolding.",
+    "color_code": "#2E2D2E",
+    "timestamp": "2025-04-27 20:32:20"
 }
