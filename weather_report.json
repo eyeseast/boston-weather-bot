@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-04-30T06:53:00+00:00",
-            "temperature_f": 66.02,
-            "temperature_c": 18.9,
-            "humidity": 58.55887506803,
+            "timestamp": "2025-04-30T10:53:00+00:00",
+            "temperature_f": 66.92,
+            "temperature_c": 19.4,
+            "humidity": 58.680239594238,
             "wind_speed_mph": 37.04472,
-            "wind_direction": 210,
-            "description": ""
+            "wind_direction": 260,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-04-30T04:00:00-04:00",
-                "endTime": "2025-04-30T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 59. Southwest wind around 16 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-04-30T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-04-30T08:00:00-04:00",
                 "endTime": "2025-04-30T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 71,
+                "temperature": 68,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -49,14 +30,33 @@
                     "value": null
                 },
                 "windSpeed": "12 to 17 mph",
-                "windDirection": "W",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 71. West wind 12 to 17 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Sunny, with a high near 68. Northwest wind 12 to 17 mph, with gusts as high as 32 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-04-30T18:00:00-04:00",
+                "endTime": "2025-05-01T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 41,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 41. Northwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfurls its gentle embrace over Boston, a veil of clouds lingers, softening the night\u2019s edges and evoking a sense of tranquil anticipation. The temperatures hover in the mild territory, suggesting a refreshing morning that will soon blossom into a day of bright clarity. By mid-morning, the sun is expected to break through, unleashing its warmth and illuminating the city with golden rays. With the brisk winds from the west, it becomes a day where one might sense the rhythm of nature dancing with each gust, promising an invigorating experience outdoors.\n\nAs the hours melt away, consider donning light layers that invite the welcoming breeze without sacrificing comfort. A light jacket or sweater will be your ally against the morning chill and the fortifying winds that accompany the day. Engaging in simple pleasures, one might find joy in a mid-morning stroll along the harbor or a leisurely visit to a local caf\u00e9, allowing the harmonious blend of city sounds and the crisp air to envelop you. Embrace the ordinary; perhaps today is the day to explore a new book in a sunlit corner or to meet a friend for a quiet chat under the awakening trees. The simplicity of these moments enhances the beauty of a day that invites us to pause and savor the unfolding warmth.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-04-30 04:09:24"
+    "weather_report": "As the dawn breaks over Boston, the city awakens to a day brimming with potential and a certain crispness in the air. With the sun's gentle embrace warming the landscape, today promises to be mostly sunny, allowing for fleeting moments where shadows dance across the cityscape. A bite in the northwest wind whispers of spring's cool touch, yet it carries with it a refreshing clarity that invigorates the spirit. As the sun climbs towards its highest point, the temperature may rise near an agreeable 68 degrees, welcoming those who venture out into the day.\n\nTonight, the sky will settle into a calm embrace, a soft blanket of mostly clear expanse, inviting quieter moments under the stars. A light wind will continue to sweep through, but the chill will lull to a more comfortable low around 41, making evenings particularly suited for cozy sweaters and perhaps a light jacket. Given these conditions, today might call for a pleasant stroll along the Charles River, where the gentle ripples of water reflect the smiling sun above, or maybe a visit to a local caf\u00e9, ideal for sipping something warm and sharing thoughts with friends. The world outside beckons for simple joys, and for those who wander, the day offers a serene canvas on which to paint everyday adventures.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-04-30 08:11:51"
 }
