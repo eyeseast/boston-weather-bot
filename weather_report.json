@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-02T05:53:00+00:00",
-            "temperature_f": 51.08,
-            "temperature_c": 10.6,
-            "humidity": 76.817807374338,
+            "timestamp": "2025-05-02T11:20:00+00:00",
+            "temperature_f": 55.04,
+            "temperature_c": 12.8,
+            "humidity": 86.482711038053,
             "wind_speed_mph": 12.0798,
-            "wind_direction": 180,
-            "description": "Mostly Cloudy"
+            "wind_direction": null,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-02T04:00:00-04:00",
-                "endTime": "2025-05-02T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 60
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,60?size=medium",
-                "shortForecast": "Showers And Thunderstorms Likely",
-                "detailedForecast": "Showers and thunderstorms likely. Cloudy, with a low around 51. South wind around 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-05-02T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-02T08:00:00-04:00",
                 "endTime": "2025-05-02T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 80,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": null
                 },
                 "windSpeed": "12 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,70/bkn?size=medium",
-                "shortForecast": "Showers And Thunderstorms Likely then Mostly Cloudy",
-                "detailedForecast": "Showers and thunderstorms likely before 7am, then patchy fog and scattered showers and thunderstorms between 7am and 8am. Mostly cloudy, with a high near 80. South wind around 12 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Cloudy",
+                "detailedForecast": "Patchy fog before 9am. Mostly cloudy, with a high near 80. South wind around 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-02T18:00:00-04:00",
+                "endTime": "2025-05-03T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium",
+                "shortForecast": "Partly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog between 4am and 5am. Partly cloudy, with a low around 58. Southwest wind 7 to 12 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the air carries a whisper of moisture, heralding the arrival of lingering showers and the occasional rumble of thunder that reverberates softly in the distance. The clouds, heavy and gray, drape the city, painting a scene of muted colors against the glow of streetlights still flickering in the early morning. With temperatures hovering around a cool 51 degrees, it\u2019s a reminder that spring has not fully shaken off winter's chill. Those stepping out will find themselves accompanied by a gentle south wind that brushes against the skin, a hint of warmth beneath the overcast sky.\n\nAs the day unfolds, scattered showers and patchy fog are forecasted to linger through the morning, hovering lightly over the city like a soft shawl, before the sun attempts to break free later on. By midday, however, it is expected to rise to a warmer embrace, around 80 degrees, as if the universe conspires to restore a sense of normalcy after the night\u2019s tempest. It would be wise to dress in layers today; a light jacket will serve well against the dampness of the morning as one ventures into the unfolding day, while comfortable attire for the early warmth will make for an ease of movement in the hours to come. Perhaps indulge in the simple joy of a quiet stroll through the Public Garden, or visit one of the old coffee shops where the rich aroma of brewing coffee mingles with the sounds of soft conversation. Such moments turn into tender memories against the backdrop of an evolving sky\u2014a reminder to savor each fleeting second as spring dances toward summer.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2025-05-02 04:09:24"
+    "weather_report": "In the quiet morning hours of Boston, the air clings with a mild haze, a prelude to the day ahead. The fog, though teasingly present, is expected to lift, revealing a sky painted in soft, muted hues, as the sun pushes through with gentle warmth, promising a high around 80 degrees. A soft south wind whispers through the trees, inviting you to embrace the outdoor charm of the city that awaits beyond the gray veil.\n\nAs the sun starts its ascent, the afternoon beckons for leisurely strolls along the Esplanade or perhaps a visit to one of the city\u2019s peaceful parks, where the fresh scents of spring mingle with the laughter of people enjoying the day. Tonight, as the fog returns and the temperature dips to a comfortable 58 degrees, a cozy sweater or light jacket would be wise to embrace the evening chill. It\u2019s a just-right day for those who appreciate the gentle tug of nature, urging one to blend the warmth of the day with the cool caress of twilight, allowing for simple pleasures of reading outdoors or savoring a meal al fresco with friends.",
+    "color_code": "#A3C0C1",
+    "timestamp": "2025-05-02 08:11:45"
 }
