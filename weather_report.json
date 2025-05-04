@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-04T05:53:00+00:00",
+            "timestamp": "2025-05-04T09:53:00+00:00",
             "temperature_f": 60.980000000000004,
             "temperature_c": 16.1,
             "humidity": 89.659105457718,
-            "wind_speed_mph": 16.91172,
+            "wind_speed_mph": 20.93832,
             "wind_direction": 170,
-            "description": "Mostly Clear"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-04T04:00:00-04:00",
-                "endTime": "2025-05-04T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 59. South wind around 6 mph. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-05-04T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-04T07:00:00-04:00",
                 "endTime": "2025-05-04T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 74,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 30
                 },
-                "windSpeed": "3 to 7 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,20?size=medium",
-                "shortForecast": "Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 1pm. Cloudy. High near 74, with temperatures falling to around 67 in the afternoon. South wind 3 to 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,30?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers between noon and 5pm. Mostly cloudy. High near 74, with temperatures falling to around 67 in the afternoon. Southwest wind 7 to 13 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-04T18:00:00-04:00",
+                "endTime": "2025-05-05T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "5 to 12 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,60?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "A chance of rain showers before 9pm, then rain showers likely and patchy fog. Cloudy, with a low around 50. East wind 5 to 12 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning, Boston cradles itself in a gentle shroud of cloud cover, the air damp and the horizon softened by mist. The temperature hovers around a mild sixty degrees, as a light south wind stirs through the streets. There\u2019s a quiet promise of rain, though only a whisper of what may come later in the day, with the atmosphere heavy but expectant. As the hours move toward mid-afternoon, the clouds will linger persistently, with a modest chance of showers making their presence felt, a slight interruption to the day\u2019s rhythm. \n\nDespite the muted hues of the morning, the warmth may hold a certain comfort; dressing in layers\u2014perhaps a light jacket or a cozy sweater\u2014will be wise as temperatures shift gently throughout the day. It is a fine time to wander through the lesser-known corners of the city, perhaps the vibrant heart of a local caf\u00e9 or the tranquil aisles of a bookshop, where the dampness outside won\u2019t matter as you savor a warm drink and lose yourself in an engrossing story. A tranquil walk along the Charles River, with the city\u2019s lights reflecting softly upon the water, could offer solace and clarity. Embrace the day not as dreary but rich with potential, where every drop of rain holds the promise of renewal.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-05-04 04:08:30"
+    "weather_report": "The day unfolds in Boston beneath a shroud of clouds, creating an atmosphere that feels both contemplative and softly dreary. With the time nearing midday, a chance of rain showers lingers in the air, promising a brief interlude of dampness between noon and five. The high temperature, a modest 74 degrees, will float down to around 67, echoing the cool breath of spring just as it begins to yield to the warmth of summer. A gentle southwestern wind whispers through the leaves, though the overarching gloom of clouds might cast a veil over your spirit.\n\nAs twilight approaches, expect the rain to intensify, accompanied by the onset of patchy fog weaving its way into the evening. The temperatures will drop further to a cool 50, inviting you to layer up for the night ahead. A light jacket or sweater should suffice to ward off the chill while wandering through the quiet streets, perhaps discovering a favorite caf\u00e9 or tucked-away bookshop where the soft sounds of rain can accompany your thoughts. The forecast may hint at a changeable day, but with a little creativity, the evening presents an opportunity to embrace the tranquility that a rainy spring night brings.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2025-05-04 08:10:49"
 }
