@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-04T18:53:00+00:00",
-            "temperature_f": 75.92,
-            "temperature_c": 24.4,
-            "humidity": 53.678188152682,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 200,
+            "timestamp": "2025-05-04T22:53:00+00:00",
+            "temperature_f": 57.92,
+            "temperature_c": 14.4,
+            "humidity": 83.831702542696,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 40,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-04T16:00:00-04:00",
-                "endTime": "2025-05-04T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 77,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers. Cloudy. High near 77, with temperatures falling to around 68 in the afternoon. Southeast wind around 7 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-04T18:00:00-04:00",
+                "startTime": "2025-05-04T20:00:00-04:00",
                 "endTime": "2025-05-05T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,70?size=medium",
-                "shortForecast": "Chance Rain Showers then Patchy Fog",
-                "detailedForecast": "A chance of rain showers before 9pm, then patchy fog and a slight chance of rain showers between 9pm and 1am, then rain showers likely and patchy fog. Cloudy, with a low around 50. East wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "A chance of rain showers before 9pm, then rain showers likely and patchy fog. Cloudy, with a low around 50. East wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-05-05T06:00:00-04:00",
+                "endTime": "2025-05-05T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,80/rain_showers,70?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers and patchy fog. Cloudy, with a high near 57. Northeast wind 6 to 12 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, a thick blanket of cloud looms overhead, hinting at a moodily subdued atmosphere. While the thermometer edges toward a modest warmth, the sky's grey hue casts a gentle pall over the city, merging with the faint promise of rain. A light southeast breeze stirs, carrying whispers of the showers that may soon grace the pavement. As daylight wanes, the clouds will likely deepen, ushering in areas of fog that will soften the edges of familiar landscapes, transforming the world into something more ethereal.\n\nAs evening approaches, anticipate the gentle patter of rain against windows, creating a soothing backdrop to the night's quiet activities. With the temperature dipping towards a cooler 50 degrees, it is advisable to don layers\u2014perhaps a light sweater beneath a water-repellent jacket and sensible shoes for those brave enough to venture outside. The evening air, draped in mist, might call for a leisurely stroll down tree-lined streets or a cozy retreat to a beloved caf\u00e9, where the aroma of coffee mingles with the warmth of conversation. Indulging in a good book or savoring the ambiance of the night could be the perfect antidote to this serene yet somber setting, capturing the essence of a rainy evening in Boston.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-05-04 16:07:14"
+    "weather_report": "This evening in Boston, a veil of clouds settles over the city, suggesting a gentle embrace of the night. Expect rain showers to weave in and out before the clock strikes nine, following which a persistent rhythm of droplets and patchy fog will envelop the streets. Temperatures hover around a cool 50 degrees, carrying on the wind's soft caress, urging passersby to don layers that are both cozy and functional. A light, eastward breeze stirs the air, hinting at the dampness that the evening promises.\n\nAs we ease into tomorrow, a continuation of this drizzly embrace awaits, with clouds lingering overhead and fog painting soft silhouettes across the horizon. With highs reaching near 57, the atmosphere will likely feel brisk yet manageable, inviting you to wrap yourself in your favorite sweater as you venture out. This kind of weather is perfect for quiet moments spent immersed in a book at a local caf\u00e9, or perhaps a stroll under an umbrella, appreciating the sound of rain-kissed leaves. The charm of a rainy day lies in the small joys it brings\u2014finding warmth indoors or embracing the refreshing scent of rain-soaked streets.",
+    "color_code": "#6B7B93",
+    "timestamp": "2025-05-04 20:33:31"
 }
