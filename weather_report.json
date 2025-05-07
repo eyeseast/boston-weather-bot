@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-07T07:04:00+00:00",
-            "temperature_f": 60.980000000000004,
-            "temperature_c": 16.1,
-            "humidity": 86.802492444119,
-            "wind_speed_mph": 16.91172,
+            "timestamp": "2025-05-07T18:53:00+00:00",
+            "temperature_f": 71.96,
+            "temperature_c": 22.2,
+            "humidity": 44.092571572412,
+            "wind_speed_mph": null,
             "wind_direction": null,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-07T04:00:00-04:00",
-                "endTime": "2025-05-07T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Cloudy, with a low around 57. South wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-05-07T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-05-07T16:00:00-04:00",
                 "endTime": "2025-05-07T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 73,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/fog/rain_showers,20?size=medium",
-                "shortForecast": "Patchy Fog then Slight Chance Rain Showers",
-                "detailedForecast": "Patchy fog before 9am, then a slight chance of rain showers. Partly sunny, with a high near 73. Southwest wind 6 to 10 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers. Mostly sunny, with a high near 73. Southwest wind around 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-07T18:00:00-04:00",
+                "endTime": "2025-05-08T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/sct?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Partly Cloudy",
+                "detailedForecast": "A slight chance of rain showers between 7pm and 8pm. Partly cloudy, with a low around 53. Southwest wind 5 to 8 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the early hours, Boston is cloaked in a gentle shroud of fog, capturing the serene whisper of the night. As the skies begin to stir awake, the cloud cover hangs low, lending an air of mystery to the city, with temperatures resting comfortably at around fifty-seven degrees. The soft south wind meanders through the streets, inviting early risers to take a moment and breathe in the cool, moist air that fills the dawn. \n\nAs day breaks, the fog may linger until mid-morning, making way for a hint of sunlight that promises a slight clearing, revealing a canvas of partly sunny skies by midday. With a high expected near seventy-three, there will be opportunities to bask in the gentle warmth as the clouds recede. A light southwest breeze will accompany the day, making it quite pleasant despite the earlier scattered showers. Dress in layers to prepare for the changing light\u2014perhaps a light jacket for the morning chill that can easily be shed as day unfolds. \n\nAs the hours pass and the sun timidly displays itself, consider enjoying a leisurely stroll through one of Boston\u2019s thoughtfully tended parks or perhaps a quiet coffee on a patio where the world can be taken in at a relaxed pace. With the chance of rain diminishing, this day feels filled with potential for simple joys, whether it be reading your favorite book or catching up with a friend outdoors, all while being embraced by the welcoming embrace of spring.",
-    "color_code": "#A1C6D2",
-    "timestamp": "2025-05-07 04:10:03"
+    "weather_report": "Boston enjoys a gentle afternoon, as the sky presents a tapestry of soft clouds against an expanse of blue, lending a calming touch to the day. With a high approaching 73 degrees, the warmth invites one to step outside and relish the first hints of a budding summer. A light southwest breeze flits through the streets, rustling leaves and gently swaying the branches overhead. While there\u2019s only a modest probability of rain showers this afternoon, the air feels refreshing; a reminder that the weather can never truly be tamed.\n\nAs the sun dips lower in the sky, transitioning into evening, the atmosphere becomes more tranquil. With nighttime temperatures settling around 53 degrees, a light jacket or a cozy sweater will complement your evening stroll or casual outing. This is an ideal time to wander along the Charles River, perhaps indulging in a quiet moment at a nearby caf\u00e9, or simply absorbing the vibrant energy of the city. The slight chance of evening rain should not hinder plans but provides a quaint backdrop for those lingering over dinner or engaged in heartfelt conversation. Embrace the day\u2019s simplicity and enjoy the subtle beauty Boston has to offer.",
+    "color_code": "#A3C1E0",
+    "timestamp": "2025-05-07 16:07:47"
 }
