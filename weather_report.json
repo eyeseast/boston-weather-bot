@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-09T07:25:00+00:00",
-            "temperature_f": 55.04,
-            "temperature_c": 12.8,
-            "humidity": 86.482711038053,
-            "wind_speed_mph": 33.01812,
+            "timestamp": "2025-05-09T10:53:00+00:00",
+            "temperature_f": 53.96,
+            "temperature_c": 12.2,
+            "humidity": 86.423356721086,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 50,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-09T04:00:00-04:00",
-                "endTime": "2025-05-09T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-09T08:00:00-04:00",
+                "endTime": "2025-05-09T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "13 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/fog/rain_showers,90?size=medium",
+                "shortForecast": "Patchy Fog then Rain Showers",
+                "detailedForecast": "Patchy fog before 11am, then rain showers likely between noon and 3pm, then rain showers and patchy fog. Cloudy, with a high near 56. Northeast wind around 13 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-09T18:00:00-04:00",
+                "endTime": "2025-05-10T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 90
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "7 to 14 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,90/tsra,70?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 50. Northeast wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-05-09T06:00:00-04:00",
-                "endTime": "2025-05-09T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 70
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,70?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Patchy fog before 9am, then rain showers likely and patchy fog. Cloudy, with a high near 53. Northeast wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain showers and patchy fog before 7pm, then patchy fog and showers and thunderstorms. Cloudy, with a low around 50. Northeast wind 7 to 14 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "In the early hours of Friday, Boston awakens gently shrouded in a veil of patchy fog, the world around us a muted palette of grays. The air carries a coolness, settling in around fifty degrees, hinting at the quiet chill that sits just beneath the surface. While the fog may seem disorienting at first, there is a calm intrigue in this diminished visibility, where outlines of the familiar become soft and mysterious. As the morning unfolds, this misty curtain will give way to scattered rain showers, intertwining with the fog in a delicate dance, making for a gray and overcast day. The gentle, persistent whispers of a northeast wind will keep the air brisk and invigorating, coaxing those who venture out to bundle up a little. \n\nAs the day progresses, it would be wise to reach for a cozy sweater and perhaps a light waterproof jacket, embracing the practicality of layers. The allure of a caf\u00e9 calls, with the promise of warmth and the rich aroma of freshly brewed coffee inviting all to seek refuge from the dampness. An easy stroll through the hushed streets, while dodging the occasional shower, could unearth the quiet beauty of the city hidden beneath the clouds. This day may not hold the sun's brilliance, but it holds the charm of a cozy urban retreat, where gentle rain creates a rhythm that invites us to slow down and appreciate the simple pleasures that weave through our daily lives.",
-    "color_code": "#9cb3cc",
-    "timestamp": "2025-05-09 04:09:26"
+    "weather_report": "As the dawn breaks over Boston, the day unfolds cloaked in a thick veil of fog, an atmospheric blanket that softens the edges of the world while promising the soft patter of rain to come. The sky, an indistinct canvas of gray, surrenders to the whispers of the northeast wind, brushing through streets that lie silent, save for the murmurs of early risers. By midday, expect showers to grace the city, a gentle yet persistent percussion against rooftops and sidewalks, inviting the muted sounds of life to rise in tandem.\n\nFor those venturing out, this weather calls for thoughtful attire; perhaps a sturdy raincoat over layered clothing to fend off the chill, with an umbrella at the ready, an essential companion for the damp hours ahead. While the conditions may not lend themselves to grand outdoor pursuits, it is an opportune moment for quiet indulgences\u2014perhaps a stroll beneath the shelter of an awning, a visit to a local caf\u00e9 where the warmth of brewed coffee envelops you, or simply savoring the rhythmic lull of rain from a cozy corner. This is a day for savoring the little moments, where nature's embrace offers a compelling backdrop to the canvas of daily life.",
+    "color_code": "#B7B7B7",
+    "timestamp": "2025-05-09 08:11:43"
 }
