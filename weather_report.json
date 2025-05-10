@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-09T18:53:00+00:00",
+            "timestamp": "2025-05-09T23:53:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
-            "humidity": 85.680481185637,
-            "wind_speed_mph": 45.903240000000004,
+            "humidity": 89.22963410269,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 70,
-            "description": "Rain and Fog/Mist"
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-09T16:00:00-04:00",
-                "endTime": "2025-05-09T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 90
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,90?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy, with a high near 55. East wind around 13 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-09T18:00:00-04:00",
+                "startTime": "2025-05-09T20:00:00-04:00",
                 "endTime": "2025-05-10T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "7 to 14 mph",
+                "windSpeed": "7 to 13 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,90/rain_showers,70?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy, with a low around 50. Northeast wind 7 to 14 mph, with gusts as high as 25 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+                "detailedForecast": "Rain showers. Cloudy, with a low around 50. Northeast wind 7 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-05-10T06:00:00-04:00",
+                "endTime": "2025-05-10T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/rain_showers,50?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely before 5pm. Mostly cloudy, with a high near 62. Northwest wind 7 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the atmosphere is heavy with the promise of rain, a shroud of clouds draping the city in a cool embrace. With temperatures hovering around the mid-50s, a brisk easterly breeze stirs the air, carrying with it the damp scent of impending showers. As the day unfolds, the certainty of rain\u2014at a striking 90 percent chance\u2014suggests that the streets may become slick, glistening under a muted sky. This is not a day for spontaneity, rather one that invites warmth and comfort.\n\nAs evening approaches, the chill lingers with a low expected around 50 degrees. Northeastern gusts may whip through the city, stirring the puddles and reminding passersby to brace themselves against the elements. In such weather, layering becomes essential; a sturdy, waterproof jacket paired with an absorbent scarf will offer solace from both the wind and rain. As the night deepens, consider cozying up in a local caf\u00e9, enveloped in the aroma of fresh coffee and baked goods, allowing the rhythmic patter of rain on the windows to serve as a backdrop to reflections and quiet conversations. The invitation today is toward the warmth of community, a refuge from nature's embrace.",
-    "color_code": "#7D7D7D",
-    "timestamp": "2025-05-09 16:07:38"
+    "weather_report": "This evening in Boston, a steady drizzle falls under a thick blanket of cloud, casting a muted gray palette across the city. The air is cool, with a hint of dampness that wraps around as the temperatures dip toward the low fifties. A gentle breeze brushes through the streets, occasionally rising in gusts, reminding passersby of the need to embrace warmer clothing. As you step outside, consider donning a sturdy raincoat and perhaps some waterproof shoes to navigate the puddles that will surely form in the hours to come. \n\nTomorrow brings the likelihood of continued rain, especially before the clock strikes five. The clouds are reluctant to part, though a promise of slightly milder temperatures dances on the horizon. As the rain wanes throughout the day, the mist rising from the ground will create a serene atmosphere perfect for a contemplative stroll through Boston's quieter neighborhoods or perhaps a visit to an inviting caf\u00e9 where warmth and comfort await. Those with an inclination for the indoors may find solace in indulging in a good book or exploring local art, making for a pleasantly unhurried day despite the weather's chill.",
+    "color_code": "#4B7F88",
+    "timestamp": "2025-05-09 20:29:53"
 }
