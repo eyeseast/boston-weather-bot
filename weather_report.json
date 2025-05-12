@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-12T06:53:00+00:00",
-            "temperature_f": 39.92,
-            "temperature_c": 4.4,
-            "humidity": 79.13634713827,
+            "timestamp": "2025-05-12T10:53:00+00:00",
+            "temperature_f": 44.96,
+            "temperature_c": 7.2,
+            "humidity": 79.552255325388,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-12T04:00:00-04:00",
-                "endTime": "2025-05-12T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 41,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 41. Northwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-05-12T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-12T08:00:00-04:00",
                 "endTime": "2025-05-12T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 72,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 16 mph",
+                "windSpeed": "5 to 16 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 72. Southwest wind 3 to 16 mph."
+                "detailedForecast": "Sunny, with a high near 72. Southwest wind 5 to 16 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-12T18:00:00-04:00",
+                "endTime": "2025-05-13T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 52. West wind 3 to 15 mph."
             }
         ]
     },
-    "weather_report": "The early hours in Boston are marked by a calmness that blankets the city, the skies gently pushing back against the remnants of night. A mostly clear expanse awaits as dawn approaches, the temperature dipping to a crisp 41, beckoning those who venture outside to dress in layers. A light breeze drifts from the northwest, a whisper that carries the promise of a beautiful day to come. As the sun ascends towards its midday zenith, the forecast predicts a bright canvas overhead, highlighting the city in warm tones with temperatures nudging close to 72. The air, free of fog and mists, offers a refreshing clarity, inviting outdoor exploration.\n\nAs daylight unfurls its brilliance, this day presents an opportunity to indulge in simple pleasures. A stroll along the Charles River might reveal laughter and the soft lapping of water against the shore as joggers, dog walkers, and leisurely cyclists share the pathway. Alternatively, the local cafes offer a warm haven, serving rich coffee and pastries as the inviting aromas fill the air. Dressing in light layers is advisable, suitable for the gentle warmth of the sun while also accounting for the morning's cooler edge. This is a day for enjoyment, for taking in the sights and sounds that Boston has to offer, embracing the simplicity and beauty of an ordinary yet extraordinary day.",
-    "color_code": "#A9D9A8",
-    "timestamp": "2025-05-12 04:10:27"
+    "weather_report": "As the sun rises over Boston this morning, it offers a pristine canvas\u2014an unblemished blue sky, signaling a day filled with the warmth of spring. Today's promise is a high near 72, gently ushered in by a soft southwest breeze that lends an almost playful quality to the air. With no hint of fog disrupting the clarity, the city stands vibrant, beckoning you to step outside and bask in its embrace. Tonight, the temperature will settle near 52, inviting a sense of calm under a mostly clear sky, with a light west wind accompanying the transition into evening.\n\nIt is a wonderful morning, suggesting a wardrobe of light layers\u2014perhaps a comfortable cotton shirt and a light jacket for those cooler moments as the sun begins to dip. As the hours unfold, consider a leisurely stroll along the Charles River, where the water reflects the azure above, or find solace in a local caf\u00e9 with a sunlit patio, where you can sip a warm beverage while people-watching. The world feels open today, encouraging you to create simple yet meaningful moments as you meander through the rhythm of the city.",
+    "color_code": "#A2D6E8",
+    "timestamp": "2025-05-12 08:12:25"
 }
