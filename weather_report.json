@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-13T18:53:00+00:00",
-            "temperature_f": 73.04,
-            "temperature_c": 22.8,
-            "humidity": 35.388553077728,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 60,
+            "timestamp": "2025-05-13T22:53:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 30.666787956241,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 170,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-13T15:00:00-04:00",
-                "endTime": "2025-05-13T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 70. East wind around 12 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-13T18:00:00-04:00",
+                "startTime": "2025-05-13T20:00:00-04:00",
                 "endTime": "2025-05-14T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "3 to 10 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 50. Southeast wind 3 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 50. Southeast wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-05-14T06:00:00-04:00",
+                "endTime": "2025-05-14T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 71,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 1pm. Mostly cloudy, with a high near 71. Southeast wind 3 to 8 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "Boston finds itself basking in the warmth of a gentle afternoon sun, the air crisp yet inviting with hints of spring's embrace. As the day unfolds toward its golden moments, clouds linger, softening the sky, suggesting a tranquil evening ahead. With a subtle east wind nudging past at 12 mph, it feels like the city\u2019s heartbeat is aligned with nature\u2019s steady rhythm. The high, brushing close to 70 degrees, encourages a light touch in attire \u2014 perhaps a comfortable shirt paired with a cardigan for the coolness that settles in as twilight approaches.\n\nAs you transition into evening, the low dips to around 50, and the clouds gather more pronouncedly, cloaking the horizon in an evocative mystery. It\u2019s the kind of night to explore an intimate caf\u00e9, where the aroma of freshly brewed coffee mingles with laughter, or perhaps meander through nearby parks, taking in the fading light and the sound of leaves whispering against the fresh air. With the tranquility of the day still resonating, consider a leisurely stroll to appreciate the vibrant energy of the city as it prepares to wind down, making the most of this pleasant afternoon before settling into a cozy evening.",
-    "color_code": "#A8C5E1",
-    "timestamp": "2025-05-13 16:07:55"
+    "weather_report": "As twilight unfolds over Boston, the city is cloaked beneath a gentle tapestry of partly cloudy skies, hinting at the serenity of an approaching evening. The air, cool and inviting, carries a whisper of the sea as light winds from the southeast stir softly. The temperature rests comfortably as the sun dips below the horizon, painting the sky with residual warmth\u2014a promise of the pleasantness that tomorrow holds. While the likelihood of rain is slim, drifting clouds cast a subtle veil over the city, imbuing the skyline with a delightful softness that enhances its charm.\n\nAs you venture out this evening, consider donning a light jacket or sweater to ward off any cooler breezes, especially as the night deepens. This is the perfect time to wander the streets of Boston, perhaps indulging in a leisurely stroll along the Charles, where the reflective waters mirror the fading hues of dusk. Alternatively, a cozy caf\u00e9 beckons, where one can savor a warm drink, watching the world transition from the hustle of day to the tranquility of night. Engaging in simple pleasures like these is fitting for the eve\u2014a respite before the potential slight showers of Wednesday remind us of the ever-shifting nature of weather and life.",
+    "color_code": "#5B9BD5",
+    "timestamp": "2025-05-13 20:31:30"
 }
