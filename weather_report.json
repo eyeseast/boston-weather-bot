@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-14T05:53:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 76.720923803697,
+            "timestamp": "2025-05-14T10:53:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 82.954048467221,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-14T04:00:00-04:00",
-                "endTime": "2025-05-14T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 50. Southeast wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-05-14T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-14T08:00:00-04:00",
                 "endTime": "2025-05-14T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 69,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
                 "detailedForecast": "A slight chance of rain showers after 1pm. Mostly cloudy, with a high near 69. Southeast wind 3 to 8 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-14T18:00:00-04:00",
+                "endTime": "2025-05-15T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 57. Southeast wind around 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn approaches, Boston lies serenely under a blanket of clouds, the air whispering with the promise of a new day. The gentle southeast breeze carries the coolness of the night, hinting at the refreshment that accompanies the transition from darkness to light. As the sun begins its ascent, the city will awaken; however, the clouds might linger a bit longer, casting a veil that softens the horizon. With a high around 69, the day is poised to reveal itself amid the possibility of scattered rain showers in the afternoon, a light touch on the landscape that could make the air feel even more lush.\n\nAs the day unfolds, those planning to venture outdoors might find solace in light layered clothing\u2014a breathable fabric to embrace the warmth of mid-afternoon, tempered by a light jacket should the skies decide to release their lingering moisture. In this temperate calm, one might find delight in a leisurely stroll through the winding paths of a nearby park or perhaps indulge in the quiet solace of a cozy caf\u00e9, where one might sip a warm beverage while engaging in the comforting rhythm of gentle conversation. While the clouds may obscure the sun at times, the spirit of the day remains ripe for simple pleasures, suggesting a moment of reflection or connection with those around you.",
-    "color_code": "#BEC8D5",
-    "timestamp": "2025-05-14 04:09:46"
+    "weather_report": "A gentle embrace of cloud cover shrouds Boston this morning, wrapping the city in a muted light that suggests a softness to the day. The air, slightly thicker and tinged with the promise of rain, invites contemplation as the hours inch forward. As noon approaches, the prospect of light showers begins to murmur\u2014a possibility that lingers delicately in the atmosphere, underscored by a modest breeze that has settled in from the southeast. Today's high, framed at a mild 69 degrees, offers a comfortable canvas for simpler pleasures: a stroll through a nearby park perhaps, where the sounds of rustling leaves harmonize with the distant chatter of bustling city life.\n\nAs evening draws near, expect the clouds to deepen, cloaking the streets with a gentle gray. With temperatures dipping to a cozy 57, layering oneself in a light jacket or an oversized sweater will serve well against the coolness of night air, especially if an impromptu visit to a local caf\u00e9 beckons. One might gather with friends for a warm drink, the rhythmic patter of rain setting a soothing backdrop, ideal for relaxed conversation. Or, for the more adventurous, a quiet walk amidst the lightly falling rain could reveal the stunning reflections of streetlights glimmering on wet pavement.\n\nIn this serene and contemplative setting, both in the heart of the city and the embrace of nature, Boston's mood today is reflective\u2014an invitation to pause, be present, and enjoy the simple, understated beauty of a spring day.",
+    "color_code": "#A4B8D8",
+    "timestamp": "2025-05-14 08:11:54"
 }
