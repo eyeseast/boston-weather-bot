@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-15T05:53:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 86.697136399328,
+            "timestamp": "2025-05-15T11:00:00+00:00",
+            "temperature_f": 60.980000000000004,
+            "temperature_c": 16.1,
+            "humidity": 89.659105457718,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Cloudy"
+            "description": "Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-15T04:00:00-04:00",
-                "endTime": "2025-05-15T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers. Cloudy, with a low around 58. Southeast wind around 5 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-05-15T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-15T08:00:00-04:00",
                 "endTime": "2025-05-15T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 69,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "6 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,20?size=medium",
-                "shortForecast": "Scattered Rain Showers then Patchy Fog",
-                "detailedForecast": "Scattered rain showers before 8am, then patchy fog and isolated rain showers. Mostly cloudy, with a high near 69. Southeast wind around 6 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and isolated rain showers. Mostly cloudy, with a high near 69. Southeast wind around 6 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-15T18:00:00-04:00",
+                "endTime": "2025-05-16T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "1 to 5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers?size=medium",
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Areas of fog and isolated rain showers. Mostly cloudy, with a low around 60. South wind 1 to 5 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the darkness of night clings to Boston like a well-worn coat, the city is draped in a quiet veil of scattered rain showers. The air is cool and moist, whispering hints of the day to come. By dawn, when the sun prepares to break free from the horizon, it will usher in patchy fog and intermittent rain\u2014offers of a tranquil, yet somewhat drizzly Thursday. A low around fifty-eight offers a gentle embrace, and as the day unfurls, temperatures will creep towards a high of nearly sixty-nine, tempered by a soft, southeast wind.\n\nThe cobblestone streets, glistening from earlier rains, invite an early morning stroll, though one might want to be adorned in layers, favoring light fabrics that allow for transition as the day grows warmer yet remains shrouded in clouds. A breezy, light rain jacket will be your steadfast companion, ready to shield you from the lingering mist. As the hours pass, mild and muted light will dim the vibrancy of colors\u2014but perhaps it invites a certain introspective charm, perfect for finding solace in a cozy caf\u00e9, savoring a warm cup of coffee while watching life swirl past outside. \n\nWhen lunch beckons, a light bite in the company of close friends, or a visit to a local bookstore could unfold into an afternoon of quiet pleasures, where one can enjoy the rhythm of the rain outside mingling with the soft hum of conversation within. As you navigate the day, the subtle, damp aromas of the earth rise with the fog, reminding you that even the cloudiest days can offer a gentler kind of beauty, like a mellow sonnet carried on the breeze.",
-    "color_code": "#A3A8B0",
-    "timestamp": "2025-05-15 04:10:05"
+    "weather_report": "As dawn breaks over Boston, a gentle veil of fog embraces the city, mingling with the distant whispers of rain. The atmosphere is laden with moisture, presenting a landscape both serene and enigmatic. Visibility is muted, a soft blur that adds a layer of introspection to the morning stroll. The comfort of a light jacket would serve well against the coolness settling in, while a closed umbrella might be prudent for those venturing out, given the ever-so-slight chance of rain that teases the horizon. \n\nAs the day unfolds, expect a similar tableau; the sky remains predominantly cloudy, yet there is an underlying warmth just shy of 70 degrees, promising moments when the sun\u2019s elusive rays may grace the day. Activities could include a tranquil visit to a local caf\u00e9 where the foghorns of the harbor are a charming backdrop for reflections on the gentle ebb and flow of city life. Alternatively, a leisurely walk through a nearby park could provide solace, where even in the muted light, the budding spring flowers might hint at their vivid colors, waiting patiently to burst into bloom.",
+    "color_code": "#8FA3B0",
+    "timestamp": "2025-05-15 08:11:57"
 }
