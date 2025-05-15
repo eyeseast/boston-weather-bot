@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-14T18:53:00+00:00",
-            "temperature_f": 77.0,
-            "temperature_c": 25,
-            "humidity": 46.669625348466,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 50,
+            "timestamp": "2025-05-14T22:53:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 60.795284486152,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 20,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-14T16:00:00-04:00",
-                "endTime": "2025-05-14T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 70. Southeast wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-14T18:00:00-04:00",
+                "startTime": "2025-05-14T20:00:00-04:00",
                 "endTime": "2025-05-15T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 30
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,50?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between midnight and 3am, then a chance of rain showers and patchy fog. Mostly cloudy, with a low around 58. Southeast wind 5 to 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 11pm. Mostly cloudy, with a low around 58. Southeast wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-05-15T06:00:00-04:00",
+                "endTime": "2025-05-15T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 71,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/tsra,30?size=medium",
+                "shortForecast": "Chance Rain Showers then Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of rain showers before 1pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 71. Southeast wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "This afternoon, Boston basks under a canopy of soft sunlight, promising a delightful escape into the outdoors. The air feels fresh, with a gentle southeast breeze ruffling through the trees and mingling with the scent of early blooms. As the high flirts with 70 degrees, it invites leisurely strolls along the harbor or perhaps a visit to the neighborhood park, where the sun-kissed grass quietly beckons. Yet, as the day tiptoes toward evening, a hint of change lingers on the horizon. The clouds, eager to weave their blanket of gray, may bring a dance of light rain and some patchy fog after midnight. \n\nAs twilight approaches, the temperatures cool to around 58 degrees. It would be prudent to layer up with a light jacket, just in case the evening chill settles in. The unpredictability of the night suggests that leisurely indoor pursuits might be best\u2014perhaps a cozy evening at your favorite caf\u00e9, a quiet read by the window, or an exploration of Boston\u2019s vibrant restaurant scene. The chance for rain adds a pleasant suspense to the evening, as it can transform the city streets into a canvas shimmering under city lights.",
-    "color_code": "#A7C6ED",
-    "timestamp": "2025-05-14 16:07:12"
+    "weather_report": "As the twilight descends upon Boston, a moody tranquility permeates the air. Tonight whispers of rain linger in the atmosphere, promising a dance of showers after 11 PM\u2014a gentle reminder of spring\u2019s unpredictability. With the clouds hanging low, the prevailing hues cast a somber yet comforting ambiance, a perfect backdrop for reflection or quiet conversations. The temperature settles into a mild embrace, around 58 degrees, and a soft breeze stirs from the southeast, as if nature itself provides a calm lullaby.\n\nLooking ahead to Thursday, the forecast still carries hints of rain, heralding the possibility of sporadic showers and rumbles of thunder before noon. With a high nearing the comfortable 71 degrees, the day unfurls beneath the patchy clouds, invoking a sense of cautious optimism. The mutable weather calls for attire that layers well\u2014perhaps light, breathable fabrics beneath a water-resistant shell, ready to ward off the fleeting showers. As you step into the day, consider modest pursuits: enjoy a leisurely stroll through a city park, or find solace in a cozy corner of a coffee shop, where the scent of fresh brews and the hum of gentle chatter cradle you against the enveloping gray. In a city steeped in history and vibrancy, let the day unfold at a relaxed pace, aware of the occasional surprise nature may bring.",
+    "color_code": "#A3C4D1",
+    "timestamp": "2025-05-14 20:30:46"
 }
