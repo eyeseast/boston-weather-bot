@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-16T06:53:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 89.786765048381,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "timestamp": "2025-05-16T11:06:00+00:00",
+            "temperature_f": 66.02,
+            "temperature_c": 18.9,
+            "humidity": 87.065238588912,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 140,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-16T04:00:00-04:00",
-                "endTime": "2025-05-16T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 60. South wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-05-16T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-16T08:00:00-04:00",
                 "endTime": "2025-05-16T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 76,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a high near 76. Southeast wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-16T18:00:00-04:00",
+                "endTime": "2025-05-17T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers between 2am and 4am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 61. South wind 3 to 7 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dawn quietly approaches, the streets of Boston remain cloaked in a gentle shroud of cloudiness, the air holding onto a mild warmth \u2013 a comfortable low around sixty degrees. The soft touch of a southward breeze meanders through the city, whispering promises of a day that will slowly unfurl into a tapestry of muted gray. Friday is destined to be mostly cloudy, with temperatures reaching the mid-70s in the afternoon, crafting an atmosphere that feels both inviting and subdued.\n\nFor those venturing out, comfort is the order of the day. A light jacket or an easygoing sweater would provide just the right embrace against the coolness of the morning and early evening. As the day evolves, opportunities for simple pleasures abound. Perhaps a leisurely stroll along the Charles, where the soft rustle of leaves is met with the occasional laughter of passersby, or a quiet moment spent in one of Boston\u2019s many quaint caf\u00e9s, where the smell of freshly brewed coffee mingles with the elusive scent of rain yet to fall. Whether engaging in reflective solitude or the company of friends, today\u2019s introspective, yet uplifting mood invites exploration, offering a gentle reminder that beauty can often be found in the understated.",
-    "color_code": "#A3A3A3",
-    "timestamp": "2025-05-16 04:09:56"
+    "weather_report": "As the day unfolds in Boston, a muted tapestry of gray blankets the city, shrouded by a persistent layer of clouds that hints at the possibility of rain. The air carries a gentle warmth, quite pleasant for a May day, yet the overcast sky lends an air of tranquility and introspection, inviting you to slow down and savor the subtle beauty around you. The breeze whispers through the trees, barely perceptible, while the temperature reaches a comfortable 76 degrees. Tonight, as twilight beckons, a flirtation with rain showers dances on the horizon, followed by the quiet embrace of patchy fog, creating a soothing atmosphere that frees the mind of distractions. \n\nWith these conditions in mind, a simple wardrobe choice could include a light sweater or jacket for the evening\u2019s cooler air and the unpredictable flirtations of moisture. Perhaps a walk along the Charles River or a leisurely visit to one of Boston\u2019s inviting caf\u00e9s would be enticing. The day allows for quiet conversation or reflection, and as dusk descends, the allure of a good book in a cozy nook could be just the respite one needs. Engage deeply with the day\u2019s gentle currents, and let it inspire the small, meaningful moments that often go unnoticed in the hustle of life.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2025-05-16 08:12:32"
 }
