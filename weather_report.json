@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-15T14:53:00+00:00",
-            "temperature_f": 69.08,
-            "temperature_c": 20.6,
-            "humidity": 86.675935118971,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 130,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2025-05-15T21:12:00+00:00",
+            "temperature_f": 71.06,
+            "temperature_c": 21.7,
+            "humidity": 75.59455930106,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 200,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-15T12:00:00-04:00",
-                "endTime": "2025-05-15T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers. Mostly cloudy, with a high near 69. Southeast wind around 6 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-15T18:00:00-04:00",
+                "startTime": "2025-05-15T20:00:00-04:00",
                 "endTime": "2025-05-16T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 60,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": null
                 },
-                "windSpeed": "1 to 5 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers?size=medium",
-                "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog and isolated rain showers. Mostly cloudy, with a low around 60. South wind 1 to 5 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog. Cloudy, with a low around 60. South wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-05-16T06:00:00-04:00",
+                "endTime": "2025-05-16T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 76,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Partly Sunny",
+                "detailedForecast": "Patchy fog before 9am. Partly sunny, with a high near 76. Southeast wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "Boston is cloaked in a soft veil of clouds this afternoon, an invitation to those who find beauty in the introspective moments of a rainy day. Isolated showers drift lazily, occasionally leaving a delicate kiss of moisture on the rich, green landscape. With temperatures poised to linger near 69 degrees, the air carries a hint of warmth, tempered by a subtle breeze that whispers of the south. The atmosphere holds an air of promise tempered by a touch of wistfulness\u2014ideal for those who relish the serenity of a quiet afternoon.\n\nAs night approaches, expect areas of fog to roll in, further softening the edges of the city, making streetlights gleam like distant stars in a gentle haze. With a low creeping around 60 degrees, a light jacket would serve well against the coolness of the evening air. It\u2019s a perfect time for a leisurely stroll along the Charles River, where the mossy banks cradle the heart of the city, or perhaps to linger in a cozy caf\u00e9, the sounds of soft clinking glasses and hushed conversations creating a perfect backdrop for contemplation. Whether finding solace in a book or savoring the taste of a warm brew, the evening beckons with possibilities that feel both familiar and refreshing.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-05-15 12:08:34"
+    "weather_report": "As twilight envelops Boston, a gentle haze settles over the city, lending a soft mystery to the evening. The patchy fog, a whisper of the night air, gives reassurance on this warm May evening, urging locals to take their time as they wander through the pleasantly humid atmosphere. With temperatures hovering around a balmy 60 degrees, a light layer will suffice, perhaps a sweater or a light jacket to ward off the cool breeze that sometimes flutters in from the south.\n\nTomorrow greets us with more than just the promise of sun peeking through the clouds; it's a chance for Boston to emerge brightly from the morning fog. As the sun climbs higher, expect to see the city bathed in warm golden hues, reaching a comfortable 76 degrees. Perfect for a stroll along the Charles or a leisurely lunch at an outdoor caf\u00e9. A lighthearted exploration of local parks or a simple visit to a bookshop might satisfy your wanderlust, allowing the gentle breeze to invigorate your spirit as you embrace the beauty of spring with minimal fuss.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2025-05-15 20:31:45"
 }
