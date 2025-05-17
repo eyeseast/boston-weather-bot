@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-17T03:20:00+00:00",
-            "temperature_f": 66.02,
-            "temperature_c": 18.9,
-            "humidity": 83.803385441596,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 160,
+            "timestamp": "2025-05-17T07:23:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2025-05-17T00:00:00-04:00",
+                "startTime": "2025-05-17T04:00:00-04:00",
                 "endTime": "2025-05-17T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/tsra?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of showers and thunderstorms after 4am. Mostly cloudy, with a low around 61. South wind around 6 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 61. South wind around 3 mph."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 30
                 },
                 "windSpeed": "3 to 9 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,20?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of showers and thunderstorms. Mostly cloudy, with a high near 76. South wind 3 to 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/tsra,30?size=medium",
+                "shortForecast": "Scattered Showers And Thunderstorms",
+                "detailedForecast": "Patchy fog before 8am, then scattered showers and thunderstorms between 9am and noon, then scattered showers and thunderstorms. Mostly cloudy, with a high near 76. South wind 3 to 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night lingers over Boston, a veil of patchy fog envelops the city, softening the outlines of its familiar skyline. The low hum of distant cars and the muted glow of city lights hint at a life that continues beneath this gentle shroud, while a refreshing breeze whispers through the streets. The temperature sits comfortably around sixty-one, cradling the promise of warmer hours to come. The forecast ahead tells of a Saturday cloaked in a mix of clouds and a slight chance of showering thunderstorms, pulsating through the air like a gentle heartbeat, with expectations of a high near seventy-six.\n\nAs the morning unfolds, Boston will greet the day with lingering fog that dances with the light, creating an atmosphere tinged with mystery. It may be wise to dress for both the coolness of the early hours and the potential warmth as clouds give way to breaks and glimpses of blue. A light jacket or sweater layered over a comfortable outfit will suffice, while sturdy yet breathable footwear will invite spontaneous walks along the waterfront or visits to cozy cafes. Engage with the day\u2014perhaps a quiet stroll through a nearby park, where the soft greenery contrasts against muted skies, or a gentle read by a window, allowing the ambience to stir thoughts in your mind. Whether indoors or out, let the tranquility of this day envelop you.",
-    "color_code": "#4B4E4D",
-    "timestamp": "2025-05-17 00:08:13"
+    "weather_report": "The early hours in Boston wrap the city in a gentle shroud of clouds, a soothing symphony of muted hues echoing the calm prior to a day that may unfold into a spectacle of nature's temperament. As dawn breaks, residents may find themselves greeted by a whisper of fog, particularly in those brief moments before 8 AM, a fleeting mist that lingers and dances with the chill of the night. The promise of warmth surfaces as the day progresses, hinting at temperatures gently rising towards a comfortable 76 degrees, cloaked in a blanket of clouds that make it all the more inviting.\n\nHowever, anticipation of scattered showers and the potential for thunderstorms punctuates this otherwise serene atmosphere, urging Boston's denizens to prepare for a day that may flirt with unpredictability. Those stepping out might adopt a light layer to ward off the remnants of early coolness, perhaps favoring a sturdy umbrella or a water-resistant jacket as modern-day armor against the whims of the sky. This is the kind of day that invites quiet explorations; a leisurely saunter through the gardens at the Common may reveal a luminous backdrop for thoughts to meander or a visit to the local caf\u00e9 could transform into a cozy refuge amidst the anticipated showers. As the clouds swirl above, a sense of possibility lingers in the air, where the sweet mix of nature and city life unfolds with every passing moment.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-05-17 04:08:17"
 }
