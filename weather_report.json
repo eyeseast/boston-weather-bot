@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-16T18:53:00+00:00",
-            "temperature_f": 78.98,
-            "temperature_c": 26.1,
-            "humidity": 58.024326504283,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2025-05-16T23:53:00+00:00",
+            "temperature_f": 71.06,
+            "temperature_c": 21.7,
+            "humidity": 75.59455930106,
+            "wind_speed_mph": 33.01812,
             "wind_direction": 180,
-            "description": "Mostly Cloudy"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-16T16:00:00-04:00",
-                "endTime": "2025-05-16T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 76,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 76. Southeast wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-16T18:00:00-04:00",
+                "startTime": "2025-05-16T20:00:00-04:00",
                 "endTime": "2025-05-17T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "3 to 7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 2am and 4am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 61. South wind 3 to 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/tsra?size=medium",
+                "shortForecast": "Mostly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog and a slight chance of showers and thunderstorms after 4am. Mostly cloudy, with a low around 61. South wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-05-17T06:00:00-04:00",
+                "endTime": "2025-05-17T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 76,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,20?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and a slight chance of showers and thunderstorms. Mostly cloudy, with a high near 76. South wind 3 to 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "Amidst the gentle embrace of an early evening in Boston, the air hums softly with the promise of a day that has worn its sunshine with ease. With the temperature hovering around a comfortable 76 degrees, the southeast breeze teases the branches, whispering tales of nearby shores. Scattered clouds meander across the sky, a reminder that nature weaves through its own delicate patterns, creating a canvas both vibrant and soothing. As dusk approaches, the forecast hints at the possibility of rain showers and the formation of patchy fog\u2014an invitation to moments of introspection as the world outside begins to blur softly.\n\nFor those venturing out, light layers are advisable. A cardigan or a light jacket will serve well should the cool breathe of evening roll in. This is an opportune time to stroll through the verdant paths of the Commons or perhaps find refuge in a cozy caf\u00e9, savoring the day's sweetness while watching the light fade. Bostonians may find joy in simple pleasures\u2014perhaps a visit to a local bookstore, where the scent of aged paper mingles with the tranquility of the moment, or a leisurely walk along the waterfront, where the shimmering reflections dance upon the surface of the water, bidding farewell to the day.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2025-05-16 16:07:43"
+    "weather_report": "As twilight descends upon Boston this evening, a gentle haze envelops the skyline, hinting at the patchy fog mentioned in the forecast. The atmosphere feels thick with the promise of subtle moisture, a precursor to the showers and perhaps an occasional rumble of thunder that may arrive later in the night. With the temperature settling around a comfortable 61 degrees, the night air carries a humid warmth, ideal for leisurely strolls along the waterfront or an evening spent on a cozy porch, wrapped in a light shawl.\n\nTomorrow's forecast carries a similar thread, with the prospect of more fog and a slight chance for isolated thunderstorms weaving through the fabric of a mostly cloudy day. Highs will push towards 76, creating an inviting backdrop for quiet pursuits. One might choose to visit a local caf\u00e9 for a few hours, savoring a book or engaging in light conversation over steaming cups of coffee as the clouds keep the sun playfully at bay. For those drawn outdoors, breathable clothing paired with a light jacket would be appropriate, allowing for comfort against the shifting weather. As night gives way to day, the world outside may feel a little more serene, perfect for engaging with the subtleties of life in this vibrant city.",
+    "color_code": "#C2A6B0",
+    "timestamp": "2025-05-16 20:30:53"
 }
