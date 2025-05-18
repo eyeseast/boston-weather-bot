@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-17T17:53:00+00:00",
-            "temperature_f": 73.04,
-            "temperature_c": 22.8,
-            "humidity": 70.699104870945,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": null,
-            "description": "Mostly Clear"
+            "timestamp": "2025-05-17T22:53:00+00:00",
+            "temperature_f": 73.94,
+            "temperature_c": 23.3,
+            "humidity": 66.453172358623,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 190,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-17T16:00:00-04:00",
-                "endTime": "2025-05-17T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 77,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 77. South wind around 12 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-17T18:00:00-04:00",
+                "startTime": "2025-05-17T20:00:00-04:00",
                 "endTime": "2025-05-18T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "8 to 13 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/bkn?size=medium",
                 "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
-                "detailedForecast": "A slight chance of showers and thunderstorms between 8pm and midnight. Mostly cloudy, with a low around 59. Southwest wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A slight chance of showers and thunderstorms before midnight. Mostly cloudy, with a low around 59. Southwest wind 8 to 13 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-05-18T06:00:00-04:00",
+                "endTime": "2025-05-18T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 72,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,30?size=medium",
+                "shortForecast": "Mostly Sunny then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after noon. Mostly sunny, with a high near 72. West wind 10 to 15 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds in a gentle embrace of warmth, as the sun meanders through a canvas of partly sunny skies, inviting residents to step outside and relish the comforting temperature that hovers around a pleasant seventy-seven degrees. The south wind, a breezy whisper at twelve miles per hour, stirs the leaves softly, enhancing the day's easy charm. As twilight approaches, a slight chance of showers and rumbles of thunder may flirt with the evening, though such prospects feel tentative, with only a twenty percent chance of precipitation. The clouds will gather, veiling the vibrant sky as the temperature dips to a snug fifty-nine.\n\nThis evening, the air will likely carry a hint of imminent rain, leaving the ambience slightly moody yet refreshingly invigorating. Those venturing outdoors might consider donning a light jacket or sweater, an ally against the cooling breeze that often accompanies twilight. It is an opportune time to indulge in leisurely strolls, perhaps along the picturesque waterfront, where the soft sounds of nature harmonize with the gentle lapping of water against the shore. Alternatively, a cozy caf\u00e9 calls with its promise of warmth and a chance to share stories over steaming mugs. Whether unwinding with a book in a local park or savoring the lively atmosphere of a neighborhood bistro, today\u2019s weather provides an inviting backdrop for simple pleasures.",
-    "color_code": "#A6C9C3",
-    "timestamp": "2025-05-17 16:07:18"
+    "weather_report": "As twilight gently envelops Boston, the air is tinged with the possibility of a passing shower that might delight those who find solace in the rhythm of falling raindrops. With the night settling in, a soft veil of clouds shrouds the sky, hinting at a low temperature around 59, mingling the warmth of the day with the cool whispers of evening. The subtle breeze, a gentle reminder of the season, beckons from the southwest, rustling leaves and carrying the scent of the city after a long day. \n\nTomorrow, be prepared for a day that dances between the sun's embrace and the lingering presence of clouds, with temperatures rising to a mild 72. As the sun breaks through the cloud cover in the afternoon, there looms the expectation of light rain showers, evoking images of bicycles gliding past blossoming parks or quiet corners of coffee shops where one might linger, reading a well-loved book. Attire should accommodate these gentle shifts; a light jacket or sweater may serve well in the morning chill, transitioning toward lighter garments as the day warms, while a compact umbrella could be a prudent companion. With these conditions in mind, consider a leisurely stroll along the Charles River or perhaps a visit to one of Boston's many eclectic markets, where the world flows in and out, much like the ever-changing weather above.",
+    "color_code": "#3A5B9D",
+    "timestamp": "2025-05-17 20:34:27"
 }
