@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-19T06:53:00+00:00",
-            "temperature_f": 57.92,
-            "temperature_c": 14.4,
-            "humidity": 59.868539990946,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 300,
-            "description": "Cloudy"
+            "timestamp": "2025-05-19T10:53:00+00:00",
+            "temperature_f": 53.96,
+            "temperature_c": 12.2,
+            "humidity": 58.917436953004,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-19T04:00:00-04:00",
-                "endTime": "2025-05-19T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 53. Northwest wind around 17 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-05-19T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-19T08:00:00-04:00",
                 "endTime": "2025-05-19T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
                 "shortForecast": "Isolated Rain Showers",
                 "detailedForecast": "Isolated rain showers after 10am. Mostly cloudy, with a high near 60. Northwest wind around 18 mph, with gusts as high as 33 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-19T18:00:00-04:00",
+                "endTime": "2025-05-20T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "12 to 17 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 46. Northwest wind 12 to 17 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "As the world around us stirs awake in Boston this morning, the soft embrace of nighttime lingers, cloaked in shades of gray and whispers of cloud. The air, brisk and invigorating, carries a northwest wind that sends a playful shiver through the few leaves clinging to branches. With a gentle promise of rain later in the day, the sky holds onto its secrets, suspended between the remnants of darkness and the dawn\u2019s advance. \n\nBy late morning, isolated showers may brush the city, though anticipation is slight, a mere 20% chance suggesting that the heavens might choose to hold their gaze. Whether you wander the streets or pause for a warm cup of coffee, the atmosphere hints at a notable chill\u2014high near 60 degrees calls for layers that combine warmth with a dash of casual elegance. A light jacket paired with comfortable trousers will serve you well against the chill and the winds, which may gust with lively enthusiasm. As the day unfolds, consider meandering through Boston's quiet corners, perhaps the historic streets of Beacon Hill or the tranquil paths of the Public Garden. There, the subtle beauty of the day\u2014though muted\u2014still invites reflection and a slow enjoyment of life\u2019s simple pleasures.",
-    "color_code": "#A8B8C8",
-    "timestamp": "2025-05-19 04:10:46"
+    "weather_report": "In Boston today, the heavens seem to dance on the cusp of uncertainty. As the clock strikes ten, wisps of rain may emerge, lingering here and there, but overall the atmosphere holds a promise of mostly cloudy skies. The air carries a brisk kiss from the northwest, a wind that playfully tugs at loose strands and coaxes jackets into becoming companions. Temperatures hover around a gentle 60 degrees, inviting a blend of layers for comfort\u2014perhaps a soft sweater or a light jacket over a favorite shirt. \n\nAs evening approaches, the clouds may deepen, cradling the city in an embrace of mildness with lows settling around 46. Bundling up would seem wise, lest the wind become too familiar as twilight asserts its presence, inviting you to draw closer to the warmth of home. Amidst this cool yet soft backdrop, a leisurely stroll through the commons or perhaps a visit to a cozy caf\u00e9 might serve as the perfect antidote to the day\u2019s uncertainties. Watch the world move softly around you, letting the subtle shifts of spring fill your spirit.",
+    "color_code": "#7FB3E0",
+    "timestamp": "2025-05-19 08:12:31"
 }
