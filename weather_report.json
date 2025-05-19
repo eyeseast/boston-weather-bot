@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-18T18:53:00+00:00",
-            "temperature_f": 68.0,
-            "temperature_c": 20,
-            "humidity": 52.541325581066,
-            "wind_speed_mph": 53.95644000000001,
-            "wind_direction": 260,
+            "timestamp": "2025-05-18T22:53:00+00:00",
+            "temperature_f": 66.92,
+            "temperature_c": 19.4,
+            "humidity": 58.680239594238,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 270,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-18T16:00:00-04:00",
-                "endTime": "2025-05-18T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 40
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers. Mostly cloudy, with a high near 71. West wind around 16 mph, with gusts as high as 32 mph. Chance of precipitation is 40%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-18T18:00:00-04:00",
+                "startTime": "2025-05-18T19:00:00-04:00",
                 "endTime": "2025-05-19T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 51,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 20
                 },
                 "windSpeed": "16 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers before 1am. Mostly cloudy, with a low around 51. West wind around 16 mph, with gusts as high as 29 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
+                "shortForecast": "Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers before 1am. Mostly cloudy, with a low around 51. West wind around 16 mph, with gusts as high as 29 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-05-19T06:00:00-04:00",
+                "endTime": "2025-05-19T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "18 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers after 10am. Mostly cloudy, with a high near 61. Northwest wind around 18 mph, with gusts as high as 33 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Boston today, the atmosphere is alive with the gentle ebb and flow of scattered rain showers, lending a vibrant yet moody nuance to the afternoon. Clusters of clouds drift lazily across the sky, their depths varying, enveloping the day in a cool embrace that nudges the temperature towards the comfortable warmth of 71 degrees. The brisk west wind dances through the streets, occasionally gusting with a playful intensity, hinting at the vitality in the air. The scent of impending rain lingers, while the chances of precipitation sway between the whimsical probabilities of 30 to 40 percent, tantalizing those who might venture outdoors.\n\nAs evening draws near, the clouds will likely carry forth scattered showers until the witching hour of 1 a.m., creating a cozy backdrop for a relaxed night. With temperatures dipping to a soothing 51 degrees, a light jacket will be your companion, perhaps layered over a comfortable knit, ensuring that you remain both stylish and snug as the sky morphs into shades of twilight. In this transitional weather, a late afternoon stroll is an enticing option, with opportunities to seek refuge in cozy caf\u00e9s where the steam from hot beverages envelops the air, or perhaps an artistic endeavor indoors where the rhythmic tap of rain against windows becomes your soundtrack. Alternatively, to savor the breeze before nightfall, a leisurely walk along the waterfront allows one to breathe in the fresh air while listening to the city's opera of life unfolding around you, all wrapped in the charm of an afternoon that defies expectations.",
-    "color_code": "#A9B3C1",
-    "timestamp": "2025-05-18 16:07:37"
+    "weather_report": "As the evening unfolds over Boston, the lingering clouds maintain a watchful presence in the sky, scattered with the promise of light rain that may visit before the night deepens. The air feels brisk, tinged with the characteristic coolness of late spring. With temperatures settling around a mild 51 degrees and a west wind whispering through the streets at 16 mph\u2014occasionally gusting to a brisk 29\u2014the atmosphere carries a hint of anticipation, a reminder that dampness lurks nearby. Those venturing out may wish to don layers, perhaps favoring a light jacket to fend off the evening chill, with a sturdy umbrella just in case the rain joins the conversation.\n\nAs Monday dawns, expect a continuation of the cloudy canvas overhead, interspersed with the possibility of stray showers appearing after 10 in the morning. A high nearing 61 degrees will stretch throughout the day, inviting optimism and a delicate resolve. The winds may continue their bold demeanor, but there is a certain charm to the rhythm of a day painted in muted tones. Given this ambiance, a leisurely stroll along the Charles River or a quiet visit to a local caf\u00e9 might serve as delightful escapes from the bustling pace of life. With a 20% chance of precipitation, it's a day where the sun may peek through, offering respite in muted rays\u2014perfect for those looking to find solace within the city\u2019s embrace, regardless of the clouds overhead.",
+    "color_code": "#6A87B2",
+    "timestamp": "2025-05-18 20:33:42"
 }
