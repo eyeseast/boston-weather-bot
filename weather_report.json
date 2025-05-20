@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-20T06:53:00+00:00",
+            "timestamp": "2025-05-20T10:53:00+00:00",
             "temperature_f": 51.08,
             "temperature_c": 10.6,
             "humidity": 60.62463480095,
-            "wind_speed_mph": 33.01812,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 320,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-20T04:00:00-04:00",
-                "endTime": "2025-05-20T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 46. Northwest wind around 12 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-05-20T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-20T08:00:00-04:00",
                 "endTime": "2025-05-20T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/ovc/rain?size=medium",
                 "shortForecast": "Cloudy then Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 5pm. Cloudy, with a high near 56. North wind 8 to 12 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Patchy drizzle after 5pm. Cloudy, with a high near 56. North wind around 10 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-20T18:00:00-04:00",
+                "endTime": "2025-05-21T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": null
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle before 4am. Cloudy, with a low around 48. Northeast wind 7 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the early morning hours linger over Boston, a shroud of clouds clings to the night, wrapping the city in a gentle embrace of gray. The air carries a coolness that whispers of the day ahead\u2014somewhere between brisk and biting, with a little more bite in the air as the northwest winds give a playful tussle to anything left unanchored. By the appointed hour of sunrise, the skies will remain enigmatic, a canvas painted with muted tones that dance above the skyline, hinting at the potential for a slight drizzle as the clock strikes five. The world below appears to be shuffling into life, buoyed by the warmth of home while the branches sway with the morning breeze.\n\nAs the day unfolds, the clouds will hang steadfastly, diminishing any hopes for sunlight while the temperatures flirt around the mid-fifties. It isn\u2019t a day for bright, bold colors or carefree light attire; instead, one might lean into the comforts of solid layers\u2014perhaps a cozy sweater or a light jacket, accompanied by a well-loved pair of sturdy shoes. There will be pockets of drizzle, yet, this ambience offers a chance to embrace the serene joy of a quiet drizzle, perfect for a gentle stroll along the riverbanks or popping into a cozy caf\u00e9 where warm drinks provide those moments of simple delight. Perhaps a visit to a new bookstore is in order, where one can lose time among the shelves\u2014a delightful counter to the cool dampness outside.",
-    "color_code": "#9DA4B5",
-    "timestamp": "2025-05-20 04:10:18"
+    "weather_report": "As the day unfolds over Boston, a muted palette of soft gray clouds envelops the skyline, casting a gentle shadow over the city. With the air lightly tinged by the promise of drizzle, one can sense the dampness creeping in, a harbinger of the patchy drizzle expected in the early evening. The atmosphere feels both reflective and cozy, a perfect backdrop for a stroll beneath the sprawling tree canopy of one of the city\u2019s many parks. A brisk north wind stirs the leaves, creating a rustle that harmonizes with the steady hum of urban life.\n\nFor those considering their attire, light layers may offer comfort against the chill that lingers in the air, accompanied by the option of a waterproof jacket to ward off the impending drizzle. While the day may not boast the sun\u2019s radiant beams, it carries a certain quiet charm, making it suitable for meandering through art galleries or enjoying a leisurely afternoon in a quiet caf\u00e9, where the aroma of brewing coffee mingles with the soft patter of raindrops outside. Embrace the subtle symphony of the day, where ordinary moments hold the allure of discovery.",
+    "color_code": "#A9B8B6",
+    "timestamp": "2025-05-20 08:12:44"
 }
