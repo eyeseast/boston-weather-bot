@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-21T07:12:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 79.870781661168,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2025-05-21T10:53:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 71.088489426375,
+            "wind_speed_mph": 20.93832,
             "wind_direction": 60,
-            "description": ""
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-21T04:00:00-04:00",
-                "endTime": "2025-05-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 46. Northeast wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-05-21T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-21T08:00:00-04:00",
                 "endTime": "2025-05-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 54,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": null
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "9 to 13 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 54. Northeast wind 6 to 10 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 54. Northeast wind 9 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-21T18:00:00-04:00",
+                "endTime": "2025-05-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "10 to 14 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,30?size=medium",
+                "shortForecast": "Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 5am. Cloudy, with a low around 47. East wind 10 to 14 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, a veil of cloudiness envelops the city, imparting a soft glow to the streets below. The air is crisp, carrying a gentle chill from the northeast that hints at a cool day ahead. With the temperature settling around a modest 46 degrees, the layers of clouds suggest an intimacy to the morning, a stillness awaiting the stir of life. Moments like these encourage one to pause, perhaps over a steaming cup of coffee, watching as the city slowly unfurls in soft greys and muted tones.\n\nAs the day progresses, Boston will remain cloaked in those same clouds, with a high lingering near 54 degrees. The wind, subtle yet persistent, whispers along the avenues, urging passersby to don light jackets or cozy layers to shield against the chill. While the weather may lack the exuberance of sunlight, it offers a serene backdrop for quiet exploration. One might meander through the winding paths of a local park, savoring the muted rustle of leaves, or lose oneself in the contours of a nearby museum, where the air brims with creativity and inspiration. It is a day meant for quieter pursuits, inviting reflection and gentle wanderings through the layered textures of this historic city.",
-    "color_code": "#A3A3A3",
-    "timestamp": "2025-05-21 04:09:54"
+    "weather_report": "Boston greets the day with a gentle embrace of clouds, a soft veil draped over the skyline. The air carries a slight chill, hinting at the high temperature that hovers near 54, while a northeast wind plays lightly, whispering through the streets with just enough vigor to inspire a jacket or sweater. This morning's muted light filters through the clouds, casting a serene, if subdued, palette over the city, inviting introspection rather than frenzied activity.\n\nAs twilight beckons, clouds will thicken, merging seamlessly with the hint of rain that may arrive just after dawn breaks. The evening promises a low around 47, and while there\u2019s a mere whisper of a chance at precipitation, the day maintains a quiet tension, a reminder of the shifting seasons. Given this ambiance, one might find solace in a leisurely stroll through a local park, perhaps savoring a warm beverage from a nearby caf\u00e9. A visit to the Boston Public Library, with its warm interiors, could offer a perfect refuge, allowing for quiet reading or reflection as the rain teases the windowpanes. In this slightly dreary but certainly cozy scene, opt for layers\u2014light enough for the brief moments of freshness, yet warm enough for the embrace of that fleeting evening chill.",
+    "color_code": "#A6C8E0",
+    "timestamp": "2025-05-21 08:12:09"
 }
