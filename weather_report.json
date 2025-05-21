@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-20T18:53:00+00:00",
-            "temperature_f": 55.94,
-            "temperature_c": 13.3,
-            "humidity": 64.299549793469,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 90,
+            "timestamp": "2025-05-20T22:53:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 71.415154619405,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 70,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-20T16:00:00-04:00",
-                "endTime": "2025-05-20T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": null
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle after 5pm. Mostly cloudy, with a high near 56. Northeast wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-20T18:00:00-04:00",
+                "startTime": "2025-05-20T20:00:00-04:00",
                 "endTime": "2025-05-21T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 48,
+                "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": null
+                    "value": 20
                 },
                 "windSpeed": "6 to 9 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
-                "shortForecast": "Patchy Drizzle",
-                "detailedForecast": "Patchy drizzle before 4am. Mostly cloudy, with a low around 48. Northeast wind 6 to 9 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,20?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers between 2am and 3am. Cloudy, with a low around 46. Northeast wind 6 to 9 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-05-21T06:00:00-04:00",
+                "endTime": "2025-05-21T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "9 to 13 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,20?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 3pm. Cloudy, with a high near 52. Northeast wind 9 to 13 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sky wears a shroud of clouds, thick with promise yet shimmers with the subtle tension of impending drizzle. The high hasn\u2019t quite kissed the comfort of spring, lingering instead at a cool 56 degrees, while a gentle northeast breeze whispers of the ocean\u2019s breath. This curious combination of damp air and muted light sets the stage for a rather contemplative atmosphere, inviting passersby to wander through the cobblestone streets or perhaps find solace in a cozy caf\u00e9, where warm drinks can be cradled in hand.\n\nAs the evening unfurls, the drizzle may come, if only in patches, lingering until the early hours of night. The mercury dips to around 48, urging one to wrap themselves in layers\u2014perhaps a light jacket over a soft sweater, and sturdy shoes to support both the quiet walks under the cloudy canvas, as well as a quick dash inside when the drops begin to fall. With the day winding down, consider a stroll by the river, where the reflections of streetlights create a shimmering path on the water, or perch yourself in a dimly lit bookshop to lose track of time amidst stories that feel just right for the season. The ambiance offers a comforting contrast to the chilly air, inviting the warmth of connection whether with the pages of a book, or the gentle company of a friend.",
-    "color_code": "#A8B0B7",
-    "timestamp": "2025-05-20 16:08:06"
+    "weather_report": "As the day softly wanes in Boston, a curtain of clouds envelops the skyline, dimming the light that dances off buildings and streets. The air carries a cool chill, with temperatures dipping to a modest 46 degrees, a reminder of the lingering spring. While the evening offers a slight chance of rain, it remains merely a whisper in the breeze\u2014just enough to warrant a light jacket as you venture outside. The northeast wind teases the senses, a gentle companion that encourages you to wrap yourself in warmth as the last rays of sunlight retreat.\n\nLooking ahead to tomorrow, the clouds will remain, cloaking the city in a blanket of gray. The possibility of rain lingers in the air, more an expectation than a certainty, inviting thoughts of cozy pursuits. Whether it's time spent leafing through a favorite book at a quaint caf\u00e9 or indulging in the simple pleasure of a long walk wrapped in layers, today's atmosphere propels you toward comfort. Dress in layers to adapt to the chilly temperament of the day, perhaps a soft scarf or a warm beanie to ward off the evening chill. Embrace the subtle beauty of a cloudy day, letting it guide you to find your own quiet moments amidst the bustling streets of this storied city.",
+    "color_code": "#7F9DAA",
+    "timestamp": "2025-05-20 20:32:00"
 }
