@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-21T18:53:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 61.174179639918,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 60,
+            "timestamp": "2025-05-21T23:27:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 77.156442416889,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 70,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-21T15:00:00-04:00",
-                "endTime": "2025-05-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/ovc,20?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 54. East wind around 10 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-21T18:00:00-04:00",
+                "startTime": "2025-05-21T20:00:00-04:00",
                 "endTime": "2025-05-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 47,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": null
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/ovc,20/rain_showers,30?size=medium",
-                "shortForecast": "Cloudy then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 1am. Cloudy, with a low around 47. East wind around 10 mph, with gusts as high as 25 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 47. East wind around 10 mph, with gusts as high as 25 mph. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-05-22T06:00:00-04:00",
+                "endTime": "2025-05-22T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "12 to 18 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,100?size=medium",
+                "shortForecast": "Heavy Rain",
+                "detailedForecast": "A chance of rain before 9am, then rain and patchy fog. Cloudy, with a high near 51. East wind 12 to 18 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
             }
         ]
     },
-    "weather_report": "The afternoon unfolds in Boston under a blanket of muted clouds, shrouding the city in a cool embrace and offering little in the way of brightness. With a high temperature teasing 54 degrees, the day is poised on the edge of dampness, heralded by an east wind whispering softly at ten miles per hour. As twilight approaches, the hint of rain draws closer, promising occasional showers that could dance upon the asphalt after 1 AM. The atmosphere feels heavy but expectant, with gusts reaching up to 25 miles per hour stirring up a gentle unrest, hinting at nature\u2019s ever-present unpredictability.\n\nAs you navigate the urban tapestry, consider dressing in layers to adapt to the chill that lingers in the air; a light jacket paired with a cozy sweater could keep the brisk wind at bay. It might be a fine time to stroll through one of the city's many coffee shops, basking in the aroma of freshly brewed blends, or to find solace in the pages of a book at a local caf\u00e9, while the rain's soft patter provides a calming soundtrack. Perhaps you might entertain a brief jaunt along the Charles River, where the coolness and softness of the day can be embraced, but don\u2019t forget to keep an umbrella close at hand, just in case the clouds decide to shed their tears.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-05-21 16:07:57"
+    "weather_report": "As evening unfolds in Boston, a blanket of clouds envelops the skyline, softly muting the city\u2019s lights and lending a reflective quality to the air. The temperature drifts towards a cool embrace of 47 degrees, while a gentle east wind whispers around 10 mph, occasionally stirring up brief gusts that dance to 25 mph. There\u2019s a hushed expectation of rain, with a slight possibility for a few drops to grace the evening, barely noticeable against the backdrop of the persistent clouds.\n\nLooking ahead to Thursday, the city is poised for a day steeped in gray, where rain will weave its way through the morning, transforming into a steady rhythm against the rooftops and sidewalks. Patchy fog may curl around corners, inviting a sense of introspection as you navigate the dampened streets. With temperatures lingering near 51 degrees and a steady breeze clocking in at 12 to 18 mph, the atmosphere may feel lively yet damp. Given these conditions, a thoughtful layering of clothing\u2014a light waterproof jacket paired with a comfortable sweater\u2014will serve well against the chill of both air and rain. As you consider plans, it might be the perfect day to find refuge in a cozy caf\u00e9, where the aroma of brewing coffee mingles with soft murmurs, inviting you to lose track of time among the pages of a book or the gentle drumbeat of conversation. Embrace the quiet charm of this rainy day, as it offers moments of solitude and reflection amid the rhythms of urban life.",
+    "color_code": "#7A9CC2",
+    "timestamp": "2025-05-21 20:31:25"
 }
