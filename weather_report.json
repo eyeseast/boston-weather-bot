@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-22T17:53:00+00:00",
-            "temperature_f": 48.92,
-            "temperature_c": 9.4,
-            "humidity": 83.239115566642,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 60,
-            "description": "Rain"
+            "timestamp": "2025-05-22T22:57:00+00:00",
+            "temperature_f": 46.94,
+            "temperature_c": 8.3,
+            "humidity": 86.028130972357,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 10,
+            "description": "Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-22T16:00:00-04:00",
-                "endTime": "2025-05-22T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain before 5pm, then rain and a slight chance of thunderstorms. Cloudy, with a high near 47. Northeast wind around 20 mph, with gusts as high as 32 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-22T18:00:00-04:00",
+                "startTime": "2025-05-22T20:00:00-04:00",
                 "endTime": "2025-05-23T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 43,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/tsra,100/tsra,90?size=medium",
                 "shortForecast": "Rain",
                 "detailedForecast": "Rain and a slight chance of thunderstorms. Cloudy, with a low around 43. North wind 17 to 22 mph, with gusts as high as 38 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-05-23T06:00:00-04:00",
+                "endTime": "2025-05-23T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 58
+                },
+                "windSpeed": "7 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain,60/rain_showers,40?size=medium",
+                "shortForecast": "Light Rain Likely then Chance Rain Showers",
+                "detailedForecast": "Rain likely before 8am, then a chance of rain showers. Cloudy, with a high near 56. West wind 7 to 15 mph, with gusts as high as 29 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In the heart of Boston this afternoon, the air hangs heavy with a blanket of cloud and moisture, painting a somber picture as rain sweeps across the city. At a time when spring should be unfurling its tender greens, the chill bites with a dampness that seeps into your bones, rendering the atmosphere almost melancholic. Thunder rumbles faintly in the distance, a fleeting promise of drama that fits the gray skies. It feels like the kind of day best spent cocooned in the warmth of home, perhaps with a cup of tea and the pages of a well-loved book.\n\nAs evening approaches, the scene darkens further, with rain joining forces in what seems an unrelenting downpour. The winds howl, tossing leaves about in a restless dance and carrying the scent of rain-soaked earth into the air. To venture out is to brave the elements; proper attire must include waterproof layers and sturdy footwear, happily clasped together in defense against the impending deluge. For those daring souls unwilling to surrender to the comfort of home, a stroll under an umbrella through the city\u2019s quiet streets may be rewarding; the cobblestone paths shimmer with a sheen that only rain can bestow, casting reflections of light that evoke a certain kind of intimacy with the urban landscape. However, updating plans to include indoor ventures\u2014be it exploring quaint caf\u00e9s or savoring the aroma of warm pastries in bakeries\u2014might present a more inviting alternative in such unsettling weather.",
-    "color_code": "#4A4C8C",
-    "timestamp": "2025-05-22 16:07:52"
+    "weather_report": "The night in Boston carries a somber weight, cloaked in clouds as rain taps softly against the windows. The air is charged, hinting at the subtle drama of a possible thunderstorm, and the winds, brisk and insistent, weave their way through the empty streets, cooling the dampness just a touch. Dressed in layers, one might find solace in a sturdy jacket, perhaps accompanied by a sturdy umbrella, as the forecast promises a deluge of rain that could accumulate in tight puddles along the sidewalks. \n\nTomorrow dawns with its own brand of melancholy, as the rain lingers into the morning, easing into a gentle drizzle throughout the day. The skies will remain overcast, casting a muted light that offers beauty in its restraint. There is comfort to be found indoors\u2014visiting a cozy cafe with a warm beverage in hand or poking around a local bookstore, letting the hours slip by as the world outside remains enshrouded. The day calls for practicality over pomp, urging a reliable pair of shoes suitable for slippery streets and an inner warmth that reflects the soul of this city, ever so vibrant, even when muted.",
+    "color_code": "#4B4E93",
+    "timestamp": "2025-05-22 20:31:53"
 }
