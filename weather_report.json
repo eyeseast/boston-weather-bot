@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-24T05:53:00+00:00",
+            "timestamp": "2025-05-24T10:53:00+00:00",
             "temperature_f": 51.98,
             "temperature_c": 11.1,
-            "humidity": 86.313549377715,
-            "wind_speed_mph": 20.93832,
+            "humidity": 82.880385175758,
+            "wind_speed_mph": 12.0798,
             "wind_direction": 240,
-            "description": "Partly Cloudy"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-24T04:00:00-04:00",
-                "endTime": "2025-05-24T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 47. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-05-24T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-24T08:00:00-04:00",
                 "endTime": "2025-05-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 25
                 },
-                "windSpeed": "6 to 9 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,30?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 11am. Mostly cloudy, with a high near 61. West wind 6 to 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers after 11am. Mostly cloudy, with a high near 61. West wind around 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-24T18:00:00-04:00",
+                "endTime": "2025-05-25T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 19
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain showers before 8pm. Mostly cloudy, with a low around 47. West wind around 7 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dawn unfurls gently over Boston, a thick veil of clouds drapes the city, wrapping it in a muted embrace. The temperature hovers around a crisp 47 degrees, a whisper of coolness that reminds us that spring has yet to fully take command. The air carries a hint of dampness, as if the city itself is exhaling after a long night, and a light southwest breeze stirs, barely rustling the leaves. While the absence of sunlight casts a tranquil, almost somnolent mood, the promise of spring lingers just out of reach, as we await the day's unfolding.\n\nAs Saturday progresses, a delicate chance of rain showers glimmers on the horizon, making the day feel like a soft canvas waiting for brush strokes. Expect mostly cloudy skies to prevail, a fitting accompaniment for quiet strolls or delightful visits to a local caf\u00e9, where the warm aroma of coffee meets the chill of early spring. Layering is wise today; a light jacket would serve you well against the chance of rain and the coolness in the air, while comfortable footwear will carry you across the pavements unbothered, whether you choose to wander through the historic streets or find solace in the contemplation of quiet parks. \n\nThe day invites simple pleasures, perhaps savoring a pastry from a beloved bakery or indulging in a good book by the window while the world softly drizzles outside. Embrace the serenity this weather offers, for these moments of tranquil contemplation are often the sweetest gifts of existence.",
-    "color_code": "#A8BDF0",
-    "timestamp": "2025-05-24 04:08:17"
+    "weather_report": "As dawn greets Boston, the city is shrouded in a tapestry of soft gray clouds, the air heavy with promise yet uncertain. With the day still young, the forecast whispers of impending rain\u2014an invitation to wander beneath an overcast sky, perhaps in search of the last traces of spring. A gentle, westerly breeze stirs, carrying with it the scent of moist earth and the hint of renewal. Though temperatures hover pleasantly around the low sixties, one might opt for a light jacket, particularly if venturing out later when evening draws near and the temperature dips toward a cool 47 degrees. \n\nToday seems to beckon those with a penchant for quiet exploration\u2014strolling along the esplanade or indulging in a cozy caf\u00e9 where the light rain taps softly against the windows. A bit of rain might grace your shoulders, but the atmosphere is ripe for intimacy, whether alone with a book or sharing moments over a cup of coffee with a friend. As the day unfolds, keep an eye on the clouds and choose wisely your adventures; the city holds its breath in anticipation, promising discovery within its tucked-away corners.",
+    "color_code": "#A9B3C1",
+    "timestamp": "2025-05-24 08:10:23"
 }
