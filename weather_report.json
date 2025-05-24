@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-23T18:53:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 57.596481693159,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 240,
-            "description": "Cloudy"
+            "timestamp": "2025-05-23T22:53:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 82.954048467221,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 250,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-23T15:00:00-04:00",
-                "endTime": "2025-05-23T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 53
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers. Cloudy, with a high near 58. West wind around 6 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-23T18:00:00-04:00",
+                "startTime": "2025-05-23T20:00:00-04:00",
                 "endTime": "2025-05-24T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 47,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 56
+                    "value": 79
                 },
                 "windSpeed": "6 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,60/rain_showers,30?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Cloudy, with a low around 47. Southwest wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,80/rain_showers,30?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers. Cloudy, with a low around 47. Southwest wind around 6 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-05-24T06:00:00-04:00",
+                "endTime": "2025-05-24T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 32
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 60. West wind 6 to 10 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In Boston, the air carries an unmistakable chill, a tapestry woven with clouds that blanket the skyline. As afternoon meanders toward evening, scattered rain showers hang in the balance, reflecting a mood both contemplative and subdued. With a high near 58, the day seems to whisper promises of moisture and a soft, persistent murmur of wind from the west\u2014that gentle push against the skin where temperatures tumble. One might expect that the city, draped in shades of grey, will feel the embrace of another cool, damp evening with the likelihood of rain showers continuing into the night.\n\nEmbracing this atmosphere requires a careful choice in attire; perhaps a light raincoat or a cozy cardigan worn over a long-sleeved shirt would suffice\u2014a balance of comfort and practicality against the lingering chill and drizzle. As you wander the streets, consider curling up in a cozy caf\u00e9 with a well-worn book or indulging in a leisurely stroll beneath the muted glow of streetlamps, each step accompanied by the rhythmic patter of raindrops. The day invites a quiet reverie, beckoning you to enjoy the simplicity of a gentle rain while savoring warm beverages and the companionship of a friend, rather than anything too grand or ostentatious.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-05-23 16:07:43"
+    "weather_report": "As twilight weaves its veil over Boston, the atmosphere feels heavy and expectant, burdened with the promise of rain. The air is cool, around 47 degrees, inviting a layered approach to attire; a light jacket should serve well against the damp chill, paired perhaps with a cozy scarf to ward off the impending drizzle. The southwest winds whisper softly, a gentle prelude to the rain showers anticipated through the night. With an 80% chance of precipitation hanging in the air, those venturing out might find themselves dancing between droplets, a quiet symphony of nature's rhythms in the city streets.\n\nSaturday arrives with the possibility of lingering rain, yet hope glimmers through the clouds. Though the skies will likely remain draped in gray, a high near 60 suggests moments when warmth might pierce the gloom. Those familiar with Boston know to embrace spontaneity; a leisurely stroll along the Esplanade could yield delightful surprises, perhaps stopping at a cozy caf\u00e9 to savor a hot drink as you watch the world blur softly around you. As evening approaches once more, the city settles into a comforting embrace of warmth\u2014ideal for gathering with friends or indulging in a thoughtful evening of reading by a window, as the rain serenades the night.",
+    "color_code": "#A6B4E1",
+    "timestamp": "2025-05-23 20:30:31"
 }
