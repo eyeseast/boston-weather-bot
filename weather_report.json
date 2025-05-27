@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-26T18:53:00+00:00",
-            "temperature_f": 71.06,
-            "temperature_c": 21.7,
-            "humidity": 36.307797793417,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Clear"
+            "timestamp": "2025-05-26T22:53:00+00:00",
+            "temperature_f": 69.08,
+            "temperature_c": 20.6,
+            "humidity": 45.152175581642,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 170,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Memorial Day",
-                "startTime": "2025-05-26T16:00:00-04:00",
-                "endTime": "2025-05-26T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 68. East wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-26T18:00:00-04:00",
+                "startTime": "2025-05-26T20:00:00-04:00",
                 "endTime": "2025-05-27T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 3
                 },
-                "windSpeed": "3 mph",
-                "windDirection": "S",
+                "windSpeed": "5 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium",
                 "shortForecast": "Mostly Clear then Patchy Fog",
-                "detailedForecast": "Patchy fog after 4am. Mostly clear, with a low around 50. South wind around 3 mph."
+                "detailedForecast": "Patchy fog after midnight. Mostly clear, with a low around 50. Southwest wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-05-27T06:00:00-04:00",
+                "endTime": "2025-05-27T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 77,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium",
+                "shortForecast": "Patchy Fog then Sunny",
+                "detailedForecast": "Patchy fog before 7am. Sunny, with a high near 77. Southwest wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "Boston basks in the gentle warmth of a sunlit afternoon, the sky a brilliant canopy of blue, punctuated by soft, friendly clouds drifting lazily overhead. As the daylight unfurls like a well-worn map, the atmosphere hums with the promise of pleasantness; today's high whispers around sixty-eight degrees, inviting the kind of ease that allows for peaceful strolls and light-hearted encounters. However, as evening approaches, one might expect a touch of patchy fog to sweep in post-midnight, offering a slight chill with lows dipping to around fifty. The south wind carries a hint of warmth, reminding us that even the most tranquil of days can shift with the evening\u2019s embrace.\n\nFor today\u2019s explorations, consider donning comfortable layers, perhaps a light cardigan or a breezy jacket to stave off any evening coolness. As golden hour descends, the serene ambiance encourages leisurely walks along the Charles, or perhaps a visit to a quiet caf\u00e9, where conversation can flow as easily as the coffee. Whether you find solace in a book under the welcoming boughs of a tree or engage in delightful banter with friends, this day offers a canvas for the simple pleasures. In the heart of Boston, there\u2019s no shortage of ways to savor the stillness of the day turning to night, making it a perfect time to appreciate what is both ordinary and extraordinary.",
-    "color_code": "#A7C9E0",
-    "timestamp": "2025-05-26 16:07:46"
+    "weather_report": "As the sun dips below the horizon, Boston is draped in a delicate veil of twilight, hinting at the gentle transition from day to night. The evening is likely to cradle the city in a mild embrace, with temperatures slipping to a comfortable 50 degrees under mostly clear skies, though a hint of patchy fog may weave its way through the night air once midnight arrives. The soft southwest breeze dances lightly, whispering sweetly through the streets, creating an atmosphere that invites a moment\u2019s pause to enjoy the dusk's tranquility.\n\nLooking ahead to the day tomorrow, a refreshing brightness is expected to greet dawn, bringing with it the promise of sunshine that may warm the heart as well as the skin. The morning may start with a lingering fog, making the early hours feel almost ethereal before succumbing to the clarity of a sunlit day that will reach a pleasant 77 degrees. Such weather calls for comfort, perhaps a light sweater in the morning, shedding it as the day unfolds, revealing an ensemble more fitting for a stroll through the park or a leisurely coffee at a corner caf\u00e9. With the gentle rays of sun overhead and the streets inviting, it would be a shame not to find a quiet spot to observe the city come alive or perhaps a shaded bench, where one might read a few chapters, drink in hand, while savoring the vibrancy of Boston awakening from its slumber.",
+    "color_code": "#B0C4D2",
+    "timestamp": "2025-05-26 20:31:15"
 }
