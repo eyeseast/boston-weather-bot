@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-27T06:53:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 86.202442841334,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-05-27T10:53:00+00:00",
+            "temperature_f": 55.04,
+            "temperature_c": 12.8,
+            "humidity": 79.811182429167,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 230,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-27T04:00:00-04:00",
-                "endTime": "2025-05-27T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 51. West wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-05-27T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-27T08:00:00-04:00",
                 "endTime": "2025-05-27T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 78,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "2 to 6 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 78. West wind 2 to 6 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 78. West wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-27T18:00:00-04:00",
+                "endTime": "2025-05-28T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. Southwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the early morning hours settle over Boston, the city is cloaked in a gentle quiet, the peace only occasionally punctuated by the distant hum of life waking up. The skies are mostly clear, an expanse of soft navy stretched overhead, awaiting the embrace of daylight. In this serene atmosphere, the temperature rests coolly at around fifty-one degrees, with a whisper of a westward breeze stirring lazily through the air.\n\nAs the sun climbs, it promises a day kissed by warmth, with temperatures nudging toward seventy-eight. There is something invigorating about such a clear and sunny day, where the light can dance off the surfaces of buildings and the subtle rhythm of life flows with ease. Those venturing outdoors might find comfort in layers\u2014a light sweater or long sleeves for the cool morning, transitioning gracefully to something lighter as midday approaches. It\u2019s the perfect opportunity to wander through the city's many parks or to enjoy a stroll along the waterfront, where the harmony of nature and urban life collides splendidly. A simple coffee in hand, perhaps, could add an aromatic touch to the day, complementing the mildness that Boston offers as it awakens from its slumber.",
-    "color_code": "#1D1D1D",
-    "timestamp": "2025-05-27 04:09:49"
+    "weather_report": "A gentle warmth envelops Boston this morning, hinting at a day of serene beauty. With the sun casting its golden gaze, the atmosphere is mostly sunny, inviting locals to step outside and embrace the freshness of late spring. As temperatures climb closer to a comfortable 78 degrees, the light west wind whispers through the trees, creating a harmonious backdrop for a variety of outdoor activities. The clarity of the sky, unmarred by fog, suggests an ideal moment for a leisurely stroll along the Charles River, or perhaps a quiet read in one of Boston\u2019s many parks.\n\nAs evening approaches, the sky will gradually cloak itself in a soft layer of clouds, ushering in cooler temperatures that settle around a refreshing 56 degrees. This shift may call for a light sweater or a cozy jacket as the day wraps up, especially for those lingering outdoors. Whether it\u2019s an evening walk through the historic streets or a gathering with friends at a nearby caf\u00e9, the day holds a balance of tranquility and mildness that complements the gentle rhythms of life in the city.",
+    "color_code": "#a3c1e3",
+    "timestamp": "2025-05-27 08:12:07"
 }
