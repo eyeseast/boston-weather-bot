@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-28T17:53:00+00:00",
-            "temperature_f": 78.08,
-            "temperature_c": 25.6,
-            "humidity": 40.261717933027,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 230,
+            "timestamp": "2025-05-28T22:53:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 37.350834680173,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-28T16:00:00-04:00",
-                "endTime": "2025-05-28T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 78,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 78. South wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-28T18:00:00-04:00",
+                "startTime": "2025-05-28T20:00:00-04:00",
                 "endTime": "2025-05-29T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 45
+                    "value": 60
                 },
-                "windSpeed": "5 to 9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,50?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after midnight. Mostly cloudy, with a low around 56. Southwest wind 5 to 9 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,60?size=medium",
+                "shortForecast": "Cloudy then Rain Showers Likely",
+                "detailedForecast": "Rain showers likely after midnight. Cloudy, with a low around 56. South wind 7 to 12 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-05-29T06:00:00-04:00",
+                "endTime": "2025-05-29T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 66
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/rain_showers,30?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely and patchy fog before 5pm. Cloudy, with a high near 64. Southeast wind around 9 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a gentle warmth envelops the city, with rays of sunlight filtering through a veil of soft clouds. The temperature hovers comfortably in the upper 70s, inviting residents to step outside and savor the day. A light breeze carries hints of the nearby ocean, tickling the skin with a refreshing touch. However, as the sun dips lower in the sky, the atmosphere begins to shift; the forecast whispers of rain showers arriving after midnight, suggesting a blanket of clouds will drape over the horizon as you prepare for evening. \n\nFor those contemplating a stroll or an errand in the late afternoon, light layers would be wise, as the temperatures will soon fall into the 50s. Perhaps a relaxed walk along the Charles River, where the waters reflect the fragmented beauty of the skies, or a visit to a local caf\u00e9 will offer solace before the rain arrives. Embrace the simplicity of the moment\u2014there\u2019s a quiet charm in a cup of coffee while watching the clouds gather, a precursor to the gentle rhythm of rain that will soon serenade the city.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-05-28 16:07:59"
+    "weather_report": "As evening descends over Boston, the sky has donned a cloak of muted grays, accentuated by the last whispers of twilight. A sense of anticipation lingers in the air, beckoning the arrival of rain\u2014expected to arrive just after midnight. With the temperature settling around a comfortable 56 degrees, there is a gentle stirring of the south wind, wrapping the city in its embrace at a leisurely pace. Yet, there's a notable humidity threaded through the air, hinting at the upcoming showers and patchy fog that may arrive, evoking a certain stillness that clings to the streets.\n\nAs you venture into the night, take heed of the forecast for the morrow, where rain showers will dance among the clouds and fog may weave through the morning. If you seek solace in the rhythm of a quiet evening or plan for the day ahead, a light jacket might serve you well to stave off the chill. Tomorrow\u2019s weather is primed for introspection\u2014consider a visit to one of Boston\u2019s cozy coffee shops, where a warm drink can anchor your thoughts as you listen to the whispered patter of rain against the window. Or perhaps an afternoon stroll through a nearby park, where the verdant foliage glistens under gentle sprinkles, reviving the landscape with an olfactory tease of earth and rain that stirs nostalgia deep within. Let the weather guide you gently; sometimes, there is beauty to be found in the unpredictable.",
+    "color_code": "#6C7B8B",
+    "timestamp": "2025-05-28 20:31:48"
 }
