@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-30T06:53:00+00:00",
-            "temperature_f": 62.059999999999995,
-            "temperature_c": 16.7,
-            "humidity": 83.550482942249,
+            "timestamp": "2025-05-30T11:00:00+00:00",
+            "temperature_f": 62.959999999999994,
+            "temperature_c": 17.2,
+            "humidity": 83.608459924942,
             "wind_speed_mph": 16.91172,
-            "wind_direction": 220,
+            "wind_direction": 230,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-05-30T04:00:00-04:00",
-                "endTime": "2025-05-30T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 56. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-05-30T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-05-30T08:00:00-04:00",
                 "endTime": "2025-05-30T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 76,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "8 to 13 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers between 10am and 5pm. Partly sunny, with a high near 76. Southwest wind 7 to 13 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers between 10am and 5pm. Partly sunny, with a high near 76. Southwest wind 8 to 13 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-05-30T18:00:00-04:00",
+                "endTime": "2025-05-31T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 88
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/tsra,90?size=medium",
+                "shortForecast": "Mostly Cloudy then Showers And Thunderstorms",
+                "detailedForecast": "Rain showers likely between midnight and 4am, then showers and thunderstorms. Some of the storms could produce heavy rain. Mostly cloudy, with a low around 58. South wind 5 to 10 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As the early morning hours wrap Boston in a soft shroud of cloud and mist, the dawn\u2019s light struggles to emerge, presenting a calm yet ethereal quality to the landscape. With temperatures lingering around a comfortable 56 degrees, the gentle southwest breeze whispers through the streets, coaxing a blend of anticipation and tranquility. This evening will cradle us in a cozy embrace, perfect for a light jacket if venturing out. \n\nAs the day unfolds, the sky promises a dance of sun and clouds, with the potential for a few fleeting rain showers teasing between mid-morning and afternoon. Highs are expected to nudge towards 76, offering a pleasant reminder of summer's approach. Though the chance of rain isn\u2019t substantial, keeping an umbrella close at hand might be wise for those who wish to wander through the parks or explore the welcoming cafes. In such mild conditions, a leisurely stroll along the Charles River or savoring a quiet moment at a neighborhood bookstore will undoubtedly complement the day's gentle offerings. Amidst the clouds and the promise of warmth, Boston unfolds its character subtly, inviting both work and leisure in equal measure.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-05-30 04:09:39"
+    "weather_report": "As the day unfolds over Boston, there lies a gentle anticipation in the air, tinged with a promise of rain. Currently, the city rests under a shroud of clouds, a soft blanket that hints at the possibility of showers later in the day. With temperatures rising to a comfortable warmth near 76, the sky will shift between moments of understated clarity and the gentle embrace of overcast. The southwest winds carry a mild whisper, urging one to step outside but to keep an umbrella close at hand.\n\nTonight, the atmosphere thickens with the certainty of rain showers that may evolve into thunderstorms, painting the late hours with the sound of heavy drops against windows and streets. As darkness drapes the city, the humidity will increase, nudging the temperature downward to a refreshing 58. In this ever-changing weather, light layers are advisable\u2014perhaps a light shirt accompanied by a fitted jacket for the evening chill and the dampness to come. Activities could embrace the cozy charm of an indoor caf\u00e9, where the aroma of coffee intertwines with the sound of raindrops, making for a serene retreat during the brewing storm.",
+    "color_code": "#A8B3C0",
+    "timestamp": "2025-05-30 08:11:46"
 }
