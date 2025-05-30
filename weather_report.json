@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-05-29T17:53:00+00:00",
-            "temperature_f": 68.0,
-            "temperature_c": 20,
-            "humidity": 67.934987286895,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 100,
+            "timestamp": "2025-05-29T21:53:00+00:00",
+            "temperature_f": 66.92,
+            "temperature_c": 19.4,
+            "humidity": 70.511958267618,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 60,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-05-29T16:00:00-04:00",
-                "endTime": "2025-05-29T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 66. East wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-05-29T18:00:00-04:00",
+                "startTime": "2025-05-29T20:00:00-04:00",
                 "endTime": "2025-05-30T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 56. West wind 2 to 6 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 56. West wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-05-30T06:00:00-04:00",
+                "endTime": "2025-05-30T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 75,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 28
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers between 10am and 5pm. Mostly cloudy, with a high near 75. Southwest wind 5 to 10 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, a blanket of gray clouds envelops the sky, softening the day's light but holding the promise of a gentle warmth, with temperatures edging towards a mild 66 degrees. As you wander the streets, the east wind whispers through the trees, inviting a moment of contemplative pause amidst the urban rhythm. Tonight, the clouds will linger, casting a muted glow as temperatures settle into the comfortable 50s, where a slow breeze carries hints of the evening's fresh air.\n\nThe atmosphere feels tranquil but teetering on the edge of dreariness, encouraging you to dress in light layers\u2014perhaps a cozy sweater over a breathable shirt, paired with comfortable trousers to match the day's relaxed vibe. Despite the lack of sunlight, the weather does not hinder spirit. A leisurely stroll along the Charles River might be just the thing, allowing the slow current and the distant hum of city life to infuse your thoughts with clarity. Alternatively, find sanctuary in a local caf\u00e9, savoring a warm drink as you watch the world drift by, letting the gentle hours unfold with a sense of quiet possibility.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-05-29 16:08:17"
+    "weather_report": "As evening draws near, the skies over Boston wear a cloak of somber clouds, casting a muted light across the city and blending the sounds of the day into the gentle hush of twilight. Tonight, expect the temperature to dip to a comfortable 56 degrees, with a westward breeze whispering softly at about five miles per hour, reminding us of the day just past. The atmosphere feels contemplative, perhaps a touch heavy, yet there\u2019s a peculiar beauty in the impending calm of the night.\n\nLooking ahead to tomorrow, Boston may awaken under a similar shroud of clouds, with a gentle chance of rain showers lingering throughout the day. As the hours unfold, temperatures are likely to peak around 75, and though the southwest wind will offer mild relief, there is a palpable sense of unpredictability in the air. For those venturing out, layering becomes essential; a light jacket or a cardigan will guard against the coolness of the morning, while a sturdy umbrella might serve as a trusty companion for the inevitable showers. \n\nFor the soft souls who find joy in simple endeavors, a visit to a local caf\u00e9 could be the order of the day, where you can pluck a book from your satchel and lose yourself in its pages as the rain patters softly on the window. Alternatively, an afternoon stroll through the cobblestone streets might reveal the charming remnants of the day's bustle, with the scent of wet earth mingling with the lingering aroma of blooming flowers.",
+    "color_code": "#7D9BDB",
+    "timestamp": "2025-05-29 20:31:43"
 }
