@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-01T06:53:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 73.905075949333,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 230,
+            "timestamp": "2025-06-01T10:53:00+00:00",
+            "temperature_f": 53.96,
+            "temperature_c": 12.2,
+            "humidity": 71.510261021778,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 250,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-01T04:00:00-04:00",
-                "endTime": "2025-06-01T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 11
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. West wind around 13 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-06-01T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-01T08:00:00-04:00",
                 "endTime": "2025-06-01T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 0
                 },
-                "windSpeed": "12 to 17 mph",
+                "windSpeed": "17 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 66. West wind 12 to 17 mph, with gusts as high as 28 mph."
+                "detailedForecast": "Mostly sunny, with a high near 66. West wind around 17 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-01T18:00:00-04:00",
+                "endTime": "2025-06-02T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 48. Southwest wind 6 to 14 mph."
             }
         ]
     },
-    "weather_report": "As the early hours of Sunday unfold over Boston, the air is wrapped in a muted embrace, marked by a blanket of mostly cloudy skies that cradles the city in a gentle shroud. The temperature lingers in the low fifties, providing a crispness that seems to whisper promises of warmth in the day ahead. With a steady west wind rustling through the trees, at around thirteen miles per hour, the atmosphere carries a refreshing edge \u2014 a reminder that while the world still sleeps, nature is stirring.\n\nThe forecast hints at a transformation as the day progresses. Soon, the clouds will part, revealing a tapestry of blue as the sun stretches to greet us, warming the air and awakening the spirit with a high approaching the mid-sixties. Gusty winds will dance through the streets, occasionally surging up to twenty-eight miles per hour, which may sway the city\u2019s proudest trees and toss light jackets about like autumn leaves. As the sun claims its place in the sky, it invites a palette of activities that embrace the essence of a weekend in early June. A stroll along the river, perhaps, invigorated by the gentle breeze, or a visit to one of the many parks, where one might linger over coffee and a good book. Dress in layers; a light jacket will serve you well in the cool morning hours, yielding to the warm embrace of the afternoon sun. \n\nWhether one finds pleasure in savoring the intricate details of nature or engaging in the pulse of urban life, Boston stands ready to offer a splendid day, poignant in its simplicity yet vivid in its opportunities.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2025-06-01 04:08:44"
+    "weather_report": "As the dawn breaks over Boston, the city awakens beneath a canvas of mostly sunny skies, promising a day of clarity and gentle breezes. With the sun treading a tranquil path, temperatures will gracefully rise toward a comfortable mid-60s. The west wind, a playful companion, may dance around at seventeen miles per hour, occasionally gusting a little firmer\u2014just enough to rustle the leaves and suggest a whisper of adventure. As night falls, the warmth will give way to cooler climes, settling to the crispness of the high 40s, where a southwest breeze offers a gentle reminder of the day that was.\n\nIn such splendid conditions, one might wander along the esplanade or sip coffee outside a local caf\u00e9, enjoying the warm embrace of sunlight. Light layers will suffice, perhaps a sweater to wrap around shoulders for the evening. Make your way to the parks or simply stroll through quiet streets, absorbing the essence of early June in a city alive with possibility. It is an ideal day for both the contemplative and the curious, a chance to blend productivity with leisure, as the vibrancy of Boston beckons ever so softly.",
+    "color_code": "#B0E0E6",
+    "timestamp": "2025-06-01 08:11:02"
 }
