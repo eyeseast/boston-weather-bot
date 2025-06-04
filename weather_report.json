@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-04T06:53:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 86.313549377715,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-06-04T10:53:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 74.978033950497,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 140,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-04T04:00:00-04:00",
-                "endTime": "2025-06-04T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 56. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-06-04T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-04T08:00:00-04:00",
                 "endTime": "2025-06-04T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 87,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 87. Southwest wind 7 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-04T18:00:00-04:00",
+                "endTime": "2025-06-05T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 62. Southwest wind 6 to 13 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning hours, Boston rests beneath a gently unfolding sky. The air feels crisp and refreshing, a promise of the warmth to come as twilight yields to daylight. With clear visibility, the city is poised for an auspicious day ahead, where sunlight will gradually paint its streets in hues of gold. By midday, temperatures will rise, transforming the atmosphere into a balmy embrace as the mercury approaches a cozy warmth that beckons for outdoor exploration.\n\nAs you step outside into this promising day, consider layers that you can easily peel away. A light shirt paired with breathable trousers will serve you well, complemented perhaps by comfortable sneakers for roaming the vibrant streets. The city invites you to stroll along the harbor or perhaps bask in the beauty of its sprawling parks, where the soft rustling of leaves will accompany your thoughts. Given the warm embrace of the sun and the gentle southwest breeze that dances through the air, it's an opportune moment to indulge in a leisurely cup of coffee on a caf\u00e9 patio or a quiet reading nook in the park, absorbing the simple joys the day has to offer.",
-    "color_code": "#F4A460",
-    "timestamp": "2025-06-04 04:10:07"
+    "weather_report": "Boston awakens to a day that promises warmth beneath a canvas of mostly sunny skies. The gentle southwest breeze whispers through the streets, bringing with it a hint of anticipation for a pleasant afternoon, as the city basks in a high approaching the comfort of 87 degrees. Although the horizon seems muted, with a delicate veil of haze tingeing the landscape, the sun\u2019s potential remains steadfast, ready to shine through as the morning unfolds. \n\nAs the day progresses, the weather holds a promise of refreshing clarity, transitioning into a beautifully serene evening where the temperature will gracefully descend to about 62 degrees. With the evening light casting a soft glow, it\u2019s an opportune time to stroll through the parks, perhaps wander to a favorite caf\u00e9 for a calm moment with a book. Dressing in lightweight layers will keep one comfortable\u2014from a breathable shirt to a light jacket for as the sun dips behind the buildings. Today invites leisurely pursuits: a quiet walk along the Charles River or an outdoor gathering with friends would complement the inviting weather beautifully.",
+    "color_code": "#E4E4E4",
+    "timestamp": "2025-06-04 08:12:16"
 }
