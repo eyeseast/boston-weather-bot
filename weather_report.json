@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-04T18:53:00+00:00",
-            "temperature_f": 84.91999999999999,
-            "temperature_c": 29.4,
-            "humidity": 34.661659961934,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 240,
+            "timestamp": "2025-06-05T02:53:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 63.235822148634,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 200,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-04T16:00:00-04:00",
-                "endTime": "2025-06-04T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 87,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 87. Southwest wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-06-04T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-06-05T00:00:00-04:00",
                 "endTime": "2025-06-05T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 63,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 63. Southwest wind 5 to 10 mph."
+                "detailedForecast": "Mostly clear, with a low around 63. Southwest wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-06-05T06:00:00-04:00",
+                "endTime": "2025-06-05T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 93,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 27
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/hot/tsra_hi,30?size=medium",
+                "shortForecast": "Mostly Sunny then Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of showers and thunderstorms after 1pm. Mostly sunny, with a high near 93. Southwest wind 5 to 8 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "The afternoon sun casts a gentle warmth over Boston, a soft glow that hints at the balm of summer. At this moment, temperatures flirt with a comfortable warmth, inviting those who yearn for a taste of the outdoors. As the day matures, a mostly sunny sky reveals itself, brightening the cityscape while promising an upcoming evening under a clear vault of stars. With a light breeze weaving through the streets, one can almost hear the rustle of leaves and the distant chatter of neighbors, all caught in the rhythm of an ideal day.\n\nAs twilight approaches, the temperature will ease into a pleasant coolness, perfect for an evening stroll or perhaps a quiet gathering with friends. Light layers will serve well: a comfortable t-shirt paired with a light cardigan will keep the chill at bay without sacrificing style. It\u2019s the kind of day that beckons one to partake in the simple pleasures\u2014perhaps a leisurely walk along the Esplanade, where the water\u2019s reflection dances in the soft light, or a visit to a patio caf\u00e9, sipping on something chilled as the sun dips low in the horizon. \n\nA day like today reminds us to savor these fleeting moments of beauty. The forecast and the atmosphere ripple with a tranquil charm, urging us to leave our worries behind and embrace the warmth of the season.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-06-04 16:06:35"
+    "weather_report": "As Boston settles into the early hours of the night, the sky reveals a tranquil stillness, gently embracing the city in soft darkness, interrupted only by shimmering flecks of distant lights. The promise of a new day brings with it the warmth of anticipation, as tomorrow holds a blend of sunshine and scattered thunderstorms, painting a vivid canvas where nature may stir in dramatic interplay. The forecasted high approaches a sultry warmth, inviting a symphony of colors into your wardrobe. Comfortable attire is recommended, perhaps a light linen shirt beneath a casual jacket, ready to shed layers should the sun emerge brightly.\n\nAs the day unfolds, consider venturing outdoors in the gentle embrace of the southwest wind. The potential for afternoon showers calls for a sense of spontaneity; a leisurely stroll through the Boston Common or a visit to the hopping caf\u00e9 scene might be just the remedy for a day that flirts with both heat and moisture. Finding a shady spot to unwind with a good book would be a lovely way to embrace the light, while remaining alert to the potential shifts in weather. Tomorrow\u2019s promise is one of dichotomy, where sunlit warmth may give way to refreshing storms, but until then, luxuriate in the calm of the evening, the world poised just before the dawn.",
+    "color_code": "#D5C91B",
+    "timestamp": "2025-06-05 00:12:51"
 }
