@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-05T18:53:00+00:00",
-            "temperature_f": 93.02,
-            "temperature_c": 33.9,
-            "humidity": 37.06208723584,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": null,
-            "description": "Cloudy"
+            "timestamp": "2025-06-05T22:53:00+00:00",
+            "temperature_f": 87.08000000000001,
+            "temperature_c": 30.6,
+            "humidity": 55.2243106898,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 180,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-05T16:00:00-04:00",
-                "endTime": "2025-06-05T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 93,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 93. Southwest wind around 6 mph. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-05T18:00:00-04:00",
+                "startTime": "2025-06-05T20:00:00-04:00",
                 "endTime": "2025-06-06T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 68,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
                 "detailedForecast": "A slight chance of rain showers between 2am and 5am. Mostly cloudy, with a low around 68. West wind 2 to 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-06-06T06:00:00-04:00",
+                "endTime": "2025-06-06T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 80,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 47
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20/tsra_sct,50?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
+                "detailedForecast": "A slight chance of rain showers between 8am and 11am, then a slight chance of showers and thunderstorms between 11am and noon, then a chance of showers and thunderstorms between noon and 2pm, then a chance of showers and thunderstorms. Partly sunny. High near 80, with temperatures falling to around 74 in the afternoon. Northeast wind 2 to 7 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds with a warm embrace, the sun casting its golden glow upon the city. A gentle breeze stirs, providing a subtle relief from the heat as temperatures edge toward the mid-nineties. One might find an intricate play of light and shadows dancing in the sky, hinting at scattered clouds that, while softening the sun's intensity, do little to dampen the day's spirit. Though a brief whisper of rain is slated for the hours that follow, it carries a mere twenty percent chance, like a distant memory of a passing storm. This evening promises a transition into a more temperate night, where the warmth lingers just long enough to coax out comfortable gatherings under the stars.\n\nAs one steps outside, light cottons or breathable linens serve as the ideal attire, perfectly suited for such radiant warmth. Engaging in leisurely strolls along the Charles River or perhaps a visit to a quaint caf\u00e9 for an afternoon tea would be delightful options. As twilight approaches, the soft glow of city lights allows for leisurely exploration, whether it be a quiet wander through the streets or a chance to meet friends. Though the whispers of potential rain linger on the horizon, they do little to overshadow the day's inviting warmth.",
-    "color_code": "#F5CBA5",
-    "timestamp": "2025-06-05 16:06:45"
+    "weather_report": "As evening settles over Boston, a muted palette of soft grays and blues drapes the city, hinting at the gentle arrival of night. The air carries a languid warmth, with current temperatures resting comfortably. A subtle whisper of a breeze meanders through the streets, though the chance of gentle rain lingers, teasing the horizon with its promise. Tonight, the sky will embrace clouds that are thick yet light, offering a scenic backdrop for quiet reflection.\n\nThe day ahead brings a similarly enigmatic charm, with hints of sunshine peeking through the patchwork of clouds. A slight possibility of rain showers punctuates the morning, transforming into more spirited thunderstorms by midday. As temperatures flirt with the lower eighties, a soft layer of clothing will balance comfort against the sporadic dampness. A smart choice might be lighter fabrics accompanied by a light jacket for the afternoon's embrace. In these hours, a leisurely stroll through one of Boston\u2019s lush parks or sipping coffee at a shaded caf\u00e9 might inspire reverie, allowing the city\u2019s vibrant pulse to intertwine with your thoughts, resulting in a day that speaks to both adventure and tranquility.",
+    "color_code": "#7C9CBB",
+    "timestamp": "2025-06-05 20:32:01"
 }
