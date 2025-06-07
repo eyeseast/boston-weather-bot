@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-07T06:53:00+00:00",
-            "temperature_f": 68.0,
-            "temperature_c": 20,
-            "humidity": 87.166373588393,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 180,
+            "timestamp": "2025-06-07T10:53:00+00:00",
+            "temperature_f": 69.98,
+            "temperature_c": 21.1,
+            "humidity": 84.050698469602,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 200,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-07T04:00:00-04:00",
-                "endTime": "2025-06-07T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 14
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog. Cloudy, with a low around 62. South wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-06-07T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-07T08:00:00-04:00",
                 "endTime": "2025-06-07T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 71,
@@ -49,14 +30,33 @@
                     "value": 94
                 },
                 "windSpeed": "2 to 7 mph",
-                "windDirection": "SE",
+                "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/tsra,90?size=medium",
                 "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog before 7am, then areas of fog and a chance of rain showers between 7am and 1pm, then areas of fog and showers and thunderstorms likely between 1pm and 3pm, then areas of fog and a chance of showers and thunderstorms between 3pm and 4pm, then areas of fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 71. Southeast wind 2 to 7 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Areas of fog and a chance of rain showers before 1pm, then areas of fog and showers and thunderstorms likely between 1pm and 3pm, then areas of fog and a chance of showers and thunderstorms between 3pm and 4pm, then areas of fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 71. East wind 2 to 7 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-07T18:00:00-04:00",
+                "endTime": "2025-06-08T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 53
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/rain_showers?size=medium",
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Areas of fog and a chance of rain showers. Mostly cloudy, with a low around 58. Northwest wind 2 to 7 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning, Boston awakens draped in a gauzy shroud of fog, the world softened and muted beneath the cloudy sky. This veil adds a whisper of mystery to the city, even as the gentle south wind stirs with a promise of change. As dawn stretches into daylight, expect the fog to linger, especially before midday, quietly concealing the familiar outlines of the skyline. With a touch of humidity upon the air, the day softens into a warm embrace, yet the forecast heralds the likelihood of scattered rain showers and potential thunderstorms. \n\nAs the sun climbs higher, the ambiance hints at both beauty and trepidation, muddied by the possibility of heavy rain as clouds gather with resolve. There\u2019s an invitation hidden in these gray tones\u2014perhaps a leisurely stroll through one of Boston's parks, where the earth bears the smell of impending rain, or a thoughtful visit to a coffee shop where conversations swirl like the fog outside. Dressing in layers will serve you well\u2014think lightweight, water-resistant outerwear over a comfortable outfit. An umbrella might prove useful, though consider the option of seeking refuge in art galleries or bookstores if the rain nudges you inside. Today unfolds with a curious blend of tranquility and anticipation, beckoning those willing to embrace the softer, quieter moments the city offers.",
-    "color_code": "#A1B3C4",
-    "timestamp": "2025-06-07 04:08:23"
+    "weather_report": "In Boston today, the atmosphere hangs thick with mist, a soft veil that blurs the edges of familiar sights. The air is destined to pulse with rain, as the skies promise not to keep their secrets too long. By the afternoon, expect the soft rumble of thunderstorms, accompanied by the scent of wet earth and the cool caress of a gentle breeze. Perhaps by then, you might feel that pleasant tension in the air, an electric anticipation that stirs both the heart and the senses. Clad in a light waterproof jacket, you can embrace the day with ease, as the promise of rain settles comfortably among the layers of your attire. \n\nAs the evening approaches, the fog will cling on, a quiet companion casting shadows over the bustling streets. For those who seek comfort, curling up with a book near a window as the rain patters against the glass might be a most serene escape. Alternatively, a leisurely visit to a local caf\u00e9, where warmth and caffeine blend seamlessly, seems rather inviting. All the while, keep in mind the whispered encouragement of the forecast: nature has the talent of quieting down just when you grow to appreciate her most, creating a peaceful end to a day that began with a shroud of mystery.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-06-07 08:10:32"
 }
