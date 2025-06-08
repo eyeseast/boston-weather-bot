@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-07T18:53:00+00:00",
-            "temperature_f": 71.06,
-            "temperature_c": 21.7,
-            "humidity": 86.779227810896,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Rain and Fog/Mist"
+            "timestamp": "2025-06-07T22:53:00+00:00",
+            "temperature_f": 66.02,
+            "temperature_c": 18.9,
+            "humidity": 87.065238588912,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 360,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-07T16:00:00-04:00",
-                "endTime": "2025-06-07T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 88
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,90?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 71. Northeast wind around 8 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-07T18:00:00-04:00",
+                "startTime": "2025-06-07T20:00:00-04:00",
                 "endTime": "2025-06-08T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 58
+                    "value": 18
                 },
-                "windSpeed": "3 to 7 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,60/rain_showers?size=medium",
+                "windSpeed": "6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and showers and thunderstorms likely before 8pm, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 58. North wind 3 to 7 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 58. Northwest wind around 6 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-06-08T06:00:00-04:00",
+                "endTime": "2025-06-08T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 72,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Cloudy",
+                "detailedForecast": "Patchy fog before 8am. Mostly cloudy, with a high near 72. Northeast wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, the atmosphere is draped in a blanket of patchy fog, blending with the light murmur of showers and distant rumbles of thunder. The sky, a heavy quilt of clouds, hints at an impending downpour, waiting just beneath the surface. With a high of around 71 degrees, the air feels warm, yet the moisture clings to the skin, a reminder of the storms lurking nearby. A gentle northeast breeze carries whispers of rain, poised to deliver a steady embrace of hydration. This blend of warm and damp creates a distinctly unpredictable ambiance, one that lures you to pause and wonder about the outdoors.\n\nAs night approaches, the fog will likely deepen, holding onto the remnants of the day's warmth while a chill sets in with a low dipping to near 58. Evenings spent under this hazy veil have their charm; consider wrapping yourself in something cozy, perhaps a light sweater or a shawl, as you venture out. The possibility of sprinkles keeps the evening dynamic, perhaps inviting you to settle in at a favorite caf\u00e9 for a warm beverage, or meandering through the fog-drenched streets, surrounded by the soft glow of street lamps. This is a time for quiet exploration, a Sunday yet seemingly alive with the promise of renewal under the shifting clouds.",
-    "color_code": "#BEC6D9",
-    "timestamp": "2025-06-07 16:07:07"
+    "weather_report": "As the day draws to a close in Boston, a gentle embrace of patchy fog whispers through the streets, mingling with the low-hanging clouds overhead. The air carries a hint of moisture, a promise of rain that hangs lightly, inviting contemplation. Currently, the temperature hovers around a mild 58 degrees, presenting an opportunity for layers\u2014perhaps a light sweater or a comfortable jacket, perfect for the coolness of the evening. A soft northwest wind skims through the city, nudging the clouds into subtle shifts that suggest neither the vibrant glory of blue skies nor a total shroud of gloom.\n\nLooking ahead, tomorrow brings the potential for patchy fog in the early hours, anticipated to fade as the sun rises higher, revealing mostly cloudy skies and a satisfying warmth that nudges towards 72 degrees by afternoon. It invites nostalgia for outdoor pursuits, suggesting quiet walks through the verdant park trails or leisurely coffee breaks at local cafes, where one might linger while gazing out at the lingering mist. With the morning fog soon to yield, tomorrow holds a comforting promise\u2014perfect for a day spent reconnecting with both nature and community, all while embracing the rhythm of a city alive with stories.",
+    "color_code": "#A7B7D9",
+    "timestamp": "2025-06-07 20:35:55"
 }
