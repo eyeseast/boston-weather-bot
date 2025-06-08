@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-08T06:53:00+00:00",
-            "temperature_f": 57.92,
-            "temperature_c": 14.4,
-            "humidity": 93.108801201943,
+            "timestamp": "2025-06-08T10:53:00+00:00",
+            "temperature_f": 62.059999999999995,
+            "temperature_c": 16.7,
+            "humidity": 93.226340261586,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-08T04:00:00-04:00",
-                "endTime": "2025-06-08T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog. Mostly cloudy, with a low around 57. North wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-06-08T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-08T08:00:00-04:00",
                 "endTime": "2025-06-08T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 71,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
                 "windSpeed": "6 to 9 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
-                "shortForecast": "Areas Of Fog then Mostly Cloudy",
-                "detailedForecast": "Areas of fog before 8am. Mostly cloudy, with a high near 71. Northeast wind 6 to 9 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 71. Northeast wind 6 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-08T18:00:00-04:00",
+                "endTime": "2025-06-09T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 18
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 1am. Mostly cloudy, with a low around 55. East wind 5 to 8 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the early hours of this June morning, a gentle veil of fog swathes Boston, casting a soft, muted light on the city as it stirs from sleep. The air is cool, lingering around the mid-50s, while the trees sway slightly in the light touch of a northern breeze. Fog blankets the landscape, lending an ethereal quality to the surroundings, like an old photograph that beckons you to lean closer. As day breaks, glimpses of the urban frame begin to emerge through the mist, hinting at the promise of a mostly cloudy but pleasant day ahead.\n\nAs we drift towards midday, expect the fog to dissipate by the late morning, revealing a high near 71 degrees. This atmospheric quietude invites a leisurely stroll through the Boston Common or perhaps a coffee at a local caf\u00e9, where the aroma of fresh brews mingles with the lingering dampness of the morning. Layers may be your best choice today\u2014light sweaters or long sleeves in the early hours that easily give way to a short-sleeved shirt as the warmth grows. It\u2019s a day where every step holds the potential for discovery, whether it's exploring a tucked-away bookshop or simply enjoying the company of a friend as you meander along the Charles River. A serene day is on the horizon, one that welcomes both reflection and connection in the unfolding embrace of the city.",
-    "color_code": "#BEC4D1",
-    "timestamp": "2025-06-08 04:08:32"
+    "weather_report": "As the sun rises in Boston, a subtle warmth begins to seep into the air, hinting at a day both gentle and inviting. The forecast paints a picture of partly sunny skies, though the horizon is softened by a veil of mist, obscuring the sharp details that normally guard the city\u2019s skyline. A light northeast breeze whispers through the streets, caressing faces and stirring the leaves, while the temperature flirts with a comfortable 71 degrees. It\u2019s the kind of day that beckons those longing for a leisurely morning jaunt or an unhurried stroll along the waterfront.\n\nAs evening approaches, the atmosphere will likely morph into something a bit more enigmatic, with clouds gathering to usher in the possibility of a few stray rain showers just after midnight. For now, though, the day demands a balance of ease and preparedness; consider layering comfortably, perhaps a light sweater over a casual tee, and sensible shoes for wandering the streets or enjoying a brunch with friends. The essence of this day lies in its simplicity, encouraging you to explore hidden corners of familiar neighborhoods or to find solace in a quiet park with a good book. Embrace the understated beauty of Boston\u2019s early summer, where each moment, softened by the fog, invites you to enjoy life\u2019s quieter pleasures.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-06-08 08:10:48"
 }
