@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-08T18:53:00+00:00",
-            "temperature_f": 71.06,
-            "temperature_c": 21.7,
-            "humidity": 68.27602497162,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 40,
-            "description": "Cloudy"
+            "timestamp": "2025-06-08T22:53:00+00:00",
+            "temperature_f": 66.02,
+            "temperature_c": 18.9,
+            "humidity": 72.743427315857,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 50,
+            "description": "Haze"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-08T16:00:00-04:00",
-                "endTime": "2025-06-08T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/haze?size=medium",
-                "shortForecast": "Haze",
-                "detailedForecast": "Haze. Partly sunny, with a high near 71. East wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-08T18:00:00-04:00",
+                "startTime": "2025-06-08T20:00:00-04:00",
                 "endTime": "2025-06-09T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 16
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/night/fog/rain_showers,20?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Haze before 9pm, then patchy fog between 11pm and 1am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 55. East wind 5 to 8 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Haze before 9pm, then patchy fog between 11pm and 1am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 55. East wind around 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-06-09T06:00:00-04:00",
+                "endTime": "2025-06-09T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 22
+                },
+                "windSpeed": "8 to 12 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a high near 67. East wind 8 to 12 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston unfolds under a hazy sky, a gentle veil that softens the edges of the city. Partly sunny patches may peer through, promising a high that flirts with the warmth of 71 degrees. An east wind whispers through the streets, offering a subdued touch of coolness that beckons those living in the moment to step outside. As dusk approaches, the haze will deepen, giving way to the possibility of patchy fog, particularly between late evening hours when the city shifts gears and prepares for night.\n\nWith temperatures dipping to around 55 by nightfall, a light jacket would provide comfort against the coolness that rolls in with the darkness. It\u2019s a perfect evening to stroll along the waterfront, where the sounds of the waves mingle with the distant city hum, or to find a cozy nook in a local caf\u00e9, perhaps with a book in hand or good conversation brewing over steaming mugs. Simple pleasures seem to call amidst the haze\u2014this is an evening for quiet enjoyment, as the city prepares to wrap itself in the embrace of a foggy night.",
-    "color_code": "#A8C8C4",
-    "timestamp": "2025-06-08 16:07:16"
+    "weather_report": "As dusk gently envelops Boston, the air carries a cool whisper, hinting at the haze that will soon give way to patchy fog later this evening. The clouds drift lazily across the sky, cloaking the city in a muted gray palette that reflects the tranquil spirit of the night. As temperatures dip toward the mid-fifties, the East wind contributes a gentle touch, barely ruffling the leaves and nudging you to reach for a light jacket. The anticipation of minimal rain showers looms like a shadow\u2014subdued yet present, with the chance of a drop here and there.\n\nCome morning, the clouds will linger, and those soft whispers of rain might find their way into the day. While the high will inch toward a comforting sixty-seven, it\u2019s a day best suited for curling up in a cozy caf\u00e9 with a book, wandering through a local market, or taking a stroll along the waterfront, where the fresh air mingles with the distant sounds of the city waking up. Dress in layers; with warmth lingering in the morning chill and the sun's embrace coming gradually, you will find comfort in preparation. It\u2019s an unhurried day, inviting you to savor simple pleasures in this quiet, misty embrace.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-06-08 20:34:25"
 }
