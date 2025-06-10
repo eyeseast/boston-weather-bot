@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-09T18:53:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 77.937149946939,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 30,
-            "description": "Haze"
+            "timestamp": "2025-06-09T22:53:00+00:00",
+            "temperature_f": 60.08,
+            "temperature_c": 15.6,
+            "humidity": 89.621112131842,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 40,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-09T16:00:00-04:00",
-                "endTime": "2025-06-09T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 17
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a high near 65. East wind around 10 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-09T18:00:00-04:00",
+                "startTime": "2025-06-09T20:00:00-04:00",
                 "endTime": "2025-06-10T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/tsra,30?size=medium",
                 "shortForecast": "Patchy Fog",
                 "detailedForecast": "A slight chance of rain showers before 9pm, then patchy fog and a slight chance of rain showers between 9pm and 1am, then a chance of rain showers and patchy fog between 1am and 4am, then patchy fog and a chance of showers and thunderstorms. Cloudy, with a low around 57. Northeast wind 5 to 9 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-06-10T06:00:00-04:00",
+                "endTime": "2025-06-10T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 71,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 56
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,40/tsra,60?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and a chance of showers and thunderstorms before 8am, then patchy fog and showers and thunderstorms likely. Cloudy, with a high near 71. Northeast wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, a delicate veil clouds the sky, casting a muted light upon the city. As the air cools to a tranquil 65 degrees, a sense of calm prevails, though the whispers of potential rain shower intermittently dance through the forecast. An eastward breeze carries the faint promise of moisture, yet it remains gentle enough to merely tussle the leaves without disrupting the day\u2019s repose. Tonight, the atmosphere shifts, draping a blanket of fog over the city, merging with the brisk chill of the evening. The low temperature lingers near 57, fostering an air of mystery, as the chance of rain showers mixes with the fog to create a dim, surreal ambiance.\n\nIn these subdued moments, one might don a light jacket\u2014preferably something breathable but covering enough to ward off the evening's coolness\u2014with comfortable shoes for a leisurely stroll. The murmur of rain may suggest a quiet evening indoors, perhaps indulging in a favorite book or podcast, while others might find joy in the unique beauty that fog can bring, appreciating the chance to explore hidden corners of the city as it transforms under the night sky. This is weather that invites introspection and the soft thrill of unexpected possibilities woven through the fabric of an ordinary day.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-06-09 16:07:57"
+    "weather_report": "As evening settles over Boston, a veil of fog gently shrouds the city, adding a layer of mystery to the familiar skyline. The air feels cool and slightly damp, carrying with it the promise of rain as it touches softly against the skin. It's a night where the atmosphere is thick with possibilities, where the light dims softly, inviting contemplation. A chance of rain lingers like an uninvited guest, wavering between light showers and gatherings of thunderclouds as the hours pass into the night. The temperatures hover around a refreshing 57 degrees, nudging towards a cozy embrace, especially if you wear something warm\u2014a light jacket or a soft sweater would be wise companions.\n\nAs the dawn breaks on Tuesday, likely doused in a gentle film of moisture, expect a continuation of this narrative\u2014patchy fog will linger until the sun makes its sometimes elusive appearance, casting its warm glow through the clouds. Highs near 71 promise a comforting warmth amidst the ongoing dance of rain showers and the distant rumble of thunder. Amidst this backdrop, take a walk through the quieter streets or along the riverside, where the echoes of raindrops create a soothing symphony against the waking city. Enjoy the subtle beauty of nature\u2019s rhythm, perhaps with a warm beverage in hand, as you watch the world come alive beneath the soft, cloudy canvas.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-06-09 20:32:20"
 }
