@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-10T17:53:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 86.962935510424,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 100,
+            "timestamp": "2025-06-10T22:53:00+00:00",
+            "temperature_f": 62.059999999999995,
+            "temperature_c": 16.7,
+            "humidity": 86.300074459093,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-10T16:00:00-04:00",
-                "endTime": "2025-06-10T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 53
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,50?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms. Cloudy, with a high near 70. East wind around 5 mph. Chance of precipitation is 50%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-10T18:00:00-04:00",
+                "startTime": "2025-06-10T20:00:00-04:00",
                 "endTime": "2025-06-11T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 25
+                    "value": 6
                 },
                 "windSpeed": "6 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/sct?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
-                "detailedForecast": "A chance of showers and thunderstorms before 7pm, then a slight chance of showers and thunderstorms between 7pm and 8pm. Partly cloudy, with a low around 59. Southwest wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 59. Southwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-06-11T06:00:00-04:00",
+                "endTime": "2025-06-11T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 83,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 83. Southwest wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a thick curtain of clouds has settled over the city, casting a muted glow upon the streets. The air hangs heavy with the promise of some scattered showers and the distant rumble of thunderstorms, yet there remains a peculiar stillness that stirs curiosity. With temperatures hovering close to 70, the east wind whispers softly through the alleys, offering a gentle reminder of the changeable nature of summer skies. The chance of rain lingers, not quite certain, and the streets may glisten with the remnants of a brief downpour, leaving behind a cool freshness that invigorates the senses.\n\nTonight, the forecast holds a waning chance of these showers, transitioning to a partly clouded sky as evening approaches. With temperatures dipping to a comfortable 59, it invites a cozy outfit\u2014perhaps a light sweater layered over your favorite tee, perfect for ambulating through the still-warm streets or enjoying a quiet dinner al fresco. There\u2019s something captivating about a day softened by the kisses of rain, and one might find pleasure in a stroll along the waterfront, watching the city\u2019s lights begin to twinkle against the dimming sky. Alternatively, a cozy caf\u00e9 might offer solace; the sound of a steaming espresso machine mingling with soft conversations is a delightful way to embrace the season\u2019s unpredictability.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-06-10 16:08:12"
+    "weather_report": "As twilight descends over Boston, the air carries a gentle warmth, a whisper of summer reminding us of the day that has danced swiftly by. Tonight promises to cradle us under a partly cloudy sky, temperatures easing to a comfortable 59 degrees, with a southwestern breeze that brushes against your skin like a delicate hand. The atmosphere is serene, yet hints of a smoother transition into the night's embrace, devoid of the clutter of fog or mist, inviting quiet reflection.\n\nTomorrow, the sun will rise to unveil a canvas of azure, casting rays that dance across the city. Expect daytime warmth to rise near 83 degrees, with the pleasant breath of the southwest wind invigorating one\u2019s spirit. It is a day to shed the heavier layers of winter's memory, opting instead for breathable fabrics, perhaps a light shirt with a pair of comfortable trousers. Engaging in everyday pursuits, be it a stroll along the bustling streets of Beacon Hill or a leisurely coffee at a local caf\u00e9, seems the perfect antidote to the technicolor splendor that summer brings. Embrace the simplicity of this fine day, for it invites you to linger a little longer in the warmth of community and sun.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-06-10 20:32:23"
 }
