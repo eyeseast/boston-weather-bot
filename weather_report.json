@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-11T06:58:00+00:00",
-            "temperature_f": 57.92,
-            "temperature_c": 14.4,
-            "humidity": 90.117153427448,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 80,
-            "description": "Fog"
+            "timestamp": "2025-06-11T10:53:00+00:00",
+            "temperature_f": 62.059999999999995,
+            "temperature_c": 16.7,
+            "humidity": 89.704428240961,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-11T04:00:00-04:00",
-                "endTime": "2025-06-11T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog before 5am. Mostly clear, with a low around 59. West wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-06-11T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-11T08:00:00-04:00",
                 "endTime": "2025-06-11T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 83,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 83. West wind 7 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-11T18:00:00-04:00",
+                "endTime": "2025-06-12T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 64. Southwest wind 7 to 10 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a gentle hush lingers in the air, the remnants of patchy fog slowly retreating with the promise of a clear day ahead. The temperature sits comfortably at a mild 59 degrees, inviting you to step outside. The west wind whispers softly, rustling the leaves and carrying a hint of warmth that hints at the sun\u2019s impending embrace. \n\nBy midday, that fog will give way entirely, yielding to a sky of unblemished blue as the temperature climbs to a welcoming 83 degrees. Such a day is one to savor\u2014dynamic yet tranquil, perfect for an excursion along the Charles River or perhaps a leisurely stroll through one of Boston\u2019s historic neighborhoods, where each cobblestone seems to hold a story waiting to be told. Light attire\u2014perhaps a breathable cotton shirt paired with shorts\u2014would suit this pleasant weather, allowing you to bask in the sun's glow while maintaining ease. As the warmth envelops you, consider an impromptu caf\u00e9 visit, where you can indulge in the simple pleasure of a cool drink while soaking in the vibrant life that the city offers.",
-    "color_code": "#B9E0F0",
-    "timestamp": "2025-06-11 04:10:02"
+    "weather_report": "As dawn breaks over Boston, the city awakens beneath a brilliant azure sky, a promise of warmth and clarity swirling in the gentle breezes. Today invites you to step outside with a light heart, as the forecast beckons with sunny spells and a high expected to flirt with the low eighties. The west wind, soft and steady, carries hints of summer's sweet embrace, soothing and refreshing, while the evening whispers of a tranquil descent into a comfortably mild night, holding a promise of stars twinkling like diamonds on black velvet.\n\nThough the morning may present a soft haze veiling the outlines of the skyline, there is no cause for concern; it enriches the day with a gentle mystique, capturing the essence of a June morning. Dress in light, breathable fabrics, perhaps a soft cotton shirt paired with comfortable shorts, allowing for ease as you traverse the city. Under these delightful conditions, a leisurely stroll along the Charles River would be particularly charming, or perhaps a visit to one of Boston\u2019s quaint coffee shops, where the aroma of fresh brews lingers in the air, inviting you to pause and savor the moment. Whether you choose to lounge in a nearby park or explore the historic strolls of Beacon Hill, embrace the day with a sense of adventure and appreciation for the beauty that unfolds around you.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-06-11 08:12:44"
 }
