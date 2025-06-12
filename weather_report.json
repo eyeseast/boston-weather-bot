@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-12T06:53:00+00:00",
-            "temperature_f": 60.980000000000004,
-            "temperature_c": 16.1,
-            "humidity": 83.480518260067,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-06-12T10:53:00+00:00",
+            "temperature_f": 69.08,
+            "temperature_c": 20.6,
+            "humidity": 73.044494681259,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 200,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-12T04:00:00-04:00",
-                "endTime": "2025-06-12T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 64. Southwest wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-06-12T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-12T08:00:00-04:00",
                 "endTime": "2025-06-12T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 87,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 3
                 },
-                "windSpeed": "10 to 16 mph",
+                "windSpeed": "12 to 16 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 87. West wind 10 to 16 mph, with gusts as high as 28 mph."
+                "detailedForecast": "Sunny, with a high near 87. West wind 12 to 16 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-12T18:00:00-04:00",
+                "endTime": "2025-06-13T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 60. Northwest wind 5 to 14 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, the city remains enveloped in a tranquil slumber, the clarity of the evening sky displaying just a hint of stars twinkling overhead. There is an uncharacteristic calmness to the air, a gentle promise of warmth that is set to unfold as the day progresses. Winds whisper softly from the southwest, heralding a shift that will soon cast away the remnants of night. The forecast predicts a classic New England summer day, with sunshine spilling generously over the city's rooftops and streets, a high approaching the inviting warmth of 87 degrees.\n\nAs the sun rises, shedding light on the vibrant scene, one might consider wearing something lightweight and breezy, perhaps cotton shorts or a flowing dress, complemented by comfortable sandals that allow for an easy stroll through the Boston Common or along the esplanade. With the wind gusting playfully, it may be wise to bring along a light sweater for those moments when the breeze carries a cool touch. The day calls for leisure; it whispers of simple pleasures like wandering through local markets, exploring the rich history that threads through the city, or simply sipping coffee while watching the world come alive. The essence of Boston is best captured in these laid-back, sun-drenched moments, inviting all to enjoy its many charms.",
-    "color_code": "#F5D65C",
-    "timestamp": "2025-06-12 04:10:00"
+    "weather_report": "The skies over Boston are brushed with the soft warmth of a sunny morning, inviting the city into a day painted in bright hues of optimism. With a gentle west wind weaving through the streets, the air carries a refreshing promise, perfect for those longing to embrace the outdoors. As the sun climbs higher, glorious temperatures will flirt with the 87-degree mark, encouraging afternoon strolls along the waterfront or quiet moments in shade-dappled public parks. The high winds might sway the trees slightly, a reminder of nature's whispering breath, while the clear air paints an unobstructed canvas of blue above.\n\nAs the sun sets, a softer palette will emerge, offering a partly cloudy night that cradles the temperature around a comfortable 60 degrees. It's a moment to relish, as the flickering lights of the city begin to twinkle in harmony with the fading daylight. Dressing in layers will prove wise today\u2014begin with breathable fabrics for the sun, but carry a light jacket to ward off the evening chill. Strolling through the art-laden streets or visiting a cozy caf\u00e9 to savor a warm drink could be the ideal way to wind down. Revel in the rich atmosphere of this early summer day, allowing the charm of Boston to captivate at every turn.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-06-12 08:12:20"
 }
