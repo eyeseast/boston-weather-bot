@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-13T06:53:00+00:00",
-            "temperature_f": 55.94,
-            "temperature_c": 13.3,
-            "humidity": 77.246795999401,
+            "timestamp": "2025-06-13T08:53:00+00:00",
+            "temperature_f": 57.92,
+            "temperature_c": 14.4,
+            "humidity": 83.831702542696,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-13T04:00:00-04:00",
-                "endTime": "2025-06-13T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 59. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-06-13T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-13T08:00:00-04:00",
                 "endTime": "2025-06-13T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 77,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 3
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 77. North wind around 7 mph."
+                "detailedForecast": "Mostly sunny, with a high near 77. North wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-13T18:00:00-04:00",
+                "endTime": "2025-06-14T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 44
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,40?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after midnight. Mostly cloudy, with a low around 57. Southeast wind 5 to 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn gently approaches, Boston rests beneath a blanket of quiet tranquility, the air cool and crisp against the skin. The night will bid farewell with only hints of cloud scattered across the sky, promising a low temperature around 59 degrees. A gentle northwesterly breeze lightly stirs, adding a refreshing touch to the calm. \n\nAs the sun climbs higher, Friday will unfold gracefully, presenting mostly sunny skies and beckoning us to embrace the day at a comfortable 77 degrees. It\u2019s an ideal moment to don light layers: perhaps a soft cotton shirt and lightweight trousers, perfect for those occasional wisps of wind that encourage a spring in your step. With the pleasant ambiance, a stroll along the Charles River or a visit to one of Boston's many parks seems most fitting, allowing one to revel in the beauty of the day, perhaps with a good book nestled under one arm. The inviting weather also hints at outdoor caf\u00e9s waiting for patrons, perfect for sipping coffee while savoring the warmth of the sun. As the day unfurls its opportunities, take a moment to appreciate the quiet brightness that comes but once in a while to our bustling city.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-06-13 04:09:50"
+    "weather_report": "As dawn ushers in a mostly sunny embrace over Boston, the day awakens with a gentle warmth, nudging the temperature toward a comfortable 77 degrees. The north wind carries a soft whisper, urging one to step outside, to linger a bit longer in the brightening light. Yet, as the sun arcs across the sky, the evening hints at a touch of change, with clouds gathering discreetly and promising a chance of rain after midnight. Tonight, the temperature will settle around a mild 57 degrees, draping a layer of cloud cover over the city, with a hint of moisture in the air\u2014a reminder that nature often dances with unpredictability.\n\nIn terms of attire, this is an invitation to dress comfortably but thoughtfully. A light, breathable fabric during the day can transition seamlessly into a cozy jacket for the evening chill. This weather calls for a stroll through the winding streets of the city or perhaps a quiet moment in one of Boston\u2019s green spaces, where you can savor an ice cream or a warm cup of coffee while watching the scenery change as day slips into night. Opt for a leisurely pace, perhaps a visit to a cozy bookshop or a small caf\u00e9 that catches your eye. The tempo of the day feels serene, promising simple pleasures against the backdrop of an ever-evolving sky.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-06-13 08:12:03"
 }
