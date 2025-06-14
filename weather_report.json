@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-14T06:53:00+00:00",
-            "temperature_f": 60.08,
-            "temperature_c": 15.6,
-            "humidity": 80.202281999569,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-06-14T10:53:00+00:00",
+            "temperature_f": 60.980000000000004,
+            "temperature_c": 16.1,
+            "humidity": 75.162754589756,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 60,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-14T04:00:00-04:00",
-                "endTime": "2025-06-14T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 58,
+                "name": "Today",
+                "startTime": "2025-06-14T08:00:00-04:00",
+                "endTime": "2025-06-14T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 61,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 48
+                    "value": 60
                 },
-                "windSpeed": "2 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 58. Southeast wind around 2 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,60/tsra,40?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Rain showers likely before 9am, then patchy fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 61. Northeast wind 6 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-06-14T06:00:00-04:00",
-                "endTime": "2025-06-14T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 62,
+                "name": "Tonight",
+                "startTime": "2025-06-14T18:00:00-04:00",
+                "endTime": "2025-06-15T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 53,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 64
+                    "value": 22
                 },
-                "windSpeed": "2 to 9 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/rain_showers,20?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely before 9am, then a chance of rain showers and patchy fog. Cloudy, with a high near 62. Northeast wind 2 to 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/ovc?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Cloudy",
+                "detailedForecast": "A slight chance of rain showers before 8pm. Cloudy, with a low around 53. Northeast wind around 8 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dawn edges closer, Boston lies enveloped in a gentle embrace of clouds, the air thick with the scent of impending rain. A sense of moisture lingers, promising the possibility of showers as the night wanes but simultaneously inviting the soft glow of the city\u2019s lights to dance against the encroaching gray. The expected chill in the air suggests that a light jacket or perhaps a cozy sweater would be wise against the cool, southeast breeze that brushes lightly through the streets.\n\nToday, the weather unfolds with rain showers likely before the sun\u2019s ascent, fading into patchy fog as the morning continues, painting a picture of somber tranquility. The high of 62 might urge one to seek comfort in layers, while the softness of the rain invites a slower pace\u2014perhaps a quiet stroll through the Arnold Arboretum, where the fragrance of damp earth and fragrant blossoms can offer a moment of solitude amidst the urban bustle. Today is not about grand adventure; rather, it\u2019s a gentle reminder to appreciate the understated beauty of a city softly veiled in mist and mystery.",
-    "color_code": "#A1A5B1",
-    "timestamp": "2025-06-14 04:08:25"
+    "weather_report": "The morning in Boston unfolds under a blanket of clouds, an atmospheric embrace that carries with it the lingering scent of rain. As the day begins with its first hints of life, the area remains prone to light showers, possibly heralding a more boisterous storm set to roll in. Fog drapes around the city, softening the landscape and obscuring its edges, a reminder of the rhythms of nature at play. With temperatures hovering near 61, dressed in layers may serve you well; a light raincoat or an umbrella would not be amiss. \n\nAs the day progresses, one may find solace in quieter pursuits. Perhaps wander through the hushed halls of a nearby museum or seek the warm ambiance of a local caf\u00e9, where the aroma of freshly brewed coffee mingles with the gentle patter of rain on the windows. The evening will usher in a calmness, with a slight chance of rain tapering off as the sun sinks beneath the horizon, leaving behind a cool serenity. In this drenched urban tapestry, the day beckons us to savor its simplicity, finding pleasure in the mundane, as the world pauses to reflect beneath a gray, misty sky.",
+    "color_code": "#a9a9a9",
+    "timestamp": "2025-06-14 08:10:36"
 }
