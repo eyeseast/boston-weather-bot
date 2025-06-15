@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-14T18:40:00+00:00",
+            "timestamp": "2025-06-14T23:53:00+00:00",
             "temperature_f": 59.0,
             "temperature_c": 15,
-            "humidity": 83.351127453408,
+            "humidity": 72.034842210106,
             "wind_speed_mph": 20.93832,
-            "wind_direction": 60,
+            "wind_direction": 70,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-14T16:00:00-04:00",
-                "endTime": "2025-06-14T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 9
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 61. Northeast wind around 8 mph. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-14T18:00:00-04:00",
+                "startTime": "2025-06-14T20:00:00-04:00",
                 "endTime": "2025-06-15T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 13
+                    "value": 2
                 },
                 "windSpeed": "3 to 7 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 54. Northeast wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-06-15T06:00:00-04:00",
+                "endTime": "2025-06-15T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 68. East wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon wanes in Boston, the city finds itself enshrouded in a muted veil of clouds, creating a tranquil yet somewhat somber atmosphere. The temperature is hovering comfortably, whispering promises of a high near 61. A gentle northeast breeze stirs, its soft caress hinting at the slight dampness in the air. Perhaps a light drizzle\u2014a mere tease of rain\u2014has brushed the landscape, sustaining the rich green hues of summer while leaving a curious freshness in its wake.\n\nAs we edge into the evening, the skies will maintain their cloudy demeanor, with temperatures dipping to a cozy 54. It\u2019s a moment to reach for a light sweater or a soft jacket if venturing outside, ideal for leisurely strolls along the Charles or quiet conversations in a cozy caf\u00e9, where the warmth of humanity provides a contrast to the coolness enveloping the streets. Given this subdued tableau, activities could lean toward the reflective, perhaps a visit to a local bookshop or the enjoyment of a quiet cup of tea, as the city settles into the quiet embrace of twilight.",
-    "color_code": "#5A5A5A",
-    "timestamp": "2025-06-14 16:07:07"
+    "weather_report": "As the evening unfolds over Boston, a gentle murmur of clouds wraps the city in a soft embrace, hinting at the lingering warmth of the day. The air is imbued with the scent of fresh greenery, a reminder of the summer season, while a low temperature around 54 invites a light jacket or a cozy sweater. The northeast breeze, though modest, contributes a refreshing crispness\u2014a pleasant companion for an evening stroll along the Charles River or a quiet moment on a balcony overlooking the aglow cityscape.\n\nTomorrow promises a transformation, as the sun plans to emerge, casting its warm glow across the landscape. With high hopes for a bountiful 68 degrees, Boston's residents may consider transitioning to lighter attire\u2014perhaps a short-sleeve shirt, paired with comfortable shoes, will suit their daytime ventures well. The clear skies beckon: it\u2019s an ideal moment for a leisurely visit to the Boston Public Garden or a quiet reading session in one of its sunlit corners. Today's ambiance and tomorrow's promise intertwine, offering a simple elegance to Boston's rhythms this weekend.",
+    "color_code": "#B0C4D4",
+    "timestamp": "2025-06-14 20:36:27"
 }
