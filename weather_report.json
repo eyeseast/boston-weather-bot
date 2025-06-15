@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-15T05:53:00+00:00",
+            "timestamp": "2025-06-15T10:28:00+00:00",
             "temperature_f": 59.0,
             "temperature_c": 15,
-            "humidity": 77.511150721711,
+            "humidity": 80.650223331602,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Cloudy"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-15T03:00:00-04:00",
-                "endTime": "2025-06-15T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 54. Northeast wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-06-15T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-15T08:00:00-04:00",
                 "endTime": "2025-06-15T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 67,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 4
                 },
-                "windSpeed": "5 to 8 mph",
-                "windDirection": "NE",
+                "windSpeed": "8 mph",
+                "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 67. Northeast wind 5 to 8 mph."
+                "detailedForecast": "Partly sunny, with a high near 67. East wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-15T18:00:00-04:00",
+                "endTime": "2025-06-16T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
+                "shortForecast": "Mostly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after 1am. Mostly cloudy, with a low around 54. East wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn approaches over Boston, the city is swathed in a gentle cloak of clouds, casting a muted but tranquil glow upon the waking world. The air is cool, a soft and soothing reminder of the Northeast\u2019s charm, where the temperature settles around a refreshing 54 degrees. A light breeze whispers from the northeast, hinting at the promise of partly sunny skies as the sun ascends to greet the day. The atmosphere holds a pleasant weight, as the clouds hang above, suggesting that while the morning may be slow to brighten, the potential for a welcoming afternoon lies just ahead.\n\nAs the hours unfold, one might consider a leisurely morning stroll through the quieter streets of the city, perhaps clutching a warm cup of coffee to combat the lingering coolness. Layering will serve well in this temperate embrace; a light sweater or jacket will be the perfect companion against the cooler morning air. As the sun rises higher, inviting a mild warmth into the day, an afternoon exploring the vibrant parks or quaint bookstores could be splendid. Engaging with the gentle hum of the city might unearth the simple pleasures of a Sunday: a peaceful read by the Charles River or a casual lunch at a tucked-away cafe. The promise of partly sunny skies will eventually transform the landscape, inviting a blend of joy and respite in the heartbeat of Boston's Sunday.",
-    "color_code": "#A9C9B8",
-    "timestamp": "2025-06-15 04:08:37"
+    "weather_report": "This morning in Boston, the city is cloaked beneath a blanket of clouds, tinged with an unassuming gray that hints at the day\u2019s potential for patchy fog as evening descends. The air carries a gentle eastward breeze, inviting those outdoors to appreciate the subtle warmth creeping in, with temperatures edging toward a pleasant 67 degrees. Yet, the lingering clouds whisper a promise of partially sunny distinctions later, encouraging a search for pockets of brightness amidst the muted backdrop.\n\nAs the day unfolds, the contrast between vibrancy and shadow defines the scene; some might find pleasure in the cooler air against their skin, a welcome relief from the often sweltering summer days. Ideal attire might include a light jacket for the occasional chill, perhaps paired with comfortable shoes for a relaxed stroll. One might consider wandering through Boston's cobblestone streets, the gentle rhythm of life continuing amidst the damp atmosphere. A visit to a local caf\u00e9, cradling a warm beverage, could provide sanctuary from any unexpected coolness, while the patchy fog that settles later invites a reflective evening in the glow of Lamplight. A soft invitation into the nuances of this quaint city, today feels like a hidden treasure waiting to be discovered.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2025-06-15 08:11:10"
 }
