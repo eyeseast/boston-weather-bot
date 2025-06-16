@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-16T06:59:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 89.317597936371,
+            "timestamp": "2025-06-16T10:53:00+00:00",
+            "temperature_f": 57.02,
+            "temperature_c": 13.9,
+            "humidity": 93.082849756907,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Fog"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-16T04:00:00-04:00",
-                "endTime": "2025-06-16T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 54. East wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-06-16T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-16T08:00:00-04:00",
                 "endTime": "2025-06-16T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 70,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 3
                 },
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog before 8am. Partly sunny, with a high near 70. East wind 2 to 7 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 70. East wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-16T18:00:00-04:00",
+                "endTime": "2025-06-17T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 7
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 57. Southeast wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As daybreak approaches in Boston, a delicate veil of fog clings to the landscape, softening the edges of the city\u2019s waking sights. The hour is quiet, save for the gentle stirrings of the morning breeze. The low temperature, resting in the mid-fifties, suggests a mild embrace rather than a chill, hinting at the whisper of warmth as the sun ascends. Forecasts promise a transition from this hazy dawn to a partly sunny afternoon, where temperatures will lift toward the delightful embrace of the seventies. \n\nAs you prepare for the day, consider dressing in layers that balance comfort and ease; a light sweater or cardigan can shield you from the lingering coolness of the morning while remaining easily cast aside as the sun unfurls its golden light. With the mingling of clouds and sun anticipated, a leisurely stroll through the serene edges of the Common or perhaps a gentle visit to a cozy caf\u00e9 would suit the day's temperament perfectly\u2014an opportunity to witness life ripple forward as the city awakens. The charm of a book in one hand, a warm cup in the other, evokes the simple joys to be found in such gentle weather.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-06-16 04:10:37"
+    "weather_report": "As dawn breaks over Boston, a gentle shroud of fog envelops the city, altering its contours and softening its edges, casting a serene yet mysterious feel to the morning. The forecast promises a tapestry of partly sunny skies by midday, with temperatures nudging towards a comfortable 70 degrees. As the sun gradually becomes a dominant presence, the eastward winds whisper at a calm pace, bringing with them a refreshing embrace of warmth. This delicate interplay of clouds promises a pleasant day ahead, despite the haze that blankets the landscape in these early hours.\n\nWith nighttime moderating towards a mild 57 degrees, the evening holds its own allure, suggesting an opportunity for leisurely strolls or quiet gatherings in the parks, where light conversations can intertwine with the rustle of leaves. Attire should reflect this gentle shift\u2014perhaps a lightweight jacket for the coolness of dusk and breathable fabrics to enjoy the day\u2019s warmth. As life moves in rhythmic cadence within the city, activities may include savoring a quiet coffee at a corner caf\u00e9 or indulging in the pleasures of a bookstore, where the misty outdoors becomes a perfect backdrop for sipping tea and losing oneself in volumes of prose. The atmosphere today, while muted in its initial hours, promises invitations to quietly delight in simple pleasures.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-06-16 08:12:48"
 }
