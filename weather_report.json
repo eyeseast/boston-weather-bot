@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-15T18:53:00+00:00",
-            "temperature_f": 71.06,
-            "temperature_c": 21.7,
-            "humidity": 52.984525533753,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 90,
+            "timestamp": "2025-06-15T22:53:00+00:00",
+            "temperature_f": 66.02,
+            "temperature_c": 18.9,
+            "humidity": 58.55887506803,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 40,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-15T16:00:00-04:00",
-                "endTime": "2025-06-15T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 67. East wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-15T18:00:00-04:00",
+                "startTime": "2025-06-15T20:00:00-04:00",
                 "endTime": "2025-06-16T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 3
                 },
-                "windSpeed": "1 to 6 mph",
-                "windDirection": "E",
+                "windSpeed": "1 to 5 mph",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog between 4am and 5am. Mostly cloudy, with a low around 54. East wind 1 to 6 mph."
+                "detailedForecast": "Patchy fog between 4am and 5am. Mostly cloudy, with a low around 54. Southeast wind 1 to 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-06-16T06:00:00-04:00",
+                "endTime": "2025-06-16T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 71,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 71. East wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon settles gently over Boston, the atmosphere breathes a sense of calm. The sunlight dances intermittently through a veil of light cloud, casting a soft glow that embraces the day at approximately 67 degrees. An eastward breeze whispers promises of a warm evening, though a hint of humidity lingers in the air, foreshadowing the patchy fog that may soon touch the city during the early morning hours. \n\nIn these serene moments before twilight, the world outside offers an inviting canvas for leisurely pursuits. One might find pleasure in a quiet stroll along the Charles River, where the water mirrors the soft hues of the sky, promoting contemplation and tranquility. A light jacket may be wise for those venturing out as the night falls, with temperatures easing toward a cool 54 degrees. As the day gracefully pivots to night, the potential fog will begin to kiss the urban landscape, creating an ethereal scene best appreciated with a warm mug in hand, perhaps seated on a patio or balcony, allowing the sounds of evening to envelop you. Avoid the heavy layers; instead, opt for comfort and ease, reveling in the simple beauty of another day in Boston.",
-    "color_code": "#A8C8E5",
-    "timestamp": "2025-06-15 16:07:15"
+    "weather_report": "As twilight descends over Boston, the atmosphere begins to soften, wrapped in a veil of patches that promise a fleeting moment of fog later in the night. The warmth of the day lingers, with whispers of coolness in the air, inviting a comfortable retreat indoors. Those venturing outside will find themselves in a gentle embrace, the southeast wind barely rustling the leaves as night begins to settle, making it a perfect time for an evening stroll along the Charles or to find a quiet nook in a local caf\u00e9. \n\nTomorrow dawns with anticipation, a canvas of blue that holds the promise of sunshine warming the streets. With temperatures rising to a playful 71 degrees, it will be a day fit for light layers\u2014perhaps a breathable shirt paired with comfortable trousers or a casual summer dress, harmonizing with the pleasant breeze. As the sun dances across the sky, outdoor activities beckon; a leisurely bike ride or a stroll through one of Boston\u2019s historic parks will surely be worthwhile. The city, alive with possibilities, invites you to savor its charm, immersing yourself fully in the vibrant spirit of summer.",
+    "color_code": "#C1B2A8",
+    "timestamp": "2025-06-15 20:34:10"
 }
