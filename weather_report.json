@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-17T05:53:00+00:00",
-            "temperature_f": 60.08,
-            "temperature_c": 15.6,
-            "humidity": 89.621112131842,
+            "timestamp": "2025-06-17T10:53:00+00:00",
+            "temperature_f": 62.959999999999994,
+            "temperature_c": 17.2,
+            "humidity": 86.906635257068,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": ""
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-17T04:00:00-04:00",
-                "endTime": "2025-06-17T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 25
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 58. East wind around 5 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-06-17T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-17T08:00:00-04:00",
                 "endTime": "2025-06-17T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 69,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,30?size=medium",
                 "shortForecast": "Chance Rain Showers",
                 "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 69. Southeast wind around 7 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-17T18:00:00-04:00",
+                "endTime": "2025-06-18T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 32
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 64. South wind around 7 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, the air carries a damp coolness, a reminder of the rain showers that lingered overnight. The skyline, veiled in low-hanging clouds, hints at the subtle dance of moisture that envelops the city. While the forecast suggests only a modest chance of more rain today, the early hours are steeped in a muted ambiance that evokes a sense of tranquility. The east wind whispers, caressing the streets as they awaken, while the atmosphere remains gently humid, cloaking the morning in a subtle, ethereal haze.\n\nAs the day unfolds, the clouds may break slightly, revealing a high that nudges toward a pleasant warmth. Dress in layers, embracing the coolness of the morning with a light jacket, but keep an eye out for the hint of summer's arrival as temperatures rise. Consider a quiet stroll along the Charles River, savoring the serenity of the water reflecting the subdued colors of the day. Alternatively, perhaps a visit to a cozy caf\u00e9 would be the perfect way to enjoy a warm beverage while watching the world awaken around you, the soft sound of rain tapping against the window adding to the comforting ambience. Today invites a gentle pace, encouraging reflection amid the charm of the city, reminding us to savor life\u2019s simple pleasures even as the weather keeps us guessing.",
-    "color_code": "#A2A2A2",
-    "timestamp": "2025-06-17 04:10:09"
+    "weather_report": "Boston awakens to a dim morning, wrapped in a humid embrace where clouds linger like distant thoughts. The air, thick with the scent of impending rain, hints at a day that might feel more drizzly than dazzling. With the sun fighting to penetrate the shroud of gray, the temperature hovers around a comfortable 69 degrees. Yet, one could find themselves wishing for a bit of brightness as the fog rolls over the city, veiling its iconic skyline in an ethereal cloak. As the shadows of the trees dance lightly in the gentle southeast breeze, the subdued ambiance encourages one to consider a slower pace.\n\nLooking ahead, the probability of rain showers lingers like soft whispers on the wind, extending into the evening where the temperature will only dip to around 64 degrees. For those venturing out, a light jacket or a cozy sweater paired with waterproof shoes might be the most pragmatic choice, offering a modicum of comfort against the looming showers. Perhaps a stroll through the quieter paths of the Boston Common or a visit to a local caf\u00e9, where the warmth of coffee can accompany the cool touch of rain, would provide solace. Today is not about grand adventures but rather about savoring the small moments, hidden beneath the clouds, waiting to be discovered in the gentle rhythm of an overcast day.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-06-17 08:13:04"
 }
