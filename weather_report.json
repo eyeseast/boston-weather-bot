@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-18T06:53:00+00:00",
-            "temperature_f": 68.0,
-            "temperature_c": 20,
-            "humidity": 87.166373588393,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 180,
+            "timestamp": "2025-06-18T10:53:00+00:00",
+            "temperature_f": 66.92,
+            "temperature_c": 19.4,
+            "humidity": 90.47284679466,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 190,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-18T04:00:00-04:00",
-                "endTime": "2025-06-18T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 33
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers and patchy fog. Cloudy, with a low around 64. South wind around 5 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-06-18T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-18T08:00:00-04:00",
                 "endTime": "2025-06-18T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 79,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 28
                 },
-                "windSpeed": "5 to 8 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers and patchy fog before noon, then a chance of rain showers and patchy fog. Mostly cloudy, with a high near 79. South wind 5 to 8 mph. Chance of precipitation is 40%."
+                "windSpeed": "8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,20?size=medium",
+                "shortForecast": "Chance Rain Showers then Patchy Fog",
+                "detailedForecast": "A chance of rain showers and patchy fog before 10am, then patchy fog and a slight chance of rain showers between 10am and 1pm. Mostly cloudy, with a high near 79. Southwest wind around 8 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-18T18:00:00-04:00",
+                "endTime": "2025-06-19T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 16
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and a slight chance of rain showers after 8pm. Mostly cloudy, with a low around 67. Southwest wind 3 to 8 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the realm of Boston, the early hours cradle the city under a veiled shroud, the air thick with whispers of rain and the gentle embrace of fog. As the day unfolds, a soft, muted sky lingers overhead, hinting at the possibility of refreshed scenery from the heavens. With the temperature floating about a mild 64 degrees, it beckons for attire that balances comfort and practicality\u2014perhaps a light jacket and some breathable layers, ideal for a stroll as you navigate the laid-back rhythm of midweek. \n\nAs the sun rises higher and nudges the city towards a peak near 79, expect the clouds to linger but not dominate, creating a canvas for intermittent glimpses of blue. Rain showers are on the horizon, encircled by the atmospheric dance of fog that may cloak the quieter streets. It\u2019s an invitation to embrace the simple joys of the day\u2014perhaps a leisurely coffee at a favorite corner caf\u00e9 or a soft walk through a nearby park, letting the coolness of the air kiss your skin as the city awakens around you. Stay attuned to the shifting skies; today offers a chance for a refreshing interlude bathed in gentle breezes, beckoning one to savor moments of stillness amidst the urban currents.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-06-18 04:09:55"
+    "weather_report": "As the day unfolds in Boston, the air carries a hint of dampness, reminiscent of whispered secrets amid that gentle embrace of patchy fog. For now, the city is shrouded in an ethereal haze that swathes the skyline, creating an atmospheric canvas that invites quiet contemplation. With the temperature gently nudging towards the upper seventies and a subtle southwest wind providing companionship, the warmth of the day promises a gentle shift once the clouds begin to part.\n\nAs preceding raindrops linger in the air, there\u2019s an opportunity for moments of reflection amongst the subdued light. Perhaps a stroll through the neighborhood, where light conversations are punctuated by the rustling of leaves and the murmur of companionship, would be ideal. Consider dressing in layers; a light, breathable jacket paired with breathable fabrics will keep you comfortable as the fog gently lifts throughout the afternoon, revealing patches of blue and hints of warmth emerging from the clouds. As nightfall approaches, the air may cool again, calling for a cozy embrace and the allure of intimate gatherings, be they quiet dinners or shared laughter over warm drinks.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2025-06-18 08:12:38"
 }
