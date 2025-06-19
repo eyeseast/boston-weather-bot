@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-19T06:53:00+00:00",
-            "temperature_f": 69.98,
-            "temperature_c": 21.1,
-            "humidity": 90.028047779447,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-06-19T10:53:00+00:00",
+            "temperature_f": 71.06,
+            "temperature_c": 21.7,
+            "humidity": 90.071015455661,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 250,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-19T04:00:00-04:00",
-                "endTime": "2025-06-19T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 13
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog. Cloudy, with a low around 68. Southwest wind around 3 mph."
-            },
-            {
-                "number": 2,
                 "name": "Juneteenth",
-                "startTime": "2025-06-19T06:00:00-04:00",
+                "startTime": "2025-06-19T08:00:00-04:00",
                 "endTime": "2025-06-19T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 96,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 10
                 },
-                "windSpeed": "3 to 12 mph",
+                "windSpeed": "5 to 12 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/fog/hot?size=medium",
                 "shortForecast": "Areas Of Fog then Mostly Sunny",
-                "detailedForecast": "Areas of fog before 9am. Mostly sunny, with a high near 96. Heat index values as high as 102. Southwest wind 3 to 12 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Areas of fog before 9am. Mostly sunny, with a high near 96. Heat index values as high as 102. Southwest wind 5 to 12 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-19T18:00:00-04:00",
+                "endTime": "2025-06-20T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 31
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/bkn?size=medium",
+                "shortForecast": "Isolated Showers And Thunderstorms then Mostly Cloudy",
+                "detailedForecast": "Isolated showers and thunderstorms before 7pm, then scattered showers and thunderstorms between 7pm and 11pm. Mostly cloudy, with a low around 68. Heat index values as high as 98. Southwest wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the clock ticks toward morning in Boston, the atmosphere is shrouded in a gentle haze, an ethereal fog embracing the city, softening its contours and blurring the edges. The air carries a lingering warmth, hinting at the day to come, while the pale whisper of a southwest breeze nudges through the quiet, still streets. The temperatures linger around a cozy 68 degrees, inviting those who awaken early to pause for a moment, breathe deeply, and soak in the tranquil allure of a world cloaked in morning mist.\n\nBut do not be misled by this serene start; the day unfolds with intentions of brilliance, transforming the fog into a backdrop for a vibrant, sun-soaked afternoon. As the sun rises higher, it promises to dispel the remaining remnants of haze, casting a golden light over the city, pushing temperatures toward a stifling 96 degrees. Sweaty brows and radiant smiles will mark the beauty of the day as the heat index climbs, urging you to seek refuge in the shade or perhaps a gentle breeze at the water's edge. Dress lightly, favor breathable fabrics that dance with the wind, and don\u2019t forget that trusted bottle of water by your side. \n\nFor the hours ahead, consider a leisurely stroll along the waterfront, where the hum of boats and laughter mingle harmoniously. An afternoon at a quaint caf\u00e9, with a seat outside, could provide the perfect spot to sip iced coffee while lost in a good book or engaging conversation. This is a day meant for simple pleasures, a reminder to relish the everyday as the city glimmers beneath the sun\u2019s watchful gaze.",
-    "color_code": "#F8C8B5",
-    "timestamp": "2025-06-19 04:09:58"
+    "weather_report": "The morning in Boston unfurls gently, cloaked in a mysterious veil of fog that lingers just before the sun's embrace. As the hours unfold, we anticipate the day to transform into something warmer, with the promise of a blazing sun peeking through the haze. Expect a high that dances close to the ninety-six mark, with the heat index whispering secrets of warmth that could feel like one hundred two. A gentle southwest breeze stirs, playful yet palpable, reminding us of the elements\u2019 subtle hand in our day.\n\nAs the sun climbs, you might choose to dress in light fabrics, to let the air caress your skin, while keeping a windbreaker or light sweater nearby for the possible evening showers that loom. As the day turns to dusk, isolated storms may emerge, casting a certain charm over the evening, ideal for quiet strolls under darkening skies, where the scent of rain and earth dances together in the air. With a soft pitter-patter of fresh rain, a trip to a local market or a casual caf\u00e9 to sip on cool drinks becomes a delightful escape. The day's warmth mingles with lingering humidity, calling for simple pleasures before twilight settles\u2014a harmony of nature and personal retreat.",
+    "color_code": "#D1B5A8",
+    "timestamp": "2025-06-19 08:12:28"
 }
