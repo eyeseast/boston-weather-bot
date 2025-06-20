@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-19T18:53:00+00:00",
-            "temperature_f": 93.02,
-            "temperature_c": 33.9,
-            "humidity": 49.027453269803,
-            "wind_speed_mph": 33.01812,
+            "timestamp": "2025-06-19T22:53:00+00:00",
+            "temperature_f": 86.0,
+            "temperature_c": 30,
+            "humidity": 57.157052096789,
+            "wind_speed_mph": 45.903240000000004,
             "wind_direction": 210,
-            "description": ""
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Juneteenth",
-                "startTime": "2025-06-19T16:00:00-04:00",
-                "endTime": "2025-06-19T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 96,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 6
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 96. Heat index values as high as 102. Southwest wind around 12 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-19T18:00:00-04:00",
+                "startTime": "2025-06-19T20:00:00-04:00",
                 "endTime": "2025-06-20T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 70,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "12 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct,30/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 70. Heat index values as high as 98. Southwest wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/bkn,30/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 70. Southwest wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-06-20T06:00:00-04:00",
+                "endTime": "2025-06-20T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 83,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "13 to 23 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 83. West wind 13 to 23 mph, with gusts as high as 40 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon deepens in Boston, the sun casts a warm, golden glow over the city, signifying a quintessential summer day. With temperatures climbing toward a steamy high of 96, you might feel the weight of the heat pressing upon your shoulders. The air around you dances with heat, the index teasingly nudging into the territory of 102. Clouds lazily drift across the sky, a perfect contrast against the blue expanse, but they offer little shelter from the warmth that envelops the town. This is no time for heavy layers; rather, the day beckons for light, breathable fabrics. A simple cotton shirt and comfortable shorts will do wonders, offering respite from the warmth while keeping you stylishly cool.\n\nAs evening approaches, the forecast hints at a slight cooling, but the air will remain charged with humidity, allowing it to feel warmer than it is. Tonight, expect partly cloudy skies, with a welcoming low around 70, creating a tropical ambiance perfect for a late-night stroll along the Charles. The potential for a gentle gust might entice those with a penchant for adventure, guiding you towards outdoor cafes or the embrace of a shaded park bench where you can sip on iced tea and relish the lingering light of the day. In this moment, with the city vibrating under the radiant sun, consider a quiet evening out, perhaps a light reading in the park or even a simple gathering with friends, enjoying the warmth that only summer can provide.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-06-19 16:08:33"
+    "weather_report": "As twilight drapes Boston in shades of gray, the sky holds a quiet promise of the warmth that graced the day. The clouds, tinged with muted colors of softer blues and purples, tell a story of a humid night ahead. With a gentle wind rustling through the trees, the streets remain vibrant yet subdued, inviting evening strolls beneath the whisper of a 30% chance of rain. This air, remarkably warm for the season, carries hints of potential summer thunderstorms, urging a light jacket or perhaps a cozy sweater for those venturing out after dusk.\n\nThe day to come holds the allure of golden sunbeams, a brief upward turn toward 83 degrees that many will embrace with open arms. Such warmth, coupled with gusty winds, calls for comfortable attire\u2014a simple t-shirt paired with breathable shorts, or perhaps a sundress that captures the essence of the sun-drenched afternoon. Those who find themselves free might take the opportunity to explore city parks or enjoy a leisurely lunch outdoors, relishing in the rhythm of the bustling streets. It is a day where creativity can thrive, inviting a visit to an art gallery or a simple coffee shop where conversations drift as easily as the forsythia swaying in the breeze.",
+    "color_code": "#8C6B4A",
+    "timestamp": "2025-06-19 20:32:19"
 }
