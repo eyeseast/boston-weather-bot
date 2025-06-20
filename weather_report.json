@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-20T06:53:00+00:00",
-            "temperature_f": 71.96,
-            "temperature_c": 22.2,
-            "humidity": 78.583746586071,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 170,
-            "description": "Clear"
+            "timestamp": "2025-06-20T10:53:00+00:00",
+            "temperature_f": 73.04,
+            "temperature_c": 22.8,
+            "humidity": 53.268639384947,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 270,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-20T04:00:00-04:00",
-                "endTime": "2025-06-20T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 70. Southwest wind around 14 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-06-20T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-20T08:00:00-04:00",
                 "endTime": "2025-06-20T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 83,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 3
+                    "value": 0
                 },
-                "windSpeed": "14 to 23 mph",
+                "windSpeed": "16 to 23 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 83. West wind 14 to 23 mph, with gusts as high as 43 mph."
+                "detailedForecast": "Sunny, with a high near 83. West wind 16 to 23 mph, with gusts as high as 43 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-20T18:00:00-04:00",
+                "endTime": "2025-06-21T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "6 to 16 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 65. West wind 6 to 16 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "As darkness envelops Boston, the city is held in a gentle embrace of clouds that drift languidly across the night sky, hinting at the warmth of a low around 70 degrees. A soft southwest wind stirs, whispering promises of a brighter morn to come. With dawn just on the horizon, the chill of the night gives way to a day that unfolds under a brilliant sun, coaxing the temperatures upward to near 83 degrees. The winds will pick up, dancing energetically, gusting fiercely, as if the very air is excited to greet an invigorating summer day.\n\nAs you embrace the unfolding morning, consider a light ensemble that dances between comfort and style. Breathable fabrics will serve you well as you navigate the warmth and the brisk breezes that beckon from the west. The radiance of the sun calls for a casual stroll, perhaps along the Charles River, where the water mirrors the blue of the sky, or through the fragrant pathways of a nearby park, each step filled with the symphony of nature awakening. Amidst the bustling local cafes, the lure of sipping a freshly brewed coffee while soaking in the ambiance proves irresistible. Such moments can transform an ordinary Friday into an experience to savor.",
-    "color_code": "#F5F5DC",
-    "timestamp": "2025-06-20 04:09:52"
+    "weather_report": "In Boston this morning, the sun spills over the horizon like molten gold, illuminating the city with a warmth that promises pleasure. The skies are mostly clear, with just a few wispy clouds drifting lazily, allowing the vibrant blue to stretch endlessly above. The air carries a gentle and invigorating breeze from the west, dancing through the streets and rustling the leaves, a reminder of summer\u2019s embrace. Today\u2019s warmth reaches into the low 80s, inviting locals to abandon their jackets in favor of light shirts and breathable fabrics that can breathe alongside the gentle winds and midday sun.\n\nAs twilight approaches, the temperature will soften into a cozy 65, encouraging a leisurely evening walk or perhaps an outdoor meal at a local caf\u00e9 with friends. The winds will still be present, though more subdued after sunset, creating an ever-so-slight chill against the skin\u2014a perfect excuse to sip something warm or indulge in a light wrap. The atmosphere beckons you to step outside, soak in the captivating evening light, and meander through the city\u2019s vibrant streets, creating memories that linger long after the sun dips below the horizon.",
+    "color_code": "#82C9E5",
+    "timestamp": "2025-06-20 08:12:30"
 }
