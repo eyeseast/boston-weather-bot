@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-21T16:53:00+00:00",
-            "temperature_f": 84.91999999999999,
-            "temperature_c": 29.4,
-            "humidity": 37.249967806619,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 310,
+            "timestamp": "2025-06-21T23:53:00+00:00",
+            "temperature_f": 78.98,
+            "temperature_c": 26.1,
+            "humidity": 56.214604768443,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 130,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-21T16:00:00-04:00",
-                "endTime": "2025-06-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 85,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 85. Northwest wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-21T18:00:00-04:00",
+                "startTime": "2025-06-21T20:00:00-04:00",
                 "endTime": "2025-06-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 70,
@@ -49,14 +30,33 @@
                     "value": 6
                 },
                 "windSpeed": "7 mph",
-                "windDirection": "SW",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 70. Southwest wind around 7 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 70. South wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-06-22T06:00:00-04:00",
+                "endTime": "2025-06-22T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 94,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 31
+                },
+                "windSpeed": "12 to 17 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,30/hot?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Sunny",
+                "detailedForecast": "A slight chance of showers and thunderstorms between 7am and 8am, then a chance of showers and thunderstorms between 8am and noon. Partly sunny, with a high near 94. Heat index values as high as 99. West wind 12 to 17 mph, with gusts as high as 28 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the sun glides across the afternoon sky of Boston, it casts a warm glow, embracing the city with a comfortable hum of summer. The temperature reaches a pleasant warmth, eliciting the kind of easy laughter from passersby, all under a tapestry of mostly sunny skies dotted with the soft, wandering clouds of early summer. A light northwest breeze rustles through the trees, whispering promises of a mild evening as it carries the sweet scent of blooming flowers and freshly cut grass. There\u2019s no mist or fog attempting to claim the day, just a clarity that allows the skyline to stand proud against the azure backdrop.\n\nAs the day edges toward twilight, the forecast hints at a gentle shift\u2014clouds will drift in, creating a cozy canopy over the urban landscape and inviting a pause in the day's revelries. With temperatures settling into the balmy range of the low seventies, light layering will suffice; perhaps a stylish cardigan or a casual button-up to throw on as the sun dips. The enchantment of this ordinary day calls for a leisurely stroll down the cobbled streets, a quiet afternoon spent in a caf\u00e9 sipping on an iced coffee, or perhaps a visit to one of the local parks where laughter and chatter fill the air as families unwind. There\u2019s a serene beauty to Boston today, a reminder that in the rhythm of life\u2019s everyday moments, there is magic waiting to be savored.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-06-21 16:07:32"
+    "weather_report": "As the evening unfolds over Boston, a blanket of clouds drapes the sky, hinting at the warmth that lingers just beyond the twilight. The air holds a whisper of humidity, cradled by the gentle southern breeze, which dances softly through the trees. Tonight's forecast promises a low of around 70, creating an enveloping warmth that invites the city to embrace leisurely outdoor pursuits. The muted hues of dusk suggest an approaching night that, while not particularly clear, offers a sense of calmness, allowing the city to relax into the evening.\n\nLooking ahead to tomorrow, the dawning sun may bring a touch of chaos, with whispers of showers and thunderstorms between the hours of morning light and noon. A partly sunny disposition should emerge, however, accompanied by the sultry promise of a high close to 94 degrees. Dressing for such a day calls for light fabrics, breathable materials, and perhaps a hat to shield against the eager sun. The heat index may flirt with 99, so keeping hydrated and taking refuge under shade when the sun holds court will be wise. The bustling streets beckon for quiet strolls or casual brunches at local caf\u00e9s, where one can savor the day while keeping an eye on the sky\u2014a soft quality that speaks of fleeting moments and summer dreams.",
+    "color_code": "#D7C3A1",
+    "timestamp": "2025-06-21 20:36:10"
 }
