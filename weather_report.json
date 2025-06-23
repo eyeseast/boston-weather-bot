@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-22T18:53:00+00:00",
-            "temperature_f": 93.91999999999999,
-            "temperature_c": 34.4,
-            "humidity": 47.679662624014,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Clear"
+            "timestamp": "2025-06-22T22:53:00+00:00",
+            "temperature_f": 87.98,
+            "temperature_c": 31.1,
+            "humidity": 57.418245836631,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 290,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-22T16:00:00-04:00",
-                "endTime": "2025-06-22T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 92,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 18
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers. Mostly sunny, with a high near 92. Heat index values as high as 98. West wind around 13 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-22T18:00:00-04:00",
+                "startTime": "2025-06-22T20:00:00-04:00",
                 "endTime": "2025-06-23T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 71,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 14
+                    "value": 3
                 },
-                "windSpeed": "3 to 12 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium",
                 "shortForecast": "Partly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog after 4am. Partly cloudy, with a low around 71. Heat index values as high as 96. Northwest wind 3 to 12 mph."
+                "detailedForecast": "Patchy fog after 4am. Partly cloudy, with a low around 71. Northwest wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-06-23T06:00:00-04:00",
+                "endTime": "2025-06-23T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 91,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 91. Northeast wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon drifts into the embrace of summer, Boston finds itself caught in a gentle tug-of-war between sun and cloud. The air is laden with the promise of warmth, flirtatiously whispering of a high that flirts near ninety-two. Though the sun peeks from behind cottony clouds, there's a slight chance of rain showers teasing the edges of this idyllic day. As the heat wraps itself around you, creating a sensation akin to a warm embrace, the heat index insists on climbing, making it feel a touch more oppressive than the mercury alone would suggest. \n\nAs twilight approaches, the bustling city may find itself shrouded in patchy fog, a gentle reminder of nature\u2019s hand. The luminous hues of an approaching evening beckon you to savor the outdoor pockets of warmth before retreating indoors. For those strolling through the parks or indulging in an al fresco meal, light, breathable fabrics will serve you well, perhaps a loose cotton shirt paired with shorts, fitting for this sultry summer day. As the sun dips lower, consider unwinding with a leisurely walk along the Charles River, where the fading light dances on the water\u2019s surface, or perhaps indulge in the comfort of a quaint caf\u00e9, enjoying the sounds of laughter alongside your chosen beverage.",
-    "color_code": "#C2D0D0",
-    "timestamp": "2025-06-22 16:07:11"
+    "weather_report": "As the evening deepens over Boston, a gentle patch of fog begins to creep in, a soft blanket hovering in shared secrets with the warm air. The day will linger in the memory of those who ventured outside, for the delightful warmth of a 91-degree afternoon has been replaced by a subtle, sultry caress, with a low of around 71. The city, painted in hues of twilight, casts shadows that dance playfully as the northwesterly breeze sighs softly, barely stirring the leaves. Tonight invites serenity, with partially cloaked skies, hinting at the celestial performance yet to unfold as one gazes upward.\n\nTomorrow promises a fill of golden sunshine, beckoning the early birds to emerge. As the sun ascends, its rays will sprinkle vibrancy, perfect for leisurely strolls along the picturesque Charles River or perhaps a visit to a charming caf\u00e9, where the aroma of freshly brewed coffee partners beautifully with the warmth outside. Dress lightly, embrace breathable fabrics, and allow the anticipation of summer to settle comfortably in your skin. As the whispers of the wind carry laughter and the rustling of leaves, consider a simple indulgence: perhaps just a book in hand, found under the shade of a welcoming tree, where time feels suspended.",
+    "color_code": "#DDA0DD",
+    "timestamp": "2025-06-22 20:35:10"
 }
