@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-23T18:53:00+00:00",
-            "temperature_f": 95.0,
-            "temperature_c": 35,
-            "humidity": 54.300792767222,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 250,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-06-23T22:53:00+00:00",
+            "temperature_f": 87.98,
+            "temperature_c": 31.1,
+            "humidity": 61.394086923494,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 180,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-23T16:00:00-04:00",
-                "endTime": "2025-06-23T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 95,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 95. Heat index values as high as 102. West wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-23T18:00:00-04:00",
+                "startTime": "2025-06-23T20:00:00-04:00",
                 "endTime": "2025-06-24T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 75,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
                 "windSpeed": "6 to 9 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 75. Heat index values as high as 96. Southwest wind 6 to 9 mph."
+                "detailedForecast": "Partly cloudy, with a low around 75. Southwest wind 6 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-06-24T06:00:00-04:00",
+                "endTime": "2025-06-24T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 102,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 102. Heat index values as high as 106. West wind 6 to 12 mph."
             }
         ]
     },
-    "weather_report": "Boston basks in the warmth of a sun-drenched afternoon, a day characterized by a steady hush and soft breezes. The air is thick, a tangible reminder of summer's embrace, the kind that invites one outside yet whispers caution. The sun reaches its zenith, casting down vibrant rays that push the temperature toward a sultry peak. The horizon shimmers slightly, reminiscent of a sea, as heat waves twist the air, blurring the distant skyline and lending an otherworldly charm to the bustling city below.\n\nAs twilight approaches, the warmth lingers\u2014a gentle reminder of the day's heat softening into a comfortably warm evening, where the stars are poised to create their own theatrical display. A comfortable outfit, perhaps a lightweight cotton shirt paired with shorts or breezy trousers, would suffice to navigate the heat. As the sun descends, the allure of the city beckons, offering a gentle stroll along the Charles River or perhaps a quiet moment in one of Boston's serene parks. It is a perfect evening for a relaxed dinner outdoors, taking in the gentle sounds of summer while keeping a careful eye on the sky for any gathering clouds. Today, the city hums with life, radiating a vibrant, warm energy that speaks to the heart of urban summer.",
-    "color_code": "#F8D7A0",
-    "timestamp": "2025-06-23 16:08:15"
+    "weather_report": "As twilight descends upon Boston, the atmosphere is layered with a gentle warmth, hinting at the balmy night ahead. Tonight's low relinquishes the summer's heat, settling comfortably around 75 degrees. A soft southwest breeze stirs lazily, carrying with it the promise of clearer skies. The stars may peek through the gradually darkening canvas, suggesting a serene, albeit warm, evening.\n\nCome Tuesday, the city will awaken to an unyielding sun that brightens the horizon. It is destined to reach a staggering peak of around 102 degrees, with a heat index that may make it feel even hotter. Residents should prepare for an intense day, where the heat wraps around like the embrace of an old friend, tight yet familiar. Dressing lightly in breathable fabrics becomes essential\u2014think loose cotton shirts and sun hats to shield against the blaze. Afternoon strolls will be best enjoyed in shaded parks or alongside the calming banks of the Charles River, where the gentle whisper of water provides a welcome reprieve. \n\nIndoors, local caf\u00e9s offer a refuge, inviting you to savor iced coffee or a chilled lemonade while engaging in quiet conversation. Whether you opt for a lazy afternoon with a book or a leisurely exploration of quiet neighborhoods, the day promises its own rhythm, vibrant yet comfortable, all under the watchful eye of the sun.",
+    "color_code": "#FFCC66",
+    "timestamp": "2025-06-23 20:32:28"
 }
