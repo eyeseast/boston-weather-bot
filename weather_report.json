@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-24T07:20:00+00:00",
-            "temperature_f": 71.06,
-            "temperature_c": 21.7,
-            "humidity": 93.471828738843,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog/Mist"
+            "timestamp": "2025-06-24T10:53:00+00:00",
+            "temperature_f": 78.08,
+            "temperature_c": 25.6,
+            "humidity": 90.343779336786,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 230,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-24T04:00:00-04:00",
-                "endTime": "2025-06-24T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 75,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 75. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-06-24T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-24T08:00:00-04:00",
                 "endTime": "2025-06-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 102,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "8 to 13 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 102. Heat index values as high as 109. West wind 7 to 13 mph."
+                "detailedForecast": "Sunny, with a high near 102. Heat index values as high as 109. West wind 8 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-24T18:00:00-04:00",
+                "endTime": "2025-06-25T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 79,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 79. Heat index values as high as 104. West wind 7 to 12 mph."
             }
         ]
     },
-    "weather_report": "As dawn approaches, the gentle shift from night into day casts a soft veil across Boston, where the atmosphere feels charged with anticipation. The current night is predominantly clear, tempered by a whispering southwest breeze that hints at the warmth to come. You can almost sense the city poised for a sun-soaked morning, one that promises to usher in rising temperatures, reaching toward a sweltering embrace of 102 degrees by midday.\n\nToday unfolds under the expansive embrace of a brilliant blue sky, unmarred by clouds, transformed into a canvas for the sun\u2019s radiant glow. Yet, there is an undertone of caution\u2014the heat index will flirt with extremes, hinting at a feeling of 109, suggesting that this is not merely a day for leisurely strolls. Attire should be deliberate: light fabrics that breathe, perhaps in soft whites and warm pastels, to reflect the sun\u2019s intensity. Consider seeking refuge in shaded spaces or air-conditioned havens as the afternoon progresses, where one might enjoy an iced coffee or a novel, luxuriously stretching the hours. Perhaps a visit to the waterfront parks will invite gentle breezes, or a leisurely exploration of nearby shops that offer respite from the heat. As the sun climbs higher, keep a watchful eye on hydration\u2014today's allure is one steeped in summer's vibrant energy, but it comes with a reminder to proceed with care.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-06-24 04:10:30"
+    "weather_report": "As the sun nudges its way into the day, Boston awakens beneath a vast expanse of azure, unmarred by fog or haze. The air is thick with the promise of heat, a warm whisper of summer that wraps around one like a familiar embrace. With temperatures flirting with an exceptional high today, the heat index elevates the experience, urging all to tread cautiously under its ardent gaze. In the late afternoon, as the sun tiptoes towards the horizon, the warmth will linger, casting a muted glow over the city's streets, where the vibrant hum of activity thrives even in the sultry blanket of the evening.\n\nIn this balmy atmosphere, dressing in light fabrics becomes essential; breathable cottons and airy shorts serve as armor against the warmth. It is wise to don sunglasses, perhaps a broad-brimmed hat, to shield oneself from the sun's relentless rays. As the day unfolds, why not stroll along the waterfront, savoring an iced coffee while indulging in the soothing melody of waves gently lapping at the shore? Alternatively, seek refuge in one of Boston\u2019s lush parks, where ample shade and the rustle of leaves provide a perfect backdrop for quiet contemplation. As the evening approaches, the warmth remains inviting, an invitation for leisurely walks through the vibrant neighborhoods, where the air fills with the tantalizing scents of outdoor dining.",
+    "color_code": "#F7E1B6",
+    "timestamp": "2025-06-24 08:12:43"
 }
