@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-25T05:53:00+00:00",
-            "temperature_f": 78.08,
-            "temperature_c": 25.6,
-            "humidity": 76.211865221331,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-06-25T10:53:00+00:00",
+            "temperature_f": 82.04,
+            "temperature_c": 27.8,
+            "humidity": 71.611070922139,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 150,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-25T04:00:00-04:00",
-                "endTime": "2025-06-25T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 79,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 79. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-06-25T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-25T08:00:00-04:00",
                 "endTime": "2025-06-25T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 93,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 26
                 },
-                "windSpeed": "6 to 9 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20/tsra_hi,30?size=medium",
                 "shortForecast": "Isolated Showers And Thunderstorms",
-                "detailedForecast": "Isolated showers and thunderstorms between 10am and 2pm, then scattered showers and thunderstorms. Mostly sunny. High near 93, with temperatures falling to around 87 in the afternoon. Heat index values as high as 96. North wind 6 to 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Isolated showers and thunderstorms between 10am and 2pm, then scattered showers and thunderstorms. Mostly sunny. High near 93, with temperatures falling to around 87 in the afternoon. Heat index values as high as 96. North wind around 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-25T18:00:00-04:00",
+                "endTime": "2025-06-26T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "1 to 10 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
+                "detailedForecast": "Isolated rain showers before 8pm. Mostly cloudy, with a low around 65. East wind 1 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston, the dawn holds a gentle promise of warmth, with the night retreating softly, giving way to a day that anticipates the sun\u2019s embrace. The air feels notably balmy, the lingering humidity hinting at scattered showers and the possibility of storms to come. As the morning unfolds, one can sense the excitement of a summer day filled with potential. Temperatures will rise significantly, reaching a sweltering height by mid-afternoon, at which point the heat index may flirt with discomfort. The brisk northern winds offer a brief respite, carrying whispers of cooler air through the streets and parks.\n\nFor those venturing outdoors, consider light clothing that breathes\u2014the sun will be bright and unyielding, but mornings can still hold a hint of chill. As the day unfolds, a light jacket or sweater may come in handy for the early hours, but when the sun takes its throne, it will soon feel best to shed layers and embrace the warmth. Activities could range from leisurely strolls along the Charles River to a quiet corner in Boston Common, where a book and a cool drink can temper the evening\u2019s approach. Engage with the city's vibrant energy, keeping an eye on the sky, for nature's electric display might soon follow as the day transitions into twilight.",
+    "weather_report": "As the day unfolds over Boston, a tapestry of blue stretches across the sky, punctuated by the promise of summer. Intermittent warmth caresses the skin, heralding a day that dances between sunlit moments and the fleeting touch of thunder. While the humidity swells, hinting at possible afternoon showers and a captivating storm or two, there remains a window of radiant brilliance where the sun claims the stage. The air is thick with anticipation, yet tempered by a gentle breeze that whispers through the trees, offering a touch of relief from the building heat.\n\nFor those wandering the city\u2019s vibrant streets or enveloped by the lush greenery of its parks, light and breathable fabrics will offer comfort beneath the sun's watchful gaze. As the afternoon progresses and the heat begins to retreat, be prepared for the odd shower \u2013 playful, yet brief \u2013 washing away the dust of the day. In this dance of meteorological moods, a simple outing to a local caf\u00e9, perhaps savoring a chilled drink while the clouds roll in, promises both respite and a moment to appreciate the symphony of nature at play. So, embrace the summer day, for it beckons with both warmth and wonder, a gentle reminder of the season\u2019s capricious charm.",
     "color_code": "#FFD700",
-    "timestamp": "2025-06-25 04:10:10"
+    "timestamp": "2025-06-25 08:12:33"
 }
