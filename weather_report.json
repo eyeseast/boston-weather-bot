@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-24T14:53:00+00:00",
-            "temperature_f": 96.08000000000001,
-            "temperature_c": 35.6,
-            "humidity": 44.612406743402,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": null,
+            "timestamp": "2025-06-24T22:53:00+00:00",
+            "temperature_f": 98.06,
+            "temperature_c": 36.7,
+            "humidity": 36.443326911127,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 270,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-24T12:00:00-04:00",
-                "endTime": "2025-06-24T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 102,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 to 13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 102. Heat index values as high as 109. West wind 9 to 13 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-24T18:00:00-04:00",
+                "startTime": "2025-06-24T20:00:00-04:00",
                 "endTime": "2025-06-25T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 79,
+                "temperature": 78,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "7 to 12 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 79. Heat index values as high as 104. West wind 7 to 12 mph."
+                "detailedForecast": "Mostly clear, with a low around 78. Heat index values as high as 99. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-06-25T06:00:00-04:00",
+                "endTime": "2025-06-25T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 92,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 32
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra_hi,30?size=medium",
+                "shortForecast": "Chance Rain Showers then Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of rain showers between 9am and 2pm, then a chance of showers and thunderstorms between 2pm and 5pm, then a chance of showers and thunderstorms. Mostly sunny. High near 92, with temperatures falling to around 86 in the afternoon. North wind around 7 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the sun graces the sky above Boston this afternoon, the city finds itself enveloped in a radiant embrace of warmth, with temperatures climbing toward the 102-degree mark. The bright blue canopy overhead offers no hint of obscurity, casting a sharp clarity over the landscape\u2014a perfect backdrop for the vibrant pulse of the afternoon. Heat index values suggest a more intense sensation, climbing to a sweltering 109, making the warmth almost palpable in the air. A gentle westward breeze stirs, carrying with it a whisper of relief, but even this may feel like a mere tease in such oppressive heat.\n\nAs the sun dips low tonight, expect the warmth to linger, settling around a soft 79 degrees, and the heat index will remain stubbornly high, teasing the evening with a muggy embrace. With mostly clear skies, the night offers a canvas of tranquility\u2014ideal for stargazing or a late stroll along the waterfront. In such weather, it would be wise to dress lightly, favoring breathable fabrics and wide-brimmed hats during the day, perhaps switching to a light shawl for the evening's inviting warmth. For those seeking relaxation, consider a leisurely afternoon at a shaded caf\u00e9, indulging in iced beverages, or perhaps a slow amble through one of Boston\u2019s many parks, where the trees stand sentinel against the heat.",
-    "color_code": "#FFCC00",
-    "timestamp": "2025-06-24 12:08:25"
+    "weather_report": "As the sun retreats into its nightly slumber, Boston basks in the lingering warmth of a summer evening. The air, saturated with the day\u2019s heat, holds a gentle whisper of a breeze, lightly rustling the leaves. With a temperature holding steady around 78 degrees, it feels notably sultry, the heat index nudging towards an almost stifling 99. Tonight, the sky remains unblemished by clouds, offering a canvas of deepening blues that presage a peaceful night ahead.\n\nLooking towards tomorrow, the forecast hints at an unfolding drama in the form of rain showers and thunderstorms sprouting through the late morning and early afternoon. Yet, before the day fully unfurls, a brief interlude of pleasant sunshine will greet early risers, temperatures peaking near 92, then settling back to a cooler embrace as the afternoon continues. The promise of rain could dampen the high spirits of a summer\u2019s day, so it might be wise to have an umbrella close at hand. Dress lightly but be prepared to adapt; breathable fabrics will serve you well under the sun\u2019s gaze and the oppressive humidity that accompanies it. As you ponder how to spend your day, a leisurely stroll along the Charles River could bring blissful moments of reflection and peace, perhaps mingled with the first raindrops that whisper promises of relief.\n\n#S0BAC0",
+    "color_code": null,
+    "timestamp": "2025-06-24 20:32:53"
 }
