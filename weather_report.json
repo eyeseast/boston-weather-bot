@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-25T17:53:00+00:00",
-            "temperature_f": 93.02,
-            "temperature_c": 33.9,
-            "humidity": 47.258211648787,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 60,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-06-25T23:53:00+00:00",
+            "temperature_f": 82.04,
+            "temperature_c": 27.8,
+            "humidity": 62.56316090627,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 160,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-25T16:00:00-04:00",
-                "endTime": "2025-06-25T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 93,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 19
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms before 5pm. Mostly sunny. High near 93, with temperatures falling to around 86 in the afternoon. East wind around 6 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-06-25T18:00:00-04:00",
+                "startTime": "2025-06-25T20:00:00-04:00",
                 "endTime": "2025-06-26T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 66,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn,20/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 66. Northeast wind 3 to 9 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-06-26T06:00:00-04:00",
+                "endTime": "2025-06-26T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 71,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 21
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 3pm. Mostly cloudy, with a high near 71. Northeast wind around 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the sun lingers in its afternoon ascent over Boston, the warmth wraps the city in a gentle embrace, a promise of a vibrant summer day. With a peak temperature wavering near 93, there's a faint hint of humidity playing at the edges, yet the air remains predominantly clear, allowing an unobstructed view of the distant skyline. The wispy clouds drifting lazily through the azure canvas give a touch of whimsy to the scene, while a light easterly breeze whispers of the refreshing promise of evening. There\u2019s a chance of brief showers or thunderstorms, but for now, the skies offer more sunshine than uncertainty.\n\nAs twilight approaches, you may want to shed your heavy layers, opting instead for breathable fabrics and light colors to keep cool. However, as night creeps in, a soft sweater may prove a wise companion, with temperatures gently dipping to a comfortable 66. Tonight's gentle embrace of clouds means that if you venture outdoors, perhaps a stroll along the riverfront or a quiet evening in the park could serve as a delightful remedy to the day\u2019s warmth. With the city bathed in the golden hues of sunset, the atmosphere is simply inviting.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-06-25 16:07:53"
+    "weather_report": "As dusk settles gently on Boston, a tapestry of mostly cloudy skies drapes across the city, casting the late evening in a muted yet calming light. The temperature lingers at a comfortable 66 degrees, where a subtle northeast breeze weaves through the air, offering a hint of refreshment. This evening is marked by a serene quietness, promising a night that feels both tranquil and inviting, yet with the lingering anticipation of possible rain showers on the morrow. \n\nTomorrow, the atmosphere suggests a gentle cloud cover, accompanied by the faintest chance of a sprinkle in the late afternoon. As the day unfolds, the air will warm to a mild 71 degrees, cloaked in a haze whispering of summer's persistence. As you navigate the day ahead, a light jacket or a cozy sweater might accompany you well, should the clouds release their delicate moisture. Engaging in leisurely strolls along the Charles River, visiting a local caf\u00e9 for a soothing cup of coffee, or simply taking the time to indulge in a good book at a nearby park would suit the ambiance, letting you savor the subtle beauty of a summer evening in the city.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-06-25 20:32:23"
 }
