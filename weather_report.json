@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-26T06:53:00+00:00",
-            "temperature_f": 78.08,
-            "temperature_c": 25.6,
-            "humidity": null,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": null,
-            "description": ""
+            "timestamp": "2025-06-26T10:53:00+00:00",
+            "temperature_f": 66.92,
+            "temperature_c": 19.4,
+            "humidity": 72.832460501253,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 50,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-26T04:00:00-04:00",
-                "endTime": "2025-06-26T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 9
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 66. Northeast wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-06-26T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-26T08:00:00-04:00",
                 "endTime": "2025-06-26T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 71,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
                 "detailedForecast": "A slight chance of rain showers after 3pm. Mostly cloudy, with a high near 71. Northeast wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-26T18:00:00-04:00",
+                "endTime": "2025-06-27T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 18
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers. Cloudy, with a low around 62. East wind 3 to 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a veil of clouds blankets the city, casting a muted filter on the shimmering lights still lingering from the night. Although the temperature lingers comfortably around 66, hints of moisture in the air suggest a touch of unease lingering just beyond the horizon, whispering of rain showers that might manifest later today. With the wind gently flowing from the northeast, one may sense that the day could offer a retreat into the cool embrace of a sweater, a perfect companion for leisurely strolls or quiet moments in a favorite caf\u00e9.\n\nThursday promises to maintain this largely overcast demeanor, with the high gently nudging toward 71. The sky remains an enigmatic tapestry, with a mere 20% chance of rain after 3 PM. In such light conditions, the palette of the day skews toward the subtle: greys mingling with muted greens, perhaps inspiring an excursion to an art exhibit or a charming bookshop, enjoying the soft sounds of a stirring city. As the day unfolds, one might find joy in the simple pleasures; a short walk under the trees, a capitulation to the rhythm of a favorite playlist, or perhaps a moment spent observing the quiet interactions of fellow Bostonians as they greet another day draped in mystery.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-06-26 04:10:04"
+    "weather_report": "As dawn stretches into the day, Boston awakens under a slate of clouds that whisper of rain without much promise. The air is thick and cool, holding a quiet dampness that lingers, a sign of the slight chance of showers forecasted for the afternoon. With the temperature nudging softly towards 71, it feels like the city holds its breath, poised between moments of weathered grey and the hint of something more vibrant. A gentle northeast breeze carries the scent of foliage and damp earth, creating an atmosphere that sings of quiet contemplation rather than exuberant adventure.\n\nAs the hours unfold, prepare for a day that, while not dazzling, offers its own understated charm. Ideal attire would be layers; a light long-sleeve shirt paired with a thin yet protective jacket would guard against an unexpected drizzle while allowing for comfortable movement. The city, draped in this muted ambiance, invites quiet pursuits: perhaps a leisurely stroll through one of the lesser-known parks, where you can lose yourself in the rustle of leaves, or a visit to a quaint caf\u00e9 that promises warmth and the rich aroma of coffee brewing. As evening approaches, the clouds may hold tight, but the moment will remain intimate\u2014a perfect backdrop for gathering thoughts or sharing muted laughter with friends.",
+    "color_code": "#A3B1AC",
+    "timestamp": "2025-06-26 08:12:41"
 }
