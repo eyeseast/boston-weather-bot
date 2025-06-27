@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-26T18:53:00+00:00",
-            "temperature_f": 66.92,
-            "temperature_c": 19.4,
-            "humidity": 67.813430858596,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 90,
+            "timestamp": "2025-06-27T02:53:00+00:00",
+            "temperature_f": 62.959999999999994,
+            "temperature_c": 17.2,
+            "humidity": 72.437660318587,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 60,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-26T16:00:00-04:00",
-                "endTime": "2025-06-26T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 17
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 5pm. Cloudy. High near 71, with temperatures falling to around 65 in the afternoon. East wind around 8 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-06-26T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-06-27T00:00:00-04:00",
                 "endTime": "2025-06-27T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 14
                 },
-                "windSpeed": "3 to 7 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/ovc?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Cloudy",
-                "detailedForecast": "A slight chance of rain showers before midnight. Cloudy, with a low around 61. East wind 3 to 7 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 61. East wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-06-27T06:00:00-04:00",
+                "endTime": "2025-06-27T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 72,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 9
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 72. East wind 5 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon drapes its curtain over Boston, a gentle veil of clouds settles in, muting the brilliance of the day. The air carries a whisper of humidity, coaxing the temperature down from a peak of 71 to a more tempered 65. A light breeze stirs softly, giving clues to the slight chance of rain it's friendly with, which lingers like a thought just out of reach, a gentle tickle on the back of the neck. Although the skies wear a drab gray, the city pulses with life beneath the muted light.\n\nAs evening approaches, the air cools further, sliding to a sighing 61, perhaps inviting a light jacket or a cozy sweater to ward off the chill. With the possibility of a few errant raindrops before midnight, one might consider a casual stroll through the urban tapestry, soaking in the moody stillness that cloaks the streets, perhaps enjoying a coffee from a nearby caf\u00e9 or engaging in some light conversation al fresco, as Boston's charm often invites. Inside, the atmosphere feels serene, offering hidden corners for quiet reflection or intimate gatherings, perfect for those preferring the softer side of summer.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-06-26 16:07:54"
+    "weather_report": "In the quiet hours of the night, Boston rests beneath a cloak of clouds, the air wrapping itself around the city like a whispering embrace. The gentle wind stirs with an intimacy that speaks of comfort, promising a low temperature that nestles around 61 degrees. As dawn approaches, one can sense the subtle anticipation of morning, where the tentative light of day will break through the lingering mist, offering a fresh perspective on the familiar landscape.\n\nAs you rise to greet Friday, the weather unfolds with a welcoming embrace, allowing for those soft beams of sunshine to punctuate the sky. A high near 72 degrees beckons you outdoors, inviting strolls along the Charles River or perhaps a leisurely morning in one of the many quaint caf\u00e9s, where the aroma of freshly brewed coffee mingles with the crisp air. A light jacket may serve you well in the early hours, later surrendered for a more relaxed attire as the day warms, perfect for a shared moment in public parks or a gentle bike ride through the blossoming streets. The day ahead offers an elegant balance, encouraging connection with nature, the cityscape, and perhaps a moment of introspection amidst the gentle pace of summer\u2019s embrace.",
+    "color_code": "#B0C4C6",
+    "timestamp": "2025-06-27 00:13:27"
 }
