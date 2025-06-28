@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-28T06:53:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 60.277058019152,
-            "wind_speed_mph": 12.0798,
+            "timestamp": "2025-06-28T10:53:00+00:00",
+            "temperature_f": 62.959999999999994,
+            "temperature_c": 17.2,
+            "humidity": 70.090395424806,
+            "wind_speed_mph": 16.91172,
             "wind_direction": 160,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-06-28T04:00:00-04:00",
-                "endTime": "2025-06-28T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 28
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers. Cloudy, with a low around 62. South wind around 7 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-06-28T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-06-28T08:00:00-04:00",
                 "endTime": "2025-06-28T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 75,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,30?size=medium",
                 "shortForecast": "Scattered Rain Showers then Patchy Fog",
                 "detailedForecast": "Scattered rain showers before 10am, then patchy fog and scattered rain showers between 10am and 3pm. Cloudy, with a high near 75. South wind around 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-06-28T18:00:00-04:00",
+                "endTime": "2025-06-29T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 70,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,30?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Scattered rain showers before 9pm, then patchy fog and scattered rain showers between 9pm and 11pm, then patchy fog and scattered showers and thunderstorms. Mostly cloudy, with a low around 70. Southwest wind around 7 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn begins to murmur its arrival, the city of Boston finds itself cloaked in a deceptive twilight, the remnants of nighttime still casting shadows over the skyline. The gentle patter of scattered rain has kept the air cool and somewhat damp, suggesting a melding of earth and sky. A warm breeze from the south meanders through the streets, wrapping around rooftops and alleyways, carrying the scent of rain-soaked pavement. The current conditions hint at a day of lingering clouds, with a promise of fog interspersed with the soothing rhythm of more rain showers.\n\nThroughout the morning, one can expect intermittent light showers to greet them, a continuation of the evening\u2019s watery serenade. As the sun attempts to break through the gloom, patchy fog may wander through the streets, lending an ethereal quality to the already familiar urban landscape. Those venturing out would do well to don layers\u2014perhaps a light rain jacket over a comfortable shirt, complemented by sturdy footwear, as the soft earth might yield to a gentle squelch underfoot. This day invites stirring walks down Park Street or quiet moments with a book in a cozy caf\u00e9 while the rain dances on the windowpanes. Such simple pleasures are where the heart finds its fullest warmth, even beneath the canopy of clouds.",
-    "color_code": "#A6A57A",
-    "timestamp": "2025-06-28 04:08:33"
+    "weather_report": "In Boston today, a gentle haze cloaks the morning sky, hinting at the upcoming transitions of the day. Scattered rain showers paint a scene of muted grays before 10 AM, while the air is filled with a touch of humidity that mingles pleasantly with the faint hints of warmth. As the day unfolds, patchy fog is expected to drift in and out, wrapping the city in its soft embrace. With a high nearly reaching 75, it\u2019s a temperate day that invites you to wander, although perhaps not too far from an umbrella.\n\nAs evening approaches, the promise of more scattered rain showers remains, giving way to the possibility of thunderstorms that might rumble gently, echoing the whispers of approaching summer nights. Dress comfortably in light layers, as the warmth beckons but a sudden coolness may rustle through the air. A leisurely stroll along the waterfront could bring moments of introspection, while a quiet corner in a caf\u00e9 offers a peaceful retreat from the fleeting rain. In this embrace of summer\u2019s softness, one might even savor a book or engage in reflective musings, each minute stretching out like the lingering twilight.",
+    "color_code": "#A9B0B4",
+    "timestamp": "2025-06-28 08:10:59"
 }
