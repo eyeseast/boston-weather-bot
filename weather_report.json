@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-29T18:53:00+00:00",
-            "temperature_f": 89.06,
-            "temperature_c": 31.7,
-            "humidity": 39.11796774837,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 280,
+            "timestamp": "2025-06-29T22:53:00+00:00",
+            "temperature_f": 82.04,
+            "temperature_c": 27.8,
+            "humidity": 54.534038564267,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 50,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-29T15:00:00-04:00",
-                "endTime": "2025-06-29T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 86,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 86. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2025-06-29T18:00:00-04:00",
                 "endTime": "2025-06-30T06:00:00-04:00",
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 2
+                },
+                "windSpeed": "0 to 6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium",
+                "shortForecast": "Partly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after 4am. Partly cloudy, with a low around 65. North wind 0 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-06-30T06:00:00-04:00",
+                "endTime": "2025-06-30T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 89,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
                 },
                 "windSpeed": "2 to 6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium",
-                "shortForecast": "Mostly Clear then Patchy Fog",
-                "detailedForecast": "Patchy fog after 2am. Mostly clear, with a low around 65. North wind 2 to 6 mph."
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Sunny",
+                "detailedForecast": "Patchy fog before 8am. Mostly sunny, with a high near 89. Southeast wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a serene warmth envelops the city, the sun casting its gentle rays upon the streets and parks. With the temperature inching towards a balmy embrace, the air teems with promise and possibility. The skies are a vivid blue, punctuated by a few wispy clouds that drift lazily amid the expansive canopy of daylight. A northwestern breeze whispers through the trees, adding a refreshing note to the comforting warmth as the late afternoon ticks by. This moment invites a leisurely stroll through the cobblestone alleys of Beacon Hill or a peaceful respite along the banks of the Charles River, where the golden light dances on the water's surface.\n\nAs twilight approaches, a soft veil of patchy fog may begin to settle in after 2 a.m., promising a soothing transition from day to night. For now, however, the evening beckons with mild temperatures and a gentle wind, a perfect combination for casual attire\u2014perhaps a light shirt paired with comfortable trousers, allowing for both ease and style. After relishing a vibrant sunset, one might find joy in sipping a warm beverage while enjoying a quiet moment outdoors, or perhaps sharing stories with friends, the surrounding beauty serving as a timeless backdrop to the simple pleasures of life.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-06-29 16:07:20"
+    "weather_report": "As twilight descends over Boston, the air feels warm and soft against the skin, hinting at a sultry night ahead. The forecast beckons with a promise of warmth, yet a veil of patchy fog is poised to embrace the city between the restless hours of the early morning. Tonight's low rests gently around 65 degrees, with the breeze barely whispering at 0 to 6 mph, a tender reminder of summer's languid charm. \n\nOn the morrow, Boston will awaken to hints of fog just before dawn, creating a delicate interplay of light and mist that dances gracefully with the sun's rising glow. Expect the day to emerge as a tapestry of vibrant blues and sunny warmth, reaching a welcoming high near 89 degrees. The soft southeast wind will provide just enough comfort to carry the scent of blooming flowers and fresh grass, inviting life outdoors. Given these splendid conditions, attire should lean towards breathable fabrics\u2014light cotton or linen\u2014and perhaps a wide-brimmed hat to shield against the sun's exuberance. As you navigate this day, consider a leisurely stroll during the golden hours, sip a refreshing iced coffee at a local caf\u00e9, or indulge in a peaceful read at one of Boston's quaint parks, wherein the rhythmic rustle of leaves may become the backdrop to your thoughts.",
+    "color_code": "#F5CBAE",
+    "timestamp": "2025-06-29 20:35:15"
 }
