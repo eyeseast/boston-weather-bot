@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-06-30T23:53:00+00:00",
-            "temperature_f": 78.98,
-            "temperature_c": 26.1,
-            "humidity": 66.609373675103,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 150,
+            "timestamp": "2025-07-01T02:53:00+00:00",
+            "temperature_f": 71.96,
+            "temperature_c": 22.2,
+            "humidity": 84.172308156337,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 180,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-06-30T15:00:00-04:00",
-                "endTime": "2025-06-30T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 89,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 89. South wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-06-30T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-07-01T00:00:00-04:00",
                 "endTime": "2025-07-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 70,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "6 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Scattered Rain Showers",
-                "detailedForecast": "Patchy fog between 1am and 2am, then scattered rain showers. Mostly cloudy, with a low around 70. South wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,30?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms",
+                "detailedForecast": "A slight chance of showers and thunderstorms between 4am and 5am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 70. South wind around 6 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-07-01T06:00:00-04:00",
+                "endTime": "2025-07-01T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 92,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,40?size=medium",
+                "shortForecast": "Patchy Fog then Chance Showers And Thunderstorms",
+                "detailedForecast": "Patchy fog and a chance of showers and thunderstorms before 11am, then a chance of showers and thunderstorms. Partly sunny, with a high near 92. Heat index values as high as 99. Southwest wind 6 to 13 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the evening draws near in Boston, the warm remnants of a summer day linger in the air, gently mingling with the whisper of a south breeze. The sky, adorned with faint streaks of pink and orange, hints at a splendid transition from day to night. Currently, the temperature sits comfortably high, nudging towards the warm embrace of 89 degrees, a reminder that summer is still in full swing even as the hour grows late. Yet, just beyond this moment of tranquility lies the promise of scattered rain showers, creeping in on tendrils of fog expected to weave their way through the city by early morning.\n\nFor those stepping out tonight, consider a lightweight layer to ward off the coolness that often follows sunset. The hint of humidity, together with the 30% chance of light rain, suggests that a carefree stroll may soon turn cloudy and damp. One might find solace in the cozy corners of a local caf\u00e9, perhaps cradling a warm drink as the world outside mellows into the soft glow of evening. While the fog will be fleeting, allowing the city\u2019s nighttime allure to shine through, it is also the perfect backdrop for a quiet walk along the riverbanks, where the shimmering lights reflect off the water\u2019s surface, conjuring an atmosphere of peaceful contemplation.",
-    "color_code": "#D6A07A",
-    "timestamp": "2025-06-30 20:37:37"
+    "weather_report": "In the hushed stillness of the early morning, a gentle promise hangs in the air above Boston, where the horizon is draped in a blanket of shifting clouds. The atmosphere carries a hint of moisture, suggesting that a slight chance of showers and the whisper of thunderstorms may flit through the city's streets between the hours of 4 and 5 a.m. As the dawn approaches, the temperature is a balmy 70 degrees, adorned by a soft breeze that dances lightly from the south, offering a tender caress to anyone venturing out. \n\nAs Tuesday unfolds, the prospect of patchy fog may offer its own kind of mystery before the sun fully breaks free, heralding a day that can become increasingly steamy. With a high that reaches for 92 degrees and a heat index nudging it close to 99, the day promises warmth\u2014a muggy embrace that could make the evening thunderstorms feel inevitable. It would be wise to opt for light, breathable clothing and perhaps grab an umbrella, as the air will be thick with possibilities. A leisurely stroll along the Charles, a visit to the Public Garden, or simply finding a shaded spot to savor an iced coffee could turn this summer day into a delightful adventure hidden under Boston's skyline.",
+    "color_code": "#D6E4F0",
+    "timestamp": "2025-07-01 00:20:35"
 }
