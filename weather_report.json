@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-02T06:53:00+00:00",
+            "timestamp": "2025-07-02T10:53:00+00:00",
             "temperature_f": 73.94,
             "temperature_c": 23.3,
             "humidity": 87.462940440347,
             "wind_speed_mph": 20.93832,
-            "wind_direction": 200,
-            "description": "Cloudy"
+            "wind_direction": 240,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-02T04:00:00-04:00",
-                "endTime": "2025-07-02T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 18
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 5am. Cloudy, with a low around 71. Southwest wind around 6 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-07-02T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-02T08:00:00-04:00",
                 "endTime": "2025-07-02T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 87,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
                 "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
                 "detailedForecast": "A slight chance of rain showers before 11am. Mostly cloudy, with a high near 87. Southwest wind around 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-02T18:00:00-04:00",
+                "endTime": "2025-07-03T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 68. Southwest wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn gently approaches Boston, the atmosphere feels hushed but eager, with just a whisper of rain anticipated in the early hours. The clouds hang like soft veils above, casting a muted glow over the city, setting the stage for a day marked by warmth and a hint of uncertainty. With temperatures poised to climb towards the high 80s, it beckons one to embrace the day, while the faintest chance of rain offers a reminder that summer's whims can stir at a moment's notice.\n\nIn this tempered clime, light layers are advisable; a breezy shirt paired with comfortable shorts might suffice for the adventurous spirit, while an umbrella could serve as a trusty companion should the skies decide to release their delicate drizzle. The day invites leisurely exploration\u2014a stroll along the Charles River, where the reflections dance with the promise of sun, or perhaps a visit to a caf\u00e9 where the comforting aroma of freshly brewed coffee fills the air. Whether one chooses to bask in the city\u2019s vibrancy or retreat under the gentle sway of trees in a nearby park, today carries with it the sweet essence of summer.",
-    "color_code": "#4B3C4E",
-    "timestamp": "2025-07-02 04:10:02"
+    "weather_report": "In the soft embrace of a summer morning in Boston, the air carries an essence of anticipation, with clouds lazily draping the sky in shades of gray. A whisper of rain may linger until late morning, yet the promise of warmth beckons. By noon, the mercury will flirt with the eighty-seven mark, inviting denizens to shed the protective layers of winter wear. The southwest winds meander gently, encouraging one to breathe in the vitality of the day.\n\nAs dusk approaches, the clouds will part just enough to reveal a tranquil evening, with the temperature easing into a comfortable sixty-eight. In this moderate frame, a light jacket will suffice, perfect for strolling along the esplanade or perhaps indulging in a quiet moment at a caf\u00e9 terrace. Boston hums with life, and whether one finds solace in the rustle of leaves in a nearby park or explores the unique offerings of a local shop, this day presents countless simple joys to embrace under the forgiving clouds.",
+    "color_code": "#A0B8D8",
+    "timestamp": "2025-07-02 08:12:19"
 }
