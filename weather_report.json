@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-01T18:53:00+00:00",
-            "temperature_f": 91.94,
-            "temperature_c": 33.3,
-            "humidity": 50.701937436563,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 250,
-            "description": "Mostly Clear"
+            "timestamp": "2025-07-02T00:06:00+00:00",
+            "temperature_f": 86.0,
+            "temperature_c": 30,
+            "humidity": 67.391163864178,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-01T16:00:00-04:00",
-                "endTime": "2025-07-01T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 92,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 26
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,30?size=medium",
-                "shortForecast": "Scattered Showers And Thunderstorms",
-                "detailedForecast": "Scattered showers and thunderstorms. Partly sunny, with a high near 92. Heat index values as high as 98. West wind around 12 mph, with gusts as high as 24 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-01T18:00:00-04:00",
+                "startTime": "2025-07-01T19:00:00-04:00",
                 "endTime": "2025-07-02T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 72,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 55
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "5 to 9 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/tsra,60/tsra,40?size=medium",
                 "shortForecast": "Chance Showers And Thunderstorms then Showers And Thunderstorms Likely",
-                "detailedForecast": "A chance of showers and thunderstorms before 10pm, then showers and thunderstorms likely. Mostly cloudy, with a low around 72. Southwest wind 5 to 10 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible."
+                "detailedForecast": "A chance of showers and thunderstorms before 10pm, then showers and thunderstorms likely. Mostly cloudy, with a low around 72. Southwest wind 5 to 9 mph, with gusts as high as 21 mph. Chance of precipitation is 60%. New rainfall amounts between a half and three quarters of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-07-02T06:00:00-04:00",
+                "endTime": "2025-07-02T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 86,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 23
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/ovc?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Cloudy",
+                "detailedForecast": "A slight chance of rain showers before 11am. Cloudy, with a high near 86. Southwest wind 5 to 8 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, a tapestry of warmth and moisture wraps the city. The air is thick, heavy with the promise of scattered showers and the distant rumble of thunderstorms lurking like whispers on the horizon. The sun breaks through in patches, casting a shimmering light upon the streets, while the humidity paints the day with a sultriness that carries the vibe of a sultry summer picnic interrupted by a sudden storm. The temperatures flirt with the high nineties, but the heat index pushes those feelings to near discomfort, urging you to seek the shade or the coolness of a chilled drink.\n\nAs dusk approaches, the weather hints at a change, with a higher likelihood of storms swelling in the sky, roiling clouds gathering strength as they drift southward. Those plans for an evening stroll should be revisited, replaced by an invitation to nestle into a cozy chair with a good book or explore the local coffee shops, where the aroma of freshly brewed coffee mingles with the distant sound of thunder. Deck yourself in light and breathable fabrics, perhaps a loose shirt and comfortable shorts, and carry an umbrella\u2014just in case\u2014as you navigate the evening\u2019s impending humidity and warmth.",
-    "color_code": "#D4D4D4",
-    "timestamp": "2025-07-01 16:08:01"
+    "weather_report": "As twilight descends upon Boston, the air holds a slight tension, the promise of rain mingling with the soft warmth of lingering daylight. A chance of showers and thunderstorms stirs in the atmosphere, preparing to paint the evening sky with a brush of electric anticipation. The clouds weave together, casting shadows that dance in the dwindling light, while a gentle breeze rustles through the streets, hinting at gusts that may soon lend a dramatic flair to the unfolding scene. With a balm-like temperature resting around 72 degrees, the evening feels both sultry and alive, an invitation to don something light but perhaps to keep a jacket close at hand\u2014a safeguard against nature\u2019s surprise in the coming hours.\n\nTomorrow dawns with the promise of more clouds, with only a whisper of possible rain lingering before the sun takes command once again. Highs approaching 86 will beckon those wanting to enjoy outdoor moments, whether sipping a cool drink on a shaded porch or meandering through the brick-paved streets of the city, perhaps pausing for a quiet meal in a cozy eatery. Embrace the day with comfortable attire: breathable fabrics that caress the skin, perfect for a late summer\u2019s dance with warmth. As twilight continues to unveil its scenes, one might find joy in a stroll under the canopy of graying clouds or gather with friends for a low-key evening, relishing the expectancy of laughter and rain alike.",
+    "color_code": "#BA55D3",
+    "timestamp": "2025-07-01 20:32:33"
 }
