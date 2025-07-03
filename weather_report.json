@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-03T07:28:00+00:00",
-            "temperature_f": 64.94,
-            "temperature_c": 18.3,
-            "humidity": 90.396229795155,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog"
+            "timestamp": "2025-07-03T10:53:00+00:00",
+            "temperature_f": 71.06,
+            "temperature_c": 21.7,
+            "humidity": 93.471828738843,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 230,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-03T00:00:00-04:00",
-                "endTime": "2025-07-03T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 68. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-07-03T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-03T08:00:00-04:00",
                 "endTime": "2025-07-03T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 91,
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/hot/tsra_hi,40?size=medium",
                 "shortForecast": "Sunny then Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms after 4pm. Sunny, with a high near 91. West wind 3 to 9 mph. Chance of precipitation is 40%."
+                "detailedForecast": "A chance of showers and thunderstorms after 3pm. Some of the storms could be severe. Sunny, with a high near 91. West wind 3 to 9 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-03T18:00:00-04:00",
+                "endTime": "2025-07-04T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 31
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/sct?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
+                "detailedForecast": "A chance of showers and thunderstorms before 8pm, then a slight chance of showers and thunderstorms between 8pm and 10pm. Some of the storms could be severe. Partly cloudy, with a low around 65. Northwest wind around 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn begins to hesitate between the veil of night and the promise of a sunlit day, Boston rests in a quiet hush, marked by a gentle warmth lingering in the air. The current hour holds a softness, with temperatures hovering around the comfortable margin of sixty-eight. A southwest breeze rustles lightly, stirring memories of long summer evenings. Yet, a whisper of possibility lurks in the day ahead, with a chance of showers and thunderstorms post-afternoon, casting a blend of excitement and caution over plans to venture outside.\n\nWith a forecast leading towards a sultry high near ninety-one, the city may soon awaken to clear skies and the brilliant heat of summer settling in. It beckons residents to embrace the day, suggesting attire that balances comfort and readiness\u2014light, breathable fabrics complemented by a trusty umbrella for those unexpected bursts of rain. As the time ticks on, perhaps a leisurely stroll along the esplanade or an afternoon spent indulging in a favorite caf\u00e9 would suit today's laid-back rhythm, nurturing both body and soul before the sky hints at a shift.",
-    "color_code": "#D1A100",
-    "timestamp": "2025-07-03 04:10:01"
+    "weather_report": "As Boston awakens from its slumber, the dawn brings a hazy embrace, mingling the remnants of night with the promise of a sultry day ahead. The atmosphere holds a palpable tension in anticipation of afternoon thunderstorms, a blend of sun and potential turmoil cloaked under an indifferent cerulean sky. The temperature will rise to a balmy warmth, urging residents to shed their heavier garments in favor of lightweight fabrics that allow for breathability. Today is a reminder that summer holds dominion, with shades of glamour signified in a wardrobe that welcomes casual shorts and light tees, expertly paired with a thoughtful umbrella, just in case the heavens choose to open.\n\nAs the day unfolds, the allure of Boston beckons with its urban charms. Afternoon strolls along the riverbank could feel both daunting and invigorating, especially with the roiling clouds signaling the tempest's arrival. One might find solace in the coolness of a caf\u00e9, sheltering from imposing clouds while watching the lively hustle of the city outside. As the sun begins to set, the slight chance of storms lingers, captivating the senses with that thrilling unpredictability, inviting residents to seek comfort indoors. For those who brave the elements, the evening sky may reveal unexpected beauty, as nature\u2019s palette mixes in a symphony of color and temperature.",
+    "color_code": "#AEDD4E",
+    "timestamp": "2025-07-03 08:12:40"
 }
