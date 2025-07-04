@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-03T18:53:00+00:00",
-            "temperature_f": 89.96000000000001,
-            "temperature_c": 32.2,
-            "humidity": 40.777427171201,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 310,
-            "description": "Clear"
+            "timestamp": "2025-07-03T23:53:00+00:00",
+            "temperature_f": 78.98,
+            "temperature_c": 26.1,
+            "humidity": 56.214604768443,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 290,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-03T13:00:00-04:00",
-                "endTime": "2025-07-03T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 90,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 38
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,40?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms after 3pm. Some of the storms could be severe. Mostly sunny. High near 90, with temperatures falling to around 84 in the afternoon. West wind around 9 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-03T18:00:00-04:00",
+                "startTime": "2025-07-03T20:00:00-04:00",
                 "endTime": "2025-07-04T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 64,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 31
+                    "value": 17
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/sct?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
-                "detailedForecast": "A chance of showers and thunderstorms before 8pm, then a slight chance of showers and thunderstorms between 8pm and 10pm. Some of the storms could be severe. Partly cloudy, with a low around 64. West wind around 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/sct?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 10pm. Partly cloudy, with a low around 64. West wind 6 to 9 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Independence Day",
+                "startTime": "2025-07-04T06:00:00-04:00",
+                "endTime": "2025-07-04T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 82,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 82. Northwest wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "Afternoon settles softly over Boston, where the sun casts its warm embrace upon the city, painting the sky in shades of blue intermingled with fleecy clouds. Yet, beneath this cheerful fa\u00e7ade, the atmosphere hums with an undercurrent of potential energy; a chance of showers and thunderstorms lurks on the horizon, hinting at the possibility of the day becoming a tumultuous affair as evening approaches. Temperatures dance close to the 90-degree mark, but as the shadows lengthen, a retreat toward more comfortable mid-80s beckons. A light west wind whispers through the streets, barely nudging the unyielding heat. \n\nAs night settles in, the soft glow of the city lights will intermingle with the distant rumble of thunder, creating a backdrop of natural drama. With a low temperature settling around 64, individuals will find respite from the earlier warmth but should dress in layers. A light jacket might prove a wise companion, especially if one plans to linger outdoors as the day fades into a symphony of muted colors. Now is a spell to savor simple pleasures: perhaps a stroll to a favorite caf\u00e9 or a quiet corner of the park, where one can appreciate the transformation of the sky and listen for the distant patter of late-day raindrops. In this liminal space between sun and storm, the pulse of the city throbs softly, inviting woven moments of introspection or companionship over shared experiences.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-07-03 16:06:59"
+    "weather_report": "As twilight descends upon Boston, gray clouds mingle uncertainly with the fading light, offering a hint of the moisture that lingers in the air. Tonight's forecast brings a slight chance of showers and the risk of distant thunderstorms waning as the hour grows late. With temperatures gently resting around 64, the tendrils of wind, light yet perceptible, evoke feelings of a summer evening that\u2019s still holding onto the promise of warmth even as the coolness sets in. The air carries a crisp clarity, giving residents that delightful combination of energy and calm that evenings often bring.\n\nLooking toward Independence Day, the horizon suggests brighter possibilities, as tomorrow's forecast reveals sunny skies gracing the day with warmth\u2014a high around 82, and a gentle northwesterly breeze to accompany picnics and celebrations. This pleasant turn invites you to layer lightly; a t-shirt beneath a light jacket should suffice for the evening chill, while daylight calls for casual attire and perhaps that favorite pair of sunglasses to appreciate the vibrant hues of fireworks that will soon illuminate the night sky. Embrace the unexpected delights of the evening: a leisurely stroll by the Charles, savoring a quiet moment with a book at a local cafe, or sharing light conversation over a cup of coffee.",
+    "color_code": "#6D9EAE",
+    "timestamp": "2025-07-03 20:32:36"
 }
