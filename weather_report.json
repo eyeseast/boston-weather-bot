@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-04T06:53:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 89.575248781927,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 250,
-            "description": "Clear"
+            "timestamp": "2025-07-04T08:15:00+00:00",
+            "temperature_f": 57.02,
+            "temperature_c": 13.9,
+            "humidity": 89.490389141325,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Fog"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-04T00:00:00-04:00",
-                "endTime": "2025-07-04T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 9
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 64. West wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Independence Day",
-                "startTime": "2025-07-04T06:00:00-04:00",
+                "startTime": "2025-07-04T08:00:00-04:00",
                 "endTime": "2025-07-04T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 82,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "6 to 9 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 82. Northwest wind 6 to 9 mph."
+                "detailedForecast": "Sunny, with a high near 82. Northwest wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-04T18:00:00-04:00",
+                "endTime": "2025-07-05T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 61. Northwest wind 3 to 8 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks gently over Boston, a serene stillness envelops the city, offering a moment of quiet reflection before the day unfolds. The temperature rests comfortably in the low sixties, a mild caress of warmth from the west winds that whisper through the streets. The air is clear enough to promise a sunlit Independence Day, where the sun will soon ascend to offer its radiant embrace, illuminating the skyline with the promise of an inviting high of around eighty-two degrees. Expect a brisk northwest wind to accompany the sun as it climbs higher, fostering a pleasant atmosphere that encourages both activity and leisure.\n\nOn this day, light layers will serve you well\u2014a t-shirt or blouse complemented by a light jacket for the early hours, easily shed as noon approaches and the sun asserts its dominance over the skies. As you wander through the streets, perhaps a leisurely stroll along the Charles River would be fitting, allowing the day to wrap you in a sense of celebration. Alternatively, finding a cozy spot at an outdoor caf\u00e9 could invite delightful conversations and moments of connection under the brilliant blue above. Being enveloped in this clear yet warming embrace of July's first hours, Boston beckons you to partake in the beauty of summer, anticipating the festive spirit woven into the fabric of the day.",
-    "color_code": "#ffcc66",
-    "timestamp": "2025-07-04 04:09:48"
+    "weather_report": "As dawn breaks over Boston on this Independence Day, the city greets the morning with an inviting warmth and crystal-clear skies. The sun, a brilliant orb, promises a high of 82, coaxing the city\u2019s inhabitants outdoors to relish the beauty of the day. A gentle northwest wind whispers through the trees, providing a refreshing contrast to the warmth, beckoning those with a sense of adventure. As the day unfolds, the likelihood of fog dissipating into the air lends itself to an inspiring tableau, where one can gaze across the horizon, the view stretching far with an unobstructed panorama.\n\nWith the temperature gradually descending tonight to a comfortable 61 degrees, dressing in light layers would be wise, offering the flexibility to adapt to the midday sun and the cool embrace of evening. On this splendid day, consider meandering through one of Boston's vibrant neighborhoods, perhaps savoring a cup of coffee al fresco or indulging in a leisurely stroll along the waterfront, where the tranquility of the harbor enhances the day\u2019s relaxation. As fireflies awaken and the city lights begin to twinkle like distant stars, it\u2019s the perfect backdrop for gathering with friends, sharing stories and laughter beneath the clear sky.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-07-04 08:12:16"
 }
