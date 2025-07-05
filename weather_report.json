@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-04T18:53:00+00:00",
-            "temperature_f": 82.04,
-            "temperature_c": 27.8,
-            "humidity": 32.871514065569,
+            "timestamp": "2025-07-04T22:53:00+00:00",
+            "temperature_f": 80.06,
+            "temperature_c": 26.7,
+            "humidity": 35.061502378617,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": null,
-            "description": "Clear"
+            "wind_direction": 330,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Independence Day",
-                "startTime": "2025-07-04T16:00:00-04:00",
-                "endTime": "2025-07-04T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 82,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 82. Northwest wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-04T18:00:00-04:00",
+                "startTime": "2025-07-04T20:00:00-04:00",
                 "endTime": "2025-07-05T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "3 to 9 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 59. Northwest wind 3 to 9 mph."
+                "detailedForecast": "Mostly clear, with a low around 59. Northwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-07-05T06:00:00-04:00",
+                "endTime": "2025-07-05T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 85,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 85. West wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the sky today unfurls into a lovely tapestry of azure, punctuated by the gentle bob of white clouds drifting lazily across the horizon. The air is fresh, invigorated by a light northwesterly breeze that dances playfully through the city, lifting spirits and unshackling the burdens of mundane life. It is an invitation to embrace the day with open arms, whether you find yourself strolling along the riverbanks or meandering through the echoes of history in old neighborhoods. \n\nAs the afternoon approaches its zenith, the warmth nudges toward a comfortable embrace, urging you to shed the heavier layers in favor of lighter attire\u2014perhaps a soft, breathable cotton to balance the sun\u2019s caress with a lightness of being. Evening promises a gentle descent, with the temperature easing into a serene coolness, perfect for a quiet dinner outdoors or reading a book on the terrace as day gives way to dusk. Embrace the charm of this splendid day\u2014consider a leisurely walk to enjoy the sunset, watch the world wind down, and savor a fleeting moment of stillness before the night draws in.",
-    "color_code": "#A6C8E8",
-    "timestamp": "2025-07-04 16:07:47"
+    "weather_report": "As twilight descends upon Boston, a gentle calm blankets the city. The skies, rendered in soft hues of dusky orange and gradual indigo, suggest a peaceful close to a warm summer day. Tonight presents itself with clarity, as residual daylight gives way to a cool, crisp atmosphere. With temperatures settling around a pleasant sixtynine degrees, a light northwest breeze dances through the evening air, ensuring that while the warmth lingers, it does so without stifling weight. \n\nLooking ahead to Saturday, the promise of sunshine is tantalizing. With clear skies stretched above, the day will greet its inhabitants with the embrace of warmth, peaking around the mid eighties. It would be wise to don light, breathable fabrics; perhaps a cotton shirt worn over comfortably fitting shorts or a cool sundress would harmonize beautifully with the rising temperatures. Given these splendid conditions, one may find joy wandering along the Charles River, relishing in the verdant parks or indulging in a leisurely caf\u00e9 visit to savor the summer essence. It is a perfect day for simple pleasures, whether it be a stroll with an old friend or a contemplative moment with a book under the expanding sky.",
+    "color_code": "#F5BCA0",
+    "timestamp": "2025-07-04 20:31:15"
 }
