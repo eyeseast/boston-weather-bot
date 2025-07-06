@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-06T06:53:00+00:00",
-            "temperature_f": 64.94,
-            "temperature_c": 18.3,
-            "humidity": 84.273096772476,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 170,
+            "timestamp": "2025-07-06T09:53:00+00:00",
+            "temperature_f": 69.08,
+            "temperature_c": 20.6,
+            "humidity": 80.874163179441,
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-06T04:00:00-04:00",
-                "endTime": "2025-07-06T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 67. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-07-06T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-06T08:00:00-04:00",
                 "endTime": "2025-07-06T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 93,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 93. Heat index values as high as 96. Southwest wind 8 to 12 mph."
+                "detailedForecast": "Mostly sunny, with a high near 93. Heat index values as high as 96. Southwest wind around 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-06T18:00:00-04:00",
+                "endTime": "2025-07-07T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 71,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "8 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 71. Southwest wind 8 to 12 mph."
             }
         ]
     },
-    "weather_report": "As the quiet hours of the morning unfurl over Boston, the atmosphere holds a gentle warmth that dances lightly on the skin. Anticipation hangs in the air like the muted glow of distant city lights, hinting at the beckoning sun. Overnight, the skies have settled into a partly cloudy embrace, the low temperature cradling the air at a comfortable 67 degrees. The inviting whispers of a southwest wind weave through the night, setting the stage for what lies ahead.\n\nThe day promises a radiant spectacle as the sun ascends, draping the city in vibrant sunshine and painting the sky with deeper blues. With a high forecasted near 93 degrees, those stepping outside will soon feel the heat\u2019s embrace. Yet it\u2019s the heat index\u2014projected to soar to 96\u2014that suggests a certain heaviness in the air, urging residents to prepare for the day's sweat-laden activities. Light fabrics will be paramount for comfort; a simple cotton shirt and breathable shorts will serve well against the enveloping warmth. The early afternoon would favor leisure walks along the Charles River, where the gentle splash of water may offer reprieve. Perhaps there\u2019s a book you\u2019ve been meaning to start or a caf\u00e9 with a shady patio awaiting your presence, its cool drinks tempting you from the sun\u2019s pursuit.\n\nAs the clock ticks softly toward midday, consider forgoing more strenuous activities until the sun begins its descent. Instead, while the city basks in the gold of the day, find grateful moments in the shade of leafy trees or beneath the cool awnings of your local establishments. Embrace the slower pace, allowing time to drift lazily yet purposefully through the sultry spells of summer.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-07-06 04:08:28"
+    "weather_report": "In Boston today, the summer sun spills its warmth across the city, offering a mostly sunny expanse that beckons residents outdoors. The high heat lingers around a sultry 93 degrees, with the heat index nudging towards 96, hinting at the day's potential to feel even more enveloping. As a gentle southwest breeze dances through the streets, the air remains inviting yet heavy, encouraging those who venture out to remain hydrated and seek shelter from the unrelenting sun when possible. \n\nTonight, the skies will shift to a calm and mostly clear feature, soothing the day's intensity and welcoming a cozy low of around 71 degrees. Evening plans could benefit from the lingering warmth; a casual stroll near the waterfront could be a soothing endeavor, or perhaps an outdoor caf\u00e9 visit to relish the fading daylight. In these conditions, comfort is key. Lightweight clothing paired with a light wrap for the evening would be wise, allowing for ease during the day and warmth as dusk settles in. As the sun embarks on its journey down, remember to cherish both the lingering sunlight and the promise of a serene night ahead.",
+    "color_code": "#F5F5F0",
+    "timestamp": "2025-07-06 08:11:11"
 }
