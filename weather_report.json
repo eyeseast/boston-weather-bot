@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-07T06:53:00+00:00",
+            "timestamp": "2025-07-07T09:53:00+00:00",
             "temperature_f": 73.04,
             "temperature_c": 22.8,
-            "humidity": 81.159461531991,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 200,
-            "description": "Clear"
+            "humidity": 87.418653982336,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 150,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-07T04:00:00-04:00",
-                "endTime": "2025-07-07T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 71. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-07-07T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-07T08:00:00-04:00",
                 "endTime": "2025-07-07T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 90,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 16
                 },
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "8 to 13 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/hot/hot,20?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 90. Heat index values as high as 97. Southwest wind 7 to 13 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Partly sunny, with a high near 90. Heat index values as high as 97. Southwest wind 8 to 13 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-07T18:00:00-04:00",
+                "endTime": "2025-07-08T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 74,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/tsra_sct,40?size=medium",
+                "shortForecast": "Chance Rain Showers then Patchy Fog",
+                "detailedForecast": "A chance of rain showers between 7pm and 4am, then patchy fog and a chance of showers and thunderstorms between 4am and 5am, then patchy fog and showers and thunderstorms likely. Mostly cloudy, with a low around 74. Southwest wind 6 to 12 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "As the dawn breaks over Boston, the city holds a quiet promise of warmth and sun. The sky is partly cloudy, casting gentle shifts of shadow and light across the landscape. With temperatures expected to rise toward a comforting height of near 90 degrees, residents will find relief in a subtle southwest breeze that brings whispers of summer to their day. The heat index, reaching up to 97, will remind us that careful hydration is key as we embrace these longer, languorous hours of light. \n\nIn such pleasant summer conditions, it is advisable to dress lightly\u2014perhaps a breathable cotton shirt and comfortable shorts, allowing your skin to soak in that golden warmth without restraint. As the hours unfold, consider a stroll through the Public Garden or a leisurely visit to a nearby caf\u00e9, where you can enjoy a cool drink under the sprawling branches of shade trees. If your inclinations lean toward the artistic, make time for a gallery visit or gather with friends for a picnic in one of the city's welcoming parks. Today holds the potential for simple joys, and as the sun ascends, it invites all to partake in the easy pleasures that accompany a Boston summer day.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-07-07 04:11:06"
+    "weather_report": "A gentle warmth blankets Boston this morning, as the day promises a taste of summer with temperatures lingering near 90. The air is thick with anticipation, the heat index nudging itself to nearly 97, gentle breezes whispering through the streets at 8 to 13 mph from the southwest. There\u2019s a playful dance of sun and cloud overhead, a partly sunny sky beckoning residents outdoors, though the faint chance of scattered rain showers later in the evening suggests that a touch of unpredictability lingers in the air.\n\nAs evening approaches, the atmosphere shifts, welcoming clouds that carry the possibility of rain and thunderstorms. The warmth of the day will give way to a balmy night, with conditions growing increasingly humid. In preparation for this sultry evening, a lightweight layer might be a wise choice, perhaps a breathable shirt accompanied by comfortable shorts or light trousers, perfect for transitioning from sunlight to the gentle grip of twilight fog. As you ponder how to spend your day, consider a leisurely stroll along the esplanade or a visit to a local caf\u00e9 where you can sip a cool drink. As the sun sets, find solace in the vibrant spirit of the city, perhaps indulging in an intimate dinner with family or friends, where laughter and the clinking of glasses may fill the air before the rain arrives.",
+    "color_code": "#FFDDCC",
+    "timestamp": "2025-07-07 08:12:27"
 }
