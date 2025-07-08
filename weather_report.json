@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-08T06:53:00+00:00",
+            "timestamp": "2025-07-08T10:53:00+00:00",
             "temperature_f": 77.0,
             "temperature_c": 25,
             "humidity": 87.61182167843,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 190,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 170,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-08T04:00:00-04:00",
-                "endTime": "2025-07-08T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 74,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 14
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 74. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-07-08T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-08T08:00:00-04:00",
                 "endTime": "2025-07-08T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 92,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/fog/tsra_hi,40?size=medium",
-                "shortForecast": "Patchy Fog then Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "Patchy fog before 7am, then a slight chance of showers and thunderstorms between 1pm and 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 92. Heat index values as high as 101. West wind around 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/hot/tsra_hi,40?size=medium",
+                "shortForecast": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+                "detailedForecast": "A slight chance of showers and thunderstorms between 1pm and 2pm, then a chance of showers and thunderstorms. Mostly sunny, with a high near 92. Heat index values as high as 101. West wind around 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-08T18:00:00-04:00",
+                "endTime": "2025-07-09T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 58
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,40/tsra,60?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms then Patchy Fog",
+                "detailedForecast": "A chance of showers and thunderstorms before midnight, then patchy fog and a chance of showers and thunderstorms between midnight and 5am, then patchy fog and showers and thunderstorms likely. Mostly cloudy, with a low around 69. North wind 2 to 6 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As the pre-dawn hours greet Boston, the city lies shrouded in a delicate veil of patchy fog, offering an ethereal quality to the landscape. The sky bears a blanket of clouds, and the warm air holds the promise of a sultry day ahead. This morning, you may experience a hint of clinging humidity before the sun breaks free from the horizon, ultimately inviting warmth to chase away the enveloping mist.\n\nAs the day unfolds, the atmosphere will dance between clouds and occasional bursts of sunlight, with the temperature climbing toward a summery peak. A flirtation with scattered showers and the rumble of distant thunderstorms adds a touch of unpredictability. Dressing in layers will be wise; a light shirt or breathable fabric will suit the heat, while a casual jacket might be prudent for those moments of shifting weather. Given the impending warmth and humidity, venturing outdoors could be delightful\u2014perhaps a leisurely stroll through the local park, where the symphony of cicadas creates a buzz of life. Alternatively, seeking a cozy caf\u00e9 corner to sip an iced coffee while watching the world go by may prove equally satisfying as the day greets its full brightness.",
-    "color_code": "#D2B48C",
-    "timestamp": "2025-07-08 04:10:15"
+    "weather_report": "In Boston today, the air carries a warmth that feels both inviting and oppressive, as the sun climbs toward its zenith. A slight chance of showers and thunderstorms hangs in the balance from early afternoon, whispering of the caprice of summer. Although the day starts with a bright blue sky, there's a subtle tension in the air, as humidity rises and the promise of cooling rain flirts with the heat. As temperatures approach a high near 92, the heat index weaves in, suggesting that it will feel even warmer, beckoning for hydration and shade.\n\nAs the sun begins its descent this evening, the clouds will gather, ushering in a chance of thunderstorms before midnight. There may be a soft embrace of fog rolling in, wrapping around quiet streets, while the patter of rain is likely to become a lullaby of the night. In this unpredictable tapestry of weather, casual attire is advisable\u2014breathable fabrics to ward off the heat, yet perhaps a light jacket or umbrella close at hand. Given the low light and potential rain, a stroll through the city might unveil a different kind of beauty, as the vibrant greens of parks glisten under the evening drizzle, and the lights of the skyline reflect on puddles. Tonight, let the weather guide your path, whether to a cozy caf\u00e9 or a tranquil spot to watch the clouds collide with the fading light.",
+    "color_code": "#8DB600",
+    "timestamp": "2025-07-08 08:12:55"
 }
