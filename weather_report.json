@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-07T18:53:00+00:00",
-            "temperature_f": 84.91999999999999,
-            "temperature_c": 29.4,
-            "humidity": 74.531063518049,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 200,
+            "timestamp": "2025-07-07T22:53:00+00:00",
+            "temperature_f": 82.94,
+            "temperature_c": 28.3,
+            "humidity": 74.35161183138,
+            "wind_speed_mph": 49.929840000000006,
+            "wind_direction": 170,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-07T16:00:00-04:00",
-                "endTime": "2025-07-07T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 91,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 17
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers. Mostly sunny, with a high near 91. Heat index values as high as 98. Southwest wind around 12 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-07T18:00:00-04:00",
+                "startTime": "2025-07-07T20:00:00-04:00",
                 "endTime": "2025-07-08T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 74,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 22
                 },
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "6 to 10 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a low around 74. Southwest wind 6 to 12 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a low around 74. Southwest wind 6 to 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-07-08T06:00:00-04:00",
+                "endTime": "2025-07-08T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 92,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 52
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/tsra_hi,50?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers before 2pm, then a chance of showers and thunderstorms between 2pm and 4pm, then a chance of showers and thunderstorms. Partly sunny. High near 92, with temperatures falling to around 84 in the afternoon. Heat index values as high as 99. West wind 5 to 8 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the sun glances off the horizon this afternoon, Boston is enveloped in the warm embrace of summer, dancing just shy of sweltering. A sliver of sunlight pushes through sporadic clouds, each puff a lingering remnant of warmth but leaving a hint of uncertainty in the air, teasing a faint promise of rain. The heat envelops you, with the day feeling both vibrant and heavy, demanding light clothing that breathes \u2014 a gentle cotton shirt, perhaps, paired with crisp shorts to standalone against the sultry whispers of the breeze.\n\nAs the evening creeps in, the atmosphere remains cloaked in a soft, comforting blanket of clouds. The distant city skyline, a muted silhouette against the twilight, beckons with the charm of lazy pursuits. One may find solace in a stroll along the Charles, where the water glistens under the fading light, or perhaps indulge in a quiet coffee at a local caf\u00e9, where the air is tinged with the laughter of friends and the chatter of unwinding days. It\u2019s a perfect time for a low-key outing, embracing the slow cadence of summer.",
-    "color_code": "#A8C8E8",
-    "timestamp": "2025-07-07 16:08:13"
+    "weather_report": "As evening settles over Boston, a thin veil of clouds blankets the sky, allowing the dim light of dusk to filter through in soft, muted tones. The air feels warm yet carries a hint of impending moisture, a prelude to the rain that whispers of its possible arrival later in the night. With temperatures lingering around a balmy 74 degrees, the atmosphere, while comfortable, hints at a subtle restlessness. A light southwest breeze dances through the streets, playfully nudging any remaining heat away, yet it beckons the weary to seek the comfort of cozy nooks or outdoor spaces that make the most of the lingering warmth.\n\nTomorrow promises a shift as the sun rises, revealing a day charged with potential. The forecast brings the possibility of rain showers and thunderstorms, particularly in the afternoon, where the warmth will swell to near 92 before gradually retreating to a cooler embrace. It would be wise to don light layers during this hazy, humid day, prepared for both the warmth and the damp excitement of summer storms. As the heat index soars, perhaps a visit to a local caf\u00e9, tucked away between the bustling streets, offers a charming refuge, or leisurely meandering through Boston\u2019s historic neighborhoods might provide the perfect backdrop for a contemplative afternoon. Whether sipping iced tea under the thick shade of a tree or watching the clouds roll in from a quiet garden, this day unfolds like an uncharted novel, inviting exploration before the storms weave their stories overhead.",
+    "color_code": "#6A8D8B",
+    "timestamp": "2025-07-07 20:32:49"
 }
