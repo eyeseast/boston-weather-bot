@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-09T07:10:00+00:00",
+            "timestamp": "2025-07-09T10:11:00+00:00",
             "temperature_f": 71.06,
             "temperature_c": 21.7,
             "humidity": 90.071015455661,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 60,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-09T04:00:00-04:00",
-                "endTime": "2025-07-09T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 32
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,30?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a chance of showers and thunderstorms. Cloudy, with a low around 69. Northeast wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-07-09T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-09T08:00:00-04:00",
                 "endTime": "2025-07-09T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 76,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 25
+                    "value": 65
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,30/tsra,20?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a chance of showers and thunderstorms before 10am, then patchy fog and a slight chance of rain showers between 10am and 2pm, then a slight chance of showers and thunderstorms. Mostly cloudy, with a high near 76. Northeast wind around 7 mph. Chance of precipitation is 30%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/tsra,20?size=medium",
+                "shortForecast": "Patchy Fog then Slight Chance Showers And Thunderstorms",
+                "detailedForecast": "Patchy fog and scattered rain showers before 9am, then a chance of rain showers and patchy fog between 9am and 11am, then patchy fog and isolated rain showers between 11am and noon, then a chance of rain showers and patchy fog between noon and 1pm, then patchy fog and a slight chance of rain showers between 1pm and 2pm, then a slight chance of showers and thunderstorms between 2pm and 3pm, then patchy fog and a slight chance of rain showers between 3pm and 4pm, then a slight chance of showers and thunderstorms. Cloudy, with a high near 76. Northeast wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-09T18:00:00-04:00",
+                "endTime": "2025-07-10T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 37
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,20/tsra,40?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Patchy Fog",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 7pm, then patchy fog and a slight chance of rain showers between 7pm and 8pm, then patchy fog and a slight chance of showers and thunderstorms between 8pm and 2am, then patchy fog and a chance of showers and thunderstorms. Mostly cloudy, with a low around 66. East wind 2 to 7 mph. Chance of precipitation is 40%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn approaches, Boston rests in a gentle shroud of patchy fog, the kind that whispers secrets only the early risers can hear. The air is thick with anticipation as the possibility of showers and thunderstorms looms overhead. Temperatures skirt around the warm, inviting late sixties, while a soft northeast wind caresses the skin\u2014a subtle reminder of summer's embrace. The likelihood of rain dances in the air, a mere 30%, but the wetness beneath the clouds suggests one should prepare for the chance of a fleeting shower.\n\nCome midday, the fog will gradually lift, revealing a cloudy canvas that hints at the day's potential. A high around 76 might beckon those in search of some adventure, and with the occasional burst of sunshine, a hint of warmth shall seep through the clouds. Dressing in layers would be wise; perhaps light trousers accompanied by a comfortable tee, topped with a cardigan or light jacket for the moody moments. The day seems perfect for a leisurely stroll through the local markets, indulging in the vibrant colors and scents, or perhaps a visit to a cozy caf\u00e9 where a warm cup invites conversation. \n\nIn these moments of calm between the clouds, one may find joy in the low-key rhythm of the day, gently navigating a blend of misty mystery and fleeting sunshine.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-07-09 04:10:00"
+    "weather_report": "This morning, Boston awakens to a sullen veil of fog, shrouding the skyline and rendering distant outlines mere ghosts of their true form. The air is thick with the scent of impending rain, predictable in its dampness as scattered showers flirt with the horizon. As the clock marches towards late morning, the prospects of clearing remain elusive, bathed in a muted light, the high expected to hover around a modest 76 degrees. With a northeast wind whispering at 7 mph, it becomes ever more evident that the day carries a weariness, marked by a 70% chance of precipitation, promising a half-inch of gentle rain throughout.\n\nAs the day unfolds into the evening, the anticipation of nighttime storms begins to linger, reshaping the atmosphere into something both electric and soothing. The temperatures will dip softly into the embrace of 66 degrees, and those venturing out should don layers\u2014perhaps a light rain jacket over a cozy sweater, comfortable for the intermittent showers and the possibility of late-night thunder. There is comfort in this weather; it invites a quietude, a pause to consider the world through the lens of introspection. Perhaps the ideal day is best spent finding solace in a corner cafe, sipping warm coffee while observing the rain tap against the windows, or seeking the shelter of a bookstore filled with stories yet to unfold.",
+    "color_code": "#B0C4D7",
+    "timestamp": "2025-07-09 08:12:48"
 }
