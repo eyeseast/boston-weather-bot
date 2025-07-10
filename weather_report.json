@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-10T05:53:00+00:00",
+            "timestamp": "2025-07-10T13:53:00+00:00",
             "temperature_f": 69.08,
             "temperature_c": 20.6,
             "humidity": 89.992032132584,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "wind_speed_mph": 20.93832,
+            "wind_direction": 50,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-10T04:00:00-04:00",
-                "endTime": "2025-07-10T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 67,
+                "name": "This Afternoon",
+                "startTime": "2025-07-10T12:00:00-04:00",
+                "endTime": "2025-07-10T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 71,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 62
+                    "value": 69
                 },
-                "windSpeed": "2 mph",
+                "windSpeed": "7 to 12 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,60?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a chance of showers and thunderstorms before 5am, then patchy fog and showers and thunderstorms likely. Cloudy, with a low around 67. East wind around 2 mph. Chance of precipitation is 60%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely and areas of fog before 1pm, then areas of fog and a chance of rain showers. Cloudy, with a high near 71. East wind 7 to 12 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-07-10T06:00:00-04:00",
-                "endTime": "2025-07-10T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 72,
+                "name": "Tonight",
+                "startTime": "2025-07-10T18:00:00-04:00",
+                "endTime": "2025-07-11T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 64,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 82
+                    "value": 18
                 },
                 "windSpeed": "2 to 7 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,80/tsra,60?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and showers and thunderstorms before 1pm, then patchy fog and a chance of showers and thunderstorms between 1pm and 4pm, then patchy fog and a slight chance of showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 72. East wind 2 to 7 mph. Chance of precipitation is 80%. New rainfall amounts between 2 and 3 inches possible."
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers?size=medium",
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Areas of fog and a slight chance of rain showers. Cloudy, with a low around 64. Northeast wind 2 to 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the city is enveloped in a veil of patchy fog, lingering like a wisp of mystery on a sultry summer night. The air is heavy with humidity, with the promise of showers and sporadic thunderstorms looming ahead. A low of 67 degrees casts an almost languid feeling over the morning, while a soft breeze rustles the leaves, barely enough to break the stillness. The world feels hushed, as if holding its breath before the anticipated downpour, and the forecast speaks of a day where the sun may struggle to pierce the clouds, with temperatures inching towards a gentle 72.\n\nFor those venturing out, the day calls for attire that balances comfort with practicality. A light raincoat or a water-resistant jacket would serve well against sudden showers, while breathable fabrics beneath will ensure some ease when humid conditions prevail. Perhaps a stroll through the quiet streets of Boston would be in order, as the city awakens, or a visit to a local caf\u00e9 could offer a cozy refuge from the elements. As heavy rain may grace the afternoon, remaining indoors with a good book or catching up on conversations over a warm beverage might also be a delightful way to experience this New England summer day.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-07-10 04:10:22"
+    "weather_report": "As the afternoon unfolds in Boston, a thick, enveloping fog has settled over the city, lending a mysterious veiling to familiar sights. The air feels heavy with the scent of damp earth, a promise of rain lingering in the atmosphere. Temperatures hover around a soft 71 degrees, with east winds brushing through at a gentle pace, though they seem more like whispers than gusts. The forecast predicts a good chance for more rain this afternoon, as scattered showers teeter on the edge of possibility. A jacket might be advisable for those venturing outside, perhaps one made of water-resistant material to fend off the occasional dampness.\n\nAs evening approaches, the clouds deepen, lowering the horizon into shades of gray. A slight chance of rain remains as night settles, with temperatures easing to a warm 64 degrees. While outdoor activities might not hold their usual appeal, it could be an ideal time to peruse a local caf\u00e9 or settle into the cozy embrace of a favorite bookstore, indulging in literature as the world outside dims into twilight. The gentle embrace of the fog creates an atmosphere perfect for contemplation or quiet conversation, as a soothing backdrop to the day's closing notes.",
+    "color_code": "#A9B7B0",
+    "timestamp": "2025-07-10 12:08:34"
 }
