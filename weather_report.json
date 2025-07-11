@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-11T06:53:00+00:00",
+            "timestamp": "2025-07-11T10:35:00+00:00",
             "temperature_f": 66.02,
             "temperature_c": 18.9,
-            "humidity": 87.065238588912,
+            "humidity": 89.868137503874,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Cloudy"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-11T03:00:00-04:00",
-                "endTime": "2025-07-11T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Cloudy, with a low around 64. North wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-07-11T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-11T08:00:00-04:00",
                 "endTime": "2025-07-11T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 83,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
                 "shortForecast": "Patchy Fog then Partly Sunny",
                 "detailedForecast": "Patchy fog before 9am. Partly sunny, with a high near 83. East wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-11T18:00:00-04:00",
+                "endTime": "2025-07-12T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 9
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
+                "shortForecast": "Mostly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after 1am. Mostly cloudy, with a low around 67. South wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As the city of Boston gently stirs awake, a soft shroud of patchy fog cloaks the landscape, lending an air of mystery to the otherwise familiar streets. The temperature sits comfortably around 64 degrees, a subtle warmth that invites the heart to linger just a moment longer beneath the blankets. A light north breeze whispers through the trees, the kind of breeze that stirs the leaves, encouraging a new day to unfold. As morning progresses, the fog will begin to lift, revealing a canvas painted in strokes of blue and gold\u2014partly sunny skies emerging as the sun stretches lazily over the horizon.\n\nBy midday, Boston will bask in a pleasant warmth, with temperatures climbing close to 83 degrees. It\u2019s the perfect time to don light layers, perhaps a breathable cotton shirt and comfortable shorts, ready to embrace the flickering sunshine. The gentle east wind will keep it from becoming too oppressive, so an airy scarf might offer a touch of elegance while providing some relief from the heat. Ideal activities for such a day include a leisurely stroll along the Esplanade or perhaps a quiet moment in one of the city's verdant parks, where the sweet scent of summer fills the air and invites a gentle sigh of contentment. A perfect day for reflection or a good book beneath the spreading branches, as the world seems to awaken alongside you.",
-    "color_code": "#A7B2B8",
-    "timestamp": "2025-07-11 04:09:53"
+    "weather_report": "As dawn breaks across the Boston skyline, an ephemeral fog lingers like a whisper, soon to yield to light as the sun stretches its golden limbs across the city. The atmosphere is a gentle embrace, with the promise of a partly sunny day ahead. While the air holds a coolness that hints at the remnants of night, that soothing warmth will soon rise, inviting you to venture outside. With temperatures expected to hover near 83, a simple yet comfortable ensemble\u2014a light shirt for the day and perhaps a light sweater for the evening's embrace\u2014will serve well against the gentle breeze that sweeps in from the east.\n\nGiven this inviting forecast, it\u2019s a splendid day for a leisurely stroll along the Charles River, where the water glimmers like shattered glass under the sun's approval. Alternatively, seeking refuge in one of Boston\u2019s many charming cafes could offer both warmth and the opportunity to sample a steaming cup of coffee with a warm pastry as you watch the city awaken. The evening will wrap the city in a soft blanket of clouds, with patchy fog returning, but for now, let the day unfold with the promise of pleasant experiences waiting to be had.",
+    "color_code": "#D2CDE8",
+    "timestamp": "2025-07-11 08:12:20"
 }
