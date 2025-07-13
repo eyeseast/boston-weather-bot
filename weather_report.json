@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-13T06:53:00+00:00",
-            "temperature_f": 69.08,
-            "temperature_c": 20.6,
-            "humidity": 83.994973551121,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 170,
+            "timestamp": "2025-07-13T10:53:00+00:00",
+            "temperature_f": 69.98,
+            "temperature_c": 21.1,
+            "humidity": 84.050698469602,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-13T04:00:00-04:00",
-                "endTime": "2025-07-13T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 65. South wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-07-13T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-13T08:00:00-04:00",
                 "endTime": "2025-07-13T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 83,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 3
                 },
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "3 to 8 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
                 "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog before 11am. Partly sunny, with a high near 83. Southeast wind 2 to 8 mph."
+                "detailedForecast": "Patchy fog before 11am. Partly sunny, with a high near 83. Southeast wind 3 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-13T18:00:00-04:00",
+                "endTime": "2025-07-14T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
+                "shortForecast": "Mostly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after 2am. Mostly cloudy, with a low around 67. South wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a gentle veil of patchy fog lingers, casting a serene hush upon the sleeping city. The clouds hold a muted softness, underscoring the lingering warmth in the air, a promise of the day to unfold. With a low around 65, the atmosphere whispers for comfort\u2014perhaps a light sweater paired with breathable fabrics, as the sun hesitates to rise fully. The south wind is scarcely a murmur, allowing the early morning stillness to prevail.\n\nAs the sun nudges its way into the sky, the fog is expected to lift, revealing a partly sunny panorama. With a high near 83, the day beckons one outdoors, inviting exploration of quiet parks or leisurely strolls along the riverbanks. A subtle southeast breeze may brush against your skin, making it an ideal day for a light, unfussy picnic or savoring a warm cup of coffee at a sidewalk caf\u00e9, mingling with the vivid tapestry of city life. The allure of movement in the world outside is undeniable, encouraging those who can to seize the day with gentle adventures amid the awakening warmth.",
-    "color_code": "#D3C6B7",
-    "timestamp": "2025-07-13 04:08:44"
+    "weather_report": "In the early light of this summer morning, Boston awakens under a veil of patchy fog, hinting at the remnants of night still lingering about. The air feels soft against the skin, inviting yet weighted by the humidity. As the sun nudges its way through the haze, the promise of a partly sunny day begins to unfold, with temperatures gently rising towards the mid-eighties. A light breeze, barely perceptible, whispers of the warmth to come, coaxing the fog to retreat as the day matures.\n\nAs the sun ascends higher, consider choosing breathable fabrics, perhaps a short-sleeve shirt and comfortable shorts, perfect for a stroll in one of the local parks or a leisurely coffee at your favorite sidewalk caf\u00e9. The day encourages simplicity; perhaps it\u2019s time for a stretch along the Charles River, where the rippling waters reflect the evolving sky, or perhaps a visit to an art gallery, where cool air and creativity offer relief from the mugginess. As evening approaches, the fog may creep back, cloaking the city in its soft embrace once more, but for now, the allure of a vibrant summer day is hard to resist\u2014promising moments of quiet joy amidst the gentle chaos of urban life.",
+    "color_code": "#A0B0B0",
+    "timestamp": "2025-07-13 08:11:40"
 }
