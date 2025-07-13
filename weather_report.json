@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-12T18:53:00+00:00",
-            "temperature_f": 84.91999999999999,
-            "temperature_c": 29.4,
-            "humidity": 59.166399684717,
+            "timestamp": "2025-07-12T22:53:00+00:00",
+            "temperature_f": 78.98,
+            "temperature_c": 26.1,
+            "humidity": 71.746432016292,
             "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 110,
-            "description": "Partly Cloudy"
+            "wind_direction": 200,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-12T14:00:00-04:00",
-                "endTime": "2025-07-12T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 83,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 8
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 83. Southeast wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-12T18:00:00-04:00",
+                "startTime": "2025-07-12T20:00:00-04:00",
                 "endTime": "2025-07-13T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 65,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 6
+                    "value": 4
                 },
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "2 to 6 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog after 1am. Mostly cloudy, with a low around 65. Southeast wind 2 to 7 mph."
+                "detailedForecast": "Patchy fog after 1am. Mostly cloudy, with a low around 65. Southeast wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-07-13T06:00:00-04:00",
+                "endTime": "2025-07-13T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 83,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_sct/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Partly Sunny",
+                "detailedForecast": "Patchy fog before 8am, then patchy fog and a slight chance of showers and thunderstorms between 8am and 9am. Partly sunny, with a high near 83. Southeast wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the late afternoon sun casts a warm glow over Boston, the city basks in the gentle embrace of a mostly sunny sky. The temperature edges toward a comfortable warmth, inviting locals to step outside and enjoy the moment. A soft southeast breeze rustles through the trees, infusing the air with a hint of freshness\u2014a perfect contrast to the vibrant warmth enveloping the surroundings. \n\nAs evening approaches, the transition will bring a veil of patchy fog beginning to weave through the cityscape\u2014a shifting curtain of mystery that adds a touch of magic to the night. With a lower temperature easing in, one might consider light layers for comfort, perhaps a breezy shirt or a light jacket as night falls. This gentle weather encourages a stroll along the waterfront or an informal gathering with friends at an outdoor caf\u00e9, allowing the lingering light of the day to blend seamlessly with the emerging softness of the night. Slowly, the day fades, and Boston prepares to wrap itself in the serene lull of twilight.",
-    "color_code": "#99CCFF",
-    "timestamp": "2025-07-12 16:07:10"
+    "weather_report": "As night descends upon Boston, a tranquil embrace blankets the city, marked by a delicate patch of fog that whispers along the edges of the twilight. The air, soft and warm, hovers around a comfortable 65 degrees, inviting those winding down from their day to relish in the gentle Southeast breeze, tenderly kissing your skin. This evening, the clouds sail lazily across the sky, creating a muted backdrop to a shadowy skyline, suggesting a serene yet slightly uncertain night ahead. \n\nLooking toward Sunday, the early risers might find the remains of that fog lingering until the morning hours pass. A hint of showers and thunder may dart across the horizon momentarily before the sun asserts its presence. The day promises to unfurl into a partly sunny scene, with temperatures peaking near a delightful 83. It\u2019s a perfect occasion for light, breathable clothing\u2014perhaps a comfortable tee paired with airy trousers. With such pleasant summer weather unfolding, consider taking a leisurely stroll through the local park or savoring a coffee at a nearby caf\u00e9. Whether one chooses to indulge in conversation with friends or simply enjoy the ambiance of the city, this day, marked by fleeting moments of warmth and cloud, beckons you to delight in the little pleasures.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-07-12 20:37:38"
 }
