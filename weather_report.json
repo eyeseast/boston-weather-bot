@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-13T14:53:00+00:00",
-            "temperature_f": 78.08,
-            "temperature_c": 25.6,
-            "humidity": 68.612054435067,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 210,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-07-13T22:53:00+00:00",
+            "temperature_f": 80.96,
+            "temperature_c": 27.2,
+            "humidity": 64.799109782456,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 180,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-13T12:00:00-04:00",
-                "endTime": "2025-07-13T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 83,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 83. Southeast wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-13T18:00:00-04:00",
+                "startTime": "2025-07-13T20:00:00-04:00",
                 "endTime": "2025-07-14T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 67,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 4
                 },
-                "windSpeed": "3 to 7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog after 2am. Mostly cloudy, with a low around 67. South wind 3 to 7 mph."
+                "detailedForecast": "Patchy fog after 1am. Mostly cloudy, with a low around 67. South wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-07-14T06:00:00-04:00",
+                "endTime": "2025-07-14T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 84,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 23
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/fog/tsra_sct,20?size=medium",
+                "shortForecast": "Patchy Fog then Chance Showers And Thunderstorms",
+                "detailedForecast": "Patchy fog before 7am, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 84. South wind 3 to 7 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the day unfolds across Boston, one can sense a delightful vibrancy in the air, perfectly complemented by a warm embrace of sunshine that nudges the temperature toward a comfortable warmth. The sky, a patchwork of blues and playful clouds, offers a gentle reminder of summer's essence. Though the afternoon is largely painted in sunny strokes, a whisper of humidity hangs just beneath the surface, creating an inviting atmosphere for a stroll through the park or a quiet moment in a caf\u00e9 with friends. \n\nAs twilight approaches, the mood shifts ever so slightly; a light fog is poised to roll in after midnight, cloaking the city in a soft embrace. This transition to evening calls for a comfortably layered wardrobe\u2014perhaps a light jacket for those who might linger outdoors, savoring the lingering warmth. As the sun sets low, those seeking a bit of adventure might consider a quiet evening stroll along the waterfront, where the cool breeze mingles with the last light of day, offering a serene backdrop for reflection or conversation. Alternatively, the warmth of a local bookstore could provide solace, inviting the curious to explore stories hidden within their pages.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-07-13 12:07:42"
+    "weather_report": "As evening envelops Boston, the air grows still, carrying a whisper of impending fog that beckons softness to the edges of the skyline. Currently, the clouds, like gentle brushes on a painter's canvas, blanket the sky in muted shades of gray and blue. In the aftermath of day, the temperature gently settles around a comfortable 67 degrees, inviting a casual stroll or a quiet moment on the porch with a good book. Those venturing out this evening may want to layer lightly; a cardigan or a light sweater will add just enough warmth against the subtle chill that tiptoes in with the arrival of night.\n\nTomorrow holds promise of more warmth, as the sun rises to an estimated high near 84 degrees, though the forecast hints at scattered showers and the distant rumble of thunder. With the potential for patchy fog lingering into the early hours, the morning may offer a tranquil yet mystifying start. As the day blooms, lighter attire will suit the rising temperatures, though packing an umbrella might serve you well should a fleeting storm pass through. Such conditions, while perhaps a slight inconvenience, also offer a perfect excuse to explore the rich indoor spots Boston has to offer: a leisurely visit to a cozy caf\u00e9 or perhaps a journey through a local museum's hallowed halls. Enjoy this interlude of nature and city life, for in its quiet moments, one often finds the most profound solace.",
+    "color_code": "#A0C1D6",
+    "timestamp": "2025-07-13 20:36:08"
 }
