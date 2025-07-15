@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-14T18:53:00+00:00",
-            "temperature_f": 80.06,
-            "temperature_c": 26.7,
-            "humidity": 76.381992276461,
-            "wind_speed_mph": 24.964920000000003,
+            "timestamp": "2025-07-14T22:53:00+00:00",
+            "temperature_f": 77.0,
+            "temperature_c": 25,
+            "humidity": 81.938137162883,
+            "wind_speed_mph": 37.04472,
             "wind_direction": 190,
-            "description": ""
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-14T16:00:00-04:00",
-                "endTime": "2025-07-14T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 85,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 33
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,30?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms. Partly sunny, with a high near 85. Southwest wind around 8 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-14T18:00:00-04:00",
+                "startTime": "2025-07-14T20:00:00-04:00",
                 "endTime": "2025-07-15T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 72,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 33
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/tsra,30?size=medium",
                 "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms before 2am, then a chance of showers and thunderstorms between 2am and 4am, then patchy fog and a chance of showers and thunderstorms. Mostly cloudy, with a low around 72. Southwest wind around 7 mph. Chance of precipitation is 30%."
+                "detailedForecast": "A chance of showers and thunderstorms before 2am, then a chance of showers and thunderstorms between 2am and 4am, then patchy fog and a chance of showers and thunderstorms. Mostly cloudy, with a low around 72. Southwest wind around 6 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-07-15T06:00:00-04:00",
+                "endTime": "2025-07-15T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 89,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 25
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,30/tsra_hi,20?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and a chance of showers and thunderstorms before 7am, then patchy fog and a slight chance of showers and thunderstorms between 7am and 3pm. Mostly sunny, with a high near 89. Heat index values as high as 96. Southwest wind around 6 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds under partly sunny skies, subtly hinting at the possibility of passing showers and distant rumbles of thunder. The warmth brushes against the skin, with temperatures reaching a comfortable high. A gentle southwest breeze carries with it the promise of rain, as the humidity swells. As the transition into evening approaches, expect to encounter a lingering chance of showers and thunderstorms, possibly accompanied by intriguing patches of fog weaving through the landscape. The temperatures will hold, inviting the city to experience a sultry night under the clouded veil.\n\nIt\u2019s a day dressed in casual comfort you might find in a late summer\u2019s embrace\u2014a loose shirt paired with breathable fabrics will serve you well, perhaps complemented by light footwear to navigate unpaved sidewalks. As the clouds gather, consider a leisurely stroll along the waterfront or a quiet sit at a caf\u00e9, watching the world drift by, undeterred by the specter of rain. Conversations may deepen over a coffee, and the coolness of the approaching fog might refresh your spirit as it envelops the city, adding a sense of serenity to the bustling urban landscape.",
-    "color_code": "#A7C6D9",
-    "timestamp": "2025-07-14 16:08:14"
+    "weather_report": "As twilight wraps its gentle embrace around Boston, the air hums with the promise of summer storms. There lies a soft curtain of fog, hinting at the moisture that swirls just before the chance of rain\u2014an ephemeral dance between heat and humidity, softly teasing the edges of the day. With the temperature settling around a warm embrace, the atmosphere feels both heavy and alive, whispering secrets of the stormy hours to come.\n\nTomorrow beckons with a glimpse of sunlight, yet the lingering fog may persist, making the dawn a quiet, almost ethereal affair. As the day warms to a sunny crescendo near 89 degrees, the heat index could push it further, nudging us toward the need for cool, breathable fabrics. Embrace light cotton or linen; perhaps don a wide-brimmed hat if adventure calls you outdoors. A morning walk along the Charles might reveal a fragile beauty as fog rolls off the water, and later, an afternoon iced coffee on a shaded patio might be the soothing reprieve you seek, where good books and gentle conversations can unfold, unhurried and reminiscent of lazy days.",
+    "color_code": "#5B7FDB",
+    "timestamp": "2025-07-14 20:34:47"
 }
