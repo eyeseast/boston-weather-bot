@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-15T04:53:00+00:00",
+            "timestamp": "2025-07-15T09:53:00+00:00",
             "temperature_f": 73.04,
             "temperature_c": 22.8,
-            "humidity": 93.524065124028,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": 180,
-            "description": "Partly Cloudy"
+            "humidity": 96.420620165542,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-15T04:00:00-04:00",
-                "endTime": "2025-07-15T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 72,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 28
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 72. Southwest wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-07-15T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-15T08:00:00-04:00",
                 "endTime": "2025-07-15T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 89,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 27
+                    "value": 14
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/sct?size=medium",
-                "shortForecast": "Chance Rain Showers then Mostly Sunny",
-                "detailedForecast": "A chance of rain showers and patchy fog before 8am. Mostly sunny, with a high near 89. Heat index values as high as 97. Southwest wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 89. Heat index values as high as 97. Southwest wind around 7 mph. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-15T18:00:00-04:00",
+                "endTime": "2025-07-16T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 71,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium",
+                "shortForecast": "Mostly Clear then Patchy Fog",
+                "detailedForecast": "Patchy fog after 5am. Mostly clear, with a low around 71. Southwest wind around 7 mph. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the early morning hours stretch into the Boston skyline, a gentle veil of clouds lingers overhead, whispering the promise of rain to come. Amidst the subdued light, the temperatures cradle a warm 72 degrees, offering a wrap of humid comfort as the city awakens. A soft breeze drifts from the southwest, carrying hints of moisture and the possible dawn of shower activity. With a modest chance of showers looming, the day invites anticipation, as the springboard to afternoon warmth draws nearer.\n\nCome Tuesday, Boston promises to lift its shroud of fog, revealing a mostly sunny day where temperatures may soar to a staggering 89, all while the heat index might flirt with an oppressive 97. It is a day made for leisure, encouraging a cheerful disposition from those who venture out. A light, breathable ensemble would suit the warmth\u2014perhaps airy cottons or linens to dance along the sweltering air. Engage in a leisurely stroll around the charming cobblestone streets of Beacon Hill, or indulge in a quiet moment at your favorite caf\u00e9, savoring the rich aroma of freshly brewed coffee. The mix of sun and scattered showers creates a dynamic backdrop to seize the day, promising moments of simple joy in this storied city.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-07-15 04:10:40"
+    "weather_report": "As the morning unfolds over Boston, a gentle warmth envelops the city, whispered through the soft rustle of leaves and the distant hum of early risers. With temperatures hovering around a balmy 89 degrees, residents can expect a day of mostly sunny skies, punctuated by a heat index that nudges up to a steamy 97. A light southwest breeze offers brief moments of reprieve, making the warmth more bearable but still urging caution for those venturing outdoors.\n\nIn the hours to come, the sun will paint the day with its vibrant strokes, creating an inviting backdrop for leisurely strolls along the Charles or quiet moments in shaded parks. However, as twilight approaches, a hint of haziness will settle over the landscape, with patchy fog creeping in after 5 a.m., lending an air of mystery to the evening. As temperatures descend to a comfortable 71, the chance of evening rain remains minimal, offering just a fleeting chance to appreciate the lushness of the surroundings as the day draws to a close. Dressing in light, breathable fabrics will allow for comfort under the sun by day, while a light layer will suffice as the cooler, fog-laden evening greets you. Activities might include savoring an outdoor coffee in the cool of the evening or a relaxed stroll along the waterfront, embracing the tranquility that a summer night in Boston brings.",
+    "color_code": "#A2C2E7",
+    "timestamp": "2025-07-15 08:13:25"
 }
