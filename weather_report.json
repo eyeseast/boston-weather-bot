@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-15T17:53:00+00:00",
-            "temperature_f": 87.98,
-            "temperature_c": 31.1,
-            "humidity": 55.346207752563,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 240,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-07-15T22:53:00+00:00",
+            "temperature_f": 84.02,
+            "temperature_c": 28.9,
+            "humidity": 69.66682889015,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 170,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-15T16:00:00-04:00",
-                "endTime": "2025-07-15T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 89,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 16
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
-                "shortForecast": "Isolated Showers And Thunderstorms",
-                "detailedForecast": "Isolated showers and thunderstorms after 5pm. Partly sunny, with a high near 89. Southwest wind around 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-15T18:00:00-04:00",
+                "startTime": "2025-07-15T20:00:00-04:00",
                 "endTime": "2025-07-16T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 71,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 16
+                    "value": 7
                 },
                 "windSpeed": "2 to 6 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/sct?size=medium",
-                "shortForecast": "Isolated Showers And Thunderstorms then Partly Cloudy",
-                "detailedForecast": "Isolated showers and thunderstorms before 8pm. Partly cloudy, with a low around 71. Southwest wind 2 to 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 71. Southwest wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-07-16T06:00:00-04:00",
+                "endTime": "2025-07-16T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 93,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 93. Heat index values as high as 100. Southwest wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, the sky is adorned with a tapestry of cotton-like clouds, casting playful shadows on the landscape. The temperature hovers in the warm embrace of summer, while the air carries the sweet anticipation of potential showers and thunderstorms as twilight approaches. Though the chance of rain remains low, the thickening clouds may offer a brief respite from the sun's intensity, revealing a day that feels balmy yet breezy, with whispers of stirring winds. As the clock approaches evening, the horizon hints at a softer light, wrapping the city in a gauzy warmth that invites one to linger outdoors.\n\nFor those contemplating their evening plans, a casual stroll along the Esplanade or a visit to one of Boston\u2019s nestled caf\u00e9s could be the perfect way to soak in the atmosphere. Light layers are advisable; a comfortable tee paired with a breezy cardigan can adapt seamlessly to the shifting temperatures and unexpected turns of the weather. As you venture out, keep an open heart for the day's gentle cornucopia of sounds\u2014laughter echoing from nearby parks, the distant notes of a street musician, and the mellowing bustle of life winding down for the night.",
-    "color_code": "#D6D0C5",
-    "timestamp": "2025-07-15 16:08:09"
+    "weather_report": "As the twilight settles over Boston, the sky takes on a muted palette, where fading hues of orange and soft blues intermingle, hinting at the warmth that the day left behind. Tonight\u2019s embrace promises a comfortable low, with gentle whispers of wind teasing the warm air, making for a pleasant evening outdoors if you seek the solace of a stroll or perhaps a quiet seat at a favorite caf\u00e9. \n\nLooking ahead to tomorrow, the sun will take center stage, bringing with it a fiery brightness that beckons exploration. The air will feel thick and warm, possibly wrapping around you like a cozy blanket. Light fabrics are advisable\u2014consider lightweight cottons or linens to counter the heat. Those seeking respite might enjoy the distant sounds from the waterfront, where the water reflects the sun's golden touch, or perhaps a shaded park picnic\u2014an ideal way to savor the day while staying cool. Remember to hydrate and take frequent breaks, finding your own rhythm within the buzz of a vibrant summer day.",
+    "color_code": "#F5D58B",
+    "timestamp": "2025-07-15 20:33:57"
 }
