@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-16T18:53:00+00:00",
-            "temperature_f": 93.02,
-            "temperature_c": 33.9,
-            "humidity": 47.258211648787,
+            "timestamp": "2025-07-16T22:53:00+00:00",
+            "temperature_f": 86.0,
+            "temperature_c": 30,
+            "humidity": 65.383129907649,
             "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 260,
-            "description": "Mostly Clear"
+            "wind_direction": 190,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-16T16:00:00-04:00",
-                "endTime": "2025-07-16T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 93,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 93. Heat index values as high as 99. South wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-16T18:00:00-04:00",
+                "startTime": "2025-07-16T20:00:00-04:00",
                 "endTime": "2025-07-17T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 74,
+                "temperature": 75,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 74. Heat index values as high as 97. South wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 75. South wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-07-17T06:00:00-04:00",
+                "endTime": "2025-07-17T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 89,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 58
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,60/tsra_sct,50?size=medium",
+                "shortForecast": "Showers And Thunderstorms Likely",
+                "detailedForecast": "A chance of rain showers between 7am and 10am, then showers and thunderstorms likely between 10am and 5pm. Mostly cloudy, with a high near 89. Heat index values as high as 98. Southwest wind 6 to 12 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston, the sun shines relentlessly this afternoon, bathing the city in a warm embrace that feels both invigorating and stifling. With the temperature climbing towards 93, the heat index flirts with a slightly oppressive 99, creating an ambiance that invites the casual observer to seek solace in shade or swift breezes. The air is thick with summer's ardor, yet the gentle south wind offers fleeting moments of reprieve. Tonight, as the daylight begins to wane, expect the warmth to linger, with a low around 74, an echo of summer's stubborn grip. The parting clouds will allow for a glimpse of the stars, though heat index values will still suggest a muggy closeness.\n\nFor those venturing outside, lightweight clothing is essential; breathable fabrics that allow skin to feel the softest kiss of the evening air will enhance the experience. Whether strolling along the banks of the Charles, enjoying an outdoor caf\u00e9, or simply seeking a quiet corner to reflect, the atmosphere beckons both activity and introspection. It is a day for gentle pursuits, perhaps a leisurely walk through shaded parks or the company's delight in good conversation over drinks that cool and refresh.",
-    "color_code": "#FFDA88",
-    "timestamp": "2025-07-16 16:08:16"
+    "weather_report": "As the sun dips below the horizon, a gentle warmth lingers in the air, inviting you to savor the last breaths of a summer evening in Boston. Tonight, the sky is mostly cloaked in clouds, painting a soft, muted backdrop, with temperatures gracefully settling around 75 degrees. A light south wind rustles the leaves, whispering promises of the warm yet lively day ahead. \n\nTomorrow beckons early risers with the tantalizing chance of rain showers, a refreshing interlude in the midst of summer's embrace. Expect an increase in warmth, with highs flirting near 89, and the heat index possibly nudging towards 98, urging us to seek the shade. With a 60% chance of precipitation, the day holds an unpredictable charm. Opt for light, breathable fabrics, and perhaps carry a light jacket or an umbrella\u2014after all, life thrives on the thrill of spontaneity. As you venture out, consider indulging in a leisurely stroll through one of the city\u2019s tucked-away parks or unwinding with a cup of coffee in a cozy caf\u00e9 while keeping an ear attuned to the distant rumbles of thunder.",
+    "color_code": "#FFC0CB",
+    "timestamp": "2025-07-16 20:34:18"
 }
