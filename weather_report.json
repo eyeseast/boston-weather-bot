@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-17T18:53:00+00:00",
-            "temperature_f": 82.94,
-            "temperature_c": 28.3,
-            "humidity": 69.554151666157,
-            "wind_speed_mph": 49.929840000000006,
-            "wind_direction": 230,
-            "description": "Cloudy"
+            "timestamp": "2025-07-17T22:53:00+00:00",
+            "temperature_f": 86.0,
+            "temperature_c": 30,
+            "humidity": 65.383129907649,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 210,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-17T16:00:00-04:00",
-                "endTime": "2025-07-17T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 90,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 19
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms before 5pm. Partly sunny, with a high near 90. Heat index values as high as 96. Southwest wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-17T18:00:00-04:00",
+                "startTime": "2025-07-17T20:00:00-04:00",
                 "endTime": "2025-07-18T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 70,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 25
+                    "value": 7
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/sct?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
-                "detailedForecast": "A chance of showers and thunderstorms before 10pm. Partly cloudy, with a low around 70. Heat index values as high as 98. West wind around 10 mph, with gusts as high as 23 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 70. West wind around 13 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-07-18T06:00:00-04:00",
+                "endTime": "2025-07-18T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 82,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 82. Northwest wind 6 to 13 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds with the promise of warmth, a tender embrace of summer lingering in the air. Partly sunny skies render a golden hue over the city, though there is a hint of humidity that keeps one attuned to the possibility of showers or even a fleeting thunderstorm. The temperature has nudged close to 90, while the heat index makes it feel a touch more oppressive, reminiscent of warm days in July where the sun seems to linger a little longer. You might feel the gusts of southwest wind, a gentle reminder of nature's presence, occasionally rustling the leaves.\n\nAs evening approaches, the ambiance shifts. The sun begins its descent, and the clouds gather more tightly, wrapping hints of moisture into the air. The forecast suggests chances of rain, albeit slim, before nightfall, accompanied by temperatures settling around a mild 70 degrees. The sky may not yield a brilliant sunset, but the clouds will catch the fading light, offering a muted spectacle. The night, while comfortably warm, invites a choice of attire\u2014light layers would be wise, with perhaps a soft sweater or shawl in case the evening cools unexpectedly. Consider a stroll along the waterfront or popping into a cozy caf\u00e9, where the soft hum of conversation and clinking cups create an intimate setting against the backdrop of the city. Tonight promises a simple pleasure, a moment to relish in the slow passage of a summer evening.",
-    "color_code": "#D1E4F2",
-    "timestamp": "2025-07-17 16:07:57"
+    "weather_report": "As twilight falls over Boston, the air carries a soft warmth with the day easing into night. The low humidity combined with a gentle west wind creates a serene atmosphere, perfect for a leisurely evening stroll. The sky dons a gradient of faded pinks and soft blues, hinting at a clear night ahead, while the occasional gust dances through the tree branches, invigorating the senses. With temperatures dipping to around 70, it's an invitation to leave behind the day's worries and embrace the tranquility of a summer's evening.\n\nTomorrow promises sunshine and mild breezes, a perfect backdrop for simple pleasures. As the day unfolds, the temperature will rise to a comfortable 82, beckoning locals to explore the charm of the city. A light jacket may suffice for the cooler morning, but as midday approaches, one might find a short-sleeved shirt or a casual sundress preferable. Whether it's visiting a local caf\u00e9, wandering through a park, or perhaps indulging in some quiet reading outdoors, the day offers a canvas for delightful pursuits. Enjoy the moment, for the beauty of summer is fleeting.",
+    "color_code": "#FFA07A",
+    "timestamp": "2025-07-17 20:33:49"
 }
