@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-19T18:53:00+00:00",
-            "temperature_f": 84.02,
-            "temperature_c": 28.9,
-            "humidity": 41.180364049447,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2025-07-20T02:53:00+00:00",
+            "temperature_f": 69.08,
+            "temperature_c": 20.6,
+            "humidity": 86.675935118971,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 170,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-19T16:00:00-04:00",
-                "endTime": "2025-07-19T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 85,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 85. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-19T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-07-20T00:00:00-04:00",
                 "endTime": "2025-07-20T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 69,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 4
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 69. Southwest wind around 7 mph. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-07-20T06:00:00-04:00",
+                "endTime": "2025-07-20T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 87,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 51
+                },
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 69. South wind around 8 mph. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/tsra_sct,50?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers between 8am and 4pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 87. South wind 7 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds under a welcoming sky, vibrant with sunlight filtering through puffs of gentle clouds. The air is warm yet buoyed by the soft whisper of a southwest breeze, creating an inviting atmosphere that suggests an afternoon well spent outdoors. As the sun takes its gradual descent, the evening promises a subtle transition, with a hint of warmth still lingering into the night, where the stars may soon find a place among wisps of partly cloudy skies. \n\nFor those venturing out, a light layer will suffice, perhaps a shirt with breathable fabrics that dance with the warmth, complemented by comfortable pants to allow for easy movement as the hours stretch long into the evening. The pleasantness of the day invites a stroll along the waterfront or a visit to an open-air caf\u00e9 where one might savor a refreshing drink while watching the world saunter by. Alternatively, the city\u2019s vibrant parks can be perfect for gathering with friends, sharing laughter and stories until the dusk wraps its embrace around the day.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2025-07-19 16:07:23"
+    "weather_report": "As the early hours of Sunday unfold in Boston, a veil of clouds lingers overhead, inviting the warmth of the day while hinting at possible showers. The air carries a soft warmth, resting comfortably in the upper sixties, with a gentle southwest breeze whispering through the streets. While nighttime\u2019s quietude drapes the city in shadows, the promise of dawn brings the chance of rain, a delicate dance between sun and storm, urging residents to carry an umbrella even as the sun breaks through with its brilliance around midday.\n\nAs the sun ascends, expect a tableau of shifting skies\u2014partially sunny with strands of clouds weaving in and out. The warmth will swell, nudging towards the upper eighties, making for a day that teeters between languid summer heat and the electric thrill of potential thunderstorms. Clothing should embrace comfort\u2014light layers that breathe, complemented by sturdy footwear for a day that may lead one from cafes to shaded parks, where the verdant embrace of trees offers solace from the heat. Should the heavens open, a splash of rain may provide a refreshing reprieve, perfect for those willing to stroll under the gentle drumming of drops, savoring the scent of wet pavement and the soft rustle of leaves. This day in Boston invites the simple joys of summer, urging you to take leisurely paths, share coffee with a friend, or even indulge in quiet reflections by the waterfront, where the charm of the city melds seamlessly with nature\u2019s fleeting wonders.",
+    "color_code": "#d1c7b1",
+    "timestamp": "2025-07-20 00:22:55"
 }
