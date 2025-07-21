@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-21T06:53:00+00:00",
-            "temperature_f": 64.94,
-            "temperature_c": 18.3,
-            "humidity": 93.306363604193,
+            "timestamp": "2025-07-21T09:53:00+00:00",
+            "temperature_f": 60.980000000000004,
+            "temperature_c": 16.1,
+            "humidity": 93.195965844652,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-21T04:00:00-04:00",
-                "endTime": "2025-07-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 65. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-07-21T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-21T08:00:00-04:00",
                 "endTime": "2025-07-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 78,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 to 16 mph",
+                "windSpeed": "10 to 16 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 78. Northwest wind 7 to 16 mph."
+                "detailedForecast": "Mostly sunny, with a high near 78. Northwest wind 10 to 16 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-21T18:00:00-04:00",
+                "endTime": "2025-07-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 53. North wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the dawn breaks softly over Boston, a gentle chill lingers in the air, whispering of a comfortable day ahead. The sky, a muted canvas of night slowly giving way to morning, promises a transformation into brilliance. With a low temperature from the overnight settling around 65, the world around you feels fresh and inviting, wrapped in a cloak of mild, invigorating air. The faint rustle of the northwest wind beckons, reminiscent of quiet conversations with the trees that line the city\u2019s parks.\n\nAs the day unfolds, the sun will rise higher, casting a warm glow upon the bustling streets. With a high expected near 78, the brightness will filter through the layers of the city, illuminating the charm of its architecture and the vibrancy of its life. Monday invites you to don comfortable layers\u2014perhaps a light shirt with breathable fabrics and a pair of jeans, ready for the pleasant warmth. This is a day to embrace casual outings: sip a coffee at a local caf\u00e9, stroll along the Boston Common, or even take a leisurely bike ride along the Esplanade, where the gentle undulations of the river reflect the shifting hues of the sky. Let the beauty of the day inspire simple pleasures, as the city emerges alive with possibilities.",
-    "color_code": "#A7C9E6",
-    "timestamp": "2025-07-21 04:11:55"
+    "weather_report": "As the dawn light lifts over Boston, a veil of clarity blankets the city, promising an inviting day that sways gently between the warmth of summer and the breath of an autumn breeze. With a gentle northwest wind stirring at a moderate pace, the air remains refreshingly brisk, while the day graces us with comforting sunbeams radiating from a pale blue sky. The forecast predicts a peak warmth inviting you to shed heavy layers\u2014perhaps a light shirt paired with shorts, or a breezy sundress if you prefer, embracing the cool touch of the north wind as the sun savors its ascent.\n\nThis morning, strolling along the cobbled streets of Beacon Hill or enjoying the tranquil waters of the Charles could be a delightful way to bask in the day's unfolding charm. As evening approaches, the temperature will dip towards slumber, ushering in a soft nocturne with the promise of mostly clear skies above. Opt for something cozy\u2014perhaps a light jacket or a sweater\u2014if you choose to linger outdoors, where soft laughter might mingle with the rustle of leaves in twilight's embrace. Today offers simple pleasures: a leisurely coffee at a sidewalk caf\u00e9, a stroll through the Public Garden, or perhaps a quiet moment reflecting by the water as the sun's last glimmers fade into the horizon.",
+    "color_code": "#A3C1F5",
+    "timestamp": "2025-07-21 08:13:46"
 }
