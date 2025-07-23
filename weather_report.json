@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-23T07:38:00+00:00",
-            "temperature_f": 55.04,
-            "temperature_c": 12.8,
-            "humidity": 100,
+            "timestamp": "2025-07-23T10:53:00+00:00",
+            "temperature_f": 57.92,
+            "temperature_c": 14.4,
+            "humidity": 96.813917561395,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": ""
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-23T04:00:00-04:00",
-                "endTime": "2025-07-23T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 61. Southwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-07-23T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-23T08:00:00-04:00",
                 "endTime": "2025-07-23T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 84,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 84. Southwest wind 2 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-23T18:00:00-04:00",
+                "endTime": "2025-07-24T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 66. Southwest wind around 9 mph."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, the air carries a gentle warmth, despite the lingering coolness of the evening. The night sky, mostly clear with stars quietly winking goodbye, will soon give way to a sunlit canvas. By day\u2019s peak, you can expect a pleasant embrace of warmth as the thermometer nudges toward the mid-eighties. The soft caress of the southwest breeze will also accompany this warmth, allowing for a comfort that whispers of lazy summer days ahead.\n\nIn this inviting weather, a humble suggestion would lean toward light fabrics\u2014perhaps a simple cotton shirt and breathable shorts or slacks. A light cardigan could serve well for those moments when the sun sinks low or behind clouds momentarily. As for the day\u2019s pursuits, consider wandering through the lush expanses of Franklin Park, or perhaps indulging in a leisurely coffee at an inviting caf\u00e9 where the hum of conversation and the aroma of fresh brew blend seamlessly into the background. It is a day to savor the mundane joys, wrapped in nature\u2019s warmth and the gentle conversations of a bustling city awakening to the promise of summer.",
-    "color_code": "#F7E7CA",
-    "timestamp": "2025-07-23 04:10:42"
+    "weather_report": "As the dawn breaks over Boston, the sky unfolds in a canvas of blue, sprinkled with wisps of clouds that barely dare to disturb the serenity of the day. Today is destined to be warm, with temperatures embracing the mid-80s, while the gentle southwest winds usher in whispers of summer. There\u2019s no hint of fog to obscure the view; instead, the clarity invites one to savor the vibrant scenes of city life poised just below.\n\nAs the sun rises, bringing warmth and brightness, it beckons urban wanderers to step out. Perhaps a leisurely stroll along the Charles River will lead to moments of reflection, or a visit to one of the local cafes can yield a simple pleasure found in coffee and conversation. Layering light fabrics will suffice for attire, allowing for comfort as the temperature gradually ascends, while a light jacket may be welcome as evening settles in, wrapping the city in a soft embrace. The promise of a mostly clear night will inspire outdoor gatherings, making it an ideal time for families and friends to connect under the stars, placing this splendid day into the gentle context of a calm and inviting evening.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-07-23 08:13:12"
 }
