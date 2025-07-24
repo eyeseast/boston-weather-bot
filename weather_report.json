@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-24T06:53:00+00:00",
-            "temperature_f": 64.94,
-            "temperature_c": 18.3,
-            "humidity": 81.08942108913,
-            "wind_speed_mph": 20.93832,
+            "timestamp": "2025-07-24T10:53:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 81.310107248396,
+            "wind_speed_mph": 12.0798,
             "wind_direction": 180,
-            "description": ""
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-24T04:00:00-04:00",
-                "endTime": "2025-07-24T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 67. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-07-24T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-24T08:00:00-04:00",
                 "endTime": "2025-07-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 89,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 89. Southwest wind 9 to 14 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-24T18:00:00-04:00",
+                "endTime": "2025-07-25T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 72,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "9 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 72. Southwest wind 9 to 15 mph."
             }
         ]
     },
-    "weather_report": "As the tranquil veil of night begins to lift over Boston, the air remains pleasantly warm, holding a promise of bright sunshine as the day unfolds. With a low temperature resting comfortably at 67 degrees, a gentle southwest breeze caresses the skin, whispering of a day that will soon embrace the warmth of summer. As dawn approaches, the clear sky hints at the vibrancy that awaits, with no fog lingering to obscure the view\u2014a perfect canvas for the oncoming sun.\n\nCome Thursday, expect the golden orb to grace the heavens once more, pushing temperatures toward a balmy high near 89. With the southwest winds dancing through the streets at a moderate clip, there will be a refreshing quality to the warmth. For those venturing out, light fabrics will serve well, perhaps a breezy shirt paired with comfortable shorts; breathable footwear will keep your spirit as light as the anticipated clouds. The clear skies may invite a stroll through Boston Common or a leisurely read at a nearby caf\u00e9, where you might find a quiet corner to appreciate both the day and the slow passage of time. Engage with this splendid weather by taking a casual walk along the Charles River, or simply pause to enjoy the sights of this beautiful city. The pleasures of this day are found in simplicity, and the allure of a summer day is a call to quiet enjoyment.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-07-24 04:10:21"
+    "weather_report": "This morning in Boston, the air is crisp and inviting, with the sun casting its warm gaze across the landscape. As the day unfolds, expect a generous embrace of sunshine, perfect for enjoying the outdoors. The gentle breeze whispers from the southwest, a subtle reminder to keep your hair tied back if you\u2019re sensitive to the warmth. With temperatures rising to a comfortable peak, it would be wise to don light, breathable fabrics\u2014perhaps a soft cotton shirt paired with casual shorts to fully savor the day\u2019s offerings.\n\nAs evening approaches, the clear skies will linger, creating an enchanting backdrop for casual strolls or quiet moments at local parks. The warmth should remain inviting, ideal for relaxed gatherings or a simple dinner al fresco. With the atmosphere clear and the city alive, consider taking a leisurely bike ride along the Charles or finding a cozy spot for a picnic, immersing yourself in the vibrancy of summer in the city. The day promises to blend pleasant warmth with the clarity of a blue sky, urging every Bostonian to step outside and bask in the beauty of the season.",
+    "color_code": "#75B3E7",
+    "timestamp": "2025-07-24 08:13:16"
 }
