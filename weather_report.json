@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-24T18:53:00+00:00",
-            "temperature_f": 86.0,
-            "temperature_c": 30,
-            "humidity": 51.43679268898,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Partly Cloudy"
+            "timestamp": "2025-07-24T22:53:00+00:00",
+            "temperature_f": 80.96,
+            "temperature_c": 27.2,
+            "humidity": 60.515800007043,
+            "wind_speed_mph": 45.903240000000004,
+            "wind_direction": 190,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-24T16:00:00-04:00",
-                "endTime": "2025-07-24T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 89,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 89. Southwest wind around 12 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-24T18:00:00-04:00",
+                "startTime": "2025-07-24T20:00:00-04:00",
                 "endTime": "2025-07-25T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 72,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 72. Southwest wind 8 to 12 mph."
+                "detailedForecast": "Mostly clear, with a low around 72. Southwest wind around 10 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-07-25T06:00:00-04:00",
+                "endTime": "2025-07-25T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 95,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 54
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/hot/tsra_hi,50?size=medium",
+                "shortForecast": "Mostly Sunny then Scattered Showers And Thunderstorms",
+                "detailedForecast": "Isolated rain showers between 1pm and 2pm, then scattered showers and thunderstorms. Mostly sunny. High near 95, with temperatures falling to around 86 in the afternoon. Heat index values as high as 102. West wind around 10 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sun casts a warm, golden light over the city, harmonizing with a gentle wind that whispers through the trees. The temperature, nudging close to the high of 89, invites the gentle bustle of life outdoors\u2014perhaps a leisurely stroll through the park, where the lush greenery holds a promise of shade from the afternoon sun. Tonight, the warmth lingers under a clear sky, with temperatures settling around a comfortable 72, perfect for an evening on the patio or a soft, sweet gathering of friends over drinks as the sun dips below the horizon.\n\nThere is an unmistakable clarity to the day, a clearness that suggests the beauty of both the moment and the unfolding evening. As you consider your attire, light fabrics will serve you well\u2014perhaps a breathable shirt paired with comfortable shorts, allowing for ease as you navigate the pleasant summer air. For those seeking a moment of reprieve from the city\u2019s gentle vibrancy, consider a visit to a local caf\u00e9, where the aroma of freshly brewed coffee mingles with the sounds of laughter and conversation. This day offers a chance to savor life\u2019s simpler pleasures while basking in the warmth of summer.",
-    "color_code": "#F4D03F",
-    "timestamp": "2025-07-24 16:07:22"
+    "weather_report": "As twilight descends upon Boston, the air is pleasantly warm, hinting at the sultry night ahead. The evening sky transitions from a gentle blush of orange to deeper shades of blue, a soft canvas reflecting the day's warmth. A light southwest breeze stirs, whispering through the trees and offering a brief respite from the day\u2019s increasing heat, a harbinger of the sultry night that lies ahead. With temperatures drifting to a comfortable 72 degrees, the ambiance feels inviting for a leisurely stroll or perhaps a seated cup of coffee at a nearby caf\u00e9, where conversations can meander like the wind.\n\nLooking toward tomorrow, the warmth promises continued intensity, with a high near 95\u2014a day not for the faint of heart, especially with the heat index climbing. The forecast hints at isolated rain, a brief flirtation with moisture, but one should remain vigilant for possible thunderstorms after the midday sun reaches its apex. For those venturing out, opting for light, breathable fabrics to combat the day\u2019s heat is wise, coupled with the certainty that hydration will be your steadfast companion. As the sun sets and tomorrow's forecast looms, prepare for a day that calls for vibrant energy tempered with caution, where midday might find some solace in shaded hideaways or cozy indoor spots.",
+    "color_code": "#FFCC66",
+    "timestamp": "2025-07-24 20:34:32"
 }
