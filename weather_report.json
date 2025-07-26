@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-26T06:53:00+00:00",
-            "temperature_f": 71.06,
-            "temperature_c": 21.7,
-            "humidity": 75.59455930106,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 330,
-            "description": "Clear"
+            "timestamp": "2025-07-26T10:53:00+00:00",
+            "temperature_f": 62.959999999999994,
+            "temperature_c": 17.2,
+            "humidity": 93.251499106659,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-26T04:00:00-04:00",
-                "endTime": "2025-07-26T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 68. North wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-07-26T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-26T08:00:00-04:00",
                 "endTime": "2025-07-26T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 82,
@@ -49,14 +30,33 @@
                     "value": 0
                 },
                 "windSpeed": "8 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 82. Northeast wind around 8 mph."
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/smoke/few?size=medium",
+                "shortForecast": "Haze then Sunny",
+                "detailedForecast": "Haze and areas of smoke before noon. Sunny, with a high near 82. East wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-26T18:00:00-04:00",
+                "endTime": "2025-07-27T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 65. South wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn's delicate fingers stretch across Boston, the air carries a gentle warmth, wrapped in the promise of a splendid summer day. The night has been mostly clear, with only a few whispers of breeze dancing through the streets, creating a serene atmosphere perfect for rest. As you awaken to the quiet hum of the city, a subtle anticipation lingers in the air, suggesting a crisp, enchanting day ahead. \n\nWith the sun expected to rise and cast its golden glow over the horizon, the temperature will soon climb to a pleasant warmth, inviting you to step out in comfortable clothing. Lightweight fabrics and perhaps a light sweater will suit the mild morning, transforming effortlessly into breezy summer attire as the day progresses. Whether you choose to stroll along the waterfront, savor a tranquil moment in a local caf\u00e9, or discover one of Boston's historic neighborhoods, each activity will be bathed in sunshine and the gentle caress of a northeastern wind. Embrace the day with the spirit of exploration, as this lovely weather beckons you to find joy in the simple pleasures of your surroundings.",
-    "color_code": "#F5E0B9",
-    "timestamp": "2025-07-26 04:09:08"
+    "weather_report": "As the morning unfolds in Boston, a gentle haze lingers in the air, a remnant of last night's whispers. The sun is poised to break through, promising a soft embrace of warmth, with temperatures nudging the pleasant threshold of 82 degrees. While the haze casts a muted veil over the landscape, it also imbues the day with a sense of tranquility, a quiet reminder that the beauty of the city often lies in its subtleties. An east wind, barely rustling the leaves, offers a tender touch, inviting residents into the morning with an air that stirs curiosity.\n\nAs night approaches, the skies will mellow to a partly cloudy palette, perfect for late strolls along the river or quiet moments on a favorite bench in the park. With temperatures dipping to a comfortable 65, the air will remain inviting, encouraging light layers\u2014a perfect opportunity to don a soft sweater or light jacket as the evening cools. The warmth of the day may lure you outdoors, beckoning you to explore the local shops or enjoy a leisurely meal alfresco, all while the city's vibrant pulse thrums gently around you. In this serene backdrop, where every street seems to contain a hidden gem, the day invites you to linger just a little longer, embracing the beauty of the mundane, and savoring life\u2019s simplest pleasures.",
+    "color_code": "#A8C8B5",
+    "timestamp": "2025-07-26 08:11:22"
 }
