@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-27T06:53:00+00:00",
-            "temperature_f": 60.08,
-            "temperature_c": 15.6,
-            "humidity": 89.621112131842,
+            "timestamp": "2025-07-27T09:53:00+00:00",
+            "temperature_f": 57.92,
+            "temperature_c": 14.4,
+            "humidity": 96.813917561395,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-27T04:00:00-04:00",
-                "endTime": "2025-07-27T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 61. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-07-27T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-27T08:00:00-04:00",
                 "endTime": "2025-07-27T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 76,
+                "temperature": 78,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 71
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain_showers,70?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely after 9am. Mostly cloudy, with a high near 76. South wind 7 to 10 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/tsra,70?size=medium",
+                "shortForecast": "Showers And Thunderstorms Likely",
+                "detailedForecast": "A chance of rain showers between 9am and noon, then showers and thunderstorms likely. Mostly cloudy, with a high near 78. South wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-27T18:00:00-04:00",
+                "endTime": "2025-07-28T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 21
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 69. Southwest wind 5 to 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night gently cradles Boston, a veil of cloudiness shields the city, wrapping it in a serene hush. The low temperature sits comfortably around 61, making it a night best suited for settling into comforting layers. Eyes that linger upon the horizon might find a hint of light shimmering faintly in the distance, as the southwest wind nudges along a soft breeze, brushing against the skin like a whispered secret.\n\nAs morning rises, the dance of raindrops is poised to begin, cascading softly after the clock strikes nine. The air will thicken with anticipation as the day starts off mostly cloudy, with the heat reaching a cozy 76. A casual wander outside may be in order, where the gentle south winds beckon, yet one must be prepared for the likelihood of showers\u2014there\u2019s a solid chance that the clouds will release their burden, resulting in little more than a smattering of rain. Opting for a light raincoat or an umbrella would be wise, allowing one to embrace the warmth while remaining shielded, as the day unfolds with the promise of fresh scents mingling in the air. It is a fine opportunity to meander through local parks, savoring the muted beauty of droplets clinging to leaves, or perhaps to enjoy a caf\u00e9 visit, where the rhythmic sound of rain creates a comforting soundtrack to the afternoon.",
-    "color_code": "#4b4f8b",
-    "timestamp": "2025-07-27 04:09:14"
+    "weather_report": "As the morning unfolds, Boston awakens beneath a canopy of muted clouds, a curtain that softens the day\u2019s light yet heralds the potential for rain. There lingers the hushed promise of showers, perhaps even the rumble of distant thunder, as the temperature seeks the warmth of a modest summer high. The softness in the air is tinged with humidity, a gentle reminder that the atmosphere may indulge us with fleeting bursts of rain. While the south wind whispers through the streets at a leisurely pace, it is the wistful clouds overhead that paint a picture of the day\u2014both inviting and cloaked in uncertainty.\n\nAs the day stretches on, donning layers seems wise; a light jacket for morning adventures may soon give way to the comfort of a simple cotton shirt as the warmth of the approaching afternoon settles in. The chance of a fleeting summer storm adds a certain unpredictability to the day, making it ideal for relaxed exploration\u2014perhaps a stroll through the shaded paths of a local park or a quiet moment at a caf\u00e9, where one can savor a warm drink as the first pelts of rain find their way to the ground. The park benches beckon today, waiting patiently for those who seek solace beneath the sprawling boughs of trees, where even the tread of a summer rain can evoke nostalgia for simpler times.",
+    "color_code": "#B0C4D9",
+    "timestamp": "2025-07-27 08:11:58"
 }
