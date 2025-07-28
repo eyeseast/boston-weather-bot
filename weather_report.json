@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-28T06:26:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
+            "timestamp": "2025-07-28T10:59:00+00:00",
+            "temperature_f": 66.92,
+            "temperature_c": 19.4,
             "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-28T04:00:00-04:00",
-                "endTime": "2025-07-28T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 68. West wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-07-28T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-28T08:00:00-04:00",
                 "endTime": "2025-07-28T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 91,
+                "temperature": 90,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -49,14 +30,33 @@
                     "value": 2
                 },
                 "windSpeed": "5 to 9 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/fog/hot?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Sunny",
-                "detailedForecast": "Patchy fog before 7am. Mostly sunny, with a high near 91. North wind 5 to 9 mph."
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 90. Northeast wind 5 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-28T18:00:00-04:00",
+                "endTime": "2025-07-29T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 70,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 70. South wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn kisses the horizon, Boston finds itself enveloped in a soft shroud of patchy fog, the kind that seems to invite contemplation. The air is still and carries a gentle whisper of warmth, lingering near 68 degrees. A delicate west wind drifts lazily, reminding those awake in the early hours that not all mornings are brisk and bright. The world outside is muted, the edges of the city blurred into a dreamlike haze.\n\nHowever, as morning unfurls, the fog is expected to gradually retreat, making way for the warmth of the sun. Come midday, it will be a day of brilliant blue skies and radiant sunshine, with temperatures rising to a sultry high near 91. A soft north wind will provide a welcome counterpoint to the heat, coaxing city dwellers into the outdoors where one might stroll through the Boston Common or pause at a quaint caf\u00e9 for a leisurely cup of coffee. As for attire, light fabrics are advisable\u2014perhaps a linen shirt paired with comfortable shorts, complemented by the evergreen essence of summer sandals. In this hazy yet promising morning, the promise of a vibrant day awaits.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-07-28 04:11:52"
+    "weather_report": "In Boston today, the sun breaks through, casting a warm glow that hints at a summer day filled with possibilities. With a balmy high nearing 90 degrees, the atmosphere feels ripe for outdoor endeavors. A gentle northeast breeze whispers through the streets, laced with just enough freshness to temper the warmth. As twilight beckons, the skies will shift into a soothing blanket of clarity, settling around a comfortable low of 70, inviting those drawn out by the day\u2019s splendor to linger under the stars.\n\nThis is a day made for leisurely strolls along the waterfront or perhaps a visit to a quiet caf\u00e9, where one can savor a chilled beverage while absorbing the vibrant energy of the city. Dress in light fabrics\u2014perhaps a crisp linen shirt paired with breathable cotton trousers\u2014as the sun's embrace can feel intense at midday. As evening approaches, a light layer would make the transition more comfortable against the gentle evening breeze. Regardless of the melting heat, the sky's promise of clear vistas encourages exploration, whether it be a quiet read in the park or a casual outing with friends.",
+    "color_code": "#F0E68C",
+    "timestamp": "2025-07-28 08:13:32"
 }
