@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-27T17:23:00+00:00",
-            "temperature_f": 68.0,
-            "temperature_c": 20,
-            "humidity": 93.389863240725,
-            "wind_speed_mph": 16.91172,
+            "timestamp": "2025-07-27T22:53:00+00:00",
+            "temperature_f": 73.94,
+            "temperature_c": 23.3,
+            "humidity": 84.813867010791,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 190,
-            "description": "Light Rain and Fog/Mist"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-27T15:00:00-04:00",
-                "endTime": "2025-07-27T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 78,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 31
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,30?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a high near 78. Southwest wind around 12 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-27T18:00:00-04:00",
+                "startTime": "2025-07-27T20:00:00-04:00",
                 "endTime": "2025-07-28T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 68,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 19
+                    "value": 9
                 },
-                "windSpeed": "5 to 12 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,20/fog?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms then Patchy Fog",
-                "detailedForecast": "A slight chance of showers and thunderstorms before 7pm, then patchy fog. Mostly cloudy, with a low around 68. Southwest wind 5 to 12 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
+                "shortForecast": "Mostly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after midnight. Mostly cloudy, with a low around 68. Southwest wind 5 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-07-28T06:00:00-04:00",
+                "endTime": "2025-07-28T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 91,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/fog/hot?size=medium",
+                "shortForecast": "Patchy Fog then Sunny",
+                "detailedForecast": "Patchy fog before 7am. Sunny, with a high near 91. North wind 5 to 9 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, the air hangs heavy with the promise of rain, casting a muted gray over the cityscape. The chill whispers through the leaves, marking a shift from the warmth of the day. With a high reaching around 78 degrees, it feels somewhat stifled, the humidity lingering like an old friend. The weather carries with it a thirty percent chance of scattered thunderstorms, with low rumblings of thunder occasionally captivating attention\u2014a reminder of nature's unpredictability. As daylight slowly wanes, thoughts of patchy fog begin to arise, adding an air of mystery to the evening.\n\nAs night approaches, temperatures will retreat to a comfortable 68 degrees, making light layers an ideal choice for the remaining hours. A soft breeze flows gently from the southwest, creating a peaceful atmosphere for those who might venture outdoors. It would be wise to dress in breathable fabrics, perhaps a light sweater, as humidity casts its spell. As the gloom sets in, it may be a soothing time to seek solace in a favorite caf\u00e9, savoring a warm cup of tea, or perhaps to enjoy a leisurely stroll while listening to the distant hum of the city amidst twilight. While the likelihood of brief showers lingers, the promise of tranquility prevails, inviting contemplative moments under the soft blanket of evening.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-07-27 16:07:44"
+    "weather_report": "As night envelops Boston, a gentle shroud of patchy fog begins to weave its way through the city, softening the edges of buildings and blurring streetlights into hazy pools of light. The warmth of the evening lingers, with temperatures settling around a comfortable 68 degrees. It's a night that invites you to take a languorous stroll, wrapped in a light jacket that shields against the coolness creeping in, while the soft whisper of a southwest breeze carries a hint of summer's lingering warmth.\n\nCome morning, the fog will yield to the sun, revealing a vibrant blue sky that promises to warm the city to a near-scorching 91 degrees. A gentle north wind may keep the heat from being oppressive, but the allure of a bright day after this hazy night calls for comfortable attire\u2014perhaps a breathable cotton shirt and light shorts, perfect for a day out. The park, the waterfront, or even a hidden caf\u00e9 terrace will welcome those seeking the simplest pleasures of life. As you navigate the unfolding day, consider the charm of a leisurely visit to a local bookstore or a quiet afternoon in the shade of trees, embracing the beauty of summer in the city.",
+    "color_code": "#B0E0E6",
+    "timestamp": "2025-07-27 20:37:24"
 }
