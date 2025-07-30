@@ -7,7 +7,7 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-30T06:53:00+00:00",
+            "timestamp": "2025-07-30T10:53:00+00:00",
             "temperature_f": 69.08,
             "temperature_c": 20.6,
             "humidity": 96.36167032456,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-07-30T04:00:00-04:00",
-                "endTime": "2025-07-30T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 71. North wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-07-30T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-07-30T08:00:00-04:00",
                 "endTime": "2025-07-30T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 96,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 10
                 },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "N",
+                "windSpeed": "1 to 5 mph",
+                "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 96. Heat index values as high as 98. North wind 2 to 6 mph. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Sunny, with a high near 96. Heat index values as high as 98. East wind 1 to 5 mph. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-30T18:00:00-04:00",
+                "endTime": "2025-07-31T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 14
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 69. Northwest wind 2 to 6 mph. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night lays a gentle veil over Boston, the air remains warm, hinting at a sultry summer day that waits to unfurl. The low temperature, resting around a balmy 71 degrees, caresses the skin as soft gusts of wind whisper through the trees. With no fog shrouding the city, the stars appear as distant diamonds against the vastness, twinkling softly amidst the electric glow of the skyline. Such a night invites quiet introspection or perhaps a leisurely midnight stroll along the waterfront, where the city\u2019s vibrancy hums even in these dark hours.\n\nAs dawn approaches, the promise of a sun-drenched Wednesday reveals itself. A radiant blue sky will bathe the Boston landscape in light, with temperatures soaring near 96 degrees under the sun's full embrace. The heat index will flirt with discomfort, urging residents to find cool shade and steady hydration. In the face of such warmth, light fabrics and breathable linens are the attire of the day \u2014 a sensible choice as one navigates through bustling streets or meanders along the scenic Charles River. Engaging in a slow afternoon at a favorite caf\u00e9 with an ice-cold drink or an afternoon book in the park seems the most prudent of choices. Before the oppressive heat sets in, a morning walk can also revitalize the spirit, allowing for a serene start to the day.",
-    "color_code": "#FFCC00",
-    "timestamp": "2025-07-30 04:10:46"
+    "weather_report": "In Boston, the daylight unfurls under a tapestry of cerulean skies, a perfect backdrop for the summer warmth that swells around 96 degrees. While the sun shines with an earnest clarity, an underlying heat beckons caution, nudging the heat index closer to a comforting embrace of nearly 98. With a gentle easterly breeze whispering through, the day carries with it an inviting charm, though mirages of humidity may hint at a certain stickiness that lingers in the air. As evening descends, the mercury will retreat to a snug 69 degrees, allowing for a refreshing reprieve under partly cloudy skies, signaling the perfect moment for unwinding after a sultry day.\n\nEmbracing this balmy embrace, one might consider light, breathable fabrics, perhaps a short-sleeved shirt paired with comfortable shorts for daytime wanderings. As the sun begins to dim, a light sweater could serve as a delightful companion for those outdoor caf\u00e9s or strolls along the harbor. Given the day\u2019s embrace of warmth and clarity, one might find joy in leisurely walks through Boston Common, picnicking amidst the shade of age-old trees, or enjoying a quiet moment at a local bookstore, basking in the ambient hum of afternoon conversations. Today offers a unique blend of simple pleasures, a tribute to the beauty of a summer's day in the heart of the city.",
+    "color_code": "#66B2FF",
+    "timestamp": "2025-07-30 08:13:34"
 }
