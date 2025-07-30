@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-30T10:53:00+00:00",
-            "temperature_f": 69.08,
-            "temperature_c": 20.6,
-            "humidity": 96.36167032456,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-07-30T18:53:00+00:00",
+            "temperature_f": 93.02,
+            "temperature_c": 33.9,
+            "humidity": 38.49225654696,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": null,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-07-30T08:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-07-30T16:00:00-04:00",
                 "endTime": "2025-07-30T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 96,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 10
+                    "value": 5
                 },
-                "windSpeed": "1 to 5 mph",
-                "windDirection": "E",
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 96. Heat index values as high as 98. East wind 1 to 5 mph. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Sunny, with a high near 96. Heat index values as high as 96. Southwest wind around 6 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-07-30T18:00:00-04:00",
                 "endTime": "2025-07-31T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 69,
+                "temperature": 70,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 14
+                    "value": 15
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 69. Northwest wind 2 to 6 mph. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,20?size=medium",
+                "shortForecast": "Partly Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 5am. Partly cloudy, with a low around 70. Northwest wind around 6 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Boston, the daylight unfurls under a tapestry of cerulean skies, a perfect backdrop for the summer warmth that swells around 96 degrees. While the sun shines with an earnest clarity, an underlying heat beckons caution, nudging the heat index closer to a comforting embrace of nearly 98. With a gentle easterly breeze whispering through, the day carries with it an inviting charm, though mirages of humidity may hint at a certain stickiness that lingers in the air. As evening descends, the mercury will retreat to a snug 69 degrees, allowing for a refreshing reprieve under partly cloudy skies, signaling the perfect moment for unwinding after a sultry day.\n\nEmbracing this balmy embrace, one might consider light, breathable fabrics, perhaps a short-sleeved shirt paired with comfortable shorts for daytime wanderings. As the sun begins to dim, a light sweater could serve as a delightful companion for those outdoor caf\u00e9s or strolls along the harbor. Given the day\u2019s embrace of warmth and clarity, one might find joy in leisurely walks through Boston Common, picnicking amidst the shade of age-old trees, or enjoying a quiet moment at a local bookstore, basking in the ambient hum of afternoon conversations. Today offers a unique blend of simple pleasures, a tribute to the beauty of a summer's day in the heart of the city.",
-    "color_code": "#66B2FF",
-    "timestamp": "2025-07-30 08:13:34"
+    "weather_report": "This afternoon in Boston, the sun reigns supreme, bathing the city in warmth that draws people outdoors, eager to embrace the sultry air. The temperature hovers just shy of 96 degrees, while the heat index matches it, presenting an inviting intensity that speaks of summer\u2019s peak. With a gentle southwest breeze at play, the atmosphere remains lively yet charged, providing a respite from the heat even as the sun bathes the world in a golden glow. As the afternoon lazily drifts toward evening, the sky holds a few fluffy clouds, mere wisps that dance against a backdrop of brilliant blue.\n\nAs twilight approaches, the city anticipates a slight chance of rain, seemingly coy with only a 20% likelihood of showers past 5 AM. For the evening hours, the temperature will ease to around 70, inviting a shift in atmosphere as the vibrant colors of dusk take over. Given these conditions, it may be best to don light, breathable clothing, allowing for comfort in the heat while keeping a light jacket handy for the cooler evening air. The day\u2019s warmth inspires leisurely strolls along the waterfront, perhaps a visit to a cozy caf\u00e9 to enjoy an evening iced beverage, watching the light evolve until it softly succumbs to night. This blend of sun, warmth, and the possibility of rain beckons simple joys, nudging residents to savor the languor of summer\u2019s embrace.",
+    "color_code": "#FFD700",
+    "timestamp": "2025-07-30 16:07:26"
 }
