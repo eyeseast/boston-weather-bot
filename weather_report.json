@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-29T21:53:00+00:00",
-            "temperature_f": 93.91999999999999,
-            "temperature_c": 34.4,
-            "humidity": 37.434084036473,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 270,
+            "timestamp": "2025-07-30T06:53:00+00:00",
+            "temperature_f": 69.08,
+            "temperature_c": 20.6,
+            "humidity": 96.36167032456,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-29T16:00:00-04:00",
-                "endTime": "2025-07-29T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 98,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 98. Heat index values as high as 101. West wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-07-29T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-07-30T04:00:00-04:00",
                 "endTime": "2025-07-30T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 71,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "2 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 71. Heat index values as high as 98. North wind 2 to 7 mph."
+                "detailedForecast": "Mostly clear, with a low around 71. North wind around 2 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-07-30T06:00:00-04:00",
+                "endTime": "2025-07-30T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 96,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 10
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 96. Heat index values as high as 98. North wind 2 to 6 mph. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As twilight settles over Boston, the air carries a warmth hinting at the day just passed\u2014a day painted with sunlight and layered with a palpable energy. The sun brimmed high, wrapping the city in a golden embrace, nudging the temperature toward a sultry peak. It was a summer day, no doubt, one that coaxed locals out into the streets, with the heat index hinting at a humidity that stirred a languid kind of vigor, encouraging folks to savor ice-cold refreshments under the shade of leafy trees.\n\nTonight, as the sky darkens, the day transforms. The lingering warmth hangs in the air, a gentle memory of the sun\u2019s farewell, as gentle breezes murmur through the night. With temperatures dipping to a comfortable 71, it invites a relaxed atmosphere, perfect for leisurely strolls along the Charles. Long sleeves or a light jacket might be prudent as the evening moves into its cool embrace. Consider a quiet dinner at an outdoor caf\u00e9, savoring the flavors of late summer, as the sounds of laughter and conversation weave seamlessly into the nocturnal symphony of the city. If the urge to venture out is strong, perhaps a visit to a nearby park with friends will provide the kind of ambiance where conversations can unfold amidst the soft glow of lamplight.\n\nThis evening presents a rare blend of warmth and comfort, urging one to enjoy the mundane pleasures of life. Dress lightly and enjoy the simple act of being outdoors as the urban landscape unveils its charm beneath the deepening twilight.",
-    "color_code": "#D7B7A4",
-    "timestamp": "2025-07-29 20:35:05"
+    "weather_report": "As the night lays a gentle veil over Boston, the air remains warm, hinting at a sultry summer day that waits to unfurl. The low temperature, resting around a balmy 71 degrees, caresses the skin as soft gusts of wind whisper through the trees. With no fog shrouding the city, the stars appear as distant diamonds against the vastness, twinkling softly amidst the electric glow of the skyline. Such a night invites quiet introspection or perhaps a leisurely midnight stroll along the waterfront, where the city\u2019s vibrancy hums even in these dark hours.\n\nAs dawn approaches, the promise of a sun-drenched Wednesday reveals itself. A radiant blue sky will bathe the Boston landscape in light, with temperatures soaring near 96 degrees under the sun's full embrace. The heat index will flirt with discomfort, urging residents to find cool shade and steady hydration. In the face of such warmth, light fabrics and breathable linens are the attire of the day \u2014 a sensible choice as one navigates through bustling streets or meanders along the scenic Charles River. Engaging in a slow afternoon at a favorite caf\u00e9 with an ice-cold drink or an afternoon book in the park seems the most prudent of choices. Before the oppressive heat sets in, a morning walk can also revitalize the spirit, allowing for a serene start to the day.",
+    "color_code": "#FFCC00",
+    "timestamp": "2025-07-30 04:10:46"
 }
