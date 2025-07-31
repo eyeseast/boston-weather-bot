@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-30T22:53:00+00:00",
-            "temperature_f": 89.06,
-            "temperature_c": 31.7,
-            "humidity": 51.869332850805,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 250,
-            "description": "Clear"
+            "timestamp": "2025-07-31T17:53:00+00:00",
+            "temperature_f": 71.96,
+            "temperature_c": 22.2,
+            "humidity": 68.375390071082,
+            "wind_speed_mph": 41.07132,
+            "wind_direction": 40,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-07-30T20:00:00-04:00",
-                "endTime": "2025-07-31T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 12
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 70. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-07-31T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-07-31T16:00:00-04:00",
                 "endTime": "2025-07-31T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 77,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 54
+                    "value": 69
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/tsra,50?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 2pm, then a chance of showers and thunderstorms. Mostly cloudy. High near 77, with temperatures falling to around 70 in the afternoon. Northeast wind 6 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/tsra,70?size=medium",
+                "shortForecast": "Showers And Thunderstorms Likely",
+                "detailedForecast": "Showers and thunderstorms likely. Cloudy. High near 77, with temperatures falling to around 68 in the afternoon. Northeast wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-07-31T18:00:00-04:00",
+                "endTime": "2025-08-01T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 82
+                },
+                "windSpeed": "8 to 13 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,80?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 61. Northeast wind 8 to 13 mph. Chance of precipitation is 80%. New rainfall amounts between 1 and 2 inches possible."
             }
         ]
     },
-    "weather_report": "As the sun dips below the horizon, Boston embraces an evening cloaked in a gentle embrace of partially cloudy skies, with the temperature settled comfortably around 70. A soft, northwest breeze carries with it a hint of coolness, an invitation to step outside and relish the twilight. The day has been alive with expectation, though remnants of moisture linger in the air, hinting at the possibility of rain. As tomorrow dawns, the clouds will gather, an uncertainty blossoming with a chance of showers and thunderstorms weaving through the afternoon. It is a day that asks for caution ahead of the unpredictable, yet the warmth of 77 will be a soft reminder of summer's hold, even as temperatures subtly shift to a cozy 70 as the day unfolds.\n\nFor those out under the fading light, light layers will suit the evening stroll, offering a touch of comfort against the cooling air. As you navigate this urban landscape, you may find satisfaction in a simple coffee house, where the steam intertwines with the ambiance of quiet conversation, or perhaps a leisurely walk along the Charles River, the soft lap of water against the shore harmonizing with distant city sounds. With a day filled with promise and a night offering tranquility, Boston presents a canvas where one can simply be, savoring both the fleeting moments of warmth and the eternal magic of this enchanting city.",
-    "color_code": "#b0c4e8",
-    "timestamp": "2025-07-30 20:34:46"
+    "weather_report": "As dusk approaches, Boston finds itself wrapped in a cloak of clouds, the air heavy with the promise of rainfall. The forecast suggests this afternoon will be punctuated by showers and thunderstorms, with temperatures softening from a modest warmth into the cool embrace of early evening. The sky, darkened by overcast clouds, hints at the boisterous storms yet to come, carrying with them the potential for torrential downpours and invigorating thunder. It\u2019s wise to embrace layers today, opting for a light waterproof jacket paired with comfortable footwear, as puddles will soon dot the streets. An umbrella, both a shield and perhaps a companion in your explorations, should accompany you as you navigate through the city\u2019s intimate corners.\n\nDespite the dreary ambiance, there are subtle pleasures to be found today. Perhaps a visit to a cozy caf\u00e9, where a warm drink can ward off the chill, offers a chance to revel in the rhythm of raindrops against the window. Artisanal shops, alive with character, beckon those with a need for discovery, their displays glistening in the soft, reflective light. With the impending storms likely to transform the streets into a refreshing canvas by nightfall, indoor pursuits seem wise as the afternoon draws to a close. As you settle into your surroundings, the sound of distant thunder becomes a soothing reminder of nature\u2019s power, transforming the day from simply ordinary into a moment eagerly anticipated.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2025-07-31 16:08:24"
 }
