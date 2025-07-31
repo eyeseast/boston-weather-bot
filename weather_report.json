@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-30T18:53:00+00:00",
-            "temperature_f": 93.02,
-            "temperature_c": 33.9,
-            "humidity": 38.49225654696,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": null,
+            "timestamp": "2025-07-30T22:53:00+00:00",
+            "temperature_f": 89.06,
+            "temperature_c": 31.7,
+            "humidity": 51.869332850805,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 250,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-30T16:00:00-04:00",
-                "endTime": "2025-07-30T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 96,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 96. Heat index values as high as 96. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-30T18:00:00-04:00",
+                "startTime": "2025-07-30T20:00:00-04:00",
                 "endTime": "2025-07-31T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 70,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 15
+                    "value": 12
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,20?size=medium",
-                "shortForecast": "Partly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 5am. Partly cloudy, with a low around 70. Northwest wind around 6 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 70. Northwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-07-31T06:00:00-04:00",
+                "endTime": "2025-07-31T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 77,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 54
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/tsra,50?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers before 2pm, then a chance of showers and thunderstorms. Mostly cloudy. High near 77, with temperatures falling to around 70 in the afternoon. Northeast wind 6 to 10 mph. Chance of precipitation is 50%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston, the sun reigns supreme, bathing the city in warmth that draws people outdoors, eager to embrace the sultry air. The temperature hovers just shy of 96 degrees, while the heat index matches it, presenting an inviting intensity that speaks of summer\u2019s peak. With a gentle southwest breeze at play, the atmosphere remains lively yet charged, providing a respite from the heat even as the sun bathes the world in a golden glow. As the afternoon lazily drifts toward evening, the sky holds a few fluffy clouds, mere wisps that dance against a backdrop of brilliant blue.\n\nAs twilight approaches, the city anticipates a slight chance of rain, seemingly coy with only a 20% likelihood of showers past 5 AM. For the evening hours, the temperature will ease to around 70, inviting a shift in atmosphere as the vibrant colors of dusk take over. Given these conditions, it may be best to don light, breathable clothing, allowing for comfort in the heat while keeping a light jacket handy for the cooler evening air. The day\u2019s warmth inspires leisurely strolls along the waterfront, perhaps a visit to a cozy caf\u00e9 to enjoy an evening iced beverage, watching the light evolve until it softly succumbs to night. This blend of sun, warmth, and the possibility of rain beckons simple joys, nudging residents to savor the languor of summer\u2019s embrace.",
-    "color_code": "#FFD700",
-    "timestamp": "2025-07-30 16:07:26"
+    "weather_report": "As the sun dips below the horizon, Boston embraces an evening cloaked in a gentle embrace of partially cloudy skies, with the temperature settled comfortably around 70. A soft, northwest breeze carries with it a hint of coolness, an invitation to step outside and relish the twilight. The day has been alive with expectation, though remnants of moisture linger in the air, hinting at the possibility of rain. As tomorrow dawns, the clouds will gather, an uncertainty blossoming with a chance of showers and thunderstorms weaving through the afternoon. It is a day that asks for caution ahead of the unpredictable, yet the warmth of 77 will be a soft reminder of summer's hold, even as temperatures subtly shift to a cozy 70 as the day unfolds.\n\nFor those out under the fading light, light layers will suit the evening stroll, offering a touch of comfort against the cooling air. As you navigate this urban landscape, you may find satisfaction in a simple coffee house, where the steam intertwines with the ambiance of quiet conversation, or perhaps a leisurely walk along the Charles River, the soft lap of water against the shore harmonizing with distant city sounds. With a day filled with promise and a night offering tranquility, Boston presents a canvas where one can simply be, savoring both the fleeting moments of warmth and the eternal magic of this enchanting city.",
+    "color_code": "#b0c4e8",
+    "timestamp": "2025-07-30 20:34:46"
 }
