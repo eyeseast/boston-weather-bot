@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-01T05:53:00+00:00",
-            "temperature_f": 62.059999999999995,
-            "temperature_c": 16.7,
-            "humidity": 93.226340261586,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 40,
+            "timestamp": "2025-08-01T08:53:00+00:00",
+            "temperature_f": 60.08,
+            "temperature_c": 15.6,
+            "humidity": 96.222192128596,
+            "wind_speed_mph": 24.964920000000003,
+            "wind_direction": 30,
             "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-01T04:00:00-04:00",
-                "endTime": "2025-08-01T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,100?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers and patchy fog. Cloudy, with a low around 61. Northeast wind around 10 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-08-01T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-08-01T08:00:00-04:00",
                 "endTime": "2025-08-01T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 70,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 95
+                    "value": 76
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,100/bkn?size=medium",
-                "shortForecast": "Rain Showers Likely then Partly Sunny",
-                "detailedForecast": "Rain showers likely and patchy fog before 10am. Partly sunny, with a high near 70. Northeast wind around 10 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,80/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Partly Sunny",
+                "detailedForecast": "Patchy fog and showers and thunderstorms likely before 9am, then a chance of rain between 9am and 11am. Some of the storms could produce heavy rain. Partly sunny, with a high near 70. Northeast wind around 12 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-01T18:00:00-04:00",
+                "endTime": "2025-08-02T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 57. North wind 3 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the night lingers in Boston, the world outside is shrouded in rain showers and a veil of fog, a melancholy embrace that softens the edges of the city. Cool and clammy, the air wraps around you like a damp scarf, urging you to find comfort indoors. The temperature holds a gentle promise of about 61, muting the vibrant pulse of summer but providing a refreshing break from the heat. With rain whispering against the windowpanes, it\u2019s decidedly the kind of night that calls for cozy blankets and warm cups of tea, perhaps with a touch of honey to chase away the chill. \n\nAs dawn breaks into tomorrow, the clouds may shift to reveal fleeting glimpses of sunlight, yet those rain showers are hanging on. Highs will reach around 70, rendering the day an inviting balance of warmth punctuated by the remnants of early rains. Those venturing outside should consider a light jacket for the morning fog. A stroll through a nearly deserted park, listening to the soft symphony of raindrops on leaves, could offer a serenely reflective start to the day\u2014ideal for literary musings or quiet thought. As the sun stretches its arms and the skies brighten, the splashes of rain will invigorate the bustling life of the city, allowing for the simple joys of a caf\u00e9 stop, as you watch life unfold from a warm corner.",
-    "color_code": "#A5B0B1",
-    "timestamp": "2025-08-01 04:10:36"
+    "weather_report": "As the dawn unfurls over Boston, a tapestry of muted grays envelops the city, with patchy fog clinging to the rooftops and streets still damp from last night\u2019s rains. A lingering heaviness in the air suggests that showers and thunderstorms are likely to hang around for just a little while longer, possibly before yielding to a shy sun that may break free as the day progresses. The atmosphere feels charged with anticipation, a reminder that nature often sways between the gentleness of a summer day and the sudden ferocity of storms. As the clock ticks by, the promise of partly sunny skies seems to lean on the horizon, beckoning those willing to seek a respite from the damp.\n\nWith temperatures reaching into the comfortable embrace of the seventies by midday, the chill of the morning seems destined to melt away, inviting Bostonians outside. A light jacket or a hoodie, perhaps paired with breathable pants, would suit the mood and the weather well\u2014with just enough room for layers in case the winds stir up again. If you're inclined to stroll, consider the charm of local cafes or the quietude of the parks where you might find a moment to savor a warm drink. As the hours progress toward evening and the air cools to a more laid-back tempo, the evening invites a comfortable gathering indoors or a stroll along the shore, letting the gentle whispers of the breeze weave stories against your skin.",
+    "color_code": "#A9B4C8",
+    "timestamp": "2025-08-01 08:13:20"
 }
