@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-07-31T17:53:00+00:00",
-            "temperature_f": 71.96,
-            "temperature_c": 22.2,
-            "humidity": 68.375390071082,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 40,
-            "description": "Cloudy"
+            "timestamp": "2025-07-31T22:53:00+00:00",
+            "temperature_f": 64.04,
+            "temperature_c": 17.8,
+            "humidity": 86.962935510424,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 50,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-07-31T16:00:00-04:00",
-                "endTime": "2025-07-31T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 77,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 69
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,70?size=medium",
-                "shortForecast": "Showers And Thunderstorms Likely",
-                "detailedForecast": "Showers and thunderstorms likely. Cloudy. High near 77, with temperatures falling to around 68 in the afternoon. Northeast wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-07-31T18:00:00-04:00",
+                "startTime": "2025-07-31T20:00:00-04:00",
                 "endTime": "2025-08-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -52,11 +33,30 @@
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/tsra,80?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 61. Northeast wind 8 to 13 mph. Chance of precipitation is 80%. New rainfall amounts between 1 and 2 inches possible."
+                "detailedForecast": "Showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 61. Northeast wind 8 to 13 mph. Chance of precipitation is 80%. New rainfall amounts between three quarters and one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-08-01T06:00:00-04:00",
+                "endTime": "2025-08-01T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 64
+                },
+                "windSpeed": "13 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/bkn?size=medium",
+                "shortForecast": "Rain Showers Likely then Mostly Cloudy",
+                "detailedForecast": "Rain showers likely before 11am. Mostly cloudy, with a high near 69. Northeast wind around 13 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dusk approaches, Boston finds itself wrapped in a cloak of clouds, the air heavy with the promise of rainfall. The forecast suggests this afternoon will be punctuated by showers and thunderstorms, with temperatures softening from a modest warmth into the cool embrace of early evening. The sky, darkened by overcast clouds, hints at the boisterous storms yet to come, carrying with them the potential for torrential downpours and invigorating thunder. It\u2019s wise to embrace layers today, opting for a light waterproof jacket paired with comfortable footwear, as puddles will soon dot the streets. An umbrella, both a shield and perhaps a companion in your explorations, should accompany you as you navigate through the city\u2019s intimate corners.\n\nDespite the dreary ambiance, there are subtle pleasures to be found today. Perhaps a visit to a cozy caf\u00e9, where a warm drink can ward off the chill, offers a chance to revel in the rhythm of raindrops against the window. Artisanal shops, alive with character, beckon those with a need for discovery, their displays glistening in the soft, reflective light. With the impending storms likely to transform the streets into a refreshing canvas by nightfall, indoor pursuits seem wise as the afternoon draws to a close. As you settle into your surroundings, the sound of distant thunder becomes a soothing reminder of nature\u2019s power, transforming the day from simply ordinary into a moment eagerly anticipated.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-07-31 16:08:24"
+    "weather_report": "As evening descends upon Boston, a shroud of clouds blankets the sky, hinting at the tumult that is to follow. The air is thick with anticipation, the humidity a gentle reminder of the storms that loom. Tonight, the city may find itself enveloped in showers and the rumbles of thunder, as the heavens prepare to release their bounty. With a temperature settling around a comfortable 61 degrees, a light jacket is advised, paired with a sturdy umbrella, as the promise of heavy rain lingers\u2014newfall accumulating to nearly an inch could transform sidewalks into shimmering rivulets.\n\nTomorrow morning offers a respite from the storm's fury, but only briefly. Expect rain showers likely to greet the early riser, cloaked in the lingering gray of the departing storm. The day may struggle to break free from the overcast, with a high of 69 degrees nudging toward the realm of pleasantness, though Northeast winds at a steady pace remind us that summer\u2019s warmth is still finding its balance. Those venturing out might consider footwear that can withstand dampness, and perhaps a heavier shirt to combat the brisk wind. While the natural light may be subdued, the city still holds promise. A stroll amidst the rain-soaked streets to savor the aroma of fresh coffee and baked pastries, or a leisurely wander through a gallery\u2014each activity unfolding gently beneath the enigmatic cloak of the Boston skies\u2014presents a fitting embrace for the evening and the coming day.",
+    "color_code": "#556B2F",
+    "timestamp": "2025-07-31 20:39:48"
 }
