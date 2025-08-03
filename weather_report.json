@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-02T16:53:00+00:00",
-            "temperature_f": 75.02,
-            "temperature_c": 23.9,
-            "humidity": 44.565014025966,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": null,
-            "description": ""
+            "timestamp": "2025-08-02T18:53:00+00:00",
+            "temperature_f": 75.92,
+            "temperature_c": 24.4,
+            "humidity": 46.506326792909,
+            "wind_speed_mph": 33.01812,
+            "wind_direction": 80,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-02T16:00:00-04:00",
-                "endTime": "2025-08-02T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 77,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 77. East wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-02T18:00:00-04:00",
+                "startTime": "2025-08-02T20:00:00-04:00",
                 "endTime": "2025-08-03T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 58. South wind around 6 mph."
+                "detailedForecast": "Mostly clear, with a low around 58. South wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-08-03T06:00:00-04:00",
+                "endTime": "2025-08-03T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 85,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "1 to 5 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 85. Southwest wind 1 to 5 mph."
             }
         ]
     },
-    "weather_report": "As afternoon unfolds in Boston, the sky is adorned with a delightful tapestry of sun and clouds, creating a backdrop that invites exploration. The high temperature hovers in the comfortable mid-seventies, while a gentle eastward breeze carries the promise of warmth without overwhelming humidity. As the day transitions toward evening, the air will cool gracefully, settling into a pleasant, mild night around 58 degrees, making for a perfect backdrop for leisurely strolls or relaxed gatherings under the stars.\n\nIn such inviting conditions, consider donning lightweight layers that can adapt to the shifting temperatures\u2014a breathable shirt paired with a light jacket or cardigan will be ideal. With the enticing sun overhead, this is a splendid opportunity to visit a cozy caf\u00e9 for an afternoon tea or coffee, perhaps taking a quiet moment to reflect on the week. Alternatively, the charm of an evening walk along the Charles River, where the reflection of city lights dances upon the water, can offer a serene escape from the day's busyness. In short, this is a day beautifully suited for connecting with the outdoors, savoring the simple pleasures that summer has to offer.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-08-02 16:07:30"
+    "weather_report": "As night descends upon Boston, the air carries a pleasant warmth with temperatures settling around 58 degrees. A gentle south wind stirs softly, sweeping away the day\u2019s warmth and inviting a tranquil clarity to linger over the city. The twilight sky transitions beautifully from light to dark, painted in hues of deep blue and soft lavender, leaving behind the crispness of the day. Tonight, the atmosphere is free of fog, allowing for a serene gaze across the shimmering landscape contrasted by the flickering lights of the urban backdrop.\n\nAs the sun rises tomorrow, expect a glorious embrace of warmth, with bright sunrays nudging the temperature toward a comfortable 85 degrees. It promises to be a delightful day, ideal for leisurely strolls or perhaps a visit to one of the many inviting caf\u00e9s scattered throughout the city. A casual yet smart array of lightweight clothing will suit the day perfectly\u2014think breathable fabrics embracing the breeze, paired with comfortable shoes for those who may be tempted to explore the streets or the serenity of the nearby parks. As you find yourself under the vast expanse of the summer sky, take a moment to savor the fleeting beauty of the season, whether through reading a cherished book in a local garden or enjoying the simple pleasure of a walk by the water.",
+    "color_code": "#D8BFD8",
+    "timestamp": "2025-08-02 20:38:58"
 }
