@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-04T05:53:00+00:00",
-            "temperature_f": 55.04,
-            "temperature_c": 12.8,
-            "humidity": 96.140577319061,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-08-04T15:45:00+00:00",
+            "temperature_f": 80.6,
+            "temperature_c": 27,
+            "humidity": 54.334416034089,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 350,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-04T04:00:00-04:00",
-                "endTime": "2025-08-04T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 61. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-08-04T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-08-04T12:00:00-04:00",
                 "endTime": "2025-08-04T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 91,
@@ -49,14 +30,33 @@
                     "value": 0
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "NW",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/smoke?size=medium",
-                "shortForecast": "Patchy Smoke",
-                "detailedForecast": "Patchy smoke after 10am. Sunny, with a high near 91. Northwest wind around 5 mph."
+                "shortForecast": "Areas Of Smoke",
+                "detailedForecast": "Areas of smoke. Sunny, with a high near 91. North wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-04T18:00:00-04:00",
+                "endTime": "2025-08-05T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/smoke/few?size=medium",
+                "shortForecast": "Areas Of Smoke then Mostly Clear",
+                "detailedForecast": "Areas of smoke before 10pm. Mostly clear, with a low around 66. South wind around 5 mph."
             }
         ]
     },
-    "weather_report": "The early hours in Boston reveal a serene stillness, illuminated by the soft glow of scattered lights. As the city gently stirs from slumber, one can sense a promise of a clear day ahead. The air, while currently cool and tranquil, is poised for transformation. As the sun ascends, it will herald warmth, with temperatures expected to reach a generous peak, all under a cloudless blue sky.\n\nBy mid-morning, a mild patch of smoke will drift into the atmosphere, suggesting that while the day will shine brightly, it may carry a hint of haze. Anticipating the warmth, light layers will be prudent\u2014perhaps a breathable shirt to embrace the comfort of summer, paired with comfortable shorts for easy movement. The gentle breeze, which carries the essence of late summer, will be a welcome companion.\n\nAs the day progresses, the sunshine invites leisurely pursuits\u2014consider a leisurely stroll along the Charles River, where the water reflects the brilliant blue overhead, or perhaps a visit to a local caf\u00e9 for a morning brew, where the warmth of the sun can be enjoyed at an outdoor table. Such moments, wrapped in the warmth of a summer day\u2014simple yet profoundly delightful\u2014will surely enliven the spirit.",
-    "color_code": "#F5CBA3",
-    "timestamp": "2025-08-04 04:11:37"
+    "weather_report": "In Boston, this afternoon unfolds beneath a hazy veil, suggestive of lingering smoke that softens the sun's rays. The temperature creeps near a warm 91, and a gentle north wind allows for a slight respite from the heat. The clarity of the day is somewhat compromised, as areas of smoke diffuse the sunlight, offering an ambiance that is both warm and slightly muted. As evening approaches, expect the smoke to disperse, giving way to a mostly clear night. The low will settle around 66, with a southward breeze that embraces the cooler air.\n\nIn light of these conditions, light and breathable clothing is advisable\u2014perhaps a linen shirt or a loose dress could offer comfort amidst the warmth. The smoky skies might inspire a reflective stroll along the Charles River, where the evening's charm awaits\u2014perfect for those seeking solace in the gentle lapping of water against the banks. Alternatively, a visit to a local caf\u00e9 for a cooling beverage could provide a delightful end to a summer's day. Choose your path wisely, for the warm air and enchanting evening may beckon you to linger.",
+    "color_code": "#D7D7D7",
+    "timestamp": "2025-08-04 12:09:52"
 }
