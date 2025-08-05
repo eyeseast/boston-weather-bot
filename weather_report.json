@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-05T03:53:00+00:00",
-            "temperature_f": 64.04,
-            "temperature_c": 17.8,
-            "humidity": 96.284527228549,
+            "timestamp": "2025-08-05T07:45:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Fog"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2025-08-05T00:00:00-04:00",
+                "startTime": "2025-08-05T04:00:00-04:00",
                 "endTime": "2025-08-05T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 65,
@@ -30,10 +30,10 @@
                     "value": 0
                 },
                 "windSpeed": "3 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 65. West wind around 3 mph."
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/haze?size=medium",
+                "shortForecast": "Haze",
+                "detailedForecast": "Haze. Partly cloudy, with a low around 65. North wind around 3 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-08-05T06:00:00-04:00",
                 "endTime": "2025-08-05T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 79,
+                "temperature": 78,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "3 to 9 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 79, with temperatures falling to around 73 in the afternoon. Northeast wind 5 to 9 mph."
+                "icon": "https://api.weather.gov/icons/land/day/haze/bkn?size=medium",
+                "shortForecast": "Haze then Partly Sunny",
+                "detailedForecast": "Haze before 9am. Partly sunny, with a high near 78. Northeast wind 3 to 9 mph."
             }
         ]
     },
-    "weather_report": "As night drapes its velvety cloak over Boston, a serene calm settles in, the corners of the city dimly lit by the gentle glow of distant streetlights. The air is warm, embracing the senses with a comfortable hue. As dawn approaches, tomorrow promises to unfurl with partly sunny skies and a gentle autumn-like breeze. The day will ease from a refreshing 79 degrees to a cooler 73 by afternoon, inviting an array of activities under the watchful gaze of the northeast wind. \n\nFor those venturing out, a light jacket paired with breathable layers would harmonize perfectly with the mild temperatures. Perhaps a stroll along the Charles River or a leisurely visit to one of the many hidden caf\u00e9s in the North End would be just the thing to enjoy the day. It\u2019s a moment to indulge in quiet pleasures, whether it's sipping an artisanal coffee or wandering through the leaf-strewn parks, feeling the whisper of summer transition into fall. In pursuit of understated yet refreshing experiences, this day holds the promise of gentle thrills away from the bustling routine, beckoning you to explore the softer side of life in this bustling metropolis.",
-    "color_code": "#A8C8E0",
-    "timestamp": "2025-08-05 00:26:10"
+    "weather_report": "As the early hours in Boston envelop the city in a soft haze, a serene yet slightly elusive atmosphere blankets the skyline. The air hangs still, whispering hints of warmth as it hovers around a gentle threshold of 65 degrees. This tranquil prelude hints at the gradual awakening of a day that promises both clarity and a touch of summer elegance. Expect the morning to unveil remnants of Tuesday's haze, shimmering under the caress of a light northeast breeze that dances around 3 to 9 mph, coaxing away the wisps of obscured beauty.\n\nAs the sun climbs higher, the clouds will part, revealing the vibrant life of the city bathed in warmth, soon rising toward a comfortable 78 degrees. It seems a fitting day for a leisurely stroll along the waterfront or perhaps a quiet moment at one of Boston\u2019s many charming caf\u00e9s, where one can sip a coffee while observing the city awaken. Attire should lean towards breathable fabrics, with layers advisable to accommodate the morning chill giving way to the afternoon warmth. Perhaps slip into comfortable loafers, allowing the ease of movement to match the day\u2019s inviting promise. As the sun rises on this picturesque Tuesday, may the simplicity of life in Boston be savored, from the gentle haze of the morning to the clarity and warmth that follows.",
+    "color_code": "#F7D6BA",
+    "timestamp": "2025-08-05 04:10:49"
 }
