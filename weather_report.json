@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-05T07:45:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog"
+            "timestamp": "2025-08-05T11:55:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 93.929774401027,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 50,
+            "description": "Smoke"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-05T04:00:00-04:00",
-                "endTime": "2025-08-05T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/haze?size=medium",
-                "shortForecast": "Haze",
-                "detailedForecast": "Haze. Partly cloudy, with a low around 65. North wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-08-05T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-08-05T08:00:00-04:00",
                 "endTime": "2025-08-05T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 78,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "3 to 9 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/haze/bkn?size=medium",
                 "shortForecast": "Haze then Partly Sunny",
-                "detailedForecast": "Haze before 9am. Partly sunny, with a high near 78. Northeast wind 3 to 9 mph."
+                "detailedForecast": "Haze before 9am. Partly sunny, with a high near 78. Northeast wind 6 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-05T18:00:00-04:00",
+                "endTime": "2025-08-06T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 61. Northeast wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As the early hours in Boston envelop the city in a soft haze, a serene yet slightly elusive atmosphere blankets the skyline. The air hangs still, whispering hints of warmth as it hovers around a gentle threshold of 65 degrees. This tranquil prelude hints at the gradual awakening of a day that promises both clarity and a touch of summer elegance. Expect the morning to unveil remnants of Tuesday's haze, shimmering under the caress of a light northeast breeze that dances around 3 to 9 mph, coaxing away the wisps of obscured beauty.\n\nAs the sun climbs higher, the clouds will part, revealing the vibrant life of the city bathed in warmth, soon rising toward a comfortable 78 degrees. It seems a fitting day for a leisurely stroll along the waterfront or perhaps a quiet moment at one of Boston\u2019s many charming caf\u00e9s, where one can sip a coffee while observing the city awaken. Attire should lean towards breathable fabrics, with layers advisable to accommodate the morning chill giving way to the afternoon warmth. Perhaps slip into comfortable loafers, allowing the ease of movement to match the day\u2019s inviting promise. As the sun rises on this picturesque Tuesday, may the simplicity of life in Boston be savored, from the gentle haze of the morning to the clarity and warmth that follows.",
-    "color_code": "#F7D6BA",
-    "timestamp": "2025-08-05 04:10:49"
+    "weather_report": "The morning in Boston awakens with a soft hush, a gentle haze still lingering in the air, as if the city is wrapped in a quiet embrace. While the forecast promises a transition into a partially sunny day with temperatures nudging towards a comfortable 78 degrees, the present atmosphere hangs heavy, suggesting the remnants of mist may linger slightly beyond the first hours. As the northeast wind breathes lightly, one might feel the subtle chill as they step outside. Tonight gives way to a more subdued spell, with clouds cloaking the sky and temperatures settling around a pleasant 61 degrees.\n\nGiven these conditions, a simple layering of clothing would serve well\u2014perhaps a light sweater or a button-up shirt to ward off the lingering coolness in the morning, trading it for a breezy elegance as the sun peeks through. The day beckons one to explore local parks or meander through the delightful streets of the city, indulging in a quiet caf\u00e9 with a good book, or perhaps visiting a local bookstore to spend a leisurely afternoon. Whether it's finding a spot beneath a tree or enjoying a stroll along the waterfront, today is particularly suited for those seeking solace in simple pleasures, finding beauty in the gradual unveiling of sunlight amidst the gentle whisper of the wind.",
+    "color_code": "#d0d0d0",
+    "timestamp": "2025-08-05 08:14:10"
 }
