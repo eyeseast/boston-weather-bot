@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-05T18:45:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 60.702422779033,
-            "wind_speed_mph": 33.17918400000001,
+            "timestamp": "2025-08-06T00:05:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 72.761266404652,
+            "wind_speed_mph": 12.401928,
             "wind_direction": 60,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-05T16:00:00-04:00",
-                "endTime": "2025-08-05T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 78,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 78. East wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-05T18:00:00-04:00",
+                "startTime": "2025-08-05T20:00:00-04:00",
                 "endTime": "2025-08-06T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 1
                 },
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "2 to 6 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 61. Northeast wind 2 to 7 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 61. Northeast wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-08-06T06:00:00-04:00",
+                "endTime": "2025-08-06T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 76,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 76. Northeast wind 3 to 8 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the air is warm and inviting, each breeze dancing gently through the trees as the sun glimmers through a patchwork of clouds, painting the world in soft shades of blue and gray. The thermometer whispers near 78 degrees, a perfect invitation for a leisurely stroll down tree-lined streets or the lively waterfront, where the presence of summer lingers softly on the skin. As you slip into the evening, expect a comfortable fade into mostly cloudy skies, with twilight ushering in a gentle coolness that promises to bring the temperature down to a cozy 61 degrees, perfect for a light sweater or a long-sleeve shirt.\n\nWith this pleasant, if somewhat muted day, the beauty of Boston encourages simple joys\u2014perhaps an afternoon spent wandering through the parks or stopping by a quaint caf\u00e9 for a moment of reflection over a warm cup of coffee. As the sun dips lower, the vibrant hues of late summer can still reflect on the Charles River, making it a lovely backdrop for an evening bike ride or a book in the park, where the soft murmur of community is palpable against the subtle rustle of leaves. Today embodies the perfect blend of warmth and respite, urging you to find delight in life\u2019s uncomplicated rhythms.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-08-05 16:08:17"
+    "weather_report": "As evening envelops Boston, a quiet stillness hangs in the air, broken only by the gentle rustle of leaves caught in the playful grasp of a mild northeast breeze. The clouds, draped overhead like a soft blanket, lend the night an intriguing depth, creating an atmosphere that feels serene yet somewhat mysterious. With temperatures settling around a comfortable 61 degrees, the night beckons for light layers\u2014perhaps a cardigan or a light jacket\u2014to ward off the evening chill without sacrificing comfort.\n\nLooking ahead to tomorrow, Boston is poised to experience a continuation of this muted beauty, with daytime highs reaching a pleasant 76 degrees. The skies will likely remain mostly cloudy, a reminder of the transient nature of summer weather, offering both a cooling shade and a cozy ambiance. As the city awakens, opportunities abound: a leisurely stroll along the Charles River could rejuvenate the spirit, or perhaps a quiet moment in one of the city\u2019s lovely parks to contemplate the day ahead. For those indoors, a visit to one of the charming cafes could provide an inviting respite from the day\u2019s humid warmth. Whether taking in the subtle nuances of the atmosphere or simply basking in the comfortable embrace of Boston's typical summer evening, the path lies open for experiences that draw one into the heart of the city\u2019s late-summer allure.",
+    "color_code": "#4C92D2",
+    "timestamp": "2025-08-05 20:35:27"
 }
