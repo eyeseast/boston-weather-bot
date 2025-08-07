@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-07T07:50:00+00:00",
-            "temperature_f": 60.8,
-            "temperature_c": 16,
-            "humidity": 100,
+            "timestamp": "2025-08-07T11:50:00+00:00",
+            "temperature_f": 64.4,
+            "temperature_c": 18,
+            "humidity": 93.884545007364,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Fog/Mist"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-07T04:00:00-04:00",
-                "endTime": "2025-08-07T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 62. North wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-08-07T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-08-07T08:00:00-04:00",
                 "endTime": "2025-08-07T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 80,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
                 "windSpeed": "2 to 7 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog between 7am and 8am. Partly sunny, with a high near 80. East wind 2 to 7 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 80. East wind 2 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-07T18:00:00-04:00",
+                "endTime": "2025-08-08T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 58. South wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As dawn approaches over Boston, a gentle cloak of clouds spreads across the sky, creating an enigmatic veil that whispers of the day to come. The air remains warm, wrapped in a soft embrace of 62 degrees, inviting in its own understated manner. A north wind stirs lazily, barely reaching for two miles per hour, almost as if in a reluctant stretch from slumber. For those stirring from their night\u2019s respite, a hint of fog lingers, particularly around the edges of the water. As the early hours unfold, the world around is poised to awaken slowly, the fog dissipating just in time for a partly sunny disposition by late morning.\n\nAs the sun takes its rightful place, expect the temperature to rise towards a balmy 80, creating a day that, while quietly glorious, suggests fluid movement through the hours. Dress lightly in breathable fabrics to navigate the warmth, yet remain ever-prepared for that wispy layer of fog that could embrace your shoulders momentarily. It's a day that subtly beckons one to contemplate a stroll by the Esplanade or perhaps gather in the sunlit corners of a cozy caf\u00e9 with a book in hand. This is the sort of day that invites a leisurely pace, allowing you to savor the fleeting moments of late summer in the city, where the golden light and burgeoning warmth mingle like familiar friends.",
-    "color_code": "#D5C9C1",
-    "timestamp": "2025-08-07 04:10:52"
+    "weather_report": "In Boston, the day begins with a gentle embrace of warmth, the sun making a gracious appearance amidst a few scattered clouds. With a high expected near 80, the atmosphere feels sweetly inviting, propelled by a soft eastward breeze whispering through the city. As you gaze through your window, the clarity is mostly commendable, with only the faintest shroud of haze lingering as a gentle reminder of nature\u2019s unpredictable temperament. Nightfall promises a charming, clear canvas with temperatures dropping to a comfortable 58, perfect for winding down under the stars.\n\nAs for attire, light layers would serve one well today\u2014perhaps a breezy shirt or a casual dress complemented by a light cardigan for the evening's coolness. Such weather invites leisurely strolls through Boston\u2019s lush parks or a quiet moment by the waterside, allowing the warmth of the day to sink comfortably into your bones. You might consider indulging in a book at your favorite caf\u00e9, or perhaps a casual sit at an outdoor bistro, where the laughter of passersby mingles with the aroma of freshly brewed coffee, all wrapped in a day that feels both languid and refreshing.",
+    "color_code": "#A8D8B9",
+    "timestamp": "2025-08-07 08:14:00"
 }
