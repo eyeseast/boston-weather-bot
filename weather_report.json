@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-09T19:50:00+00:00",
-            "temperature_f": 82.4,
-            "temperature_c": 28,
-            "humidity": 39.618074047441,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 170,
+            "timestamp": "2025-08-10T00:20:00+00:00",
+            "temperature_f": 71.6,
+            "temperature_c": 22,
+            "humidity": 73.288964682767,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-09T16:00:00-04:00",
-                "endTime": "2025-08-09T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 83,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 83. East wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-09T18:00:00-04:00",
+                "startTime": "2025-08-09T20:00:00-04:00",
                 "endTime": "2025-08-10T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 62. South wind 2 to 6 mph."
+                "detailedForecast": "Clear, with a low around 62. South wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-08-10T06:00:00-04:00",
+                "endTime": "2025-08-10T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 90,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 90. South wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfurls over Boston, the sun shines brightly above, casting a warm golden hue across the skyline and the rolling greenery that hugs the city. With temperatures flirting gently near 83 degrees and an eastward breeze whispering softly at around 6 mph, it's a day that feels wonderfully inviting. The sky is a canvas of tranquil blue, unmarred by clouds, and the air is crisp, offering a sense of clarity that only a sun-soaked summer afternoon can provide. The lingering warmth of the day hints at a pleasant evening ahead, where the temperatures will settle into the low 60s under a clear, star-speckled sky.\n\nIn light of this delightful weather, one might choose to dress simply yet comfortably\u2014perhaps in lightweight fabrics that breathe, allowing the skin to relish the warm embrace of summer without the weight of heavy clothing. Lightweight shirts, perhaps paired with breathable trousers or a flowing skirt, would suit the mood perfectly. As the day winds down, the gentle warmth invites leisurely strolls through the city's vibrant parks or a visit to a favorite caf\u00e9, where one can sip a cool drink while soaking in the atmosphere. The evening may even beckon a quiet moment on a porch or balcony, allowing time to contemplate the day's sweetness as the sun slips slowly beneath the horizon, leaving behind a symphony of twilight colors.",
-    "color_code": "#ADD8E6",
-    "timestamp": "2025-08-09 16:07:19"
+    "weather_report": "As the evening sets in over Boston, a gentle calm blankets the city, the air lingering at a comfortable warmth, hinting at a pleasant night ahead. With temperatures dipping to around 62, the late hours possess a certain allure, drawing in those who favor outdoor strolls under the clear skies. A soft south wind whispers through the streets, offering a tender caress to skin, inviting inhabitants to savor those last moments of daylight fading into twilight. The horizon melts into a deeper blue, kissed by the twinkling lights of the city, painting an enchanting scene reminiscent of nocturnal adventures.\n\nTomorrow, a resplendent sun will rise, heralding a day of unprecedented brightness and warmth. With temperatures expected to soar near 90, this Sunday is a call to embrace life outdoors. Its sunny disposition will beckon people to sip iced coffees in cozy caf\u00e9s or explore the lush parks, the heat a gentle reminder of summer in full swing. As you consider what to wear, lighter garments in breathable fabrics will serve you well, accompanied perhaps by comfortable sandals that allow for easy movement. Engage in a stroll along the Charles River, or perhaps visit a local farmers' market, where the vibrant atmosphere pairs perfectly with the season\u2019s bounty. The day promises to be a delightful mix of vitality and leisure, perfect for creating moments that resonate long after the sun has set.",
+    "color_code": "#b0c4e9",
+    "timestamp": "2025-08-09 20:38:02"
 }
