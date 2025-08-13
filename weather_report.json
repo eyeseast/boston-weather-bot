@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-12T19:50:00+00:00",
-            "temperature_f": 91.4,
-            "temperature_c": 33,
-            "humidity": 29.755628359706,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 270,
+            "timestamp": "2025-08-13T04:00:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 93.929774401027,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 170,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-12T16:00:00-04:00",
-                "endTime": "2025-08-12T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 95,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 95. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-08-12T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-08-13T00:00:00-04:00",
                 "endTime": "2025-08-13T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 69,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 69. Southwest wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 69. Southwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-08-13T06:00:00-04:00",
+                "endTime": "2025-08-13T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 93,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 9
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 93. Heat index values as high as 96. Southwest wind 5 to 9 mph."
             }
         ]
     },
-    "weather_report": "The afternoon sun casts a warm glow over Boston, wrapping the city in a comforting embrace of summer heat, with temperatures nudging close to a sultry 95 degrees. A gentle southwest breeze whispers through the streets, adding a touch of relief to the warmth. The sky, a canvas of bright blue, lacks any hint of fog, instead inviting clarity and the balmy revelry of the day to unfold. As the evening approaches, the promise of a mostly clear night unfolds, with temperatures easing into a soothing 69 degrees\u2014a true invitation to linger outdoors.\n\nIn such splendid weather, modestly attire yourself in breathable fabrics\u2014light cottons or linens will serve well against the day\u2019s heat, while perhaps a light cardigan or a shawl could prove useful as the night air cools. This is a perfect moment to wander along the Charles River, marveling at the sunset painting the skyline with hues of gold and orange. Alternatively, seek a quiet caf\u00e9 terrace where you might enjoy a leisurely cup of iced coffee, savoring the simple pleasure of summer lingering\u2014an ideal way to relish the beauty and vibrancy of a Boston afternoon that beckons for exploration under its basking sun.",
-    "color_code": "#FFCC00",
-    "timestamp": "2025-08-12 16:08:04"
+    "weather_report": "As the night drapes itself over Boston, the air is warm and heavy with the lingering heat of a summer day, settling comfortably around 69 degrees. With a gentle southwestern breeze whispering through the night, the city lies partially cloaked in clouds, yet the warmth of the evening calls to those who enjoy a late stroll. The stars are faintly visible, twinkling like distant thoughts amidst the urban glow, creating a tapestry of soft light against the backdrop of the deepening night.\n\nLooking ahead to the morrow, the sun will emerge victorious, casting an inviting warmth that will propel temperatures toward 93 degrees. The heat will amplify, creating a haze that might blur the lines of distant buildings and vibrate in the air. It\u2019s a day to embrace the brilliant rays, a quintessential August moment in the heart of the city. Dress in light fabrics and prepare for a day that leans toward the sultry; perhaps don a wide-brimmed hat and keep a cool drink nearby. As the clock ticks through the hours, consider wandering through a local market in the morning, savoring the offerings of a summer harvest, or finding refuge in a shady park with a good book by your side. It's a day that beckons a touch of adventure, even in the ordinary, making the most of the shimmering heat and vibrant energy that Boston radiates.",
+    "color_code": "#F5DBD1",
+    "timestamp": "2025-08-13 00:14:29"
 }
