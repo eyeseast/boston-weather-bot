@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-14T07:45:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 94.105818040075,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 190,
-            "description": "Clear"
+            "timestamp": "2025-08-14T11:53:00+00:00",
+            "temperature_f": 75.92,
+            "temperature_c": 24.4,
+            "humidity": 87.55957195861,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 250,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-14T04:00:00-04:00",
-                "endTime": "2025-08-14T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 11
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 71. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-08-14T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-08-14T08:00:00-04:00",
                 "endTime": "2025-08-14T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 87,
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20/tsra_sct,60?size=medium",
                 "shortForecast": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms between 11am and noon, then a chance of showers and thunderstorms between noon and 2pm, then a chance of showers and thunderstorms between 2pm and 5pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 87. West wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "A slight chance of showers and thunderstorms between 11am and noon, then a chance of showers and thunderstorms between noon and 2pm, then a chance of showers and thunderstorms between 2pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 87. West wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-14T18:00:00-04:00",
+                "endTime": "2025-08-15T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 24
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/sct?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 8pm. Partly cloudy, with a low around 68. North wind 2 to 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the quiet of nighttime deepens over Boston, an enveloping softness settles in. The air carries a whisper of warmth, the kind that hints at the humid embrace of summer. The gentle stirrings of the southwest wind playfully tease the remnants of the day, making it a comfortable, albeit slightly muggy, passage into the dawn hours. Sleepy city lights blink like distant stars, softly illuminating the horizon, while the atmosphere remains mostly cloudy\u2014a shroud suggesting the potential for a few unsettled moments ahead.\n\nAs Thursday unfolds, the day brings the promise of warmth and a touch of drama. With a high nearing 87, you'll want to embrace light, breathable fabrics. A simple t-shirt and airy shorts could serve you well, perhaps layered with a light jacket for those moments when a refreshing breeze sweeps through. Keep an eye on the sky, as the afternoon may introduce sporadic showers and thunderstorms, the air charged with vitality. The forecast invites a sense of adventure; perhaps meandering through a local caf\u00e9, sipping on an iced coffee, or relocating to a shaded park bench to savor a good book could be in the cards. Just remember, while the weather may keep you on your toes, Boston's charm remains steadfastly inviting, ever ready for a leisurely day of exploration amidst its storied streets.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2025-08-14 04:10:32"
+    "weather_report": "In Boston today, the atmosphere carries a muted vibrancy, cloaked in shades of gray with a hint of humidity lingering in the air. A slight chance of showers and thunderstorms weaves through the morning hours, creating an ambience of anticipation. The day promises to warm up, reaching near 87, although the clouds will be reluctant to part completely. With a gentle west wind whispering through the streets, this isn't a day to wear your sunniest attire; opt instead for light layers that can handle brief encounters with rain. \n\nAs the sun edges into the afternoon, expect thick clouds to loom, enhancing the chance of unexpected showers that may dance across the skyline. Tonight brings a subtle shift, offering a brief respite with a low hovering around 68. Yet, there\u2019s still a lingering possibility of light showers, making it a splendid evening to indulge in the simple pleasures of life, perhaps an inviting read on the porch or a casual stroll through the softening streets. Choose wisely, and embrace the beauty woven into this late summer day, where nature\u2019s moods offer a blend of warmth and welcome shade.",
+    "color_code": "#A3B0C4",
+    "timestamp": "2025-08-14 08:13:23"
 }
