@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-16T07:50:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 100,
+            "timestamp": "2025-08-16T11:50:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
+            "humidity": 87.926615024549,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-16T04:00:00-04:00",
-                "endTime": "2025-08-16T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "1 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Mostly clear, with a low around 59. Northwest wind around 1 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-08-16T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-08-16T08:00:00-04:00",
                 "endTime": "2025-08-16T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 84,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 6
                 },
-                "windSpeed": "1 to 8 mph",
+                "windSpeed": "2 to 8 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium",
-                "shortForecast": "Patchy Fog then Sunny",
-                "detailedForecast": "Patchy fog before 7am. Sunny, with a high near 84. South wind 1 to 8 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 84. South wind 2 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-16T18:00:00-04:00",
+                "endTime": "2025-08-17T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 67. South wind around 8 mph."
             }
         ]
     },
-    "weather_report": "As dawn gently approaches, Boston is cloaked in a tranquil veil of patchy fog, hinting at the lingering embrace of night. The air is crisp, wrapping around the city like a cool whisper. With morning light, the fog will gradually recede, revealing a sunny brilliance that promises an inviting day ahead. A mild breeze may playfully dance with the trees, creating a sense of easy warmth that will settle in as the sun ascends, warming the pavement and inviting you outdoors.\n\nTo fully appreciate this beautiful Saturday, consider dressing in light, breathable layers that you'll shed as the day progresses toward its peak warmth. Perhaps a soft cotton shirt paired with comfortable shorts or light trousers will be just right. Opt for shoes that allow for a leisurely stroll along the Esplanade or through the bustling streets of the North End, where lingering aromas of fresh pastries beckon. Enjoy a spontaneous coffee on a sun-dappled patio or immerse yourself in the serenity of one of Boston\u2019s lush parks. After all, this day, filled with promise and potential, calls for savoring life in moments both grand and simple.",
-    "color_code": "#FFDA44",
-    "timestamp": "2025-08-16 04:08:56"
+    "weather_report": "In Boston today, the sun shines bright and unencumbered, casting a warm golden glow that dances throughout the neighborhoods. The air is sweet with the promise of summer, inviting an array of activities under the vast expanse of blue. As the day unfolds, temperatures will flirt with warmth, reaching around 84 degrees, and the gentle south breeze adds a soft caress, creating a delightful atmosphere. There is a clarity to the horizon, where the bustling city stands unobstructed, its outline framed gracefully against the sky\u2014a reminder of the dynamic energy just beneath the serene surface.\n\nAs night approaches, the warmth will linger, settling into a cozy embrace of 67 degrees. A light wind promises to carry the scents of evening into your evening endeavors. It\u2019s an ideal time for an evening stroll along the Charles, or perhaps a leisurely visit to an outdoor caf\u00e9, where you can sip something cool and watch the world go by. Light and breathable attire will provide comfort throughout the day, while a light jacket might serve well as the night unveils its calm. It\u2019s a day to relish, encouraging both quiet reflection and simple pleasures in the heart of Boston.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-08-16 08:11:26"
 }
