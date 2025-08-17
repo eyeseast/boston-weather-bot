@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-16T19:50:00+00:00",
-            "temperature_f": 84.2,
-            "temperature_c": 29,
-            "humidity": 48.353424176576,
-            "wind_speed_mph": 16.589592000000003,
+            "timestamp": "2025-08-17T00:15:00+00:00",
+            "temperature_f": 71.6,
+            "temperature_c": 22,
+            "humidity": 68.773495222447,
+            "wind_speed_mph": 20.696724000000003,
             "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-16T15:00:00-04:00",
-                "endTime": "2025-08-16T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 86,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "3 to 7 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 86. Southeast wind 3 to 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-16T18:00:00-04:00",
+                "startTime": "2025-08-16T20:00:00-04:00",
                 "endTime": "2025-08-17T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 68,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "6 to 9 mph",
-                "windDirection": "S",
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 68. South wind 6 to 9 mph."
+                "detailedForecast": "Mostly clear, with a low around 68. Southwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-08-17T06:00:00-04:00",
+                "endTime": "2025-08-17T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 91,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 28
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/hot/rain_showers,30?size=medium",
+                "shortForecast": "Mostly Sunny then Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers after 3pm. Mostly sunny, with a high near 91. Heat index values as high as 96. Southwest wind around 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds with a warm embrace, the sun shining brightly overhead, inviting many to savor the balmy air that promises a high near 86 degrees. A gentle southeast breeze, at times barely perceptible, whispers through the trees, providing a welcome respite from the heat. As the day stretches into evening, clear skies will prevail, allowing the golden tones of sunset to paint the horizon in soft hues, as temperatures settle to a comfortable 68 degrees.\n\nThe day\u2019s charm suggests a light and carefree attire; perhaps a breathable cotton shirt paired with shorts or an airy dress. As dusk approaches, consider layering with a light cardigan or a shawl. The beauty of the afternoon is best appreciated outdoors, perhaps on a leisurely stroll along the Seaport, where the warm pavement basks in the fading sunlight, or with a quiet moment in one of the neighborhood parks, watching as the world slowly transforms as day minds its way into night. A visit to a caf\u00e9, where one can sip an iced herbal tea or enjoy a light snack while absorbing the day's remaining warmth, might also serve as the perfect companion to this lovely Boston afternoon.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-08-16 16:07:02"
+    "weather_report": "As twilight deepens over Boston, the air is settling into a warm embrace, swirling with a gentle breeze from the southwest. Tonight, the sky reveals itself with an expanse of clarity, draping a sense of tranquility over the evening\u2019s unfolding. A low of 68 hangs in the air, inviting residents to choose their attire with a care for comfort\u2014perhaps a light shirt and breathable fabric that allow for the touch of the night while keeping the warmth at bay. \n\nAs dawn breaks on Sunday, one can anticipate a sun-drenched canvas, where the mercury will rise to near 91 under the watchful gaze of scattered clouds. The promise of scattered rain showers later in the afternoon brings with it a curious anticipation for relief from the heat, as the heat index might flirt with 96. With a modest chance of rain, it might be wise to have an umbrella at hand, just in case nature decides to sprinkle some unexpected charm on the day. Activities beckon from every corner\u2014an afternoon stroll along the banks of the Charles or perhaps a leisurely gathering at a favorite caf\u00e9, where laughter and conversation dance in the warm air, perfectly capturing the essence of summer in the city. Tonight beckons relaxation, while tomorrow holds the potential for a vibrant day steeped in warmth and shared moments.",
+    "color_code": "#FFD700",
+    "timestamp": "2025-08-16 20:35:58"
 }
