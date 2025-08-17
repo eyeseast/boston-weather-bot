@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-17T04:00:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 93.929774401027,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 180,
-            "description": "Clear"
+            "timestamp": "2025-08-17T11:50:00+00:00",
+            "temperature_f": 71.6,
+            "temperature_c": 22,
+            "humidity": 88.436416127982,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 210,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-17T00:00:00-04:00",
-                "endTime": "2025-08-17T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 67. Southwest wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-08-17T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-08-17T08:00:00-04:00",
                 "endTime": "2025-08-17T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 92,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 24
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/hot/tsra_hi,20?size=medium",
                 "shortForecast": "Partly Sunny then Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of rain showers between noon and 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 92. Heat index values as high as 95. Southwest wind 7 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A slight chance of rain showers between noon and 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 92. Heat index values as high as 95. Southwest wind around 10 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-17T18:00:00-04:00",
+                "endTime": "2025-08-18T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 49
+                },
+                "windSpeed": "8 to 13 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,50/tsra,30?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of showers and thunderstorms before 11pm, then a chance of showers and thunderstorms between 11pm and 4am. Mostly cloudy, with a low around 62. North wind 8 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As night blankets Boston, the city remains cloaked in a gentle veil of clouds, with a soft, warm breeze whispering through the streets. The temperature nestles comfortably around 67 degrees, promising a sultry embrace as dawn approaches. In a few hours, the sky will awaken with the potential for fleeting rain showers, particularly around midday, but for now, the atmosphere holds a quiet anticipation, a lull before the forthcoming warmth of a summer Sunday.\n\nAs the sun begins its ascent, expect the day to illuminate Boston with moments of brilliance, bringing a high temperature that dances near 92, tempered only slightly by a whisper of southwest winds. Despite the chance of afternoon thunderstorms, the unfolding hours suggest a predominantly sunny disposition, urging residents to venture outdoors. Those embarking on errands or leisurely strolls may favor lightweight fabrics, perhaps a breathable linen shirt paired with comfortable shorts and a wide-brimmed hat to shield themselves from the sun's ardent caress. A light jacket might be useful later, but in the warmth of the day, one could delight in exploring local parks or savoring an ice cream at a favorite caf\u00e9, capturing the essence of a summer\u2019s day in Boston.",
-    "color_code": "#F0C0C0",
-    "timestamp": "2025-08-17 00:16:29"
+    "weather_report": "As the sun rises on this warm August day in Boston, the air carries a hint of humidity, promising an unsteady mix of sun and clouds. Morning fog lingers, veiling the skyline in a soft gray embrace, casting a serene yet expectant mood over the city. By midday, the clouds will part just enough to allow glimpses of sunlight, coaxing temperatures up toward a sultry 92 degrees. There's a whisper of heat in the air, as heat index values may nudge higher, making it feel like a tropical getaway right in the heart of New England. \n\nAs twilight approaches, the atmosphere may shift again, bringing with it a chance of showers and the distant rumble of thunderstorms, a reminder that summer\u2019s grip can still surprise us. Residents will find the evening much cooler, perhaps inviting a light jacket to stave off the chill after the day\u2019s warmth. A casual stroll along the Charles River, taking in the city\u2019s lights reflecting on the water, might be a lovely way to embrace the changing weather. Alternatively, finding a cozy spot at a local caf\u00e9, watching the sporadic raindrops dance against the window, can turn an ordinary night into something special. Dress lightly for the daytime warmth, but keep an umbrella close for those unforeseen moments of summer\u2019s whimsy.",
+    "color_code": "#A1C0C6",
+    "timestamp": "2025-08-17 08:11:37"
 }
