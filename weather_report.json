@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-18T07:50:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 72.582141630914,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 50,
+            "timestamp": "2025-08-18T11:53:00+00:00",
+            "temperature_f": 62.059999999999995,
+            "temperature_c": 16.7,
+            "humidity": 60.014617549683,
+            "wind_speed_mph": 37.04472,
+            "wind_direction": 40,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-18T04:00:00-04:00",
-                "endTime": "2025-08-18T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 61. Northeast wind around 13 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-08-18T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-08-18T08:00:00-04:00",
                 "endTime": "2025-08-18T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 72,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
                 "windSpeed": "9 to 14 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 72. Northeast wind 9 to 14 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-18T18:00:00-04:00",
+                "endTime": "2025-08-19T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 51. East wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "Amidst the gentle embrace of early morning, Boston awakens under a cloak of soft clouds, the low hum of a northeast wind whispering through the streets, nudging the city into the day's rhythm. With temperatures resting comfortably around sixty-one, this serene setting is markedly tranquil, yet the air carries an electric hint of wind gusts that might catch you off guard. It\u2019s a moment when the muted hues of twilight retreat, albeit reluctantly, yielding to the promise of a brightening sky.\n\nAs the sun rises higher, Boston will transform into a canvas painted with varying shades of blue, promising warmth and delight with a high of seventy-two. The northeast breeze will continue, lending a playful energy to the day, perfect for a stroll along the Charles or a leisurely coffee at a sidewalk caf\u00e9. The conditions are not without their charm; the early clouds could weave a delicate texture to the sunny backdrop, inviting those who take the time to look for beauty in changing light.\n\nFor those venturing out, a light jacket may prove wise against the freshness of the wind, while layers are recommended for the gradual warmth that will fill the afternoon. Consider a quiet excursion to one of the city\u2019s many parks or perhaps an exploration of its tucked-away bookstores. In this cozy, unhurried reverie, one might find joy in the mundane - the sound of rustling leaves, the distant laughter of children at play, or a simple conversation over coffee.",
-    "color_code": "#A2B2C8",
-    "timestamp": "2025-08-18 04:11:15"
+    "weather_report": "As dawn breaks over Boston, the sun is struggling to emerge from a wrap of gentle cloud cover, heralding a day that promises a delicate balance between warmth and the spirited whispers of the northeast wind. Though the temperature sits comfortably near 72, one can sense the briskness in the air as gusts flirt with the edges of the day, reminding us of summer's lingering touch amidst the inevitable transition towards fall. The atmosphere feels alive yet serene; clarity prevails but is softened by a veil of softness above, creating an ethereal embrace that invites daydreaming.\n\nTonight, the skies will clear, transforming the scene into a peaceful spectacle under a starry expanse, as temperatures dip to the cozy realm of 51. It's the kind of evening that calls for a light sweater or a wrap\u2014the perfect complement for an outdoor escape, perhaps a leisurely stroll along the waterfront or an intimate chat with good company at an al fresco caf\u00e9. For those drawn to the outdoor tapestries of Boston, today radiates an understated beauty. Consider grabbing a good book or simply basking in the moment, for in this mix of nature and urbanity, there is magic waiting to be discovered.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-08-18 08:13:15"
 }
