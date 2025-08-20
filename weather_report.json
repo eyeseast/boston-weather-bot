@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-20T07:45:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
-            "humidity": 87.749358083507,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 70,
-            "description": "Mostly Clear"
+            "timestamp": "2025-08-20T15:45:00+00:00",
+            "temperature_f": 64.4,
+            "temperature_c": 18,
+            "humidity": 77.463474035403,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 90,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-20T04:00:00-04:00",
-                "endTime": "2025-08-20T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 10
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 58. East wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-08-20T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-08-20T12:00:00-04:00",
                 "endTime": "2025-08-20T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 63
                 },
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,60?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60?size=medium",
                 "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely between 9am and 5pm, then rain showers likely and patchy fog. Mostly cloudy, with a high near 66. East wind 2 to 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain likely before 5pm, then rain showers likely and patchy fog. Cloudy, with a high near 66. East wind around 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-20T18:00:00-04:00",
+                "endTime": "2025-08-21T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 68
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70/rain_showers,50?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely and patchy fog. Cloudy, with a low around 58. East wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, a blanket of clouds lingers overhead, softly dimming the early morning light. The air sits comfortably at a cool 58 degrees, hinting at the gentle shifts of an eastern breeze, still meek in its arrival. While the city begins to awaken, the forecast foretells a day graced by the likelihood of rain showers. Between the hours of 9 AM and 5 PM, expect a hazy veil of moisture to unfold, perhaps whispering through the streets with the promise of less than a tenth of an inch of gentle rainfall. By afternoon, the atmosphere will be cloaked in a shroud of fog, giving the day an almost ethereal quality.\n\nAs the rains hover on the horizon, attire with layers becomes more than a suggestion; a light coat or rain jacket would serve you well in this damp embrace of the day. Comfortable shoes suitable for occasional puddles and a simple scarf to shield against the chill may very well make your endeavors outdoors more pleasant. With the changing skies, a visit to a cozy caf\u00e9 would be an inviting refuge, allowing you to relish a warm beverage while the world outside dances with raindrops, or a reflective stroll along the Freedom Trail might offer a solitary peace amid the whispers of the city. While the sunlight will likely shy away today, let the muted tones of the rainy moments inspire a peaceful rhythm to your routine.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-08-20 04:09:55"
+    "weather_report": "In Boston this afternoon, the air is thick with anticipation as rain makes its graceful descent onto the streets, whispering promises of renewal and softness. The cloud cover hangs low, cloaking the city in a muted palette of grays, and lending an almost dreamlike quality to the skyline. If you venture outdoors, expect to encounter a cool embrace from the east wind, shifting lightly through the trees. The likelihood of rain intensifies as the day wanes, with pockets of fog settling softly in the corners, shrouding familiar landscapes in mystery. Dress accordingly in layers, perhaps a light rain jacket over a soft sweater, allowing for comfort as the temperatures drift toward the evening chill.\n\nAs you consider your evening plans, the atmosphere suggests introspection and simple pleasures. Perhaps a stroll through a local caf\u00e9 tucked away from the drizzle would be rewarding, where the scent of freshly brewed coffee mingles with the comforting sound of rain pattering against the windows. Alternatively, you might find solace in the pages of a good book, the rhythmic cadence of the rain providing a soothing backdrop. As the day unfolds, allow the quiet charm of the weather to draw you into the warmth of both ambiance and community, finding joy in the soft hush that fills the air.",
+    "color_code": "#A9B4C4",
+    "timestamp": "2025-08-20 12:08:19"
 }
