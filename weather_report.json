@@ -7,33 +7,33 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-21T03:45:00+00:00",
+            "timestamp": "2025-08-21T07:45:00+00:00",
             "temperature_f": 55.4,
             "temperature_c": 13,
             "humidity": 93.65072411462,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Light Rain"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2025-08-21T00:00:00-04:00",
+                "startTime": "2025-08-21T04:00:00-04:00",
                 "endTime": "2025-08-21T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 58,
+                "temperature": 55,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 25
+                    "value": 18
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers before 2am. Cloudy, with a low around 58. Northeast wind around 7 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers. Cloudy, with a low around 55. Northeast wind around 6 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-08-21T06:00:00-04:00",
                 "endTime": "2025-08-21T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 69,
+                "temperature": 70,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 15
                 },
-                "windSpeed": "7 to 15 mph",
+                "windSpeed": "6 to 15 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 69. Northeast wind 7 to 15 mph."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain showers before 7am. Mostly cloudy, with a high near 70. Northeast wind 6 to 15 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the quiet hours of the night settle over Boston, the air carries the muted promise of rain, a soft whisper amid the heavy clouds. Temperatures linger comfortably around a gentle 58 degrees, while a northeast wind brushes against the skin, lending a degree of chill that suggests one might appreciate an extra layer. The forecast mentions a 30 percent chance of showers\u2014a light tickle of moisture poised to refresh the city before dawn breaks. Those who find themselves awake may spot the occasional glimmer of light through the thickening gloom.\n\nAs the morning unfolds, a transformation is anticipated. The clouds will gradually part, revealing glimpses of blue and the sun's delicate embrace, ushering in a high that flirts with 69 degrees. The northeast wind will play a lively tune, swelling to 15 mph, perfect for those venturing outside. Dress in layers, perhaps a light sweater paired with breathable clothing, to prepare for the day's warm embrace contrasted with the crisp remnants of the night. Throughout the day, the atmosphere promises a delightful blend of clarity and comfort\u2014ideal for a gentle stroll along the Charles River, where the reflections shimmer like stories waiting to be told, or perhaps a quiet visit to one of Boston\u2019s charming caf\u00e9s, where great coffee and good conversation await. Enjoy this serene respite amidst the promise of late summer, in a city that never fails to charm.",
-    "color_code": "#4a8cdb",
-    "timestamp": "2025-08-21 00:08:49"
+    "weather_report": "As dawn approaches in Boston, the world remains shrouded in a gentle cloak of cloud cover and the remnants of last night\u2019s shadows. The air sits softly around 55 degrees, with a slight chill carried by a delicate northeast breeze, barely whispering through the urban",
+    "color_code": null,
+    "timestamp": "2025-08-21 04:10:10"
 }
