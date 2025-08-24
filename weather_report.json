@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-24T03:45:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 88.10014352739,
-            "wind_speed_mph": 16.589592000000003,
+            "timestamp": "2025-08-24T15:45:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 64.933548215648,
+            "wind_speed_mph": 28.991520000000005,
             "wind_direction": 200,
-            "description": "Clear"
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-24T00:00:00-04:00",
-                "endTime": "2025-08-24T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 63. South wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-08-24T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-08-24T12:00:00-04:00",
                 "endTime": "2025-08-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 82,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 4
+                    "value": 3
                 },
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 82. South wind 7 to 13 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 82. South wind around 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-24T18:00:00-04:00",
+                "endTime": "2025-08-25T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 13
+                },
+                "windSpeed": "5 to 12 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 1am. Mostly cloudy, with a low around 65. South wind 5 to 12 mph."
             }
         ]
     },
-    "weather_report": "As Boston lingers in the tranquil embrace of the night, a soft serenity envelops the city. The air is warm, holding the promise of a late summer's evening, with a gentle south wind whispering through the streets. The stillness of the moment offers a peaceful transition into tomorrow, as the forecast hints at a day unfolding under mostly sunny skies. By midday, golden rays will dance over the rooftops, inviting smiles and warmth against the backdrop of a high that will graciously hover near 82 degrees.\n\nFor those who choose to venture beyond their doorsteps, consider light layers\u2014a short-sleeved shirt or a airy dress, paired with breathable fabrics that allow for ease in the humidity of the afternoon. A leisurely stroll along the waterfront, watching boats glide, or perhaps a quiet visit to a local caf\u00e9, savoring freshly brewed coffee, could weave beautiful moments into the tapestry of the day. Embrace the simple joys that this summer Saturday offers, with the sun illuminating paths just waiting to be wandered.",
-    "color_code": "#F4C2A0",
-    "timestamp": "2025-08-24 00:11:44"
+    "weather_report": "As the afternoon sun descends upon Boston, a gentle warmth envelops the city, with wisps of clouds gracefully drifting across an ever-brightening sky. The temperature dances around a balmy 82 degrees, inviting those with a spirit of adventure to step outside and breathe in the sweet promise of late summer. The south wind nudges at 13 miles per hour, adding an invigorating touch to the afternoon air. However, as the hours progress toward nighttime, the serene tableau may shift, with the possibility of rain showers materializing in the early morning hours. Clouds will cloak the evening sky, and temperatures will ease into a comfortable low of 65.\n\nIn this delicate transition from day to night, the ambiance offers a canvas for simple pleasures. Consider strolling along the Charles River, where the water gently ripples against the shore and the soft patter of footsteps mixes with the occasional sound of distant laughter. A light jacket may serve well as the sun dips below the horizon, preparing to usher in a night where the rhythm of rain might accompany your dreams. Perhaps, after the walk, you could indulge in an intimate caf\u00e9 where the scent of freshly brewed coffee mingles with the aroma of baked goods\u2014each moment a small joy waiting to be savored. The day, though shifting, remains filled with the pulse of urban life, mindful of the playful unpredictability that the evening has in store.",
+    "color_code": "#A9CBB7",
+    "timestamp": "2025-08-24 12:07:20"
 }
