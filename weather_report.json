@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-24T19:45:00+00:00",
-            "temperature_f": 80.6,
-            "temperature_c": 27,
-            "humidity": 54.334416034089,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 180,
+            "timestamp": "2025-08-25T00:15:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 88.27004464254,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 160,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-24T16:00:00-04:00",
-                "endTime": "2025-08-24T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 82,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 82. South wind around 12 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-24T18:00:00-04:00",
+                "startTime": "2025-08-24T20:00:00-04:00",
                 "endTime": "2025-08-25T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 65,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 21
                 },
-                "windSpeed": "3 to 10 mph",
+                "windSpeed": "3 to 8 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog between 3am and 4am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 65. South wind 3 to 10 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy fog between 3am and 4am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 65. South wind 3 to 8 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-08-25T06:00:00-04:00",
+                "endTime": "2025-08-25T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 82,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 27
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/tsra_hi,30?size=medium",
+                "shortForecast": "Patchy Fog then Slight Chance Showers And Thunderstorms",
+                "detailedForecast": "Patchy fog and a slight chance of rain showers before 7am, then a chance of rain showers and patchy fog between 7am and 2pm, then a slight chance of showers and thunderstorms between 2pm and 4pm, then a chance of showers and thunderstorms between 4pm and 5pm, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 82. South wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sun offers a warm embrace amid a canvas of soft clouds drifting lazily across the sky. With temperatures hovering near 82 degrees, the gentle south wind adds a refreshing touch to a day that resonates with quiet beauty. As the hours stretch into the evening, expect a tender shift; patchy fog and the faint whisper of potential rain showers may grace the streets, shrouding the familiar skyline with a whimsical veil. The low tonight will settle around 65, inviting the coolness of the night air to gather around you like a comforting shawl.\n\nAs the day unfolds, consider dressing in light layers to navigate the warm afternoon and the possibly cooler evening ahead. Whether you choose to take a leisurely stroll along the Charles River or savor a moment with a book in a sun-dappled park, the day beckons with a gentle invitation. Enjoy a refreshing cold drink as you lose yourself in the sights and sounds of the city\u2014a perfect harmony of summer's last whispers melding effortlessly into the promise of autumn's embrace.",
-    "color_code": "#87CEFA",
-    "timestamp": "2025-08-24 16:07:22"
+    "weather_report": "As dusk blankets Boston, a gentle cloak of mist begins to settle over the region, hinting at the patchy fog that will gather in the hours to come. The night promises a certain stillness, punctuated by the occasional whisper of rain\u2014a light, fleeting presence that mingles with the warmth lingering in the air. With temperatures embracing a comfortable 65 degrees, the south wind, soft and unhurried, drifts slowly across the streets, carrying with it the promise of the day ahead.\n\nTomorrow unfolds with possibilities, as the dawn greets the city with a mix of clouds and the chance of sporadic rain showers. Early risers may witness the veil of fog cling to the horizon until the warm embrace of the sun pierces through, inviting brightness into the day. As the sun climbs, a high near 82 beckons, urging residents to shed any heavy layers in favor of light, breathable clothing. Those who venture outdoors might consider a leisurely stroll along the waterfront or a visit to a local caf\u00e9, where the ambient sounds of the city meet the aroma of fresh brews. Given the intermittent chance of showers and thunderstorms later in the afternoon, an umbrella could serve as a faithful companion, shielding one from the whims of nature while embracing the serenity of urban life.",
+    "color_code": "#AFAFAF",
+    "timestamp": "2025-08-24 20:32:36"
 }
