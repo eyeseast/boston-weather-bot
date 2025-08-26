@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-25T19:45:00+00:00",
-            "temperature_f": 82.4,
-            "temperature_c": 28,
-            "humidity": 54.583776611198,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 230,
+            "timestamp": "2025-08-26T00:15:00+00:00",
+            "temperature_f": 71.6,
+            "temperature_c": 22,
+            "humidity": 88.436416127982,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 170,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-25T16:00:00-04:00",
-                "endTime": "2025-08-25T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 82,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 28
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,30?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms. Mostly sunny, with a high near 82. South wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-25T18:00:00-04:00",
+                "startTime": "2025-08-25T20:00:00-04:00",
                 "endTime": "2025-08-26T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 23
+                    "value": 14
                 },
-                "windSpeed": "6 to 9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/sct?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
-                "detailedForecast": "A slight chance of showers and thunderstorms before 8pm. Partly cloudy, with a low around 61. Southwest wind 6 to 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 61. West wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-08-26T06:00:00-04:00",
+                "endTime": "2025-08-26T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 79,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "10 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 79. West wind 10 to 14 mph."
             }
         ]
     },
-    "weather_report": "As afternoon lingers gently over Boston, the air is ripe with a blend of potential and warmth. The sun casts a golden hue across the landscape, encouraging those who venture outside to savor the slight tug of summer lingering in the breeze. Though clouds dapple the sky like scattered thoughts, the sun still asserts itself, reaching a high around 82. A whisper of wind from the south adds a languid grace to the day, while the distinct possibility of showers and thunderstorms hovers like a soft promise, reminding us that even the brightest days can veer into unexpected territory.\n\nAs twilight approaches, the atmosphere shifts to a slight chill, inviting a touch of warmth as temperatures dip to around 61. Clouds carry the weight of possibility\u2014a slight chance for a drizzling shower or a brief rumble of thunder before nightfall. For the discerning wanderer, this transitional day calls for a layered approach; a light shirt under a comfortable jacket could provide that perfect balance against the cool evening that lies ahead. It\u2019s a fine time for a walk through the tree-lined streets, or perhaps a quiet moment at your favorite caf\u00e9, basking in the day\u2019s remaining glow. As the light begins to fade, consider an evening out\u2014perhaps a stroll along the harbor, where the reflections of the city dance in the water, unbothered by the chance of rain.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-08-25 16:07:46"
+    "weather_report": "As twilight embraces Boston, the evening air settles gently, carrying a soft, comforting warmth. The sky reveals a tapestry of hues, a signal of the receding day, as the stars begin their silent watch over the city. Tonight, you can expect mostly clear skies, with a low around 61 degrees\u2014a balmy atmosphere stirred by a light west wind whispering through the trees. It\u2019s a night that breathes tranquility, inviting leisurely strolls along the river or quiet moments on a balcony, a book in hand, while sipping something soothing, perhaps a warm cup of chamomile.\n\nAs dawn breaks tomorrow, Boston will awaken to a sunny delight. Expect the sun to stretch its arms wide, reaching a high near 79, a perfect canvas for those who seek to indulge in the outdoors. With a brisk west wind nudging the day along, it\u2019s the kind of weather that calls for light layers\u2014a comfortable t-shirt paired with a breezy cardigan for the morning chill, easily shed as the sun bathes the day in warmth. Perhaps a visit to the local farmer's market or a leisurely bike ride along the Common will be in order. Whatever you choose, the landscape promises a splendid day for those willing to step outside and savor the simple pleasures that this delightful weather brings.",
+    "color_code": "#FFCBA4",
+    "timestamp": "2025-08-25 20:31:12"
 }
