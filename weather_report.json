@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-27T07:38:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog/Mist"
+            "timestamp": "2025-08-27T15:45:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 41.168278650675,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 260,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-27T04:00:00-04:00",
-                "endTime": "2025-08-27T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 57. West wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-08-27T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-08-27T12:00:00-04:00",
                 "endTime": "2025-08-27T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 75,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 35
                 },
-                "windSpeed": "5 to 9 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/tsra_hi,40?size=medium",
-                "shortForecast": "Partly Sunny then Scattered Showers And Thunderstorms",
-                "detailedForecast": "Scattered rain showers between noon and 2pm, then scattered showers and thunderstorms. Partly sunny, with a high near 75. Northwest wind 5 to 9 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,40?size=medium",
+                "shortForecast": "Scattered Showers And Thunderstorms",
+                "detailedForecast": "Scattered rain showers before 2pm, then scattered showers and thunderstorms. Partly sunny, with a high near 75. West wind around 9 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-27T18:00:00-04:00",
+                "endTime": "2025-08-28T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 16
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/few?size=medium",
+                "shortForecast": "Isolated Rain Showers then Mostly Clear",
+                "detailedForecast": "Isolated rain showers before 7pm. Mostly clear, with a low around 53. West wind 3 to 7 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the early hours of dawn envelop Boston, the gentle embrace of a partly cloudy sky offers a hint of what\u2019s to come. The night has retreated, leaving behind a serene atmosphere defined by a cool, crisp breeze. You might find a comfortable layer quite inviting as the temperatures rest around a mild 57 degrees. This delicate transition invites morning rituals\u2014perhaps a warm cup of coffee on a quiet stoop, allowing the awakening city to unfold in whispers and distant echoes.\n\nAs the day unfolds, expect the clouds to part momentarily, revealing patches of blue while scattered rain showers creep in between noon and the late afternoon. There\u2019s a 40% chance of rain, which may bring with it a few rumbles of thunder, turning the tranquil ambiance into a symphony of nature\u2019s unpredictability. Dress in layers with a light jacket ready at hand, and consider waterproof footwear if you're venturing outside; a spontaneity to leap into a caf\u00e9 or wardrobe change may very well suit the day\u2019s rhythm. Given these conditions, a stroll through the Boston Common could be delightfully meandering, perhaps punctuated by a visit to a gallery or a quiet corner of a park, enjoying the fleeting moments of sunlight before the skies shift again.",
-    "color_code": "#A9B7B3",
-    "timestamp": "2025-08-27 04:09:32"
+    "weather_report": "This afternoon, Boston is caught in a delicate dance, where scattered showers flirt with the bright sun, casting a warm golden hue over everything near and far. The air hums with a hint of moisture as those storm clouds gather playfully, hinting at thunder before the day finds its rhythm again. With temperatures hovering around a delightful 75 degrees, it\u2019s an embrace of warmth that beckons one outdoors, tempered by a gentle breeze rustling through the trees. While it may feel a bit unsettled with the threat of rain lingering, the charm of a partially sunny sky offers glimpses of blue, nudging Boston toward a pleasantly lively afternoon.\n\nAs evening approaches, the clouds will ease into a more serene demeanor, giving way to a mostly clear sky where the stars might peek through in their soft glow, a fitting wordless farewell to a day that straddles summer's end. The temperature dipping to a comfortable 53 degrees invites light layers: perhaps a cardigan to ward off the coolness as you enjoy a quiet stroll along the waterfront or sip coffee at your favorite caf\u00e9, watching the hustle fade into a tranquil twilight. This day is for a gentle exploration, a moment to savor the subtle transformation of nature and the embrace of a late summer\u2019s eve.",
+    "color_code": "#A3C1E1",
+    "timestamp": "2025-08-27 12:08:21"
 }
