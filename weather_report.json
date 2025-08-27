@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-26T19:50:00+00:00",
-            "temperature_f": 75.2,
-            "temperature_c": 24,
-            "humidity": 38.493993567539,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 280,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-08-27T02:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-26T16:00:00-04:00",
-                "endTime": "2025-08-26T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 80,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 80. West wind around 13 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-08-26T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-08-27T00:00:00-04:00",
                 "endTime": "2025-08-27T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 4
                 },
-                "windSpeed": "5 to 12 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 56. West wind 5 to 12 mph."
+                "detailedForecast": "Mostly clear, with a low around 56. West wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-08-27T06:00:00-04:00",
+                "endTime": "2025-08-27T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 76,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 25
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 11am. Mostly sunny, with a high near 76. Northwest wind around 7 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the sun begins its slow descent this afternoon, Boston is enveloped in a warmth reminiscent of early autumn days, with the gentle caress of a westward breeze. The sky presents a tranquil canvas, bright and largely unblemished, suggesting a day unburdened by fog or clouds too thick. High temperatures hover near a pleasant 80 degrees, an invitation for passersby to shed the confines of home and explore the lively streets or picturesque parks. With the sun still casting a golden hue, the evening beckons for light attire\u2014short sleeves and comfortable shorts will do well, perhaps complemented by a light sweater for those cooler moments as twilight approaches.\n\nTonight, the air continues its transition into a comfortable embrace, with temperatures dipping to around 56, fostering a serene atmosphere ideal for evening strolls or relaxed gatherings with friends outdoors. The mostly clear skies will unveil a tapestry of stars, perfect for those who enjoy contemplating the universe on a quiet Boston night. With such favorable conditions, one might indulge in a leisurely dinner at an outdoor caf\u00e9, or take a thoughtful walk along the Charles, celebrating the gentle lull of a summer\u2019s end. The day lends itself beautifully to both spontaneity and calm reflection, a perfect encapsulation of Boston's vibrant spirit as it moves from day into night.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-08-26 16:07:47"
+    "weather_report": "As the city of Boston rests under a mostly clear night, the air is mild, with temperatures hovering around a comfortable 56 degrees. The gentle westward breeze whispers secrets of the coming day, stirring the quiet streets and inviting the night owl into a serene moment of reflection. In the early hours, the city glimmers, punctuated only by the distant glow of city lights weaving a tapestry of warmth against the cool night sky.\n\nAs dawn breaks, you may find yourself caught in the tranquil embrace of a late summer\u2019s day\u2014an array of sunshine dances above, promising a high near 76 degrees. However, linger not too long in your morning activities, for a chance of rain showers flirts with the latter half of the day. With a subtle northwest wind reminding us of autumn's approach, it's a day that calls for comfort\u2014perhaps a light sweater to ward off the fleeting coolness in the morning and an umbrella close at hand should the clouds decide to weep. \n\nConsider a leisurely stroll down to the waterfront, breathing deeply the crisp air mingled with the salty tang of the sea, or lose yourself in the pages of a book at one of Boston\u2019s lovely parks, where the colors of nature canvas the ground. A late afternoon visit to a local caf\u00e9 could also allow you to savor a warm coffee while watching the sky play its colors\u2014a perfect tribute to the magic of a city poised on the edge of seasons.",
+    "color_code": "#6A9D8D",
+    "timestamp": "2025-08-27 00:08:25"
 }
