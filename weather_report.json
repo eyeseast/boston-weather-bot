@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-27T19:50:00+00:00",
-            "temperature_f": 77.0,
-            "temperature_c": 25,
-            "humidity": null,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 300,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-08-28T00:10:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 55.910188768411,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-27T16:00:00-04:00",
-                "endTime": "2025-08-27T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 76,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 26
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,30?size=medium",
-                "shortForecast": "Scattered Showers And Thunderstorms",
-                "detailedForecast": "Scattered showers and thunderstorms. Mostly sunny, with a high near 76. West wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-27T18:00:00-04:00",
+                "startTime": "2025-08-27T20:00:00-04:00",
                 "endTime": "2025-08-28T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 18
+                    "value": 0
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/few?size=medium",
-                "shortForecast": "Isolated Showers And Thunderstorms then Mostly Clear",
-                "detailedForecast": "Isolated showers and thunderstorms before 7pm. Mostly clear, with a low around 54. West wind around 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 54. West wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-08-28T06:00:00-04:00",
+                "endTime": "2025-08-28T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 78,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 78. Southwest wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the sun hangs lazily in the afternoon sky, its warm rays coax the temperature towards a gentle peak of 76. In Boston today, the air is laced with the promise of scattered showers and distant rumbles of thunder, though the optimism of sunshine prevails. The world around is bathed in brilliant light, revealing the vibrant colors of late summer, punctuated occasionally by lazy clouds meandering overhead. While a playful breeze tiptoes through, the chance of rain hangs just lightly in the air, hinting at a possible shower or two, but nothing that should dampen the spirit of the day.\n\nAs the evening creeps in, expect the skies to transform into a canvas of deeper hues, with the likelihood of isolated showers giving way to moments of clarity. With a low of around 54, there\u2019s a subtle chill in the air that might beckon a cozy sweater or a light jacket as twilight descends. For those contemplating evening strolls or casual gatherings, it could be wise to embrace an outfit layered for comfort, allowing for the ebb and flow of the cooling temperatures. Indeed, this weather invites leisurely discoveries\u2014perhaps a quiet moment by the waterfront or a visit to a local caf\u00e9, sipping something warm while watching the day gracefully fade into night.",
-    "color_code": "#7EC8E3",
-    "timestamp": "2025-08-27 16:07:46"
+    "weather_report": "As twilight deepens over Boston, the evening air remains pleasantly calm and clear, with a gentle breeze whispering through the streets. The forecast suggests a serene night ahead, temperatures settling around a comfortable 54 degrees. With no signs of fog to obscure the skyline, the city is bathed in the shimmering glow of lights, the horizon tinged with the fading warmth of dusk, inviting strolls along the Charles River or quiet moments on a porch. \n\nLooking towards tomorrow, the promise of sunshine and gentle southwest winds beckons a day of exploration, with highs reaching near 78 degrees. It will be the kind of day that calls for lightweight sweaters or long-sleeved shirts in the morning, eventually giving way to short sleeves as the sun climbs higher. Perhaps one might wander through the winding paths of the Boston Public Garden or visit a local caf\u00e9 for a leisurely afternoon coffee, enjoying the pleasantness of an August day winding down. The air, fresh and invigorating, allows for a casual elegance in dress and leisure, perfectly suited for a meaningful embrace of life in this vibrant city.",
+    "color_code": "#6cb9f2",
+    "timestamp": "2025-08-27 20:30:20"
 }
