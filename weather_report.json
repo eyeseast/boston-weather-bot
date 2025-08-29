@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-29T07:53:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog/Mist"
+            "timestamp": "2025-08-29T11:53:00+00:00",
+            "temperature_f": 62.059999999999995,
+            "temperature_c": 16.7,
+            "humidity": 86.300074459093,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 160,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-08-29T04:00:00-04:00",
-                "endTime": "2025-08-29T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 13
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 61. South wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-08-29T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-08-29T08:00:00-04:00",
                 "endTime": "2025-08-29T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 76,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 85
                 },
-                "windSpeed": "6 to 13 mph",
+                "windSpeed": "8 to 14 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/tsra_sct,90?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "A chance of rain showers before noon, then showers and thunderstorms. Mostly cloudy, with a high near 76. South wind 6 to 13 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "A chance of rain showers before noon, then showers and thunderstorms. Mostly cloudy, with a high near 76. South wind 8 to 14 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-08-29T18:00:00-04:00",
+                "endTime": "2025-08-30T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 79
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,80/tsra_hi,20?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Showers and thunderstorms before 1am. Partly cloudy, with a low around 54. West wind 6 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In the pre-dawn hours of Boston, a thick cloak of clouds envelops the city, the remnants of night still lingering as a gentle shroud. The atmosphere feels charged with the potential of the day ahead, bearing hints of moisture and warmth. With the temperature holding steady around a mild 61 degrees, a soft south wind stirs, whispering promises of both rain and renewal. As the morning unfolds, a deepening grayness will soon give way to the sound of raindrops tapping on windows, heralding a day marked by the mix of clouds and fleeting thunderstorms.\n\nAs you consider venturing out, it's wise to prepare for the impending showers. Light layers would serve you best; a comfortable shirt accompanied by a waterproof jacket will safeguard against the elements without sacrificing breathability. The morning\u2019s uncertainty invites simpler pleasures: perhaps a stroll down the waterfront to savor the crisp air and watch the fog dance over the harbor, or a quiet morning at a nearby caf\u00e9, indulging in a fragrant brew while the city transitions into the rhythm of the day. While outdoor plans may feel muted, finding joy in the small moments, wrapped in the embrace of a cozy sweater, might prove the perfect antidote to the drizzly forecast.",
-    "color_code": "#4F4C3B",
-    "timestamp": "2025-08-29 04:09:33"
+    "weather_report": "As the day breaks in Boston, a tapestry of gray clouds unfurls across the sky, hinting at a day that promises to be both lively and damp. The air carries a weight of anticipation, with rain showers lingering like whispered secrets before noon. This morning, the temperature hovers around a comfortable warmth, inviting one to venture out despite the palpable possibility of thunderstorms lurking just beyond the horizon. A gentle south wind stirs, and the scent of fresh rain flirts with the coolness of approaching autumn.\n\nAs the day unfolds, expect the familiar rhythm of city life to be punctuated by the pitter-patter of rain and the occasional rumble of thunder, creating a symphony synonymous with the New England climate. The skies remain mostly cloudy, veiling the sunlight, yet a sprinkle of brightness breaks through here and there. With a high around 76, one might find solace in layered clothing\u2014perhaps a light, waterproof jacket over a soft sweater, allowing for comfort before the anticipated coolness settles in later tonight. \n\nAs evening approaches, the excitement of summer storms gives way to a cooler, more tranquil ambiance. Partly cloudy skies usher in a refreshing drop in temperature, so those wandering the streets will likely find the crisp air a welcome embrace. A late stroll to a cozy caf\u00e9, ideally with a seat by the window to watch the city reflect the glistening raindrops, would be a delightful way to savor the day\u2019s ambiance. While the forecast calls for rain, it also paints a portrait of a city alive with transformation, urging you to pause and appreciate the rhythm of nature and the art of being present in the moment.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-08-29 08:11:59"
 }
