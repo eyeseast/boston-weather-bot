@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-08-29T19:50:00+00:00",
-            "temperature_f": 69.8,
-            "temperature_c": 21,
-            "humidity": 64.287246008636,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 180,
-            "description": "Light Rain"
+            "timestamp": "2025-08-30T03:50:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 100,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-29T16:00:00-04:00",
-                "endTime": "2025-08-29T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 76,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 85
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,90?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Showers and thunderstorms. Partly sunny, with a high near 76. Southwest wind around 8 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-08-29T18:00:00-04:00",
+                "startTime": "2025-08-29T20:00:00-04:00",
                 "endTime": "2025-08-30T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 54,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 79
+                    "value": 51
                 },
                 "windSpeed": "6 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,80/tsra_hi,20?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Showers and thunderstorms before 1am. Mostly cloudy, with a low around 54. West wind around 6 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,50/sct?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
+                "detailedForecast": "A chance of showers and thunderstorms before midnight. Partly cloudy, with a low around 54. West wind around 6 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-08-30T06:00:00-04:00",
+                "endTime": "2025-08-30T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 75,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 75. Northwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the air is electric, charged with the expectancy of showers and potential thunderstorms, a tapestry of clouds darkening the sky overhead. Though the temperature gracefully flirts with the mid-70s, the mood whispers of humidity and rain, as the wind carries a gentle warmth that dances among the trees. The scent of imminent rain mingles with the earthy tones of the city, creating a rich atmosphere that feels both languid and dynamic. As the hours slip by, those venturing outdoors should keep umbrellas at the ready, knowing that the chance of precipitation looms large, while the prospect of cooler temperatures later in the evening calls for a light jacket or sweater.\n\nAs twilight approaches, retreating into the comforting embrace of home feels inviting, or perhaps you might prefer the charm of a local caf\u00e9\u2014a perfect nook to sip hot tea or coffee while watching raindrops race down the windowpane. For those with the spirit of adventure, a leisurely stroll through the cobblestone streets may reveal the city\u2019s softer side, where rain-soaked sidewalks glisten under the fading light. Yet, be mindful; as the clock nears midnight, clouds will linger, ushering in a cooler night perfect for curling up with a good book. Tonight offers a moment to embrace the cozy, reflective ambiance that a September evening in Boston provides.",
-    "color_code": "#6B7B93",
-    "timestamp": "2025-08-29 16:07:27"
+    "weather_report": "As the night unfurls over Boston, a gentle whisper of summer lingers in the air, hinting at the possibility of showers that may grace the city before midnight. The temperature rests comfortably, suggesting a mild embrace through the evening. There\u2019s a touch of anticipation in the atmosphere\u2014a juxtaposition of fleeting warmth and the cool breath of the west wind. What unfolds, however, offers promises of tranquility as dawn approaches. \n\nTomorrow, the sun is set to stretch its limbs and bask the city in golden light, achieving a high near 75 degrees; a perfect setting for outdoor pursuits. As the rays warm the sidewalks, a brisk northwest breeze ushers in clarity, painting the streets with a cheerful disposition. The beauty of this late summer day invites you to venture out: perhaps a stroll along the waterfront, where the water reflects the changing colors of the sky, or a leisurely afternoon spent in a local caf\u00e9, absorbing the rhythm of the city. Given the day's pleasant forecast, a light sweater or a casual shirt paired with comfortable trousers will serve well to capture the essence of the day\u2014easy, breezy, and just right for a slice of Boston life as summer bids adieu.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-08-30 00:08:00"
 }
