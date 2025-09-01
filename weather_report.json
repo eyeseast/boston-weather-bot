@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-01T00:05:00+00:00",
-            "temperature_f": 60.8,
-            "temperature_c": 16,
-            "humidity": 77.155040268598,
+            "timestamp": "2025-09-01T07:56:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-08-31T16:00:00-04:00",
-                "endTime": "2025-08-31T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 76,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 76. East wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-08-31T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-09-01T04:00:00-04:00",
                 "endTime": "2025-09-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 55. South wind 2 to 6 mph."
+                "windSpeed": "3 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 55. Northwest wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Labor Day",
+                "startTime": "2025-09-01T06:00:00-04:00",
+                "endTime": "2025-09-01T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 72,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 72. Northeast wind 3 to 9 mph."
             }
         ]
     },
-    "weather_report": "As dusk gracefully drapes over Boston, the remnants of a warm summer day linger in the air. The gentle breeze brushes against warm skin, and the clarity of the evening sky hints at the serene joy found just before nightfall. Tonight, the thermostat is set at a comfortable level, suggesting that a light jacket or sweater might be welcome as the chill settles in. The quaint streets, illuminated by the soft orange glow of streetlamps, invite leisurely strolls, perhaps along the Charles River, where reflections dance on the water's surface.\n\nTomorrow promises to be a sun-soaked affair, inviting all to embrace the outdoors with open arms. A high of seventy-six beckons city dwellers to explore parks or perhaps indulge in a leisurely brunch on a sun-dappled patio. With clear skies and a gentle east wind weaving through the trees, it\u2019s a day made for simple pleasures\u2014perhaps a visit to a local farmer\u2019s market, where the scents of ripe produce and fresh flowers mingle in the air. This is a time to savor late summer's bounty before the cool embrace of autumn takes hold, a chance to relish moments shared beneath a broad expanse of blue.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-08-31 20:38:04"
+    "weather_report": "As the quiet of early morning envelops Boston, the city rests beneath a canopy of whispers, the sky still draped in a deep navy. Overnight temperatures have dipped gently to a comfortable embrace, leaving a crispness in the air that heralds the approach of autumn. The dawn offers a hint of clarity, promising a day where the sun, though not fully unrestrained, will shine through a tapestry of clouds that are neither threatening nor burdensome.\n\nAs the day's warmth begins to seep in, expect the air to transform into a comforting medium, with highs nudging towards 72. A light northeast breeze will accompany this gentle rise, perfect for leisurely strolls down the tree-lined avenues. It\u2019s a day that invites simplicity: perhaps a stroll through Boston Common, a cup of coffee warming one\u2019s hands as you amble past the statues and the winding paths. Given the marginally cool start, dressing in layers will be prudent, allowing for the easy shedding of a light jacket as the sun climbs higher, illuminating both the city and the spirit.\n\nWith the labor day unfolding softly ahead, the slight warmth and the playful nature of the clouds set the stage for easygoing pursuits\u2014a visit to a local caf\u00e9, wandering through street markets, or perhaps diving into a good book at a cozy corner. Let this day linger. The serenity of the morning is just a prelude to a gentle afternoon, beckoning one to embrace the beauty of the mundane.",
+    "color_code": "#A9C0DB",
+    "timestamp": "2025-09-01 04:10:22"
 }
