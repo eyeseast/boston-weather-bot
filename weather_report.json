@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-01T19:45:00+00:00",
-            "temperature_f": 71.6,
-            "temperature_c": 22,
-            "humidity": 60.470206383168,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 50,
-            "description": "Clear"
+            "timestamp": "2025-09-02T03:53:00+00:00",
+            "temperature_f": 55.04,
+            "temperature_c": 12.8,
+            "humidity": 100,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Labor Day",
-                "startTime": "2025-09-01T16:00:00-04:00",
-                "endTime": "2025-09-01T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 73,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 73. East wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-09-01T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-09-02T00:00:00-04:00",
                 "endTime": "2025-09-02T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 56. Northeast wind 2 to 7 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 56. Northeast wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-09-02T06:00:00-04:00",
+                "endTime": "2025-09-02T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 76,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 76. Northeast wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "Boston finds itself on this Labor Day draped in a quilt of muted gray clouds, casting a gentle yet pervasive softness over the cityscape. The air feels mild and inviting, holding a whisper of the ocean\u2019s breath, as light breezes tease the leaves of nearby trees. The current ambiance is one of quiet contemplation; although the sun may hide behind a veil, it allows for comfortable moments spent in leisurely pursuits. As evening approaches, the warmth of summer lingers, mingling with the balanced coolness of the coming night.\n\nThe forecast hints at an evening reminiscent of a well-loved book, with temperatures dipping to a cozy embrace around 56 degrees. For those venturing out, a light jacket or perhaps a stylish sweater will prove to be the appropriate choice as the sun sets, inviting the first stars to emerge in the cool, crisp evening sky. This may be an ideal time to explore the local cafes or take a gentle stroll along the Charles River, where the reflective waters mirror the soft hues of twilight. Let this day unfold slowly, as Boston's weather reminds us to savor the quiet elegance of these transitioning moments before autumn approaches, bringing a fresh chapter to the season.",
-    "color_code": "#A9B4C5",
-    "timestamp": "2025-09-01 16:07:12"
+    "weather_report": "As the early hours of Tuesday unfurl, Boston lies under a soft cloak of clouds, lending a tranquil, muted atmosphere to the night. The city\u2019s lights flicker like distant stars, their reflections dancing gently against an almost immeasurable darkness. With temperatures resting comfortably in the mid-fifties, a mild northeast breeze whispers through the air, inviting those awake to feel the tender caress of a new day inching closer.\n\nCome morning, the clouds will part to reveal a brilliant blue sky, promising warmth as the day progresses toward a high near seventy-six degrees. It will be a splendidly sunny outing, perfect for light attire\u2014perhaps a crisp cotton shirt paired with breathable trousers, and comfortable shoes made for a wandering spirit. Considering the inviting conditions, a stroll through one of Boston\u2019s historic neighborhoods beckons. While the caf\u00e9s may tempt with their offerings, perhaps instead a leisurely exploration of the waterfront or a gentle jaunt through a colorful garden will bring a quieter enrichment to your day. Today holds the subtle charm of pleasant pursuits, gently coaxing you to embrace the beauty of simplicity amidst the urban landscape.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-09-02 00:08:37"
 }
