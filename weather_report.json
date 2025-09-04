@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-04T07:40:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog/Mist"
+            "timestamp": "2025-09-04T15:50:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 53.576211354435,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 160,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-04T04:00:00-04:00",
-                "endTime": "2025-09-04T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 55. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-09-04T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-09-04T12:00:00-04:00",
                 "endTime": "2025-09-04T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 80,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 80. South wind 5 to 10 mph."
+                "detailedForecast": "Sunny, with a high near 80. South wind 7 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-04T18:00:00-04:00",
+                "endTime": "2025-09-05T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 22
+                },
+                "windSpeed": "8 to 12 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,20?size=medium",
+                "shortForecast": "Partly Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers between 1am and 2am, then patchy fog and a slight chance of rain showers. Partly cloudy, with a low around 62. South wind 8 to 12 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dawn approaches over Boston, the night clings softly to the city, illuminated by the flicker of distant lights, casting a gentle glow across the landscape. The air is mild, a whisper of warmth lingering as temperatures rest close to a comfortable 55 degrees. There\u2019s a quiet, almost contemplative stillness to the morning, the kind that invites introspection and a leisurely start to the day. The clear skies are yet to fully reveal their brilliance, but the promise of a sun-drenched afternoon awaits, as temperatures are expected to rise to a delightful 80 degrees under the auspices of a light-south wind.\n\nToday will unfold into a splendid opportunity to venture outdoors. With the sun anticipated to break through, creating a tapestry of warmth and light, the city calls for casual attire\u2014a simple yet stylish ensemble to embrace the day\u2019s charm\u2014perhaps a comfortable shirt paired with chinos, and those well-loved sneakers that carry the stories of countless footsteps. The mild breeze will provide relief while wandering through the green spaces or exploring the vibrant streets of the city. This is a day suited for savoring local cafes, strolling along the waterfront, or perhaps revisiting favorite spots with fresh eyes. As the week rolls on, Boston\u2019s heartbeat pulses with energy, and today reflects a beautiful moment to engage with that rhythm, surrounded by the bright, inviting atmosphere of a quintessential late summer's day.",
-    "color_code": "#AED8E7",
-    "timestamp": "2025-09-04 04:09:34"
+    "weather_report": "As the afternoon unfolds in Boston, the sun casts its warm embrace over the city, gracing every corner with a gentle brilliance. A light breeze dances through the streets, prompting a perfect day to venture outdoors. The forecast hints at a high in the vicinity of 80, which brings a pleasant allure to the parks and waterfront. The sky, painted in shades of blue punctuated by soft clouds, invites leisurely strolls or perhaps a quiet moment at a caf\u00e9, where one can savor the simple joy of a lingering daydream.\n\nAs evening approaches, the atmosphere hints at a playful change, promising the possibility of scattered rain showers and patchy fog, especially after midnight. For those planning an evening outing, a light jacket may be wise as temperatures drop to a comfortable low of around 62. Embrace the mildness of the night with a choice of relaxed layers \u2014 breathable and easy-going, perfect for whatever the evening\u2019s adventures may hold. It\u2019s a splendid time to take in a dinner on the terrace, enjoy the company of friends, or even lose oneself in the cozy corners of a beloved bookstore, as the city shifts from the vibrant hustle of the day to the tranquil whispers of the night.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-09-04 12:08:40"
 }
