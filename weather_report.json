@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-05T03:50:00+00:00",
+            "timestamp": "2025-09-05T07:50:00+00:00",
             "temperature_f": 62.6,
             "temperature_c": 17,
-            "humidity": 93.838813960785,
+            "humidity": 100,
             "wind_speed_mph": 12.401928,
-            "wind_direction": 150,
-            "description": "Clear"
+            "wind_direction": 140,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-09-04T20:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-09-05T04:00:00-04:00",
                 "endTime": "2025-09-05T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 63,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 29
+                    "value": 41
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 2am and 4am, then a chance of rain showers and patchy fog between 4am and 5am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 63. South wind 8 to 12 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 63. South wind around 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-09-05T06:00:00-04:00",
                 "endTime": "2025-09-05T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 84,
+                "temperature": 85,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 23
                 },
-                "windSpeed": "9 to 15 mph",
+                "windSpeed": "8 to 14 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog before 8am. Partly sunny, with a high near 84. South wind 9 to 15 mph, with gusts as high as 28 mph."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/sct?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
+                "detailedForecast": "A slight chance of rain showers before 7am. Mostly sunny, with a high near 85. South wind 8 to 14 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the night wraps its muted embrace around Boston, a veil of fog shrouds the city, lending an air of mystery to the streets. The temperature rests gently around 63, with whispers of a slight chance for rain murmuring through the stillness. The soft rush of a south wind adds a touch of warmth, inviting those who venture out to wear layers that capture both comfort and a dash of adventure. Expect the flickering glow of streetlights to soften as dawn approaches, merging with the lingering haze.\n\nWith morning's arrival, the fog will begin to part, revealing a partly sunny disposition that promises delightful warmth, inching toward 84 by midday. The wind will commendably offer its spirited gusts, energizing all who meander through parks or along the Charles River. Slip into something light yet layered; perhaps a breezy shirt with a light jacket to guard against the morning chill. A stroll through the bustling streets, a casual coffee at your favorite caf\u00e9, or perhaps a gentle bike ride along scenic paths would perfectly capture the spirit of the day\u2014refreshing and inviting, allowing the city to unveil its early autumn charm.",
-    "color_code": "#D6D9D7",
-    "timestamp": "2025-09-05 00:08:42"
+    "weather_report": "As the early hours of Boston drift quietly along, a veil of gray drapes across the city. The possibility of rain showers lingers in the air, like whispered secrets between the clouds and the ground. The temperature, a warm embrace at around sixty-three degrees, invites a contemplative stillness. The relentless south wind carries with it a gentle promise of movement, causing leaves to dance softly, yet the shimmer of raindrops seems to hang just out of reach, poised in anticipation. \n\nAs the sun rises, the day will nudge itself free from the clutches of the night, with a slight chance of lingering showers disappearing before the morning truly unfolds. Instead, expect a cascade of sunlight, warming the landscape and coaxing the temperature closer to eighty-five. With the winds picking up, wearing comfortable layers will offer respite from the occasional gust as you meander through the streets. Such weather lends itself well to a stroll along the Esplanade, sipping a hot cup of coffee while the warmth of the sun cuts through the remnants of cloud cover. Seek out a quiet corner where nature does not rush, allowing this day to bloom at its own pace.",
+    "color_code": "#B0C4E4",
+    "timestamp": "2025-09-05 04:09:33"
 }
