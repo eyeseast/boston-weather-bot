@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-04T19:50:00+00:00",
-            "temperature_f": 78.8,
-            "temperature_c": 26,
-            "humidity": 47.553680242908,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Clear"
+            "timestamp": "2025-09-05T00:15:00+00:00",
+            "temperature_f": 64.4,
+            "temperature_c": 18,
+            "humidity": 88.10014352739,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 150,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-04T16:00:00-04:00",
-                "endTime": "2025-09-04T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 80,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 80. South wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-04T18:00:00-04:00",
+                "startTime": "2025-09-04T20:00:00-04:00",
                 "endTime": "2025-09-05T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 63,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 27
+                    "value": 29
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "8 to 12 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,30?size=medium",
-                "shortForecast": "Partly Cloudy then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 2am. Partly cloudy, with a low around 63. South wind 6 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,30?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers between 2am and 4am, then a chance of rain showers and patchy fog between 4am and 5am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 63. South wind 8 to 12 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-09-05T06:00:00-04:00",
+                "endTime": "2025-09-05T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 84,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "9 to 15 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Partly Sunny",
+                "detailedForecast": "Patchy fog before 8am. Partly sunny, with a high near 84. South wind 9 to 15 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon sun casts its golden glow over Boston, the sky stretches out in a gentle tapestry of blue, adorned with soft, fluffy clouds that dance languidly above. The air, warm and inviting\u2014striking a balance around the 80-degree mark\u2014beckons for leisurely strolls along the Charles River or perhaps an afternoon spent basking in one of the city\u2019s many green parks. A light southern breeze whispers through the trees, infusing the day with a sense of calm as the world turns slowly to twilight.\n\nAs evening approaches, however, the atmosphere hints at the possibility of rain. While tonight may see the clouds thicken and hold the potential for scattered showers, the warmth lingers, with temperatures lowering only slightly. As raindrops tease the pavement after midnight, it\u2019s wise to prepare for such a shift. Dressing in layers is advisable\u2014light yet capable of withstanding the fleeting coolness that follows the day\u2019s warmth. Whether one finds themselves sipping coffee at a cozy caf\u00e9 or enjoying a quiet read in a well-lit nook, now is the time to embrace the fleeting charm of this late summer day, before the evening settles in with promises of a soft patter against the windows.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-09-04 16:07:40"
+    "weather_report": "As twilight deepens over Boston, the evening is draped in a veil of clouds, hinting at the gentle embrace of moisture hanging in the air. A slight chance of rain showers lingers through the night, tapering off with only whispers of fog pending. The low temperature wraps around 63 degrees, inviting comfort but also a touch of caution for those stepping outdoors. The whispers of a south wind, steady at eight to twelve miles per hour, promise a soft caress but carry the potential for swells in gusts that may surprise you. \n\nLooking toward tomorrow, the dawn will greet us with patchy fog that should dissipate by mid-morning, giving way to a partly sunny sky that hints at a high near 84. There is warmth in that forecast, a beckoning toward lazy strolls and coffee on the porch. As the sun takes its rightful place in the sky, it might be wise to dress in layers, opting for comfortable attire that can adapt to the gentle stretch of the day. Perhaps venture out to a local caf\u00e9, or take a walk along the Esplanade where the sparkle of the Charles offers a refreshing perspective, warming the spirit as the city stirs.",
+    "color_code": "#555555",
+    "timestamp": "2025-09-04 20:30:01"
 }
