@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-06T07:50:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 93.929774401027,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 160,
+            "timestamp": "2025-09-06T12:00:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 88.353665604321,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 170,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-06T04:00:00-04:00",
-                "endTime": "2025-09-06T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 67. South wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-09-06T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-09-06T08:00:00-04:00",
                 "endTime": "2025-09-06T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 87,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 18
                 },
-                "windSpeed": "10 to 18 mph",
+                "windSpeed": "12 to 18 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
-                "shortForecast": "Mostly Sunny then Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers after 5pm. Mostly sunny. High near 87, with temperatures falling to around 81 in the afternoon. Southwest wind 10 to 18 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/sct/tsra_hi,20?size=medium",
+                "shortForecast": "Mostly Sunny then Isolated Showers And Thunderstorms",
+                "detailedForecast": "Isolated showers and thunderstorms after 5pm. Mostly sunny. High near 87, with temperatures falling to around 81 in the afternoon. Southwest wind 12 to 18 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-06T18:00:00-04:00",
+                "endTime": "2025-09-07T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 77
+                },
+                "windSpeed": "6 to 16 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,80/tsra,60?size=medium",
+                "shortForecast": "Scattered Showers And Thunderstorms then Widespread Showers And Thunderstorms",
+                "detailedForecast": "Scattered showers and thunderstorms before 7pm, then widespread showers and thunderstorms. Some of the storms could be severe. Mostly cloudy, with a low around 59. Northwest wind 6 to 16 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As the remnants of night linger over Boston, a soft murmur of clouds blankets the sky, ushering in a gentle warmth that hints at the approaching day. The temperature rests comfortably in the upper 60s, while a light breeze from the south whispers through the streets, carrying with it the promise of a sun-drenched Saturday. Expect the day to unfold with a fa\u00e7ade of vibrant sunshine, interrupted only by fleeting rain showers that may grace us after the day's peak warmth. With temperatures rising to a near balmy 87, followed by a gradual easing to the low 80s, the essence of late summer lingers like an unhurried conversation among friends.\n\nThis is the kind of day that beckons spontaneous outings\u2014a stroll along the Charles River, perhaps, where the trees stand tall and the pathways invite exploration. A light layer will serve well, accommodating the coolness of the early hours before the sun takes its throne, and later a relaxed attire will keep you comfortable as the warmth envelops you. A light sweater could provide solace as the sun retreats, making room for a picturesque evening of lingering under the stars. Engage in leisurely activities, perhaps a visit to a local caf\u00e9 where the ambiance is as vibrant as the day\u2019s colors, and enjoy the simplicity of a quiet afternoon, letting the world drift by as the clouds flirt with the horizon.",
-    "color_code": "#F1C40F",
-    "timestamp": "2025-09-06 04:07:55"
+    "weather_report": "As the dawn breaks over Boston, a gentle obscurity lingers in the air, suggesting a day that will dance between sunlit brilliance and unexpected storms. The morning greets you with a hazy warmth, promising a high that flirts with 87 degrees. Yet, as the sun begins its climb, the temperature will mellow into a comfortable embrace of around 81, guided by a spirited southwest breeze that will occasionally playfully gust through the streets, hinting at the vitality of the day ahead.\n\nWith isolated showers and thunderstorms rolling in later, it would be wise to don layers, perhaps a light shirt under a smooth jacket that can guard against unexpected bursts of rainfall. Those wandering along the river or savoring a coffee in the park should remain alert, as the afternoon\u2019s ambiance shifts, shrouded in the possibility of a thunderous serenade. As evening descends, expect a more robust downpour and perhaps a hint of drama, as the skies coordinate their efforts for a symphonic display of nature\u2019s vigor. Do keep an umbrella handy if you venture out later, but consider seizing the moment now to enjoy the brisk energy of the morning\u2014perhaps a stroll through the cobblestone streets, inviting the essence of Boston to weave itself into your thoughts. Listen closely, and you may hear whispers of both potential joy and the thrill of the impending storms.",
+    "color_code": "#A3B2C0",
+    "timestamp": "2025-09-06 08:10:23"
 }
