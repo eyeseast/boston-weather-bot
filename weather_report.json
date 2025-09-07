@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-07T07:50:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
+            "timestamp": "2025-09-07T11:50:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
             "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 280,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-07T04:00:00-04:00",
-                "endTime": "2025-09-07T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 65
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely and patchy fog. Cloudy, with a low around 61. North wind around 6 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-09-07T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-09-07T08:00:00-04:00",
                 "endTime": "2025-09-07T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 65,
@@ -52,11 +33,30 @@
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/tsra,90/tsra,80?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Rain showers likely and patchy fog before 7am, then patchy fog and showers and thunderstorms between 7am and 5pm, then patchy fog and a slight chance of rain showers. Cloudy, with a high near 65. North wind around 7 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible."
+                "detailedForecast": "Patchy fog and showers and thunderstorms before 5pm, then patchy fog and a slight chance of rain showers. Cloudy, with a high near 65. North wind around 7 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-07T18:00:00-04:00",
+                "endTime": "2025-09-08T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 16
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and a slight chance of rain showers before 1am. Mostly cloudy, with a low around 52. West wind around 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn approaches over Boston, a humid shroud of clouds blankets the city, casting a muted light that hints at the rain to come. The air feels heavy with anticipation, carrying the scent of damp earth and the whispers of a million drops waiting to fall. The forecast promises rain showers likely to dance across the landscape before the day fully awakens, with chances only increasing as morning gives way to afternoon. Fog creeps in, a gentle veil that blurs the city\u2019s outlines, transforming familiar sights into dreamy illusions. \n\nIn this atmosphere, dressing for the day calls for comfort mixed with practicality\u2014a light, water-resistant jacket will serve well against the impending downpour, while breathable layers beneath will suit the humidity. The choice of sturdy footwear is wise, prepared for both puddles and the soft squelch of damp grass in nearby parks. Given the possibility of intermittent thunderstorms, one might find solace in the warmth of a cozy caf\u00e9, enjoying a warm drink while watching the world outside transform. Perhaps a quiet walk amidst the shifting mist, where the city\u2019s sounds are softened by the rain, would invite a moment of introspection. As the sky continues to weave its tapestry of gray, embracing the day will require both an adventurous spirit and a readiness to revel in the beauty of fleeting moments.",
-    "color_code": "#7A9B9C",
-    "timestamp": "2025-09-07 04:07:55"
+    "weather_report": "The morning in Boston reveals an embrace of muted tones, with a veil of patchy fog cloaking the city, lending it an air of mystery. Showers and thunderstorms swept through earlier, leaving behind a damp, whispering landscape that beckons you to listen closely to the rain-soaked earth. The day looms ahead, forecasted to remain overcast, with clouds shielding the sun, a soft reminder of nature's temperamental moods. As the hours roll on and the temperature edges towards a mild 65 degrees, you might feel the gentle stir of a north wind, drifting through, promising a touch of refreshment despite the lingering moisture in the air.\n\nWith a chance of lingering rain showers later in the day, it\u2019s wise to don layers that will keep you comfortable amid this variable weather. A light jacket or a water-resistant coat paired with sturdy footwear would serve you well, should the heavens decide to open again. Under such conditions, an atmospheric outing could be found in exploring cozy cafes\u2014perhaps a quiet nook to dive into a book, or the comfort of conversation with a friend. If the rain subsides, consider a stroll along the waterfront to breathe in the cool, salted air, reflecting on the graceful unpredictability of the day. As night draws near, expect the fog to return, wrapping the city in its serene embrace once more, while temperatures dip to around 52 degrees, inviting you to retreat into the warmth of home.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2025-09-07 08:10:42"
 }
