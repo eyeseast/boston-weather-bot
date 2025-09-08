@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-07T19:40:00+00:00",
+            "timestamp": "2025-09-08T00:15:00+00:00",
             "temperature_f": 60.8,
             "temperature_c": 16,
-            "humidity": 100,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 40,
-            "description": "Light Rain and Fog/Mist"
+            "humidity": 93.792573905746,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-07T16:00:00-04:00",
-                "endTime": "2025-09-07T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 22
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of rain showers. Cloudy, with a high near 65. Northwest wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-07T18:00:00-04:00",
+                "startTime": "2025-09-07T20:00:00-04:00",
                 "endTime": "2025-09-08T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/bkn?size=medium",
                 "shortForecast": "Chance Rain Showers then Mostly Cloudy",
-                "detailedForecast": "A chance of rain showers before 11pm. Mostly cloudy, with a low around 53. West wind 2 to 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers before 11pm. Mostly cloudy, with a low around 53. West wind 2 to 6 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-09-08T06:00:00-04:00",
+                "endTime": "2025-09-08T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 73,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 73. North wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the early evening unfolds over Boston, a blanket of patchy fog lingers like a whisper, shading the landscape in gentle gray. The air feels cool, enveloping everything in a quiet embrace with a high of 65 earlier in the day. The potential for light rain showers shimmers faintly on the horizon, lending an almost poetic quality to the ambiance. The sky hangs heavy with clouds, and the atmosphere carries a scent of earth and moisture, inviting introspection.\n\nAs the day edges toward night, temperatures will dip to about 53, encouraging layered comfort\u2014a light jacket or a cozy sweater will serve well against the evening\u2019s chill. It\u2019s an ideal time for strolls along the Charles, where the fog adds a mysterious charm to the river\u2019s shimmering surface. Perhaps one might savor a warm drink at a local caf\u00e9, watching the world drift by through misty panes. The chance of rain looms at a modest 30%, but it hardly seems a deterrent; rather, it offers a chance to revel in the tranquil beauty of a city that wears its weather with grace.",
-    "color_code": "#B0C4C8",
-    "timestamp": "2025-09-07 16:06:48"
+    "weather_report": "As dusk settles over Boston, a veil of clouds gently obscures the horizon, wrapping the city in a soft, muted palette. The day has woven a tapestry of warmth, but the evening whispers of humidity lingering, urging a light jacket or perhaps a cozy sweater for those venturing out. At this hour, the chance of rain flirts with the air, teasing but not fully committing, with only the distant murmur of a breeze to accompany the low hum of nighttime activity. The streets, painted with the soft glow of streetlights, offer a serene backdrop to evening wanderings or quiet contemplation on the edge of the Charles.\n\nLooking toward tomorrow, the sun is poised to reclaim its authority with promises of a bright day, brushing away the twilight\u2019s shadows and revealing a clear, inviting sky. It beckons one to enjoy a leisurely stroll through Boston\u2019s historic streets or perhaps a visit to a local caf\u00e9, where one can savor a warm cup while watching the world greet the day. But tonight, as the city settles into a hushed rhythm, the atmosphere invites relaxation\u2014perfect for cuddling up with a book or indulging in a Netflix binge from the comfort of home, embracing the gentle close of summer as it slips into the cool embrace of fall.",
+    "color_code": "#5A5A5A",
+    "timestamp": "2025-09-07 20:32:15"
 }
