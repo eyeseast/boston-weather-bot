@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-10T08:00:00+00:00",
-            "temperature_f": 48.2,
-            "temperature_c": 9,
-            "humidity": 93.453994643448,
+            "timestamp": "2025-09-10T11:53:00+00:00",
+            "temperature_f": 55.94,
+            "temperature_c": 13.3,
+            "humidity": 96.786933419961,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-10T04:00:00-04:00",
-                "endTime": "2025-09-10T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 56. Northeast wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-09-10T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-09-10T08:00:00-04:00",
                 "endTime": "2025-09-10T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 65,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 21
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 8am and 2pm. Cloudy, with a high near 65. Northeast wind 6 to 10 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers before 2pm. Cloudy, with a high near 65. Northeast wind 7 to 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-10T18:00:00-04:00",
+                "endTime": "2025-09-11T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 11
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 54. North wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, the world is draped in a veil of muted gray, the sky holding a quiet promise of daylight that lingers just beyond the horizon. Temperatures edge down towards the mid-fifties, wrapping the city in a cool embrace, while gentle northeast winds whisper through the streets, carrying the scent of the sea. A tapestry of clouds hangs overhead, hinting at the possibility of scattered rain as the hours slip by. The day ahead invites a blend of anticipation and introspection, with only a slight chance of showers that may graze the city before the afternoon settles in.\n\nAs you prepare to step outside, consider a light jacket or a sophisticated cardigan, a comforting layer for the more reserved atmosphere. The city offers a serene backdrop for leisurely pursuits, perhaps a stroll through the quiet early morning streets of the Back Bay, or a peaceful moment with a coffee at one of your favorite local caf\u00e9s. The air is thick with the potential of a new day, and whether you find yourself wandering alongside the Charles River or perusing the artisanal wares at a nearby market, the weather acts as a gentle reminder of nature's unfurling beauty. Today is a canvas\u2014paint it with experiences both serene and vibrant as Boston stirs awake.",
-    "color_code": "#B0C4C1",
-    "timestamp": "2025-09-10 04:09:48"
+    "weather_report": "The morning light in Boston awakens beneath a canopy of muted clouds, a soft and somewhat dreary gray that speaks of the lingering summer warmth and the whispered promise of fall. The air feels cool yet comfortable, with a gentle breeze brushing through, stirring the leaves with a playful touch. As the day blossoms, there hovers a faint possibility of rain, but for now, the city stands still, caught in a tranquil pause\u2014one that invites introspection and quiet moments among the bustling streets.\n\nAs the sun climbs higher, reaching a not-so-ardent 65 degrees, Boston beckons to those seeking a simple taste of the day. A light jacket or sweater will serve well against the cool morning air, particularly if one finds the pleasure of a leisurely walk through the Public Garden or a visit to a cozy caf\u00e9 for a warm brew. The charm of this slightly overcast day lies not in brightness but in the serene and subtle beauty it offers\u2014ideal for aimless wanderings and quiet conversations. Tonight, as the clouds thickened further and temperatures dip gently to a comfortable 54, the ambiance shifts, ushering in a calm restful vibe, perfect for a night spent with a good book or a late-night excursion to one of Boston's lively dining spots.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2025-09-10 08:11:41"
 }
