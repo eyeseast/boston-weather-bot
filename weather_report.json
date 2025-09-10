@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-09T19:45:00+00:00",
-            "temperature_f": 69.8,
-            "temperature_c": 21,
-            "humidity": 43.166184386186,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 80,
+            "timestamp": "2025-09-10T00:05:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 93.65072411462,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-09T16:00:00-04:00",
-                "endTime": "2025-09-09T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 70. East wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-09T18:00:00-04:00",
+                "startTime": "2025-09-09T20:00:00-04:00",
                 "endTime": "2025-09-10T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 9
+                    "value": 23
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. Northeast wind 5 to 8 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Drizzle",
+                "detailedForecast": "A slight chance of drizzle after 5am. Mostly cloudy, with a low around 57. Northeast wind around 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-09-10T06:00:00-04:00",
+                "endTime": "2025-09-10T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 39
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,30?size=medium",
+                "shortForecast": "Chance Drizzle",
+                "detailedForecast": "A chance of drizzle. Cloudy, with a high near 62. Northeast wind 7 to 10 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "Boston basks in the gentle embrace of a sunlit afternoon, where warmth dances gracefully around the edges of every leaf and small gathering of people seeking solace outdoors. The forecast whispers promises of a high near seventy, with a light east wind that carries the crisp scent of autumn already creeping into the corners of late summer. As evening approaches, the sky will shift to a more muted tone, with clouds gathering softly to cradle the city, inviting a cool hush that promises a low around fifty-seven.\n\nThe scene feels inviting, urging us to discard heavy layers and opt for light sweaters or flannels, perfect for a stroll along the Esplanade or a quiet cup of coffee at a cozy caf\u00e9. One might wander through the narrow streets of Beacon Hill, allowing the cool breeze to playfully tug at their hair, or perhaps make time for a leisurely visit to the Boston Public Gardens, where the swaying trees seem to share in our delight of this serene day. The atmosphere is devoid of fog, offering an unobstructed view of a city preparing to settle into a tranquil evening. In this blend of comfort and mildness, Boston encourages us to venture outside, savoring these golden hours before twilight takes center stage.",
-    "color_code": "#A3C1E0",
-    "timestamp": "2025-09-09 16:07:53"
+    "weather_report": "As evening descends on Boston, the air carries a gentle whisper of coolness, with temperatures settling comfortably around fifty-seven degrees. The clouds drape the sky in a muted gray, hinting at the slight chance of drizzle that may grace us after dawn, a dance of moisture in the air as the city tumbles into night. A soft northeast breeze brushes by, just enough to remind you of the warmth you might still want to embrace tomorrow.\n\nThe forecast for Wednesday suggests a further continuation of this subdued ambiance, with a promise of drizzle that lingers like a half-formed thought. With a high near sixty-two, the day will be shrouded in clouds, casting a gentle shadow over any ambitions of bright sunshine. It would be wise to dress in layers, perhaps a light jacket or a cozy sweater providing companionship against the dampness. A scarf would not go amiss, as the chill may settle in, while a sturdy umbrella might serve as a trusty sidekick for those venturing out. As you consider your plans, perhaps a stroll through the stillness of the Common, where the trees wear their twilight colors, or a visit to a tucked-away caf\u00e9 could offer a soothing retreat, perfect for embracing the quiet magic of the day.",
+    "color_code": "#4C586E",
+    "timestamp": "2025-09-09 20:29:18"
 }
