@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-11T07:45:00+00:00",
-            "temperature_f": 46.4,
-            "temperature_c": 8,
-            "humidity": 100,
+            "timestamp": "2025-09-11T11:53:00+00:00",
+            "temperature_f": 51.98,
+            "temperature_c": 11.1,
+            "humidity": 96.731932441167,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-11T04:00:00-04:00",
-                "endTime": "2025-09-11T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 52. North wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-09-11T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-09-11T08:00:00-04:00",
                 "endTime": "2025-09-11T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 77,
@@ -49,14 +30,33 @@
                     "value": 0
                 },
                 "windSpeed": "7 mph",
-                "windDirection": "NE",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 77. Northeast wind around 7 mph."
+                "detailedForecast": "Sunny, with a high near 77. North wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-11T18:00:00-04:00",
+                "endTime": "2025-09-12T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 58. North wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "In the gentle embrace of early dawn, Boston lies in a hushed slumber beneath a canopy of serene clouds. The overnight chill has settled into the nooks of the city, wrapping it in a soft, cool sheen, with temperatures lingering around a pleasant 52 degrees. A north wind whispers through the streets, barely stirring the leaves, hinting at a calm day ahead. As the sun's ascent approaches, the promise of warmth unveils itself; the forecast looks heavenly, with sunny skies ushering in a high near 77. \n\nThe day invites a sense of possibility, a canvas waiting to be painted with the simple joys of life. One might consider donning light layers\u2014perhaps a soft sweater paired with comfortable pants, ready for the sun\u2019s embrace. This is not a day to rush; instead, it beckons leisurely strolls by the river, a chance to savor a warm cup of coffee while watching the city gradually awaken. Perhaps an afternoon spent browsing the local shops or sitting on a sunny bench with a good book will provide just the escape needed. As day transitions into evening, the golden hour glimmers with promise, wrapping the urban landscape in a warm glow, making every moment feel a touch more special.",
-    "color_code": "#F1C40F",
-    "timestamp": "2025-09-11 04:10:01"
+    "weather_report": "This morning in Boston greets us with brilliant sunshine, painting an inviting canvas of blue overhead, unmarred by clouds or fog. The air carries the gentle whisper of a north wind, crisp yet mild, which promises to keep the atmosphere refreshingly pleasant throughout the day. As the sun ascends, it warms the city to a comfortable high near 77, making it an exquisite day to venture outdoors. \n\nAs the sun begins its descent this evening, the sky will softly transition to a partly cloudy tableau, with temperatures dipping gracefully to around 58. For those pondering how to dress, light layers will serve well; think airy shirts complemented by a light sweater for later in the day, should the evening air turn nippy. The allure of this day also beckons for simple pleasures\u2014perhaps a leisurely stroll along the riverbanks, enjoying the vibrant life around you, or an early dinner at an outdoor caf\u00e9 to soak in the ambiance before nightfall draw its curtain. Embrace the day and its gentle warmth; let its peaceful rhythm guide your moments.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-09-11 08:12:27"
 }
