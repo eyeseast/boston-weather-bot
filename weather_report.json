@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-11T19:45:00+00:00",
-            "temperature_f": 77.0,
-            "temperature_c": 25,
-            "humidity": 36.257882036602,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 320,
+            "timestamp": "2025-09-12T00:05:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
+            "humidity": 77.155040268598,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-11T16:00:00-04:00",
-                "endTime": "2025-09-11T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 77,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 77. Northeast wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-11T18:00:00-04:00",
+                "startTime": "2025-09-11T20:00:00-04:00",
                 "endTime": "2025-09-12T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "3 to 9 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 56. North wind 3 to 9 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 56. North wind 3 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-09-12T06:00:00-04:00",
+                "endTime": "2025-09-12T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 69. Northeast wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfurls over Boston, a gentle warmth envelops the city, casting a glow that beckons residents to step outside. The sun presides over the landscape, illuminating the streets with a brilliance that stirs a sense of anticipation. A light breeze whispers through the trees, offering a refreshing touch as it brushes past at just a few miles per hour. With temperatures nudging towards the upper seventies, one might find themselves drawn to parks where families gather, perhaps indulging in a leisurely stroll or simply basking in the radiant light. \n\nAs night approaches, the forecast hints at a cozy transition; partly cloudy skies will cradle the evening, inviting the cool embrace of temperatures ticking down to around fifty-six. A slight north breeze may encourage a light jacket or a soft sweater, perfect for watching the sun dip below the horizon. The tranquility of the coming evening may soon entice you to visit a quaint caf\u00e9, savoring a warm drink while watching the world shift tones around you. With conditions this pleasant, a simple outing, perhaps wandering through the neighborhood or enjoying an impromptu picnic, promises to capture the spirit of a day well spent in the heart of Boston.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-09-11 16:06:40"
+    "weather_report": "As night gently folds over Boston, a quilt of clouds blankets the sky, enveloping the city in a subtle darkness punctuated by the twinkling of distant lights. Tonight's mild embrace of 56 degrees invites a casual comfort, with a whisper of wind dodging through the streets, perhaps urging evening strollers to pause and take in the hushed ambiance. The calm, mostly cloudy night suggests an introspective pause, perfect for a leisurely walk along the Charles, where the waters reflect a soft sheen reminiscent of scattered stars.\n\nLooking ahead to Friday, the dawn will herald a brightening of spirits as the sun unfurls a golden tapestry over the skyline, promising a refreshing day to follow. With a high hovering near 69, the air will feel pleasantly crisp\u2014a rejuvenating contrast to the stillness of the night. It's a day that beckons simple joys; perhaps a visit to a neighborhood caf\u00e9 for a warm cup of coffee or an afternoon spent wandering through the lush expanses of Boston Common, where the leaves, tinged ever so slightly with the hues of autumn, rustle gently in the breeze. As you step outside, consider layering your attire\u2014a light sweater over a breathable shirt will serve you well, inviting comfort in the sun\u2019s warming embrace while keeping you snug should the clouds make a fleeting appearance. \n\nIn essence, the rhythm of Boston today offers a canvas painted with the delight of tranquil evenings and invigorating days, beckoning the chance to connect with both the city and oneself in simple, meaningful ways.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2025-09-11 20:29:10"
 }
