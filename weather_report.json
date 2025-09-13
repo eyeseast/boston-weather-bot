@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-13T07:42:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
+            "timestamp": "2025-09-13T11:45:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 93.553471551667,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-13T04:00:00-04:00",
-                "endTime": "2025-09-13T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. Southwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-09-13T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-09-13T08:00:00-04:00",
                 "endTime": "2025-09-13T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 75,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 75. South wind 2 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-13T18:00:00-04:00",
+                "endTime": "2025-09-14T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 10
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 57. Southwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "In the soft embrace of the overnight hours, Boston surrenders to a tranquil calm, cradled under a canopy of mostly clear skies. The air is crisp, holding onto an inviting coolness as a gentle southwest breeze stirs ever so slightly, whispering promises of a day soon to unfold. As dawn beckons, the horizon will gradually awaken, revealing vibrant hues and the subtle warmth of the sun\u2014a herald of the pleasant day ahead.\n\nCome Saturday, the city is poised to bask in a harmonious blend of sunshine and soft winds, with the temperature welcoming a comfortable high around 75 degrees. The day\u2019s clarity hints at myriad opportunities for leisurely pursuits\u2014perhaps a stroll along the iconic Charles River, where the city\u2019s rhythm matches the gentle lapping of water against the shore. For those who prefer a quieter morning, a visit to one of Boston's many cafes could offer a delightful respite, where the aroma of freshly brewed coffee mingles with the promise of the day's adventures. Dress in light layers, allowing for the transition from the coolness of the morning to the warm embrace of the afternoon, and embrace the day with a readiness for whatever comes your way.",
-    "color_code": "#CADBEE",
-    "timestamp": "2025-09-13 04:07:52"
+    "weather_report": "This morning, Boston awakens to a canvas painted with gentle hues of blue, where the sun effortlessly spills its light across the landscape. The air is delightfully crisp, with the promise of a pleasant day, as temperatures gently tease the mid-seventies. A soft breeze from the south whispers through the streets, inviting moments of quiet reflection and the simple pleasures that come with mild weather. The forecast hints at a tranquil evening ahead, where the skies will cradle the city in partly cloudy warmth, tucking us in with a low just shy of sixty.\n\nDressing for this serene day calls for light layers\u2014a comfortable cotton shirt paired with well-worn jeans will do nicely, maybe even a lightweight jacket to guard against the night chill. The beauty of this weather lies in its invitation to engage with the world\u2014whether it\u2019s a stroll through the Boston Public Garden, where the flowers nod softly in the wind, or a leisurely coffee at a sidewalk caf\u00e9, where you can observe life filtering through the city like a soft breeze. As the day unfolds, find solace in the simple act of soaking up the sun, allowing the hours to drift by in a pleasing, slow rhythm.",
+    "color_code": "#A1C6E7",
+    "timestamp": "2025-09-13 08:10:30"
 }
