@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-14T07:50:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 100,
+            "timestamp": "2025-09-14T11:53:00+00:00",
+            "temperature_f": 57.02,
+            "temperature_c": 13.9,
+            "humidity": 96.172950694716,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-14T04:00:00-04:00",
-                "endTime": "2025-09-14T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 58. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-09-14T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-09-14T08:00:00-04:00",
                 "endTime": "2025-09-14T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 78,
+                "temperature": 77,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
@@ -49,14 +30,33 @@
                     "value": 18
                 },
                 "windSpeed": "6 mph",
-                "windDirection": "NW",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
-                "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 2pm. Mostly sunny, with a high near 78. Northwest wind around 6 mph. Chance of precipitation is 20%."
+                "shortForecast": "Mostly Sunny then Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers after 2pm. Mostly sunny, with a high near 77. North wind around 6 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-14T18:00:00-04:00",
+                "endTime": "2025-09-15T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 13
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 58. North wind around 5 mph."
             }
         ]
     },
-    "weather_report": "As we transition into the early hours, Boston\u2019s atmosphere is embracing a gentle quiet, marked by a partly cloudy sky that hints at the possibilities of a mild day ahead. The temperature lingers in the comfortable realm of the upper fifties, with a soft breeze stirring from the southwest, whispering promises of what\u2019s to come. As the sun inching higher into the sky approaches Sunday\u2019s mid-afternoon warmth, the city will transform into a canvas of mostly sunny brilliance, offering a high near seventy-eight, and a light northwestern breeze that dances through the trees and across open squares, encouraging leisurely strolls beneath its embrace.\n\nWith the forecast introducing only a slight chance of fleeting rain showers\u2014twenty percent, to be precise\u2014today harbors the potential for delightful, albeit cautious outdoor adventures. The morning is perfect for sipping coffee at a sidewalk caf\u00e9, watching the world awaken with a gentle rustle. As the sun bathes the streets in soft light, consider a visit to the expansive Boston Common or perhaps an afternoon of browsing at local shops, where warm hues reflect the comforting embrace of autumn on the horizon. Dress comfortably, layering perhaps, to adapt to the day\u2019s evolving warmth, while stepping into the world outside like a character in a story yet to unfold, gracefully curious.",
-    "color_code": "#D8BFD8",
-    "timestamp": "2025-09-14 04:07:51"
+    "weather_report": "As the morning unfurls over Boston, a smooth veil of blue stretches across the sky, punctured only by the delicate tendrils of cloud that hint at a dance with the sun. The air is crisp, tinged with the faintest whisper of the impending warmth, while a gentle north wind brushes against your skin, inviting one to step outside with a touch of anticipation. By the afternoon, isolated rain showers might sprinkle the scene, their presence a mere suggestion rather than a certainty, as the high temperatures approach the comfort of 77 degrees. \n\nWith evening drawing near, the allure of a mostly clear night beckons, where the temperatures will cool to a mild embrace around 58 degrees. This is a perfect day to venture to a nearby caf\u00e9 with a novel in hand, indulging in quiet moments of reflection. Bonafide comfort calls for lightweight layers\u2014a breathable top paired with a light jacket for those unpredictable breezes, and perhaps comfortable shoes suitable for a meandering stroll through the vibrant streets. Rich hues of urban life await those who choose to explore, a subtle magic punctuating every corner.",
+    "color_code": "#99CCFF",
+    "timestamp": "2025-09-14 08:10:28"
 }
