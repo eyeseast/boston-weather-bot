@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-13T19:50:00+00:00",
-            "temperature_f": 75.2,
-            "temperature_c": 24,
-            "humidity": 53.576211354435,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 200,
-            "description": "Partly Cloudy"
+            "timestamp": "2025-09-14T00:15:00+00:00",
+            "temperature_f": 64.4,
+            "temperature_c": 18,
+            "humidity": 77.463474035403,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 170,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-13T16:00:00-04:00",
-                "endTime": "2025-09-13T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 75,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 10
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 75. South wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-13T18:00:00-04:00",
+                "startTime": "2025-09-13T20:00:00-04:00",
                 "endTime": "2025-09-14T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 12
+                    "value": 5
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. Southwest wind around 8 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 57. Southwest wind 6 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-09-14T06:00:00-04:00",
+                "endTime": "2025-09-14T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 77,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 18
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Partly Sunny then Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers between 2pm and 5pm. Partly sunny, with a high near 77. Northwest wind around 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon sun casts a gentle glow upon the city of Boston, a tapestry of partly sunny skies emerges, punctuated by the occasional whisper of clouds. The temperature nudges upwards toward a comfortable embrace of 75 degrees, with a mild south wind rustling through the streets, bringing with it a reminder of the soft warmth lingering in the air. Yet, as daylight wanes and the evening unfolds, hints of cloudy layers will cloak the horizon, drawing the temperature down to a more subdued 57 degrees, while a southwest breeze carries the promise of a tranquil night.\n\nIn these pleasant conditions, one might choose a comfortable ensemble\u2014perhaps a light cardigan over a simple shirt, and well-fitted jeans or trousers, suitable for an evening stroll along the Charles River or a relaxed visit to a local caf\u00e9. As dusk approaches, consider settling into a cozy spot, sipping a warm drink while watching the lights of the city flicker to life. It is a day made for enjoying the small pleasures\u2014perhaps a quiet moment in a park or an evening filled with conversation and the soft hum of life around. As the sun begins its descent, the day reveals itself not so much as a series of bustling events, but as an invitation to pause and appreciate the unfolding beauty of a late summer's day in Boston.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-09-13 16:06:31"
+    "weather_report": "As twilight settles gently over Boston, the evening is cloaked in a soft embrace of clouds, with a mildness that hints at comfort rather than chill. The temperature lingers around a pleasant fifty-seven degrees, accompanied by a tranquil southwest breeze that rustles through the trees. Even in the stillness, there\u2019s a feeling of a day yet spent, a promise of reprieve from the busyness that often defines the urban experience.\n\nLooking ahead to Sunday, the forecast offers glimmers of light, punctuated by the possibility of gentle rain showers in the afternoon. With the temperatures expected to rise near seventy-seven, the day will blend warmth with occasional interruptions from the sky. As the winds shift to the northwest, this is a moment to embrace an unhurried demeanor\u2014a day not so much for grand adventures, but rather for savoring simple pleasures. A light jacket or a sweater would suit the mild conditions well, perhaps paired with comfortable shoes for an afternoon stroll through the city's inviting neighborhoods. It is an ideal occasion to explore the local shops, discover a cozy caf\u00e9, or simply enjoy a leisurely moment in one of the parks, where the transition of seasons whispers in the rustling leaves and softening light.",
+    "color_code": "#D9D9D9",
+    "timestamp": "2025-09-13 20:32:23"
 }
