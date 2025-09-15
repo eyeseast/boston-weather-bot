@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-15T00:10:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 88.013838936444,
+            "timestamp": "2025-09-15T03:50:00+00:00",
+            "temperature_f": 53.6,
+            "temperature_c": 12,
+            "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Fog"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-14T16:00:00-04:00",
-                "endTime": "2025-09-14T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 77,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 16
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers before 5pm. Sunny, with a high near 77. East wind around 5 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-09-14T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-09-15T00:00:00-04:00",
                 "endTime": "2025-09-15T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 58,
+                "temperature": 57,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 13
+                    "value": 0
                 },
                 "windSpeed": "3 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 58. Northwest wind around 3 mph."
+                "detailedForecast": "Mostly clear, with a low around 57. Northwest wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-09-15T06:00:00-04:00",
+                "endTime": "2025-09-15T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 73,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 73. Northeast wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "In Boston this evening, the air is imbued with a gentle warmth, a lingering echo of the day\u2019s sunshine, now giving way to tranquility. The sky stretches overhead, mostly clear with only the faintest whispers of the earlier rain showers. As night settles in, the temperature dips to a comfortable 58 degrees, inviting a light layer\u2014perhaps a cozy cardigan or a soft scarf\u2014perfect for a leisurely stroll through the quiet streets where the reflections of city lights shimmer on the surface of the nearby Charles River.\n\nWith the winds lending their calm presence, a gentle northwest breeze accompanies you, urging you to embrace simplicity in your evening endeavors. It\u2019s an ideal time for a quiet visit to a local caf\u00e9, where the aroma of freshly brewed coffee mingles with the soft hum of conversation, or perhaps a casual gathering with friends under the stars. The beauty of this evening lies in its unassuming charm, a night that beckons you to slow down, breathe in the brisk air, and savor life\u2019s simple pleasures as the city gently wraps itself in the velvety embrace of night.",
-    "color_code": "#4B7F90",
-    "timestamp": "2025-09-14 20:32:32"
+    "weather_report": "As we drift into the tranquil hours of the night, Boston shines softly beneath a sky almost devoid of clouds. The temperature settles comfortably around fifty-seven, cradled by a gentle northwest breeze that barely stirs the night air. The city\u2019s pulse, illuminated by twinkling lights, radiates a serene charm, inviting contemplation and quiet reflection.\n\nAs the dawn breaks and the sun stretches its golden arms across the horizon, expect an inviting embrace of sunshine gracing the day ahead. With temperatures reaching near seventy-three, it's a delightful day for a leisurely stroll along the Charles River or perhaps a quiet moment spent in one of the city\u2019s plentiful parks, where the whispers of leaves and the laughter of children intermingle in the air. Dress lightly, choosing breathable fabrics to enjoy this cheerful warmth, while a light layer might shield against that gentle northeast wind on the return home. Given the remarkably clear conditions, a visit to an outdoor caf\u00e9 for a cup of coffee is particularly enticing; consider settling in with a good book, absorbed in its pages as the world moves sweetly around you.",
+    "color_code": "#FFCC66",
+    "timestamp": "2025-09-15 00:08:39"
 }
