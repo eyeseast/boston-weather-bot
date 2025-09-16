@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-16T07:45:00+00:00",
+            "timestamp": "2025-09-16T12:00:00+00:00",
             "temperature_f": 59.0,
             "temperature_c": 15,
-            "humidity": 100,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 310,
-            "description": "Fog"
+            "humidity": 93.745817353204,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 10,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-16T04:00:00-04:00",
-                "endTime": "2025-09-16T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 54,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 54. North wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-09-16T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-09-16T08:00:00-04:00",
                 "endTime": "2025-09-16T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 72,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "3 to 8 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
                 "shortForecast": "Patchy Fog then Mostly Sunny",
-                "detailedForecast": "Patchy fog before 10am. Mostly sunny, with a high near 72. Northeast wind 2 to 8 mph."
+                "detailedForecast": "Patchy fog before 10am. Mostly sunny, with a high near 72. Northeast wind 3 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-16T18:00:00-04:00",
+                "endTime": "2025-09-17T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
+                "shortForecast": "Mostly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after 3am. Mostly cloudy, with a low around 54. Northeast wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "The quiet of the early morning in Boston wraps the city in a blanket of patchy fog, softening the edges of familiar landmarks and dampening the sounds of the waking world. A gentle north wind stirs lazily, whispering promises of a clearing sky that lies just beyond the haze. As the day unfolds, the fog will dissipate, revealing a canvas of mostly sunny skies where the sun will climb and warm the air to a manageable 72 degrees. The gentleness of a northeast breeze will be refreshing, inviting you to step outside and bask in the transition of the season.\n\nAs the day brightens, consider slipping into comfortable attire\u2014perhaps a light sweater or a breezy shirt, paired with fitted trousers or relaxed jeans. The ambiance is ripe for a leisurely stroll along the Charles River or a visit to one of Boston's charming cafes, where the warmth of the sun can be enjoyed in tandem with a good book or warm coffee. Alternatively, the day beckons you to appreciate the serene beauty of nature, perhaps with a visit to Franklin Park, where the trees stand sentinel and the sounds of rustling leaves are a gentle reminder of the changing season.",
-    "color_code": "#A8C8E2",
-    "timestamp": "2025-09-16 04:09:49"
+    "weather_report": "As morning unfolds over Boston, a shroud of patchy fog lingers softly in the air, veiling the city like a delicate whisper. The promise of the sun shines through, hinting at a day that will transition from muted greys to a bright canvas, where blue sky will ultimately reign. Anticipate a high near seventy-two degrees as the pleasant northeast breeze gently nudges through, bringing a sense of warmth that invites a light jacket or perhaps a cozy cardigan if one ventures out in the early hours.\n\nAs daylight progresses, this fog will give way to a mostly sunny atmosphere, engendering an ideal backdrop for leisurely pursuits. After indulging in a warm cup of coffee, a stroll along the Charles or a visit to a quaint bookstore may be perfect ways to embrace the day. As evening approaches, the fog will return, infusing the atmosphere with a hint of mystery, suggesting plans for quieter moments: perhaps curling up with a good book or savoring dinner at home. Dress comfortably, layering as the temperature dips to a refreshing low of fifty-four during the night, allowing you to savor the contrast of warmth when outdoors. Such is the rhythm of an autumn day in Boston, harmonizing the tranquil and the vibrant in a single breath.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-09-16 08:12:39"
 }
