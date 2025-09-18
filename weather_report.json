@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-18T07:45:00+00:00",
+            "timestamp": "2025-09-18T11:50:00+00:00",
             "temperature_f": 62.6,
             "temperature_c": 17,
             "humidity": 93.838813960785,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 360,
-            "description": "Heavy Rain and Fog/Mist"
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 350,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-18T04:00:00-04:00",
-                "endTime": "2025-09-18T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 45
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,50?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a chance of showers and thunderstorms. Cloudy, with a low around 60. North wind around 6 mph. Chance of precipitation is 50%."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-09-18T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-09-18T08:00:00-04:00",
                 "endTime": "2025-09-18T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 79,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 22
+                    "value": 11
                 },
-                "windSpeed": "1 to 6 mph",
+                "windSpeed": "1 to 5 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog and a slight chance of rain showers before 10am. Partly sunny, with a high near 79. Northwest wind 1 to 6 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/rain/bkn?size=medium",
+                "shortForecast": "Patchy Drizzle then Partly Sunny",
+                "detailedForecast": "Patchy drizzle and patchy fog before noon. Partly sunny, with a high near 79. Northwest wind 1 to 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-18T18:00:00-04:00",
+                "endTime": "2025-09-19T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 60. Southwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, the atmosphere is thick with a slight humidity that lingers, wrapped in a gentle cloak of fog. The stillness of the night is marred only by the distant rumble of thunderstorms that may pass through. The air carries the promise of a fresh start, albeit with a hint of unpredictability. Expect a gray cloud cover to filter the sun's warmth as the day unfolds, with occasional moments when the sun peeks through, casting fleeting glimpses of brightness.\n\nAs the morning stretches towards noon, a subtle transition will occur. With temperatures invitingly climbing towards 79 degrees, it would be wise to adopt a layered approach to dressing. Perhaps a light sweater to combat the chill of the morning fog, complemented by comfortable attire suitable for afternoon warmth. Which leads to considerations for the day ahead\u2014an ideal time for leisurely strolls along the Charles River or a visit to one of Boston\u2019s quaint coffee shops to savor a beverage. If the inclination strikes, a jaunt to the Rose Fitzgerald Kennedy Greenway offers a delightful reprieve amongst art and nature, enriched by the stirring transition of the seasons.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-09-18 04:09:27"
+    "weather_report": "In the early hours of this day in Boston, a soft veil of fog has draped the city, weaving through the streets like a gentle whisper. The world beyond seems to blur, leaving only hints of familiar silhouettes. As the morning unfolds, the promise of a brighter afternoon lingers on the horizon, with partial sunshine expected to break free from the clutches of drizzle, ushering in a warmth that can reach up to 79 degrees. Though the tranquility of the fog may evoke a cozy solitude, the advancing daylight bids you to savor the brisk winds that stir softly at 1 to 5 mph.\n\nAs the day gradually reveals itself, dress in layers that embrace both comfort and practicality. A light sweater or cardigan will suffice during the cooler morning hours, while breathable fabrics will invite you to revel in the early afternoon sun. As evening approaches, the skies promise clarity, offering a serene atmosphere perfect for quiet reflections or gentle strolls under the fading light. Consider venturing to a nearby caf\u00e9 for a warm beverage, or perhaps a leisurely walk along the riverbanks, where the melding of dusk and twilight can inspire musings of the day just passing. The canvas of Boston today invites both the introspective and the active soul, beckoning you to engage with the serene beauty that lies within this hazy beginning.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-09-18 08:12:16"
 }
