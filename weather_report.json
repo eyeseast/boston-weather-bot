@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-19T07:45:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
+            "timestamp": "2025-09-19T11:50:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
             "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-19T04:00:00-04:00",
-                "endTime": "2025-09-19T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 60. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-09-19T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-09-19T08:00:00-04:00",
                 "endTime": "2025-09-19T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 78,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 78. Northwest wind 6 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-19T18:00:00-04:00",
+                "endTime": "2025-09-20T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 51. North wind around 8 mph."
             }
         ]
     },
-    "weather_report": "As dawn quietly approaches Boston, the skies are clear, offering a tranquil canvas that foretells a sunny day ahead. With temperatures settling around a comfortable sixty degrees, the air carries a gentle whisper from the west, a soft breeze that invites you outdoors. As the sun rises, it promises to paint the day with warmth, reaching highs close to seventy-eight, a beckoning call to savor the outdoors\u2014a rare gift in the heart of autumn.\n\nToday is perfectly suited for a leisurely stroll along the Charles River, where the soft glow of the sun will dance on the water\u2019s surface. Perhaps one might visit a nearby caf\u00e9 to indulge in a cup of coffee, the scent of fresh pastries mingling with the crisp air. Dressing is simple yet thoughtful; a light cardigan might serve well against the morning chill, while a comfortable t-shirt beneath allows for ease when the warmth envelops you. With no fog in sight, clarity reigns, making it an ideal day to explore quaint bookstores or catch up with friends in a sun-drenched park. Embrace this delightful day\u2014an invitation to reconnect with both nature and community in the vibrant city.",
-    "color_code": "#F9E5A4",
-    "timestamp": "2025-09-19 04:09:31"
+    "weather_report": "As the sun ascends in the azure expanse above Boston, today greets residents with a refreshing embrace. The air is crisp, carrying a gentle northwest breeze that whispers past, invigorating the spirit. With the mercury reaching a modest height, the day promises warmth while maintaining clarity\u2014an invitation to step outside and savor the sunlight's gentle caress on the skin. Tonight, as the golden hues of dusk surrender to twilight, a serene coolness will descend, wrapping the city in a comforting chill, perfect for cozying up with a good book or sharing quiet moments under the stars.\n\nDressing appropriately for the day calls for light layers\u2014perhaps a breathable shirt accompanied by a charming light jacket for when the sun slips away. As work and wanderlust pull the landscape of the day wide open, one might find satisfaction in a stroll along the riverbanks or a visit to a local caf\u00e9 for warm coffee and contemplative thought. In this delightful weather, every moment breathes possibility, asking only for an open heart and a willing mind to embrace the simple joys scattered throughout the city.",
+    "color_code": "#A6C3D0",
+    "timestamp": "2025-09-19 08:12:32"
 }
