@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-21T07:45:00+00:00",
-            "temperature_f": 39.2,
-            "temperature_c": 4,
-            "humidity": 93.195121939331,
+            "timestamp": "2025-09-21T11:55:00+00:00",
+            "temperature_f": 44.6,
+            "temperature_c": 7,
+            "humidity": 93.352225938757,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-21T04:00:00-04:00",
-                "endTime": "2025-09-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 47. Northwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-09-21T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-09-21T08:00:00-04:00",
                 "endTime": "2025-09-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 69,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "3 to 8 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 69. Northeast wind 2 to 8 mph."
+                "detailedForecast": "Mostly sunny, with a high near 69. Northeast wind 3 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-21T18:00:00-04:00",
+                "endTime": "2025-09-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 48. South wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn whispers its arrival over Boston, the night sky still clings to the city, though hints of the sun's influence begin to graze the horizon. The air carries a gentle clarity, a refreshing chill that hugs the skin, inviting an easy and unhurried start to the day. With temperatures poised to rise into the comforting embrace of late summer, the promise of a mostly sunny landscape brings warmth to the spirit. The dew lingering on the grass holds a promise of life as it glistens in the golden light that will soon break forth.\n\nAs the day unfolds, a soft breeze will rustle through the streets, inviting passersby to stroll through quiet neighborhoods or linger a moment longer in local cafes. A light jacket may be prudent for the early hours, but as midday approaches, the sun will warmly encourage the shedding of layers, revealing shirts and light blouses that embrace comfort without sacrificing style. This is a day for simplicity, for enjoying the world at a leisurely pace\u2014perhaps a visit to a nearby park or a wander through curated shops will evoke a sense of connection to the rhythm of the city.",
-    "color_code": "#F0E68C",
-    "timestamp": "2025-09-21 04:07:57"
+    "weather_report": "In Boston today, a gentle sunlight bathes the city, illuminating the vibrant hues of autumn that are starting to weave their intricate tapestry among the trees. The air carries a delightful crispness that hints at the changing seasons, making the high of near 69 feel pleasantly warm against the skin. A soft breeze from the northeast whispers through the streets, creating a serene backdrop to the everyday bustle. As the sun sets, the skies will transition to a partly cloudy canvas, painting a soft backdrop for an evening stroll; the temperature will graciously lower to a cozy 48 degrees, inviting light layers to ward off the evening chill.\n\nOn this lovely day, consider meandering through the emerald pathways of the Boston Common, where the golden light creates elongated shadows and the scent of dried leaves fills the air. A leisurely coffee stop at a quaint caf\u00e9 would perfectly accompany a moment spent outdoors, perhaps with a good book in hand. As the sun dips lower, a sweater or light jacket will wrap you in comfort, making the evening stroll feel just right. Today is a harmonious blend of warmth, coolness, and the quiet promise of a beautiful transition into fall.",
+    "color_code": "#A2C2D4",
+    "timestamp": "2025-09-21 08:10:44"
 }
