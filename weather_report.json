@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-21T19:40:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 52.278271459276,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 50,
+            "timestamp": "2025-09-22T00:15:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 87.476252351683,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-21T16:00:00-04:00",
-                "endTime": "2025-09-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 69. East wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-21T18:00:00-04:00",
+                "startTime": "2025-09-21T20:00:00-04:00",
                 "endTime": "2025-09-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
+                "windSpeed": "5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium",
+                "shortForecast": "Partly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after 3am. Partly cloudy, with a low around 48. South wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-09-22T06:00:00-04:00",
+                "endTime": "2025-09-22T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 74,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
                 "windSpeed": "2 to 6 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 48. South wind 2 to 6 mph."
+                "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium",
+                "shortForecast": "Patchy Fog then Sunny",
+                "detailedForecast": "Patchy fog before 8am. Sunny, with a high near 74. South wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "The afternoon light in Boston spills over the city right now, as the clouds drift lazily across the sky, unhurried and trampling over an otherwise picturesque scene. There is a gentle east wind rustling the trees, a soft whisper that hints at the coming dusk. With a comfortable temperature hugging the upper sixties, it's a moment where one can\u2019t help but appreciate the open air and the clarity of the day. The air remains crisp, fresh enough to invigorate, and the humidity is held at bay, leaving the city in considerable comfort as evening approaches.\n\nAs the sun begins to descend, casting a golden hue across the horizon, the evening promises to be equally pleasant with temperatures dipping only slightly. It\u2019s a delightful time to take a leisurely stroll down the Esplanade, to savor the subtle aroma of autumn inching closer. A light jacket or a cozy sweater would serve well against the coolness settling in, perfect for coffee in hand as the day winds down. Perhaps one might find joy in visiting a nearby caf\u00e9, embracing the casual charm of Boston as conversations linger and laughter escapes into the fading light, a fitting response to such a serene day.",
-    "color_code": "#9ED5FF",
-    "timestamp": "2025-09-21 16:06:59"
+    "weather_report": "As twilight drapes itself over Boston, a gentle shroud of patchy fog begins to creep in after the witching hour of three. The night feels contemplative, with temperatures settling in around a cool 48 degrees. The south wind carries whispers of a warmer day ahead, as the forecast breathes promise into Monday's sunshine\u2014where the fog will melt away by morning, giving space to vibrant blue skies and temperatures rising to a comfortable 74. \n\nFor those aiming to venture outdoors, the invitation to partake in a simple stroll through the urban tapestry of Boston beckons. Dress in light layers to navigate the transition from cool night air to the warmth of sun-kissed afternoons. Perhaps clutch a warm cup of coffee while meandering through the Common, or explore the quiet nooks of cobblestone streets as the city awakens. As each ray of sunlight pierces through the remnants of fog, take a moment to savor the soft embrace of autumn drifting in.",
+    "color_code": "#6a9bd1",
+    "timestamp": "2025-09-21 20:33:06"
 }
