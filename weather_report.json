@@ -7,19 +7,38 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-25T00:05:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 93.884545007364,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 80,
+            "timestamp": "2025-09-25T03:45:00+00:00",
+            "temperature_f": 62.6,
+            "temperature_c": 17,
+            "humidity": 100,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 110,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-09-24T15:00:00-04:00",
+                "endTime": "2025-09-24T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 40
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers and patchy fog. Cloudy, with a high near 67. East wind around 9 mph. Chance of precipitation is 40%."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-09-24T20:00:00-04:00",
+                "startTime": "2025-09-24T18:00:00-04:00",
                 "endTime": "2025-09-25T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 59
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,60?size=medium",
                 "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "A chance of rain showers and patchy fog before 9pm, then patchy fog and a slight chance of rain showers between 9pm and 11pm, then rain showers likely and patchy fog. Cloudy, with a low around 62. East wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-09-25T06:00:00-04:00",
-                "endTime": "2025-09-25T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 72,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 88
-                },
-                "windSpeed": "6 to 10 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,80/tsra,90?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Rain showers and patchy fog before 8am, then patchy fog and showers and thunderstorms. Cloudy, with a high near 72. Southeast wind 6 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+                "detailedForecast": "A chance of rain showers and patchy fog before 9pm, then patchy fog and a slight chance of rain showers between 9pm and 11pm, then rain showers likely and patchy fog. Cloudy, with a low around 62. East wind 5 to 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As twilight descends over Boston, a gentle veil of patchy fog begins to soften the edges of the city's silhouettes. The air holds a certain weight, pregnant with the possibility of rain: a sincere dance between the warmth of the day and the chill that night reveals. With the mercury settling near a mild 62 degrees, a subtle east wind breathes through, offering only the faintest hint of movement against the backdrop of the cloudy evening sky. Tonight's atmosphere may inspire a stroll along the Charles River, where the tender embrace of a lightweight coat layered over a simple knit might be just right, keeping comfortable against the evolving mist.\n\nLooking to tomorrow, the hint of rain will escalate, ushered in through the night as it mingles with morning fog. The clouds promise to blanket the day, punctuated by showers and likely thunderstorms, casting an intriguing spell over the Boston landscape. A high of 72 beckons, but one should prepare for the inevitable downpour, perhaps opting for waterproof footwear should the urge to wander arise. The streets may glisten, painting a vivid scene perfect for a cozy afternoon spent beneath the comfort of a caf\u00e9 awning or lost within the pages of a book, enveloped in the soothing rhythm of rainfall. In these moments, as nature composes her symphony, a rare beauty manifests, perfectly engulfing the heart of this storied city.",
-    "color_code": "#7A9BA8",
-    "timestamp": "2025-09-24 20:30:12"
+    "weather_report": "The early hours of this day in Boston wrap the city in a veil of quiet anticipation. The air is cool and carries a hint of moisture that suggests a whisper of rain could fall at any moment. As the sun makes its reluctant descent, it finds itself shrouded in a mix of clouds and fog, casting the surrounding landscapes in soft, muted tones. It is a day when sweaters might feel cozy against the light chill, and perhaps a light jacket would serve one well when stepping outside, particularly as the evening creeps in with a touch of dampness.\n\nIf you find yourself wandering through the streets, the gentle murmur of the breeze invites a contemplative stroll. With a slight chance of rain showers lingering until the night is fully etched in, it may be best to keep an umbrella in tow\u2014an old friend in this capricious dance of weather. The atmosphere beckons for moments of quiet reflection, perhaps in a corner caf\u00e9, indulging in a warm cup of something soothing while the world outside drizzles gracefully. Ultimately, embrace the intimate embrace of the evening, whether that means finding solace in a book or engaging in soft conversations as the fog wraps around the city like a delicate shroud.",
+    "color_code": "#A4B9B3",
+    "timestamp": "2025-09-25 00:08:47"
 }
