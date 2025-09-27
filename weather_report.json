@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-27T07:45:00+00:00",
-            "temperature_f": 55.4,
-            "temperature_c": 13,
+            "timestamp": "2025-09-27T11:53:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
             "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-27T04:00:00-04:00",
-                "endTime": "2025-09-27T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 60. Northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-09-27T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-09-27T08:00:00-04:00",
                 "endTime": "2025-09-27T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 77,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 77. Northeast wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-27T18:00:00-04:00",
+                "endTime": "2025-09-28T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 19
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 2am. Mostly cloudy, with a low around 63. South wind around 6 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "Boston stirs awake under a veil of tranquility, the early morning hours bringing with them a serene clarity, as if the city is bracing itself for the embrace of a glorious day ahead. The chill in the air, whispered softly by a gentle northwest breeze, hints at the promise of mild warmth. It is a deceptive calm, with temperatures poised to rise, transforming the early hush into a canvas painted with brightness. \n\nAs the sun nudges its way higher into the sky, expect the clear expanse above to gradually yield to a palette of blue, all juxtaposed against the soft greenery that cradles the city. With this delightful weather, a casual stroll along the Charles River or a leisurely coffee at one of the neighborhood cafes offers the perfect way to savor the moment. The forecast calls for light winds as well, suggesting that light layers will serve you best\u2014perhaps a comfortable sweater you can shed as the temperature climbs. As the day unfolds, allow yourself the luxury of time, meandering through the heart of the city or finding a quiet spot in one of the local parks to revel in the gentle warmth of a late September sun.",
-    "color_code": "#BFD5A1",
-    "timestamp": "2025-09-27 04:08:06"
+    "weather_report": "Boston awakens beneath a generous expanse of blue, the sun casting a warm embrace upon the historic streets and spirited waterfront. The air is still, with a gentle breath from the northeast, creating an atmosphere that feels both refreshing and invigorating. As the day unfolds, the city will bask in temperatures flirting with the comfortable mid-seventies, a perfect invitation for both strolls along the Common and quiet coffee breaks at sidewalk caf\u00e9s. While clouds may quietly drift in later, carrying whispers of occasional rain showers, the morning stands confidently bright, promising nothing but moments beckoning connection with the world outside.\n\nAs dusk approaches, the temperature will settle softly into the lower sixties, urging a light sweater or a cozy cardigan to accompany your evening activities. It\u2019s the sort of day that encourages lingering\u2014perhaps a gentle walk along the river, where the reflections of the skyline dance in the water, or visiting an art gallery where creativity ignites the senses. If you\u2019re feeling adventurous, why not explore one of Boston\u2019s underrated neighborhoods, unraveling the charm in hidden alleyways and local shops? Let the beauty of the day remind you that life is best experienced at a leisurely pace, savoring each simple pleasure that comes your way.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-09-27 08:10:44"
 }
