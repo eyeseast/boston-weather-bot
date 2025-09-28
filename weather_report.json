@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-27T15:50:00+00:00",
-            "temperature_f": 75.2,
-            "temperature_c": 24,
-            "humidity": 57.150508542239,
+            "timestamp": "2025-09-28T00:05:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 88.185541322848,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Mostly Clear"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-09-27T12:00:00-04:00",
-                "endTime": "2025-09-27T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 77,
+                "name": "Tonight",
+                "startTime": "2025-09-27T20:00:00-04:00",
+                "endTime": "2025-09-28T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 35
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 77. East wind around 6 mph."
+                "windSpeed": "5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,40?size=medium",
+                "shortForecast": "Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after midnight. Cloudy, with a low around 62. South wind around 5 mph. Chance of precipitation is 40%."
             },
             {
                 "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-09-27T18:00:00-04:00",
-                "endTime": "2025-09-28T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 63,
+                "name": "Sunday",
+                "startTime": "2025-09-28T06:00:00-04:00",
+                "endTime": "2025-09-28T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 82,
                 "temperatureUnit": "F",
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 19
+                    "value": 17
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 2am. Mostly cloudy, with a low around 63. South wind around 6 mph. Chance of precipitation is 20%."
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Partly Sunny",
+                "detailedForecast": "A slight chance of rain showers before 7am. Partly sunny, with a high near 82. Southwest wind 5 to 9 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "Boston basks in a gentle embrace of afternoon sun, with a warm breeze whispering through the streets. The sky, dotted with vibrant clouds, presents a tapestry of whites against a backdrop of deep azure, making it an enchanting day for outdoor pursuits. As the temperature hovers near a comfortable 77 degrees, the warmth is inviting, yet a cheeky breeze stirs, hinting at an impending change as the night approaches. Evening brings with it a promise of slight rain showers, foretold by the shifting clouds that gather like a murmuring audience at a concert.\n\nFor those meandering through the city, a light jacket would be a thoughtful companion come twilight, as the temperature dips to a cozy 63. The atmosphere carries the subtle thrill of spontaneous plans; perhaps a leisurely stroll along the Esplanade, or a quiet read at a caf\u00e9 where the hum of conversation mingles pleasantly with the aroma of freshly brewed coffee. As twilight approaches, the likelihood of rain is slight, rendering this a moment best seized with a relaxed spirit, while the setting sun casts its warm glow over the historic bricks and contemporary glass of Boston.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-09-27 12:07:34"
+    "weather_report": "As evening unfolds over Boston, a gentle obscurity blankets the city, punctuated only by the distant shimmer of urban lights. The air holds a subtle promise of rain\u2014just a whisper of moisture lingering on the skin amid the cloud-laden midnight sky. Tonight\u2019s low settles around a comfortable 62 degrees, with a soft breeze whispering from the south, creating an ambiance that feels both inviting and a little mysterious.\n\nLooking toward Sunday, a slight chance of early morning showers may greet the dawn, but by midday the clouds will part to reveal glimpses of the sun, offering a balmy high near 82 degrees. With a southwest wind lifting the spirits of the day, it hints at a perfect opportunity for a leisurely stroll through the park, perhaps with a steaming cup of coffee in hand. As the sun breaks through the clouds, it calls for light layers, leaving behind the heavier attire of earlier. Embrace the warmth with a casual shirt and comfortable trousers, making the most of this day where the weather dances between serene and exuberant.",
+    "color_code": "#BCBBAF",
+    "timestamp": "2025-09-27 20:33:39"
 }
