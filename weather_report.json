@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-09-30T07:45:00+00:00",
-            "temperature_f": 51.8,
-            "temperature_c": 11,
-            "humidity": 100,
+            "timestamp": "2025-09-30T11:53:00+00:00",
+            "temperature_f": 53.06,
+            "temperature_c": 11.7,
+            "humidity": 96.107794274811,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-09-30T04:00:00-04:00",
-                "endTime": "2025-09-30T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 59. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-09-30T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-09-30T08:00:00-04:00",
                 "endTime": "2025-09-30T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 72,
@@ -49,14 +30,33 @@
                     "value": 0
                 },
                 "windSpeed": "6 to 12 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 72, with temperatures falling to around 66 in the afternoon. North wind 6 to 12 mph."
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 72, with temperatures falling to around 66 in the afternoon. Northeast wind 6 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-09-30T18:00:00-04:00",
+                "endTime": "2025-10-01T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 53. Northeast wind 6 to 14 mph."
             }
         ]
     },
-    "weather_report": "As dawn begins to unfurl over Boston, the city is quietly enveloped in a shroud of mostly cloudy skies, holding the promise of a gentle retreat from the briskness of the night. The temperature lingers around 59 degrees, carried by a mild northwest wind that whispers through the streets, hinting at the unfolding day. A sense of tranquility pervades the air, inviting one to embrace the early hours in a leisurely manner.\n\nAs the sun rises, expect the clouds to give way to pockets of sunlight, with the high expected to dance around a comfortable 72 degrees. It will be a day where temperatures ease into the afternoon, settling at around 66\u2014perfect for light layers. Imagine a light jacket or a cozy sweater paired with breathable trousers, making for an ensemble that eases both comfort and style. This pleasant weather beckons for simple pleasures: perhaps a quiet stroll along the Charles River, where the autumn leaves are beginning their slow twirl toward the ground, or a visit to a local caf\u00e9, where the aroma of freshly brewed coffee fills the air. With plenty of activities to enjoy\u2014best taken at a contemplative pace\u2014today is another opportunity to savor the heart of the city as it reveals its subtle charms.",
-    "color_code": "#B7C9D9",
-    "timestamp": "2025-09-30 04:10:17"
+    "weather_report": "As dawn has given way to morning, Boston greets the day with a gentle warmth, a whisper of sunshine that teases the horizon. The air is crisp, bearing the promise of a pleasant day ahead. With temperatures poised to hover near 72 degrees, the scenery unfolds with mostly clear skies\u2014just a few brushstrokes of clouds that hint at a leisurely pace. The northeast wind stirs, stirring the leaves but not enough to leave a chill. As you step outside, you might find that a light sweater or a comfortable long-sleeve shirt is perfect for the brisk air lingering in the shadows of the buildings and trees.\n\nThe charm of Boston on this autumn day beckons one to explore the less traveled paths. A stroll along the Charles River Esplanade could provide that refreshing perspective, the water glistening under the sunlight, reflecting the deepening hues of the season. For those drawn to quieter pursuits, a visit to a local caf\u00e9 could offer solace, allowing time to sip coffee while gazing out onto the bustling streets, where laughter and conversation weave a delightful tapestry. Whether you find yourself wandering the cobblestones of Beacon Hill or simply enjoying the solitude of a park bench, today\u2019s weather calls for an appreciation of the small joys that life in the city offers.",
+    "color_code": "#A1C6D8",
+    "timestamp": "2025-09-30 08:12:54"
 }
