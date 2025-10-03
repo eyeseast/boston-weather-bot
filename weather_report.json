@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-02T19:45:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 48.306889338497,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 100,
+            "timestamp": "2025-10-03T00:10:00+00:00",
+            "temperature_f": 46.4,
+            "temperature_c": 8,
+            "humidity": 87.19415400995,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-10-02T15:00:00-04:00",
-                "endTime": "2025-10-02T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 61. East wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-10-02T18:00:00-04:00",
+                "startTime": "2025-10-02T20:00:00-04:00",
                 "endTime": "2025-10-03T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 44. South wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-10-03T06:00:00-04:00",
+                "endTime": "2025-10-03T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 72,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 72. Southwest wind 5 to 9 mph."
             }
         ]
     },
-    "weather_report": "As Boston embraces the late afternoon sun, the atmosphere is painted in hues of serenity. The weather is undeniably pleasant, with a clear, cobalt sky gracefully arching overhead. The temperature hovers around a comfortable 61 degrees, a gentle reminder that autumn is softly wrapping its arms around the city. With an easterly breeze whispering at seven miles per hour, it\u2019s a perfect moment to step outside and feel the embrace of nature.\n\nAs evening approaches, the clarity of the day suggests a promising transition into a mostly clear night, where temperatures will dip to a cozy 44 degrees. A light south wind will continue to brush through the streets, inviting you to enjoy a peaceful stroll along the Charles River or an intimate dinner at an outdoor caf\u00e9, where laughter and warmth linger in the air. Light layers, perhaps a cardigan over a shirt, would be wise choices for the changing temperatures, allowing comfort against the crispness of evening. Tonight provides an opportunity to unwind, perhaps with a leisurely walk or a quiet moment spent with a good book beneath the stars, as Boston glistens softly in the fading light.",
-    "color_code": "#A2B2C8",
-    "timestamp": "2025-10-02 16:07:38"
+    "weather_report": "As the evening settles softly over Boston, a gentle clarity blankets the city. With temperatures drifting down to a serene 44 degrees, the air is crisp yet inviting, punctuated by a slight, southward breeze that whispers promises of the day to come. Tonight, the stars peek through the expansive sky, hinting at a clear journey into the warmth of tomorrow.\n\nAs the dawn breaks over the horizon, expect a delightful dance of sunlight, warming the landscape to a pleasant 72 degrees. The sky will boast a brilliant blue, unmarred by clouds, allowing that golden hue to wash across the city. Such radiant weather invites you outdoors, to stroll along the Charles River or meander through a beloved neighborhood. A light sweater or jacket would provide comfort as evening sets in again, while the day\u2019s sunshine will be best enjoyed in casual attire\u2014light and free. Whether you find yourself seeking a quiet caf\u00e9 for the afternoon or perhaps visiting an art gallery, there is a certain magic in these hours that promises fulfillment in the simplest of joys.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-10-02 20:29:08"
 }
