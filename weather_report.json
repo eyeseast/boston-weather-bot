@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-11T11:50:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 87.383237448204,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 180,
-            "description": "Cloudy"
+            "timestamp": "2025-10-11T15:50:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 48.85613300924,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 160,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-11T04:00:00-04:00",
-                "endTime": "2025-10-11T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 45. South wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-10-11T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-10-11T12:00:00-04:00",
                 "endTime": "2025-10-11T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "S",
+                "windSpeed": "6 mph",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 66. South wind 2 to 6 mph."
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 66. Southeast wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-11T18:00:00-04:00",
+                "endTime": "2025-10-12T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 52. East wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn stretches its arms over Boston, the sky dons a mellow cloak of clouds, whispering promises of a day painted with soft hues. It feels like the city is wrapped in a light, gentle embrace, with temperatures lingering in the coolness of the mid-forties. The air is calm and unhurried, a subtle southward breeze nudging the day awake. As the hours pass, the sun will break through, allowing warmth to trickle in, veiling the city in a pleasant glow approaching the mid-sixties. Strolling through the parks or sipping coffee on a bench surrounded by autumn's fading foliage seems not just a possibility, but an invitation. \n\nDressing in layers will make for a smart choice \u2014 a light sweater or jacket would suit the cool morning's whims, while a short-sleeved shirt underneath will be perfect as the day embraces warmth. Perhaps now is the time to explore quaint streets or visit a cozy bookstore, where the hours can waltz away among stories. A walk along the banks of the Charles might grace you with that sweet spot between the warmth of the sun and the invigorating coolness of the breeze, making wandering not merely pleasant, but a simple joy of living.",
-    "color_code": "#BEC4D6",
-    "timestamp": "2025-10-11 08:10:33"
+    "weather_report": "As afternoon settles softly over Boston, the city wears a cloak of muted clouds, a subtle dance of gray brushing against a canvas of pale blue. With temperatures hovering around a gentle 66 degrees, the air feels pleasantly crisp, invigorating the spirit while calling for a light jacket or a cozy sweater, ideal companions for a stroll down the esplanade or a quiet moment spent in one of the city\u2019s parks. The southeast wind, a mere whisper at 6 mph, carries with it the faintest invitation to unwind, breathe deeply, and embrace the solace of a leisurely day.\n\nAs twilight approaches, the clouds will linger, embracing the city in their gentle grasp, with a low dipping into the comfort of 52 degrees tonight. To mark this evening, consider gathering with friends over tea or sharing stories in the warm glow of a well-loved caf\u00e9. There\u2019s a charm in the mildness, an appeal in the clouds that suggest warmth rather than isolation. Thus, Boston is set for a day that invites both introspection and light-hearted companionship, a day to lace up comfortable shoes and wander without haste, discovering the warmth of the community between the folds of silky clouds.",
+    "color_code": "#A9C0C9",
+    "timestamp": "2025-10-11 12:07:08"
 }
