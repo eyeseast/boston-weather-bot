@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-12T07:50:00+00:00",
-            "temperature_f": 46.4,
-            "temperature_c": 8,
-            "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Clear"
+            "timestamp": "2025-10-12T15:50:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 87.659298938668,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 40,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-12T04:00:00-04:00",
-                "endTime": "2025-10-12T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 49. Northeast wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-10-12T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-10-12T12:00:00-04:00",
                 "endTime": "2025-10-12T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 90
+                    "value": 81
                 },
-                "windSpeed": "10 to 17 mph",
+                "windSpeed": "17 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,90?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain between 10am and 1pm, then rain and patchy fog. Cloudy, with a high near 60. Northeast wind 10 to 17 mph, with gusts as high as 33 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,80?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 60. Northeast wind around 17 mph, with gusts as high as 33 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-12T18:00:00-04:00",
+                "endTime": "2025-10-13T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 95
+                },
+                "windSpeed": "21 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain before 9pm, then rain and patchy fog. Cloudy, with a low around 53. Northeast wind around 21 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
             }
         ]
     },
-    "weather_report": "As the night deepens in Boston, a blanket of clouds shrouds the city, painting an atmosphere both mysterious and tranquil. The cool air wraps around you, with temperatures sliding down to a brisk 49 degrees. A gentle northeast wind whispers through the streets, feeling almost present, as if urging the world to settle into peaceful slumber.  \n\nLooking ahead, Sunday promises to awaken with a damp embrace, as rain chances dance between 10 a.m. and 1 p.m. Patchy fog may join the ensemble, casting a soft veiling over familiar sights, while the clouds linger, offering little respite. The temperature will nudge toward 60, but the gusts\u2014hitting up to 33 mph\u2014will remind you that autumn is asserting its claim. Given this forecast, dressing in layers would be wise; a light, water-resistant jacket coupled with a cozy scarf should provide comfort against both wind and moisture. Consider a gentle stroll through a nearby park as the morning greets you; the tantalizing scents of freshly fallen rain mingling with earth could make the simplest of moments feel poetic. If the day grows wetter, perhaps a nearby coffee shop, the scent of roasted beans wafting through the air, will serve as the perfect hideaway, allowing you to watch the world dance with rain.",
-    "color_code": "#4B4E55",
-    "timestamp": "2025-10-12 04:08:34"
+    "weather_report": "In the heart of Boston this afternoon, the atmosphere envelops the city in a soft, steady rain, transforming familiar landscapes into gently blurred reflections of the everyday hustle. The clouds cast a muted gray veil over the skyline, with the crisp chill of the northeastern breeze whispering promises of a damp and breezy day ahead. As the hours drift lazily towards evening, the rain is expected to intensify, melding with the encroaching fog that will wrap around the buildings and streets, creating a serene yet somewhat brooding ambiance. The temperature is congenially cool, nudging its way toward the lower fifties as night falls, layering the air with an anticipatory heaviness.\n\nWith such a visceral atmosphere, it may be wise to reach for a warm, waterproof jacket and sturdy footwear to navigate this damp tableau. The sound of rain pattering against pavement invites indoor activities that prompt reflection; perhaps a quiet afternoon spent at a local caf\u00e9, lost in the pages of a newly discovered novel, or meandering through art galleries where colors pop against the gray backdrop outside. As the evening deepens, the warmth of a home-cooked meal might be just the remedy to counter the chill of the air, fostering a cozy retreat from the world beyond.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2025-10-12 12:07:15"
 }
