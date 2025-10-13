@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-13T03:50:00+00:00",
+            "timestamp": "2025-10-13T07:50:00+00:00",
             "temperature_f": 55.4,
             "temperature_c": 13,
             "humidity": 93.65072411462,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Rain and Fog/Mist"
+            "wind_speed_mph": 45.581112000000005,
+            "wind_direction": 40,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2025-10-13T00:00:00-04:00",
+                "startTime": "2025-10-13T04:00:00-04:00",
                 "endTime": "2025-10-13T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 93
+                    "value": 99
                 },
-                "windSpeed": "20 mph",
+                "windSpeed": "22 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy, with a low around 53. Northeast wind around 20 mph, with gusts as high as 38 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+                "detailedForecast": "Rain and patchy fog. Cloudy, with a low around 53. Northeast wind around 22 mph, with gusts as high as 38 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 92
+                    "value": 97
                 },
-                "windSpeed": "21 mph",
+                "windSpeed": "22 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,90?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain. Cloudy, with a high near 57. Northeast wind around 21 mph, with gusts as high as 36 mph. Chance of precipitation is 90%. New rainfall amounts between 1 and 2 inches possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,100/rain_showers,90?size=medium",
+                "shortForecast": "Light Rain then Rain Showers",
+                "detailedForecast": "Rain and patchy fog before 10am, then rain showers and patchy fog. Cloudy, with a high near 57. Northeast wind around 22 mph, with gusts as high as 39 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
             }
         ]
     },
-    "weather_report": "As the night deepens over Boston, the air is thickened by a persistent rain, casting a dim and moody ambiance over the city. The clouds hang low, cloaking the skyline in a shroud of gray that hints at the tantalizing warmth of autumn just out of reach. A brisk northeast wind whistles through the streets, rustling the leaves that still cling to life, while the steady rhythm of rain drums softly against windows and sidewalks, drawing people inward to cozy nooks and warm drinks. A chill lingers, whispering the kind of cold that seeps through layers, making one long for something heavier \u2013 perhaps a well-loved sweater or a waterproof jacket.\n\nLooking ahead, Columbus Day will greet early risers with the same drizzly embrace, with expectations of rain continuing throughout the day. The high will barely rise above the cool embrace of 57 degrees, inviting thoughts of indoor pursuits over outdoor wanderings. One might consider a leisurely visit to a small caf\u00e9, where the scent of fresh pastry mingles harmoniously with steaming coffee, or perhaps settle into a lively bookstore, letting oneself get lost among pages printed with the stories of others. The day may not yield sunshine, but it offers an opportunity for reflection and the comfort of the familiar, making it a perfect time to savor the simple pleasures of life.",
-    "color_code": "#2E2A27",
-    "timestamp": "2025-10-13 00:08:56"
+    "weather_report": "The morning in Boston unfolds under a shroud of rain and patchy fog, with clouds enveloping the city in a cool embrace. As the overnight chill lingers, temperatures hover around a gentle 53 degrees, while a stout northeast wind whispers through the streets, occasionally gusting sharply like a wayward thought. As the day progresses, anticipation builds with heavy rain likely to greet the city until around ten, followed by persistent showers that echo the muted tones of the sky. The forecast heralds a high of 57, suggesting that warmth is more a sentiment than a reality as the clouds remain steadfast, concealing the sun's ambitions.\n\nDressing for such a day calls for layers that blend comfort with practicality\u2014a light waterproof jacket and sturdy shoes to brave the slick streets, perhaps with an umbrella at the ready, just in case the rain decides to dance more vigorously. Given the ambiance outside, it may be a day best suited for savoring a cozy nook in a local caf\u00e9, watching the world go by as rain patters against the windows. For those who feel the pull of the outdoors, a quiet stroll with a cherished book in hand along the waterfront could offer solace, despite the misty veil. Ultimately, this day inspires introspection and a certain appreciation for the quieter rhythms of life, as the city moves to a slower beat beneath its gauzy cloak.",
+    "color_code": "#7F7F7F",
+    "timestamp": "2025-10-13 04:11:20"
 }
