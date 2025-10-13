@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-12T15:50:00+00:00",
+            "timestamp": "2025-10-13T03:50:00+00:00",
             "temperature_f": 55.4,
             "temperature_c": 13,
-            "humidity": 87.659298938668,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 40,
-            "description": "Cloudy"
+            "humidity": 93.65072411462,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-10-12T12:00:00-04:00",
-                "endTime": "2025-10-12T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 81
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,80?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy, with a high near 60. Northeast wind around 17 mph, with gusts as high as 33 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-10-12T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2025-10-13T00:00:00-04:00",
                 "endTime": "2025-10-13T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 95
+                    "value": 93
+                },
+                "windSpeed": "20 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy, with a low around 53. Northeast wind around 20 mph, with gusts as high as 38 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Columbus Day",
+                "startTime": "2025-10-13T06:00:00-04:00",
+                "endTime": "2025-10-13T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 92
                 },
                 "windSpeed": "21 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,90?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain before 9pm, then rain and patchy fog. Cloudy, with a low around 53. Northeast wind around 21 mph, with gusts as high as 35 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,90?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 57. Northeast wind around 21 mph, with gusts as high as 36 mph. Chance of precipitation is 90%. New rainfall amounts between 1 and 2 inches possible."
             }
         ]
     },
-    "weather_report": "In the heart of Boston this afternoon, the atmosphere envelops the city in a soft, steady rain, transforming familiar landscapes into gently blurred reflections of the everyday hustle. The clouds cast a muted gray veil over the skyline, with the crisp chill of the northeastern breeze whispering promises of a damp and breezy day ahead. As the hours drift lazily towards evening, the rain is expected to intensify, melding with the encroaching fog that will wrap around the buildings and streets, creating a serene yet somewhat brooding ambiance. The temperature is congenially cool, nudging its way toward the lower fifties as night falls, layering the air with an anticipatory heaviness.\n\nWith such a visceral atmosphere, it may be wise to reach for a warm, waterproof jacket and sturdy footwear to navigate this damp tableau. The sound of rain pattering against pavement invites indoor activities that prompt reflection; perhaps a quiet afternoon spent at a local caf\u00e9, lost in the pages of a newly discovered novel, or meandering through art galleries where colors pop against the gray backdrop outside. As the evening deepens, the warmth of a home-cooked meal might be just the remedy to counter the chill of the air, fostering a cozy retreat from the world beyond.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-10-12 12:07:15"
+    "weather_report": "As the night deepens over Boston, the air is thickened by a persistent rain, casting a dim and moody ambiance over the city. The clouds hang low, cloaking the skyline in a shroud of gray that hints at the tantalizing warmth of autumn just out of reach. A brisk northeast wind whistles through the streets, rustling the leaves that still cling to life, while the steady rhythm of rain drums softly against windows and sidewalks, drawing people inward to cozy nooks and warm drinks. A chill lingers, whispering the kind of cold that seeps through layers, making one long for something heavier \u2013 perhaps a well-loved sweater or a waterproof jacket.\n\nLooking ahead, Columbus Day will greet early risers with the same drizzly embrace, with expectations of rain continuing throughout the day. The high will barely rise above the cool embrace of 57 degrees, inviting thoughts of indoor pursuits over outdoor wanderings. One might consider a leisurely visit to a small caf\u00e9, where the scent of fresh pastry mingles harmoniously with steaming coffee, or perhaps settle into a lively bookstore, letting oneself get lost among pages printed with the stories of others. The day may not yield sunshine, but it offers an opportunity for reflection and the comfort of the familiar, making it a perfect time to savor the simple pleasures of life.",
+    "color_code": "#2E2A27",
+    "timestamp": "2025-10-13 00:08:56"
 }
