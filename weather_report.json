@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-13T07:50:00+00:00",
+            "timestamp": "2025-10-13T15:45:00+00:00",
             "temperature_f": 55.4,
             "temperature_c": 13,
             "humidity": 93.65072411462,
-            "wind_speed_mph": 45.581112000000005,
+            "wind_speed_mph": 62.17070400000001,
             "wind_direction": 40,
             "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-13T04:00:00-04:00",
-                "endTime": "2025-10-13T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 99
-                },
-                "windSpeed": "22 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy, with a low around 53. Northeast wind around 22 mph, with gusts as high as 38 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Columbus Day",
-                "startTime": "2025-10-13T06:00:00-04:00",
+                "startTime": "2025-10-13T12:00:00-04:00",
                 "endTime": "2025-10-13T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 97
+                    "value": 92
                 },
                 "windSpeed": "22 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100/rain_showers,90?size=medium",
-                "shortForecast": "Light Rain then Rain Showers",
-                "detailedForecast": "Rain and patchy fog before 10am, then rain showers and patchy fog. Cloudy, with a high near 57. Northeast wind around 22 mph, with gusts as high as 39 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,90?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers and patchy fog. Cloudy, with a high near 57. Northeast wind around 22 mph, with gusts as high as 38 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-13T18:00:00-04:00",
+                "endTime": "2025-10-14T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 88
+                },
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,90/tsra,80?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Rain showers and patchy fog before 11pm, then patchy fog and showers and thunderstorms. Cloudy, with a low around 52. Northeast wind 15 to 20 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible."
             }
         ]
     },
-    "weather_report": "The morning in Boston unfolds under a shroud of rain and patchy fog, with clouds enveloping the city in a cool embrace. As the overnight chill lingers, temperatures hover around a gentle 53 degrees, while a stout northeast wind whispers through the streets, occasionally gusting sharply like a wayward thought. As the day progresses, anticipation builds with heavy rain likely to greet the city until around ten, followed by persistent showers that echo the muted tones of the sky. The forecast heralds a high of 57, suggesting that warmth is more a sentiment than a reality as the clouds remain steadfast, concealing the sun's ambitions.\n\nDressing for such a day calls for layers that blend comfort with practicality\u2014a light waterproof jacket and sturdy shoes to brave the slick streets, perhaps with an umbrella at the ready, just in case the rain decides to dance more vigorously. Given the ambiance outside, it may be a day best suited for savoring a cozy nook in a local caf\u00e9, watching the world go by as rain patters against the windows. For those who feel the pull of the outdoors, a quiet stroll with a cherished book in hand along the waterfront could offer solace, despite the misty veil. Ultimately, this day inspires introspection and a certain appreciation for the quieter rhythms of life, as the city moves to a slower beat beneath its gauzy cloak.",
-    "color_code": "#7F7F7F",
-    "timestamp": "2025-10-13 04:11:20"
+    "weather_report": "As Boston settles into a gray embrace this Columbus Day, a steady veil of rain showers and patchy fog greets the weary traveler. The air hums with the chill of a northeastern wind, reminding us that autumn\u2019s fingertips are yet unfurled. With temperatures hovering around a cool 57 degrees, the scenery offers little in the way of clarity, leaving the skyline shrouded and whispering secrets of the day ahead. Those venturing out will feel the playful gusts, so it\u2019s wise to don a light, waterproof jacket, perhaps layered over a soft knit, to ward off the dampness that promises to linger.\n\nAs the evening descends, anticipation brews for more showers and perhaps a fleeting rumble of thunder. The low will settle around a cozy 52 degrees, echoing the muted color palette that blankets the city. In such weather, sipping a warm beverage at a local caf\u00e9 while watching the world spill outside through fogged windows offers a tranquil reprieve. Or perhaps a leisurely stroll through familiar streets, umbrella in hand, to appreciate the quiet charm that only a rainy day can bring, as puddles form and the scent of wet earth mingles with the crisp autumn air. Today calls for moments of solace against life\u2019s more raucous rhythms.",
+    "color_code": "#A9B9B9",
+    "timestamp": "2025-10-13 12:08:08"
 }
