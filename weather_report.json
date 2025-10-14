@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-14T00:20:00+00:00",
+            "timestamp": "2025-10-14T11:50:00+00:00",
             "temperature_f": 53.6,
             "temperature_c": 12,
-            "humidity": 100,
-            "wind_speed_mph": 49.688244000000005,
-            "wind_direction": 50,
+            "humidity": 93.602371756764,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 20,
             "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-10-13T20:00:00-04:00",
-                "endTime": "2025-10-14T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 87
-                },
-                "windSpeed": "14 to 17 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,90?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and isolated thunderstorms before 5am, then rain likely and patchy fog. Cloudy, with a low around 52. Northeast wind 14 to 17 mph, with gusts as high as 31 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-10-14T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-10-14T08:00:00-04:00",
                 "endTime": "2025-10-14T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 63
+                    "value": 60
                 },
-                "windSpeed": "10 to 14 mph",
+                "windSpeed": "9 to 14 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60/rain_showers,30?size=medium",
-                "shortForecast": "Light Rain Likely then Rain Showers Likely",
-                "detailedForecast": "Rain likely and patchy fog before 8am, then rain showers likely. Cloudy, with a high near 57. Northeast wind 10 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/rain,30?size=medium",
+                "shortForecast": "Rain Showers Likely then Chance Drizzle",
+                "detailedForecast": "Rain showers likely and patchy fog before 9am, then a chance of drizzle and patchy fog between 9am and 3pm. Mostly cloudy, with a high near 57. Northeast wind 9 to 14 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-14T18:00:00-04:00",
+                "endTime": "2025-10-15T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 11
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 47. North wind 3 to 9 mph."
             }
         ]
     },
-    "weather_report": "As night cloaks Boston in a soft embrace, the rain delicately taps on windows, its rhythm punctuated by the occasional rumble of thunder. The air carries a cool dampness, inviting a reflective mood as the city prepares to settle into another evening. With temperatures hovering around a brisk fifty-two degrees, a sweater, perhaps layered with a water-resistant jacket, would serve as the ideal attire\u2014comforting yet practical against the chill and the relentless drizzle. \n\nTomorrow brings a similar canvas, with clouds hanging heavy and low, punctuated by fleeting moments of rain and patchy fog. As the day unfolds, a modest high near fifty-seven lingers on the horizon, urging you to explore indoor havens\u2014perhaps a cozy caf\u00e9, its windows steamy with warmth, or a quiet bookstore where the scent of old pages mingles with brewing coffee. It\u2019s a day for contented solitude or shared whispers under the soft glow of lamps. This is a moment for introspection, where the serenity of the gray skies can cradle thoughts, nurturing ideas as you find solace in the rhythm of the weather.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2025-10-13 20:29:38"
+    "weather_report": "In the heart of Boston, the morning unfolds under a shroud of misty gray, a quiet prelude to the day ahead. Rain showers, once a distant threat, are now a part of the landscape, as the air carries the gentle cadence of droplets tapping against windows and pavement. Fog lingers in the corners of the city, weaving a delicate veil over familiar vistas, as if the very essence of the day is cloaked in a soft embrace. The temperature settles around a cool 57 degrees, with a brisk northeast wind whispering through the streets, invigorating yet a reminder to dress thoughtfully against the chill. \n\nAs the afternoon nears, the promise of drizzle persists, but the sun may just glimpse through the clouds, offering hints of brightness amid the overcast. Amid this gray tableau, the world feels ripe for quiet contemplation; perhaps a stroll along the avenues, where the kiss of cool air mingles with the earthy scent of rain-soaked sidewalks, will invite the mind to wander. Or maybe one could find solace with a good book in a cozy caf\u00e9, watching the rhythmic dance of water from the heavens while wrapped in a warm layer. Tonight, the clouds will part slightly, revealing a cooler evening that calls for a light jacket or a comfortable sweater. With the early twilight setting in, Boston pulses softly, a canvas awaiting the gentle brushstrokes of evening lights amidst the lingering mist.",
+    "color_code": "#A0B0C3",
+    "timestamp": "2025-10-14 08:13:26"
 }
