@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-15T07:50:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "timestamp": "2025-10-15T15:50:00+00:00",
+            "temperature_f": 62.6,
+            "temperature_c": 17,
+            "humidity": 67.769403902783,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 350,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-15T04:00:00-04:00",
-                "endTime": "2025-10-15T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 49. Northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-10-15T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-10-15T12:00:00-04:00",
                 "endTime": "2025-10-15T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 8
                 },
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 62, with temperatures falling to around 56 in the afternoon. Northwest wind 6 to 12 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Partly sunny. High near 62, with temperatures falling to around 56 in the afternoon. Northwest wind around 12 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-15T18:00:00-04:00",
+                "endTime": "2025-10-16T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 39. Northwest wind around 12 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "The early morning in Boston drapes itself in the cool embrace of mostly cloudy skies. As the city stirs awake, the temperature hovers near 49 degrees, a gentle reminder of autumn's arrival wrapped in a soft northwest breeze, whispering promises of a day that will unfold. As the sun climbs, those clouds will part just enough to unveil a partly sunny canvas. The temperature will flirt with 62 degrees before dipping into a more subdued 56 by afternoon\u2014indicative of the day\u2019s fleeting warmth.\n\nThose venturing outside will find the air fresh and invigorating, ideal for a brisk morning stroll along the Charles River or perhaps a quiet moment on the benches of Boston Common. In dressing for these transitional hours, layering will be wise; a light sweater or jacket will provide comfort against the morning chill, making way for lighter attire as the sun dances higher in the sky. Anticipate the wind to pick up in the afternoon, lending a spirited rush that may beckon you to wrap a scarf around your neck for added coziness. The day encourages exploration, be it meandering through local markets, sipping on artisanal coffee in a quaint caf\u00e9, or discovering the charming, cobblestone-laden streets of Beacon Hill. The scene is set for a day that is simply Boston\u2014a blend of crisp air, sun-kissed moments, and the soulful hum of a city alive.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-10-15 04:10:16"
+    "weather_report": "As the afternoon stretches into the heart of Boston, a gentle warmth lingers like the fading echo of a more vibrant summer. The hills and cityscape are marked by a tapestry of clouds rustling overhead, with shades of gray mingling with patches of azure. It\u2019s a day where the sunlight occasionally still finds purchase, casting a soft glow on the autumn leaves. The breeze has a briskness that speaks of fall\u2019s arrival, inviting wandering souls to explore the avenues lined with trees gently shedding their foliage.\n\nTonight, the stars will peek through the remnants of daylight, offering a tranquil canvas against the backdrop of the city. With temperatures dipping into the cooler embrace of the evening, it would be wise to adorn oneself in layers\u2014a cozy sweater or light jacket complemented by comfortable footwear for those who may wish to stroll along the harbor or through the park, where the air carries the scent of earth and crisp leaves. The day is mild enough for simple pleasures: perhaps a quiet visit to a caf\u00e9 to savor the warmth of a freshly brewed coffee or an evening walk to admire the shimmering reflections on the Charles River. Each moment outside is an invitation to soak in the beauty of a Boston autumn, effortlessly bridging the serenity of nature with the rhythm of urban life.",
+    "color_code": "#A9B7B6",
+    "timestamp": "2025-10-15 12:08:05"
 }
