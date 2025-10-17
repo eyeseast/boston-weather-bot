@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-17T07:50:00+00:00",
-            "temperature_f": 46.4,
-            "temperature_c": 8,
-            "humidity": 61.296851102691,
+            "timestamp": "2025-10-17T11:50:00+00:00",
+            "temperature_f": 44.6,
+            "temperature_c": 7,
+            "humidity": 70.499329419935,
             "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 330,
-            "description": "Cloudy"
+            "wind_direction": 320,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-17T04:00:00-04:00",
-                "endTime": "2025-10-17T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 42. North wind around 12 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-10-17T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-10-17T08:00:00-04:00",
                 "endTime": "2025-10-17T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 to 12 mph",
+                "windSpeed": "6 to 12 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 61. North wind 7 to 12 mph, with gusts as high as 24 mph."
+                "detailedForecast": "Sunny, with a high near 61. North wind 6 to 12 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-17T18:00:00-04:00",
+                "endTime": "2025-10-18T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 39. Northwest wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As the night deepens, Boston finds itself shrouded in a cloak of calm and tranquil darkness, punctuated only by the distant flicker of city lights. The air is crisp, brushed by a gentle north wind, whispering through the streets, bringing with it the promise of a bright, sunny day ahead. The low temperatures act as a reminder that autumn is firmly grasping the season, beckoning residents to prepare for a pleasant morning. \n\nWith daybreak, a warm sun will illuminate the sharp contours of the cityscape, raising the temperature to a comfortable peak. The morning dew will give way to a brilliant blue sky, while the cool breeze keeps the air fresh and invigorating. As Boston awakens, this splendid weather invites you to step outside. Opt for layers; a light sweater over a shirt, perhaps\u2014enough to stay warm against the brisk air, yet breathable enough to enjoy the sun\u2019s embrace. Seek enjoyment in a quiet walk along the Charles River, or perhaps a leisurely coffee at an outdoor caf\u00e9, taking in the vibrancy of life as the city emerges from slumber. Today is not solely about exploration but savoring the simple moments that make each autumn day a gift.",
-    "color_code": "#6a8e00",
-    "timestamp": "2025-10-17 04:10:23"
+    "weather_report": "The morning dawns clear and inviting over Boston, with a soft golden quality to the sunlight that bathes the city in warmth despite the crispness of autumn air. The forecast promises a sunny day, ideal for those who savor the subtle transition of the seasons. A north wind stirs gently, playfully tousling hair and rustling the last of the dry leaves clinging to branch and sidewalk. As temperatures creep towards a pleasant 61 degrees, it is a day best enjoyed in layers, perhaps a light sweater or a casual jacket to fend off the brisk breeze. \n\nAs the day unfolds toward sunset, the vibrant hues of turning leaves will create a canvas of color, beckoning one to stroll along the riverbanks or meander through the parks where the scent of earth mingles with the last remnants of summer. This clear weather invites exploration\u2014whether it's a quiet afternoon with a book in an inviting caf\u00e9 or an invigorating walk to soak in the visual poetry of autumn. Relish the chance to connect with nature before the chill of winter sends us indoors, and indulge in the simple joys of a day that feels almost poetic in its serene beauty.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-10-17 08:12:30"
 }
