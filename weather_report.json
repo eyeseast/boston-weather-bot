@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-19T07:50:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 93.248095448059,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog/Mist"
+            "timestamp": "2025-10-19T15:50:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 55.910188768411,
+            "wind_speed_mph": 41.39344800000001,
+            "wind_direction": 150,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-19T04:00:00-04:00",
-                "endTime": "2025-10-19T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 46. Southwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-10-19T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-10-19T12:00:00-04:00",
                 "endTime": "2025-10-19T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 69,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 69. South wind 5 to 10 mph."
+                "detailedForecast": "Mostly sunny, with a high near 69. South wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-19T18:00:00-04:00",
+                "endTime": "2025-10-20T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 33
+                },
+                "windSpeed": "9 to 13 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,30?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 2am. Mostly cloudy, with a low around 56. Southeast wind 9 to 13 mph, with gusts as high as 33 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In the quiet embrace of the early morning hours, Boston settles under a gentle blanket of partly cloudy skies, the moon still lingering like a distant thought. The temperatures hover around a cool 46, and a soft whisper of a southwest wind stirs, breathing life into the night. As dawn unfolds, it promises a glorious Sunday, revealing a palette of mostly sunny skies, where the sun will soon warm the city, nudging the temperature toward a pleasant 69. The day calls for light attire\u2014perhaps a comfortable shirt paired with a light jacket, perfect for the slow strolls along the waterfront or a reflective visit to one of the city\u2019s many green spaces.\n\nAs the day progresses, Boston\u2019s streets will beckon with a vibrant energy, inviting casual weekend activities. One might sip a leisurely coffee at an outdoor caf\u00e9, feeling the warmth of the sunlight dance across the skin, or meander through the historic neighborhoods, indulging in the stories that linger in the air. The conditions are just right for a mellow afternoon, suited for simple joys\u2014perhaps a visit to an art exhibit or a quiet read in a park, with the sun painting fleeting shadows around where one might rest. Nature, history, and a touch of warmth make it a day to savor the understated pleasures that life has to offer.",
-    "color_code": "#A4A4A4",
-    "timestamp": "2025-10-19 04:08:27"
+    "weather_report": "As the afternoon unfolds in Boston, a gentle warmth embraces the city, with the sun casting a gold-tinted glow on the vibrant autumn landscape. With a high hovering around 69 degrees, this moment evokes a palette of deep oranges and scarlets painted against the canvas of a mostly sunny sky. The breeze carries the fresh scent of fallen leaves, making it an ideal time for a leisurely stroll through the Public Garden, where the tranquility of nature offers a welcome escape from the urban bustle.\n\nHowever, as twilight approaches, the air thickens with anticipation; clouds begin to weave through the sky, hinting at the possibility of rain showers after midnight. With a low settling near 56 degrees, the night will usher in a more humid embrace, making an extra layer essential for those venturing out. One might enjoy a cozy coffee at a nearby caf\u00e9 or take in the soft glimmer of the city lights reflecting on the Charles River, savoring that fleeting moment of warmth before the rain arrives. \n\nSo dress in light layers to accommodate the shift in temperature and keep an ear tuned for the sounds of evening rain\u2014leaving behind the day\u2019s warmth while welcoming the whispers of the night.",
+    "color_code": "#A8C2D2",
+    "timestamp": "2025-10-19 12:07:31"
 }
