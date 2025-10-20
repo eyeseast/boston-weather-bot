@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-19T15:50:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 55.910188768411,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 150,
+            "timestamp": "2025-10-20T00:20:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 93.65072411462,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 160,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-10-19T12:00:00-04:00",
-                "endTime": "2025-10-19T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 69. South wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-10-19T18:00:00-04:00",
+                "startTime": "2025-10-19T20:00:00-04:00",
                 "endTime": "2025-10-20T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 33
+                    "value": 28
                 },
                 "windSpeed": "9 to 13 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,30?size=medium",
                 "shortForecast": "Mostly Cloudy then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 2am. Mostly cloudy, with a low around 56. Southeast wind 9 to 13 mph, with gusts as high as 33 mph. Chance of precipitation is 30%."
+                "detailedForecast": "A chance of rain showers after 3am. Mostly cloudy, with a low around 56. Southeast wind 9 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-10-20T06:00:00-04:00",
+                "endTime": "2025-10-20T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 85
+                },
+                "windSpeed": "13 to 16 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,90/tsra,70?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Rain showers likely before 10am, then showers and thunderstorms between 10am and 5pm. Some of the storms could produce heavy rain. Cloudy. High near 67, with temperatures falling to around 61 in the afternoon. South wind 13 to 16 mph, with gusts as high as 31 mph. Chance of precipitation is 90%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a gentle warmth embraces the city, with the sun casting a gold-tinted glow on the vibrant autumn landscape. With a high hovering around 69 degrees, this moment evokes a palette of deep oranges and scarlets painted against the canvas of a mostly sunny sky. The breeze carries the fresh scent of fallen leaves, making it an ideal time for a leisurely stroll through the Public Garden, where the tranquility of nature offers a welcome escape from the urban bustle.\n\nHowever, as twilight approaches, the air thickens with anticipation; clouds begin to weave through the sky, hinting at the possibility of rain showers after midnight. With a low settling near 56 degrees, the night will usher in a more humid embrace, making an extra layer essential for those venturing out. One might enjoy a cozy coffee at a nearby caf\u00e9 or take in the soft glimmer of the city lights reflecting on the Charles River, savoring that fleeting moment of warmth before the rain arrives. \n\nSo dress in light layers to accommodate the shift in temperature and keep an ear tuned for the sounds of evening rain\u2014leaving behind the day\u2019s warmth while welcoming the whispers of the night.",
-    "color_code": "#A8C2D2",
-    "timestamp": "2025-10-19 12:07:31"
+    "weather_report": "As twilight settles over Boston this evening, the air is turning humid, carrying a whisper of rains yet to come. Currently, the city lies beneath a blanket of clouds, cloaked in the muted glow of urban lights, with the temperature draping itself around a comfortable 56 degrees. A gentle southeast breeze sways lightly through the trees, its strength promising that something more dramatic lurks beyond the horizon. Expect a chance of rain that will likely become more pronounced as the clock ticks towards dawn, with the night hinting at a restless sky.\n\nAs we glide into Monday, prepare for a day shrouded in the heavy embrace of clouds, punctuated by a symphony of rain showers and the rumble of distant thunder. The atmosphere will feel charged, the clouds swelling with the anticipation of heavy downpours. Although the highs may flirt with a warm 67 degrees, there\u2019s a likelihood of temperatures gradually retreating as the storm systems roll in. Appropriate attire may include waterproof layers and sturdy footwear, guiding one through puddled streets or sheltered spots\u2014perhaps a cozy caf\u00e9 where the world outside softens in the rain. While the broader world may seem dreary, the scent of rain-soaked earth and the chance for thunderous drama provide an invitation for quiet introspection, a reading nook beside a window, or a simple watch as nature orchestrates its own kind of performance.",
+    "color_code": "#4A5485",
+    "timestamp": "2025-10-19 20:33:24"
 }
