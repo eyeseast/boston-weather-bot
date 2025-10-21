@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-21T07:50:00+00:00",
-            "temperature_f": 51.8,
-            "temperature_c": 11,
-            "humidity": 76.357329126718,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 220,
+            "timestamp": "2025-10-21T15:50:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
+            "humidity": 48.029752564112,
+            "wind_speed_mph": 41.39344800000001,
+            "wind_direction": 230,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-21T04:00:00-04:00",
-                "endTime": "2025-10-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 48. Southwest wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-10-21T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2025-10-21T12:00:00-04:00",
                 "endTime": "2025-10-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 67,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "10 to 14 mph",
+                "windSpeed": "9 to 13 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 67. Southwest wind 10 to 14 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Sunny, with a high near 67. Southwest wind 9 to 13 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-21T18:00:00-04:00",
+                "endTime": "2025-10-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 67
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,70?size=medium",
+                "shortForecast": "Mostly Cloudy then Rain Showers Likely",
+                "detailedForecast": "Rain showers likely after midnight. Mostly cloudy, with a low around 51. South wind around 8 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a hush blankets the city, with mostly cloudy skies wrapping the landscape in a cool embrace. The air carries a crispness that promises a refreshing day ahead. By mid-morning, a playful sun will chase away the grey, heralding in a sunny afternoon where temperatures delicately flirt with the upper sixties. The gentle southwest breezes will encourage jackets or light sweaters, perfect for those venturing into the city\u2019s vibrant streets or perhaps seeking the solace of a nearby park. \n\nWith the weather turning amiable, today invites a stroll through the historic neighborhoods or an exploration of the waterfront\u2014ideal for those who revel in the awakening pulse of city life. Consider a leisurely coffee at a sidewalk caf\u00e9, allowing the morning's tranquility to melt into the afternoon's warmth. As the sun climbs higher, the day beckons you to relish simple joys, whether it be people-watching or simply enjoying the symphony of everyday life. A thoughtful combination of comfort and style is advisable, as layers may serve you well as the day evolves.",
-    "color_code": "#A2B99B",
-    "timestamp": "2025-10-21 04:10:33"
+    "weather_report": "In Boston today, the sun reigns supreme, wrapping the city in a gentle embrace as it casts its warm glow upon the autumn leaves that are just beginning to show their rich tapestry of colors. As the afternoon stretches on, temperatures hover around a refreshing 67 degrees, a wonderful contrast to the bluish sky above, which gleams without the slightest haze to spoil the view. A mild southwest breeze stirs, providing a delightful whisper of movement, inviting leisurely strolls along the Charles River or perhaps a quiet retreat in one of the many charming cafes nestled within the city\u2019s neighborhoods.\n\nAs evening approaches, however, a shift in the atmosphere reminds us of the capricious nature of this time of year. Tonight, clouds will gather, cloaking the sun and bringing with them the promise of rain showers. Temperatures will gently descend to about 51 degrees, and with a chance of precipitation looming, it is wise to carry an umbrella as you continue your evening plans. Light layers will serve well for anyone venturing out, with a sweater or light jacket offering needed warmth against the approaching chill. As for activities, consider savoring a warm drink from a local shop while reading a good book, or meandering through the city\u2019s vibrant streets as the twinkling lights begin to flicker on, reminding us that even amidst change, there is plenty of beauty waiting to be discovered.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-10-21 12:08:54"
 }
