@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-21T19:45:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 34.540084498324,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 240,
+            "timestamp": "2025-10-22T00:20:00+00:00",
+            "temperature_f": 53.6,
+            "temperature_c": 12,
+            "humidity": 71.472271072727,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 200,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-10-21T16:00:00-04:00",
-                "endTime": "2025-10-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 64. Southwest wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-10-21T18:00:00-04:00",
+                "startTime": "2025-10-21T20:00:00-04:00",
                 "endTime": "2025-10-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 56
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,60?size=medium",
                 "shortForecast": "Partly Cloudy then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers between 3am and 5am, then rain showers likely and patchy fog. Partly cloudy, with a low around 52. South wind around 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers between 3am and 5am, then rain showers likely and patchy fog. Partly cloudy, with a low around 52. South wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-10-22T06:00:00-04:00",
+                "endTime": "2025-10-22T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 73
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,70/tsra_hi,20?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Rain showers likely and patchy fog before 8am, then patchy fog and showers and thunderstorms likely between 8am and 1pm. Partly sunny, with a high near 65. South wind 6 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "This afternoon, Boston greets its inhabitants with a radiant sun, casting a gentle warmth that brings comfort to the spirit. The day unfolds with a crispness that hints at the autumnal transition, inviting folks to step outside as a light breeze stirs the leaves. The temperature hovers around a pleasant sixty-four degrees, making it a delightful afternoon to stroll along the Charles River or visit a nearby caf\u00e9, sipping on a warm beverage while soaking in the vibrant hues of fall. The sky's clarity stands robustly, unmarred by clouds, inviting reflection on how generous nature can be at this time of year.\n\nAs evening approaches, however, a shift looms on the horizon. Rain showers are expected to weave through the night, bringing with them a 60% chance of soaking the streets in a gentle embrace of moisture. It\u2019s wise to prepare for this change; a light jacket might do in the earlier hours, but an umbrella will soon become a necessary companion. For those considering the evening, perhaps a quiet night in with a good book or a playful board game with friends would suffice, rather than braving the elements. The cozy atmosphere ahead, with patchy fog likely dancing through the air, creates an evening ripe for introspection and warmth.",
-    "color_code": "#A6C8E5",
-    "timestamp": "2025-10-21 16:08:15"
+    "weather_report": "As the evening settles in over Boston, the atmosphere mirrors the gentle tension of a prelude, thick with anticipation. A tapestry of darkness cloaks the city, adorned with twinkling lights that flicker softly like distant stars. The air is cool, lingering around a mild 52 degrees, hinting at the rain to come as chance showers prepare to grace the night. A whisper of wind, subtle yet present, rustles through the streets, carrying the promise of moisture and the murky embrace of patchy fog. \n\nTomorrow hints at a canvas of unpredictability, with clouds poised to unfurl their watery gifts throughout the day. Look for the veil of fog to weave in and out as the sun makes its attempt to peek through, a delicate interplay of warmth and coolness. With the potential for showers and even thunderstorms, one might choose to don layers\u2014perhaps a cozy cardigan over a simple tee, tucked beneath a functional rain jacket, ready to brave the day\u2019s cascade. As the sky shifts between light and drape, a comforting sense of adventure might guide you through the bustling streets, perfect for an afternoon spent exploring local cafes or wandering among the city\u2019s historic sites, sheltered under a sturdy umbrella if the heavens so decide to open.",
+    "color_code": "#466e94",
+    "timestamp": "2025-10-21 20:32:33"
 }
