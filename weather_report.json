@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-22T07:50:00+00:00",
-            "temperature_f": 51.8,
-            "temperature_c": 11,
-            "humidity": 100,
+            "timestamp": "2025-10-22T12:00:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 93.65072411462,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Mostly Cloudy"
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-22T04:00:00-04:00",
-                "endTime": "2025-10-22T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 27
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers after 5am. Cloudy, with a low around 52. South wind around 8 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-10-22T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-10-22T08:00:00-04:00",
                 "endTime": "2025-10-22T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 65,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,100/rain_showers,20?size=medium",
                 "shortForecast": "Widespread Rain Showers",
                 "detailedForecast": "Widespread rain showers before 4pm. Mostly cloudy, with a high near 65. South wind 7 to 15 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-22T18:00:00-04:00",
+                "endTime": "2025-10-23T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 44. Southwest wind around 12 mph."
             }
         ]
     },
-    "weather_report": "As the early hours unfurl over Boston, a shroud of darkness remains, punctuated only by the distant glimmer of urban lights. It's a quiet, moody backdrop that foreshadows a day filled with the soft percussion of rain. The air carries a gentle chill, preparing for the arrival of scattered showers that will soon grace the city as dawn approaches. The south winds whisper softly, hinting at the dampness to come while the promise of warmth later today lingers like a half-remembered dream.\n\nBy midday, the rain will blanket the city, transforming it into a picturesque scene of muted colors and soft textures. With a pervasive cloud cover and a definite 100% chance of precipitation, it is a day that invites the cozy comfort of a light jacket and perhaps a trusty umbrella\u2014perfect companions for navigating the sidewalks and quaint coffee shops. One might find solace in a simple stroll, allowing the rhythmic patter of rain on fabric to stir the soul, or even settle into a snug cafe corner with a book as droplets trace sleepy patterns on windowpanes. Today holds a gentle invitation to slow down, adapt, and even, if one allows, to find beauty in the tranquil embrace of an autumnal rain.",
-    "color_code": "#a3a3a3",
-    "timestamp": "2025-10-22 04:11:06"
+    "weather_report": "As the morning unfolds in Boston, a shroud of clouds blankets the city, casting a muted light that struggles to pierce through the persistent rain. The air is thick with anticipation as droplets cling to windowpanes and the scent of wet earth wafts through the streets. The temperature hovers around a mild 65 degrees, but the sensation of dampness may make it feel a touch chillier. Winds from the south stir gently, but they lack the warmth that would typically accompany such a breeze. With a 100% chance of rain predicted to last until early afternoon, the day\u2019s plan should account for the steady showers, perhaps by seeking refuge in one of Boston's cozy cafes or indulging in a spirited visit to a local museum.\n\nAs night approaches, the forecast holds a promise of clearer skies, giving way to a cooler evening that will settle around 44 degrees. The earlier rain will give way to a calm, partly cloudy night, best suited for a leisurely stroll beneath the stars once the dampness dissipates. For today\u2019s attire, layers are essential\u2014a reliable raincoat or umbrella, perhaps paired with comfortable shoes that can withstand the wet pavements. As the city awakens to this somber yet refreshing weather, nurturing a spirit of cozy contemplation is the order of the day, prompting one to find solace in the warmth of indoor activities, or to embrace the rain with a gentle resolve as they traverse the city's vibrant landscape amidst the rain.",
+    "color_code": "#A5A7C1",
+    "timestamp": "2025-10-22 08:13:04"
 }
