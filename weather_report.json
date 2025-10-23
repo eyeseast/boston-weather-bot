@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-23T03:50:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 54.097749458034,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 220,
-            "description": "Cloudy"
+            "timestamp": "2025-10-23T11:50:00+00:00",
+            "temperature_f": 46.4,
+            "temperature_c": 8,
+            "humidity": 75.859700794654,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-23T00:00:00-04:00",
-                "endTime": "2025-10-23T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 8
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 46. Southwest wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-10-23T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-10-23T08:00:00-04:00",
                 "endTime": "2025-10-23T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -52,11 +33,30 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
                 "shortForecast": "Partly Sunny then Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers after 1pm. Partly sunny, with a high near 61. Southwest wind 9 to 15 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Isolated rain showers after 1pm. Partly sunny, with a high near 61. Southwest wind 9 to 15 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-23T18:00:00-04:00",
+                "endTime": "2025-10-24T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 18
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/sct?size=medium",
+                "shortForecast": "Isolated Rain Showers then Partly Cloudy",
+                "detailedForecast": "Isolated rain showers before 10pm. Partly cloudy, with a low around 43. West wind 6 to 13 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the night cloaks Boston in its tranquil embrace, a gentle calm prevails, punctuated only by the soft hum of the city. The air feels cool, carrying the subtle anticipation of the day ahead. Underneath a partly cloudy sky, the temperature rests comfortably near 46 degrees, inviting a light layer to ward off the chill. \n\nAs dawn breaks, the morning promises a playful mix of sun and fleeting clouds, with the mercury creeping to around 61 by afternoon. There\u2019s a possibility of isolated rain showers after 1 PM, brushing the city with a tender mizzle, yet the overall ambiance remains one of mild delight, infused with the breezy caress of a southwest wind that whispers of adventure. In such weather, layers are wise; a cozy sweater paired with a light jacket will allow for the temperature\u2019s dance throughout the day. Amble through the parks, savoring the brisk air and perhaps stopping for a quiet moment with a good book in hand as the clouds play tag with the sun. For those drawn outdoors, this day invites languid strolls along the waterfront or visits to local galleries, where the creativity of Boston shines just as brightly as the sporadic sunbeam cutting through the overcast.",
-    "color_code": "#5A6B95",
-    "timestamp": "2025-10-23 00:08:59"
+    "weather_report": "In Boston this morning, the air carries a crispness that beckons the promise of a fine autumn day, yet whispers of fleeting rain clouds dance on the horizon. The sun, peering shyly through partly broken clouds, suggests a high near sixty-one degrees later, where the typical neighborhood sounds of rustling leaves are accompanied by the occasional call of a foraging squirrel. The winds weave gently at nine to fifteen miles per hour, swirling the vibrant fall foliage into a kaleidoscope of rust and gold. Despite the isolated rain showers that may whisper their way in later this afternoon, the overall scene is quite pleasant, a patchwork of inviting warmth and cool breezes.\n\nAs the day unfolds, one might find that a light jacket would serve well against the cooler air, especially as night descends and temperatures dip to a cozy forty-three degrees. The evening may offer a brief curtain of rain, but until then, a stroll through the nearly deserted streets or perhaps a visit to a cozy caf\u00e9 with a good book in hand would allow for connection with both the city and oneself. A walk along the Esplanade could yield delightful views as the sun sinks lower, painting the sky in gentle hues. While the forecast hints at a sprinkle, today invites exploration, making the most of an autumn day, even if it carries the scent of rain in the air.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-10-23 08:13:07"
 }
