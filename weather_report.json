@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-24T03:50:00+00:00",
-            "temperature_f": 39.2,
-            "temperature_c": 4,
-            "humidity": 93.195121939331,
+            "timestamp": "2025-10-24T11:50:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-24T00:00:00-04:00",
-                "endTime": "2025-10-24T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 43. West wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-10-24T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-10-24T08:00:00-04:00",
                 "endTime": "2025-10-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
                 "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
                 "detailedForecast": "A slight chance of rain showers after 1pm. Partly sunny, with a high near 60. West wind around 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-24T18:00:00-04:00",
+                "endTime": "2025-10-25T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 41,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 14
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 41. Northwest wind around 8 mph."
             }
         ]
     },
-    "weather_report": "As the clock strikes midnight, Boston rests beneath a serene blanket of darkness, punctuated only by the gentle glow of city lights reflecting the calm ambience of the cool night. With temperatures dipping to a brisk 43 degrees, there's a crispness in the air that invigorates the senses, accompanied by a gentle west wind whispering through the neighborhoods. The sky, partly cloudy, hints at the promise of a more vivid dawn, as we drift into the early hours of Friday. \n\nWith the morrow\u2019s arrival comes the possibility of scattered rain showers beginning just after lunch, but for now, it is best to revel in the tranquility. As the sun climbs high, expect a high near a delightful 60 degrees, bringing warmth that melts away the chill of the night. On this Friday, it would be wise to dress in layers, perhaps a light sweater beneath a windbreaker, allowing for comfort as the day transitions from cool to pleasantly mild. Given the forecast, one might find joy in a leisurely stroll along the waterfront or an exploration of the Boston Common, taking in the fresh air and the whispers of autumn leaves. The breezy optimism of the day encourages small adventures\u2014perhaps catching up with a friend over coffee at a cozy caf\u00e9, or simply sitting on a park bench, savoring the moments as they unfold in this inviting urban tapestry.",
-    "color_code": "#6C757D",
-    "timestamp": "2025-10-24 00:08:50"
+    "weather_report": "Boston greets this day with a gentle touch, the early hours illuminated by a peaceful, clear sky, tempered by the crispness of fall in the air. Although a whisper of rain may flirt with the afternoon, for now, the city revels in the light of the sun, a welcome presence coaxing the heart. As the temperature dances around sixty degrees, the west wind carries a light chill, urging light jackets or cozy sweaters to accompany strolls through the blossoming autumn landscapes. \n\nAs the day unfolds, those longing for fresh air might find pleasure in wandering along the Charles River with a warm cup of coffee in hand, catching fleeting glimpses of the vibrant foliage reflecting against the water. Perhaps it's a perfect time to visit one of Boston's historic neighborhoods, where the stories of the past come alive in the cool breeze. As evening approaches, the inviting glow of city lights will soften the welcome chill, making gathering around a fire pit or in a local caf\u00e9 a splendid choice. Today offers not just a forecast, but the chance to embrace the beauty of a serene October day, where every moment holds a whisper of contentment.",
+    "color_code": "#A5C8E0",
+    "timestamp": "2025-10-24 08:13:14"
 }
