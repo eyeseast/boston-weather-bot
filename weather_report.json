@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-26T07:45:00+00:00",
-            "temperature_f": 35.6,
-            "temperature_c": 2,
-            "humidity": 93.0873117058,
+            "timestamp": "2025-10-26T11:50:00+00:00",
+            "temperature_f": 33.8,
+            "temperature_c": 1,
+            "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Mostly Clear"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-10-26T04:00:00-04:00",
-                "endTime": "2025-10-26T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 38. Northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-10-26T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-10-26T08:00:00-04:00",
                 "endTime": "2025-10-26T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 55. Northwest wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-10-26T18:00:00-04:00",
+                "endTime": "2025-10-27T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 8
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 36. Northwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As the early hours of Sunday cast a soft blanket over Boston, the atmosphere hangs with a gentle mix of anticipation and clarity. The chill in the air whispers of a low around 38, a reminder to those stirring from slumber that warmth will soon dance in the daylight. The playful streaks of cloud cover have chosen to linger, draping themselves across the horizon, while the calm breezes from the northwest run their delicate fingers through the landscape, making the dawn feel serene yet invigorating. \n\nAs the sun breaks free, projecting its welcoming rays, a high of 55 awaits eager souls. The promise of a mostly sunny day beckons one to unearth those slightly thick sweaters or light jackets nestled away from summer\u2019s embrace. Today is a splendid opportunity to wander along the Freedom Trail, perhaps pausing for a warm beverage in one of the quaint caf\u00e9s that dot the streets. If art enchants you, a leisurely stroll through the Museum of Fine Arts can nourish the spirit. Whether one chooses to savor the outdoors or explore vibrant indoor havens, the day holds potential for unhurried moments under the glow of the autumn sun.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2025-10-26 04:09:13"
+    "weather_report": "As Boston awakens to a crisp autumn morning, the sun dances across the skyline, illuminating a landscape well acquainted with the season's change. Today promises mostly sunny skies, with gentle northwest winds whispering through the trees at a modest pace. The air carries a hint of coolness, perfect for a comfortable stroll or a quiet morning coffee at a local caf\u00e9, where the aroma of freshly brewed java mingles with the scent of fallen leaves underfoot.\n\nAs the hours unfold, the charm of the day will linger, revealing clear horizons that invite exploration. With a high around 55, it feels just right for a light jacket or a cozy sweater, enabling one to enjoy the crispness without feeling burdened by winter's advance. This evening, the sky will transition to a blanket of clarity, perfect for star gazing as the temperature dips to a tranquil 36. This mild weather beckons gentle evening walks or perhaps a gathering with friends to share stories while wrapped in warm blankets, soaking in the fleeting beauty of this autumn day.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-10-26 08:11:11"
 }
