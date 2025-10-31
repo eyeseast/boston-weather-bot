@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-30T19:40:00+00:00",
+            "timestamp": "2025-10-31T00:20:00+00:00",
             "temperature_f": 55.4,
             "temperature_c": 13,
-            "humidity": 93.65072411462,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 90,
-            "description": "Fog/Mist"
+            "humidity": 100,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 60,
+            "description": "Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-10-30T16:00:00-04:00",
-                "endTime": "2025-10-30T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 39
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of rain showers before 5pm, then a chance of rain showers and patchy fog. Cloudy, with a high near 59. East wind around 13 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-10-30T18:00:00-04:00",
+                "startTime": "2025-10-30T20:00:00-04:00",
                 "endTime": "2025-10-31T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/tsra,100/tsra,90?size=medium",
                 "shortForecast": "Patchy Fog",
                 "detailedForecast": "Rain showers and patchy fog before 11pm, then patchy fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 52. East wind 9 to 14 mph, with gusts as high as 32 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-10-31T06:00:00-04:00",
+                "endTime": "2025-10-31T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 27
+                },
+                "windSpeed": "9 to 18 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,20?size=medium",
+                "shortForecast": "Chance Rain Showers then Patchy Fog",
+                "detailedForecast": "A chance of rain showers and patchy fog before 8am, then patchy fog and a slight chance of rain showers. Partly sunny. High near 60, with temperatures falling to around 54 in the afternoon. Southwest wind 9 to 18 mph, with gusts as high as 38 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As twilight descends upon Boston, the day unfurls its thick cloak of mist, weaving an ethereal tapestry across the skyline. The air hangs heavy, carrying the promise of rain, while patches of fog shuffle through the streets like specters from a forgotten tale. With a temperature lingering in the cool embrace of the mid-fifties, the wind whispers softly\u2014a reminder of autumn's chill, gusting with moments of vigor that dance through the branches and rattle the leaves. Today\u2019s shadows are painted in muted grays, lending a somber serenity, yet beneath the clouds lies the certainty of a downpour as the evening draws near.\n\nAs the hint of dusk deepens, expect not just soft rain showers but the possibility of roaring thunderstorms threading their electric fingers through the dim veil. It is wise to don something warm and waterproof, perhaps a trusty raincoat over a cozy sweater, and to accompany the ensemble with sturdy footwear that can handle not just the rain but the wet streets that may follow. While the enchantments of the outdoors beckon, it may be a more suitable evening for quiet pursuits; consider curling up with a good book or embracing the warm aroma of a favorite beverage in the comfort of your home. The world outside may be dulled by fog, yet inside, there is peace to be found amid the storm.",
-    "color_code": "#B0B3B7",
-    "timestamp": "2025-10-30 16:07:57"
+    "weather_report": "As evening envelops Boston, a blanket of darkness punctuated only by distant lights hints at the weather\u2019s somber character. Rain showers mingle with thick patches of fog, creating a hazy atmosphere that dampens the mood while the wind whistles a low tune through the streets. With temperatures holding steady in the low fiftys, the chill in the air is palpable, a prelude to the impending thunderstorms that threaten to wash over the city. Anyone venturing out tonight would do well to don a waterproof jacket and sturdy shoes, for puddles will accumulate and visibility will wane.\n\nTomorrow, the fog may linger into the early hours, with a slight chance of morning showers tempting the unwary. Yet, as daylight breaks, there may be glimmers of sunshine peeking through the clouds, offering a brief respite from the dreariness before the temperature begins its slow retreat. A warm sweater and an umbrella might be wise companions throughout the day, allowing for both comfort and preparation against the unexpected. Those who brave the forecast might consider a leisurely stroll through one of Boston's historic neighborhoods, tracing the contours of its storied streets, before curling up with a warm drink in a cozy caf\u00e9, finding solace in simple pleasures amidst the flickering autumn chill.",
+    "color_code": "#4B4D4D",
+    "timestamp": "2025-10-30 20:31:19"
 }
