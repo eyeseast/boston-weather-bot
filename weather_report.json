@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-10-31T19:50:00+00:00",
-            "temperature_f": 55.4,
-            "temperature_c": 13,
-            "humidity": 58.298473968988,
-            "wind_speed_mph": 53.875908,
-            "wind_direction": 250,
-            "description": "Cloudy"
+            "timestamp": "2025-11-01T00:25:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 53.831404997309,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-10-31T16:00:00-04:00",
-                "endTime": "2025-10-31T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 9
-                },
-                "windSpeed": "24 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 61, with temperatures falling to around 54 in the afternoon. West wind around 24 mph, with gusts as high as 46 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-10-31T18:00:00-04:00",
+                "startTime": "2025-10-31T20:00:00-04:00",
                 "endTime": "2025-11-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 12
+                    "value": 6
                 },
-                "windSpeed": "21 to 24 mph",
+                "windSpeed": "18 to 23 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 44. West wind 21 to 24 mph, with gusts as high as 49 mph."
+                "detailedForecast": "Partly cloudy, with a low around 44. West wind 18 to 23 mph, with gusts as high as 41 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-11-01T06:00:00-04:00",
+                "endTime": "2025-11-01T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "20 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 56. West wind around 20 mph, with gusts as high as 33 mph."
             }
         ]
     },
-    "weather_report": "As the sun dips towards the horizon this afternoon in Boston, a blend of sun and clouds dances across the sky, casting a muted light on the city. With temperatures drifting down to a soothing coolness of mid-fifties, the west winds whip briskly through the streets, carrying a promise of autumn's embrace. The gusts, at times playful and at others formidable, remind us of nature\u2019s untamed spirit. Tonight promises a continuation of this slightly unsettled ambiance, with clouds gathering under a canopy of stars, ushering in a chill as the mercury falls toward the low forties.\n\nIn this transitional weather, consider wrapping yourself warmly in layers\u2014a cozy sweater paired with a light jacket should suffice against the invigorating wind. This is a splendid time for a gentle stroll through the colorful remnants of fall foliage in nearby parks, where the leaves crunch beneathfoot and the air feels refreshingly alive. Alternatively, if the chill beckons you indoors, perhaps a visit to a local coffee shop, where the aroma of freshly brewed coffee mingles with the soft chatter of fellow patrons, would provide the perfect sanctuary. Embrace the day\u2019s offerings with an open heart, for even the fleeting moments of brisk air and shifting light hold a quiet beauty.",
-    "color_code": "#A9B0C4",
-    "timestamp": "2025-10-31 16:08:15"
+    "weather_report": "As the evening settles quietly over Boston, a gentle whisper of clouds drapes the sky, and the air holds a brisk coolness, reminiscent of autumn's breath. The current temperature hovers around a crisp 44 degrees, accompanied by a lively west wind that sways the trees and sends stray leaves dancing. The gusts reach up to 41 mph, lending an exhilarating chill to the night that might beckon one to wrap themselves tightly in a warm scarf or a cozy jacket before stepping out.\n\nTomorrow promises a delightful change as the sun rises, casting its warm glow over the city. With a high approaching 56 degrees, it will be a day worthy of exploration. The winds may remain, but under the embrace of clear blue skies, the chill will feel much kinder. As the clock ticks forward, the ordinary becomes inviting\u2014a stroll along the Charles River, perhaps, or a visit to one of Boston\u2019s charming caf\u00e9s, where one might savor a hot drink and watch the world awaken. When dressing for the day, layers would be prudent; a light sweater under a windbreaker will ensure comfort while relishing the vibrant hues of fall in the leaves and the conversations of passersby. \n\nIn the stillness of tonight, as you gaze at the glimmering lights of the skyline, remember to take a moment to appreciate the tranquility of the evening, knowing that tomorrow will reveal yet another beautiful Boston day.",
+    "color_code": "#303030",
+    "timestamp": "2025-10-31 20:34:32"
 }
