@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-01T07:45:00+00:00",
+            "timestamp": "2025-11-01T11:50:00+00:00",
             "temperature_f": 46.4,
             "temperature_c": 8,
             "humidity": 61.296851102691,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 260,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-01T04:00:00-04:00",
-                "endTime": "2025-11-01T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 44. West wind around 16 mph, with gusts as high as 35 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-11-01T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2025-11-01T08:00:00-04:00",
                 "endTime": "2025-11-01T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 0
                 },
-                "windSpeed": "14 to 20 mph",
+                "windSpeed": "18 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 55. West wind 14 to 20 mph, with gusts as high as 33 mph."
+                "detailedForecast": "Sunny, with a high near 55. West wind around 18 mph, with gusts as high as 36 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-11-01T18:00:00-04:00",
+                "endTime": "2025-11-02T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 35,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 35. West wind 6 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "A tranquil calm envelops Boston this early morning, with the night skies holding onto a flicker of clarity. As the world stirs from sleep, a gentle west wind whispers through the air, accompanying temperatures that rest comfortably in the mid-forties. The breeze carries the faint promise of sunlight, suggesting that today's sunlit hours will boast a remarkable clarity. As the hours unfold, expect a warm embrace of sunshine to lift the spirits and coax the temperature up to a modest fifty-five by the afternoon.\n\nFor those venturing out into this crisp November day, consider light layers that blend warmth with comfort: a snug sweater or a light jacket paired with your favorite scarf may serve you well against the lingering bite of the wind. It will be a splendid day for a leisurely stroll through the Boston Common, perhaps stopping for a quiet moment near the swan boats, where the tranquility of early autumn still lingers. Enjoy the outdoor caf\u00e9s that line the streets, where the warmth of a freshly brewed cup of coffee can accompany the gentle hum of morning conversations. This day presents an excellent opportunity to connect with the city\u2019s rhythm, while the air is fresh and invigorating.",
-    "color_code": "#b0c4de",
-    "timestamp": "2025-11-01 04:08:37"
+    "weather_report": "The morning unfolds in Boston, crystalline and serene, as a gentle breeze stirs the remnants of autumn leaves. A canopy of deep blue graces the sky, unmarred by the slightest wisp of fog or cloud\u2014perfect conditions for those who appreciate the clarity of a sunny day. As the sun climbs toward its midday peak, the temperature hovers pleasantly around the mid-fifties, providing a refreshing coolness that invigorates the spirit. The winds whip in from the west, playful yet brisk, with occasional gusts that remind you of the season's change.\n\nAs the day stretches ahead, consider layering your attire; a light sweater under a jacket will offer comfort against the cool breath of the wind, especially as the afternoon dips toward evening. The low tonight promises to settle into the mid-thirties, hinting at the cozy embrace of indoor warmth awaiting you post-dusk. The clarity of the day invites opportunities to explore\u2014perhaps a leisurely stroll along the Charles River, where the beauty of the waterfront is mirrored in the sharpness of the clear sky, or a quiet moment spent in one of the city's parks, where the vibrant foliage offers its final show before winter sets in. As the sun begins its descent, you might find yourself drawn to a local caf\u00e9, savoring a warm drink while watching as golden hues paint the horizon.",
+    "color_code": "#007BFF",
+    "timestamp": "2025-11-01 08:10:51"
 }
