@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-03T07:50:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 92.920792863957,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog/Mist"
+            "timestamp": "2025-11-03T15:50:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 71.661522629146,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 190,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-03T03:00:00-05:00",
-                "endTime": "2025-11-03T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 36,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 36. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-11-03T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-11-03T11:00:00-05:00",
                 "endTime": "2025-11-03T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 50
                 },
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,50?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Light Rain",
-                "detailedForecast": "A chance of rain after 2pm. Mostly cloudy, with a high near 59. Southwest wind 6 to 12 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain,50?size=medium",
+                "shortForecast": "Cloudy then Chance Light Rain",
+                "detailedForecast": "A chance of rain after 2pm. Cloudy, with a high near 59. Southwest wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-11-03T18:00:00-05:00",
+                "endTime": "2025-11-04T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 59
+                },
+                "windSpeed": "10 to 16 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,60/rain,30?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely before 1am. Partly cloudy, with a low around 43. Southwest wind 10 to 16 mph, with gusts as high as 26 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the clock ticked past three in the morning, Boston lay cloaked in a tranquil darkness, the city lights sparkling like distant stars on an otherwise calm night. The air is crisp, whispering promises of a cool dawn, where the temperature slips to a comfortable chill around thirty-six degrees. The gentle southwest breeze tugs at the edges of the evening, a mere prelude to the unfolding day. \n\nAs morning wanes, expect the clouds to gather, their grey tendrils hinting at rainfall after two in the afternoon. A modest warmth will emerge, coaxing the temperatures into the upper fifties. For those venturing out, it would be wise to layer your clothing wisely\u2014a comforting sweater or light jacket will serve your needs, and perhaps a sturdy umbrella could be a prudent companion as the clouds tease with damp promises. \n\nConsider a leisurely stroll through the less crowded streets of the city, perhaps pausing at a cozy caf\u00e9 for a warm drink as you watch the world awaken. With the potential for rain later, enjoy these moments of serenity, where the picturesque blend of fog and city life brushes against your senses, inviting contemplation before the day's rhythm asserts itself. Savor the understated beauty of this November day, as the skies shift ever so slightly, hinting at the all-too-familiar embrace of the season.",
-    "color_code": "#4A0D70",
-    "timestamp": "2025-11-03 03:10:58"
+    "weather_report": "The morning dances in muted shades of gray over Boston, with clouds settling lazily above, hinting at rain that will trickle into the afternoon. Despite the overcast sky, a gentle southwest breeze ruffles the trees, whispering promises of a milder day with temperatures hovering around the comfortable mid-fifties. As the clock approaches afternoon, the likelihood of rain - that familiar rendezvous with the elements - is weaving its way cautiously into the forecast. Those venturing outside may find themselves tempted by warmth, perhaps a soft sweater accompanied by a light jacket, readying for the impending moisture.\n\nAs twilight approaches, the rain may intensify, filling the evening with a soothing rhythm against the pavement. With a low settling around the low forties, a cozy scarf may enhance the warmth for those who wish to stroll or sip a warm beverage from a favorite caf\u00e9. Though adventure calls from sunny days, today holds a different charm\u2014an invitation to enjoy the comfort of home, nestled with a good book or exploring the hidden gems of local shops that welcome the rain. Whether spent indoors or out, Boston embraces the day with a gentle, damp allure that whispers of transitions and quiet moments.",
+    "color_code": "#AEB8C8",
+    "timestamp": "2025-11-03 11:08:44"
 }
