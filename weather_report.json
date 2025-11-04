@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-03T19:50:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 71.472271072727,
-            "wind_speed_mph": 41.39344800000001,
+            "timestamp": "2025-11-04T00:15:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 81.618915749747,
+            "wind_speed_mph": 24.884388,
             "wind_direction": 180,
-            "description": "Cloudy"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-11-03T15:00:00-05:00",
-                "endTime": "2025-11-03T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Cloudy. High near 59, with temperatures falling to around 53 in the afternoon. South wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-11-03T18:00:00-05:00",
+                "startTime": "2025-11-03T19:00:00-05:00",
                 "endTime": "2025-11-04T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 43,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,70/rain,20?size=medium",
                 "shortForecast": "Light Rain Likely",
                 "detailedForecast": "A chance of rain before 8pm, then rain likely and patchy fog between 8pm and 1am. Partly cloudy, with a low around 43. Southwest wind 10 to 16 mph, with gusts as high as 31 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-11-04T06:00:00-05:00",
+                "endTime": "2025-11-04T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "15 to 18 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 55. West wind 15 to 18 mph, with gusts as high as 37 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a curious cloak of cloud covers the sky, filtering the sunlight and casting a muted grey over the landscape. With temperatures hovering around the mid-fifties, it feels cool and damp, hinting at the rain that is likely to manifest before twilight settles in. The soft, steady whisper of wind underscores the scene, bringing with it the possibility of light rain later, as the atmosphere prepares for a gentle shift. \n\nAs evening approaches, it may be wise to don a light jacket over layers, perhaps a snug scarf to fend off any chill. As the chance of rain increases and fog may roll in to shroud the edges of familiar sights, consider an inward retreat\u2014perhaps to a cozy caf\u00e9 or an intimate bookstore, where the world outside fades to the background and the comfort of warm drinks and quiet companionship reigns. This day, with its understated charm and enveloping coolness, invites reflection and connection, encouraging the quiet pleasures that often go unnoticed amidst the busyness of life.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-11-03 15:08:29"
+    "weather_report": "As night falls over Boston, a veil of low-hanging clouds merges with the distant glow of the city, casting a muted light on the streets below. Rain has recently graced the area, leaving the possibility of lingering dampness and patchy fog to accompany the evening. The air feels cool, with temperatures dipping to a brisk 43 degrees, a reminder of the season's turning. A southwest breeze whistles through the trees, occasionally playfully tugging at any loose clothes. It\u2019s advisable to don a warm jacket and perhaps a scarf, ready for the sharpness of the night, as you navigate the lingering moisture in the air. \n\nTomorrow brings a refreshing change; the sun will emerge, brightening the landscape as it rises high near 55 degrees. West winds will carry the warmth, providing a perfect backdrop for a variety of daytime activities. Consider taking a peaceful stroll through the Public Garden or enjoying a leisurely visit to a cozy caf\u00e9, where the aromas of fresh coffee mingle with the day's promise. Perhaps it might be the ideal moment to find a quiet corner for reading or reflection, allowing the sun's rays to re-energize your spirit amidst the autumn chill.",
+    "color_code": "#303C3F",
+    "timestamp": "2025-11-03 19:31:34"
 }
