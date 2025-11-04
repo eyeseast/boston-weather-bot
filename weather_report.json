@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-04T03:50:00+00:00",
-            "temperature_f": 46.4,
-            "temperature_c": 8,
-            "humidity": 87.19415400995,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 240,
-            "description": "Cloudy"
+            "timestamp": "2025-11-04T07:50:00+00:00",
+            "temperature_f": 44.6,
+            "temperature_c": 7,
+            "humidity": 70.499329419935,
+            "wind_speed_mph": 49.688244000000005,
+            "wind_direction": 280,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-11-03T14:00:00-05:00",
-                "endTime": "2025-11-03T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Cloudy. High near 59, with temperatures falling to around 53 in the afternoon. South wind around 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-11-03T18:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2025-11-04T03:00:00-05:00",
                 "endTime": "2025-11-04T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 43,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 74
+                    "value": 3
                 },
-                "windSpeed": "10 to 16 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,70/rain,20?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "A chance of rain before 8pm, then rain likely and patchy fog between 8pm and 1am. Partly cloudy, with a low around 43. Southwest wind 10 to 16 mph, with gusts as high as 31 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "windSpeed": "17 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 43. West wind around 17 mph, with gusts as high as 33 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-11-04T06:00:00-05:00",
+                "endTime": "2025-11-04T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "14 to 21 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 55. West wind 14 to 21 mph, with gusts as high as 41 mph."
             }
         ]
     },
-    "weather_report": "As we settle into the evening, Boston hangs in a delicate balance between the remnants of a rainy afternoon and the lingering chill that invites a cozy retreat indoors. The clouds have drawn the veil tighter, casting an overcast glow that softens the edges of the city, while the rain, now a lingering memory, may return, bringing modest puddles and the promise of a damp dawn. The air carries a noticeable bite, a reminder that autumn is weaving its way through the last threads of warmth, leading us towards chilly nights. Wrapping yourself in a warm jacket, perhaps with a scarf to ward off the evening chill, will lend comfort to your evening stroll or leisurely venture out.\n\nAs night gathers, the streets may be kissed by patches of fog, adding a mysterious allure to the familiar scenery. The illuminated skyline of Boston, with its hints of warmth, invites one to explore its myriad nooks and crannies, where small caf\u00e9s and quiet corners offer a respite from the bustle. An impromptu visit to a local haunt for a comforting bowl of soup or a quick dash into a bookstore may provide solace on this damp night, allowing you to savor the moment as the world slows down around you.",
-    "color_code": "#4A4C79",
-    "timestamp": "2025-11-03 23:09:00"
+    "weather_report": "As the first light of dawn approaches, Boston finds itself draped in a quiet still, the air crisp and inviting for those willing to embrace the coolness of a November morning. With temperatures dipping to a cool 43 degrees overnight, the sensation is refreshing rather than biting, with a spirited west wind rustling through the streets at a brisk pace. As you step outside, you may feel the swift caress of gusts that dance around you, urging you to layer up wisely; a warm coat, perhaps a cozy scarf, will suffice to keep you invigorated. \n\nAs the sun emerges, you can expect a bright and cheerful day with clear skies and temperatures climbing to a mild 55 degrees. The sun will cast its warmth across the city, but the wind\u2014stronger than it appears\u2014will remind us of winter\u2019s approach. Outfits should lean toward comfort as you embark on your day; think of soft, breathable fabrics with a sturdy jacket to shield against any unwelcome chills. Given the pleasant yet brisk nature of the day, it\u2019s a splendid opportunity for leisurely walks along the Charles River, where the water glistens under the sun, or a quiet stop at a local caf\u00e9 nestled in the heart of the city, perfect for warming your hands around a cup of coffee while watching the world meander by.",
+    "color_code": "#A3C4C7",
+    "timestamp": "2025-11-04 03:10:26"
 }
