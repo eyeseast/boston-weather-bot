@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-04T07:50:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 70.499329419935,
-            "wind_speed_mph": 49.688244000000005,
-            "wind_direction": 280,
+            "timestamp": "2025-11-04T12:00:00+00:00",
+            "temperature_f": 46.4,
+            "temperature_c": 8,
+            "humidity": 57.025965891592,
+            "wind_speed_mph": 45.581112000000005,
+            "wind_direction": 270,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-04T03:00:00-05:00",
-                "endTime": "2025-11-04T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 43. West wind around 17 mph, with gusts as high as 33 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-11-04T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-11-04T07:00:00-05:00",
                 "endTime": "2025-11-04T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_skc?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 55. West wind 14 to 21 mph, with gusts as high as 41 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-11-04T18:00:00-05:00",
+                "endTime": "2025-11-05T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 38. West wind 7 to 13 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "As the first light of dawn approaches, Boston finds itself draped in a quiet still, the air crisp and inviting for those willing to embrace the coolness of a November morning. With temperatures dipping to a cool 43 degrees overnight, the sensation is refreshing rather than biting, with a spirited west wind rustling through the streets at a brisk pace. As you step outside, you may feel the swift caress of gusts that dance around you, urging you to layer up wisely; a warm coat, perhaps a cozy scarf, will suffice to keep you invigorated. \n\nAs the sun emerges, you can expect a bright and cheerful day with clear skies and temperatures climbing to a mild 55 degrees. The sun will cast its warmth across the city, but the wind\u2014stronger than it appears\u2014will remind us of winter\u2019s approach. Outfits should lean toward comfort as you embark on your day; think of soft, breathable fabrics with a sturdy jacket to shield against any unwelcome chills. Given the pleasant yet brisk nature of the day, it\u2019s a splendid opportunity for leisurely walks along the Charles River, where the water glistens under the sun, or a quiet stop at a local caf\u00e9 nestled in the heart of the city, perfect for warming your hands around a cup of coffee while watching the world meander by.",
-    "color_code": "#A3C4C7",
-    "timestamp": "2025-11-04 03:10:26"
+    "weather_report": "As the sun rises over Boston, the sky is a deep, tranquil blue, clear enough to coax a smile from even the sleepiest of souls. With a fragrant autumn breeze whispering through the streets, it promises a day where jackets will comfortably cradle you against a brisk wind but won't stifle warmth. The high is expected to hover around a mild 55 degrees, kissed by a westward breeze that dances between 14 and 21 mph. Gusts may leap higher, reminding us of nature's spirited presence. Tonight, as the light begins to fade, the skies will remain mostly clear, inviting a sense of calm as temperatures settle around 38, hinting at the cozy embrace of a sweater.\n\nThis is a day to wander through the parks, perhaps sipping a warm coffee while admiring the remaining brilliance of fall foliage. Those with an adventurous spirit may find a moment to explore the backroads or indulge in a simple gathering with friends outdoors, where laughter can mingle with the autumn air. Dress in layers, allowing the freshness to invigorate while keeping the chill at bay, and carry a light wrap for the evening's descent into cooler temperatures. The inviting conditions beckon, as though nature itself is urging you to step outside and embrace the subtle joys of a New England day.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2025-11-04 07:13:39"
 }
