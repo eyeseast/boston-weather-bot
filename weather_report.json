@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-06T08:00:00+00:00",
-            "temperature_f": 46.4,
-            "temperature_c": 8,
-            "humidity": 70.697540658389,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-11-06T12:00:00+00:00",
+            "temperature_f": 42.8,
+            "temperature_c": 6,
+            "humidity": 70.299266961976,
+            "wind_speed_mph": 41.39344800000001,
+            "wind_direction": 280,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-06T03:00:00-05:00",
-                "endTime": "2025-11-06T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 8
-                },
-                "windSpeed": "24 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 42. West wind around 24 mph, with gusts as high as 46 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-11-06T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-11-06T07:00:00-05:00",
                 "endTime": "2025-11-06T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "13 to 20 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 49. Northwest wind 13 to 20 mph, with gusts as high as 36 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-11-06T18:00:00-05:00",
+                "endTime": "2025-11-07T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 29,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "13 to 21 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 49. Northwest wind 13 to 21 mph, with gusts as high as 39 mph."
+                "windSpeed": "5 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 29. West wind 5 to 12 mph."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, a shroud of tranquility cloaks the city, the air stirred only by a brisk breeze that announces the chill of the night. Presently, scattered clouds weave across the sky, creating a soft contrast against the starkness of the early hour. Temperatures hover in the low forties, and the wind, animated and lively, dances through the streets, leaving a refreshing chill in its wake. As the sun rises, its journey promises a canvas painted in bright hues; a delightful reprieve is expected with sunny skies gracing the day. The air, while invigorating, carries a hint of anticipation, as gusts throughout the day will remind you of the lingering bite of autumn.\n\nFor the day ahead, layering will serve you well\u2014a sturdy jacket to guard against the occasional gust, perhaps an additional scarf to keep the coolness at bay. As the sun ascends, venture forth to indulge in a stroll along the Charles River, where the reflections of fall foliage might dance in the gentle waves, or meander through local galleries, soaking in the artistry interwoven with the beat of the city. You may find comfort in a warm caf\u00e9, savoring the richness of a fresh brew, all the while watching the world wake up around you. Today holds the promise of the ordinary made extraordinary, the transition of the seasons inviting you to embrace the beauty in each crisp moment.",
-    "color_code": "#B2C8E0",
-    "timestamp": "2025-11-06 03:10:08"
+    "weather_report": "In the soft embrace of early morning, Boston awakens beneath an expansive sky, brushed with the promise of a mostly sunny day. With the gentle stirring of a northwest wind, the air is brisk yet invigorating, inviting a fleeting tranquility before the day settles into its routine. As the golden light spills over the cityscape, a palette of muted colors emerges from the trees\u2014autumn's final flourish clinging to branches, while the long-reaching skyline stands stark against the vast blue. With no trace of fog to blur the crisp contours of the horizon, today offers a clear view of the world, and perhaps a moment to contemplate its nuances.\n\nAs the day unfolds, the temperature will rise to a cool 49 degrees, a gentle reminder that despite the sun\u2019s warmth, it\u2019s wise to wrap oneself in layers\u2014perhaps a light sweater or a cardigan flung over a long-sleeved shirt, complemented by a sturdy pair of shoes for any impromptu wanderings about town. A walk along the waterfront might stir the senses, or maybe a leisurely visit to a favorite caf\u00e9, where the scent of freshly brewed coffee mingles with the sound of light chatter. As dusk approaches, the allure of a clear evening beckons for an early supper, with hopes of catching a glimpse of the serene night sky, unspoiled by the weight of clouds. Such is the rhythm of a day in Boston, where each breath feels clean and every moment holds a whisper of possibility, elegantly threading together the fabric of life.",
+    "color_code": "#A2C2E5",
+    "timestamp": "2025-11-06 07:12:51"
 }
