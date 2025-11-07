@@ -7,19 +7,38 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-07T00:20:00+00:00",
-            "temperature_f": 39.2,
-            "temperature_c": 4,
-            "humidity": 55.972560585266,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 280,
+            "timestamp": "2025-11-07T03:50:00+00:00",
+            "temperature_f": 37.4,
+            "temperature_c": 3,
+            "humidity": 55.704181527618,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 240,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-11-06T15:00:00-05:00",
+                "endTime": "2025-11-06T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "13 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers?size=medium",
+                "shortForecast": "Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers. Mostly sunny, with a high near 50. Northwest wind around 13 mph, with gusts as high as 24 mph."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-11-06T19:00:00-05:00",
+                "startTime": "2025-11-06T18:00:00-05:00",
                 "endTime": "2025-11-07T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "5 to 9 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 29. West wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-11-07T06:00:00-05:00",
-                "endTime": "2025-11-07T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "5 to 12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 56. Southwest wind 5 to 12 mph, with gusts as high as 24 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers/few?size=medium",
+                "shortForecast": "Scattered Rain Showers then Mostly Clear",
+                "detailedForecast": "Scattered rain showers before 7pm. Mostly clear, with a low around 29. West wind 5 to 9 mph."
             }
         ]
     },
-    "weather_report": "As twilight settles over Boston, the crisp air whispers of an autumn night, bringing with it a blanket of tranquility and clarity. With temperatures dipping to around 29 degrees, there's an invigorating chill that invites you to wrap yourself in layers; a cozy scarf and a warm jacket would serve well against the gentle west wind. Tonight, the sky is mostly clear, revealing a serene canvas studded with distant stars, offering a perfect backdrop for contemplative strolls or perhaps a quiet moment on a balcony, sipping something warm.\n\nLooking ahead to Friday, the promise of mostly sunny skies warms the heart, though with a high near 56, it's best to dress in comfortable layers that can adapt to the shifting breezes. An afternoon walk through picturesque Boston Common or a visit to an inviting caf\u00e9 would complement the day wonderfully, as soft southwest winds tease the branches of trees still holding onto their autumn hues. Perhaps one might admire the distant skyline before the busy workweek resumes, indulging in the simple pleasures of the season's quiet, reflective moments.",
-    "color_code": "#73A9D1",
-    "timestamp": "2025-11-06 19:32:11"
+    "weather_report": "As the night envelops Boston, the city lies under a cloak of quiet stillness, punctuated only by the gentle hum of distant traffic and the soft glow of urban lights reflecting against the darkened sky. The earlier hours witnessed scattered showers, now but a memory, leaving the air crisp and brisk, perfect for a long evening stroll or a cozy retreat indoors. With temperatures dipping into the chilly embrace of the late autumn air, a layer of warmth\u2014a sturdy sweater or jacket\u2014would be a wise companion for this night out.\n\nAs we look forward to tomorrow, the promise of a mostly sunny day beckons, though with a cooler high lingering just around the 50-degree mark. The brisk northwest wind will carry the whispers of the past rainfall, offering a fresh perspective on the world. Consider embarking on a leisurely morning walk before the bustle of the day settles in, perhaps to visit a local caf\u00e9 for warm coffee or tea, where the scent of pastries coaxes one to linger just a moment longer. If you're feeling adventurous, a quiet afternoon in one of the many parks, wrapped in a blanket with a favorite book, could be just the remedy for a weary spirit. Should you venture out, remember to dress thoughtfully, allowing the crisp wind to invigorate your senses while keeping comfort close at hand.",
+    "color_code": "#3B3B3B",
+    "timestamp": "2025-11-06 23:08:49"
 }
