@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-06T15:50:00+00:00",
-            "temperature_f": 48.2,
-            "temperature_c": 9,
-            "humidity": 49.550247563176,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Cloudy"
+            "timestamp": "2025-11-07T00:20:00+00:00",
+            "temperature_f": 39.2,
+            "temperature_c": 4,
+            "humidity": 55.972560585266,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 280,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-11-06T11:00:00-05:00",
-                "endTime": "2025-11-06T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 to 14 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 49. Northwest wind 10 to 14 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-11-06T18:00:00-05:00",
+                "startTime": "2025-11-06T19:00:00-05:00",
                 "endTime": "2025-11-07T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 29. West wind 5 to 9 mph."
+                "detailedForecast": "Mostly clear, with a low around 29. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-11-07T06:00:00-05:00",
+                "endTime": "2025-11-07T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "5 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 56. Southwest wind 5 to 12 mph, with gusts as high as 24 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, the atmosphere presents an extensive canvas of soft blues and muted grays, hinting at the transition between autumn's embrace and winter's approach. The high temperature nears a cool 49 degrees, carrying with it a gentle northwest breeze that dances at around 10 to 14 mph, occasionally gusting with a touch of vigor. The skies remain largely clear, allowing hints of sunlight to filter through the lingering clouds, chasing shadows across the landscape, but offering just enough warmth to remind you of the fading season. Yet, as twilight descends, the clarity will deepen into a serene night, with temperatures retreating to around 29 degrees, beckoning a pause and reflection.\n\nWith such an invigorating chill in the air, dressing warmly is essential; layers of comfortable fabrics will serve you well. A light jacket over a cozy sweater, complemented by a snug scarf, is advisable as one steps out for a stroll along the cobblestone paths, perhaps taking a moment to enjoy a warmly brewed coffee from a quaint local caf\u00e9. The afternoon could yield pleasant encounters\u2014whether it be a walk through Boston Common or a quiet moment at a bookstore. In essence, today is ideal for simple pleasures; engaging with the day\u2019s cool but clear embrace will nurture a quiet joy amidst the cadence of this lovely fall day.",
-    "color_code": "#B0C4D2",
-    "timestamp": "2025-11-06 11:08:41"
+    "weather_report": "As twilight settles over Boston, the crisp air whispers of an autumn night, bringing with it a blanket of tranquility and clarity. With temperatures dipping to around 29 degrees, there's an invigorating chill that invites you to wrap yourself in layers; a cozy scarf and a warm jacket would serve well against the gentle west wind. Tonight, the sky is mostly clear, revealing a serene canvas studded with distant stars, offering a perfect backdrop for contemplative strolls or perhaps a quiet moment on a balcony, sipping something warm.\n\nLooking ahead to Friday, the promise of mostly sunny skies warms the heart, though with a high near 56, it's best to dress in comfortable layers that can adapt to the shifting breezes. An afternoon walk through picturesque Boston Common or a visit to an inviting caf\u00e9 would complement the day wonderfully, as soft southwest winds tease the branches of trees still holding onto their autumn hues. Perhaps one might admire the distant skyline before the busy workweek resumes, indulging in the simple pleasures of the season's quiet, reflective moments.",
+    "color_code": "#73A9D1",
+    "timestamp": "2025-11-06 19:32:11"
 }
