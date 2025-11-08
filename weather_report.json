@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-08T07:50:00+00:00",
+            "timestamp": "2025-11-08T15:50:00+00:00",
             "temperature_f": 55.4,
             "temperature_c": 13,
-            "humidity": 93.65072411462,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 180,
-            "description": "Light Rain"
+            "humidity": 87.659298938668,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 220,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-08T03:00:00-05:00",
-                "endTime": "2025-11-08T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 85
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,90?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers. Cloudy, with a low around 50. Southwest wind around 10 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-11-08T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-11-08T11:00:00-05:00",
                 "endTime": "2025-11-08T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 65
+                    "value": 16
                 },
-                "windSpeed": "6 to 9 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/bkn?size=medium",
-                "shortForecast": "Rain Showers Likely then Partly Sunny",
-                "detailedForecast": "Rain showers likely before noon. Partly sunny. High near 60, with temperatures falling to around 54 in the afternoon. West wind 6 to 9 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Slight Chance Light Rain then Mostly Sunny",
+                "detailedForecast": "A slight chance of rain before noon. Mostly sunny. High near 60, with temperatures falling to around 54 in the afternoon. West wind around 9 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-11-08T18:00:00-05:00",
+                "endTime": "2025-11-09T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 38. North wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As the night drapes its cloak over Boston, the rain taps gently on the rooftops, a soothing reminder of nature's persistence. The air, cool and slightly tangy, carries with it the scent of wet pavement\u2014a harbinger of the low temperature that envelops the city. With a hint of wind rustling through the streets, the atmosphere holds a certain softness that feels both tranquil and melancholic in the early hours.\n\nAs dawn breaks, one can expect the persistent showers to linger until midday, promising a transition from the drizzly morning into a more hopeful afternoon. While the clouds may slowly peel back to reveal patches of blue, temperatures will hover around the mid-fifties. It would be wise to dress in layers: perhaps a light waterproof jacket to fend off the drizzle and comfortable shoes suitable for both damp pavements and the potential for brighter moments as the sun negotiates its emergence. \n\nToday beckons the subtle joys of indoor pursuits\u2014perhaps a quiet morning spent at a local caf\u00e9, savoring a warm cup of coffee, or the embrace of a favorite book. As the day approaches its zenith, one might wander through the blossoming fall foliage in a nearby park, relishing both the crisp air and the quiet aftermath of the rain, allowing the day to unfold at a gentle pace amid nature\u2019s muted beauty.",
-    "color_code": "#6C757D",
-    "timestamp": "2025-11-08 03:08:53"
+    "weather_report": "Boston awakens this morning to a delicate, shifting palette of weather. The sun peeks through with an optimism that almost belies the lingering chill; the day crackles with a hint of moisture before noon, a soft reminder that rain is not entirely out of the question. Yet, as the hours pass, the sky transforms from a potential drab into a canvas brushed with clarity, where the autumn hues whisper tales of seasonal change against a backdrop of vibrant blue. As temperatures settle around the mid-fifties, the air feels crisp, buoyed by a light western breeze\u2014refreshing yet invigorating.\n\nAs twilight approaches, a gentle dusk will cloak the city in its soothing embrace, with temperatures dipping down to the lower thirties, heralding a night of tranquility. Now is the moment to don a cozy sweater, perhaps layered with a light scarf, as you step out for a leisurely stroll through the neighborhood or venture into a local caf\u00e9 for a warm cup of coffee infused with spices. Tonight\u2019s coolness invites a sense of comfortable respite, as the world outside dims and the comforting glow of evening settles softly over the rooftops. Enjoy this balance of mildness and chill; it\u2019s a day best suited for savoring simple pleasures amid the gathering shadows.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2025-11-08 11:07:36"
 }
