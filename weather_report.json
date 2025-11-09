@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-08T15:50:00+00:00",
-            "temperature_f": 55.4,
-            "temperature_c": 13,
-            "humidity": 87.659298938668,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 220,
-            "description": "Partly Cloudy"
+            "timestamp": "2025-11-09T03:50:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 93.0873117058,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-11-08T11:00:00-05:00",
-                "endTime": "2025-11-08T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 16
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
-                "shortForecast": "Slight Chance Light Rain then Mostly Sunny",
-                "detailedForecast": "A slight chance of rain before noon. Mostly sunny. High near 60, with temperatures falling to around 54 in the afternoon. West wind around 9 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-11-08T18:00:00-05:00",
+                "startTime": "2025-11-08T23:00:00-05:00",
                 "endTime": "2025-11-09T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 38,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 4
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 38. North wind 2 to 6 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 38. North wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-11-09T06:00:00-05:00",
+                "endTime": "2025-11-09T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 74
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,70?size=medium",
+                "shortForecast": "Mostly Cloudy then Light Rain Likely",
+                "detailedForecast": "Rain likely after 1pm. Mostly cloudy, with a high near 56. East wind 3 to 9 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "Boston awakens this morning to a delicate, shifting palette of weather. The sun peeks through with an optimism that almost belies the lingering chill; the day crackles with a hint of moisture before noon, a soft reminder that rain is not entirely out of the question. Yet, as the hours pass, the sky transforms from a potential drab into a canvas brushed with clarity, where the autumn hues whisper tales of seasonal change against a backdrop of vibrant blue. As temperatures settle around the mid-fifties, the air feels crisp, buoyed by a light western breeze\u2014refreshing yet invigorating.\n\nAs twilight approaches, a gentle dusk will cloak the city in its soothing embrace, with temperatures dipping down to the lower thirties, heralding a night of tranquility. Now is the moment to don a cozy sweater, perhaps layered with a light scarf, as you step out for a leisurely stroll through the neighborhood or venture into a local caf\u00e9 for a warm cup of coffee infused with spices. Tonight\u2019s coolness invites a sense of comfortable respite, as the world outside dims and the comforting glow of evening settles softly over the rooftops. Enjoy this balance of mildness and chill; it\u2019s a day best suited for savoring simple pleasures amid the gathering shadows.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-11-08 11:07:36"
+    "weather_report": "As the evening settles in over Boston, the air carries a gentle coolness, a hint of the chill that marks the transition into winter. With clouds cloaking the night sky, temperatures hover around a brisk 38 degrees. The faint rustle of wind from the north whispers through the streets, creating an almost ethereal backdrop for the flickering city lights below. It\u2019s a time to embrace layers\u2014perhaps a cozy sweater beneath a light jacket, accompanied by a warm scarf to ward off the night\u2019s embrace.\n\nLooking ahead to Sunday, the atmosphere will shift as the day brings the promise of rain, anticipated to begin after lunch. While the morning may still retain its cloud-clad demeanor, the afternoon threatens to drench the city with a likely downpour, painting the landscape in shades of grey and silver. With a high near 56, the wet air could feel a bit more brisk, nudging passersby to seek the comfort of indoor pursuits as raindrops rhythmically dance on sidewalks. A lazy afternoon reading in a caf\u00e9, or perhaps a casual stroll by the Charles, would match the mood perfectly\u2014just remember that waterproof footwear and an umbrella will be your best companions. Embrace this chapter of the season\u2019s slow turn, as nature draws the curtain with moments rich in resilience and reflection.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2025-11-08 23:08:31"
 }
