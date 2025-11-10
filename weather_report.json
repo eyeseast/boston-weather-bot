@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-10T03:50:00+00:00",
+            "timestamp": "2025-11-10T07:50:00+00:00",
             "temperature_f": 53.6,
             "temperature_c": 12,
             "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Cloudy"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-11-09T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2025-11-10T03:00:00-05:00",
                 "endTime": "2025-11-10T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -27,13 +27,13 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 11
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/fog/rain,30?size=medium",
-                "shortForecast": "Patchy Fog then Chance Light Rain",
-                "detailedForecast": "Patchy fog before 4am, then a chance of rain and patchy fog. Cloudy, with a low around 52. South wind around 6 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
+                "shortForecast": "Areas Of Drizzle",
+                "detailedForecast": "Areas of drizzle and areas of fog. Cloudy, with a low around 52. South wind around 3 mph."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 68
+                    "value": 80
                 },
                 "windSpeed": "3 to 7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,60?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy, with a high near 60. Southwest wind 3 to 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,80?size=medium",
+                "shortForecast": "Areas Of Fog then Light Rain",
+                "detailedForecast": "Areas of fog and a chance of rain before 10am, then rain and areas of fog. Cloudy. High near 60, with temperatures falling to around 52 in the afternoon. Northwest wind 3 to 7 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the evening unfolds in Boston, an enveloping veil of fog settles gently, weaving itself through the night air, casting a sense of quiet introspection. The temperature cools to a soft embrace around fifty-two degrees, while a light breeze stirs restlessly, hinting at the moisture yet to come. The forecast hints at clouds looming, promising rain to intermingle with the fog on the morrow. A day of muted sunshine seems unlikely, as the atmosphere prepares for a gentle yet steady drizzle, potentially accompanied by patchy fog lingering through the afternoon. \n\nAs you consider your plans for the day ahead, it may be prudent to layer comfortably\u2014an unassuming rain jacket would serve you well, paired with sturdy footwear to navigate the occasional puddle that may disrupt a leisurely stroll. The charm of a cozy coffee shop beckons, offering warmth and a refuge from the damp chill; there are books to be read, conversations to be had, or perhaps an afternoon dedicated to exploring the artistic side of the city, where the intimate glow of gallery lights casts against the dreary skies. Alternatively, the tranquility of a scenic spot along the Charles could provide a peaceful backdrop for reflection as the rain softly kisses the ground.",
-    "color_code": "#7C7C7C",
-    "timestamp": "2025-11-09 23:12:34"
+    "weather_report": "In the hushed stillness of the early morning, Boston finds itself cloaked in a gentle drizzle, with tendrils of fog weaving through its familiar streets. The arch of clouds holds a soft, muted palette against the backdrop of night just before dawn. With temperatures lingering around a cool fifty-two degrees, a light southward breeze nudges the air, embodying that calm before the day\u2019s rain begins its serenade. \n\nAs the sun struggles to pierce through the morning veil, the atmospheric whispers suggest a day of somber grayness, punctuated by periods of rain and more fog. The forecast indicates a high near sixty, but with the afternoon chill creeping back, one may find solace in the embrace of a layered outfit\u2014perhaps a cozy sweater nestled beneath a water-resistant jacket. Today may not be ideal for a lengthy stroll, but it offers a perfect excuse to wander into a beloved caf\u00e9 or cozy bookstore, where the aroma of fresh coffee mingles with the soft rustle of pages turned. Embrace these quiet moments of contemplation and warmth, as the world outside unfolds in a muted dance of droplets and mist.",
+    "color_code": "#A6A3A0",
+    "timestamp": "2025-11-10 03:11:01"
 }
