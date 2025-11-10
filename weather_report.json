@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-09T19:50:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 67.355469880183,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 120,
+            "timestamp": "2025-11-10T00:20:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 93.65072411462,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 100,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-11-09T15:00:00-05:00",
-                "endTime": "2025-11-09T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 72
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely before 5pm, then rain and patchy fog. Cloudy, with a high near 59. East wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-11-09T18:00:00-05:00",
+                "startTime": "2025-11-09T19:00:00-05:00",
                 "endTime": "2025-11-10T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 52,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,80/rain,30?size=medium",
                 "shortForecast": "Light Rain then Patchy Fog",
                 "detailedForecast": "Rain and patchy fog before 10pm, then patchy fog and a slight chance of rain between 10pm and 4am, then a chance of rain and patchy fog. Cloudy, with a low around 52. Southeast wind 3 to 10 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-11-10T06:00:00-05:00",
+                "endTime": "2025-11-10T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 68
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,60?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain and patchy fog. Cloudy, with a high near 60. Southwest wind 3 to 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, the city is cloaked in a gentle shroud of clouds. A persistent rain falls softly, mingling with patches of fog that drift lazily through the streets, creating an atmosphere that feels both serene and a touch melancholic. The temperature rests close to mild, but the wet conditions, paired with the cool east wind, can nip at one\u2019s senses if unprepared. The early evening is set to continue this theme, with rain lingering through the night, accompanied by the ever-persistent fog\u2014a perfect backdrop for curling up indoors or seeking cherished moments of quietude in a nearby caf\u00e9.\n\nFor those venturing outside, a light jacket or cozy sweater is advisable, ideally layered over something comfy and warm. As the day draws to a close, the allure of indoor activities beckons. Perhaps consider a long stroll under a sturdy umbrella, or settling into a corner of a local bookstore with a hot drink. The ambiance may not scream vibrant autumn, but it whispers comforting suggestions from the depths of a cozy nook, offering solace from the brisk air. It\u2019s a reminder that even on drizzly days, there\u2019s beauty to be found in stillness and the simple pleasures of life, as the city prepares to embrace the wet night ahead.",
-    "color_code": "#7C7D7F",
-    "timestamp": "2025-11-09 15:07:28"
+    "weather_report": "As the evening settles over Boston, the air carries a damp chill, punctuated by the scent of impending rain. The current low hangs around 52, cloaking the city in a shroud of fog that muffles sound and blurs the crisp edges of the skyline. A gentle southeast breeze stirs modestly, hinting at the shift in weather that is to come. The forecast whispers of rain and patches of fog that may linger like elusive memories through the night, suggesting a retreat from the bustling day into the warmth of cozy indoors. \n\nAs dawn breaks tomorrow, this rainy companionship will continue, enveloping the city in a gray embrace, with highs reaching near 60. Dressing in layers, one might opt for a light waterproof jacket to ward off the cool moisture that promises to coax the leaves from their slumber, while sturdy shoes will keep your footing secure on wet pavements. The probability of rain dances around 70%, a good reminder to take an umbrella along as you wander through the misty streets or ponder a cup of warm coffee at a corner caf\u00e9. This evening is best spent seeking solace indoors, perhaps curling up with a good book or enjoying a quiet dinner, allowing the symphony of rain against the window to weave a calming backdrop to your thoughts.",
+    "color_code": "#3B3B3B",
+    "timestamp": "2025-11-09 19:34:14"
 }
