@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-11T07:50:00+00:00",
-            "temperature_f": 33.8,
-            "temperature_c": 1,
-            "humidity": 74.639707050277,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2025-11-11T15:50:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 47.532715989268,
+            "wind_speed_mph": 66.27783600000001,
+            "wind_direction": 260,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-11T03:00:00-05:00",
-                "endTime": "2025-11-11T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 30. West wind around 12 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
                 "name": "Veterans Day",
-                "startTime": "2025-11-11T06:00:00-05:00",
+                "startTime": "2025-11-11T11:00:00-05:00",
                 "endTime": "2025-11-11T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 15
                 },
-                "windSpeed": "10 to 18 mph",
+                "windSpeed": "14 to 18 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct/snow,20?size=medium",
-                "shortForecast": "Mostly Sunny then Slight Chance Snow Showers",
-                "detailedForecast": "A slight chance of snow showers between noon and 5pm. Mostly sunny, with a high near 39. West wind 10 to 18 mph, with gusts as high as 37 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/snow,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers between noon and 5pm. Mostly cloudy, with a high near 39. West wind 14 to 18 mph, with gusts as high as 37 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-11-11T18:00:00-05:00",
+                "endTime": "2025-11-12T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 32,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "8 to 17 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 32. West wind 8 to 17 mph, with gusts as high as 35 mph."
             }
         ]
     },
-    "weather_report": "In the cool embrace of the night, Boston wears a shroud of tranquil stillness, with only whispers of a west wind stirring the air as the clock approaches dawn. As the valleys slumber beneath a blanket of clouds, stars remain shyly veiled, hinting at the crispness that accompanies the unfolding day. The temperature hovers in the low thirties, beckoning one to wrap themselves in warm layers, perhaps a sturdy woolen sweater beneath a weathered jacket, topped off with a scarf that trails like soft fog.\n\nAs the morning unfolds, a gentle shift in the atmosphere hints at a day of modest contrasts. By noon, the sun will break through in fits and starts, casting tentative rays across a landscape primarily cloaked in blue and white hues. There\u2019s a slight chance of snow showers, though they may dance around the edges of our awareness without settling. A brisk wind may tease at the cheeks, making a stroll through Boston's historic streets an invigorating endeavor that calls for necessary precautions\u2014a well-fitted cap and solid footwear for navigating the cobblestone paths. The day encourages quiet pursuits: a leisurely visit to a local caf\u00e9 warmed by the earthy scent of freshly brewed coffee, or perhaps an afternoon of reading, wrapped in the comfort of home, whilst the world outside grapples with the remnants of autumn. For those wishing to embrace the chill, a walk along the river's edge could be a fulfilling choice, one that captures the essence of a day transitioning between seasons, where moments of solitude blend beautifully with nature's crisp embrace.",
-    "color_code": "#A9B0C5",
-    "timestamp": "2025-11-11 03:10:34"
+    "weather_report": "As the day unfolds in Boston on this Veterans Day, a blanket of grey clouds drapes the city, casting a somber yet contemplative hue over the skyline. The air is brisk, hinting at the potential for light snow showers to flutter down between noon and early afternoon, as if nature itself is honoring the day with a soft, fleeting gesture. Despite the cloud cover and the chill, there\u2019s a certain charm in the brisk wind that sweeps through the streets, offering a reminder that winter is slowly encroaching upon us, with gusts dancing energetically at their highest.\n\nAs twilight approaches, the temperatures dip to a cool embrace, suggesting layers as the perfect attire for outdoor wanderings. A sturdy jacket, perhaps with a cozy scarf to fend off the chill, would serve well for those venturing out, whether to peruse the local cafes for soothing hot drinks or to stroll through the whispering fall foliage that still clings to the trees, detailing the mosaic of autumn\u2019s end. Today may not boast the brilliance of the sun, but it invites a quiet appreciation for the beauty in reflection\u2014ideal for capturing moments in thought or enjoying the subtle camaraderie shared while braving the cool air together.",
+    "color_code": "#A6A8AA",
+    "timestamp": "2025-11-11 11:08:31"
 }
