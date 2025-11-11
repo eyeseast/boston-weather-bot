@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-10T19:50:00+00:00",
+            "timestamp": "2025-11-11T00:15:00+00:00",
             "temperature_f": 48.2,
             "temperature_c": 9,
             "humidity": 100,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 90,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-11-10T15:00:00-05:00",
-                "endTime": "2025-11-10T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 79
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,80?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers and areas of fog. Cloudy, with a high near 56. North wind around 5 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-11-10T18:00:00-05:00",
+                "startTime": "2025-11-10T19:00:00-05:00",
                 "endTime": "2025-11-11T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 53
+                    "value": 69
                 },
-                "windSpeed": "2 to 14 mph",
+                "windSpeed": "5 to 14 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/bkn?size=medium",
-                "shortForecast": "Areas Of Fog then Mostly Cloudy",
-                "detailedForecast": "Areas of fog and a chance of rain showers before 9pm. Mostly cloudy, with a low around 32. West wind 2 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70/bkn?size=medium",
+                "shortForecast": "Rain Showers Likely then Mostly Cloudy",
+                "detailedForecast": "Rain showers likely and areas of fog before 8pm, then areas of fog and a chance of rain showers between 8pm and 10pm. Mostly cloudy, with a low around 32. West wind 5 to 14 mph, with gusts as high as 28 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Veterans Day",
+                "startTime": "2025-11-11T06:00:00-05:00",
+                "endTime": "2025-11-11T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 40,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 22
+                },
+                "windSpeed": "14 to 21 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_bkn/snow,20?size=medium",
+                "shortForecast": "Partly Sunny then Isolated Snow Showers",
+                "detailedForecast": "Isolated snow showers after noon. Partly sunny, with a high near 40. West wind 14 to 21 mph, with gusts as high as 38 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds under a blanket of relentless gray, with rain showers easing in a dance with pockets of fog set to envelop the city. The air, thick with moisture, is a reminder of the season\u2019s chill, as temperatures hover around a modest fifty-six degrees. A gentle north wind whispers through the streets, but the clouds hang low and heavy, casting an almost melancholic hue over familiar landmarks. As dusk approaches, this fog is likely to deepen, lingering like a soft shroud, whilst areas of wet pavement glimmer reflectively under the fading light. \n\nAs you step outside, perhaps to enjoy a quiet walk or to grab a warm beverage from a favorite caf\u00e9, dressing in layers is essential for navigating the shifting temperatures. A light waterproof jacket can offer comfort from the light rain, complemented by a cozy sweater as the evening promises a chill, dipping to around thirty-two degrees. Tonight, the chance of rain showers persists before 9 PM, a fitting accompaniment to the murky atmosphere, suggesting indoor pursuits might be best. Embrace the art of savoring a good book or indulging in a creative hobby, nourished by the gentle rhythms of rain and fog entwining outside.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-11-10 15:08:38"
+    "weather_report": "As night settles over Boston, the softened glow of city lights pierces through the persistent fog that blankets the streets, creating an atmosphere both mysterious and introspective. Rain showers are likely to tease the senses, their whispers barely audible against the backdrop of a chilly wind that rushes through the urban landscape. The air carries a crisp edge, hinting at the frosty embrace of a November evening, with temperatures sliding toward the low thirties. For those braving the outdoors, a warm coat layered over a cozy sweater would be wise, perhaps accompanied by a sturdy umbrella to shield against the sporadic rains that flirt with the skies.\n\nTomorrow, Veterans Day dawns with the promise of isolated snow showers gracing the afternoon, juxtaposed against patches of blue breaking through the clouds. Although temperatures peak near forty, the brisk westerly winds will usher in a refreshing chill that invites those adventurous enough to explore the beauty of the season. With the chance of snow lingering, a spirited stroll through a nearby park or a visit to a local caf\u00e9 tucked away from the chill might be just the remedy to embrace the day's quirkiness. The blend of brisk air and tranquil moments may well evoke a sense of nostalgic warmth, a reminder of the beauty found in embracing even the frostiest of days.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2025-11-10 19:32:47"
 }
