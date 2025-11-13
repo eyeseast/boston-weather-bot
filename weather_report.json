@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-13T07:50:00+00:00",
-            "temperature_f": 42.8,
-            "temperature_c": 6,
-            "humidity": 65.401134444271,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 230,
+            "timestamp": "2025-11-13T12:00:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 86.601412091818,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-13T03:00:00-05:00",
-                "endTime": "2025-11-13T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 37,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 37. West wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-11-13T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-11-13T07:00:00-05:00",
                 "endTime": "2025-11-13T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a high near 49. West wind 7 to 10 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-11-13T18:00:00-05:00",
+                "endTime": "2025-11-14T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 10
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 33. Northwest wind around 9 mph."
             }
         ]
     },
-    "weather_report": "As the night wraps itself around Boston, a gentle blanket of clouds stretches over the city, whispering hints of a cooler dawn. Currently, temperatures hover in the chilly vicinity of 37 degrees, accompanied by a subtle west wind that carries the promise of a bracing Thursday. As morning unfolds, expect the sky to remain dressed in a mostly cloudy ensemble, with the air slowly warming to nearly 49\u2014a mild invitation for those willing to step outside, though perhaps not enough to shed a layer entirely.\n\nDressing for the day calls for practicality wrapped in comfort. A cozy jacket should find its place alongside a warm scarf, ensuring that the brisk breezes don\u2019t catch one off guard. It would be an ideal morning for a solitary stroll through the hushed streets, where the city slowly shakes off its sleep, or perhaps a visit to a quaint caf\u00e9, the rich aroma of coffee mingling with the cool air\u2014a little moment of warmth amidst the chill. Whether meandering through the local park or enjoying the ambiance of a quiet bookshop, the day carries that unique blend of twilight and daybreak, an opportunity to embrace both introspection and a touch of adventure in the heart of the city.",
-    "color_code": "#4A4A4A",
-    "timestamp": "2025-11-13 03:10:27"
+    "weather_report": "As dawn shyly breaks over Boston, the city is wrapped in a muted grayness that speaks more to the season than to any real chill in the air. The clouds drift lazily, painted in subtle tones of blue and ash, while a gentle breeze brushes against your cheeks\u2014perfect for a brisk morning stroll. Today, the temperature teeters around 49 degrees, a threshold of distinction that embodies the essence of late autumn. There\u2019s a soft rustling of leaves to remind you that winter isn\u2019t too far off; the air carries a hint of crispness, welcoming the day's promise without the bite of frost.\n\nAs the day unfolds, you might find it a pleasure to don a light jacket or a cozy sweater with a scarf to wrap around your neck\u2014a subtle armor against the briskness. Whether you choose to wander the quiet paths of the Public Garden or simply enjoy a cup of steaming coffee at an outdoor caf\u00e9, the briskness, paired with the cloud-filtered light, is a soothing balm. And as night draws near, the low temperature settles into the 30s, and the clouds will gradually part to reveal a more tranquil sky. In these moments, simple pleasures thrive\u2014perhaps a soft blanket while reading with a warm drink in hand, or a leisurely evening walk beneath the twilight sky as the city charms in its muted tones.",
+    "color_code": "#A4B8C4",
+    "timestamp": "2025-11-13 07:13:13"
 }
