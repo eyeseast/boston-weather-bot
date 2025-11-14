@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-13T15:50:00+00:00",
-            "temperature_f": 48.2,
-            "temperature_c": 9,
-            "humidity": 57.284355946112,
-            "wind_speed_mph": 37.286316,
+            "timestamp": "2025-11-14T07:50:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 74.81922222564,
+            "wind_speed_mph": 24.884388,
             "wind_direction": 280,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-11-13T11:00:00-05:00",
-                "endTime": "2025-11-13T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 13
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 49. Northwest wind around 10 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-11-13T18:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2025-11-14T03:00:00-05:00",
                 "endTime": "2025-11-14T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 10
+                    "value": 2
                 },
-                "windSpeed": "9 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 33. Northwest wind around 9 mph."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 33. Northwest wind around 8 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-11-14T06:00:00-05:00",
+                "endTime": "2025-11-14T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 45. Northwest wind 7 to 10 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "In Boston, a blanket of muted gray envelopes the city today, the clouds hanging like heavy drapes across the horizon. The air is brisk, with a gentle northwest wind whispering through the streets, a reminder that the chill of autumn is still very much present. The high temperature nudges just below fifty, promising a day that falls somewhere between mildly brisk and uncomfortably cool. As the day unfolds, the promise of clouds hint at an ever-changing sky, a dynamic visible from the distant Blue Hill.\n\nTonight, as the temperatures dip closer to the low thirties, consider layering up in a cozy sweater beneath a light jacket to ward off the evening's chill. It\u2019s a fitting time for a quiet stroll along the Charles River or perhaps a visit to your favorite caf\u00e9, where the warmth of hot coffee or tea offers solace from the cool air. The scenery outside is not baring its full beauty today, but perhaps it is an invitation to seek comfort in familiar places. Enjoy the subtleties of this somewhat somber day, where the streets hum with the routine of ordinary life, wrapped in the calm embrace of a November afternoon.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2025-11-13 11:08:52"
+    "weather_report": "The night sky over Boston settles into a tranquil stillness, the air crisp and tinged with the coolness that heralds the arrival of winter. With temperatures dipping to around 33 degrees, the night is predominantly clear, allowing the stars to twinkle faintly above, their delicate light punctuated by city glimmers that breathe life into the darkened landscape. As the clock ticks into the early hours, a gentle northwest breeze whispers through the trees, swirling leaves in a soft dance, perhaps an omen of a bright day to come.\n\nLooking ahead to Friday, the promise of sunshine lifts the spirits, with temperatures likely to rise to a refreshing 45 degrees. The day, framed by mostly clear skies and a gentle northwest wind, invites one to step outside and embrace the awakening warmth. Dressing in layers will be wise: a cozy sweater paired with a lighter jacket will keep you snug yet unencumbered. As the daylight unfolds, consider a leisurely stroll along the Charles River, where the sun\u2019s rays will play across the water, or perhaps venture to one of the local caf\u00e9s, where the aroma of fresh coffee mingles with the crisp air. It\u2019s a day to savor the quiet beauty of a Boston autumn, embracing the simple pleasures of life amidst the fading night and emerging daylight.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-11-14 03:09:58"
 }
