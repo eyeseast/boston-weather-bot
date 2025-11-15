@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-15T11:45:00+00:00",
-            "temperature_f": 24.8,
-            "temperature_c": -4,
-            "humidity": 92.748266931412,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2025-11-15T15:50:00+00:00",
+            "temperature_f": 42.8,
+            "temperature_c": 6,
+            "humidity": 48.696632783712,
+            "wind_speed_mph": 41.39344800000001,
+            "wind_direction": 250,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-15T03:00:00-05:00",
-                "endTime": "2025-11-15T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 30. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-11-15T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-11-15T11:00:00-05:00",
                 "endTime": "2025-11-15T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 45. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-11-15T18:00:00-05:00",
+                "endTime": "2025-11-16T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 93
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain between 7pm and 3am, then a chance of rain and patchy fog between 3am and 5am. Cloudy. Low around 38, with temperatures rising to around 48 overnight. Southwest wind 5 to 9 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In the early light of this November morning, Boston awakens beneath a clear and expansive sky, unmarred by fog or haze. The lingering chill of the night has yielded to a crisp clarity, inviting residents to breathe deeply of fresh autumn air. With temperatures hovering around the low thirties, the day promises a gentle ascent to a pleasant forty-five degrees, warmed by the embrace of a light west wind. \n\nAs the sun climbs higher, the golden rays invite brisk walks along the historic paths of the city or perhaps a quiet moment in a nearby park, surrounded by the vibrant splashes of autumn foliage that cling to the trees. One might dress in layers, pulling on a cozy sweater beneath a sturdy coat, perhaps wrapping a scarf around the neck to fend off the morning coolness. A spirited jaunt to visit a local caf\u00e9 for a warm beverage or the bustling farmer's market could yield both comfort and delight, connecting with the pulse of the community as it continues to awaken. Embrace the beauty of this serene day, where the simplicity of life asserts itself in the details of the season.",
-    "color_code": "#A9CFF0",
-    "timestamp": "2025-11-15 07:11:27"
+    "weather_report": "As the day unfolds in Boston, a crisp and mostly sunny morning casts a gentle light over the city, promising a high that will flirt with the mid-forties. With a soft west wind stirring the air, it\u2019s a refreshing time to venture outdoors, though the chill might nip at your cheeks. The view from above reveals a landscape that hints at the vibrancy of fall, with hues of amber and burnt sienna juxtaposed against the cool blue sky.\n\nHowever, as evening approaches, a transformation will take place. Anticipate a shift as rain whispers its arrival between the hours of seven and three. The forecast hints at potential fog, creeping in during the dim hours of night alongside the rain, lending a shroud of mystery. Temperatures will rise as they linger around the upper thirties to the forties overnight, making layering essential for comfort. A warm coat accompanied by a hat might offer solace as you navigate the evening's drizzle or partake in a quiet stroll through a nearby park, perhaps with a favorite book or a warm beverage warming your hands. As you blend into the gathering clouds, allow the soothing sound of raindrops on leaves to be your background score for a reflective evening.",
+    "color_code": "#A2B3C4",
+    "timestamp": "2025-11-15 11:07:06"
 }
