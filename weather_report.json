@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-16T19:50:00+00:00",
-            "temperature_f": 48.2,
-            "temperature_c": 9,
-            "humidity": null,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Clear"
+            "timestamp": "2025-11-17T07:50:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 51.348169519678,
+            "wind_speed_mph": 49.688244000000005,
+            "wind_direction": 270,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-11-16T15:00:00-05:00",
-                "endTime": "2025-11-16T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 52, with temperatures falling to around 42 in the afternoon. West wind around 16 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-11-16T18:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2025-11-17T03:00:00-05:00",
                 "endTime": "2025-11-17T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 31,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 6
+                    "value": 2
                 },
-                "windSpeed": "15 mph",
+                "windSpeed": "14 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 31. West wind around 15 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Partly cloudy, with a low around 31. West wind around 14 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-11-17T06:00:00-05:00",
+                "endTime": "2025-11-17T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "14 to 17 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 42. West wind 14 to 17 mph, with gusts as high as 31 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sky dons a quilt of clouds, one that allows glimmers of sunlight to play upon the earth, though the warmth is fleeting. The brisk west wind, whispering through the streets, brings a chill that reminds you winter is approaching. From the heights of the Blue Hill Observatory, the view stretches clear and unmarred, offering a gentle reminder of the stunning interplay between light and shadow that this season bestows upon the landscape. The temperature dips into the lower 40s, inviting a thoughtful selection of attire\u2014a snug sweater layered under a jacket should suffice, accompanied by a sturdy scarf to guard against the crisp breezes.\n\nAs dusk approaches, the weather shifts to a more subdued palette, where the evening promises to wrap the city in a cooler embrace, depths falling to about 31 degrees. The clouds shift to a softer gray, yet remain high enough to encourage those reluctant to retreat indoors. A walk through the quieter neighborhoods might yield serene moments, perhaps wandering along the Charles River, where the sight of fading light glistening off the water offers a tranquil end to the day. Alternatively, this brisk afternoon and evening is prime for gathering around a cozy caf\u00e9, savoring a warm drink while the world outside embraces the chill with a muted grace.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-11-16 15:07:49"
+    "weather_report": "As the stillness of the overnight hours gives way to dawn, Boston experiences a brisk breath of air, with temperatures dipping near freezing. The west wind sweeps through the streets, carrying with it a hint of the day to come, whipping up the occasional leaf as it dances through the chilly atmosphere. Under a canopy of mostly clear skies, the city is poised for a colder morning, but one that promises a gradual warming as the sun ascends, revealing a landscape awash in bright clarity. \n\nBy mid-day, the sun will shine like a polished penny, illuminating the city and inviting residents to step into the light with well-layered attire. A sturdy coat, perhaps a scarf snugged around the neck, and a cozy hat will help fend off the chill as you explore the vibrancy of Boston\u2019s streets. It\u2019s an ideal day to stroll along the waterfront, visiting local coffee shops where the scent of brewing beans mingles with the crisp air, or perhaps to wander through the historic streets, where each step echoes stories from the past. This refreshing winter day, unmarred by fog or heavy clouds, beckons you to embrace the outdoors, encapsulating the simple joy found in the heart of the city.",
+    "color_code": "#3C4F70",
+    "timestamp": "2025-11-17 03:11:20"
 }
