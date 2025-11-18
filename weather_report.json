@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-17T19:45:00+00:00",
-            "temperature_f": 42.8,
-            "temperature_c": 6,
-            "humidity": 38.77798822337,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 280,
+            "timestamp": "2025-11-18T00:20:00+00:00",
+            "temperature_f": 37.4,
+            "temperature_c": 3,
+            "humidity": 51.631857192882,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 290,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-11-17T14:00:00-05:00",
-                "endTime": "2025-11-17T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": "",
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 43. West wind around 21 mph, with gusts as high as 38 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-11-17T18:00:00-05:00",
+                "startTime": "2025-11-17T19:00:00-05:00",
                 "endTime": "2025-11-18T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 31,
@@ -46,17 +27,36 @@
                 "temperatureTrend": "",
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "14 to 17 mph",
+                "windSpeed": "9 to 13 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 31. West wind 14 to 17 mph, with gusts as high as 32 mph."
+                "detailedForecast": "Mostly clear, with a low around 31. West wind 9 to 13 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-11-18T06:00:00-05:00",
+                "endTime": "2025-11-18T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": "",
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "9 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 46. West wind 9 to 14 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sky unfolds in a tapestry of azure, gently brushed with wispy clouds, promising glimpses of sun amid the chill of brisk winds. The air, filled with a lively energy, dances through the streets, whispering secrets of the coming evening's allure. While the daylight invites one outdoors, it embraces the cool reality of November, where layers are essential; a well-chosen scarf and a cozy jacket will serve as perfect companions for a walk along the Charles River or a leisurely exploration through the cobblestone streets of Beacon Hill.\n\nAs twilight approaches, the warm glow of an evening spent indoors beckons. Tonight, the clarity of the night sky will compliment the cool air, a perfect stage for stargazing or cozying up with a good book beside a window. With winds dwindling but still promising a chill, one might think of curling up in a favorite sweater or indulging in the comfort of warm, spiced tea. The overall charm of the day, with its mix of vibrancy and repose, invites both adventure and tranquility.",
-    "color_code": "#B0E0E6",
-    "timestamp": "2025-11-17 15:08:11"
+    "weather_report": "As twilight descends upon Boston this evening, the chill of late autumn hangs in the air, inviting a reflective pause. The sky is steadily unfurling its blanket of clarity, embraced by a gentle west wind; the atmospheric crispness suggests a night of starlight mingled with the soft glow of scattered city lights. With temperatures dipping to a brisk 31 degrees, the coolness nips at the skin, reminding passersby of the season's transition while silencing the last whispers of the day\u2019s warmth.\n\nThe approaching Tuesday promises a day drenched in sunshine, where the sun graces the skyline with golden warmth, illuminating the vibrant hues of the city below. As temperatures near 46, the feeling is likely to be a refreshing blend of comfort and briskness, a call to don layers that allow for easy transitions from the chilly morning air to the brighter midday. It's an opportune day for an afternoon stroll along the waterfront, where the gentle lap of the tide harmonizes with the lively shuffle of fellow Bostonians. A thoughtful scarf and a well-suited coat will ensure warmth, while a cozy pair of gloves would be prudent for the communal wanderings. \n\nIn this moment, the urban landscape, illuminated by a scattering of city lights, whispers of simple pleasures\u2014a quiet coffee on a loveseat at a local caf\u00e9, the pages of a favorite book flipping in the wind at a park, or perhaps the embrace of a friend shared over the simmering joy of conversation. As the night deepens, Boston rests, poised for the radiance of tomorrow.",
+    "color_code": "#545454",
+    "timestamp": "2025-11-17 19:32:03"
 }
