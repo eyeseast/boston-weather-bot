@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-19T15:50:00+00:00",
-            "temperature_f": 42.8,
-            "temperature_c": 6,
-            "humidity": 41.863418076691,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2025-11-20T00:15:00+00:00",
+            "temperature_f": 28.4,
+            "temperature_c": -2,
+            "humidity": 68.629648895336,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-11-19T11:00:00-05:00",
-                "endTime": "2025-11-19T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 45. Northwest wind 2 to 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-11-19T18:00:00-05:00",
+                "startTime": "2025-11-19T19:00:00-05:00",
                 "endTime": "2025-11-20T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "2 mph",
-                "windDirection": "N",
+                "windSpeed": "3 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 27. North wind around 2 mph."
+                "detailedForecast": "Mostly clear, with a low around 27. Northwest wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-11-20T06:00:00-05:00",
+                "endTime": "2025-11-20T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "3 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 46. North wind around 3 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, a generous embrace of sunshine unfolds beneath a clear aqua sky, bringing forth an invigorating crispness that outlines the beauty of autumn transitioning into winter. With temperatures poised around 45 degrees, the northwestern breeze gently whispers through the trees, creating a serene backdrop for those who venture outdoors. Tonight, the calm will persist as a chilly tranquillity settles in, inviting evenings of quiet contemplation under a starlit canopy with temperatures dropping to a cool 27.\n\nSuch agreeable conditions beckon the opportunity for a leisurely stroll along the Charles River Esplanade or perhaps a gentle amble through the winding paths of Boston Common, where the vibrancy of the season can be appreciated in the russet and golden hues of leaves carpeting the ground. Dressing in layers will ensure comfort\u2014an inviting sweater or a light jacket, paired with a warm scarf to shield against the evening chill. With the sun arching high and the light playing among the skyscrapers, there\u2019s no better time to savor a hot cup of coffee outside, embracing the beauty of a New England day.",
-    "color_code": "#A1C6EA",
-    "timestamp": "2025-11-19 11:10:07"
+    "weather_report": "As twilight wraps Boston in a gentle embrace, the air is crisp and carries hints of the approaching winter chill, with temperatures steadily dipping toward a cool 27 degrees. The night sky unveils its vast canvas, mostly clear, allowing stars to punctuate the inky darkness while a light northwest breeze whispers through the city\u2019s quiet streets. Tomorrow, the sun will reach out with a tentative warmth, predicted to rise to a high near 46, but not without a dance with clouds that will drift lazily overhead, serving as a reminder of the season's transition.\n\nGiven the current conditions, dressing warmly is essential, yet one might opt for layers to adapt to the shifting temperatures throughout the day. A cozy scarf and a good pair of gloves could enhance the evening stroll, perhaps along the Charles River, where the water reflects the shimmering lights of the city. Tomorrow, the partly sunny skies invite simple pleasures; a leisurely walk through Boston Common or a visit to a local caf\u00e9 could provide small respites from the cold. Such mundane activities, underscored by the vibrant life of the city, resonate beautifully with the spirit of the season, capturing the inherent charm of a November day in Boston.",
+    "color_code": "#4B4C7E",
+    "timestamp": "2025-11-19 19:32:04"
 }
