@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-23T07:35:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 92.689374077391,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Clear"
+            "timestamp": "2025-11-23T15:50:00+00:00",
+            "temperature_f": 39.2,
+            "temperature_c": 4,
+            "humidity": 51.913579899969,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 220,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-23T03:00:00-05:00",
-                "endTime": "2025-11-23T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 27. West wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-11-23T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-11-23T11:00:00-05:00",
                 "endTime": "2025-11-23T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 18
+                    "value": 38
                 },
-                "windSpeed": "3 to 8 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
-                "shortForecast": "Partly Sunny then Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers after 3pm. Partly sunny, with a high near 44. Southwest wind 3 to 8 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,40?size=medium",
+                "shortForecast": "Cloudy then Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers after 3pm. Cloudy, with a high near 44. Southwest wind 5 to 8 mph. Chance of precipitation is 40%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-11-23T18:00:00-05:00",
+                "endTime": "2025-11-24T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 39
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/bkn?size=medium",
+                "shortForecast": "Scattered Rain Showers then Mostly Cloudy",
+                "detailedForecast": "Scattered rain showers before 9pm. Mostly cloudy, with a low around 33. West wind around 6 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "As the twilight hours linger in Boston, the night reveals a canvas of clarity with scattered glimmers of city lights flickering against the darkened sky. The air is crisp, a promise of frost hovering as the temperature gently dips towards the low twenties. With a mild west wind caressing the streets, late-night wanderers might find solace in a warm scarf and a sturdy coat, perfect companions for an evening stroll by the Charles or a quiet moment on a bench, admiring the shimmering skyline.\n\nCome Sunday, the day will awaken with an evolving personality. While the sun will make a tentative appearance, dappling the landscape with soft light, expect isolated rain showers to sprinkle the atmosphere after mid-afternoon, turning the partly sunny scenes into a nuanced interplay of clouds and fleeting sunshine. With temperatures rising towards the mid-forties, dressing in layered clothing will allow for the brisk chill of morning to transition comfortably into the balmy embrace of afternoon warmth. Those out and about might consider a mild jaunt to a local caf\u00e9, where one can savor the aroma of freshly brewed coffee while watching the world stir to life, or perhaps a visit to the museum, where the intriguing depths of art and history await amidst the gentle patter of rain.",
-    "color_code": "#4A90E2",
-    "timestamp": "2025-11-23 03:09:10"
+    "weather_report": "The morning in Boston unfolds beneath a canopy of soft, gray clouds, with the atmosphere thickening by the hour. The quiet drizzle that dances sporadically through the air is a gentle reminder of the moisture lingering in the environment, as the day unfolds toward a high that barely registers warmth. The anticipated scattered rain showers after mid-afternoon blend seamlessly into this muted landscape, with a southwest breeze that barely brushes the face\u2014tender, yet persistent. As the clock ticks onward, the promise of evening whispers the likelihood of a cool descent into the low 30s, when the scattered showers will retreat, leaving clouds to blanket the city in a hazy embrace.\n\nWith this forecast, one might consider dressing in layers; a warm jacket paired with a reliable umbrella would be prudent companions for outings today. As the rain begins to paint the streets with a shimmering layer, possibly strolling through a local caf\u00e9 feels just right\u2014perhaps wrapped around a steaming cup, watching the world go by. Alternatively, a visit to an art gallery could offer a delightful refuge from the damp\u2014a gentle engagement with creativity that invites the imagination to wander. While the day is far from crisp, there are whispers of beauty in the gray, encouraging an embrace of the understated charms of urban life, nestled just beyond the clouds.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2025-11-23 11:07:38"
 }
