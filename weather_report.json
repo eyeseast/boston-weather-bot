@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-23T15:50:00+00:00",
+            "timestamp": "2025-11-23T19:50:00+00:00",
             "temperature_f": 39.2,
             "temperature_c": 4,
             "humidity": 51.913579899969,
-            "wind_speed_mph": 24.884388,
+            "wind_speed_mph": 20.696724000000003,
             "wind_direction": 220,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-11-23T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2025-11-23T15:00:00-05:00",
                 "endTime": "2025-11-23T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 38
+                    "value": 15
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,40?size=medium",
-                "shortForecast": "Cloudy then Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers after 3pm. Cloudy, with a high near 44. Southwest wind 5 to 8 mph. Chance of precipitation is 40%."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers after 5pm. Cloudy, with a high near 44. Southwest wind around 6 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-11-23T18:00:00-05:00",
                 "endTime": "2025-11-24T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 33,
+                "temperature": 32,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 39
+                    "value": 23
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/bkn?size=medium",
-                "shortForecast": "Scattered Rain Showers then Mostly Cloudy",
-                "detailedForecast": "Scattered rain showers before 9pm. Mostly cloudy, with a low around 33. West wind around 6 mph. Chance of precipitation is 40%."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
+                "detailedForecast": "Isolated rain showers before 9pm. Mostly cloudy, with a low around 32. West wind 3 to 7 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "The morning in Boston unfolds beneath a canopy of soft, gray clouds, with the atmosphere thickening by the hour. The quiet drizzle that dances sporadically through the air is a gentle reminder of the moisture lingering in the environment, as the day unfolds toward a high that barely registers warmth. The anticipated scattered rain showers after mid-afternoon blend seamlessly into this muted landscape, with a southwest breeze that barely brushes the face\u2014tender, yet persistent. As the clock ticks onward, the promise of evening whispers the likelihood of a cool descent into the low 30s, when the scattered showers will retreat, leaving clouds to blanket the city in a hazy embrace.\n\nWith this forecast, one might consider dressing in layers; a warm jacket paired with a reliable umbrella would be prudent companions for outings today. As the rain begins to paint the streets with a shimmering layer, possibly strolling through a local caf\u00e9 feels just right\u2014perhaps wrapped around a steaming cup, watching the world go by. Alternatively, a visit to an art gallery could offer a delightful refuge from the damp\u2014a gentle engagement with creativity that invites the imagination to wander. While the day is far from crisp, there are whispers of beauty in the gray, encouraging an embrace of the understated charms of urban life, nestled just beyond the clouds.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2025-11-23 11:07:38"
+    "weather_report": "As the afternoon drapes itself over Boston, a muted palette prevails, marking the sky with a blend of gray and whispers of impending rain. The temperature hovers steadily around a cool 44 degrees, accompanied by the gentle caress of a southwest breeze. There\u2019s a hint of moisture in the air, suggesting that isolated showers may choose to dance across the city as the evening approaches, yet the chance of this occurrence lingers at a modest twenty percent. The atmosphere feels charged, perhaps hinting at a farewell wave from the autumn chill as it gradually gives way to the embrace of winter.\n\nAs the sun edges lower in the sky, casting a dim light that seems more elusive with each passing moment, consider donning layers that honor the crispness of the season. A warm coat over a cozy sweater, complemented by a scarf, will suffice for this transitional period. The invitation to step outside beckons quietly; perhaps a stroll through the nearly deserted streets of Boston's historic center would reveal the quiet allure of coffee shops, their warm interiors promising comfort against the dampness outdoors. Alternatively, the serenity of a late afternoon bookshop visit could provide a lovely retreat, inviting you to lose yourself in stories as the city prepares for night. Whatever path you choose to tread, the weather holds a certain charm today\u2014one best enjoyed wrapped tightly in warmth as autumn bids adieu.",
+    "color_code": "#A6A9AD",
+    "timestamp": "2025-11-23 15:07:54"
 }
