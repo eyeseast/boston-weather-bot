@@ -7,19 +7,38 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-24T00:20:00+00:00",
-            "temperature_f": 33.8,
-            "temperature_c": 1,
-            "humidity": 74.639707050277,
+            "timestamp": "2025-11-24T03:50:00+00:00",
+            "temperature_f": 28.4,
+            "temperature_c": -2,
+            "humidity": 92.863965557739,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Cloudy"
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-11-23T15:00:00-05:00",
+                "endTime": "2025-11-23T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers after 5pm. Cloudy, with a high near 44. Southwest wind around 6 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-11-23T19:00:00-05:00",
+                "startTime": "2025-11-23T18:00:00-05:00",
                 "endTime": "2025-11-24T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -29,34 +48,15 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 23
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium",
                 "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
-                "detailedForecast": "Isolated rain showers before 9pm. Mostly cloudy, with a low around 32. West wind around 7 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-11-24T06:00:00-05:00",
-                "endTime": "2025-11-24T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 to 12 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 48. Northwest wind 7 to 12 mph."
+                "detailedForecast": "Isolated rain showers before 9pm. Mostly cloudy, with a low around 32. West wind 3 to 7 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As evening drapes its tranquil shawl over Boston, the air carries a hint of moisture, remnants of isolated rain showers that scattered earlier in the night. A gentle west wind whispers through the streets, inviting a chill that beckons one to the warmth of cozy attire. The temperature hovers around the low thirties, urging those venturing outside to reach for a snug jacket and perhaps a soft scarf to ward off the encroaching coolness. In the darkened sky, low-hanging clouds cast a muted veil over the city, though they seem to pose little threat to clarity, allowing the scattered lights of Boston to twinkle through in an almost ethereal dance.\n\nAs dawn breaks tomorrow, a departure from the dreary evening should emerge, with the sun poised to sprinkle warmth over the cityscape. The forecast promises a bright sunshine that might coax residents outdoors, providing an ideal backdrop for leisurely strolls along the Charles or a quiet moment spent sipping coffee beneath the budding brightening skies. As the day wears on, light northwesterly winds will brush against the skin, adding a dash of refreshment to an otherwise pleasant winter day. The possibilities are ripe for simple pleasures: a visit to a local bookstore or a stroll through a nearby park, soaking in the fleeting beauty of an autumn that lingers a bit longer before the grip of winter settles in.",
-    "color_code": "#4C4F52",
-    "timestamp": "2025-11-23 19:35:05"
+    "weather_report": "As the night deepens over Boston, a blanket of clouds cloaks the city, punctuated by the soft glow of distant lights. The air carries a coolness that whispers of rain, though the predicted drizzles have yet to materialize. A gentle westward breeze stirs, offering a slight reprieve from the chill that settles in as the evening progresses. With temperatures hovering just above freezing, the atmosphere feels crisp yet damp, hinting at the possibility of a lingering moisture that may greet your skin should you venture outside unprepared.\n\nTo navigate these conditions comfortably, a cozy jacket layered over a warm sweater would serve well; perhaps a soft scarf to ward off the evening's bite. While the city may not beckon with the vibrancy of a sunny day, the stillness of the night can invite introspective walks along the Charles or a quiet exploration of an intimate caf\u00e9, where the warmth of a good cup of coffee can gently stir the senses. This evening calls for a gentle retreat, allowing the weight of the day to fade amid the comforting embrace of warm surroundings.",
+    "color_code": "#4A4C4F",
+    "timestamp": "2025-11-23 23:17:21"
 }
