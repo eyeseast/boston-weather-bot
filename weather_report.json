@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-26T07:45:00+00:00",
-            "temperature_f": 51.8,
-            "temperature_c": 11,
-            "humidity": 93.553471551667,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 140,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2025-11-26T15:45:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 87.749358083507,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 220,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-11-26T03:00:00-05:00",
-                "endTime": "2025-11-26T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 58
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,60?size=medium",
-                "shortForecast": "Rain Likely",
-                "detailedForecast": "Rain likely and patchy fog. Cloudy. Low around 47, with temperatures rising to around 54 overnight. South wind around 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-11-26T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-11-26T11:00:00-05:00",
                 "endTime": "2025-11-26T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 33
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40/rain,30?size=medium",
-                "shortForecast": "Patchy Fog then Chance Light Rain",
-                "detailedForecast": "Patchy fog before 7am, then patchy fog and a slight chance of rain between 7am and 8am, then a chance of rain and patchy fog between 8am and 1pm, then patchy fog and a slight chance of rain between 1pm and 2pm, then a chance of rain and patchy fog between 2pm and 3pm, then patchy fog and a slight chance of rain between 3pm and 4pm, then a chance of rain and patchy fog. Mostly cloudy, with a high near 61. South wind around 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain. Mostly cloudy, with a high near 61. South wind around 7 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-11-26T18:00:00-05:00",
+                "endTime": "2025-11-27T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 24
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and a slight chance of rain before 1am. Mostly cloudy, with a low around 39. Southwest wind 6 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the stillness of the night, Boston groans beneath a soothing quilt of clouds, with rain gently tapping on rooftops, mingling with the whispering breeze. The air is cool, a precursor to the morn, as the world waits for the sun to break through the thick fog that lingers, turning the city into a muted watercolor of grays and blues. The remnants of autumn brush against the chill, inviting one to wrap a soft scarf around their neck and don a light jacket, prepared for the on-and-off embrace of rain.\n\nAs dawn unfolds, Boston will awaken cautiously, the fog playing its tricks, hiding and revealing the familiar skyline. Expect the occasional spritz from above as the day unfolds; let that be a call to grab an umbrella and stroll through parks, where fallen leaves carpet the ground. The air holds a certain crispness, tinged with the possibility of rain, suggesting this is a day best spent exploring cozy cafes or perusing local shops, finding warmth not only in this vibrant city but also in the company of a warm beverage. With the temperature gradually rising, layers will serve you well, providing comfort against the elements while allowing a glimpse of sun when it breaks through the clouds.",
-    "color_code": "#B0C4F0",
-    "timestamp": "2025-11-26 03:10:38"
+    "weather_report": "In Boston this morning, the air carries a soft chill, reminiscent of autumn\u2019s lingering embrace, with clouds draping the sky in a muted blanket that hints at rain. Though the day appears subdued under a canopy of gray, there\u2019s a delicate beauty to the scene, suggesting the potential for brief moments of clarity. As the sun struggles to break through, a gentle breeze waltzes through the streets, inviting a hint of warmth. We are graced with a chance of rain\u2014a mere whisper in the air, possibly delivering light sprinkles before the day draws to a close.\n\nAs evening approaches, a spell of patchy fog may settle in, wrapping the city in a soft, ethereal shroud. With temperatures dipping towards a crisp chill, a thoughtful layering of garments will serve you well\u2014think cozy sweaters atop a cotton shirt, perhaps with a light jacket to ward off the evening breeze. For the adventurous spirit, a leisurely stroll along the Charles might reveal the quiet beauty of this weather, while a visit to a favorite caf\u00e9 could be just the respite one needs, all under the watchful gaze of the clouds. Embrace the day\u2019s quietude and savor the gentle tug of winter\u2019s approach.",
+    "color_code": "#A5A8A3",
+    "timestamp": "2025-11-26 11:09:12"
 }
