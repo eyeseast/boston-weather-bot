@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-28T03:50:00+00:00",
-            "temperature_f": 37.4,
-            "temperature_c": 3,
-            "humidity": 47.826470989742,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 240,
-            "description": "Clear"
+            "timestamp": "2025-11-28T19:50:00+00:00",
+            "temperature_f": 42.8,
+            "temperature_c": 6,
+            "humidity": 35.896568818295,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 250,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-11-27T23:00:00-05:00",
-                "endTime": "2025-11-28T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 30. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-11-28T06:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2025-11-28T15:00:00-05:00",
                 "endTime": "2025-11-28T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 42,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 3
+                    "value": 16
                 },
-                "windSpeed": "8 to 14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 42. Southwest wind 8 to 14 mph, with gusts as high as 37 mph."
+                "windSpeed": "14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers before 4pm. Mostly sunny, with a high near 42. West wind around 14 mph, with gusts as high as 31 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-11-28T18:00:00-05:00",
+                "endTime": "2025-11-29T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 30,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "9 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 30. West wind 9 to 13 mph, with gusts as high as 30 mph."
             }
         ]
     },
-    "weather_report": "As the night drapes Boston in a cloak of calm, the unassuming glow of city lights flickers in the distance, a gentle map of human endeavor against the ink-black canvas of the sky. With temperatures dipping to a crisp 30 degrees, you might feel the coolness nipping at your cheeks. The air feels dry and fresh, brushing past with a soft whisper from the southwest, stirring the stillness of the evening. \n\nTomorrow promises a daylight that will unfold upon the city like a well-written novel, marked by a reassuring brightness. The sun will rise higher, bringing with it a hint of warmth that stirs the promise of a pleasant day. With highs flirting around 42 degrees, the winds will dance enthusiastically, gusting up to 37 mph, urging you to don layers that balance comfort and style. A light jacket, perhaps, with a sturdy scarf to ward off the chill as you stroll through Boston's timeworn streets or linger over a mug of coffee at a favorite cafe. Tomorrow\u2019s weather beckons outdoor lovers, ideal for a brisk walk along the Charles River or a visit to the local bookstore, where you can lose yourself in pages while the world unfurls beneath the sun.",
-    "color_code": "#3B3C36",
-    "timestamp": "2025-11-27 23:09:48"
+    "weather_report": "As the afternoon unfolds in Boston, a curtain of clarity drapes over the city, giving way to mostly sunny skies punctuated by wisps of cloud. The chill of the air, crisp and invigorating, hovers around a comfortable high. There's a gentle breeze rustling through the streets, with a few gusts here and there, lending a lively touch to the atmosphere. While a slight chance of rain showers lingers, any potential wetness seems all but evaporated in the mild warmth of the sun. As daylight wanes, the evening beckons with promises of a clear, tranquil sky that may invite a contemplative stroll or a quiet evening by the fire.\n\nWith temperatures expected to dip into the low thirties tonight, it\u2019s wise to dress in layers to embrace the cool air. A cozy sweater or a light jacket would be sufficient for a jaunt downtown or a leisurely walk along the River Charles. Perhaps consider stopping by a local caf\u00e9 for a warm drink, or wandering past the historic sites that glimmer in the waning light. Tonight's calmness will serve as the perfect backdrop for simpler pleasures\u2014enjoying a book in a nook of your favorite establishment or catching up with a friend over a shared meal. In these moments, the true essence of Boston shines through\u2014unhurried, welcoming, and quietly beautiful.",
+    "color_code": "#A8CBB7",
+    "timestamp": "2025-11-28 15:07:58"
 }
