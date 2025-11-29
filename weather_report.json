@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-28T19:50:00+00:00",
-            "temperature_f": 42.8,
-            "temperature_c": 6,
-            "humidity": 35.896568818295,
-            "wind_speed_mph": 57.98304000000001,
-            "wind_direction": 250,
-            "description": "Mostly Clear"
+            "timestamp": "2025-11-29T03:50:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 51.348169519678,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-11-28T15:00:00-05:00",
-                "endTime": "2025-11-28T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 16
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers before 4pm. Mostly sunny, with a high near 42. West wind around 14 mph, with gusts as high as 31 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-11-28T18:00:00-05:00",
+                "startTime": "2025-11-28T22:00:00-05:00",
                 "endTime": "2025-11-29T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 30,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 1
                 },
-                "windSpeed": "9 to 13 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 30. West wind 9 to 13 mph, with gusts as high as 30 mph."
+                "detailedForecast": "Mostly clear, with a low around 30. West wind around 10 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-11-29T06:00:00-05:00",
+                "endTime": "2025-11-29T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 41,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 41. West wind 6 to 12 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a curtain of clarity drapes over the city, giving way to mostly sunny skies punctuated by wisps of cloud. The chill of the air, crisp and invigorating, hovers around a comfortable high. There's a gentle breeze rustling through the streets, with a few gusts here and there, lending a lively touch to the atmosphere. While a slight chance of rain showers lingers, any potential wetness seems all but evaporated in the mild warmth of the sun. As daylight wanes, the evening beckons with promises of a clear, tranquil sky that may invite a contemplative stroll or a quiet evening by the fire.\n\nWith temperatures expected to dip into the low thirties tonight, it\u2019s wise to dress in layers to embrace the cool air. A cozy sweater or a light jacket would be sufficient for a jaunt downtown or a leisurely walk along the River Charles. Perhaps consider stopping by a local caf\u00e9 for a warm drink, or wandering past the historic sites that glimmer in the waning light. Tonight's calmness will serve as the perfect backdrop for simpler pleasures\u2014enjoying a book in a nook of your favorite establishment or catching up with a friend over a shared meal. In these moments, the true essence of Boston shines through\u2014unhurried, welcoming, and quietly beautiful.",
-    "color_code": "#A8CBB7",
-    "timestamp": "2025-11-28 15:07:58"
+    "weather_report": "As the clock softly ticks toward midnight, Boston cradles itself in a blanket of calm clarity, with the night air feeling crisp and invigorating. The stars shimmer overhead as the temperatures slip close to thirty degrees, accompanied by a gentle yet assertive west wind that dances through the streets, rustling leaves and casting a feeling of neat vitality in the crisp night. A few more hours will allow the city to bask in the soothing embrace of moonlight, lending an ethereal glow to this bustling metropolis, where the echoes of laughter and distant conversations drift softly through the air.\n\nLooking to the morrow, the sun will rise, casting warm golden rays across the frosty landscape. Expected to reach a high near forty-one, Saturday promises a splendid day, adorned with blue skies and plenty of sunshine. Winds will whisper, offering a light warmth that will make stepping outside yet more inviting. Those venturing out might opt for layered attire\u2014comfortable sweaters under their coats, along with sturdy boots to navigate the frost-kissed pavement. This is a day well-suited for leisure strolls\u2014perhaps along the Charles River, where the sun's reflection dances playfully on the water's surface\u2014or an enjoyable visit to a cozy caf\u00e9 to savor a warming cup of coffee while the world hums gently around you. In this moment of calm before the bustle, one finds an opportunity to breathe deeply and enjoy the beauty that exists in the simple act of being.",
+    "color_code": "#474747",
+    "timestamp": "2025-11-28 23:09:07"
 }
