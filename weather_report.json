@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-29T11:50:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 59.032659326235,
-            "wind_speed_mph": 24.884388,
+            "timestamp": "2025-11-30T00:20:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 50.774863976206,
+            "wind_speed_mph": 20.696724000000003,
             "wind_direction": 290,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-11-29T07:00:00-05:00",
-                "endTime": "2025-11-29T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 41,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 to 12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 41. West wind 6 to 12 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-11-29T18:00:00-05:00",
+                "startTime": "2025-11-29T19:00:00-05:00",
                 "endTime": "2025-11-30T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 27,
+                "temperature": 28,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 8
                 },
-                "windSpeed": "1 to 5 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 27. Southwest wind 1 to 5 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 28. Southwest wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-11-30T06:00:00-05:00",
+                "endTime": "2025-11-30T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 73
+                },
+                "windSpeed": "2 to 10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain,70?size=medium",
+                "shortForecast": "Cloudy then Rain Likely",
+                "detailedForecast": "A chance of rain between 1pm and 4pm, then rain likely and patchy fog. Cloudy, with a high near 48. South wind 2 to 10 mph, with gusts as high as 22 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "This morning in Boston, the sky opens wide in a serene embrace of sunshine, promising a day painted in muted hues of winter light. As you step outside, the air bites at your skin, sharp and invigorating, yet it carries with it a sense of clarity that invigorates the spirit. A gentle west wind whispers through the streets, beckoning you to enjoy the lingering warmth of the sun as it glides toward its zenith, where it will crest around forty-one degrees. The atmosphere feels clean, like a breath of fresh possibilities, encouraging one to partake in the simple joys of the day. \n\nAs the sun will yield to a more subdued evening, where the temperature dips toward a chill that hovers around twenty-seven degrees, there\u2019s a subtle invitation to layer up; a light jacket or a cozy sweater would suffice as twilight settles in. This evening, perhaps consider a stroll along the Charles River, where the soft murmur of water accompanied by the cooling breeze creates a tapestry of tranquility. In this mild winter sun, it is the perfect time to prepare a warm cup of tea and gather with friends indoors, sharing stories as the day gently unfurls into the comforting embrace of night.",
-    "color_code": "#A6C6DE",
-    "timestamp": "2025-11-29 07:12:05"
+    "weather_report": "As twilight envelops Boston, the city is cloaked in a gentle layer of cloud, creating an atmosphere both serene and somber. The low temperature of 28 degrees serves as a reminder of winter's approach, and a whisper of a southwest breeze carries the promise of what tomorrow may bring. The skies will darken before dawn, paving the way for a day where the clouds will lament the challenges before them, releasing rain intermittently throughout the afternoon. With sound gusts nudging at 22 mph, those venturing out should prepare for a brisk embrace of the elements.\n\nDressing in layers becomes essential; a warm coat, perhaps with a soft scarf to wrap snugly around your neck, will help you navigate this chilly night. As for activities, consider retreating to a cozy caf\u00e9 where the scent of freshly brewed coffee mingles with the scent of pastry, ideal for watching the droplets trace their paths down the windowpanes, offering a perfect rhythm for introspection or a quiet chat with a friend. Alternatively, a calm stroll along the Esplanade, with the faint glow of city lights reflecting off the water, can provide a soothing end to the evening before the fog rolls in to veil the streets.",
+    "color_code": "#4B4EFC",
+    "timestamp": "2025-11-29 19:37:13"
 }
