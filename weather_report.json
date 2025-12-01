@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-11-30T19:50:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 87.098056588182,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 180,
-            "description": "Cloudy"
+            "timestamp": "2025-12-01T00:25:00+00:00",
+            "temperature_f": 48.2,
+            "temperature_c": 9,
+            "humidity": 100,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 230,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-11-30T15:00:00-05:00",
-                "endTime": "2025-11-30T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 71
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Cloudy, with a high near 49. South wind around 10 mph, with gusts as high as 22 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-11-30T18:00:00-05:00",
+                "startTime": "2025-11-30T19:00:00-05:00",
                 "endTime": "2025-12-01T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 35,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 94
                 },
                 "windSpeed": "10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,70/bkn?size=medium",
-                "shortForecast": "Light Rain Likely then Mostly Cloudy",
-                "detailedForecast": "Rain likely before 11pm. Mostly cloudy, with a low around 35. Southwest wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,90/bkn?size=medium",
+                "shortForecast": "Light Rain then Mostly Cloudy",
+                "detailedForecast": "Rain and patchy fog before 11pm. Mostly cloudy, with a low around 35. Southwest wind around 10 mph, with gusts as high as 21 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-12-01T06:00:00-05:00",
+                "endTime": "2025-12-01T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 41,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 41, with temperatures falling to around 35 in the afternoon. West wind 7 to 13 mph, with gusts as high as 24 mph."
             }
         ]
     },
-    "weather_report": "As afternoon settles into the heart of Boston, a thick blanket of clouds embraces the city, hinting at the rain that is soon to visit. The air hums with a dampness that colors the surroundings with a muted palette; visibility narrows as the familiar landmarks blur slightly into the haze. What remains clear is the briskness in the air, suggesting that this is no ordinary winter day. With temperatures lingering around the chill of 49 degrees, a south wind stirs, carrying the promise of precipitation. The atmosphere feels alive with anticipation, and there\u2019s a subtle insistence that one should perhaps carry an umbrella or a waterproof coat, should one venture outside.\n\nAs evening approaches, the rain is likely to greet us once more, laying down its rhythm on the pavement before fading into the dark of night. With temperatures dipping to a chillier 35, the winds shift slightly, whispering of the day\u2019s turbulent passage. This is not a time for grand outdoor escapades, but rather for intimate gatherings. Those seeking refuge from the damp could find solace in a quaint caf\u00e9, perhaps indulging in a steaming cup of tea or coffee while gazing out at the rain-slick streets. Alternatively, the beckoning warmth of home may serve as the perfect backdrop for a leisurely evening with a good book or a favorite film, wrapped in a cozy blanket. Whatever the choice, the day's weather beckons us to embrace the stillness and find comfort in the arms of the familiar.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2025-11-30 15:08:00"
+    "weather_report": "Tonight in Boston, a soft murmur of rain falls, mingling with a touch of unobtrusive fog that quietly envelops the evening. The air carries a crisp chill, reminiscent of an autumn's retreat, as temperatures dip to a low of about 35 degrees. A gentle southwest wind whispers through the streets, stirring leaves and minds alike, making it wise to wrap oneself in layers and perhaps don a hat to brush away the nips of cold and moisture. \n\nLooking ahead to the morrow, Boston will emerge into a realm of sunlight, albeit fleeting, as the high reaches up to 41 degrees before the afternoon settles into a cooler embrace around 35. A westerly breeze will accompany the day, lively at times, beckoning residents to appreciate the glow of the sun while it lasts. One might venture outside to explore the quieter charms of the city, perhaps indulging in a stroll through lush, empty parks or enjoying a hot beverage from a local caf\u00e9, in cozy layers that balance warmth with comfort. It\u2019s a day that invites attention to the gentle transitions of nature while encouraging quiet moments amid the bustling life of Boston.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2025-11-30 19:40:19"
 }
