@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-02T04:00:00+00:00",
-            "temperature_f": 21.2,
-            "temperature_c": -6,
-            "humidity": 85.746865562995,
+            "timestamp": "2025-12-02T11:50:00+00:00",
+            "temperature_f": 28.4,
+            "temperature_c": -2,
+            "humidity": 79.933943298105,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-12-01T23:00:00-05:00",
-                "endTime": "2025-12-02T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 25,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 25. North wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-12-02T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-02T07:00:00-05:00",
                 "endTime": "2025-12-02T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 41,
@@ -51,12 +32,31 @@
                 "windSpeed": "2 to 7 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/snow,80/snow,100?size=medium",
-                "shortForecast": "Chance Light Snow then Rain And Snow",
-                "detailedForecast": "A chance of snow between 8am and 10am, then rain and snow. Cloudy, with a high near 41. East wind 2 to 7 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "shortForecast": "Slight Chance Light Snow then Rain And Snow",
+                "detailedForecast": "A slight chance of snow between 8am and 9am, then a chance of rain and snow between 9am and 10am, then rain and snow. Cloudy, with a high near 41. East wind 2 to 7 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-02T18:00:00-05:00",
+                "endTime": "2025-12-03T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 28,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 93
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/snow,90/snow,50?size=medium",
+                "shortForecast": "Rain And Snow then Chance Rain And Snow",
+                "detailedForecast": "Rain before 10pm, then rain and snow between 10pm and midnight, then a chance of rain and snow between midnight and 4am. Cloudy, with a low around 28. North wind around 10 mph, with gusts as high as 28 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "As the evening deepens over Boston, a blanket of mostly cloudy skies enfolds the city, with temperatures dipping to a brisk 25 degrees. The gentle touch of the north wind carries the promise of the chill that is to follow, wrapping the streets in a cool embrace. Night is settling in, and the soft glow of city lights twinkles like stars fallen to earth, creating a serene yet stark landscape. \n\nTomorrow, as dawn breaks, expect the day to shift into a symphony of wintry precipitation. A chance of snow will grace the morning hours, transforming into a mix of rain and snow as the temperature rises to a high of 41. The air will carry the sweet scent of moisture, underscored by the quiet anticipation of a snowfall. With the certainty of a 100% chance of precipitation, it would be wise to don a waterproof jacket and sturdy boots, making preparation for nature\u2019s playful mood essential. For those seeking refuge from the elements, one might find a cozy caf\u00e9, cradling a warm beverage while watching the world outside waltz through the rain and snow. Others may choose to amble through the freshly dusted streets, embracing the seasonal charm with a brisk walk, lingering a moment longer at the sight of glistening tree branches. As the day unfolds, every small moment is a gentle reminder of nature's delicate artistry.",
-    "color_code": "#4A86D9",
-    "timestamp": "2025-12-01 23:14:18"
+    "weather_report": "As the day begins in Boston, one finds a quiet chill in the air, accompanied by a blanket of cloud that sets a subdued mood. The sky, a canvas of gray, hints at the morning's impending mix of rain and snow. With an eagerness that seems misplaced, the atmosphere invites all to prepare for the dampness, as a steady chorus of precipitation is forecasted through the morning hours, promising a transition to more persistent rain by midday. The high temperature will linger near 41, a sharp reminder that we are nestled in the grip of late autumn. \n\nFor those stepping out, it would be wise to don layers; a waterproof jacket will serve well against the moisture, while sturdy shoes are essential to navigate the wet streets. Perhaps a stroll through the quieter corners of the city or a visit to a beloved caf\u00e9, where the warmth dances within and the raindrops can be ignored, would provide a delightful reprieve from the chill and gloom. As the sun sinks this evening, it will bring with it not only the potential for more rain and snow but also a drop in temperature, underscoring the need for cozy attire as one settles in for the night. The backdrop of this weather folds into the city's essence, creating a scene that is as melancholy as it is beautiful\u2014a day best spent savoring warmth and shelter.",
+    "color_code": "#B7C9D6",
+    "timestamp": "2025-12-02 07:13:49"
 }
