@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-08T15:35:00+00:00",
-            "temperature_f": 26.6,
-            "temperature_c": -3,
-            "humidity": 27.958889732027,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 310,
+            "timestamp": "2025-12-08T19:50:00+00:00",
+            "temperature_f": 24.8,
+            "temperature_c": -4,
+            "humidity": null,
+            "wind_speed_mph": 45.581112000000005,
+            "wind_direction": 350,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-12-08T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2025-12-08T15:00:00-05:00",
                 "endTime": "2025-12-08T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 25,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 to 14 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 25. Northwest wind 7 to 14 mph, with gusts as high as 24 mph."
+                "detailedForecast": "Sunny, with a high near 25. Northwest wind around 10 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-12-08T18:00:00-05:00",
                 "endTime": "2025-12-09T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 11,
+                "temperature": 9,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 11. Northwest wind around 7 mph."
+                "detailedForecast": "Mostly clear, with a low around 9. Northwest wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, the sun casts a brilliant glow over the city, illuminating the skyline and offering a welcome warmth to the chill in the air. At this hour, the temperature hovers pleasantly, surrounding the city with crispness and clarity, accentuated by the gentle northwest breeze that gently stirs the leaves and nudges the subtle chill along the streets. The day is marked by an azure sky, unmarred by clouds or fog, creating the perfect backdrop for a leisurely stroll through the vibrant heart of the city.\n\nAs evening approaches, anticipate the temperature to settle, wrapping around you like a soft blanket, dipping into the cool embrace of 11 degrees. It\u2019s a time to bring out the heavier sweaters, perhaps pairing them with a light jacket to shield against the chill that will settle in after sunset. With the evening drawing near, one might explore the cozy corners of local caf\u00e9s, savoring a comforting cup of coffee or tea, immersing oneself in the warmth of conversation or quiet contemplation. The day invites simple pleasures\u2014maybe a thoughtful walk along the Charles River, where the city lights will soon twinkle against the darkening sky, or perhaps finding a nook in a bookstore, where the unfolding pages offer a world of escape.",
-    "color_code": "#A1C3D4",
-    "timestamp": "2025-12-08 11:09:20"
+    "weather_report": "In Boston, this afternoon unfolds under an inviting expanse of azure skies, where the sun bathes the city in a warm embrace, promising a high of 25 degrees. A gentle northwest breeze stirs the air, creating a refreshing backdrop to the tranquil beauty of the day. Tonight, the celestial display continues, with the stars emerging in a mostly clear sky, as temperatures dip to around 9 degrees. Though cool, the evening\u2019s calm is a perfect opportunity to revel in the crispness that defines a New England winter.\n\nAs you step outside, consider layering elegantly\u2014a cozy sweater paired with a light jacket will suffice to ward off the chill without sacrificing comfort. The streets beckon you for a stroll, perhaps through the Boston Common or along the Charles River, where the early twilight casts a serene glow over the waters. Alternatively, a quiet caf\u00e9 awaits those inclined to seek refuge indoors, where the scent of coffee mingles with the promise of a good book or invigorating conversation. Embrace the clarity of the day as a canvas for simple pleasures, making the most of this lovely winter afternoon.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2025-12-08 15:08:21"
 }
