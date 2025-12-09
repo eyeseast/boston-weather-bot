@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-09T04:00:00+00:00",
-            "temperature_f": 12.2,
-            "temperature_c": -11,
-            "humidity": 66.594524001042,
+            "timestamp": "2025-12-09T11:45:00+00:00",
+            "temperature_f": 8.600000000000001,
+            "temperature_c": -13,
+            "humidity": 78.188355926045,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-12-08T23:00:00-05:00",
-                "endTime": "2025-12-09T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 9,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 9. Northwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-12-09T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-09T07:00:00-05:00",
                 "endTime": "2025-12-09T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 3
+                    "value": 0
                 },
-                "windSpeed": "3 mph",
+                "windSpeed": "2 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 30. Southwest wind around 3 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 30. Southwest wind around 2 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-09T18:00:00-05:00",
+                "endTime": "2025-12-10T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 24,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 31
+                },
+                "windSpeed": "8 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,30?size=medium",
+                "shortForecast": "Chance Snow Showers",
+                "detailedForecast": "A chance of snow showers between 9pm and 3am. Mostly cloudy. Low around 24, with temperatures rising to around 31 overnight. Southwest wind 8 to 15 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the night drapes its velvet cloak over Boston, a serene calm envelops the city, pinned under the gentle twinkle of urban lights. With temperatures dipping to a crisp 9 degrees, the air carries a refreshing bite, inviting coats and perhaps a well-worn beanie to keep the chill at bay. The wind whispers softly from the northwest, barely stirring, creating a tranquil backdrop for those who dare to venture out this late. Tonight is marked by a clear sky, unmarred by fog, allowing the stars to strut their brilliance over the rooftops and skyline.\n\nLooking ahead to the morrow, a promising warmth is hinted at\u2014a sunlit embrace with highs near 30 degrees. A gentle southwest breeze will accompany the day, coaxing the last remnants of winter's chill away as the sun dances across the sky. The promise of a mostly sunny day paints the morning with optimism, suggesting a brisk stroll through one of Boston's storied parks or perhaps a leisurely visit to a quiet caf\u00e9 to savor a warm beverage amidst the city's rhythmic pulse. It\u2019s a day for light layers; a warm sweater beneath a light jacket will serve you well, balancing comfort with an easy elegance. Engage with the day as the city stirs to life; watch the world awaken, colors emerge and the everyday bustle fill the streets with energy.",
-    "color_code": "#1E2A78",
-    "timestamp": "2025-12-08 23:13:11"
+    "weather_report": "In Boston this morning, a hush hangs over the city as dawn begins to unfold, enveloping the landscape in soft, muted tones. The air carries the pleasant chill of winter, yet the promise of warmth lingers in the sunlight that slowly rises, casting a golden hue over the rooftops. Today, expect a serene and sunny interlude, with temperatures weaving their way up to a comfortable warmth. As you step outside, a gentle breeze stirs, teasing the shadows and inviting a sense of calm.\n\nAs evening approaches, a shift in the atmosphere is beheld\u2014clouds gather, hinting at a chance for snow showers that may dust the city between the hours when day embraces night. The air temperature will rise slightly, ushering in a cozy warmth through the hours, though a protective layer will serve better against the brisk winds. For those venturing outside, a smart blend of style and function would serve you well. A light jacket paired with a warm scarf could embrace the day's bright strolls while also preparing for the sultry whispers of an impending snowfall.\n\nSo, consider a stroll along the tree-lined streets or perhaps a quiet afternoon in a cozy caf\u00e9, savoring a warm beverage while the world outside shifts. Though clouds may roll in, let the charm of the day\u2019s gentle invitation guide your steps, making room for small joys, like an afternoon spent in lively conversation or a book lost in the pages of imagination.",
+    "color_code": "#A8C8FF",
+    "timestamp": "2025-12-09 07:13:51"
 }
