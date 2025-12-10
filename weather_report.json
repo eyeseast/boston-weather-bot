@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-09T19:50:00+00:00",
-            "temperature_f": 26.6,
-            "temperature_c": -3,
-            "humidity": null,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 190,
+            "timestamp": "2025-12-10T00:15:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 35.361784284326,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 160,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-12-09T15:00:00-05:00",
-                "endTime": "2025-12-09T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 33,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 33. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-09T18:00:00-05:00",
+                "startTime": "2025-12-09T19:00:00-05:00",
                 "endTime": "2025-12-10T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 23,
@@ -49,14 +30,33 @@
                     "value": 25
                 },
                 "windSpeed": "7 mph",
-                "windDirection": "S",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,20/snow,30?size=medium",
                 "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow between 10pm and 2am. Mostly cloudy. Low around 23, with temperatures rising to around 32 overnight. South wind around 7 mph. Chance of precipitation is 30%."
+                "detailedForecast": "A chance of snow between 10pm and 2am. Mostly cloudy. Low around 23, with temperatures rising to around 32 overnight. Southwest wind around 7 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-12-10T06:00:00-05:00",
+                "endTime": "2025-12-10T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 62
+                },
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely after 11am. Mostly cloudy, with a high near 47. Southwest wind 7 to 12 mph, with gusts as high as 24 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, a gentle warmth dances through the air, mingling with the partial sunlight that bravely pierces the overcast sky. The lingering chill remains palpable, hinting at the encroaching evening's cool embrace. The vibrant cityscape is wrapped in a soft blanket of clouds, hues of gray mingling above, the clarity lingering like a shy memory. It seems there\u2019s a whisper of snow on the horizon, a fleeting promise of flurries tucked between twilight hours; the air carries a hint of anticipation.\n\nDressing for the day calls for a keen balancing act. A sturdy winter coat will serve well against the brisk southwest winds, while layers beneath remain wise\u2014perhaps a soft sweater and a trim scarf, ready to shed as warmth beckons and evening falls. As night approaches, warmth will be essential, with the idea of a cozy gathering over warm drinks beckoning, perhaps at a nearby caf\u00e9 where laughter fills the air, or a leisurely stroll with a loved one, watching the city lights twinkle as they reflect the subtle glow of an impending snowfall. All the while, one can savor the quiet beauty in the changeable mood of Boston's winter sky.",
-    "color_code": "#BCC4D9",
-    "timestamp": "2025-12-09 15:07:37"
+    "weather_report": "As the evening settles over Boston, the air carries a crisp chill punctuated by the promise of a winter's touch. A chance of snow whispers through the night, veiling the city under a cloak of clouds; one can almost sense the anticipation as temperatures dip into the low twenties but promise to nudge up towards a more bearable thirty-two by morning. The gentle southwest wind lends a soothing quality to the evening, despite its cooler temperament, and the atmosphere is tinged with a subtle charge of possibility, though only a modest chance of precipitation lingers.\n\nLooking ahead to Wednesday, clouds will continue to loom as rain becomes likely, marking the day with a blend of gray and muted colors. The high should bring a slightly warmer embrace, around the mid-forties, but the gusty winds could carry with them a hint of bite, particularly for those venturing outdoors. In this transition of weather, it may be wise to don layers \u2014 a warm coat to fend off the chill, perhaps a wool scarf wrapped snugly around the neck, and sturdy shoes suitable for the damp ground. With the day unfolding under such conditions, one might find pleasure in a quiet afternoon spent in a local caf\u00e9, savoring a hot drink and watching the world dance with droplets, or perhaps take a leisurely stroll to enjoy the pensive beauty of a city draped in a wintry haze, where each step is cushioned by the promise of snow yet to fall.",
+    "color_code": "#4B4C5B",
+    "timestamp": "2025-12-09 19:34:36"
 }
