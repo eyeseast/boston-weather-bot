@@ -7,19 +7,38 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-11T00:20:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 81.217278940752,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 220,
-            "description": "Light Rain"
+            "timestamp": "2025-12-11T04:00:00+00:00",
+            "temperature_f": 39.2,
+            "temperature_c": 4,
+            "humidity": 93.195121939331,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 230,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
+                "name": "This Afternoon",
+                "startTime": "2025-12-10T14:00:00-05:00",
+                "endTime": "2025-12-10T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 47
+                },
+                "windSpeed": "20 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain after 3pm. Cloudy, with a high near 47. South wind around 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-10T19:00:00-05:00",
+                "startTime": "2025-12-10T18:00:00-05:00",
                 "endTime": "2025-12-11T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -34,29 +53,10 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,60/rain,30?size=medium",
                 "shortForecast": "Light Rain Likely",
                 "detailedForecast": "Rain likely before 1am. Mostly cloudy. Low around 29, with temperatures rising to around 36 overnight. Southwest wind around 10 mph, with gusts as high as 24 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-12-11T06:00:00-05:00",
-                "endTime": "2025-12-11T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 37,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "10 to 15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 37, with temperatures falling to around 28 in the afternoon. West wind 10 to 15 mph, with gusts as high as 44 mph."
             }
         ]
     },
-    "weather_report": "As twilight drapes its cloak over Boston, the whispers of rain earlier mingled with the promise of a colder night ahead. The air holds a damp chill, hovering close to 29 degrees, but it stirs ever so gently toward 36, like a hesitant embrace warming slowly. The skies remain mostly clouded, remnants of rain likely to retreat, leaving behind a gentle overcast that swallows the brightness of evening. A breeze from the southwest breathes softly, yet gusts up to 24 mph remind us of winter's swift touch, a playful reminder that the season won\u2019t let go so easily. \n\nAs we turn toward Thursday, the sun has plans to grace us with its presence, though it may feel reluctant, peering through clouds, illuminating the day with clarity but not warmth. Highs inch near 37, while a cooling wind from the west exudes an invigorating briskness, gusting dynamically, keeping spirits alert. Layered attire is advisable for comfort, a dance of cloth against that spirited wind\u2014a warm coat, perhaps, alongside a cozy scarf to wrap around the neck. Ideal for a leisurely stroll along the river or perhaps a quiet afternoon nestled in a warm caf\u00e9 with a steaming cup of coffee in hand, this day invites us to embrace the ephemeral beauty of winter, to breathe in the electric energy of a bustling city shifting in dance with the elements.",
-    "color_code": "#4C5E74",
-    "timestamp": "2025-12-10 19:34:20"
+    "weather_report": "As dusk cloaks Boston in shades of muted gray and whispers of rain, the city stands on the brink of rest and reflection. The atmosphere carries an unsettling warmth beneath the cool veil of clouds, a high bid of 47, yet in the hours that follow, the temperature will gently slide down to the edge of freezing. The horizon bulges with damp expectations, hinting at a night punctuated by showers, its charm slightly dampened by the forecast\u2019s twin specters of clouds and wind. A steady southward breeze, brisk and insistent, sweeps through the streets, urging passersby to don heavier layers\u2014perhaps a thick sweater or a favorably worn coat, with an umbrella at hand for unexpected drizzles.\n\nEven as the rain nudges at the windows, the world of Boston is still alive, alive with thoughts of quiet evenings at cozy cafes or long walks illuminating the essential companionship of warm drinks and good conversation. The ambiance invites leisurely strolls along the waterfront, where the light dances upon the water, and the spirit of the city wraps itself around you like a cherished old blanket. So, as the clock moves toward the early hours, consider retreating from the cool embrace of night with a well-earned evening indoors, perhaps exploring the pages of a beloved book, or sharing laughter with friends over dinner, as the rain serenades your discussions, keeping the chill at bay.",
+    "color_code": "#6B7E94",
+    "timestamp": "2025-12-10 23:17:52"
 }
