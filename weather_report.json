@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-11T07:53:00+00:00",
-            "temperature_f": 39.02,
-            "temperature_c": 3.9,
-            "humidity": 81.959440634687,
-            "wind_speed_mph": 33.01812,
-            "wind_direction": 220,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-12-11T12:00:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 64.482018531034,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-11T03:00:00-05:00",
-                "endTime": "2025-12-11T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 32,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 32. Southwest wind around 15 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2025-12-11T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-11T07:00:00-05:00",
                 "endTime": "2025-12-11T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "16 to 23 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 33, with temperatures falling to around 27 in the afternoon. West wind 16 to 23 mph, with gusts as high as 44 mph."
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 33, with temperatures falling to around 27 in the afternoon. West wind 16 to 23 mph, with gusts as high as 46 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-11T18:00:00-05:00",
+                "endTime": "2025-12-12T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 20,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 9
+                },
+                "windSpeed": "18 to 22 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/wind_few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 20. West wind 18 to 22 mph, with gusts as high as 46 mph."
             }
         ]
     },
-    "weather_report": "In the quiet hours of the night, Boston lies beneath a shroud of clouds, cloaked in the kind of stillness that surrounds a city before dawn breaks. The evening air is sharp, whispering promises of a chill, with temperatures settling close to the freezing mark. As the world outside your window remains mostly hidden in shadowy hues punctuated by distant city lights, the southwest wind stirs, a brisk companion urging you towards warmth.\n\nAs morning unfurls, Thursday welcomes the sun with a cautious optimism. Expect a clear day that unveils itself in the late hours, though it may feel more like winter's grip throughout the afternoon. The sky invites a patchwork of blue, though the brisk west wind dances around corners, nudging temperatures down to the low twenties. Dress in layers, perhaps a sturdy jacket to fend off the cool breeze, complemented by a cozy scarf and a soft knit hat to shield your ears. As sunlight spills over the horizon, consider a venture outdoors\u2014perhaps a stroll through the Boston Public Garden, where the leaves of autumn persist alongside the treetops, or a quiet moment at a warm caf\u00e9 overlooking the leisurely flow of the Charles. There\u2019s a certain beauty in the way the city begins to awaken, offering those who seek adventure a chance to witness its charm on a winter\u2019s day.",
-    "color_code": "#7C9CBB",
-    "timestamp": "2025-12-11 03:11:40"
+    "weather_report": "As the early light of a Boston morning unfurls, the air is crisp and the day promises a sun-kissed canvas peppered with brilliant hues of gold and blue. With a high nudging close to the freezing mark, the bustling city stirs awake beneath a robust west wind that dances through the streets, its breath cutting with enough chill to send shivers down a spine. Those brave enough to venture out will feel the playful gusts tugging at their coats, while the sky above showcases a striking clarity that feels both fresh and invigorating.\n\nAs day surrenders to night, temperatures will gently descend, inviting an evening that calls for layers\u2014a cozy scarf and a well-worn sweater will keep the warmth close. Amidst these invigorating conditions, exploring a quiet corner of the Public Garden or strolling along the banks of the Charles offers a serene communion with nature. Or perhaps, one may find solace in a charming caf\u00e9, where warm beverages and the hum of conversation create a pleasing refuge from the chill. The day is ripe for simple pleasures, the kind that allow the spirit to revel in the beauty of a brisk winter\u2019s day.",
+    "color_code": "#A7C1DE",
+    "timestamp": "2025-12-11 07:14:24"
 }
