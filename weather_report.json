@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-10T19:50:00+00:00",
-            "temperature_f": 48.2,
-            "temperature_c": 9,
-            "humidity": 66.069675859941,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Clear"
+            "timestamp": "2025-12-11T00:20:00+00:00",
+            "temperature_f": 44.6,
+            "temperature_c": 7,
+            "humidity": 81.217278940752,
+            "wind_speed_mph": 45.581112000000005,
+            "wind_direction": 220,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-12-10T15:00:00-05:00",
-                "endTime": "2025-12-10T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 47
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Cloudy, with a high near 47. South wind around 20 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-10T18:00:00-05:00",
+                "startTime": "2025-12-10T19:00:00-05:00",
                 "endTime": "2025-12-11T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,60/rain,30?size=medium",
                 "shortForecast": "Light Rain Likely",
                 "detailedForecast": "Rain likely before 1am. Mostly cloudy. Low around 29, with temperatures rising to around 36 overnight. Southwest wind around 10 mph, with gusts as high as 24 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-12-11T06:00:00-05:00",
+                "endTime": "2025-12-11T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 37,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 37, with temperatures falling to around 28 in the afternoon. West wind 10 to 15 mph, with gusts as high as 44 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfurls under a blanket of gray clouds, painting the city in muted tones and evoking a sense of quiet introspection. The air is brisk, hinting at rain with a palpable moisture that clings to the skin. Temperatures hover around a cool 47 degrees, accompanied by a persistent south wind that whistles softly, urging passersby to draw their coats closer. As evening approaches, the likelihood of rain increases, reminiscent of gentle whispers from the heavens, with temperatures gradually escalating overnight, encouraging a slight warmth behind the chill.\n\nFor the discerning individual venturing out, a layered approach to clothing is advised. A sturdy, water-resistant coat, perhaps paired with a soft scarf, can ward off the evening dampness and bring forth a degree of coziness despite the chill. As the city prepares to transition into a slightly warmer night, consider embracing activities that evoke a sense of calm\u2014perhaps a stroll along the Charles River to witness the softening silhouettes of the city, or indulging in a quiet evening of reading at your favorite caf\u00e9, where the aroma of freshly brewed coffee mingles with the laughter of fellow patrons. Tonight's ambience speaks of introspection and hushed conversation, a gentle reminder of the beauty in stillness amidst life\u2019s hustle.",
-    "color_code": "#7A8D9D",
-    "timestamp": "2025-12-10 15:08:39"
+    "weather_report": "As twilight drapes its cloak over Boston, the whispers of rain earlier mingled with the promise of a colder night ahead. The air holds a damp chill, hovering close to 29 degrees, but it stirs ever so gently toward 36, like a hesitant embrace warming slowly. The skies remain mostly clouded, remnants of rain likely to retreat, leaving behind a gentle overcast that swallows the brightness of evening. A breeze from the southwest breathes softly, yet gusts up to 24 mph remind us of winter's swift touch, a playful reminder that the season won\u2019t let go so easily. \n\nAs we turn toward Thursday, the sun has plans to grace us with its presence, though it may feel reluctant, peering through clouds, illuminating the day with clarity but not warmth. Highs inch near 37, while a cooling wind from the west exudes an invigorating briskness, gusting dynamically, keeping spirits alert. Layered attire is advisable for comfort, a dance of cloth against that spirited wind\u2014a warm coat, perhaps, alongside a cozy scarf to wrap around the neck. Ideal for a leisurely stroll along the river or perhaps a quiet afternoon nestled in a warm caf\u00e9 with a steaming cup of coffee in hand, this day invites us to embrace the ephemeral beauty of winter, to breathe in the electric energy of a bustling city shifting in dance with the elements.",
+    "color_code": "#4C5E74",
+    "timestamp": "2025-12-10 19:34:20"
 }
