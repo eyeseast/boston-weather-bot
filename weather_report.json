@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-12T15:50:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 39.724427371169,
-            "wind_speed_mph": 62.17070400000001,
-            "wind_direction": 260,
+            "timestamp": "2025-12-12T19:50:00+00:00",
+            "temperature_f": 33.8,
+            "temperature_c": 1,
+            "humidity": 40.343261175483,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-12-12T09:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2025-12-12T15:00:00-05:00",
                 "endTime": "2025-12-12T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "18 to 22 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/wind_skc?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 33. West wind 18 to 22 mph, with gusts as high as 33 mph."
+                "detailedForecast": "Sunny, with a high near 33. West wind around 13 mph, with gusts as high as 29 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2025-12-12T18:00:00-05:00",
                 "endTime": "2025-12-13T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 23,
+                "temperature": 24,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "8 to 17 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 23. West wind 8 to 17 mph."
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 24. Southwest wind 6 to 10 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "Today in Boston, the skies embrace a brilliant blue, unmarred by clouds\u2014its radiant clarity seems almost to invite you outside, urging you to take in the crisp, invigorating air. A brisk west wind ushers in the chill, dancing around corners and rustling the leaves that remain, creating an interplay of warmth and coolness that tantalizes the senses. As you stroll through the streets, the laughter of children at play floats through the air, a melodic backdrop to the vibrant scene of people clad in coats, their breath steaming momentarily before dissipating into the sunlight.\n\nAs the day unfolds, the sun reaches its zenith, casting playful shadows and illuminating the fine details of the brick buildings, the glistening river, and the steadfast trees lining the paths. Temperatures may hover at a comfortable peak, yet this delightful experience is tempered by the strength of the wind, suggesting an extra layer might be wise. So, don your favorite scarf and a sturdy jacket to nip back the chill, while sturdy shoes work against the brisk gusts beneath your feet. \n\nFor the afternoon, Boston beckons with quiet explorations; consider a leisurely walk along the Charles River, where the tranquility of the water invites reflection and casual conversation. Alternatively, a visit to a nearby caf\u00e9, to savor a warm cup of something drifting with steam, offers the perfect refuge. Engage in a bit of unwinding as you watch the world bustle by\u2014where this splendid day, infused with the briskness of winter, feels more a celebration than just a mere passing moment.",
-    "color_code": "#0099FF",
-    "timestamp": "2025-12-12 11:08:27"
+    "weather_report": "As the sun casts its golden hue across Boston this afternoon, the air is crisp and invigorating, wrapping the city in a gentle embrace. With temperatures nudging up to a pleasant thirty-three degrees, the day unfurls under a clear, azure sky, punctuated only by the playful dance of cottony clouds above. A steady westerly breeze whispers through the streets, carrying with it the invigorating scent of late autumn, while occasional gusts remind you that nature is still very much alive and in motion.\n\nAs night falls, you might find the mercury dropping to a comfortable twenty-four degrees, with a light southwest wind that beckons you to prepare for the chill. This evening is perfect for a leisurely stroll through your favorite neighborhood, perhaps indulging in the warmth of a cozy caf\u00e9, or simply taking a moment to admire the twinkling city lights reflecting off the calm waters nearby. Layering is key today; a warm scarf and a light jacket will serve you well, balancing both comfort and ease. In a city alive with possibility, embrace the beauty of this winter afternoon as you venture out to experience the world, wrapped in its calm serenity.",
+    "color_code": "#87CEFA",
+    "timestamp": "2025-12-12 15:08:20"
 }
