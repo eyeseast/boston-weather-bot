@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-13T04:00:00+00:00",
-            "temperature_f": 26.6,
-            "temperature_c": -3,
-            "humidity": 63.286827800672,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 250,
+            "timestamp": "2025-12-13T11:50:00+00:00",
+            "temperature_f": 21.2,
+            "temperature_c": -6,
+            "humidity": 79.323042834535,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 240,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2025-12-12T23:00:00-05:00",
-                "endTime": "2025-12-13T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 24,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 24. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-12-13T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-13T07:00:00-05:00",
                 "endTime": "2025-12-13T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 10
+                    "value": 3
                 },
                 "windSpeed": "5 to 9 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 39. Southwest wind 5 to 9 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 39. Southwest wind 5 to 9 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-13T18:00:00-05:00",
+                "endTime": "2025-12-14T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 76
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/snow,80?size=medium",
+                "shortForecast": "Light Snow",
+                "detailedForecast": "Snow after 10pm. Mostly cloudy, with a low around 27. West wind around 6 mph. Chance of precipitation is 80%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "As the evening deepens in Boston, a quiet clarity envelops the city, with the night sky reading like a blank page. The air is crisp, with a refreshing chill that nudges against the skin, reminding residents that winter is well upon us. With temperatures settling around twenty-four degrees, the gentle southwest wind hints at an unwelcome bite, yet the atmosphere remains mostly clear, offering a serene backdrop for those gazing from the hilltops or along the waterfront.\n\nTomorrow beckons with its promise of a mostly cloudy day, the high only climbing to a modest thirty-nine. The soft whispers of a southwest breeze will continue to add a hint of briskness to the undertones of the day. Those stepping out will find it wise to bundle up, perhaps favoring layers that invite warmth while allowing for movement\u2014an answer to the day\u2019s rather dreary demeanor. Yet, beneath the clouds, there lies an invitation for simple pleasures: a leisurely stroll through the quaint streets, a chance to enjoy the decorative lights that still cling to the fa\u00e7ades of shops, or a visit to a local caf\u00e9 where hot drinks invite warmth from the chill. \n\nEngaging in such everyday comforts, one can dance through the monotony, turning a gray day into something vibrant. Simple winter joys await those willing to embrace both the coolness of the air and the solace of a quiet city under clouds.",
-    "color_code": "#4A4A4A",
-    "timestamp": "2025-12-12 23:12:02"
+    "weather_report": "Boston awakens under a quilt of soft gray clouds, the kind that seem to absorb sound and lend a certain hush to the bustling city. The chill in the air whispers of winter, urging you into the comfort of warm layers. With a high near 39, you\u2019ll find it necessary to reach for a sturdy coat, perhaps one lined with fleece, and sturdy boots to navigate the slickness of sidewalks. The southwest wind carries hints of change, rustling leaves and lifting spirits even as the temperature remains firmly below the winter threshold.\n\nAs the evening draws closer, snow will begin its gentle descent, blanketing the landscape in a white shimmer, though don\u2019t expect substantial accumulation\u2014less than an inch, they say. Still, the anticipation of those delicate flakes offers a sense of enchantment, a quiet invitation to take a stroll amidst the hushed transformation of the city. Picture yourself with a warm cup of coffee in hand, savoring the momentary pause as the world turns a shade more serene. Tonight isn\u2019t just another night; it\u2019s an opportunity to find joy in quiet moments, perhaps reading by the fire or wrapping up in a soft blanket, waiting for the snow to dance against the windows.",
+    "color_code": "#A4B1D9",
+    "timestamp": "2025-12-13 07:12:09"
 }
