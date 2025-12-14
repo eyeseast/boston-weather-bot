@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-14T07:53:00+00:00",
-            "temperature_f": 30.92,
-            "temperature_c": -0.6,
-            "humidity": 88.924724726703,
+            "timestamp": "2025-12-14T12:00:00+00:00",
+            "temperature_f": 30.2,
+            "temperature_c": -1,
+            "humidity": 92.920792863957,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Light Snow and Fog/Mist"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-14T03:00:00-05:00",
-                "endTime": "2025-12-14T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 28,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 86
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/snow,90?size=medium",
-                "shortForecast": "Light Snow",
-                "detailedForecast": "Snow. Cloudy, with a low around 28. West wind around 3 mph. Chance of precipitation is 90%. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-12-14T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-14T07:00:00-05:00",
                 "endTime": "2025-12-14T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 32,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/snow,100/snow,90?size=medium",
                 "shortForecast": "Light Snow",
                 "detailedForecast": "Snow. Mostly cloudy, with a high near 32. Northwest wind 2 to 14 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-14T18:00:00-05:00",
+                "endTime": "2025-12-15T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 14,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 42
+                },
+                "windSpeed": "17 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,40/sct?size=medium",
+                "shortForecast": "Chance Light Snow then Partly Cloudy",
+                "detailedForecast": "A chance of snow before 7pm, then a chance of snow showers between 7pm and 9pm. Partly cloudy, with a low around 14. Wind chill values as low as -2. Northwest wind around 17 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "In the quiet embrace of the early morning, Boston is shrouded in a gentle snow, each flake a fleeting dance that settles on the world, painting it white. The clouds hang low, muffling the sounds of the city and cloaking it in a soft haze. As the temperatures hover near freezing, a slight breeze rustles through, adding a chill that seeps into the bones, reminding one that winter has well and truly arrived. This evening's snowfall will be joined by a more resolute gathering of flakes tomorrow, ensuring the streets are graced by a thicker layer, transforming the familiar into a winter wonderland.\n\nFor those contemplating the day, dressing in layers will serve as your shield against the crisp air\u2014a warm hat, perhaps a knitted scarf, and stout boots will keep you comfortable as you traverse the snowy landscape. With the biting wind and beautiful snowfall accompanying your steps, there\u2019s a certain magic in the air. Taking a moment to enjoy a warm drink from a cozy caf\u00e9, or wandering through the snow-dusted parks, might find a place in your plans. Alternatively, curling up with a good book in the embrace of your own home could also be a sanctuary of choice, as the snow blankets the city in a serene quietude.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2025-12-14 03:09:18"
+    "weather_report": "As dawn breaks over Boston, a shroud of snow blankets the city in a hushed stillness, the air crisp with winter's bite. The forecast paints a picture of a day where flurries dance among the clouds, their soft embrace weaving through the streets. With a high hovering around 32, the sky remains a contemplative gray, occasionally punctuated by the gusts of a northwest wind that sometimes rattles the very bones of the city. A high of 25 mph beckons a chill that lingers, suggesting that layering is not just wise, but paramount. Perhaps a sturdy scarf and a well-insulated coat would serve well against the fleeting warmth of fleeting sun.\n\nAs evening approaches, anticipation turns to the possibility of snow showers, casting a whimsical glow over dimming neighborhoods. The chance of lingering flurries seems to invite the city\u2019s inhabitants to take a momentary pause; a soothed cup of cocoa or an exploratory stroll through the quiet, snow-blanketed streets feels befitting. This weather, though cold and blustery, carries with it a sense of wonder\u2014a call to those who cherish the simple pleasures of the season. A lower evening temperature might encourage twilight wanderings under a canopy of clouds, where the world sparkles subtly through the frost, suggesting cozy gatherings indoors with friends or family. It's a day that whispers promises of warmth against the chill, calling all to reflect and cherish the moments, however mundane they may seem against the backdrop of winter\u2019s embrace.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2025-12-14 07:12:06"
 }
