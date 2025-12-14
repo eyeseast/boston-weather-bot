@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-14T00:20:00+00:00",
-            "temperature_f": 35.6,
-            "temperature_c": 2,
-            "humidity": 55.433765044563,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 240,
-            "description": "Clear"
+            "timestamp": "2025-12-14T04:00:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 64.010232287887,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 180,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-12-13T15:00:00-05:00",
-                "endTime": "2025-12-13T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "6 to 9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 38. Southwest wind 6 to 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-13T18:00:00-05:00",
+                "startTime": "2025-12-13T23:00:00-05:00",
                 "endTime": "2025-12-14T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 27,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 86
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,50?size=medium",
-                "shortForecast": "Cloudy then Chance Light Snow",
-                "detailedForecast": "A chance of snow after midnight. Cloudy, with a low around 27. West wind around 6 mph. Chance of precipitation is 50%. New snow accumulation of around one inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/snow,90?size=medium",
+                "shortForecast": "Light Snow",
+                "detailedForecast": "Snow. Cloudy, with a low around 27. West wind around 3 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2025-12-14T06:00:00-05:00",
+                "endTime": "2025-12-14T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 32,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/snow,100?size=medium",
+                "shortForecast": "Light Snow",
+                "detailedForecast": "Snow. Mostly cloudy, with a high near 32. Northwest wind 3 to 10 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
             }
         ]
     },
-    "weather_report": "As dusk enfolds the streets of Boston, the chill of the approaching night presents a canvas of subdued hues. The sky drapes itself in a great, heavy quilt of cloud, wrapping the city in a soft, muffled embrace. The air carries an anticipation, a whisper of snow that may dance down in small flurries after midnight\u2014a promise of a winter veil just waiting to settle over the rooftops and sidewalks. The high today has struggled to rise above the biting cold, settling near the upper thirties, while the evening beckons visitors and residents alike to draw their layers closer, seeking warmth as a gentler wind meanders through the streets.\n\nIn these moments, one might find solace in a cozy caf\u00e9, where the steam from a cup of dark roast hovers into the air like a warm invitation. Alternatively, a stroll under the muted glow of street lamps can be an exhilarating experience, with the faint promise of snow in every breath. It is wise, however, to don a thick overcoat and a favorite scarf against the cold's bite, perhaps even a sturdy pair of boots for the crunch of impending snow beneath one's feet. Tonight is not just about braving the elements; it\u2019s about appreciating the austere beauty that comes with winter evenings, finding joy in the quiet isolation that envelops the world outside.",
-    "color_code": "#4B4C4A",
-    "timestamp": "2025-12-13 19:37:33"
+    "weather_report": "As the night unfolds, Boston finds itself cloaked in swirling snowflakes that whisper down from a cloudy sky, settling gently onto the streets and rooftops below. The air is crisp, carrying that unmistakable chill that stirs a sense of quiet introspection. With temperatures hovering in the upper twenties, a soft breeze contributes a subtle bite, urging passersby to wrap themselves in warm layers. As you venture outdoors, a thoughtfully chosen winter coat, perhaps with a snug scarf and gloves, will serve both comfort and style, warding off the night\u2019s chill while allowing you to blend seamlessly into the frosty scenery.\n\nTomorrow promises more of the same wintry embrace, as snow continues to fall through the day. The world is likely to be transformed into a muted palette of soft whites and grays, inviting leisurely strolls that could culminate in an afternoon warmed by a welcoming mug of cocoa at a local caf\u00e9. Embrace the slow pace this weather encourages, and consider a morning spent at home, reading by a fire or tackling a cozy puzzle. The snow may thinly blanket the city, yet it presents an opportunity for connection\u2014perhaps a gentle walk with a companion or simply the chance to pause and savor the beauty of a winter's day in Boston.",
+    "color_code": "#A6A2A4",
+    "timestamp": "2025-12-13 23:19:59"
 }
