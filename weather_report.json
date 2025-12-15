@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-15T07:53:00+00:00",
-            "temperature_f": 15.079999999999998,
-            "temperature_c": -9.4,
-            "humidity": 50.472382532879,
-            "wind_speed_mph": 41.07132,
-            "wind_direction": 320,
+            "timestamp": "2025-12-15T15:50:00+00:00",
+            "temperature_f": 21.2,
+            "temperature_c": -6,
+            "humidity": 45.115485207415,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-15T03:00:00-05:00",
-                "endTime": "2025-12-15T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 13,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 13. Wind chill values as low as -3. Northwest wind around 16 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-12-15T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-15T11:00:00-05:00",
                 "endTime": "2025-12-15T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 26,
@@ -49,14 +30,33 @@
                     "value": 0
                 },
                 "windSpeed": "15 to 18 mph",
-                "windDirection": "NW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 26. Wind chill values as low as -3. Northwest wind 15 to 18 mph, with gusts as high as 33 mph."
+                "detailedForecast": "Mostly sunny, with a high near 26. West wind 15 to 18 mph, with gusts as high as 31 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-15T18:00:00-05:00",
+                "endTime": "2025-12-16T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 19,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 7
+                },
+                "windSpeed": "9 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 19. West wind 9 to 14 mph."
             }
         ]
     },
-    "weather_report": "As the night deepens over Boston, a serenity blankets the city, the stillness punctuated only by the soft glow of distant lights. With temperatures dipping into the low teens, the air has turned crisp, whispering of the cold that settles in your bones. A northwest wind dances through the streets, wresting breath from the lungs and sending chills like a playful ghost. It\u2019s a night that calls for warmth \u2014 heavy coats, layered sweaters, and perhaps a woolen hat to stave off the wind chill that lingers around a frosty -3. \n\nAs dawn breaks, anticipation builds for a day that promises mostly sunny conditions, accentuated by a refreshing breeze. The sun, when it finally arrives, will stretch itself across the sky, warming the cobblestones of historic streets as the thermometer edges toward a high in the mid-twenties. Wrapped in their winter garb, Bostonians might venture onto the streets for a brisk walk along the Charles or perhaps sip a hot beverage in one of the local caf\u00e9s, where the warmth inside contrasts beautifully with the chill outside. Today's landscape, so stark and clear, will render even the mundane activities \u2014 like a leisurely stroll or a contemplative moment at a park bench \u2014 into something quite refreshing, inviting you to embrace the quiet beauty of winter in the city.",
-    "color_code": "#4A4C58",
-    "timestamp": "2025-12-15 03:12:43"
+    "weather_report": "In Boston today, the skies are largely clear, revealing a canvas of crisp blue that hints at the invigorating chill typical of a December day. With a pleasant high near 26, the afternoon air is kissed by a west wind that brings a gentle bite, gusting at times, urging the casual observer to enjoy the fleeting warmth. As the sun climbs toward its zenith, the city's architecture stands proud against the brilliant backdrop, making it an ideal moment to step outside and embrace the day.\n\nAs twilight approaches, the forecast shifts to mostly cloudy, with temperatures retreating to about 19, inviting those wrapped in layers of wool and down to find comfort in cafes or the embrace of a warm drink. As the shadows lengthen and the wind settles to a quieter breath, a stroll through the iconic streets can reveal the stirrings of evening life, with lights twinkling as night descends. Such a day calls for layering; a cozy scarf, a sturdy jacket, and perhaps a sturdy pair of boots to navigate the brisk air and frosty pathways. Whether one finds solace in the pages of a book at a local caf\u00e9 or meanders through the serene urban parks, today holds the promise of both relaxation and a touch of winter magic.",
+    "color_code": "#87CEEB",
+    "timestamp": "2025-12-15 11:10:59"
 }
