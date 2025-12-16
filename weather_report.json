@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-16T00:15:00+00:00",
-            "temperature_f": 19.4,
-            "temperature_c": -7,
-            "humidity": 48.705167686666,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 240,
-            "description": "Clear"
+            "timestamp": "2025-12-16T04:00:00+00:00",
+            "temperature_f": 21.2,
+            "temperature_c": -6,
+            "humidity": 62.544075839026,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 250,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-12-15T15:00:00-05:00",
-                "endTime": "2025-12-15T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 25,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 25. West wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-15T18:00:00-05:00",
+                "startTime": "2025-12-15T23:00:00-05:00",
                 "endTime": "2025-12-16T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 19,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 19. West wind around 7 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 19. Southwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-12-16T06:00:00-05:00",
+                "endTime": "2025-12-16T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 33. Southwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the evening unfolds in Boston, a gentle calm hangs in the air. The day, having teetered on the edge of warmth, has slid into a cool embrace, with the temperature settling snugly around nineteen degrees. The west wind whispers softly, urging residents indoors, yet the flickering city lights create a tapestry of warmth that beckons explorers. Visibility remains steady, with the lingering clouds wrapping around the skyline like a comforting shawl, shielding the city from the chill of winter\u2019s breath. \n\nIn this serene moment, one might find solace in a cozy caf\u00e9, sipping hot cocoa while watching the world drift past through foggy windows. A light jacket or a warm sweater would suffice for those daring enough to stroll along the waterfront or visit a local gallery. The tranquil evening suggests a subtle elegance\u2014perfect for a quiet dinner at a nearby bistro or an intimate gathering with friends. As Boston transitions seamlessly from day to night, the gentle charm of the city promises that even in the hush of night, life continues to sparkle.",
-    "color_code": "#4B4C4D",
-    "timestamp": "2025-12-15 19:34:28"
+    "weather_report": "As the night drapes a soft shroud over Boston, the air remains still and cool, with the temperature lingering around a brisk 19 degrees. A blanket of clouds hangs palpably overhead, muted against the flickering lights of the city, casting a serene yet slightly somber glow across the horizon. Beneath the calm of the evening sky, a gentle southwest breeze stirs, its presence barely noticeable yet refreshing, whispering hints of the warmth to come.\n\nTomorrow promises an invigorating shift, with the sun poised to rise boldly, casting its golden beams across the landscape, and urging the day's high near 33 degrees to shimmer with a softer light. This contrast to tonight's chill invites thoughts of layered warmth\u2014the embrace of a cozy sweater perhaps, topped with a snug coat to stave off the lingering bites of winter's breath. As for activity, one might stroll through the quieter streets, savoring a warm cup of coffee or mulled cider, or perhaps explore local bookstores, each corner echoing with the promise of warmth and comfort, while the world outside transitions to vibrant hues beneath the gentle push of a winter sun.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2025-12-15 23:18:22"
 }
