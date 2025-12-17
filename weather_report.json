@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-17T11:50:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 59.032659326235,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 200,
-            "description": "Clear"
+            "timestamp": "2025-12-17T15:50:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 44.869465702799,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-17T03:00:00-05:00",
-                "endTime": "2025-12-17T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 25,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 25. Southwest wind around 10 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-12-17T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-17T11:00:00-05:00",
                 "endTime": "2025-12-17T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 44. Southwest wind 9 to 14 mph, with gusts as high as 32 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-17T18:00:00-05:00",
+                "endTime": "2025-12-18T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 28,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 28. West wind 2 to 9 mph, with gusts as high as 24 mph."
             }
         ]
     },
-    "weather_report": "As morning light breaks over Boston, the city awakens under a serene, mostly clear sky. The cool air breathes crispness that glides in on a gentle southwest wind, stirring slightly at 10 mph. Although the chill may linger in the early hours, the promise of a brighter day lies ahead, with temperatures anticipated to reach a delightful 44 degrees by midday. The gusts, especially in the afternoon, could stir a bit of excitement, whipping up to 32 mph, adding a vibrant energy to an otherwise placid winter morning.\n\nIt is a suitable moment to embrace the layers as you step outdoors. A warm coat coupled with a light scarf will offer comfort against the briskness, while perhaps a knitted hat will shield against the occasional gusts that dance through the streets. For those with a penchant for wanderlust, it's an inviting day for a casual stroll along the Esplanade, where the charm of nature intertwines with the pulse of the city. Alternatively, nestling into a cozy caf\u00e9 with a hot drink in hand provides a perfect respite, allowing for moments of reflection amidst the winter's quiet beauty.",
-    "color_code": "#B4A679",
-    "timestamp": "2025-12-17 07:13:51"
+    "weather_report": "Today, Boston greets us with mostly sunny skies, casting a soft light over the city. The temperature, expected to peak around a crisp 44 degrees, suggests a day that is both invigorating and refreshing, although the brisk southwest wind, which can gust up to 32 mph, lends an edge that demands attentiveness. This airy chill mingles with the promise of clearer skies tonight, when the temperatures will settle into the low 20s, making for a tranquil evening under the stars.\n\nIn light of these conditions, it is wise to dress warmly\u2014layers will serve you well, allowing for comfort as you venture outside. A sturdy coat and perhaps a light scarf will shield you from the playful winds. With this delightful weather, consider taking a leisurely stroll along the Charles River or visiting a cozy caf\u00e9 to savor a cup of coffee while watching the world pass by. The vibrant life of the city, bathed in the gentle warmth of the sun and accented by the crisp air, invites moments of quiet contemplation and enjoyment amidst the everyday bustle.",
+    "color_code": "#A8C8E0",
+    "timestamp": "2025-12-17 11:09:47"
 }
