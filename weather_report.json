@@ -7,19 +7,38 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-18T11:53:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 300,
+            "timestamp": "2025-12-18T16:00:00+00:00",
+            "temperature_f": 44.6,
+            "temperature_c": 7,
+            "humidity": 48.983002294844,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-12-18T07:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2025-12-18T03:00:00-05:00",
+                "endTime": "2025-12-18T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 27. West wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2025-12-18T06:00:00-05:00",
                 "endTime": "2025-12-18T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -34,29 +53,10 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 49, with temperatures falling to around 42 in the afternoon. South wind 2 to 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2025-12-18T18:00:00-05:00",
-                "endTime": "2025-12-19T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 47
-                },
-                "windSpeed": "7 to 13 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,50?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Light Rain",
-                "detailedForecast": "A chance of rain after 1am. Mostly cloudy. Low around 39, with temperatures rising to around 52 overnight. South wind 7 to 13 mph, with gusts as high as 26 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a crisp serenity envelops the city, ushering in the day with a promise of sunshine. The atmosphere feels refreshing, with temperatures modestly hovering around the low forties, soon to retreat to the mid-thirties as the afternoon progresses. A gentle south wind stirs, playful yet soothing, carrying hints of the warmth that will swell through the night.\n\nAs the sun inches higher, it casts a golden hue that dances upon the rooftops and sidewalks, inviting residents to step outside. Yet, the clouds that gather later may soften this radiance, hinting at the potential for rain as the clock ticks past one in the morning. Tonight promises both a break in temperature and a chance of showers, with the air turning a little heavier, drawing in the moisture that so often lingers in the atmosphere searching for an escape. It may be wise to don a light jacket, perhaps layered over a cozy sweater\u2014perfect for a day of casual strolls through the cobblestone streets or a quiet coffee on a cherished corner patio. As the evening settles, activities hint at a cozy night in, perhaps a warm cup of tea as you watch the clouds weave their way across the sky.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-12-18 07:13:52"
+    "weather_report": "In Boston, the morning unfolds under a canvas of deep azure, the sunlight spilling over the landscape like warm honey. The air is brisk, with a touch of coolness that reminds one of the season turning gracefully toward winter. As the day progresses, the serenity of the sky promises a high that nudges near the forties, though afternoon shadows may bring a hint of chill to those who linger outdoors. For those venturing out, a light jacket, perhaps paired with a cozy scarf, will serve well against the gentle winds whispering through the streets.\n\nThis clear day beckons an array of simple pleasures. One might find delight in a leisurely stroll through the Public Garden, the exposed paths adorned with the last remnants of autumn's palette. A quiet coffee shop, with its warm ambience and rich aromas, could invite a fragrant cup to warm your hands while you observe the world meander on by. As the sun arcs toward the horizon, gatherings with friends or family over a hearty midday meal could provide an opportunity to savor both food and companionship, all under the calming hush of this splendid day.",
+    "color_code": "#A2C2E5",
+    "timestamp": "2025-12-18 11:10:32"
 }
