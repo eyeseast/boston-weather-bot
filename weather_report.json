@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-18T19:50:00+00:00",
-            "temperature_f": 48.2,
-            "temperature_c": 9,
-            "humidity": 46.042482901757,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 180,
+            "timestamp": "2025-12-19T00:15:00+00:00",
+            "temperature_f": 37.4,
+            "temperature_c": 3,
+            "humidity": 86.702946851968,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 150,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-12-18T15:00:00-05:00",
-                "endTime": "2025-12-18T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 46. South wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-18T18:00:00-05:00",
+                "startTime": "2025-12-18T19:00:00-05:00",
                 "endTime": "2025-12-19T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 39,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,40?size=medium",
                 "shortForecast": "Chance Light Rain",
                 "detailedForecast": "A chance of rain after 10pm. Mostly cloudy. Low around 39, with temperatures rising to around 51 overnight. South wind 8 to 13 mph, with gusts as high as 25 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-12-19T06:00:00-05:00",
+                "endTime": "2025-12-19T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 95
+                },
+                "windSpeed": "14 to 25 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy. High near 57, with temperatures falling to around 50 in the afternoon. South wind 14 to 25 mph, with gusts as high as 51 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston, the sun shines brightly against a backdrop of blue skies, setting the scene for an invigorating winter day. With temperatures reaching into the high 40s, the chill in the air is tempered by a gentle southward breeze. A chance of rain looms on the horizon for tonight, with clouds beginning to gather, promising the possibility of dampness after 10 PM. As temperatures climb overnight, the winds may whisper more fervently, inviting a cozy atmosphere perfect for settling in. \n\nFor those venturing outdoors, it's best to don a light jacket layered over a warm sweater to keep the chill at bay while enjoying the mildness of the afternoon sun. A stroll along the Charles or a quiet moment in one of Boston\u2019s charming coffee shops would suit the spirit of this day, allowing one to relish the subtle changes in the landscape. As the evening draws near and clouds assemble, perhaps consider curling up with a good book or planning for a leisurely indoor activity, preparing for the gentle rainfall that promises to blanket the city in a soothing embrace.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2025-12-18 15:08:25"
+    "weather_report": "As the evening envelops Boston in a shroud of cloudiness, the city hums softly beneath the distant glow of streetlights and the scattered sparkle of urban life. The air, holding a crispness that whispers promises of rain, cools gently as temperatures drift down to a cozy 39 degrees. Those venturing outdoors this evening might feel a rising warmth, a delicate prelude to the rainfall anticipated after 10 pm, as gusts of wind dance through the streets, hinting at the stormy symphony that awaits.\n\nTomorrow, the rains will fully embrace the landscape, transforming the city into a canvas of muted grays and silvery droplets gracing the windows. With temperatures reaching a maximum near 57 before gently descending, the mood will shift, urging Boston's inhabitants to don their most practical attire\u2014perhaps a sturdy raincoat with a comfortable layer underneath, and waterproof footwear to navigate the puddles and puddles of contemplation that form in the streets. While the storm beckons, it also offers the opportunity for introspection; a stroll under an umbrella alongside the tranquil waters of the Charles or to linger in a cozy caf\u00e9, where the rich aroma of coffee mingles with the sound of rain tapping on glass, becomes exceedingly inviting. Tomorrow unfolds not just as a day marked by weather, but as a chance to embrace the beauty in the mundane as the city breathes and thrives beneath its moody sky.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2025-12-18 19:34:17"
 }
