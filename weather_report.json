@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-19T15:50:00+00:00",
+            "timestamp": "2025-12-19T19:50:00+00:00",
             "temperature_f": 57.2,
             "temperature_c": 14,
             "humidity": 93.698536677741,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Rain and Fog/Mist"
+            "wind_speed_mph": 53.875908,
+            "wind_direction": 200,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-12-19T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2025-12-19T15:00:00-05:00",
                 "endTime": "2025-12-19T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 95
+                    "value": 56
                 },
-                "windSpeed": "16 to 28 mph",
+                "windSpeed": "16 to 21 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100/tsra,90?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain before 1pm, then rain and isolated thunderstorms. Cloudy. High near 59, with temperatures falling to around 52 in the afternoon. Southwest wind 16 to 28 mph, with gusts as high as 55 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely and patchy fog. Mostly cloudy. High near 59, with temperatures falling to around 52 in the afternoon. Southwest wind 16 to 21 mph, with gusts as high as 38 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -46,17 +46,17 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 26
+                    "value": 43
                 },
-                "windSpeed": "16 to 20 mph",
+                "windSpeed": "16 to 22 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/sct?size=medium",
-                "shortForecast": "Chance Rain Showers then Partly Cloudy",
-                "detailedForecast": "A chance of rain showers before 9pm. Partly cloudy, with a low around 27. West wind 16 to 20 mph, with gusts as high as 43 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,40/wind_sct?size=medium",
+                "shortForecast": "Chance Light Rain then Partly Cloudy",
+                "detailedForecast": "A chance of rain before 10pm. Partly cloudy, with a low around 27. West wind 16 to 22 mph, with gusts as high as 43 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston today, the atmosphere hangs heavy with the promise of rain, casting a muted pall over the city. The skies, a quilt of gray, bid farewell to the dawn's fleeting moments of clarity, yielding instead to persistent rain that began its descent before the clock struck one. As the afternoon unfolds, expect not only scattered showers but also the rumble of isolated thunderstorms, all playing out against a backdrop of clouds that seem determined to snuff out any lingering rays of sunlight. A brisk southwest wind rises to meet the gloom, swirling ominously, making it feel even cooler as temperatures dip to a shivery 52 degrees.\n\nAs twilight approaches, the rain may relent slightly, presenting a brief interlude of partly cloudy skies before nightfall. With a low settling down around 27 degrees, a chill will certainly settle in, encouraging anyone venturing outside this evening to bundle up against the bracing air. Opt for layers\u2014perhaps a sturdy jacket to fend off the winds, paired with a cozy sweater and something waterproof on the outside. Given the weather\u2019s temperament, this day lends itself to reflective pursuits: the charm of a local caf\u00e9 beckons, where one might savor a warm drink while watching the world outside soften and blur in the rain. Whether tucked into a book or engaged in conversation, today invites moments of quiet contemplation rather than outdoor revelry.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2025-12-19 11:09:04"
+    "weather_report": "In Boston, this afternoon unfolds beneath a quilt of thick clouds, a dance of rain and wind creating a somewhat dreary tableau. The air feels heavy with the promise of precipitation; a light rain, perhaps accompanied by fleeting patches of fog, offers a reminder that winter is here, close at hand. As the afternoon progresses into the evening, the temperatures will drop, inviting a chill that wraps around the city like a gentle but firm embrace. Winds gust vigorously, a constant companion to the rain, making this an occasion to seek shelter and wear layers against the chill.\n\nAs night approaches and the chance of rain lingers before retreating, the atmosphere transforms into one suitable for quiet indoor pursuits. The dim glow of the streetlights reflects off wet pavement, creating a moody ambiance perfect for a warm mug of tea or coffee, perhaps alongside a good book by the fire. Those venturing out should dress comfortably, with a warm coat, scarf, and sturdy shoes to navigate the slick conditions, while a thoughtful dash of color might brighten this otherwise muted day. A stroll along the waterfront could be refreshing, but it might be wise to stop in at a local caf\u00e9 to savor the warmth, allowing the sights and sounds of a rainy Boston to wash over one as the day draws to a close.",
+    "color_code": "#4A4B4D",
+    "timestamp": "2025-12-19 15:08:10"
 }
