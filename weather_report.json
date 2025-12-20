@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-20T11:50:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 50.485228998076,
-            "wind_speed_mph": 49.688244000000005,
-            "wind_direction": 280,
+            "timestamp": "2025-12-20T15:50:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": null,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 230,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-20T03:00:00-05:00",
-                "endTime": "2025-12-20T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 27. West wind around 13 mph, with gusts as high as 41 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-12-20T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-20T11:00:00-05:00",
                 "endTime": "2025-12-20T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 38,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "6 to 10 mph",
-                "windDirection": "W",
+                "windSpeed": "8 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 38. West wind 6 to 10 mph, with gusts as high as 29 mph."
+                "detailedForecast": "Mostly sunny, with a high near 38. Southwest wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-20T18:00:00-05:00",
+                "endTime": "2025-12-21T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 31,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "6 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy. Low around 31, with temperatures rising to around 37 overnight. Southwest wind 6 to 15 mph."
             }
         ]
     },
-    "weather_report": "An early winter's morning greets Boston as the remnants of night give way to the pale light of dawn, painting the sky in soft, muted hues. With temperatures lingering around the frigid edge of 27 degrees, a brisk west wind whispers through the streets, creating a slight chill as it swirls around corners and between buildings. The day ahead promises a gradual warming, reaching a modest high of 38, as the sun emerges to bathe the city in mostly sunny skies. Though gentle, the winds will continue to tease, gusting at times, reminding us of the season's crispness.\n\nAs you step out, layering will be your steadfast ally; a warm coat, perhaps accompanied by a snug scarf, will keep the chilly breeze at bay. Consider donning sturdy boots to navigate the sidewalks, possibly dusted with frost from the night. The inviting sun, though brightening the day, will not offer much warmth; prior ventures may have their lingering bite, but a light glove will add comfort without encumbering your movements. \n\nFor those looking to embrace the day, a brisk walk in one of Boston's parks could be refreshing. The quiet of the morning feels perfect for sipping a warm drink at a sidewalk caf\u00e9 or taking in the sights of nature's subtle winter elegance afoot. Or perhaps a visit to one of the city\u2019s renowned museums could suit your fancy, where art and culture bask in warmth without the chill. A day like this, where nature hints at nourishment through simplicity, invites soul-gathering experiences from the heart of the city to the coziness of your own home.",
-    "color_code": "#C0D6E4",
-    "timestamp": "2025-12-20 07:11:51"
+    "weather_report": "A crisp morning has unfolded over Boston, the sky a radiant canvas of blue, unmarred by clouds, providing a refreshing backdrop as the day gradually warms to a comfortable chill. With temperatures lingering around thirty-eight degrees, the southwest wind offers a gentle caress, making the air feel both lively and invigorating. Yet as twilight nears, a shift awaits; clouds will sweep in, and the air will warm slightly to embrace a cooler evening, blanketing the city in mysterious anticipation.\n\nAs you traverse the streets, an easy layering of clothing is wise\u2014a cozy sweater beneath a jacket will serve you well, allowing for adaptability as the sun dips below the horizon. With the day unfolding, perhaps a quiet visit to a local caf\u00e9 beckons, where the warmth of a mug cradled in your hands contrasts with the refreshing air outside. Alternatively, a stroll through a nearby park could offer moments of tranquil reflection as you absorb the beauty of this fleeting winter day before the clouds take over. Unquestionably, Boston stands ready to enchant you, in both the clarity of daylight and the gentle mystery of the night that is soon to embrace it.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-12-20 11:07:50"
 }
