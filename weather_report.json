@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-21T11:50:00+00:00",
-            "temperature_f": 42.8,
-            "temperature_c": 6,
-            "humidity": 70.299266961976,
-            "wind_speed_mph": 49.688244000000005,
-            "wind_direction": 220,
+            "timestamp": "2025-12-21T15:50:00+00:00",
+            "temperature_f": 46.4,
+            "temperature_c": 8,
+            "humidity": null,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-21T03:00:00-05:00",
-                "endTime": "2025-12-21T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 32,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 32, with temperatures rising to around 38 overnight. Southwest wind around 12 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-12-21T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-21T11:00:00-05:00",
                 "endTime": "2025-12-21T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 0
                 },
                 "windSpeed": "10 to 14 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 44, with temperatures falling to around 34 in the afternoon. West wind 10 to 14 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-21T18:00:00-05:00",
+                "endTime": "2025-12-22T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 22,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 22. Northwest wind around 10 mph, with gusts as high as 24 mph."
             }
         ]
     },
-    "weather_report": "Beneath a canopy of mostly cloudy skies, Boston awakens to whispers of colder air teasing the skin, as the temperature gently hovers around the low thirties. A brisk southwest wind, carrying the promise of respite, gusts carry hints of movement through the muted blues and grays of the morning. Clarity is not a gift of the hour; there\u2019s a blanket of chill that holds sway over the landscape, yet the atmosphere is charged with potential. As the day unfolds, the sun is poised to break through, casting a golden warmth over the city, with highs flirting near the mid-forties. By afternoon, however, the air will begin to cool again, a reminder of winter's firm yet fragile grip on the season.\n\nIt is a day that sways between the contemplative solitude of an early winter morning and the cheerful resurgence promised by an afternoon of sunshine. Those venturing out should dress warmly against the awakened chill, perhaps wrapping themselves in layers of wool and soft fabrics, suitable for both the airy outdoor stroll and an afternoon respite indoors over a hot drink. It would be a fine moment to take a leisurely walk through the quieter streets, watch the resplendent sun as it dips low in the horizon, or perhaps lose oneself in the inviting nooks of a local caf\u00e9. Indulging in the simple pleasures of life\u2014a book, a warm cup, and the charm of a city slowly coming alive\u2014will make this day truly enjoyable.",
-    "color_code": "#A8CFC4",
-    "timestamp": "2025-12-21 07:12:09"
+    "weather_report": "In the heart of Boston, this morning unfurls under a bright, sunlit canvas where a clear, azure sky reigns. The sun casts a gentle glow, though the chill in the air hints at the descent of temperatures from a high of 44 to a cooler, crisper 34 as the day progresses. The west wind, brisk at times, whispers through the city, carrying with it the scents of winter and the promise of a serene day. While the gusts may ruffle the leaves and tease those unprepared, the absence of fog assures clarity in your surroundings, inviting you to step outside and embrace the vibrant energy of the moment.\n\nAs you contemplate your day, consider dressing in layers to accommodate the shifting temperatures; perhaps a warm sweater beneath a sturdy coat, complemented by a soft scarf to shield against that invigorating breeze. The afternoon offers a fine opportunity for a leisurely stroll through a nearby park or an exploration of the quaint streets lined with various shops, where the holiday spirit quietly flutters. Whether sipping on a steaming coffee from a local caf\u00e9 or enjoying a leisurely read in the glow of sunlight, take a moment to soak in the beauty of this winter day, letting the cool air refresh your senses and lift your spirits.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-12-21 11:07:58"
 }
