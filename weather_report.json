@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-22T07:45:00+00:00",
-            "temperature_f": 28.4,
-            "temperature_c": -2,
-            "humidity": 50.193594861825,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 280,
+            "timestamp": "2025-12-22T12:00:00+00:00",
+            "temperature_f": 24.8,
+            "temperature_c": -4,
+            "humidity": 49.604297542623,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 300,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-22T03:00:00-05:00",
-                "endTime": "2025-12-22T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 22,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 22. Northwest wind around 13 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-12-22T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-22T07:00:00-05:00",
                 "endTime": "2025-12-22T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 32,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 32. West wind 5 to 13 mph, with gusts as high as 24 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-22T18:00:00-05:00",
+                "endTime": "2025-12-23T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 26,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "3 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 26. Southwest wind around 3 mph."
             }
         ]
     },
-    "weather_report": "The night air in Boston carries a crisp chill, with temperatures dipping to around 22, cloaking the city in a tranquil stillness. A Northwest breeze whispers through the streets, enhancing the sense of solitude that blankets the midnight hour. As the city holds its breath, the skies are mostly clear, unmarred by fog or mist; rather, they offer a gentle expanse, inviting nighttime wanderers to embrace the peace of the hour.\n\nCome morning, the sun will rise with a brilliant intent, casting a warm glow on the frost-kissed landscape and hinting at a high of 32. With a soft West wind supporting the sun's ascent, the day promises to unfold beautifully. To navigate this winter's charm, dressing in layers will be key: a snug scarf, a warm coat, perhaps a felted hat to ward off the crisp air, will accompany your morning journey. Whether you choose a quiet stroll along the Charles River or a serene visit to a tucked-away caf\u00e9, the day's invitation is one to relish the beauty of winter in the city. The prospect of sunlit buildings reflecting off icy sidewalks creates a canvas worth stepping into, urging you to find delight in the mundane pleasures of a winter day.",
-    "color_code": "#0C4E76",
-    "timestamp": "2025-12-22 03:11:57"
+    "weather_report": "In the heart of Boston, the day breaks with a gentle embrace of sunlight, ushering in a serene and refreshing ambiance. The air is crisp, invigorated by a westerly breeze that dances through the streets, carrying with it the promise of warmth, reaching a delightful peak of near 32 degrees. As the hours unfold, the clarity of the sky remains undisturbed, inviting one to gaze upwards and relish the fading traces of morning fog, now but a whisper of what was. \n\nAs evening approaches, the tranquility will yield to a swath of clouds, signaling a retreat into a cooler embrace of around 26 degrees. A soft southwest breeze will linger, hardly a distraction, suggesting that one might wrap themselves in a light jacket or scarf for comfort against the evening chill. Given the pleasant daylight, the world outside calls for modest pursuits\u2014a stroll through the Commons, a visit to a quaint caf\u00e9, or perhaps a leisurely read at a window overlooking the gently bustling streets. The subtle transition from day to night invites a softness in activity, where reflection meets a soothing backdrop of soft hues painting the horizon.",
+    "color_code": "#D6CFCB",
+    "timestamp": "2025-12-22 07:14:15"
 }
