@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-21T19:50:00+00:00",
-            "temperature_f": 39.2,
-            "temperature_c": 4,
-            "humidity": null,
-            "wind_speed_mph": 49.688244000000005,
-            "wind_direction": 280,
-            "description": "Clear"
+            "timestamp": "2025-12-22T00:25:00+00:00",
+            "temperature_f": 33.8,
+            "temperature_c": 1,
+            "humidity": 40.343261175483,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-12-21T14:00:00-05:00",
-                "endTime": "2025-12-21T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 44, with temperatures falling to around 34 in the afternoon. West wind around 13 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-21T18:00:00-05:00",
+                "startTime": "2025-12-21T19:00:00-05:00",
                 "endTime": "2025-12-22T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 22,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "16 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 22. Northwest wind around 10 mph, with gusts as high as 24 mph."
+                "detailedForecast": "Mostly clear, with a low around 22. Northwest wind around 16 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2025-12-22T06:00:00-05:00",
+                "endTime": "2025-12-22T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 33. West wind 10 to 15 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sun bathes the city in a gentle light, casting long shadows as daylight wanes. With a brisk westward wind dancing through the streets, temperatures are a crisp embrace, perfect for those who appreciate the chill of winter aromatics. The air is clear, and any remnants of fog have surrendered to the day's clarity, allowing for those piercing blue skies to stretch across the horizon. Against this backdrop, the scenery presents itself rather pleasantly, as if urging the locals to step outside and indulge in simple pleasures\u2014perhaps a serene walk along the Charles River or a quiet cup of coffee at a local caf\u00e9, where warmth can be found in both beverage and company.\n\nAs evening approaches, expect the clarity to deepen, morphing into a starry canvas that twinkles softly above. With temperatures dipping to a gentle 22 degrees, layering will be key. A warm coat paired with a snug scarf will provide comfort against the cool breeze, creating a suitable armor for an outdoor excursion. One might consider visiting a favorite bookstore or enjoying a meal at that inviting eatery down the block. Evenings like this hold an air of possibility, encouraging encounters with old friends or cozy gatherings around the flickering light of candles. So, in this moment of tranquil beauty, find solace in the city\u2019s embrace, weaving through the chilly air with gratitude for the day\u2019s bright offerings.",
-    "color_code": "#87CEEB",
-    "timestamp": "2025-12-21 15:07:56"
+    "weather_report": "As the evening drapes itself over Boston, the air carries a crisp sharpness that invites introspection. The night is mostly clear, accentuated by a low that plunges into the chill of 22 degrees, while a northwest wind streaks through with a determined breath. Gusts whip around, reminding us of winter\u2019s spirited embrace, perhaps nudging passersby to tuck their scarves a little tighter and draw their coats closer. The shadows of the city stretch beneath a canopy of stars, where the dim glow from streetlamps reflects off the quiet streets, creating a serene atmosphere suited for contemplative wanderings or a gentle stroll along the Charles.\n\nCome morning, Boston will awaken to a bright sun that will paint the day with warmth reaching up to a high of 33 degrees, escorted by a more leisurely breeze from the west. The clear skies beckon outdoor activities, representing an ideal day to engage in simple pleasures. Perhaps a visit to a quaint caf\u00e9 for a warm beverage or a leisurely walk through one of Boston's scenic parks, where the winter landscape offers a serene serenity to the mind. As one ventures out, layered clothing will serve as a wise choice, balancing the daytime sun against the lingering chill that the evening will surely return. An enriching day awaits those who embrace the quiet beauty of this winter\u2019s day in the heart of Boston.",
+    "color_code": "#2b2d5e",
+    "timestamp": "2025-12-21 19:36:39"
 }
