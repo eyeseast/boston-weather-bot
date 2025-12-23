@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-23T08:00:00+00:00",
-            "temperature_f": 21.2,
-            "temperature_c": -6,
-            "humidity": 85.746865562995,
+            "timestamp": "2025-12-23T11:53:00+00:00",
+            "temperature_f": 24.08,
+            "temperature_c": -4.4,
+            "humidity": 83.972195328857,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-23T03:00:00-05:00",
-                "endTime": "2025-12-23T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 25,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 6
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 25. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-12-23T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-23T07:00:00-05:00",
                 "endTime": "2025-12-23T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 36,
@@ -52,11 +33,30 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/snow,50/snow,70?size=medium",
                 "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely between 7am and 1pm, then snow likely and patchy fog. Cloudy, with a high near 36. South wind around 6 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Snow likely before 1pm, then snow likely and patchy fog. Cloudy, with a high near 36. South wind around 6 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-23T18:00:00-05:00",
+                "endTime": "2025-12-24T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 30,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 84
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,80/snow_fzra,30?size=medium",
+                "shortForecast": "Light Snow",
+                "detailedForecast": "Snow and patchy fog before 7pm, then patchy fog and rain and snow between 7pm and 1am, then patchy fog and a slight chance of snow between 1am and 3am, then a slight chance of freezing rain between 3am and 4am. Mostly cloudy, with a low around 30. Southwest wind 3 to 10 mph, with gusts as high as 29 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "The night drapes itself over Boston, the air here touchingly crisp, with whiffs of what\u2019s to come as a chill lingers in the shadows. As you step outside, an optimistic, yet slightly demanding, southwest breeze courses through, rustling through the streets and reminding you that winter is firmly in control. With the dawn, the clouds will conspire\u2014bringing in likely flakes of snow and patchy fog that will weave between buildings and over the harbor, transforming the city into a hushed winter landscape, softened by the whiteness approaching.\n\nAs the day unfurls, it beckons you to don your warmest layers, perhaps a thick, knitted scarf and a sturdy pair of boots to navigate what might become a slippery scene. Consider a stroll through an uncrowded park, the anticipation of a snow-covered path inviting you to breathe in deeply and savor the frosty air. Or treasure a quiet moment inside a cozy caf\u00e9, watching the world blur in and out of visibility through a window misted with warmth. Despite the forecast, beauty will find a way among the clouds, making the day's chill not just bearable, but a part of the season\u2019s charm.",
-    "color_code": "#6c7582",
-    "timestamp": "2025-12-23 03:11:22"
+    "weather_report": "In Boston this morning, a muted gray sky drapes over the city, hinting at the impending snow that will likely blanket everything by early afternoon. As you glance out, the air holds a certain weight, hanging thick with the promise of fog and gentle, persistent snowfall. The temperature, finding its way around a chilly 36 degrees, will wrap the day in a brisk embrace, inviting layered garments that can ward off the chill. A scarf, perhaps in a jaunty color, will guard your neck against the brisk south wind that whispers through the streets.\n\nAs evening approaches, snow will have made its quiet entrance, accompanied by a veil of fog that renders the cityscape almost dreamlike. With temperatures dropping to a frosty 30 degrees, the mix of snow and rain will dance lightly through the air, offering a soft spectacle as twilight descends. For those venturing out, a water-resistant coat and sturdy boots will serve well, protecting against the damp underfoot. Perhaps a casual stroll through a nearby park will do you good, where the serene ambiance allows for a moment of reflection amidst the wintery scene. Nestle into the evening with a steaming cup of cocoa, watching the snow kiss the world outside, and let the gentle hush of the snowfall wrap around you like a comforting embrace.",
+    "color_code": "#B0C4D6",
+    "timestamp": "2025-12-23 07:14:04"
 }
