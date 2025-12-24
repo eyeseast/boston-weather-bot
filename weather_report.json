@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-24T08:00:00+00:00",
-            "temperature_f": 33.8,
-            "temperature_c": 1,
-            "humidity": 93.032455771759,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 240,
-            "description": "Fog/Mist"
+            "timestamp": "2025-12-24T12:00:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 80.519354085991,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-24T03:00:00-05:00",
-                "endTime": "2025-12-24T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 32,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 14
-                },
-                "windSpeed": "6 to 10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog before 5am. Mostly cloudy, with a low around 32. West wind 6 to 10 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2025-12-24T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-24T07:00:00-05:00",
                 "endTime": "2025-12-24T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 40,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 21
+                    "value": 20
                 },
-                "windSpeed": "10 to 21 mph",
+                "windSpeed": "12 to 20 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_bkn/snow,20?size=medium",
-                "shortForecast": "Partly Sunny then Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow between noon and 3pm. Partly sunny. High near 40, with temperatures falling to around 34 in the afternoon. Northwest wind 10 to 21 mph, with gusts as high as 38 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Snow Showers then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of snow showers before 8am, then a slight chance of rain showers between 8am and 2pm. Partly sunny. High near 40, with temperatures falling to around 34 in the afternoon. Northwest wind 12 to 20 mph, with gusts as high as 36 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-24T18:00:00-05:00",
+                "endTime": "2025-12-25T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 25,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 12
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 25. Northwest wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning, Boston awakens to a blanket of patchy fog, weaving ethereal veils around the city until the sun can chase it away. With temperatures hovering around a chilly 32 degrees, the air carries a briskness that whispers of winter's embrace. The west wind, a gentle yet persistent companion, stirs the leaves and rustles the quiet streets, gusting to 21 mph. As the day begins, a promise of clarity beckons, though hidden under mostly cloudy skies.\n\nAs noon approaches, a slight chance of snow may grace the landscape, poised delicately between the hours of noon and three, although it may give way to moments of brightness and fleeting sunlight. By afternoon, temperatures will drift toward a milder 34 degrees, but the chill will remain, accentuated by the northwest winds that carry both bite and refreshment. Dressed in layers, one may find comfort in a warm coat, perhaps complemented by a sturdy scarf and gloves, layering against the sharpness of the breeze. With a touch of spontaneity, a leisurely stroll down the winding paths of the Common could evoke a sense of peace, allowing for quiet reflection or a chance encounter with the city's winter spirit. Engage in a cup of hot coffee from a local caf\u00e9, and watch the world move gently around you, the fog receding and revealing the beauty of the day ahead.",
-    "color_code": "#666699",
-    "timestamp": "2025-12-24 03:11:09"
+    "weather_report": "Dawn breaks over Boston, painting the sky in soft whispers of lavender and gray. There's a slight chill in the air, a crisp reminder of the season, with temperatures teetering just above freezing. This morning, the city is graced with a touch of uncertainty\u2014a slight chance of snow showers lingers in the early hours, giving way, perhaps, to the gentle dance of raindrops by mid-morning. As the day unfolds, the clouds will part just enough to allow the sun to peek through, ushering in a partly sunny respite, though the afternoon will see temperatures sinking to a cooler embrace.\n\nAs you navigate the brisk streets, a warm layer is advisable, perhaps a cozy knit sweater under a reliable coat, accompanied by a sturdy scarf against the northwest winds that promise to whip and gust, reminding you of winter\u2019s tenacity. It\u2019s a good day for a quiet walk among the frosted trees or a moment spent sipping a warm drink at a favorite caf\u00e9, watching the world pass gently by. While the day may not spark flamboyant outdoor adventures, it carries a comfort of routine, an invitation to indulge in the simplicity of life.",
+    "color_code": "#A8BFB2",
+    "timestamp": "2025-12-24 07:13:40"
 }
