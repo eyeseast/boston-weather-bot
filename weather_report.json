@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-23T19:45:00+00:00",
-            "temperature_f": 37.4,
-            "temperature_c": 3,
-            "humidity": 74.996958768522,
+            "timestamp": "2025-12-24T00:20:00+00:00",
+            "temperature_f": 33.8,
+            "temperature_c": 1,
+            "humidity": 100,
             "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 170,
-            "description": "Cloudy"
+            "wind_direction": 150,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-12-23T15:00:00-05:00",
-                "endTime": "2025-12-23T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 55
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,60?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and rain and snow. Cloudy, with a high near 38. Southeast wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-23T18:00:00-05:00",
+                "startTime": "2025-12-23T19:00:00-05:00",
                 "endTime": "2025-12-24T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 75
+                    "value": 98
                 },
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,80/snow,50?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and rain and snow before 1am, then patchy fog and a slight chance of rain and snow. Mostly cloudy, with a low around 32. Southwest wind 2 to 7 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,100/snow,60?size=medium",
+                "shortForecast": "Rain And Snow Showers",
+                "detailedForecast": "Rain and snow showers before 2am, then a slight chance of rain and snow showers between 2am and 3am. Cloudy, with a low around 32. Southwest wind 7 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-12-24T06:00:00-05:00",
+                "endTime": "2025-12-24T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 40,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 22
+                },
+                "windSpeed": "12 to 22 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_bkn/snow,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of rain showers between noon and 1pm, then a slight chance of snow showers between 1pm and 4pm. Mostly cloudy. High near 40, with temperatures falling to around 32 in the afternoon. Northwest wind 12 to 22 mph, with gusts as high as 38 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the heart of Boston this afternoon, the air embraces a chilled tranquility, dense with the scent of impending precipitation. Deep gray clouds loom overhead, their weight bearing down, hinting at the rain and snow making a tentative entrance. As the city holds its breath under this shroud, patchy fog dances at the edges, softening the once-vibrant lines of the skyline. Those venturing outdoors would do well to cloak themselves in layers\u2014perhaps a warm coat, scarf, and waterproof boots\u2014each item a shield against the damp chill that envelops the afternoon.\n\nAs evening descends, the forecast carries a whisper of continued fog, mingling with an 80% chance of snowflakes drifting down. While the atmosphere outside may feel less than inviting, there remains a charm in the muted tones of winter evenings. One might find solace in the cozy glow of a local caf\u00e9, sipping a warm beverage while watching the world blur outside. Light reading or quiet conversation could serve as the perfect accompaniment on this subdued day, allowing the city to cradle you in its quieter moments.",
-    "color_code": "#A9B5C7",
-    "timestamp": "2025-12-23 15:08:19"
+    "weather_report": "As twilight envelops Boston, the evening air is laced with the chill of impending snowfall. Rain and snow showers dance fleetingly, hinting at a draped curtain of white that may not amount to much\u2014a whisper of winter rather than a tempest. Clouds hang heavy, casting an overcast gloom that dulls the city\u2019s vibrancy, while a moderate wind rustles, sending a chill through the bones. It\u2019s a time to don layers\u2014perhaps a sturdy coat lined with warmth, a scarf to fend off the evening\u2019s bite, and boots ready to traverse sidewalks kissed by the season's touch of frost.\n\nTomorrow promises to maintain a certain grayness, with a light chance of lingering showers. Though the temperature nudges upward, the afternoon will bring a sense of retreat as the warmth wanes. The northwest wind gusts like a breath from the past, adding a raw edge to outdoor pursuits. One might find solace in the cozy confines of a local caf\u00e9, sipping on a warm beverage while watching the world through frosted glass, or take a brisk stroll wrapped in layers that reflect the muted colors of the day. As December edges toward its conclusion, the air thick with possibility, let the quietude of this slow winter evening guide your plans.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2025-12-23 19:34:23"
 }
