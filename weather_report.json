@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-24T19:50:00+00:00",
-            "temperature_f": 33.8,
-            "temperature_c": 1,
-            "humidity": 59.550291042629,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 350,
+            "timestamp": "2025-12-25T00:20:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 59.292531471932,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 330,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-12-24T15:00:00-05:00",
-                "endTime": "2025-12-24T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 16
-                },
-                "windSpeed": "7 to 12 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
-                "shortForecast": "Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow before 4pm. Cloudy. High near 39, with temperatures falling to around 32 in the afternoon. North wind 7 to 12 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-24T18:00:00-05:00",
+                "startTime": "2025-12-24T19:00:00-05:00",
                 "endTime": "2025-12-25T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 25,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 13
+                    "value": 6
                 },
                 "windSpeed": "2 to 6 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 25. West wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Christmas Day",
+                "startTime": "2025-12-25T06:00:00-05:00",
+                "endTime": "2025-12-25T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 40,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 18
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Snow Showers then Mostly Cloudy",
+                "detailedForecast": "A slight chance of snow showers between 9am and 11am. Mostly cloudy. High near 40, with temperatures falling to around 34 in the afternoon. West wind 6 to 12 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Boston today, the atmosphere is a tapestry of muted grays, with clouds blanketing the sky, casting a gentle shadow over the city. The air, brisk and charged with a hint of winter\u2019s breath, gives promise of a slight chance of snow this afternoon, though it feels more like the whisper of a chill than an impending storm. As the temperature hovers around a chill-inducing thirty-nine degrees, one can sense the day transitioning \u2014 a modest freeze waiting to settle in as the sun begins its descent.\n\nAs dusk approaches, temperatures will dip further towards a more wintry twenty-five. The wind, a spirited dance of north and west, will sweep through the streets, reminding all of the tenacity of the season. In the face of such wintry shades, it\u2019s wise to bundle up; a cozy scarf, a well-insulated coat, and sturdy boots that embrace the need to navigate icy patches would be prudent choices. With evening settling in, perhaps one might find solace in a quiet caf\u00e9, sipping a warm drink while watching the world outside blur into soft shadows. Or take a moment to stroll through a nearby park, where the cool air invigorates the spirit, if only briefly, before retreating to the warmth of home.",
-    "color_code": "#B0C4D2",
-    "timestamp": "2025-12-24 15:07:53"
+    "weather_report": "As the gentle rhythm of the evening settles in, Boston finds itself wrapped in a cloak of cloud cover, the temperature hovering around a brisk 25 degrees. A whisper of wind meanders through the streets, its breath barely a caress, yet enough to remind one of the chill biting at exposed skin. Tonight offers a muted palette, where the silhouettes of the skyline merge with the darkening sky, inviting a reflective pause before the festivities of Christmas Day unfold.\n\nLooking ahead, the canvas of tomorrow holds the promise of fleeting snow showers, poised delicately between the hours of morning, as if nature herself is allowing a subtle hint of enchantment to linger in the air. While the clouds may steal the sun's cheerful glow, the temperatures will waver around 40 degrees, dipping slightly as the day wears on. The atmosphere may feel restless, with gusts at times fierce enough to jolt a wandering soul from their reverie. Dressing warmly will be essential\u2014think layered attire, a cozy scarf to ward off the drafts, and sturdy shoes for brisk offers of an impromptu stroll among adorned streets or perhaps a quiet coffee shop where one can savor seasonal beverages and the warmth of companionship.\n\nSuch a day will invite a nurturing embrace of calm endeavors. A late afternoon adventure to a cozy local bakery might yield the sweet solace of fresh pastries, while a leisurely meander through nearby parks could reveal the bare branches etched against the moody sky. Consider curling up with a good book or indulging in quiet reflections as the world outside continues to transform, unhurried by the chill. Tonight, as the lights of the city twinkle faintly against the clair de lune, let the moment take you, softly wrapped in the beauty of a winter's eve.",
+    "color_code": "#4B4F5B",
+    "timestamp": "2025-12-24 19:34:03"
 }
