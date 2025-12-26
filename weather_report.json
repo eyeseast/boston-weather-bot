@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-26T07:50:00+00:00",
-            "temperature_f": 15.8,
-            "temperature_c": -9,
-            "humidity": null,
-            "wind_speed_mph": 49.688244000000005,
-            "wind_direction": 330,
+            "timestamp": "2025-12-26T12:00:00+00:00",
+            "temperature_f": 12.2,
+            "temperature_c": -11,
+            "humidity": 47.477704917624,
+            "wind_speed_mph": 41.39344800000001,
+            "wind_direction": 320,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-26T03:00:00-05:00",
-                "endTime": "2025-12-26T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 12,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 12. Wind chill values as low as -1. Northwest wind around 14 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2025-12-26T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-26T07:00:00-05:00",
                 "endTime": "2025-12-26T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 24,
@@ -52,11 +33,30 @@
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 24. Wind chill values as low as -1. North wind 2 to 10 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Mostly sunny, with a high near 24. Wind chill values as low as -1. North wind 2 to 10 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-26T18:00:00-05:00",
+                "endTime": "2025-12-27T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 18,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 68
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/snow,50/snow,70?size=medium",
+                "shortForecast": "Light Snow Likely",
+                "detailedForecast": "Snow likely. Mostly cloudy, with a low around 18. North wind 2 to 8 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "In the quiet hours of this early morning, Boston is cloaked in a serene darkness, only punctuated by the flicker of city lights that twinkle like distant stars. The air carries a distinct chill, urging you to wrap yourself in warmth as the temperatures dip to a brisk twelve degrees. With a biting northwest wind suggesting wind chill values that flirt with the uncomfortable, those venturing out should layer with care. A stout winter coat, perhaps a knit cap to guard against the cold, and sturdy boots to crunch through any frost would serve one well.\n\nAs dawn unfurls, the day promises to greet us with mostly sunny skies, allowing the crisp light to dance on rooftops and shine on neighborhood walks. A high near 24 degrees beckons, yet the wind remains brisk, reminding us to remain vigilant against the cold. It is a day that calls for quiet contemplation, perhaps a stroll through the familiar streets or a visit to a cozy caf\u00e9 where one can sip a warm drink while watching the world shift into motion. Gatherings with friends in atmospheric spaces, filled with laughter and conversation, would find a warm welcome under these conditions. Embrace the day with a mindful spirit, aware of both the chill and the beauty it brings, as you navigate this winter canvas with ease and grace.",
-    "color_code": "#4A4A4A",
-    "timestamp": "2025-12-26 03:10:39"
+    "weather_report": "This morning in Boston, a gentle embrace of winter lingers in the air, filtered through a mostly sunny sky awakening with shades of pastel, hinting at a crisp but inviting day ahead. As the sun climbs, the promise of a high near twenty-four degrees accompanies a gentle north wind\u2014though do be mindful of the chilling wind chill that may drop the feel to a shivering one. The view outside seems clear, lacking in fog's murky hold, allowing the city\u2019s contours to emerge sharply against the panorama.\n\nYet, as the day transitions into evening, foreboding clouds gather, bringing whispers of snow\u2014likely to arrive with the night, painting the wintry landscape in soft white. With temperatures dipping to around eighteen degrees, one might don layers, perhaps a warm scarf and a cozy hat, to ward off the brisk air. Consider cozying up in a local caf\u00e9, perhaps a quiet corner to enjoy a warm beverage while watching the world slip into a snowy embrace. Or take a leisurely stroll through the parks, where the stillness of a winter\u2019s day offers a tranquil respite before the snowfall begins.",
+    "color_code": "#B3D3F3",
+    "timestamp": "2025-12-26 07:13:33"
 }
