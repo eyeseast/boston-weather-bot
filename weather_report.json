@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-25T19:50:00+00:00",
-            "temperature_f": 39.2,
-            "temperature_c": 4,
-            "humidity": 48.118372270448,
+            "timestamp": "2025-12-26T00:15:00+00:00",
+            "temperature_f": 26.6,
+            "temperature_c": -3,
+            "humidity": 42.441354758402,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Cloudy"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Christmas Day",
-                "startTime": "2025-12-25T15:00:00-05:00",
-                "endTime": "2025-12-25T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 41,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "15 to 18 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 41, with temperatures falling to around 35 in the afternoon. Northwest wind 15 to 18 mph, with gusts as high as 35 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-25T18:00:00-05:00",
+                "startTime": "2025-12-25T19:00:00-05:00",
                 "endTime": "2025-12-26T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 12,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 12. Northwest wind 13 to 20 mph, with gusts as high as 36 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2025-12-26T06:00:00-05:00",
+                "endTime": "2025-12-26T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 24,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "5 to 12 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 24. Wind chill values as low as 0. North wind 5 to 12 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, a quiet crispness coats the air, promising a day that teeters delicately between pleasant and brisk. The skies are adorned with the remnants of clouds that dance lazily above, framing the city like an artist's thoughtful brush strokes. Current temperatures hover around a mild 41 degrees, but as the day wanes, they are expected to slip towards a cooler 35, a gentle reminder of the winter's breath. Northwest winds weave through the streets, mingling with the sounds of the season \u2014 the whispers of gusts can be heard, their fresh, invigorating bite urging jackets to be buttoned and scarves to be wrapped a little tighter.\n\nWith the sun peaking out from behind the clouds, there's a crisp clarity to the day, devoid of fog, allowing the city to extend its embrace to the horizon. As night approaches, the chill will deepen, dipping into a nearly biting low of 12 degrees, a stark contrast that invites indoor retreats. It is the perfect opportunity for a cozy gathering, perhaps a visit to a nearby caf\u00e9 to savor a warm drink while watching the world whir past outside. Even a brisk walk through blossoming winter trees or past twinkling storefronts could lift the spirit, though one must be prepared to don sturdy outerwear to fend off the cooling gusts. As the sun inches away, the lingering warmth of the day reminds us of fleeting moments, offering solace in the embrace of shared stories and laughter that echo warmly into the night.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2025-12-25 15:08:05"
+    "weather_report": "Tonight in Boston, a tranquil stillness envelops the city. The skies are mostly clear, allowing for a nice expanse of visibility, broken only by the crisp chill that the night brings. A northwest wind carries whispers of frost, beckoning you to layer up appropriately. With temperatures dipping to around a chilling twelve degrees, one should reach for a warm coat, perhaps a snug scarf, and gloves to ward off the bite of the wind.\n\nLooking ahead to Friday, the dawn will bring mostly sunny skies, hinting at a refreshing brightness that balances the cold. However, be prepared to contend with a formidable wind chill, as the temperatures may feel as low as zero. A gentle north wind will persist throughout the day, adding a brisk edge to your strolls around the neighborhood. This combination of raw air and bright sunlight provides an opportunity for a brisk walk through one of Boston's many parks or an outing to a cozy caf\u00e9, where a warming cup of tea or coffee can be the perfect antidote to the chill. As you move through the city, let the fresh air revive your senses, ideal for a day spent among the city's charm, wrapped in warmth and a good book.",
+    "color_code": "#2c3e50",
+    "timestamp": "2025-12-25 19:34:19"
 }
