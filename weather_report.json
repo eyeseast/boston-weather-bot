@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-27T07:50:00+00:00",
+            "timestamp": "2025-12-27T11:40:00+00:00",
             "temperature_f": 17.6,
             "temperature_c": -8,
-            "humidity": 85.520844858228,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 330,
-            "description": "Light Snow and Fog/Mist"
+            "humidity": 79.00759824283,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 350,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-27T03:00:00-05:00",
-                "endTime": "2025-12-27T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 18,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 41
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/snow,40?size=medium",
-                "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow and patchy fog. Cloudy, with a low around 18. North wind around 6 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2025-12-27T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-27T07:00:00-05:00",
                 "endTime": "2025-12-27T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 27,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 30
+                    "value": 15
                 },
                 "windSpeed": "5 to 9 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30/bkn?size=medium",
-                "shortForecast": "Chance Light Snow then Partly Sunny",
-                "detailedForecast": "A chance of snow and patchy fog before 7am, then patchy fog and a slight chance of snow between 7am and 9am. Partly sunny, with a high near 27. North wind 5 to 9 mph. Chance of precipitation is 30%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Partly Sunny",
+                "detailedForecast": "Patchy fog and a slight chance of snow before 9am. Partly sunny, with a high near 27. North wind 5 to 9 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-27T18:00:00-05:00",
+                "endTime": "2025-12-28T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 14,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 14. Northwest wind around 3 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of this winter\u2019s night, Boston finds itself wrapped in a tender embrace of patchy fog and the faint promise of snow. The air hangs heavy with a chill that descends below twenty, urging a retreat to layers of warmth. A north wind whispers softly, and the anticipation of a delicate dusting lingers like a secret among the shadows. When dawn breaks, the city will awaken to the remnants of these hazy hours, where snowflakes may flirt briefly with the ground before retreating from the daylight.\n\nAs the morning unfolds, the anticipated fog may still clung to the corners, offering the rarest glimpse of mystery in a city bursting with life. The sunlight will tease out hints of warmth, and while the skies may be partly sunny, a slight chance of snow lingers\u2014a gentle reminder of winter\u2019s presence. It\u2019s a day ideally suited for a well-wrapped stroll through the quieter streets, perhaps a visit to a local caf\u00e9 where the scent of coffee intertwines with the cool air. Those venturing outside should consider donning layers, with warm scarves and gloves to ward off the lingering chill. The day promises both serenity and subtle beauty\u2014perfect for embracing a quiet moment or meandering through the mature trees lining a nearby park, where nature pauses in contemplation.",
-    "color_code": "#7B7B7B",
-    "timestamp": "2025-12-27 03:10:29"
+    "weather_report": "As dawn unfurls over Boston, the city awakens under a veil of subtle mist, remnants of patchy fog lingering in the chill of early morning. The day teeters between clarity and obscurity, with fragile beams of sunlight attempting to pierce through the muted overcast sky. A slight chance of snow flits about, teasing the air but likely to fade as the day progresses. The temperature, huddled around a brisk 27 degrees, nudges Boston toward a wintry charm, albeit with a twinge of discomfort from the biting north wind that meanders through the streets.\n\nAs the evening approaches, the weather promises to settle into a clearer sky, guiding the wind to quiet down to a gentle whisper. For those braving the day ahead, layering becomes essential; a thick scarf to ward off the cold and a warm jacket would keep the chill at bay while one navigates the city\u2019s quiet corners. Perhaps it\u2019s a good time for a stroll along the esplanade, where the glimmers of the Charles River reflect the fleeting sunlight, or a warm cup of coffee at a snug caf\u00e9 can provide a welcome invitation to pause and enjoy the moment. Boston\u2019s spirit may feel muted today, but the allure of its beauty remains steadfast beneath the frosty exterior.",
+    "color_code": "#A2B8E9",
+    "timestamp": "2025-12-27 07:12:34"
 }
