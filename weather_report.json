@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-26T12:00:00+00:00",
-            "temperature_f": 12.2,
-            "temperature_c": -11,
-            "humidity": 47.477704917624,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 320,
+            "timestamp": "2025-12-27T00:20:00+00:00",
+            "temperature_f": 19.4,
+            "temperature_c": -7,
+            "humidity": 62.292098497037,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 80,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2025-12-26T07:00:00-05:00",
-                "endTime": "2025-12-26T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 24,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 10
-                },
-                "windSpeed": "2 to 10 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 24. Wind chill values as low as -1. North wind 2 to 10 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-26T18:00:00-05:00",
+                "startTime": "2025-12-26T19:00:00-05:00",
                 "endTime": "2025-12-27T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 18,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 68
+                    "value": 70
                 },
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "1 to 6 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/snow,50/snow,70?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/snow,70?size=medium",
                 "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely. Mostly cloudy, with a low around 18. North wind 2 to 8 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+                "detailedForecast": "Snow likely after 8pm. Cloudy, with a low around 18. North wind 1 to 6 mph. Chance of precipitation is 70%. New snow accumulation of 2 to 4 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2025-12-27T06:00:00-05:00",
+                "endTime": "2025-12-27T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 28,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 41
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/snow,40/bkn?size=medium",
+                "shortForecast": "Chance Light Snow then Partly Sunny",
+                "detailedForecast": "A chance of snow before 11am. Partly sunny, with a high near 28. North wind 5 to 9 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "This morning in Boston, a gentle embrace of winter lingers in the air, filtered through a mostly sunny sky awakening with shades of pastel, hinting at a crisp but inviting day ahead. As the sun climbs, the promise of a high near twenty-four degrees accompanies a gentle north wind\u2014though do be mindful of the chilling wind chill that may drop the feel to a shivering one. The view outside seems clear, lacking in fog's murky hold, allowing the city\u2019s contours to emerge sharply against the panorama.\n\nYet, as the day transitions into evening, foreboding clouds gather, bringing whispers of snow\u2014likely to arrive with the night, painting the wintry landscape in soft white. With temperatures dipping to around eighteen degrees, one might don layers, perhaps a warm scarf and a cozy hat, to ward off the brisk air. Consider cozying up in a local caf\u00e9, perhaps a quiet corner to enjoy a warm beverage while watching the world slip into a snowy embrace. Or take a leisurely stroll through the parks, where the stillness of a winter\u2019s day offers a tranquil respite before the snowfall begins.",
-    "color_code": "#B3D3F3",
-    "timestamp": "2025-12-26 07:13:33"
+    "weather_report": "As twilight settles over Boston, a quiet chill envelops the city, whispering promises of snow by evening. The clouds loom overhead, cloaking the sky in their heavy embrace, while temperatures hover at a brisk 18 degrees. A gentle north wind stirs, adding to the briskness of nightfall, and there is an unmistakable sense of anticipation in the atmosphere. With a 70% chance of snow, the city prepares for a delicate blanket, perhaps two to four inches, transforming the urban landscape into a serene winter scene.\n\nLooking ahead to Saturday, the chance of lingering snowflakes before noon gives way to a morning of crystalline clarity, where the sun may break through the clouds, illuminating the world in soft winter light. With a forecast high of 28 degrees, the day invites residents to enjoy the brisk air, though jackets and hats will be wise companions. It's a perfect time for a leisurely stroll through the quiet streets, perhaps meandering past softly lit shops or pausing for a warm drink at a neighborhood caf\u00e9, where a steaming cup can warm chilled fingers and refresh the spirit. In this enchanting moment, life finds its rhythm amid the snow and chill, embracing the season with quiet grace.",
+    "color_code": "#2C2D34",
+    "timestamp": "2025-12-26 19:33:33"
 }
