@@ -7,7 +7,7 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-28T06:53:00+00:00",
+            "timestamp": "2025-12-28T10:53:00+00:00",
             "temperature_f": null,
             "temperature_c": null,
             "humidity": null,
@@ -18,30 +18,11 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-28T03:00:00-05:00",
-                "endTime": "2025-12-28T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 16,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 16. West wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2025-12-28T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-28T07:00:00-05:00",
                 "endTime": "2025-12-28T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 36,
+                "temperature": 30,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 36, with temperatures falling to around 30 in the afternoon. West wind around 6 mph."
+                "detailedForecast": "Mostly sunny, with a high near 30. West wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-28T18:00:00-05:00",
+                "endTime": "2025-12-29T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 29,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 94
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/fzra,60/rain_fzra,90?size=medium",
+                "shortForecast": "Freezing Rain Likely then Light Rain",
+                "detailedForecast": "Freezing rain likely between 10pm and midnight, then rain and a chance of freezing rain. Mostly cloudy. Low around 29, with temperatures rising to around 39 overnight. South wind 3 to 7 mph. Chance of precipitation is 90%. Little or no ice accumulation expected."
             }
         ]
     },
-    "weather_report": "As the night cloaks Boston in its serene embrace, a cool tranquility wraps itself around the city, with temperatures dipping to a brisk low. The calmness of the air, punctuated only by the whisper of a west wind, invites contemplation beneath a vast, clear sky, devoid of fog or haze. The city lights twinkle like distant stars, each illuminating the streets below with hints of life. \n\nIn the light of the coming day, Boston is poised to unveil a mostly sunny disposition, a welcome promise after the quietude of the night. As temperatures rise, anticipate a gentle warmth, shifting later into the afternoon chill. To navigate this transitional day, layers are advisable: a warm coat, perhaps accompanied by a scarf, will serve to ward off the lingering chill as the sun casts its glow. A morning stroll through one of the city\u2019s many parks could yield moments of reflection, while an afternoon coffee at a favorite caf\u00e9 provides an opportunity to bask in the sunlight as it dips towards the horizon. The day may not herald springtime joy, but it offers a canvas for the ordinary joys of winter\u2014embrace them with both grace and warmth.",
-    "color_code": "#2C2C3B",
-    "timestamp": "2025-12-28 03:09:38"
+    "weather_report": "As day breaks over Boston, the skies are dressed in a delicate palette of soft hues, hinting at the warmth the sun is shyly bestowing upon the city. Currently, a mild day beckons, where temperatures approach a pleasant 30 degrees, kissed by a gentle westward breeze. This sunny interlude, however, will soon give way to the more troubling embrace of twilight, as the forecast predicts a shift to freezing rain this evening. Clouds will envelop the sky, wrapping around the remnants of sunlight, and the mercury is poised to rise overnight, bringing relief from the chill.\n\nFor those contemplating ventures into the brisk air, layering is paramount; a woolen sweater beneath a waterproof jacket will keep one warm against the waning light, while sturdy boots will serve admirably against any potential slickness. As the cold sets in and rain begins to fall, perhaps an indoor stop for coffee and a contemplative moment with a book would be wise, or a subtle meander through the quaint cafes speckled throughout the city. This is a day to find refuge within the warmth of creative thoughts or spirited conversations, as the evening presents solace from both the chill and the unpredictability of nature's transition.",
+    "color_code": "#B0A6D6",
+    "timestamp": "2025-12-28 07:12:30"
 }
