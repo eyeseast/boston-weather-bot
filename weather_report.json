@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-29T07:50:00+00:00",
-            "temperature_f": 35.6,
-            "temperature_c": 2,
-            "humidity": 93.0873117058,
-            "wind_speed_mph": 16.589592000000003,
+            "timestamp": "2025-12-29T12:00:00+00:00",
+            "temperature_f": 44.6,
+            "temperature_c": 7,
+            "humidity": 93.352225938757,
+            "wind_speed_mph": 20.696724000000003,
             "wind_direction": 160,
-            "description": "Fog/Mist"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-29T03:00:00-05:00",
-                "endTime": "2025-12-29T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 28,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 68
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely and areas of fog before 5am, then areas of fog and a chance of rain. Cloudy. Low around 28, with temperatures rising to around 38 overnight. South wind around 12 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2025-12-29T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-29T07:00:00-05:00",
                 "endTime": "2025-12-29T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 53,
+                "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -49,14 +30,33 @@
                     "value": 100
                 },
                 "windSpeed": "13 mph",
-                "windDirection": "S",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,100?size=medium",
-                "shortForecast": "Areas Of Fog then Light Rain",
-                "detailedForecast": "Areas of fog and a chance of rain before 10am, then rain and areas of fog. Cloudy, with a high near 53. South wind around 13 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "shortForecast": "Areas Of Drizzle then Light Rain",
+                "detailedForecast": "Areas of drizzle and areas of fog and a chance of rain before 10am, then rain and areas of drizzle and areas of fog. Cloudy, with a high near 50. Southwest wind around 13 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-29T18:00:00-05:00",
+                "endTime": "2025-12-30T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 22,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 17
+                },
+                "windSpeed": "14 to 21 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
+                "shortForecast": "Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers between 11pm and 3am. Mostly cloudy, with a low around 22. West wind 14 to 21 mph, with gusts as high as 37 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning, Boston is enveloped in a hazy embrace, with rain likely listening patiently for its cue before dawn breaks. The fog cloaks the city, a soft veil that hints at the quiet pulses of life beneath. As the hours unfurl, the temperature will gradually rise, lifting spirits out of the chill of the low twenties to a slightly more amiable thirty-eight. Allow the light winds from the south to brush against your coat as you step outside, but be prepared for the inevitable rain that is destined to greet the day.\n\nBy midday, the fog will intertwine with steady rain, bringing a somber yet tranquil ambiance to the bustling streets. The clouds hang low, heavy with the promise of moisture, rendering umbrellas a must-have accessory for any endeavor outside. For those not inclined to brave the elements, perhaps now is the perfect time to indulge in the comforts of home\u2014snuggle up with a good book, savor a warm cup of tea, or catch up on films you\u2019ve been meaning to watch. If you venture out, dress warmly and consider layering, ensuring that you can find comfort before the warmth of indoor spaces calls you back. The day may lean towards the dreary side, but such is winter in New England\u2014a reminder to embrace the gentle, soft-spoken beauty of this muted season.",
-    "color_code": "#3c3c3c",
-    "timestamp": "2025-12-29 03:12:22"
+    "weather_report": "In Boston, a muted morning unfolds, draped in whispers of fog and drizzle. The air feels heavy with a chill, as the temperatures hover around the low fifties, shushing the usual morning bustle of the city. Today, the sky is a blanket of gray, promising rain that will tease its way through until the shadows of the day retreat. With a southwest wind carrying a hint of dampness, the elements come together to cloak the day in an ambiance that feels both melancholic and timeless. As the sun struggles to break through the veil, any likelihood of a clear horizon fades, replaced with the soft contours of a fog-infused vista.\n\nAs night drapes its dark cloak over the city, the temperatures will dive to the low twenties, ushering in a brief flirtation with snow showers, though they might come as fleeting text messages from winter rather than a full-blown conversation. For those braving the outdoors, layered clothing will be your ally\u2014perhaps a woolen scarf and a weatherproof jacket to fend off the chill and embrace the dampness. Strolling through the dampened streets or finding solace in a cozy caf\u00e9 with a steaming cup of coffee may well be the perfect remedy to offset this slightly oppressive day. A visit to a gallery showcasing local art might be a lovely way to spend the afternoon, allowing the mind to wander free while the world outside plays a drizzly melody.",
+    "color_code": "#A1C4E0",
+    "timestamp": "2025-12-29 07:14:26"
 }
