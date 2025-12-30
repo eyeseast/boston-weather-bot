@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-30T00:25:00+00:00",
-            "temperature_f": 37.4,
-            "temperature_c": 3,
-            "humidity": null,
+            "timestamp": "2025-12-30T04:05:00+00:00",
+            "temperature_f": 33.8,
+            "temperature_c": 1,
+            "humidity": 51.062508002695,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Light Rain and Fog/Mist"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-12-29T15:00:00-05:00",
-                "endTime": "2025-12-29T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 82
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,80?size=medium",
-                "shortForecast": "Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy, with a high near 50. Southwest wind around 12 mph, with gusts as high as 23 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-29T18:00:00-05:00",
+                "startTime": "2025-12-29T23:00:00-05:00",
                 "endTime": "2025-12-30T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 22,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 14
+                    "value": 2
                 },
-                "windSpeed": "13 to 21 mph",
+                "windSpeed": "15 to 21 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 22. West wind 13 to 21 mph, with gusts as high as 37 mph."
+                "detailedForecast": "Partly cloudy, with a low around 22. West wind 15 to 21 mph, with gusts as high as 37 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2025-12-30T06:00:00-05:00",
+                "endTime": "2025-12-30T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "17 to 22 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 27. West wind 17 to 22 mph, with gusts as high as 46 mph."
             }
         ]
     },
-    "weather_report": "As twilight gently blankets Boston, the evening's forecast whispers of lingering rain and fog that have swept through the afternoon. With clouds cloaking the city like a heavy drape, the twilight silhouettes of buildings are softened, almost ethereal. The temperature has dipped, urging the advent of a crisp chill that sets in. Winds, dancing at a brisk pace, stir memories of the day's rain, reminding passersby of the dampness in the air. Indeed, the remnants of a wet afternoon have molded into a cool and contemplative evening.\n\nAs we embrace the evening chill, warmth becomes paramount. A sturdy jacket, perhaps a woolen scarf, and a hat to ward off the bite of the cold winds should serve as a welcoming cocoon. With a chance of fog still whispering its way through the city, the streets beckon for quieter pursuits rather than grand adventures. An inviting caf\u00e9 nearby might be the perfect refuge for a warm drink, or perhaps an evening stroll through a tree-lined neighborhood\u2014watching twinkling lights reflecting off the puddles\u2014might offer a gentle solace. Whether engaged in lively conversation or lost in thought, this serene ambience invites you to savor the quiet moments that define a Boston winter's night.",
-    "color_code": "#4B4B4B",
-    "timestamp": "2025-12-29 19:34:23"
+    "weather_report": "The air over Boston holds a crispness that whispers of the turning season, with temperatures dipping down to a quaint 22 degrees tonight. As a westward wind weaves through the city, it carries with it a steady hum, creating an ambiance both bracing and invigorating. The clouds drift lazily, cloaking the sky in a gray hue that contrasts sharply against the scattered glimmers of city lights below. This is not a night for long strolls; instead, a cozy evening at home or perhaps a quiet read by the fire seems fitting, as any outdoor ventures may be met with that cheeky chill whisking about.\n\nAs dawn breaks tomorrow, Boston will awaken to the promise of a day wrapped in the embrace of mostly cloudy skies, with a high nearing 27 degrees. The winds, fierce at times, will whip through the streets, demanding layers of warmth\u2014a well-worn coat, sturdy gloves, and perhaps a scarf wrapped snugly around the neck. Take heed; the gusts may flirt with 46 mph, casting aside the less committed. This day invites a warm caf\u00e9 visit for a soothing cup of coffee or tea, an indulgence that makes the cold seem a distant concern. Alternatively, a stroll through the city, bundled up, could unveil the charming stillness of a winter\u2019s day, where the brisk air complements the cozy warmth of a lively indoor establishment.",
+    "color_code": "#4a4c8c",
+    "timestamp": "2025-12-29 23:21:37"
 }
