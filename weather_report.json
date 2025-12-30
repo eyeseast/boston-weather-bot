@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-30T07:50:00+00:00",
-            "temperature_f": 28.4,
-            "temperature_c": -2,
-            "humidity": 42.750848488054,
-            "wind_speed_mph": 66.27783600000001,
-            "wind_direction": 270,
-            "description": "Mostly Cloudy"
+            "timestamp": "2025-12-30T11:53:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 47.719450759362,
+            "wind_speed_mph": 57.98304000000001,
+            "wind_direction": 250,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2025-12-30T03:00:00-05:00",
-                "endTime": "2025-12-30T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 22,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "21 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 22. West wind around 21 mph, with gusts as high as 37 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2025-12-30T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2025-12-30T07:00:00-05:00",
                 "endTime": "2025-12-30T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 27,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/wind_bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny, with a high near 27. West wind 17 to 22 mph, with gusts as high as 46 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2025-12-30T18:00:00-05:00",
+                "endTime": "2025-12-31T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 21,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "9 to 17 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 21. West wind 9 to 17 mph, with gusts as high as 36 mph."
             }
         ]
     },
-    "weather_report": "As the early hours of the day unfold over Boston, the air carries a brisk chill, whispering of the winter's grip on the landscape. The low temperature caresses the surroundings, hovering just above the low twenties, while a west wind, robust and spirited, stirs the city. The night, cloaked in partial cloudiness, reveals itself through the scattered glimmers of urban lights, painting the warmth of home among the cool dark. The gusty winds, at times reaching up to 37 mph, underscore a sense of lively unrest, a reminder that even in still silence, nature breathes vigorously.\n\nAs dawn breaks and gives way to Tuesday, expect a gradual unveiling of the sky as it transforms into a canvas of muted blues. The sun will stretch its golden rays, pushing temperatures toward a moderate embrace of the high twenty-sevens. The wind, while slightly tamed, will still cascade by, a companion for those venturing outdoors. To navigate this day pleasantly, layering will be your ally; a warm coat, sturdy boots, and a knit scarf will guard against the brisk breezes. Perhaps a stroll through the local park or a visit to a quaint cafe where the aroma of freshly brewed coffee dances in the air could provide the perfect antidote to the winter chill. With a day promising partly sunny skies, it invites leisurely moments and small joys, whether wrapped in the solitude of a good book or engaging in conversation with a friend.",
-    "color_code": "#3b5998",
-    "timestamp": "2025-12-30 03:11:12"
+    "weather_report": "In Boston this morning, the sky unveils a blend of partly sunny notions, hinting at a crisp but invigorating day ahead. The air is alive with a noticeable west wind, stirring memories of autumn with its briskness, yet the warmth of anticipation lingers underfoot as the mercury edges toward a high of 27. The early hours unveil a modest canvas of clouds intermingled with stretches of blue\u2014a subtle reminder of the beauty inherent in transitional seasons. As the day unfolds, the gusty whispers weave through the city, rustling leaves and coaxing commuters to don layers that speak to both comfort and resilience.\n\nAs evening approaches, the possibility of a soft cloak of clouds will blanket the landscape, dropping temperatures and inviting a snug coat wrapped around shoulders. The chill emphasizes a desire for cozy gatherings, perhaps in the welcoming corners of a local caf\u00e9 or indulging in a quiet stroll along the Charles, where the evening lights start to twinkle against the urban backdrop. Embrace the spirited air with a scarf and a sturdy pair of footwear, perfect for navigating the seasonal essence of Boston\u2019s streets. These moments feel alive, as if the city itself breathes in harmony with those who call it home, beckoning one to relish the cozy charm of winter.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2025-12-30 07:14:06"
 }
