@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-30T19:50:00+00:00",
-            "temperature_f": 26.6,
-            "temperature_c": -3,
-            "humidity": 42.441354758402,
-            "wind_speed_mph": 53.875908,
-            "wind_direction": 270,
-            "description": "Cloudy"
+            "timestamp": "2025-12-31T00:20:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 49.306619239458,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 240,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-12-30T15:00:00-05:00",
-                "endTime": "2025-12-30T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 27. West wind around 16 mph, with gusts as high as 38 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-30T18:00:00-05:00",
+                "startTime": "2025-12-30T19:00:00-05:00",
                 "endTime": "2025-12-31T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 21,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 1
                 },
                 "windSpeed": "10 to 14 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 21. West wind 10 to 14 mph, with gusts as high as 35 mph."
+                "detailedForecast": "Partly cloudy, with a low around 21. West wind 10 to 14 mph, with gusts as high as 33 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2025-12-31T06:00:00-05:00",
+                "endTime": "2025-12-31T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 30,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Light Snow then Partly Sunny",
+                "detailedForecast": "A slight chance of snow between 10am and 11am. Partly sunny, with a high near 30. Southwest wind 6 to 10 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sky is a patchwork of scattered clouds, with the sun trying to make its way through, casting a cheerful, if slightly muted, light upon the city. The brisk, westward wind whispers through the streets, creating a chill that beckons one to wear layers\u2014perhaps a sturdy sweater beneath a windbreaker, complemented by a soft scarf to ward off any unwelcome drafts. As the day progresses into evening, the temperature will settle into a more reserved state, inviting the warmth of your favorite winter coat as the sun dips below the horizon. \n\nIt\u2019s a day for simple pleasures: perhaps a leisurely stroll through one of Boston's iconic parks, where the trees stand sentinel against the winter air, and the pathways, though a touch colder, offer a comforting solitude. One might enjoy a quiet coffee at a local caf\u00e9, indulging in the rich aroma and warmth that invites a moment of pause. As the evening unfolds, the clouds will linger, occasionally parting to reveal fleeting constellations, a perfect backdrop for reflection or a good book by the window. Overall, it is a day steeped in that unique blend of winter calm, urging you to embrace the quiet beauty outside while finding warmth indoors.",
-    "color_code": "#A4B3C5",
-    "timestamp": "2025-12-30 15:08:46"
+    "weather_report": "As night blankets Boston, the city finds itself swathed in a gentle embrace of clouds, where the temperature drifts down to around 21 degrees. The west wind breathes softly, stirring the stillness with gusts that bear a hint of briskness, creating an atmosphere that whispers of the winter season. One can almost feel the chill dance around, urging residents to reach for layers, perhaps a cozy scarf paired with a sturdy jacket, to keep warmth close as they navigate the evening streets.\n\nTomorrow's dawn promises a delicate transition, as the sun attempts to break through the clouds, a shy expression of light amidst the impending chill. With a slight chance of snow brushing through the morning and subtle winds from the southwest, it's a day that calls for a balance of practicality and warmth in one\u2019s attire. There\u2019s an essence of exploration in the air, an invitation to head out for a walk along the Charles, or to revel in the quiet charm of a local caf\u00e9, where the scent of fresh coffee mingles with the soft laughter of neighbors. Whether one finds solitude in a good book or engages in the hustle of daily life, the essence of winter in Boston offers both a picturesque stillness and a subtly vibrant character, just waiting to be embraced.",
+    "color_code": "#2F2A2B",
+    "timestamp": "2025-12-30 19:34:44"
 }
