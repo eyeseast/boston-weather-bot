@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2025-12-31T19:50:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 34.050592986127,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 280,
+            "timestamp": "2026-01-01T00:20:00+00:00",
+            "temperature_f": 26.6,
+            "temperature_c": -3,
+            "humidity": 46.035992789337,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 220,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2025-12-31T15:00:00-05:00",
-                "endTime": "2025-12-31T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 30. Southwest wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2025-12-31T18:00:00-05:00",
+                "startTime": "2025-12-31T19:00:00-05:00",
                 "endTime": "2026-01-01T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 24,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow,30/snow,100?size=medium",
                 "shortForecast": "Light Snow",
                 "detailedForecast": "Snow after 10pm. Mostly cloudy, with a low around 24. Southwest wind 6 to 9 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "New Year's Day",
+                "startTime": "2026-01-01T06:00:00-05:00",
+                "endTime": "2026-01-01T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 30,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 51
+                },
+                "windSpeed": "9 to 15 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/snow,50/sct?size=medium",
+                "shortForecast": "Chance Light Snow then Mostly Sunny",
+                "detailedForecast": "A chance of snow before 7am, then a chance of snow and scattered snow showers between 7am and 9am. Mostly sunny. High near 30, with temperatures falling to around 20 in the afternoon. West wind 9 to 15 mph, with gusts as high as 30 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "In the heart of Boston, the afternoon unfolds under a shroud of mostly cloudy skies, casting a muted yet oddly serene glow over the city. The temperature hovers near a brisk thirty degrees, with a gentle southwest wind whispering through the streets, inviting layers of warmth but also reminding us of the chill that lingers in the air. As dusk approaches, the promise of snow looms on the horizon, anticipated to greet the evening after ten, blanketing the city in a soft embrace \u2014 a low of twenty-four casting an air of quiet anticipation. The certainty of snowfall, outlined with a generous potential accumulation, weaves a sense of cozy urgency into the day's rhythm.\n\nWhile the current conditions may not inspire a stroll along the harbor, they certainly beckon one to find solace indoors \u2014 a perfect day for a comforting cup of cocoa at a local caf\u00e9 or the inviting warmth of a bookstore\u2019s embrace, where time can suspend and pages can turn slowly. Dress warmly in layers, perhaps donning a knitted scarf and a sturdy pair of boots, readying yourself for the inevitable embrace of winter's first snowflakes. Tonight, as the world outside transforms into a snowy canvas, consider drawing close to the fireplace, perhaps with a favorite book or movie, welcoming the stillness of the evening and the gentle whispers of snow that will soon participate in the quiet dance of winter.",
-    "color_code": "#A3B1C8",
-    "timestamp": "2025-12-31 15:08:39"
+    "weather_report": "As the day edges gracefully toward night, Boston finds itself cloaked in a veil of anticipation. Snow graces the atmosphere, softly whispering promises of a winter wonderland to come. The air is brisk, stilled only by the gentle murmur of a southwest wind, hinting at the crispness to follow as the temperature dips tonight. It is a perfect night for layering\u2014a warm scarf, a sturdy coat, and perhaps some cozy mittens will serve well against the expected inches of pristine snowfall.\n\nAs we awaken to New Year\u2019s Day, the promise of a brightening sky beckons through lingering clouds, where remnants of snow may linger in scattered flurries, fading gently into the light of day. The chill in the air will remind the early risers of the season's bite, but as morning blossoms into afternoon, a semblance of warmth strives to emerge. With gusts rushing through the streets, this could be a day well-spent indoors, perhaps sipping on hot cocoa or exploring a cozy caf\u00e9 tucked away from the winter chill. Alternatively, if the allure of that soft blanket of snow beckons you outdoors, a brisk stroll through the city's parks, where snowflakes dance in the air and silence settles between the branches, may be just the tonic needed to welcome the year ahead.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2025-12-31 19:39:12"
 }
