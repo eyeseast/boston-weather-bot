@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-04T04:15:00+00:00",
+            "timestamp": "2026-01-04T07:45:00+00:00",
             "temperature_f": 23.0,
             "temperature_c": -5,
             "humidity": 62.793843004384,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Mostly Cloudy"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-01-03T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2026-01-04T03:00:00-05:00",
                 "endTime": "2026-01-04T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 20,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 24
+                    "value": 20
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow after 2am. Mostly cloudy, with a low around 20. West wind around 5 mph. Chance of precipitation is 20%."
+                "windSpeed": "2 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
+                "shortForecast": "Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 4am. Cloudy, with a low around 20. Northwest wind around 2 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-01-04T06:00:00-05:00",
                 "endTime": "2026-01-04T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 32,
+                "temperature": 31,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 37
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "2 to 7 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20/bkn?size=medium",
-                "shortForecast": "Slight Chance Light Snow then Partly Sunny",
-                "detailedForecast": "A slight chance of snow before 8am. Partly sunny, with a high near 32. Northwest wind around 6 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/snow,40/bkn?size=medium",
+                "shortForecast": "Chance Light Snow then Mostly Cloudy",
+                "detailedForecast": "A chance of snow before 9am. Mostly cloudy, with a high near 31. Northwest wind 2 to 7 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "As Boston drifts quietly into the night, a gentle shroud of clouds hangs over the city, casting a muted glow upon the landscape. The temperature dips to near 20 degrees, an invitation for layered clothing that promises both warmth and ease of movement. The slight chance of snow flurries lurking after two o\u2019clock is a mere whisper, hardly enough to warrant apprehension, yet offering a hint of magic in the chilly air. \n\nTomorrow promises a subtle shift, with the sun peaking through the clouds to reveal a day near freezing. In the calm, crisp light of morning, a trace of snow may cling to the remnants of overnight flurries, inviting contemplation of winter's quiet beauty. Layering continues to be the mantra, with warm coats and sturdy boots the dress of the day. Embrace the cool, but make plans to wander, perhaps finding joy in an early stroll through one of Boston\u2019s quieter parks or indulging in a cozy visit to a favorite caf\u00e9 where the scent of coffee mingles with the anticipation of a fresh dawn.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2026-01-03 23:26:58"
+    "weather_report": "As the night deepens over Boston, the air holds a crisp bite, heralding the winter season in quiet tones. Currently, a soft shroud of clouds envelops the city, their vast grayness merely fractured by the pulse of city lights below. The temperature hovers around a frigid threshold, compelling one to reach for layers that offer warmth without sacrificing comfort. A slight chance of snow lurks in the early hours, beckoning those with an appreciation for winter\u2019s delicate touch to perhaps raise a mug of cocoa by a window, watching the world transform into a hushed, white canvas.\n\nAs dawn tiptoes closer, Boston braces itself for a day marked by the lingering possibility of snow before the morning consolidates into a palette of muted grays and whites. Though robust winds are absent, the air remains invigorating, and should a flurry drift down, it may flirt with the bare branches and rooftops, creating a picturesque tableau. Clothing should be layered\u2014think warm, but practical; a woolen scarf and a sturdy coat can shield against the palpable chill. With the day unfolding under such uncertain skies, one might enjoy a leisurely walk through the city\u2019s serenity, perhaps pausing at a quaint caf\u00e9 for a moment of reflection amid the inevitable charm of snowfall.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2026-01-04 03:09:53"
 }
