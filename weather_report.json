@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-03T11:50:00+00:00",
-            "temperature_f": 19.4,
-            "temperature_c": -7,
-            "humidity": 62.292098497037,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 240,
+            "timestamp": "2026-01-03T18:45:00+00:00",
+            "temperature_f": 30.2,
+            "temperature_c": -1,
+            "humidity": 43.058636576831,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 270,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-01-03T07:00:00-05:00",
-                "endTime": "2026-01-03T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 30,
+                "name": "Tonight",
+                "startTime": "2026-01-03T19:00:00-05:00",
+                "endTime": "2026-01-04T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 20,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 24
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 30. West wind around 8 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 2am. Mostly cloudy, with a low around 20. West wind around 6 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-01-03T18:00:00-05:00",
-                "endTime": "2026-01-04T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 21,
+                "name": "Sunday",
+                "startTime": "2026-01-04T06:00:00-05:00",
+                "endTime": "2026-01-04T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 32,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 35
+                    "value": 20
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/ovc/snow,40?size=medium",
-                "shortForecast": "Cloudy then Chance Light Snow",
-                "detailedForecast": "A chance of snow after 1am. Cloudy, with a low around 21. West wind around 5 mph. Chance of precipitation is 40%."
+                "windSpeed": "6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Light Snow then Partly Sunny",
+                "detailedForecast": "A slight chance of snow before 8am. Partly sunny, with a high near 32. Northwest wind around 6 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a muted palette blankets the city, casting a delicate serenity across the skyline. Today promises a mostly sunny outlook, though the morning reveals an unadorned gray ensemble that hints at the day ahead. A gentle west wind carries a cool whisper, with temperatures nudging up to a pleasant warmth as the sun climbs higher in the sky. \n\nHowever, the evening draws near with a shift, offering a flirtation with winter as snow may begin to fall after the clock strikes one. For now, one might relish the leisurely hours ahead, perhaps opting for a brisk stroll amidst the storied streets or indulging in a cozy caf\u00e9 moment with a warm drink in hand. Dress in layers for comfort\u2014the chill still lingers, and one wouldn\u2019t want to be caught off guard as the temperatures dip towards nightfall. Given the tranquility of the morning, it is a delightful time to engage, to breathe in the crisp air, and to savor the subtle changes that follow the expansive sky. The clouds murmur possibilities, making way for the delicate nuances of winter's embrace.",
-    "color_code": "#A8B9D1",
-    "timestamp": "2026-01-03 07:12:32"
+    "weather_report": "As the evening unfolds in Boston, a blanket of muted clouds cloaks the city, with only the distant twinkle of lights breaking through the darkness. The air carries a crisp chill, hinting at the fleeting winter wonders that tomorrow may bring. Tonight\u2019s forecast raises the slightest chance of snow after the witching hour, an ephemeral whisper of white against the night. The wind whispers from the west, gentle and persistent, carrying with it both a bite and a promise.\n\nAs dawn creeps into Sunday, an invitation emerges for snowflakes to dance briefly before fading into the clearer embrace of day. With the sun's tentative rays, Boston may shake off the wintry chill to reveal a partly sunny sky, though the moment is best approached with warm layers\u2014perhaps a sturdy coat, a knit scarf, and gloves to ward off the morning's bite. The city will awaken, urging you to explore its cafes or stroll through parks, where the promise of snowflakes may still tease the edges of a quiet morning. A day like this beckons for a hot cup of cocoa, a book in a cozy nook, or a leisurely walk to embrace the crisp air while indulging in the understated beauty of a New England winter.",
+    "color_code": "#3E3E3E",
+    "timestamp": "2026-01-03 19:39:33"
 }
