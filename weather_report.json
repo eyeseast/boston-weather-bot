@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-04T07:45:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 62.793843004384,
+            "timestamp": "2026-01-04T11:50:00+00:00",
+            "temperature_f": 24.8,
+            "temperature_c": -4,
+            "humidity": 79.631765086518,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Cloudy"
+            "description": "Light Snow and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-04T03:00:00-05:00",
-                "endTime": "2026-01-04T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 20,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
-                "shortForecast": "Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow after 4am. Cloudy, with a low around 20. Northwest wind around 2 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-01-04T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-04T07:00:00-05:00",
                 "endTime": "2026-01-04T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 31,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 37
                 },
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/snow,40/bkn?size=medium",
                 "shortForecast": "Chance Light Snow then Mostly Cloudy",
-                "detailedForecast": "A chance of snow before 9am. Mostly cloudy, with a high near 31. Northwest wind 2 to 7 mph. Chance of precipitation is 40%."
+                "detailedForecast": "A chance of snow before 9am. Mostly cloudy, with a high near 31. Northwest wind 3 to 7 mph. Chance of precipitation is 40%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-04T18:00:00-05:00",
+                "endTime": "2026-01-05T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 11,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 8
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 11. Northwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the night deepens over Boston, the air holds a crisp bite, heralding the winter season in quiet tones. Currently, a soft shroud of clouds envelops the city, their vast grayness merely fractured by the pulse of city lights below. The temperature hovers around a frigid threshold, compelling one to reach for layers that offer warmth without sacrificing comfort. A slight chance of snow lurks in the early hours, beckoning those with an appreciation for winter\u2019s delicate touch to perhaps raise a mug of cocoa by a window, watching the world transform into a hushed, white canvas.\n\nAs dawn tiptoes closer, Boston braces itself for a day marked by the lingering possibility of snow before the morning consolidates into a palette of muted grays and whites. Though robust winds are absent, the air remains invigorating, and should a flurry drift down, it may flirt with the bare branches and rooftops, creating a picturesque tableau. Clothing should be layered\u2014think warm, but practical; a woolen scarf and a sturdy coat can shield against the palpable chill. With the day unfolding under such uncertain skies, one might enjoy a leisurely walk through the city\u2019s serenity, perhaps pausing at a quaint caf\u00e9 for a moment of reflection amid the inevitable charm of snowfall.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2026-01-04 03:09:53"
+    "weather_report": "This morning in Boston greets you with a muted palette, the remnants of a light snowfall whispering through the gray veil of mostly cloudy skies. As the chill lingers in the air, a stubborn wind brushes past, reminding you to bundle up lest the cold fingers of January tighten their grip. The high of just 31 may speak to the season, but the low promise of 11 tonight underscores the urgency for warmth. There\u2019s a 40 percent chance of snow has left a lovely patina of moisture in the air, although clarity is eclipsed by the haze of fog that clings to the corners of the city, blurring the outlines of its tall buildings and the famed waterfront.\n\nThrough this weather, Boston beckons with the comfort of cafes where the scent of brewing coffee mingles with the muffled conversations of early risers. Layering with a coat, perhaps even a scarf, would be prudent for today\u2019s ventures. A stroll through a local market or perhaps a visit to the Boston Public Library, where warm interiors invite you to linger over a good book, would suit the contemplative tone of the day. Pack your gloves and retain the spirit of exploration; even amid the gray, Boston\u2019s heart beats with stories waiting to be uncovered.",
+    "color_code": "#A1B0C8",
+    "timestamp": "2026-01-04 07:12:20"
 }
