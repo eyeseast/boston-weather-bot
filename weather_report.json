@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-04T19:50:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 46.64028631253,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 300,
+            "timestamp": "2026-01-05T00:20:00+00:00",
+            "temperature_f": 28.4,
+            "temperature_c": -2,
+            "humidity": 50.193594861825,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 290,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-01-04T15:00:00-05:00",
-                "endTime": "2026-01-04T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 31. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-01-04T18:00:00-05:00",
+                "startTime": "2026-01-04T19:00:00-05:00",
                 "endTime": "2026-01-05T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 14,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 14. Northwest wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-01-05T06:00:00-05:00",
+                "endTime": "2026-01-05T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 26,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 37
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/snow,40?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Light Snow",
+                "detailedForecast": "A chance of snow after 3pm. Mostly cloudy, with a high near 26. West wind around 6 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sky embraces a gentle interplay of clouds, casting a soft luminance over the city with a brisk northwest breeze whispering through the air. As the temperature hovers close to thirty-one, there's a refreshing chill mingling with the daylight, inviting residents to step outside and savor the invigorating atmosphere. Tonight, the night air will move into a cooler realm, settling around fourteen degrees, yet the stars might just peek through the clouds, offering a glimpse of wonder amid the stillness.\n\nA walk along the Charles River could prove delightful, especially if clothed in a cozy sweater layered beneath a sturdy coat, perhaps accompanied by a warm scarf to shield against the evening chill. This is not a time for haste; rather, pause to appreciate the tentative beauty of a city welcoming winter. You might find joy in taking in the intricate architecture of historical streets or sharing quiet moments with friends over a steaming cup of coffee at a local caf\u00e9, where the warmth inside starkly contrasts the coolness outside. The calmness of this January afternoon suggests a day best spent outdoors, recharging as you immerse yourself in this serene yet brisk environment.",
-    "color_code": "#A9B9B5",
-    "timestamp": "2026-01-04 15:08:13"
+    "weather_report": "As night blankets Boston in a thin veil of clouds, the air carries the crisp bite of winter with a low settling around fourteen degrees. A gentle northwest wind stirs softly through the streets, whispering promises of a chill that beckons for warmth. The dim glow of city lights flickers like distant stars, their reflections glimmering hazily in the muted darkness. Tonight, the atmosphere feels contemplative, almost serene, though the promise of snow looms on the horizon, expected to sprinkle the town with delicate flurries as Monday unfolds. \n\nIn anticipation of the day ahead, one might dress with care; a thick woolen layer topped with a stylish yet practical coat will suffice. Scarves wrapped snugly around the neck shall serve not only as protection against the cold but also as a subtle nod to the season's charm. The chance of snow around mid-afternoon opens up an inviting opportunity for fleeting winter pleasures\u2014perhaps a gentle stroll among the majestic trees in the Public Garden, or a quiet afternoon spent sipping cocoa in a quaint caf\u00e9, savoring the rich aroma that fills the air. Activities that resonate with the pulse of the day ahead may not be extravagant, but they carry with them a satisfying warmth\u2014the kind that lingers long after the day ends.",
+    "color_code": "#2a2a2a",
+    "timestamp": "2026-01-04 19:38:37"
 }
