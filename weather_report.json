@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-06T04:05:00+00:00",
-            "temperature_f": 24.8,
-            "temperature_c": -4,
-            "humidity": 85.967788086354,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Light Snow and Fog/Mist"
+            "timestamp": "2026-01-06T07:50:00+00:00",
+            "temperature_f": 26.6,
+            "temperature_c": -3,
+            "humidity": 86.076383684482,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 320,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-01-05T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2026-01-06T03:00:00-05:00",
                 "endTime": "2026-01-06T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 24,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 61
+                    "value": 7
                 },
                 "windSpeed": "2 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,60/snow,50?size=medium",
-                "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely and patchy fog before 2am, then patchy fog and a slight chance of snow between 2am and 5am. Cloudy, with a low around 24. Southwest wind around 2 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 24. West wind around 2 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-01-06T06:00:00-05:00",
                 "endTime": "2026-01-06T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 37,
+                "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 10
+                    "value": 19
                 },
-                "windSpeed": "3 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 37. North wind around 3 mph."
+                "icon": "https://api.weather.gov/icons/land/day/ovc/fzra,20?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Freezing Rain",
+                "detailedForecast": "A slight chance of freezing rain after 5pm. Cloudy, with a high near 34. North wind around 5 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the night deepens over Boston, a layer of patchy fog drapes the city like a soft, muted veil. The world outside has receded to shadows and glowing streetlights, creating an almost ethereal quality to the stillness. With snowflakes lingering in the air, the temperature settles around a chilly 24 degrees. A gentle southwest breeze tugs at the edges of your coat, whispering hints of winter's chill, as light snowfall threatens to coat the streets in a delicate layer\u2014though not more than a whisper of accumulation is expected. \n\nTomorrow dawns on a modest note, the promise of mostly cloudy skies reflecting a muted palette. With the mercury edging up to a conservative 37, this is a day for warmth and thoughtful layering. Consider a sturdy winter coat paired with a cozy scarf\u2014perhaps even a woolen hat\u2014to ward off the persistent chill, should the fog linger. It\u2019s a day to embrace the indoors, with the fragrance of fresh coffee filling your home as you savor a quiet morning. A stroll through a nearby park, with the crunch of snow beneath your boots, could provide a gentle reminder of nature\u2019s beauty, albeit one cloaked in fog. Or perhaps, settle in with a good book by the window, letting the world become merely a backdrop to your thoughts as the winter scene unfolds outside.",
-    "color_code": "#4B4B4B",
-    "timestamp": "2026-01-05 23:22:18"
+    "weather_report": "In the stillness of the night, Boston cloaked itself in a veil of clouds, a subdued canvas beneath which the city\u2019s pulse beats quietly. As temperatures dip into the low 20s, a mild west wind whispers softly, barely rustling the trees, creating an atmosphere ripe for introspection. The early hours harbor an almost serene embrace, though beneath this charm lies a hint of uncertainty. As Tuesday progresses, a faint chance of freezing rain threatens to shimmer delicately against the muted hues of the day. The sky will remain an unwavering gray, holding the potential for unpredictability as the afternoon stretches towards evening.\n\nFor those venturing out, consider wrapping yourself in layers to combat the chill; a thick scarf and warm gloves will serve you well against the crisp air. The cool and cloudy conditions might not beckon outdoor escapades, but they do invite quiet pleasures. Perhaps a stroll through Boston's quaint streets could refresh the spirit, with steaming cups of coffee from a cozy caf\u00e9 providing the perfect accompaniment. Alternatively, finding solace in a good book at home could be a worthy pursuit as the day draws on, with the added warmth of a blanket. As twilight approaches, let the subdued mood inspire quiet reflection or intimate conversations that echo softly within the heart.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2026-01-06 03:11:36"
 }
