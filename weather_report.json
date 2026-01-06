@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-06T07:50:00+00:00",
+            "timestamp": "2026-01-06T12:00:00+00:00",
             "temperature_f": 26.6,
             "temperature_c": -3,
             "humidity": 86.076383684482,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 320,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 360,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-06T03:00:00-05:00",
-                "endTime": "2026-01-06T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 24,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 24. West wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-01-06T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-06T07:00:00-05:00",
                 "endTime": "2026-01-06T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 34,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/ovc/fzra,20?size=medium",
                 "shortForecast": "Cloudy then Slight Chance Freezing Rain",
                 "detailedForecast": "A slight chance of freezing rain after 5pm. Cloudy, with a high near 34. North wind around 5 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-06T18:00:00-05:00",
+                "endTime": "2026-01-07T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 32,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 77
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_fzra,70/rain_fzra,80?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "A chance of freezing rain before 7pm, then a chance of rain between 7pm and 8pm, then a chance of freezing rain between 8pm and 9pm, then a chance of rain between 9pm and 10pm, then rain and freezing rain likely. Cloudy, with a low around 32. Northeast wind around 6 mph. Chance of precipitation is 80%. Little or no ice accumulation expected."
             }
         ]
     },
-    "weather_report": "In the stillness of the night, Boston cloaked itself in a veil of clouds, a subdued canvas beneath which the city\u2019s pulse beats quietly. As temperatures dip into the low 20s, a mild west wind whispers softly, barely rustling the trees, creating an atmosphere ripe for introspection. The early hours harbor an almost serene embrace, though beneath this charm lies a hint of uncertainty. As Tuesday progresses, a faint chance of freezing rain threatens to shimmer delicately against the muted hues of the day. The sky will remain an unwavering gray, holding the potential for unpredictability as the afternoon stretches towards evening.\n\nFor those venturing out, consider wrapping yourself in layers to combat the chill; a thick scarf and warm gloves will serve you well against the crisp air. The cool and cloudy conditions might not beckon outdoor escapades, but they do invite quiet pleasures. Perhaps a stroll through Boston's quaint streets could refresh the spirit, with steaming cups of coffee from a cozy caf\u00e9 providing the perfect accompaniment. Alternatively, finding solace in a good book at home could be a worthy pursuit as the day draws on, with the added warmth of a blanket. As twilight approaches, let the subdued mood inspire quiet reflection or intimate conversations that echo softly within the heart.",
-    "color_code": "#4A4A4A",
-    "timestamp": "2026-01-06 03:11:36"
+    "weather_report": "In Boston, as dawn breaks over the horizon, the day unfolds under a heavy, brooding sky, casting a muted gray hue over the city. The air hangs with an uneasy promise of precipitation, and as the morning progresses, there\u2019s a subtle chill that seeps through layers of clothing, urging you to reach for a warm scarf or a robust coat. As we move into the afternoon, the temperature hovers around a brisk 34 degrees, teasing a slight chance of freezing rain after 5 PM. The wind whispers through the trees, a gentle northward breath that feels almost haunting in its quietness.\n\nAs night approaches, the atmosphere thickens with the likelihood of both rain and freezing rain, creating a tapestry of dampness that envelops the streets. The evening\u2019s low dips to a chilly 32 degrees, and the chance of precipitation surges upwards, inviting you to seek refuge indoors, perhaps drawing closer to a steaming mug of tea or a cozy blanket. It\u2019s a day best enjoyed under the shelter of your home or in the warmth of a caf\u00e9, watching life drift by as the urban landscape reveals its beauty in a soft, muted palette. Given the weather's delicate nature, it\u2019s wise to dress in layers that can withstand the dampness while keeping you snug, allowing for small adventures by day and the comfort of home by night.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-01-06 07:13:59"
 }
