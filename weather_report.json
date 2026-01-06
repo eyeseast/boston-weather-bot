@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-05T19:50:00+00:00",
-            "temperature_f": 26.6,
-            "temperature_c": -3,
-            "humidity": 42.441354758402,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 170,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-01-06T04:05:00+00:00",
+            "temperature_f": 24.8,
+            "temperature_c": -4,
+            "humidity": 85.967788086354,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Light Snow and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-01-05T15:00:00-05:00",
-                "endTime": "2026-01-05T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 29,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 25
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/snow,30?size=medium",
-                "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow. Cloudy, with a high near 29. South wind around 5 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-01-05T18:00:00-05:00",
+                "startTime": "2026-01-05T23:00:00-05:00",
                 "endTime": "2026-01-06T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 24,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 66
+                    "value": 61
+                },
+                "windSpeed": "2 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,60/snow,50?size=medium",
+                "shortForecast": "Light Snow Likely",
+                "detailedForecast": "Snow likely and patchy fog before 2am, then patchy fog and a slight chance of snow between 2am and 5am. Cloudy, with a low around 24. Southwest wind around 2 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-01-06T06:00:00-05:00",
+                "endTime": "2026-01-06T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 37,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 10
                 },
                 "windSpeed": "3 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,70/snow,50?size=medium",
-                "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely before 10pm, then snow likely and patchy fog between 10pm and 2am, then patchy fog and a slight chance of snow between 2am and 5am. Cloudy, with a low around 24. Southwest wind around 3 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 37. North wind around 3 mph."
             }
         ]
     },
-    "weather_report": "The afternoon in Boston unfolds under a blanket of cloud cover, a landscape draped in muted shades as the temperature struggles to reach a frigid 29 degrees. As the day wanes, a subtle hint of snowflakes flirts with the air, whispering against the light south wind. The atmosphere feels heavy with anticipation, a promise of winter\u2019s handiwork \u2013 a chance of snow lingers like a distant memory waiting to materialize. The chance of precipitation swells to a robust 70% as evening draws near, beckoning thicker fog that will envelop the city, dissolving the clarity of distant outlines into soft, indistinct shapes.\n\nAs night descends, a chill fosters cozy indoor aspirations; the predicted low of 24 degrees carries a biting edge, especially with gentle breezes making their presence felt. Thus, it might be prudent to layer warmly, favoring thick scarves and mittens against the cold, while still allowing freedom of movement to navigate a city that, under the veil of fog and soft snowfall, invites contemplative strolls or the simple delight of a quiet coffee shop. This evening holds space for reflective moments, perhaps a quiet read or a leisurely window-side watch at a local caf\u00e9 where the world outside softens, and the hum of activity fades into the comforting background of steaming cups and murmured conversations.",
-    "color_code": "#AAB8C7",
-    "timestamp": "2026-01-05 15:09:03"
+    "weather_report": "As the night deepens over Boston, a layer of patchy fog drapes the city like a soft, muted veil. The world outside has receded to shadows and glowing streetlights, creating an almost ethereal quality to the stillness. With snowflakes lingering in the air, the temperature settles around a chilly 24 degrees. A gentle southwest breeze tugs at the edges of your coat, whispering hints of winter's chill, as light snowfall threatens to coat the streets in a delicate layer\u2014though not more than a whisper of accumulation is expected. \n\nTomorrow dawns on a modest note, the promise of mostly cloudy skies reflecting a muted palette. With the mercury edging up to a conservative 37, this is a day for warmth and thoughtful layering. Consider a sturdy winter coat paired with a cozy scarf\u2014perhaps even a woolen hat\u2014to ward off the persistent chill, should the fog linger. It\u2019s a day to embrace the indoors, with the fragrance of fresh coffee filling your home as you savor a quiet morning. A stroll through a nearby park, with the crunch of snow beneath your boots, could provide a gentle reminder of nature\u2019s beauty, albeit one cloaked in fog. Or perhaps, settle in with a good book by the window, letting the world become merely a backdrop to your thoughts as the winter scene unfolds outside.",
+    "color_code": "#4B4B4B",
+    "timestamp": "2026-01-05 23:22:18"
 }
