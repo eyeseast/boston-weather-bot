@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-08T04:05:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 92.97695284763,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 250,
+            "timestamp": "2026-01-08T12:00:00+00:00",
+            "temperature_f": 24.8,
+            "temperature_c": -4,
+            "humidity": 100,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 170,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-01-07T23:00:00-05:00",
-                "endTime": "2026-01-08T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 29,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 29. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-01-08T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-08T07:00:00-05:00",
                 "endTime": "2026-01-08T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 43,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "W",
+                "windSpeed": "6 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 43. West wind 2 to 6 mph."
+                "detailedForecast": "Sunny, with a high near 43. Northwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-08T18:00:00-05:00",
+                "endTime": "2026-01-09T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 26,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "2 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog between 9pm and 11pm, then patchy freezing fog between 11pm and midnight, then patchy fog between midnight and 1am, then patchy freezing fog. Partly cloudy, with a low around 26. Southwest wind around 2 mph."
             }
         ]
     },
-    "weather_report": "As night envelops Boston, the city lies beneath a blanket of mostly clear skies, the serenity punctuated by the gentle rustle of a westward wind. With temperatures dipping to a brisk 29 degrees, the air carries a bite that speaks of winter's embrace. In this tranquil moment, one can almost taste the sharpness of the cold, each breath releasing a ghostly plume. The city\u2019s lights twinkle like distant stars, offering warmth in their flicker as they illuminate the roads that wind through its heart.\n\nTomorrow promises to greet us with a sun-drenched dawn, where sunny dispositions will reign over the day. The high will flirt with 43 degrees, a modest rise that invites Boston's residents outdoors. The gentle winds, a whisper compared to tonight\u2019s chill, will make the air feel surprisingly pleasant as the sun stretches its golden arms across the landscape. It\u2019s a day made for leisurely strolls along the cobblestone streets or perhaps a quiet afternoon enjoying a warm beverage in a cozy caf\u00e9. Dress warmly, with layers that allow freedom of movement, yet shield against the lingering cold. A well-fitted scarf could very well be your closest companion as you embrace the day\u2019s promise and venture forth into the inviting embrace of winter's sparkle.",
-    "color_code": "#1E3F5E",
-    "timestamp": "2026-01-07 23:22:16"
+    "weather_report": "A gentle hush hangs over Boston, as the day awakens beneath a canopy of soft blue and muted hues of morning. The sun, though still low on the horizon, promises warmth to the brisk air, heralding a high near 43 degrees. A light northwest breeze stirs, offering a refreshing touch that invites one to step outside and embrace the day's potential. The patchy fog that may linger later tonight weaves a delicate veil over the landscape, hinting at the transformation as the temperature dips into the evening, cozying into a settled 26 degrees. \n\nAs you prepare to venture into the world, consider layers that will provide both warmth and breathability\u2014a well-chosen scarf and a snug hat will keep the chill at bay while letting your spirit wander through this crisp day. It\u2019s an ideal time for a leisurely stroll along the river, where the subtle sounds of nature awaken with the day, or perhaps to seek out a quiet caf\u00e9, a warm drink in hand, where you can watch the buzz of city life from the window. The clarity of the day invites small adventures, as each corner of the neighborhood reveals something anew, waiting to be noticed.",
+    "color_code": "#A7C3D0",
+    "timestamp": "2026-01-08 07:14:53"
 }
