@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-09T07:15:00+00:00",
-            "temperature_f": 21.2,
-            "temperature_c": -6,
-            "humidity": 92.629770823612,
+            "timestamp": "2026-01-09T12:00:00+00:00",
+            "temperature_f": 19.4,
+            "temperature_c": -7,
+            "humidity": 92.569445871,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-09T03:00:00-05:00",
-                "endTime": "2026-01-09T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Freezing Fog",
-                "detailedForecast": "Patchy freezing fog. Mostly cloudy, with a low around 27. Southwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-01-09T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-09T07:00:00-05:00",
                 "endTime": "2026-01-09T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -52,11 +33,30 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/fog/rain_showers,20?size=medium",
                 "shortForecast": "Patchy Freezing Fog then Slight Chance Rain Showers",
-                "detailedForecast": "Patchy freezing fog before 9am, then patchy fog between 9am and 11am, then a slight chance of rain showers. Partly sunny, with a high near 49. South wind 2 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Patchy freezing fog before 9am, then patchy fog between 9am and 11am, then a slight chance of rain showers. Mostly cloudy, with a high near 49. South wind 2 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-09T18:00:00-05:00",
+                "endTime": "2026-01-10T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 55
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,60/rain_showers?size=medium",
+                "shortForecast": "Chance Rain Showers then Patchy Fog",
+                "detailedForecast": "A chance of rain showers before 7pm, then rain showers likely and patchy fog between 7pm and 10pm, then patchy fog and a slight chance of rain showers between 10pm and 2am. Mostly cloudy, with a low around 39. Southwest wind 7 to 14 mph, with gusts as high as 25 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the morning unfolds in Boston, the atmosphere is wrapped in a gentle stillness, with the frosty breath of freezing fog lingering in the air. The night has cloaked the city with a quiet chill, temperatures resting around the mid-twenties, tempting those who brave the dawn to bundle up in layers. While the fog may obscure the sharper edges of the familiar skyline, a sense of mystery drapes over the streets, inviting a cautious wanderer to discover the city in its softened state.\n\nThe day promises a gradual lift in the weather as the sun peeks through, battling against the clouds that cling with a tenacity befitting a New England winter. As the hours progress, expect patchy fog to mingle with the slight chance of rain showers. The air will warm to a more generous embrace, finally reaching a high near forty-nine, all while the soft whisper of southern winds stirs through the alleys and plazas. In dressing for the day, find comfort in a thick coat, perhaps adorned with a scarf and gloves\u2014all essential for both the chill and the possibility of unexpected dampness. With such conditions, a leisurely stroll through a local park or an afternoon spent exploring quaint coffee shops might serve as the perfect antidote to the wintry blues. As the fog lifts, awakening the beauty of the city, even a simple errand could inspire a rare appreciation for the poignant stillness of the season's embrace.",
-    "color_code": "#C2C2C2",
-    "timestamp": "2026-01-09 03:11:31"
+    "weather_report": "As dawn unfolds in Boston, a soft veil of patchy freezing fog lingers for just a moment longer, hinting at the magic of a winter morning. The city stirs to life under a shroud of muted colors, the air still crisp but carrying the promise of clouds thickening with an impending chance of rain. With a high temperature nudging towards 49 degrees, the day ahead seeks a balance between the chill of winter and the uninviting embrace of dampness. South winds dance gently through the streets and alleys, rustling autumn\u2019s remnants, while occasional gusts tease the edges of jackets, reminding us that even a simple walk may hold unexpected adventures.\n\nAs twilight draws near, the clouds promise to deepen, with rain showers likely as day slips into night. Given this culinary cocktail of cool temperatures and moisture, layering becomes paramount; a light sweater beneath a waterproof jacket should do well to fend off both chill and drizzle. Those venturing outside might consider a leisurely stroll to a nearby caf\u00e9, where the aroma of freshly brewed coffee mingles with the cozy chatter of locals savoring the warmth. Alternatively, a visit to an independent bookstore or a treasured gallery could provide refuge, where one can enjoy the artistry of words or strokes while the world outside hums with the rhythmic patter of rain.",
+    "color_code": "#B0A4E5",
+    "timestamp": "2026-01-09 07:14:14"
 }
