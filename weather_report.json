@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-08T19:50:00+00:00",
-            "temperature_f": 46.4,
-            "temperature_c": 8,
-            "humidity": 61.296851102691,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 290,
+            "timestamp": "2026-01-09T00:05:00+00:00",
+            "temperature_f": 28.4,
+            "temperature_c": -2,
+            "humidity": 92.863965557739,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-01-08T14:00:00-05:00",
-                "endTime": "2026-01-08T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 43. Northwest wind 2 to 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-01-08T18:00:00-05:00",
+                "startTime": "2026-01-08T19:00:00-05:00",
                 "endTime": "2026-01-09T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 26,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
                 "shortForecast": "Patchy Fog",
                 "detailedForecast": "Patchy fog between 9pm and 11pm, then patchy freezing fog between 11pm and midnight, then patchy fog between midnight and 1am, then patchy freezing fog. Partly cloudy, with a low around 26. Southwest wind around 2 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-01-09T06:00:00-05:00",
+                "endTime": "2026-01-09T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "2 to 10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/fog/rain,30?size=medium",
+                "shortForecast": "Patchy Freezing Fog then Slight Chance Light Rain",
+                "detailedForecast": "Patchy freezing fog before 8am, then a slight chance of rain between 4pm and 5pm, then patchy fog and a slight chance of rain. Mostly cloudy, with a high near 50. South wind 2 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "Boston finds itself enveloped in a mostly sunny afternoon, the kind that hints at brightness without the full embrace of warmth\u2014a high near 43 degrees allows for a pleasantly cool atmosphere to prevail. A gentle northwest breeze, barely stirring, whispers through the streets, imparting a sense of calm. As the sun makes its gradual descent, expect a shift; patchy fog will creep in as evening approaches, teasing visibility with its enigmatic shroud. By late night, freezing fog might join the mix, casting the world into a delicate, ethereal state where clarity is momentarily relinquished to the night.\n\nFor those contemplating a venture outdoors today, light layers will serve well\u2014perhaps a warm sweater beneath a light jacket to accommodate the chill of the afternoon and the impending embrace of night. It is a fine day for a stroll through Boston\u2019s inviting parks, where the lingering glow of the sun mingles with the rustle of leaves, offering solace before fog settles in. Alternatively, a quiet moment with a warm drink at a local caf\u00e9 might just capture the spirit of the season as you watch the city transition from day to night, observing how its charm transforms under the cloak of mist.",
-    "color_code": "#A1C1D4",
-    "timestamp": "2026-01-08 15:08:58"
+    "weather_report": "As night descends over Boston, a gentle veil of fog begins to weave through the city, casting an ethereal ambiance that softens the chill in the air. This evening, the temperature is quietly settling around 26 degrees, and the stillness is occasionally interrupted by the lightest breath of wind. The patchy fog, enveloping the skyline, creates a scene where the familiar becomes elusive, promising a certain quiet charm for those who venture outside. Clarity is traded for mystery, perfect for contemplative walks or unwinding moments spent at a cozy caf\u00e9, where the warmth draws you in like a comforting embrace.\n\nTomorrow beckons with the potential for more fog interlaced with a hint of rain, particularly in the late afternoon hours. The day promises a gentle rise in temperature, inviting you to dress warmly but not heavily; layers will serve you well. A light jacket paired with a scarf will keep you snug as you navigate the urban landscape, perhaps indulging in a stroll along the waterfront or a leisurely visit to the Boston Public Market\u2014where vibrant offerings from local vendors create a delightful tapestry of community life. In a city that pulsates with energy, even on overcast days like this, there lies the opportunity to find joy in the small moments, where the fog brings a soft focus to the hustle and bustle of everyday life.",
+    "color_code": "#A9A1B4",
+    "timestamp": "2026-01-08 19:35:13"
 }
