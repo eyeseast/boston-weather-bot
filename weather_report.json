@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-10T07:50:00+00:00",
-            "temperature_f": 46.4,
-            "temperature_c": 8,
-            "humidity": 75.859700794654,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 270,
+            "timestamp": "2026-01-10T11:53:00+00:00",
+            "temperature_f": 33.08,
+            "temperature_c": 0.6,
+            "humidity": 84.573028786765,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 310,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-10T03:00:00-05:00",
-                "endTime": "2026-01-10T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 37,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 37. West wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-01-10T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-10T07:00:00-05:00",
                 "endTime": "2026-01-10T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 26
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
+                "windSpeed": "5 mph",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/bkn/rain,30?size=medium",
                 "shortForecast": "Mostly Cloudy then Chance Light Rain",
-                "detailedForecast": "A chance of rain after 5pm. Mostly cloudy. High near 45, with temperatures falling to around 39 in the afternoon. Northwest wind around 6 mph. Chance of precipitation is 30%."
+                "detailedForecast": "A chance of rain after 5pm. Mostly cloudy. High near 45, with temperatures falling to around 39 in the afternoon. North wind around 5 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-10T18:00:00-05:00",
+                "endTime": "2026-01-11T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 37,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy, with a low around 37. East wind 3 to 7 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As the quiet hours of the night embrace Boston, a gentle veil of clouds carries the coolness of the approaching morning. The temperature lingers in a brisk embrace, around thirty-seven degrees, nudged by a West wind that lightly dances through the stillness. There's an air of tranquility, yet the sky hints at the transition that will unfold with the dawn\u2014an invitation to the day ahead.\n\nTomorrow, a blanket of clouds will gather, holding whispers of rain, particularly after the late afternoon. Expect to feel the chill deepen as temperatures carefully descend to forty-five, then slowly retreat to around thirty-nine as the day lingers. The scent of moisture will hang in the air, but the forecast suggests only a modest chance of precipitation, leaving room for moments of subdued beauty. \n\nTo greet this day, a thoughtful layering of clothing is advised\u2014perhaps a warm sweater beneath a light jacket, paired with sturdy footwear ideal for navigating the damp sidewalks. As the world begins to stir, it may be a fine time for a leisurely stroll through Faneuil Hall, where the remnants of last night\u2019s bustle linger in the crisp air. Alternatively, a visit to a cozy caf\u00e9 for a steaming cup of coffee could be a perfect balm against the penetrating chill. The city, draped in a muted palette, offers an intimate glimpse into winter\u2019s quietude, where one can savor the simple pleasures of a January day.",
-    "color_code": "#4B6E8F",
-    "timestamp": "2026-01-10 03:10:02"
+    "weather_report": "In the quiet embrace of a January morning, Boston emerges under a cloak of cloudiness, the sky a muted canvas painted in soft grays and blues. The air is brisk, urging passersby to layer up; a warm coat, perhaps a knitted scarf, would be the wisest companions against the chill that chases away the lingering warmth of daybreak. With a hint of rain anticipated after the sun\u2019s retreat, the atmosphere holds a palpable tension, as if nature itself is poised for a gentle rainfall, cradled in the whispers of a north wind.\n\nAs the day unfolds, the clouds will deepen in their resolve, painting the afternoon in shades of somber gray, and temperatures will quietly slide down, inviting those around to seek refuge indoors. Tonight promises a steady rain, cloaked in the solace of darkness, with the promise of the earth drinking deeply\u2014a soothing balm for the tiring spirit. A leisurely stroll through the quieter streets might be best given the dampness; perhaps finding a cozy caf\u00e9 to linger in, indulging in warm drinks and soft conversations, would suit the temperament of this day perfectly.",
+    "color_code": "#A3C1C6",
+    "timestamp": "2026-01-10 07:12:08"
 }
