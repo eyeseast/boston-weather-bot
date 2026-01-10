@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-09T19:45:00+00:00",
+            "timestamp": "2026-01-10T00:20:00+00:00",
             "temperature_f": 46.4,
             "temperature_c": 8,
-            "humidity": 75.859700794654,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 190,
-            "description": "Cloudy"
+            "humidity": 93.403401079213,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-01-09T15:00:00-05:00",
-                "endTime": "2026-01-09T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 28
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 4pm. Mostly cloudy. High near 51, with temperatures falling to around 45 in the afternoon. South wind around 10 mph, with gusts as high as 23 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-01-09T18:00:00-05:00",
+                "startTime": "2026-01-09T19:00:00-05:00",
                 "endTime": "2026-01-10T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 46
+                    "value": 100
                 },
-                "windSpeed": "7 to 12 mph",
+                "windSpeed": "2 to 12 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50/bkn?size=medium",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100/bkn?size=medium",
                 "shortForecast": "Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain before 8pm, then a chance of rain and patchy fog between 8pm and midnight. Mostly cloudy, with a low around 37. Southwest wind 7 to 12 mph, with gusts as high as 24 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain before 8pm, then a chance of rain showers and patchy fog between 8pm and midnight. Mostly cloudy, with a low around 37. Southwest wind 2 to 12 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-01-10T06:00:00-05:00",
+                "endTime": "2026-01-10T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 23
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain after 5pm. Mostly cloudy, with a high near 45. North wind around 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds under a blanket of mostly cloudy skies, hinting at the chance of rain that lurks ominously on the horizon. The air, tinged with a slight chill, beckons for a light touch of warmth, as temperatures dance around a brisk 51 degrees before succumbing to the inevitable dip towards 45 later on. A gentle south wind whispers through the streets, offering a soft rustling sound, while the possibility of rain interjects a sense of unpredictability into the day.\n\nAs evening envelops the city, the forecast indicates a more pronounced chance of rain before dusk gives way to the eerie tendrils of patchy fog. With temperatures sinking to a low of 37, the air will carry the dampness, hinting at a mood that is perhaps more contemplative than exhilarating. Layering is wise today; a cozy sweater or a light jacket will serve well against the brisk breeze, complemented by sturdy shoes to prepare for any wet ground. Given these conditions, a leisurely stroll along the Charles could be a soothing choice, though it might be wise to time it just before the rain arrives. Alternatively, one might find solace in a quaint caf\u00e9, sipping on a warm drink while watching the world pass by.",
-    "color_code": "#A3A8B2",
-    "timestamp": "2026-01-09 15:09:31"
+    "weather_report": "As night descends upon Boston, a gentle haze blankets the city, cloaking it in a muted shroud. The forecast whispers of a lingering chance for rain that may flirt with the evening hours, interspersed with patchy fog that stirs like a wisp of dreams across the skyline. The air cools, urging residents to embrace warmth as the temperature dips, inviting a snug embrace from wool and down\u2014the sort of evening where layers feel comforting against the chill.\n\nTomorrow, the promise of the sun remains shrouded in the clouds, casting a soft gray light over the day, distancing itself from the vibrant hues that often greet us. A slight chance of rain may linger, a reminder that winter is a season of bittersweet contrasts. For those venturing out, perhaps a visit to a cozy caf\u00e9 or a leisurely stroll under the shadows of tree-lined streets is in order. With a scarf wrapped gently around the neck and a warm drink in hand, the unremarkable becomes delightful. Embrace the whispers of the evening, for they hold stories waiting to be written.",
+    "color_code": "#4B4C4D",
+    "timestamp": "2026-01-09 19:34:49"
 }
