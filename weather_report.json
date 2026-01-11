@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-11T07:50:00+00:00",
-            "temperature_f": 39.2,
-            "temperature_c": 4,
-            "humidity": 100,
+            "timestamp": "2026-01-11T12:00:00+00:00",
+            "temperature_f": 37.4,
+            "temperature_c": 3,
+            "humidity": 93.14153052995,
             "wind_speed_mph": 24.884388,
-            "wind_direction": 350,
-            "description": "Fog/Mist"
+            "wind_direction": 320,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-11T03:00:00-05:00",
-                "endTime": "2026-01-11T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 54
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50?size=medium",
-                "shortForecast": "Chance Rain",
-                "detailedForecast": "A chance of rain and patchy fog. Cloudy, with a low around 38. North wind around 6 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-01-11T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-11T07:00:00-05:00",
                 "endTime": "2026-01-11T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 27
+                    "value": 18
                 },
                 "windSpeed": "5 to 12 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,30/bkn?size=medium",
-                "shortForecast": "Chance Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain and patchy fog before 7am, then patchy fog and a slight chance of rain between 7am and noon. Mostly cloudy, with a high near 44. Northwest wind 5 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Cloudy",
+                "detailedForecast": "Patchy fog and a slight chance of rain before noon. Mostly cloudy, with a high near 44. Northwest wind 5 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-11T18:00:00-05:00",
+                "endTime": "2026-01-12T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 25,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "12 to 18 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/snow,30/sct?size=medium",
+                "shortForecast": "Chance Snow Showers then Partly Cloudy",
+                "detailedForecast": "A chance of snow showers and a slight chance of rain between 7pm and 9pm. Partly cloudy, with a low around 25. West wind 12 to 18 mph, with gusts as high as 36 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In the quiet hours of the night, Boston finds itself draped under a soft blanket of clouds, laced with the possibility of rain and whispers of fog. The temperature slides mercifully, urging one to snuggle deeper under the covers. A gentle north wind stirs, a fleeting caress, making the cool air feel even more crisp. As dawn approaches, expect a lingering shroud of fog and a slight chance of rain \u2014 a reminder that nature dances in its own time. The day will shape up to be mostly cloudy with a cool high, inviting those who venture out to wrap themselves in layers\u2014perhaps a warm sweater under a light jacket, with a sturdy pair of shoes fit for the occasion.\n\nAs you navigate through your Sunday, the hushed tones of fog hovering over the streets could be an inviting backdrop for a leisurely stroll through the quieter neighborhoods of the city. The crispness in the air may set the stage for a warm cup of coffee at a local caf\u00e9, where the world feels unhurried and reflective. This mist-laden day might just be the perfect invitation to explore quiet corners of the city, perhaps perusing the shelves of a favorite bookstore or indulging in the solitude of a park, where every droplet of moisture glistens in the muted light. Embrace the serenity of a foggy afternoon, where time feels suspended and the simple pleasures of life come to the forefront.",
-    "color_code": "#3B3C3D",
-    "timestamp": "2026-01-11 03:10:06"
+    "weather_report": "The dawn breaks over Boston with a veil of patchy fog lingering, casting an ethereal ambiance over the city. As the cool morning drags on, hints of sunlight struggle to pierce through a predominance of cloud cover that hangs above. The air feels brisk, inviting warm layers to embrace you as you step outside. Higher elevations along the cityscape are blurred, but a subtle promise of transient rain hangs in the atmosphere, tickling the edges of what might have been a clearer day.\n\nAs the day unfolds, temperatures will hover around a modest 44 degrees, with a gentle northwest wind stirring life into the air, though the gusts can unexpectedly swell, reminding you of winter's robust embrace. For those venturing outside, a comfortable jacket layered over a cozy sweater would serve well against the cool breath of the wind, while sturdy footwear is prudent for the anticipated dampness underfoot. A leisurely stroll through nearby parks could be an ideal pursuit; the quiet serenity of the morning contrasts beautifully with the vibrant history of the city. Whether sipping a warm beverage al fresco or simply enjoying the delicate shivers of the early season, it\u2019s a day best spent engaging with the rhythmic pulse of Boston\u2014where nature and urban life coexist. Later, as evening approaches, a shift in the weather may invite a light dusting of snow, transforming the scenery once more.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2026-01-11 07:13:09"
 }
