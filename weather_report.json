@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-13T19:50:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 42.162796995488,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 190,
+            "timestamp": "2026-01-14T00:25:00+00:00",
+            "temperature_f": 39.2,
+            "temperature_c": 4,
+            "humidity": 55.972560585266,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 200,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-01-13T15:00:00-05:00",
-                "endTime": "2026-01-13T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 45. South wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-01-13T18:00:00-05:00",
+                "startTime": "2026-01-13T19:00:00-05:00",
                 "endTime": "2026-01-14T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,20?size=medium",
                 "shortForecast": "Cloudy then Slight Chance Rain Showers",
                 "detailedForecast": "A slight chance of rain showers between 2am and 4am. Cloudy, with a low around 36. Southwest wind around 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-01-14T06:00:00-05:00",
+                "endTime": "2026-01-14T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/ovc?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Cloudy",
+                "detailedForecast": "A slight chance of rain showers between 9am and 10am. Cloudy, with a high near 49. Southwest wind 6 to 9 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "A gentle afternoon bathes Boston in a soft embrace of partly sunny skies, the delicate sunlight casting a welcoming glow upon the urban landscape. The temperature lingers around a modest 45 degrees, inviting a stroll, yet whispering reminders of the cool breeze weaving through the streets, courtesy of a south wind that nudges at eight miles per hour. This late afternoon holds the promise of a tranquil evening, although the horizon hints at a slight chance of rain showers around the witching hour, cloaked in clouds that may weave a gauzy tapestry over the night.\n\nWith the day\u2019s cool breath lingering, those venturing outdoors would benefit from a light yet warm layering; a cozy sweater beneath a jacket would serve well against the brisk air as twilight approaches. As you contemplate your evening's pursuits, consider finding solace in a quiet caf\u00e9, where the aroma of freshly brewed coffee mingles with the hushed laughter of friends. Alternatively, a leisurely walk along the waterfront could evoke reflections glimmering off the water, mingling with the soft rustle of leaves, making for a pleasant interlude. The day, while mild, offers a canvas for those seeking a reprieve in the gentle embrace of a Boston evening.",
-    "color_code": "#add8e6",
-    "timestamp": "2026-01-13 15:09:19"
+    "weather_report": "As evening drapes its silken fabric over Boston, a quiet chill permeates the air, reminding us that winter reigns in subdued tones. Glistening streets and distant twinkling lights hint at life beneath the waning clouds\u2014a soft promise of a night that holds the potential for light rain, subtle yet insistent. The temperatures hover uncomfortably close to the freezing point, whispering for layers to envelop you warmly as you navigate the evening. \n\nTomorrow, the sky will likely flaunt its cloudy guise, with only the faintest touch of sun peeking through, while the air remains brisk. A scattered, fleeting chance of rain could accompany the dawn, urging those venturing out to don their finest snug jackets and perhaps even waterproof footwear. This is a day best suited for quiet pursuits, a stroll through a nearby park wrapped in warm thoughts, or perhaps indulging in the solace of a cozy caf\u00e9, where the aroma of freshly brewed coffee intertwines with muffled conversations. The day's ambiance leans toward introspection, as Boston moves gently through the rhythms of winter; a reminder that even in chill and cloud, beauty\u2014like warmth\u2014resides in shared moments and simple pleasures.",
+    "color_code": "#2F2F2F",
+    "timestamp": "2026-01-13 19:36:07"
 }
