@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-14T08:00:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 70.499329419935,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 210,
-            "description": "Cloudy"
+            "timestamp": "2026-01-14T12:00:00+00:00",
+            "temperature_f": 42.8,
+            "temperature_c": 6,
+            "humidity": 70.299266961976,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 190,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-14T03:00:00-05:00",
-                "endTime": "2026-01-14T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 37,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 12
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 37. Southwest wind around 13 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-01-14T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-14T07:00:00-05:00",
                 "endTime": "2026-01-14T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 15
+                    "value": 3
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,20?size=medium",
-                "shortForecast": "Mostly Cloudy then Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain between noon and 1pm. Mostly cloudy, with a high near 53. South wind 8 to 12 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 53. South wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-14T18:00:00-05:00",
+                "endTime": "2026-01-15T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 40,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 48
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/rain_showers,50?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers between 8pm and midnight, then a chance of rain showers and patchy fog between midnight and 5am, then patchy fog and a slight chance of rain showers. Cloudy, with a low around 40. South wind around 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night deepens in Boston, the air hangs heavy with a blanket of clouds, bringing a chill that wraps around you like a well-worn shawl. The temperature hovers around the cool end of the spectrum, suggesting that if you venture out, a warm layer will be your faithful companion, allowing for comfort amid the brisk whispers of the southwest wind. The landscape is adorned with distant city lights, twinkling like stars fallen to earth, creating a serene backdrop for reflective midnight strolls.\n\nAs dawn approaches and the hours of Wednesday unfold, the skies are expected to remain mostly cloudy, with a glimmer of possibility for light rain around noon, a gentle reminder of the day's variable nature. The high, though milder, will carry a promise of warmth, inviting pedestrians to don their lightest jackets, perhaps a scarf for good measure. A stroll through a nearby park or a visit to a cozy caf\u00e9 could serve as the perfect antidote to this melancholic yet enchanting winter day, where both contemplation and conversation find their harmony under the muted light of the season.",
-    "color_code": "#4B4A4B",
-    "timestamp": "2026-01-14 03:11:08"
+    "weather_report": "As dawn breaks over Boston, a shroud of cloudiness envelops the landscape, casting a muted light across the city. The air carries a hint of chill, a whisper of the colder months still lingering. Today promises a high of 53, but the south wind rustles through the trees, a gentle reminder of the weather's persisting caprice. Cloaked in grey, the day shares the stage with the expectation of rain, a blend of moisture and fog likely to tease the air around midnight, while the temperatures dip to a gentle 40 by the evening. A 50% chance of precursory showers and fog thickening like a well-worn blanket offers a type of beauty tempered by uncertainty.\n\nFor those venturing out, a pragmatic approach is best; perhaps a light jacket layered over cozy knitwear will suffice against the biting coolness of the wind. As the afternoon unfolds, the best activity might lie in meandering through the Boston Common or savoring a quiet moment at a local caf\u00e9, watching the world pass by with a steaming cup of something warm in hand. The gray sky, though perhaps dreary to some, invites contemplation, encouraging a moment of stillness in one\u2019s day. Embrace it, lean into the softness of the atmosphere, and let the pulse of the city carry you gently through this overcast narrative.",
+    "color_code": "#A3BAC9",
+    "timestamp": "2026-01-14 07:14:06"
 }
