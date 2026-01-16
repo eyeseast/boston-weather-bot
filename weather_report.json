@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-16T07:50:00+00:00",
-            "temperature_f": 24.8,
-            "temperature_c": -4,
-            "humidity": 45.731034827067,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 300,
-            "description": "Cloudy"
+            "timestamp": "2026-01-16T12:00:00+00:00",
+            "temperature_f": 17.6,
+            "temperature_c": -8,
+            "humidity": 48.401381089724,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 280,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-16T03:00:00-05:00",
-                "endTime": "2026-01-16T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 20,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 20. West wind around 14 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-01-16T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-16T07:00:00-05:00",
                 "endTime": "2026-01-16T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 32,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "8 to 16 mph",
+                "windSpeed": "16 to 23 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 32. West wind 8 to 16 mph, with gusts as high as 31 mph."
+                "detailedForecast": "Sunny, with a high near 32. West wind 16 to 23 mph, with gusts as high as 37 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-16T18:00:00-05:00",
+                "endTime": "2026-01-17T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 25,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 12
+                },
+                "windSpeed": "7 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/snow?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 3am. Mostly cloudy, with a low around 25. Southwest wind 7 to 15 mph, with gusts as high as 25 mph. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "In the stillness of this early morning, Boston rests under a canopy of cloud-tinged darkness, the air crisp and sharp, whispering the chill of winter. With a temperature barely above twenty, the faint hint of a west wind lends an invigorating bite, suggesting that the day ahead will dance between the stark clarity of sunlight and the playful embrace of winter chill.\n\nAs the sun climbs toward its brightness, expect a transformation. The forecast promises a bright, sunny expanse, with temperatures nearing thirty-two. The winds, while steady, will soften, yet the gusts still echo the restless energy of January, urging you to wrap yourself warmly in layers. A woolen scarf draped casually around your neck, a sturdy jacket shielding you from the breeze, and perhaps a knitted beanie to keep your thoughts warm. \n\nThis day invites you to seek the mundane pleasures of a crisp winter day. Perhaps a leisurely stroll through the parks, where the paths appear painted with frost, or a visit to a cozy caf\u00e9, the kind of place where you can sip something warm while watching the world awaken. As the streets come alive and temperatures rise, take a moment to appreciate the stark beauty of the city, where the brick and stone breathe history against the brilliant backdrop of a clear blue sky, perhaps punctuated by the occasional flight of a winter bird on its journey.",
-    "color_code": "#1F3B6D",
-    "timestamp": "2026-01-16 03:11:01"
+    "weather_report": "As dawn breaks over Boston, the sky gradually reveals itself in a tapestry of gentle blues, touched with hints of warmth. The day unfolds with promises of sun, the bright orb casting its luminous glow across the landscape, though it is not without a briskness that dances in the air. The temperature nudges towards a high of 32 degrees, accompanied by the invigorating presence of a west wind that swirls through the streets, urging one to feel the essence of winter's embrace. Clarity reigns, with no fog to shroud the city\u2019s familiar outlines; instead, a crisp vigor invigorates the spirit, inviting you to experience the world outside.\n\nAs the sun settles into its course, the evening brings whispers of a slight chance of snow, gentle flurries that may grace the ground after the clock strikes three. For now, however, this morning offers a rare charm, perfect for a stroll along the historic avenues or a visit to a local caf\u00e9 where the warmth of baked goods and brewed coffee awaits. A coat layered with a scarf will suffice to withstand the chill, but consider sturdy shoes for whatever icy remnants may linger beneath. As the hours unfold, find solace in the simple pleasures of this beautiful winter day\u2014perhaps take a moment to enjoy the emerging light and the peaceful rhythm of the city awakening around you.",
+    "color_code": "#A7C9E0",
+    "timestamp": "2026-01-16 07:13:53"
 }
