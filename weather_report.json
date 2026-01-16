@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-15T19:50:00+00:00",
-            "temperature_f": 51.8,
-            "temperature_c": 11,
-            "humidity": 50.110207765457,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 200,
+            "timestamp": "2026-01-16T00:20:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 55.433765044563,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-01-15T15:00:00-05:00",
-                "endTime": "2026-01-15T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 50,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 13
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 50, with temperatures falling to around 42 in the afternoon. Southwest wind around 14 mph, with gusts as high as 26 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-01-15T18:00:00-05:00",
+                "startTime": "2026-01-15T19:00:00-05:00",
                 "endTime": "2026-01-16T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 21,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 8
+                    "value": 5
                 },
                 "windSpeed": "9 to 14 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 21. West wind 9 to 14 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-01-16T06:00:00-05:00",
+                "endTime": "2026-01-16T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 32,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "8 to 16 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 32. West wind 8 to 16 mph, with gusts as high as 31 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, the sky embraces a mostly sunny disposition, yet a tapestry of clouds drifts across the horizon, marking a transitional phase in an otherwise crisp winter's day. Current temperatures hover near a cool 50, steadily giving way to a more temperate 42 as the sun lowers, complemented by a westerly breeze that dances gently but insistently at 14 mph, brushing past with gusts that hint at briskness. The air feels almost invigorating, perhaps urging one to step outside and explore the quiet streets or find solace in a local caf\u00e9, where the warmth of brewed coffee invites contemplation.\n\nAs twilight approaches this evening, a blend of partly cloudy skies will usher in colder memories with temperatures dipping to around 21. The westward winds may carry a chill, implying that dressing in layers is not merely advisable but essential. Consider donning a comfortable, sturdy jacket, perhaps with a scarf to shield against the evening air, letting your thoughts wander as you stroll along the banks of the Charles or sit by a cozy window, tapping into the tranquility that this gentle winter day offers. In this serene backdrop, one might find pleasure in simply watching the world shift and change, painting a portrait of winter\u2019s quiet rhythm, as the sun retreats, taking its warmth with it.",
+    "weather_report": "As twilight descends over Boston, the sky wears a cloak of partly cloudy gray, casting a tranquil yet brisk ambiance across the city. With the temperature hovering around a chilly 21 degrees, the west wind whispers through the streets, creating a gentle yet invigorating chill that beckons for a snug scarf and gloves. The lights of Boston twinkle against the night, each one a reminder of the warmth that awaits within cozy caf\u00e9s or bustling restaurants, where the aroma of hot beverages dances in the chilly air.\n\nLooking ahead to tomorrow, a sunlit promise lingers in the atmosphere. With a high near a pleasing 32 degrees, the day should unfold under a bright, open sky, inviting residents and visitors to embrace the outdoors. Layered attire will serve well for the morning\u2019s coolness, but by afternoon, a simple sweater might suffice as nature gifts the city with its golden rays. A stroll through the city's scenic parks, a leisurely visit to the local markets, or perhaps a moment spent reading on a sun-drenched bench could make for charming Saturday pursuits, reminding everyone that even in winter, Boston holds a special kind of warmth.",
     "color_code": "#B0C4DE",
-    "timestamp": "2026-01-15 15:09:24"
+    "timestamp": "2026-01-15 19:36:07"
 }
