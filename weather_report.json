@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-17T07:50:00+00:00",
-            "temperature_f": 28.4,
-            "temperature_c": -2,
-            "humidity": 50.193594861825,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-01-17T12:00:00+00:00",
+            "temperature_f": 30.2,
+            "temperature_c": -1,
+            "humidity": 68.845267915788,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 140,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-17T03:00:00-05:00",
-                "endTime": "2026-01-17T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 25,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 12
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 25. South wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-01-17T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-17T07:00:00-05:00",
                 "endTime": "2026-01-17T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 44,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "5 to 9 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,60?size=medium",
-                "shortForecast": "Slight Chance Light Snow then Rain And Snow Likely",
-                "detailedForecast": "A slight chance of snow between 7am and 10am, then rain and snow likely. Mostly cloudy, with a high near 44. South wind 5 to 9 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,40/rain,60?size=medium",
+                "shortForecast": "Chance Light Snow then Light Rain Likely",
+                "detailedForecast": "A chance of snow before 10am, then rain likely. Cloudy, with a high near 44. South wind 5 to 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-17T18:00:00-05:00",
+                "endTime": "2026-01-18T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 30,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 23
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain before 7pm, then patchy fog between 7pm and 9pm. Mostly cloudy, with a low around 30. Southwest wind around 6 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the clock ticks toward dawn, Boston awakens beneath a cloak of clouds, with temperatures dipping into a cool embrace around 25 degrees. The stillness of the night is only punctuated by a gentle south wind, whispering its way through the urban landscape. As the first light of day approaches, there lingers a promise of moisture in the air, hinting at a slight chance of snow that may greet the cityscape briefly before giving way to a mix of rain and snow throughout the day. The atmosphere appears thick, obscuring clarity and transforming the city into a muted palette of greys.\n\nBy midday, as the mercury climbs toward a modest high near 44, one can expect the scenery to reflect a damp urban chill, underscoring the importance of layering thoughtfully. A warm coat over a cozy sweater, accompanied by a sturdy pair of boots, will serve you well if you venture out to embrace the weather. This is not a day for grand adventures but rather for enjoying the city's quieter corners: perhaps a slow stroll along the waterfront, where the gentle rains caress the pavement, or settling into a favorite caf\u00e9 for a warm drink. You might even find comfort in the pages of a good book, as the world outside blurs slightly, inviting reflection amid the evocative chill of a winter day.",
-    "color_code": "#4A4A4A",
-    "timestamp": "2026-01-17 03:09:42"
+    "weather_report": "As dawn breaks over Boston, the atmosphere carries a weight of potential. The clouds hang low, thick and gray, promising a morning where the delicate dance of snow gives way to the inevitable arrival of rain. With temperatures hovering near a mild but cool 44 degrees, the city seems to cradle itself in a cloak of moisture. A soft breeze wafts in from the south, gently nudging away the chill but adding to the dampness that clings to the air. The prospect of patchy fog later this evening signifies the inevitable melding of water and air, creating an ethereal quality to the hours ahead.\n\nAs the day unfolds, dressing wisely becomes essential; layers will serve best, perhaps a cozy sweater under a waterproof jacket to shield one from the encroaching rain. An umbrella may also be a cunning companion for those venturing outside. Though the gray skies may feel dreary, there\u2019s a beauty in the muted tones of this January day\u2014perfect for a quiet stroll in the neighborhood, savoring a warm beverage, or perhaps losing oneself in the pages of a book at a favorite caf\u00e9. As the day draws towards evening, the softness of the fog may envelop the city, creating a serene ambiance that invites introspection and warmth, a nice conclusion to a cozy winter day.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-01-17 07:11:59"
 }
