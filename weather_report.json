@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-18T07:53:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 95.55453318718,
+            "timestamp": "2026-01-18T12:00:00+00:00",
+            "temperature_f": 30.2,
+            "temperature_c": -1,
+            "humidity": 92.920792863957,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-18T03:00:00-05:00",
-                "endTime": "2026-01-18T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 14
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 30. Southwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-01-18T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-18T07:00:00-05:00",
                 "endTime": "2026-01-18T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 37,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "S",
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/snow,100/snow,90?size=medium",
                 "shortForecast": "Light Snow",
-                "detailedForecast": "A slight chance of snow before 7am, then snow and patchy fog. Cloudy, with a high near 37. South wind around 5 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible."
+                "detailedForecast": "Snow and patchy fog. Cloudy, with a high near 37. West wind 2 to 6 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-18T18:00:00-05:00",
+                "endTime": "2026-01-19T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/snow,100/snow,90?size=medium",
+                "shortForecast": "Snow",
+                "detailedForecast": "Snow before 9pm, then snow and patchy freezing fog. Cloudy, with a low around 27. North wind around 8 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible."
             }
         ]
     },
-    "weather_report": "The night wraps Boston in a cool embrace, a serene quiet broken only by the whispers of the wind. As the world drifts into slumber, the skies shift from dark to a muted cloudiness, indicating the approach of a wintry morning. Expect the gentle fall of snowflakes gracing the streets before most have even awoken. Fog may weave through the city, softening the edges of familiar structures, giving them an ethereal quality amid the stillness. The air carries a bite as temperatures venture into the thirties, encouraging warmth in one's attire.\n\nAs daylight unfurls, the snow and mist may paint the landscape in shades of gray and white. It\u2019s a day for cozy layers: a thick coat, a warm scarf gently wrapped, perhaps a woolen hat to fend off the chill. Sturdy footwear will serve well as the ground may become slick from the impending accumulation. Ideal pursuits today might include a leisurely visit to a local caf\u00e9, where the aroma of fresh coffee mingles with the sound of conversation, or perhaps a quiet stroll through a nearby park, where snow softly blankets the world, transforming it into an idyllic winter scene. It's a moment for reflection, to take a breath and soak in the tranquility before the bustle of the week resumes.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2026-01-18 03:09:59"
+    "weather_report": "In Boston this morning, the air is heavy with the promise of snow, draped in a blanket of low-hanging clouds that evoke a serene yet somber mood. Visibility is notably reduced, as fog weaves its tendrils through the streets, softening the sharp edges of the city. The temperature hovers around a cool 37 degrees, compelling one to dress warmly in layers\u2014perhaps a woolen sweater beneath a sturdy coat, a snug hat, and gloves to fend off the damp chill that lingers in the air. \n\nAs the day unfolds, snow will begin to accumulate, painting the cityscape in a soft, white hue. Expect three to five inches throughout the day and into the evening, transforming the usual bustle into a tranquil winter scene. The weather invites a reflective pause, urging you to savor a cozy afternoon indoors\u2014perhaps enveloped in a favorite book or enjoying a warm beverage while the world outside softens with the fall of snow. The season beckons for slow walks through snow-draped parks, where the familiar trails take on a new beauty under their winter coat. In this kind of weather, there is a profound appreciation for the simple pleasures of the day.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2026-01-18 07:13:03"
 }
