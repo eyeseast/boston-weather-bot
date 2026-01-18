@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-17T18:35:00+00:00",
-            "temperature_f": 37.4,
-            "temperature_c": 3,
-            "humidity": 64.714825534266,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 310,
-            "description": "Cloudy"
+            "timestamp": "2026-01-18T00:20:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 80.519354085991,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 240,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-01-17T15:00:00-05:00",
-                "endTime": "2026-01-17T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 37
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain. Mostly cloudy, with a high near 44. Southwest wind around 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-01-17T18:00:00-05:00",
+                "startTime": "2026-01-17T19:00:00-05:00",
                 "endTime": "2026-01-18T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 30,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 17
+                    "value": 6
                 },
                 "windSpeed": "3 to 7 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20/bkn?size=medium",
-                "shortForecast": "Slight Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A slight chance of rain before 7pm. Mostly cloudy, with a low around 30. Southwest wind 3 to 7 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 30. Southwest wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-01-18T06:00:00-05:00",
+                "endTime": "2026-01-18T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 72
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/snow,50/snow,70?size=medium",
+                "shortForecast": "Light Snow Likely",
+                "detailedForecast": "Snow likely after 7am. Cloudy, with a high near 38. South wind around 5 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the air carries a notable chill, draped in a dense, grayish shroud that hints at the possibility of rain. Though the clouds loom heavily, the warmth of the sun is merely a distant memory, with a high nearing 44 degrees gently teasing any hopes of brightness. A soft, southwestern wind carries whispers of moisture, creating a scene that feels introverted and contemplative. As the clock ticks toward evening, the slight chance of rain before 7 p.m. lingers like a half-formed thought, inviting the city\u2019s inhabitants to seek comfort indoors as day turns to dusk.\n\nGiven the chill, especially as temperatures dip to around 30 tonight, a layered approach to dressing is prudent. A cozy sweater beneath a water-resistant coat would serve well against the brisk air, accompanied by a warm scarf and sturdy shoes to navigate the damp sidewalks. In such a day, one might choose to embrace the indoor comforts, perhaps visiting a quiet caf\u00e9 with a well-worn book or opting for a leisurely stroll through the hushed city streets, taking in the moody landscape while sipping a warm drink. Tonight, as the light fades, a cozy gathering with friends or a cherished movie might just bring warmth to match the chill of the evening.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2026-01-17 15:07:28"
+    "weather_report": "As night drapes itself over Boston, a layer of clouds looms overhead, softening the city\u2019s details into shadows. The chill in the air\u2014a whisper of the impending winter\u2014hints at a night settling around thirty degrees, reminding all to bundle up and breathe in the sharpness of the season. A gentle southwest wind stirs lazily, suggesting a shiver-inducing stillness as the evening deepens. There\u2019s a sense of quietude, broken only by the distant hum of city life, inviting contemplative moments or the companionship of a favorite book.\n\nLooking ahead to tomorrow, expect the clouds to thicken more substantially, pregnant with the promise of snowfall after daybreak. As the world awakens, flakes may begin their gentle dance from the sky, blurring the edges of a wintry landscape. The temperature will reach around thirty-eight, but the shift in atmosphere will chill the spirits, wrapping the city in a cloak of soft white. This day calls for a well-worn scarf, knit gloves, and perhaps a sturdy umbrella steadfast against light precipitation. Local parks may beckon, if one craves to wander, but consider a warm caf\u00e9 for a steaming cup of coffee or tea instead, where soft conversations and the aroma of baked goods provide warmth against the cool encroachment of winter\u2019s embrace.",
+    "color_code": "#394D7C",
+    "timestamp": "2026-01-17 19:38:36"
 }
