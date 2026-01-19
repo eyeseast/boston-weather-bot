@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-19T08:00:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 92.920792863957,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 320,
+            "timestamp": "2026-01-19T11:55:00+00:00",
+            "temperature_f": 28.4,
+            "temperature_c": -2,
+            "humidity": 92.863965557739,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Light Snow and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-19T03:00:00-05:00",
-                "endTime": "2026-01-19T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 29,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,100?size=medium",
-                "shortForecast": "Snow Showers",
-                "detailedForecast": "Snow showers. Cloudy, with a low around 29. Northwest wind around 5 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible."
-            },
-            {
-                "number": 2,
                 "name": "M.L. King Jr. Day",
-                "startTime": "2026-01-19T06:00:00-05:00",
+                "startTime": "2026-01-19T07:00:00-05:00",
                 "endTime": "2026-01-19T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/snow,100/snow,20?size=medium",
                 "shortForecast": "Snow Showers",
                 "detailedForecast": "Snow showers before 1pm. Mostly cloudy, with a high near 35. West wind 2 to 10 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-19T18:00:00-05:00",
+                "endTime": "2026-01-20T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 17,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 11
+                },
+                "windSpeed": "9 to 13 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 17. Southwest wind 9 to 13 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "In Boston this early morning, the world is draped in a quilt of soft snow showers, enveloping the city in a muted serenity. The temperature sits at 29 degrees, and a gentle northwest breeze whispers through the quiet streets. As the sun prepares to rise, the promise of more snow hangs heavily in the air, making the chance of precipitation feel certain. For those venturing out, a warm coat and sturdy boots become essential companions, providing comfort against the chill and slush the day will surely bring.\n\nAs we look forward to the hours ahead, the snow is expected to linger until the early afternoon, softly blanketing the city in a layer of white. Later, the clouds may part just a little, offering brief glimpses of the sky, but overall, expect a mostly cloudy day with temperatures edging up to around 35. While the scene may present a stark, wintry beauty, it offers little allure for outdoor activities. Instead, cozying up with a warm drink at a local caf\u00e9 or perhaps visiting a favorite bookstore seems much more appealing. As the day unfolds with a quiet charm, consider embracing the stillness, letting the snowfall fill the senses with its gentle cadence, pulling you into a moment of reflection.",
-    "color_code": "#A8B3C8",
-    "timestamp": "2026-01-19 03:13:24"
+    "weather_report": "As dawn breaks over Boston, a blanket of quiet snow envelopes the city, casting a soft hush throughout the streets. The day is wrapped in a shroud of clouds, offering only a whisper of light as snow showers linger before noon. With temperatures hovering around a chilly 35 degrees, a gentle west wind brushes against your face, urging you to button up and seek warmth. The promise of a fresh dusting of snow, albeit modest, glimmers like a hidden treasure among the solemn gray. \n\nAs the day progresses, the skies are expected to clear, transforming into a crisp evening with temperatures dipping to around 17 degrees, where the chill seeks out any unprepared skin. A brisk southwest wind will add an invigorating bite, suggesting that it would be wise to don a sturdy coat, warm gloves, and perhaps a well-fitted scarf for that quick jaunt outside. With this wintry tapestry, consider a leisurely stroll through local streets as the sun dips low, allowing the golden hour to cast an enchanting glow on freshly fallen snow. Or perhaps a quiet afternoon inside, with a good book and a hot drink, would be the perfect refuge from the cold. Embrace the winter's embrace, as it offers both beauty and a chance to indulge in the simple pleasures of the season.",
+    "color_code": "#A9B0C6",
+    "timestamp": "2026-01-19 07:15:22"
 }
