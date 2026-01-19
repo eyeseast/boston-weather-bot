@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-18T19:50:00+00:00",
-            "temperature_f": 35.6,
-            "temperature_c": 2,
-            "humidity": 93.0873117058,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 90,
-            "description": "Fog/Mist"
+            "timestamp": "2026-01-19T00:25:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 92.97695284763,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 360,
+            "description": "Light Snow and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-01-18T15:00:00-05:00",
-                "endTime": "2026-01-18T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 37,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 68
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,70?size=medium",
-                "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely. Cloudy, with a high near 37. Northeast wind around 5 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-01-18T18:00:00-05:00",
+                "startTime": "2026-01-18T19:00:00-05:00",
                 "endTime": "2026-01-19T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 28,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow,100/snow,70?size=medium",
                 "shortForecast": "Snow",
                 "detailedForecast": "Snow before 5am. Cloudy, with a low around 28. North wind around 6 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "M.L. King Jr. Day",
+                "startTime": "2026-01-19T06:00:00-05:00",
+                "endTime": "2026-01-19T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 34,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 28
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/snow,30/bkn?size=medium",
+                "shortForecast": "Chance Light Snow then Mostly Cloudy",
+                "detailedForecast": "A chance of snow before 10am. Mostly cloudy, with a high near 34. West wind 3 to 10 mph. Chance of precipitation is 30%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the atmosphere weighs heavy with anticipation, as snow is likely to blanket the landscape. The skies are cloaked in a solemn gray, imparting a sense of tranquil isolation. As we hover around a high of 37 degrees, a gentle northeast wind stirs slightly, hinting at the chill that will settle in as the sun wanes. The prospect of precipitation looms, with a 70% chance suggesting that, before long, we will trade wet pavement for a soft, white coating.\n\nAs evening arrives and the clock ushers us past 5 PM, snowflakes will mingle with the clouds, painted with the certainty of 100% precipitation. A low of 28 degrees promises a frigid embrace, making it essential for denizens to bundle up warmly. Layering is advised, with cozy scarves and insulated coats becoming allies against the biting cold and impending snowfall. The world outside may soon become a picturesque winter scene, albeit one that invites a cozy retreat. Perfect for curling up with a book or sharing warm conversations over steaming mugs, the ambiance encourages those venturing out for quick errands to proceed with care on the slick pathways. While the day may feel dreary, it presents a chance to savor simple pleasures that winter brings to our urban tapestry.",
-    "color_code": "#A9A3B6",
-    "timestamp": "2026-01-18 15:08:06"
+    "weather_report": "As dusk settles over Boston this evening, a wintry embrace envelops the city. Snow has begun to fall, painting the streets with a soft layer of powder, casting a serene, silvery hue upon the landscape. The air is crisp and biting, with temperatures hovering around a chill-inducing 28 degrees. A gentle north wind whispers through the barren branches, as if urging you to find comfort indoors. The promise of three to five inches of snow might encourage a spontaneous evening of cozy indulgence\u2014perhaps a warm drink and a favorite book by candlelight.\n\nLooking to tomorrow, a light chance of lingering snow before mid-morning transforms the city's skyline into a muted tapestry, where visibility may dance in and out of clarity. The high will be a modest 34 degrees, shadowed by clouds and a subtle breeze from the west. It would be wise to don layers\u2014perhaps a thick wool sweater beneath a well-insulated coat\u2014with sturdy boots to navigate the slushy remnants of the snow. Given the mood of the day, consider a walk through the hushed streets, where the world feels at rest, or a visit to a local caf\u00e9, where the promise of steaming drinks beckon warmth against the day's chill.",
+    "color_code": "#B0C4E1",
+    "timestamp": "2026-01-18 19:38:11"
 }
