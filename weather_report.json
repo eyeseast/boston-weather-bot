@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-21T07:50:00+00:00",
-            "temperature_f": 6.800000000000001,
-            "temperature_c": -14,
-            "humidity": 71.718127970997,
+            "timestamp": "2026-01-21T12:00:00+00:00",
+            "temperature_f": 3.1999999999999993,
+            "temperature_c": -16,
+            "humidity": 84.562650840648,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-21T03:00:00-05:00",
-                "endTime": "2026-01-21T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 12,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 12. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-01-21T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-21T07:00:00-05:00",
                 "endTime": "2026-01-21T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 27,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 27. Southwest wind 5 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-21T18:00:00-05:00",
+                "endTime": "2026-01-22T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 56
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,60/snow,40?size=medium",
+                "shortForecast": "Light Snow Likely",
+                "detailedForecast": "Snow likely between 7pm and 4am. Mostly cloudy. Low around 27, with temperatures rising to around 34 overnight. Southwest wind 6 to 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the dark velvet of night holds sway over Boston, the air remains crisp and clear, promising clarity as dawn approaches. Tonight\u2019s stillness envelops the city, whispering of the chill that will linger, with temperatures dipping to a cool 12 degrees. By morning, the sun will rise robustly into a mostly sunny sky, punctuated by a gentle southwest breeze, ushering in a high near 27 degrees. The fresh daylight will wash over the city, illuminating the streets with a golden hue as the warmth lifts from the horizon.\n\nTo best embrace the unfolding day, one should dress in layers, donning a warm coat and a cozy hat to fend off the morning chill, while perhaps trading those for lighter clothing by afternoon as the sun makes its presence felt. It is an ideal time to venture out for an invigorating walk along the Charles, where the tranquil waters reflect the awakening light, or to explore one of the city\u2019s quaint coffee shops, savoring a warm drink while nestled by the window as life stirs outside. Today is not merely about weather; it is an invitation to indulge in simple pleasures and to find comfort in the beauty that surrounds us as winter persists in its quiet, resolute way.",
-    "color_code": "#D1D1D1",
-    "timestamp": "2026-01-21 03:12:18"
+    "weather_report": "This morning in Boston, a delicate tranquility envelops the landscape, as the sun peeks over the horizon, casting a soft glow onto the city. The air is crisp, with temperatures gently hovering around a refreshing 27 degrees, a precursor to what promises to be a day of contrasts. The sky is mostly sunny now, but whispers of an impending change are already evident; clouds gather quietly on the western edge, ready to usher in a shift come evening. As the day unfolds, expect the warmth of the sun to reach a pleasant peak near 27 degrees, complemented by a gentle southwest breeze that carries a freshness through the streets and parks.\n\nAs the sun sets, however, the clouds will thicken, signaling a likely snowfall between the hours of dusk and the early morning hush. With a 60% chance of precipitation, those seeking outdoor adventures might do well to take advantage of the daylight hours, perhaps wandering through local coffee shops or perusing the bookstores that dot the neighborhood. Subtle layers will serve you well: a soft scarf and a warm coat will keep the chill at bay today, while later, the promise of snow might summon thoughts of cozy evenings by the window, watching the world transform into a canvas of white. In this fleeting interlude before the storm, there is both beauty and comfort to be found, where the rhythm of a typical winter day lingers gently in the air.",
+    "color_code": "#A7B2C9",
+    "timestamp": "2026-01-21 07:15:24"
 }
