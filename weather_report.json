@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-22T07:50:00+00:00",
-            "temperature_f": 35.6,
-            "temperature_c": 2,
-            "humidity": 86.601412091818,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 210,
-            "description": "Unknown Precipitation"
+            "timestamp": "2026-01-22T12:00:00+00:00",
+            "temperature_f": 37.4,
+            "temperature_c": 3,
+            "humidity": 69.687768711566,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 220,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-22T03:00:00-05:00",
-                "endTime": "2026-01-22T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 25,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 34
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,30?size=medium",
-                "shortForecast": "Chance Rain And Snow",
-                "detailedForecast": "A chance of rain before 4am, then a chance of rain and snow. Cloudy. Low around 25, with temperatures rising to around 33 overnight. Southwest wind around 10 mph, with gusts as high as 22 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-01-22T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-22T07:00:00-05:00",
                 "endTime": "2026-01-22T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 42,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 9
+                    "value": 3
                 },
                 "windSpeed": "8 to 12 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 42. Southwest wind 8 to 12 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-22T18:00:00-05:00",
+                "endTime": "2026-01-23T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 22,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 22. West wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As the dark hours of the night retreat, Boston stands watch under a cloak of clouds. There\u2019s a sense of stillness in the air, yet the hint of moisture lingers, signaling a chance of rain\u2014a precursor to a playful mix of rain and snow. The temperature feels crisp, nipping at exposed skin, while the winds generate an occasional rustle, whispering tales of the warmth that awaits in the rising hours. With clouds thickening overhead, visibility may feel somewhat muted, casting a gentle shroud over the city's vibrant lights.\n\nAs dawn unfurls, Boston will awaken to a more cheerful disposition. The sky promises to clear as the day matures, revealing a canvas of blue punctuated by the warmth of the sun, casting shadows upon the streets below. By midday, expect a mildness that invites layers but does not demand heavy attire. A fitted sweater or a light jacket would harmonize with the soft southern winds, allowing for both comfort and ease. The day\u2019s gentler qualities create an ideal backdrop for leisurely strolls through the city's historic neighborhoods or perhaps a visit to a cozy caf\u00e9, where one might curl up with a good book and a warm cup in hand, savoring the simple joys of a winter\u2019s day.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-01-22 03:11:20"
+    "weather_report": "As dawn breaks over Boston, the skyline emerges from a blanket of cool, muted colors, hinting at the promise of a mostly sunny day ahead. The air carries a distinct chill, and despite the clarity that the forecast predicts, a gentle veil of clouds lingers, softening the edges of the bustling city. With a high of 42 on the horizon, the day invites those with a taste for exploration and the routine alike to step outside, albeit dressed warmly. A sturdy coat, perhaps layered over a sweater, paired with a cozy scarf, will offer not just comfort but a touch of style against the brisk southwest winds that will accompany the sun.\n\nAs the hours unfurl, the fading light will draw shadows long, transitioning into a night wrapped in a cooler embrace, cooling off to about 22. Evenings with such a chill are best spent indoors, bundled up with a good book or a hot beverage, listening to the quiet hum of a winter's night. While the scenery radiates a serene quietude, the tranquility is only broken by the occasional flurry of activity \u2014 a casual stroll down a familiar street adorned with hints of the season can unearth joys often overlooked. In this modest yet beautiful day, Boston offers an array of simple pleasures to those willing to embrace the nuances of winter.",
+    "color_code": "#A6B3C0",
+    "timestamp": "2026-01-22 07:15:56"
 }
