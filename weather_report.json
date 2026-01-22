@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-21T20:00:00+00:00",
+            "timestamp": "2026-01-22T00:20:00+00:00",
             "temperature_f": 26.6,
             "temperature_c": -3,
-            "humidity": 35.994785896216,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 220,
-            "description": "Clear"
+            "humidity": 63.286827800672,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 180,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-01-21T11:00:00-05:00",
-                "endTime": "2026-01-21T18:00:00-05:00",
+                "name": "Tonight",
+                "startTime": "2026-01-21T18:00:00-05:00",
+                "endTime": "2026-01-22T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 25,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 48
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,50/snow,40?size=medium",
+                "shortForecast": "Chance Light Snow",
+                "detailedForecast": "A chance of snow before 10pm, then a chance of snow and patchy fog between 10pm and 11pm, then patchy fog and a chance of rain and snow between 11pm and midnight, then patchy fog and a chance of rain and snow between midnight and 1am, then a chance of rain and snow between 1am and 2am, then a chance of rain and snow between 2am and 4am. Mostly cloudy. Low around 25, with temperatures rising to around 34 overnight. Southwest wind 6 to 10 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-01-22T06:00:00-05:00",
+                "endTime": "2026-01-22T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 27,
+                "temperature": 42,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 9
                 },
-                "windSpeed": "9 mph",
+                "windSpeed": "8 to 12 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 27. Southwest wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-01-21T18:00:00-05:00",
-                "endTime": "2026-01-22T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 56
-                },
-                "windSpeed": "6 to 9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,60/snow,40?size=medium",
-                "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely between 7pm and 4am. Mostly cloudy. Low around 27, with temperatures rising to around 34 overnight. Southwest wind 6 to 9 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 42. Southwest wind 8 to 12 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, the sky hangs in a somber gray, casting a muted softness over the cityscape. The current temperature is a mild 27 degrees, making it feel somewhat like a gentle embrace rather than a harsh winter bite, especially as the southwest wind whispers around 9 mph. While the sun remains partly hidden, the day has a tranquil quality, a prelude to the snow that will likely make its entrance later this evening. There\u2019s a palpable energy in the air, a sense that the clouds may soon be weeping with joy as light snowfall is expected between the evening hours.\n\nAs twilight approaches, temperatures will rise modestly to around 34, inviting those who enjoy the changing seasons to appreciate the quiet beauty that a snowy evening can bring. Dressing in layers, perhaps with a warm coat, a cozy scarf, and a pair of sturdy boots, would be wise for venturing out. One might find pleasure in a leisurely stroll along a nearby park or take refuge in a quiet caf\u00e9, where warm drinks await to thaw the chill. Alternatively, there\u2019s always a charm to an early evening spent at home, listening to the soft fall of snow outside, while perhaps curling up with a book or enjoying a casual dinner with friends. The day's muted tones and impending snow create the perfect backdrop for simple joys, inviting reflection and comfort.",
-    "color_code": "#A7A8AA",
-    "timestamp": "2026-01-21 15:12:44"
+    "weather_report": "As the clock approaches evening in Boston, the city's whispering streets are laced with a soft, uncertain chill. Veils of patchy fog hang in the air, coiling like tendrils from the ground as light snowflakes begin to dance, blurring the edges of a slightly overcast horizon. The early hours will witness an interlude between winter's grasp and the promise of milder temperatures \u2013 a delicate balance, with lows retreating to around 25, then ascending towards 34 as the night unfolds. The Southwest wind, gentle yet persistent, carries the scent of damp earth and icy air, inviting residents to wrap themselves in warmth before stepping out into the muted glow of streetlights.\n\nTomorrow, the sun will shake off the night\u2019s embrace, revealing a clearer sky where light will spill forth generously onto the cityscape, beckoning one to venture outside. A high near 42 will offer a refreshing escape from the chill that lingered just hours prior. For those wandering down brick-paved streets or through the serene parks, layering up will be wise \u2014 a cozy sweater beneath a stylish overcoat could match both the pleasant sunlit hours and the cool breeze that occasionally sweeps through. Consider a quiet stroll along the river or perhaps an afternoon spent at a quaint caf\u00e9, where the warmth of a hot drink contrasts perfectly with the crispness just beyond the windows. As dusk approaches again, it may be the ideal canvas for reflection, a moment of stillness brought forth by winter's embrace through soft whispers of fog and gentle snow.",
+    "color_code": "#5B5C56",
+    "timestamp": "2026-01-21 19:36:53"
 }
