@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-23T19:53:00+00:00",
-            "temperature_f": 33.98,
-            "temperature_c": 1.1,
-            "humidity": 30.438759969598,
-            "wind_speed_mph": 45.903240000000004,
-            "wind_direction": 280,
-            "description": "Clear"
+            "timestamp": "2026-01-24T00:25:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 38.468562428669,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-01-23T15:00:00-05:00",
-                "endTime": "2026-01-23T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 31. West wind around 12 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-01-23T18:00:00-05:00",
                 "endTime": "2026-01-24T06:00:00-05:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 2. Wind chill values as low as -12. West wind around 13 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-01-24T06:00:00-05:00",
+                "endTime": "2026-01-24T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 15,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 15. Wind chill values as low as -13. Northwest wind 7 to 10 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon breathes life into Boston, a gentle sun peeks through the clouds, casting a soft glow across the cityscape. The high temperatures flirt with the upper thirties, invigorated by a brisk west wind that dances at around twelve miles per hour. Onlookers might notice a hint of chill in the air, a reminder that winter is still entwined with the season, with gusts capable of stealing warmth and rustling leaves. Tonight, however, is poised to take on a more somber tone, with the mercury plummeting to a lows that feel even more severe, as biting wind chill values dip dangerously low, wrapping the evening in a frigid embrace.\n\nIn this midwinter cloak, comfort becomes a priority. Layering is essential; embrace the warmth of thick sweaters, paired with a windbreaker to shield against the sharp gusts. A soft scarf can be your intimate ally against the evening chill, and sturdy boots will carry you through streets that might still whisper of past snows. As the sun sinks low, consider how a peaceful leisurely stroll alongside the Charles River might lift your spirits amidst the cool air\u2014perhaps even a quiet place to reflect or read a good book beneath the last lazy rays of sunlight. While the day begins to fade, the beauty of the late afternoon sky offers a tranquil conclusion to a Sunday, inviting a sense of calm amid the winter's grasp.",
-    "color_code": "#A9D0F5",
-    "timestamp": "2026-01-23 15:09:16"
+    "weather_report": "As twilight descends upon Boston, the crisp air carries a biting chill, a stark reminder of winter's embrace. Tonight's sky remains predominantly clear, offering glimpses of celestial bodies that twinkle against the dark canvas, though the wind whispers secrets through the trees, making the wind chill feel significantly colder than the air temperature itself. Wrapped in layers against the brisk westward gusts, a stroll through the nearly silent streets can be a gypsy's dance, with the promise of serenity found in the softly illuminated windows of nearby homes.\n\nLooking ahead to the morrow, the sun will grace the city with its warm glow, but don't expect it to thaw the chill that continues to beckon in cold whispers. A splendidly clear day looms, perfect for a leisurely walk alongside the Charles River or perhaps a casual visit to a local caf\u00e9, where steam rises from mugs, curling upwards like a dance in the air. Dressing in cozy layers, a heavy coat and a scarf are essential as temperatures barely breach the teens. It is an opportune time to celebrate the small joys of winter: enjoy the warmth of a hearty soup or perhaps indulge in a good book while nestled in a blanket by the window, witnessing the world outside transition from silence to a vibrant hum as the day unfolds.",
+    "color_code": "#245E4A",
+    "timestamp": "2026-01-23 19:34:35"
 }
