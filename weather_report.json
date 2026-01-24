@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-24T07:50:00+00:00",
-            "temperature_f": 8.600000000000001,
-            "temperature_c": -13,
-            "humidity": 27.283189461074,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 300,
+            "timestamp": "2026-01-24T11:50:00+00:00",
+            "temperature_f": 3.1999999999999993,
+            "temperature_c": -16,
+            "humidity": 38.264592017113,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 320,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-24T03:00:00-05:00",
-                "endTime": "2026-01-24T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 2,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 2. Wind chill values as low as -10. Northwest wind around 10 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-01-24T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-24T07:00:00-05:00",
                 "endTime": "2026-01-24T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 14,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 14. Wind chill values as low as -13. Northwest wind 6 to 10 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-24T18:00:00-05:00",
+                "endTime": "2026-01-25T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 6,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 6. Wind chill values as low as -2. Northwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the stars recede and the warmth of day edges toward the horizon, Boston wears a cloak of chilly clarity, perfectly aligned with the crisp forecast. Overnight, the air remains remarkably still, a silence punctuated only by the occasional gust that chills the skin down to the bone. With current temperatures dipping around the two-degree mark, it is a night that beckons for layers; an embrace of wool and down, gloves clasped tightly\u2014a defense against the biting wind chill that creeps below ten degrees.\n\nAs dawn breaks, Saturday promises a sun-drenched spectacle, with temperatures climbing toward fourteen. The day shines bright with clear skies, inviting parades of sunlight that invigorate even the coldest hearts, yet the brisk northwest wind teases the unsuspecting with its chill. This interplay of warmth and cool beckons residents to venture into the wintry morning, perhaps for a quiet stroll along the Esplanade or a leisurely coffee at a local caf\u00e9 with frosty windows briefly fogged from the warmth of a warm beverage. Intricate layers will be essential; a good woolen hat and insulated coat will serve you well, for while the sun might shine, its warmth joins the chill in a dance that commands respect. \n\nFor those contemplating an outing, consider trimming the day with simple joys: a leisurely walk through Boston's historic streets, taking in the architecture and lingering in the sun's embrace when possible, followed by a return to the comfort of home, preferably with something warm to sip. Embrace the duality of the day as the sun casts long shadows over the frozen landscape; it's a perfect time to find delight in the mundane, where the beauty of winter can truly unfold.",
-    "color_code": "#001F3F",
-    "timestamp": "2026-01-24 03:10:05"
+    "weather_report": "As dawn unfolds over Boston, a crisp clarity envelops the city, offering a brisk embrace of winter air. The forecast hints at a bright day ahead, ideal for those who savor the invigorating chill. Despite the sunshine, the piercing winds create a significant wind chill, urging residents to bundle up with scarves and layered clothing to ward off the biting cold. The morning's tranquility is accentuated by a broad expanse of brilliant blue sky that carries no trace of fog, enhancing the day\u2019s inviting atmosphere.\n\nAs the sun climbs higher, the temperature is set to rise, albeit modestly, allowing for leisurely strolls in the parks or perhaps a quiet moment over a warm beverage at a nearby caf\u00e9. Those who are drawn to the outdoors might find solace among the frosted trees, where the sunlight dances through the branches, creating a picturesque winter scene. Evening will bring a shift as clouds blanket the sky, ushering in a chill that suggests a cozy night indoors\u2014perfect for reading or indulging in a culinary experiment in the kitchen. A day of balance, where one can relive the pleasures of winter in both sunlit outings and intimate evenings by the fire.",
+    "color_code": "#A6B3D0",
+    "timestamp": "2026-01-24 07:12:26"
 }
