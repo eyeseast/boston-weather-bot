@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-24T19:50:00+00:00",
-            "temperature_f": 15.8,
-            "temperature_c": -9,
-            "humidity": 21.763230121125,
-            "wind_speed_mph": 37.286316,
+            "timestamp": "2026-01-25T04:20:00+00:00",
+            "temperature_f": 8.600000000000001,
+            "temperature_c": -13,
+            "humidity": 29.91845539999,
+            "wind_speed_mph": 16.589592000000003,
             "wind_direction": 310,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-01-24T15:00:00-05:00",
-                "endTime": "2026-01-24T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 14,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 14. Northwest wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-01-24T18:00:00-05:00",
+                "startTime": "2026-01-24T20:00:00-05:00",
                 "endTime": "2026-01-25T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 5,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 5. Wind chill values as low as -2. Northwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-01-25T06:00:00-05:00",
+                "endTime": "2026-01-25T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 29,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/snow,30/snow,100?size=medium",
+                "shortForecast": "Heavy Snow",
+                "detailedForecast": "Snow after 9am. Cloudy. High near 29, with temperatures falling to around 16 in the afternoon. Wind chill values as low as 0. North wind 3 to 7 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 7 inches possible."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sun casts a warm yet crisp light across the skyline, creating a serene tableau of urban life against a backdrop of clear blue skies. With temperatures hovering near a delightful 14 degrees, a gentle northwest breeze stirs the air, enhancing the crispness while bringing a touch of invigorating chill. As evening settles in, expect a shift to a cozy embrace of mostly cloudy skies, a reminder that winter\u2019s hold remains firm. Though temperatures may dip to around 5 degrees, the wind chill could whisper as low as -2, nudging a thoughtful nod toward warm layers for those venturing outdoors.\n\nWith the sun\u2019s brightness still holding steady, it\u2019s an exquisite time for a leisurely stroll through the park or perhaps a visit to a quaint caf\u00e9, where warm drinks await the weary traveler. Thoughtful layering is essential; a sturdy coat adorned with a snug scarf and perhaps a hat will serve one well against the keen breeze. As the day's vibrancy fades, an evening indoors, perhaps with a good book or engaging conversation, promises comfort against the cold outside. Let the beauty of this winter day inspire simple joys, whether in the brisk air or the warmth of home.",
-    "color_code": "#6EB0E3",
-    "timestamp": "2026-01-24 15:07:35"
+    "weather_report": "As the chill of the night sets in over Boston, a surreal blanket of clouds cloaks the city, whispering tales of an impending snow. The air carries the distinct bite of winter, dipping to a cool 5 degrees, further intensified by wind chill factors that tease the imagination with visions of ice. The night is draped in darkness, punctuated only by the distant twinkle of city lights\u2014each one a tiny beacon amid the enveloping shadows. \n\nTomorrow promises to be an evocative mix as snow begins to fall gracefully after the morning light, transforming the gray landscape into a delicate tapestry of white. With high temperatures barely crawling to 29, and a chill that lingers, it is wise to don layers\u2014a cozy sweater beneath a sturdy winter coat, perhaps topped with a wool hat and a scarf wrapped closely. The air will feel crisp, and while the snow may inhibit certain outings, there is a comforting beauty in the whitened streets. Far from merely an inconvenience, the snowfall invites one to sip a warm cup at a local caf\u00e9 or meander through the serene parks, where the world pauses to breathe under its frosty embrace.",
+    "color_code": "#2F4F4F",
+    "timestamp": "2026-01-24 23:29:12"
 }
