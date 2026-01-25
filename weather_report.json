@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-25T07:50:00+00:00",
+            "timestamp": "2026-01-25T12:00:00+00:00",
             "temperature_f": 6.800000000000001,
             "temperature_c": -14,
-            "humidity": 35.556783843011,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Clear"
+            "humidity": 38.925444040829,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 360,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-25T02:00:00-05:00",
-                "endTime": "2026-01-25T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 5,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 5. Wind chill values as low as -2. Northwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-01-25T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-25T07:00:00-05:00",
                 "endTime": "2026-01-25T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 98
+                    "value": 100
                 },
                 "windSpeed": "3 to 7 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/snow,40/snow,100?size=medium",
                 "shortForecast": "Heavy Snow",
-                "detailedForecast": "Snow after 10am. Cloudy. High near 30, with temperatures falling to around 24 in the afternoon. Wind chill values as low as 0. North wind 3 to 7 mph. Chance of precipitation is 100%. New snow accumulation of 7 to 11 inches possible."
+                "detailedForecast": "Snow after 10am. Cloudy. High near 30, with temperatures falling to around 24 in the afternoon. North wind 3 to 7 mph. Chance of precipitation is 100%. New snow accumulation of 7 to 11 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-25T18:00:00-05:00",
+                "endTime": "2026-01-26T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 20,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "8 to 14 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/snow,100?size=medium",
+                "shortForecast": "Heavy Snow",
+                "detailedForecast": "Snow. Cloudy. Low around 20, with temperatures rising to around 28 overnight. Northeast wind 8 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 100%. New snow accumulation of 10 to 16 inches possible."
             }
         ]
     },
-    "weather_report": "As the night drapes itself over Boston, a quiet cloak of mostly cloudy skies settles in, bringing with it temperatures that dip to a brisk five degrees. There's a chill that slinks through the air, a wind chill that can feel as icy as two degrees below zero, reminding us of winter\u2019s resolute grip. The gentle northwest breeze barely stirs, almost hesitant to disrupt the tranquility of the late hour.\n\nCome morning, snow will begin to fall as the city awakens, a soft blanket of white expected to accumulate generously. By late afternoon, temperatures will drop further, settling around a hovering 24 degrees, while the wind picks up slightly to evoke a quiet whistle through the streets. With a certainty of snow, the promise of seven to eleven inches creates an enchanting scene that will transform Boston into a winter wonderland. However, this beauty comes with the need for practicality; layering becomes essential for the day ahead. Opt for a warm coat, gloves, and a cozy hat to navigate the frosty air, perhaps even waterproof footwear to tread through fresh snow. It might not be the day for grand adventures, but a brisk walk through snow-draped streets or a leisurely afternoon spent at a local caf\u00e9 watching the world dusted in white could turn the day into a simple pleasure. Find solace in the small moments, as winter\u2019s chill gives way to the warm glow of a welcoming hearth.",
-    "color_code": "#4B4C4E",
-    "timestamp": "2026-01-25 03:10:04"
+    "weather_report": "In Boston today, the landscape is draped in a heavy blanket of clouds, foreboding yet artfully creating an atmosphere of calm as the city prepares for the arrival of winter\u2019s grace. Snow begins its descent shortly after the morning\u2019s hush, promising to envelop the world outside in soft silence. The air, crisp and biting, will dip to a high of 30 degrees before retreating into the realm of the mid-20s by afternoon. Enthralled in this snowfall, residents can expect an impressive accumulation, transforming the city into a chic winter wonderland.\n\nAs night falls, the precipitation will intensify, with steady snow continuing and temperatures crawling back up, hinting at an uncharacteristically warm evening for January. Winds from the northeast may stir the snowflakes into a playful dance, inviting thoughts of cozy evenings by the fire. It would be wise to dress in layers; warm coats paired with insulated gloves and sturdy boots will ensure comfort against the chill and the accumulating snow. For those brave enough to venture out, a quiet stroll through snow-laden parks or a visit to your favorite coffee shop will provide a pleasing contrast to the snowy backdrop. The beauty of winter is not to be rushed; embrace it for all its quietude and snowy charm.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-01-25 07:13:34"
 }
