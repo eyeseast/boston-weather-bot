@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-28T08:00:00+00:00",
-            "temperature_f": 8.600000000000001,
-            "temperature_c": -13,
-            "humidity": 71.927084413121,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 250,
+            "timestamp": "2026-01-28T12:00:00+00:00",
+            "temperature_f": 1.3999999999999986,
+            "temperature_c": -17,
+            "humidity": 77.499843003853,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-28T03:00:00-05:00",
-                "endTime": "2026-01-28T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 3,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 3. Wind chill values as low as -9. West wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-01-28T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-28T07:00:00-05:00",
                 "endTime": "2026-01-28T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 22,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "5 to 10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 22. Wind chill values as low as -10. West wind 6 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 22. Wind chill values as low as -9. West wind 5 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-28T18:00:00-05:00",
+                "endTime": "2026-01-29T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 6,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 7
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 6. Wind chill values as low as -3. West wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the early hours stretch toward dawn, Boston sits beneath a blanket of cool clarity, the air crisp and sharp with whispers of the winter chill. The temperatures dip into the low single digits, inviting the biting touch of wind that carries with it a chill reminiscent of frost-kissed mornings. It\u2019s a night where the stars might seem more prominent, but their twinkle is overshadowed by the encroaching cold that sinks into your bones. Guests at indoor gatherings might clutch their steaming mugs tighter, while those braving the exterior paths should wrap in layers, perhaps donning a sturdy coat, scarf, and warm gloves to stave off the winter's breath.\n\nAs day unfolds, the sun peeks above the horizon, promising a brightness that contrasts with the sharp temperatures hovering near twenty degrees. Under these conditions, Wednesday beckons with an aura of quiet possibility. The promise of sunny skies glints with the hope of warming rays, albeit tempered by the wind that plays at your cheeks with a playful chill. It is the sort of day that whispers an invitation for a brisk stroll through the city\u2019s historic streets or perhaps a visit to local cafes, where warmth pours from within and invites pause. If you find yourself outdoors, dressing in layers will be your best ally; a combination of warmth and freedom of movement to embrace the day\u2019s mild activities\u2014perhaps a thoughtful moment spent with a book in the park wrapped in a cozy blanket, or a leisurely visit to a local artisan market. Today is not just another winter day; it offers a chance to find beauty in the cold and grace in the simplicity of the everyday.",
-    "color_code": "#A3B5F1",
-    "timestamp": "2026-01-28 03:11:52"
+    "weather_report": "As dawn breaks over Boston, a gentle quiet fills the crisp air, the skies dressed in a serene palette of muted purples and soft blues. The day is poised to awaken, promising sunshine that will bring a touch of warmth to the chill lingering in the atmosphere. While the sun's rays will hover near a mild 22 degrees, one must not forget the tenacious wind chill that whispers of colder easterly breezes. The winds may be light, yet they can carry the bite of winter, urging all to transition from the comfort of blankets to the embrace of layers.\n\nAs the sun rises higher, the clouds will gradually recede, revealing a day as clear as one could hope for in January. It would be wise to dress in cozy layers: a well-insulated jacket, perhaps a scarf to guard against the nip in the air, and sturdy boots to navigate the potential slick spots on sidewalks. Such attire will encourage a leisurely stroll through the heart of the city or a visit to one of Boston's many charming cafes, perfect for enjoying a steaming cup of coffee while watching the world wake. With the cold urging movement, an afternoon outing to the nearby parks or along the waterfront can offer a refreshing taste of winter's wonder\u2014a perfect blend of relaxation and invigorating cold. Be ready to embrace the day in grace, navigating the balance between warmth and the sheer beauty that winter brings.",
+    "color_code": "#A5A6C5",
+    "timestamp": "2026-01-28 07:15:39"
 }
