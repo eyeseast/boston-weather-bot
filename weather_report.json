@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-28T19:45:00+00:00",
-            "temperature_f": 21.2,
-            "temperature_c": -6,
-            "humidity": null,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 260,
+            "timestamp": "2026-01-28T23:55:00+00:00",
+            "temperature_f": 10.399999999999999,
+            "temperature_c": -12,
+            "humidity": 66.357471298252,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-01-28T15:00:00-05:00",
-                "endTime": "2026-01-28T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 22,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 22. West wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-01-28T18:00:00-05:00",
+                "startTime": "2026-01-28T19:00:00-05:00",
                 "endTime": "2026-01-29T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 6,
+                "temperature": 5,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "6 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 6. Wind chill values as low as -3. West wind around 6 mph."
+                "icon": "https://api.weather.gov/icons/land/night/snow?size=medium",
+                "shortForecast": "Slight Chance Snow Showers",
+                "detailedForecast": "A slight chance of snow showers before 1am. Mostly cloudy, with a low around 5. Wind chill values as low as -4. West wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-01-29T06:00:00-05:00",
+                "endTime": "2026-01-29T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 23,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 8
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 23. Wind chill values as low as -6. Northwest wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sunlight gently breaks through the scattered clouds, casting a serene glow over the city. With temperatures nudging close to a comfortable 22 degrees, the atmosphere invites a sense of mild optimism against the backdrop of winter's chill. The west wind carries a whisper, softening the air as it brushes past buildings and parks, bringing a touch of warmth to the otherwise crisp surroundings. However, as the day wanes and darkness creeps in, expect the clouds to gather more resolutely, lowering temperatures to about 6 degrees. The wind chill may dip as low as minus 3, urging one to take care as nightfall blankets the landscape.\n\nGiven the delicate balance of pleasantness and the impending chill, light layers will serve well; a cozy sweater under a sturdy coat, accompanied by a scarf and mittens, would be prudent. A stroll along the historic waterfront or a quiet visit to one of Boston's esteemed coffee shops could be an ideal way to enjoy the remaining daylight. As the sun sets and the air sharpens, consider wrapping up indoors, perhaps with a good book or reflective music, as the city settles into the tranquil embrace of winter.",
-    "color_code": "#C0D0D0",
-    "timestamp": "2026-01-28 15:11:08"
+    "weather_report": "As night blankets Boston, the city is wrapped in a cloak of clouds and the stillness of winter\u2019s embrace. The chill is palpable, inviting you to draw in your warmth as the mercury dips. While snow flurries may tease the evening air, they are hesitant, leaving behind a mostly cloudy canvas. The chill, accentuated by a gentle breeze from the west, beckons for layers\u2014preferably something cozy, perhaps a wool scarf and a sturdy jacket, to buffer against the whisper of frost that clings to the streets. \n\nLooking ahead to tomorrow, the dawn promises a reprieve from the gloom as the clouds part, revealing a day dressed in hues of blue and sunlight\u2014a crisp, invigorating refreshment against the cold. The sun\u2019s warmth will be a delicate illusion, as winds from the northwest breathe a fresh chill into the atmosphere. It may not be the day for leisurely strolls by the waterfront, but rather a time for contemplative meandering, perhaps to a cozy caf\u00e9 where the warmth envelops you like an old friend. Sipping a steaming cup while observing life unfold through the window sounds like an exquisite plan for the bold-hearted trying to navigate this winter tableau.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2026-01-28 19:40:28"
 }
