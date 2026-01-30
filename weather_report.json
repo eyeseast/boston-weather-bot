@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-29T19:50:00+00:00",
-            "temperature_f": 24.8,
-            "temperature_c": -4,
-            "humidity": 35.678924966018,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 260,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-01-30T00:20:00+00:00",
+            "temperature_f": 17.6,
+            "temperature_c": -8,
+            "humidity": 44.492413781565,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 270,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-01-29T15:00:00-05:00",
-                "endTime": "2026-01-29T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 22,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 22. West wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-01-29T18:00:00-05:00",
+                "startTime": "2026-01-29T19:00:00-05:00",
                 "endTime": "2026-01-30T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 0,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 0. Wind chill values as low as -14. West wind 7 to 10 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-01-30T06:00:00-05:00",
+                "endTime": "2026-01-30T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 15,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "9 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 15. Wind chill values as low as -16. West wind 9 to 13 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston, the sun graces the city with a warm embrace, casting a golden hue across the landscape. Clear skies stretch infinitely, inviting both wanderers and those seeking solace in the warmth of the day. A light breeze whispers gently, making it an excellent moment to step outside, perhaps for a leisurely walk down the Charles River. As day succumbs to night, the temperature dips, and the chill wraps around the city like a soft shroud. The forecast dips to a stark low, where the air feels bitingly cold, and the wind harshly intensifies the bite of winter, reminding all to dress warmly\u2014layers of wool and a sturdy coat are absolutely essential.\n\nAs evening approaches, the clarity of day gives way to an expansive night sky that promises sharp stars, a serene backdrop perfect for contemplative moments. It\u2019s a night that beckons for a warm drink in the comfort of one\u2019s favorite nook or perhaps a cozy gathering with close companions to recount the day's quiet joys. For those drawn to the outdoors, a brisk walk will invigorate the spirit, urging one to embrace the wintry charm of the season. The contrasts of warmth and cold today create a unique tapestry of experience\u2014one that invites quiet reflection and the simple pleasures of life, amidst the beauty of a crisp, clear January day.",
-    "color_code": "#87CEFA",
-    "timestamp": "2026-01-29 15:11:26"
+    "weather_report": "The evening in Boston unfolds beneath a clear but biting sky, as a chill sweeps through the city, whispering tales of winter's firm grip. The temperature hovers around a frosty zero, with the wind chill reducing the felt temperature even further, drawing warmth from the cheeks as one ventures outside. The gentle but persistent westerly breeze carries with it an edge that is both invigorating and bracing, inviting the city\u2019s inhabitants to don their warmest attire\u2014layered sweaters, sturdy coats, and perhaps a soft scarf to shield against the sharp air.\n\nAs the night deepens, the promise of clear skies offers an opportunity for reflection or quiet wanderings through the illuminated streets. While public life slows, the glow from buildings provides a warm contrast to the cold night, suggesting a sense of coziness for those nestled indoors, perhaps indulging in a book by the window or savoring a warm beverage at a favorite caf\u00e9. For the more adventurous, a brisk walk through the city's parks or along the riverbank beckons, each step crunching against the crisp underfoot, a reminder of the winter season's steadfast presence. The following day anticipates similar clarity, with the sun rising to shine upon a landscape embraced by frost, marking an inviting weekend for outdoor pursuits or simple joys that accompany the serene solitude of winter.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2026-01-29 19:41:02"
 }
