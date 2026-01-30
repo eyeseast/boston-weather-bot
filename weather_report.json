@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-01-30T08:00:00+00:00",
+            "timestamp": "2026-01-30T15:50:00+00:00",
             "temperature_f": 10.399999999999999,
             "temperature_c": -12,
-            "humidity": 43.223689066866,
+            "humidity": 36.213861473262,
             "wind_speed_mph": 37.286316,
-            "wind_direction": 280,
+            "wind_direction": 290,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-01-30T03:00:00-05:00",
-                "endTime": "2026-01-30T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 0,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 0. Wind chill values as low as -11. West wind around 10 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-01-30T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-01-30T11:00:00-05:00",
                 "endTime": "2026-01-30T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 14,
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 14. Wind chill values as low as -15. West wind 10 to 14 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Sunny, with a high near 14. Wind chill values as low as -6. West wind 10 to 14 mph, with gusts as high as 24 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-01-30T18:00:00-05:00",
+                "endTime": "2026-01-31T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": -2,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around -2. Wind chill values as low as -12. West wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning, Boston lies beneath a pervasive blanket of clarity, yet the biting chill penetrates the air, whispering secrets of the cold night that clings to the city. As the temperature hovers near zero, the wind slinks through the streets, its chill amplified by gusts that dance unpredictably, leaving a crispness that bites at exposed skin. Today promises a sunlit embrace, albeit one that feels more like a frosted glance, warming the landscape only slightly as it rises reluctantly into an azure sky. Despite the sun's presence, the biting wind lingers, reminiscent of the frost on winter\u2019s breath\u2014a chilling reminder to those who venture outside.\n\nFor the day ahead, warmth will require layers: a steadfast coat, perhaps lined with wool, gloves to shield your fingers from the harsh embrace of the wind, and a hat to keep the fragile warmth gleaned from the sun close to your head. The concrete paths of the city seem to beckon for quiet walks, the tranquility of the moment best suited for sipping a warm beverage while observing the brisk energy of a city wrapped in winter\u2019s hold. As the sun heads toward its zenith, consider meandering through local shops or perhaps indulging in quiet corners of a caf\u00e9 where the warmth contrasts the season\u2019s chill\u2014simple activities that echo the rhythm of a city cloaked in winter, its vibrancy tempered by the cold.",
-    "color_code": "#003366",
-    "timestamp": "2026-01-30 03:16:50"
+    "weather_report": "In Boston today, a crisp sun reigns high, casting a bright but cold glow over the city. The air is imbued with a sharp chill that penetrates even the thickest of fabrics, turning each breath into a visible whisper. A gentle west wind dances through the streets, occasionally gusting with playful tenacity, reminding everyone of winter\u2019s lingering embrace. As the day unfolds, the warmth of the sun might feel inviting, yet it belies the frigid wind chill that can plunge temperatures to uncomfortable depths. Tonight, the sky will shift toward a clear expanse, and temperatures will drop to a notable low, transforming the serene landscape into a frosty panorama.\n\nDressing for such a day requires practicality wrapped in comfort; layers are essential. A sturdy coat, snug gloves, and a hat will keep the chill at bay as you navigate the urban scene. For those seeking adventure, the sharp clarity of the skies invites one to explore the pathways of the Common or perhaps indulge in a leisurely walk along the waterfront, where the breath of winter whispers secrets only the season knows. As the sun sets and darkness envelops the city, imagine retreating to a cozy caf\u00e9, perhaps with a book in hand, savoring the warmth of a well-earned drink. Embrace the moments the day offers, for they are fleeting, much like the frosted tendrils of breath in the crisp air.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2026-01-30 11:14:55"
 }
