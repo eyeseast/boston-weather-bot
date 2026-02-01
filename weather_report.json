@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-01T07:50:00+00:00",
-            "temperature_f": 12.2,
-            "temperature_c": -11,
-            "humidity": 61.261678833676,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2026-02-01T12:00:00+00:00",
+            "temperature_f": 8.600000000000001,
+            "temperature_c": -13,
+            "humidity": 60.732674670378,
+            "wind_speed_mph": 45.581112000000005,
             "wind_direction": 350,
-            "description": "Cloudy"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-01T03:00:00-05:00",
-                "endTime": "2026-02-01T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 6,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 21
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
-                "shortForecast": "Isolated Snow Showers",
-                "detailedForecast": "Isolated snow showers. Cloudy, with a low around 6. Wind chill values as low as -3. North wind around 12 mph, with gusts as high as 25 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-02-01T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-02-01T07:00:00-05:00",
                 "endTime": "2026-02-01T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 24,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 15
+                    "value": 13
                 },
                 "windSpeed": "12 to 15 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20/ovc?size=medium",
-                "shortForecast": "Isolated Snow Showers then Cloudy",
-                "detailedForecast": "Isolated snow showers before 7am. Cloudy, with a high near 24. Wind chill values as low as -5. North wind 12 to 15 mph, with gusts as high as 32 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a high near 24. Wind chill values as low as -5. North wind 12 to 15 mph, with gusts as high as 32 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-01T18:00:00-05:00",
+                "endTime": "2026-02-02T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 10,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "8 to 12 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 10. Wind chill values as low as 0. Northwest wind 8 to 12 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "As night blankets Boston, the air hangs heavy with the promise of winter's icy grasp. With temperatures dipping into the single digits, the wind whispers a chill that nips at exposed skin, casting an almost surreal fog that softens the edges of this urban landscape. The stars seem shy tonight, cloaked by a canopy of clouds that maintain their watch, while the faint glow of city lights offers a counterpoint to the darkness, illuminating the roads less traveled.\n\nAs dawn approaches, the day unfolds with the likelihood of isolated snow showers, teasing a gentle dusting over the city until just past dawn. The high will not stray far from the brittle embrace of twenty degrees, feeling even colder with the wind's sharp bite. Dress warmly in layers, wrapping yourself in a sturdy coat, perhaps a knitted scarf, and insulated gloves, as you step out for a moment of fresh air or a leisurely stroll. While outdoor adventures might seem limited, today offers a perfect excuse to explore cozy cafes or enjoy the warm ambiance of a local library. The hazy skies might remain subdued, but it is a perfect setting for contemplation \u2014 perhaps bring a book or a sketchpad and find a quiet corner where you can lose track of time in the heart of winter's embrace.",
-    "color_code": "#2A2D30",
-    "timestamp": "2026-02-01 03:12:45"
+    "weather_report": "Boston awakens beneath a veil of clouds that stretch like whispering shadows across the sky\u2014a muted grey heralding the day ahead. With a high near 24, the air carries a bite that will chill even the most robust of spirits. The wind dances through the streets, swirling at speeds that send a shiver down the spine, making it crucial to bundle up if venturing outside. Cozy woolen layers, a sturdy scarf, and perhaps a well-fitted beanie will serve you well against the stinging chill, while insulated boots can guard against the bite of frost beneath your feet.\n\nAs the day meanders on, the clouds may shift slightly, though they will likely hold onto their somber hue. With a low this evening around 10, the atmosphere won\u2019t yield much warmth, but the night could offer its own charms\u2014hot beverages serenading you with comfort as the world outside glimmers with a frost-kissed sheen. Ample time spent indoors would be no travesty; perhaps dive deeply into that book you've been meaning to read or take solace in the melodic notes of your favorite album, allowing the warm embrace of home to cradle you against the briskness beyond. If you must venture out, embrace the brisk air with appreciation, perhaps enjoying a solitary stroll through a nearby park, where the trees stand sentinel in their winter glory, or take in the history of a local caf\u00e9, letting the rich aroma of coffee fill the air.",
+    "color_code": "#A3B2C8",
+    "timestamp": "2026-02-01 07:15:10"
 }
