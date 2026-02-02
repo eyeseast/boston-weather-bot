@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-01T19:50:00+00:00",
+            "timestamp": "2026-02-02T00:25:00+00:00",
             "temperature_f": 21.2,
             "temperature_c": -6,
             "humidity": 41.502667173639,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 350,
+            "wind_speed_mph": 41.39344800000001,
+            "wind_direction": 330,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-02-01T15:00:00-05:00",
-                "endTime": "2026-02-01T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 24,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 24. North wind around 13 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-02-01T18:00:00-05:00",
+                "startTime": "2026-02-01T19:00:00-05:00",
                 "endTime": "2026-02-02T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 9,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "8 to 14 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 9. Wind chill values as low as -1. Northwest wind 7 to 10 mph, with gusts as high as 29 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 9. Wind chill values as low as -1. Northwest wind 8 to 14 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-02-02T06:00:00-05:00",
+                "endTime": "2026-02-02T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 29,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 29. Wind chill values as low as -2. Northwest wind around 8 mph."
             }
         ]
     },
-    "weather_report": "The afternoon sun dances playfully upon the streets of Boston, casting long shadows that stretch along the cobblestones of the historic downtown. With temperatures hovering just under a pleasant 24 degrees, there's a crispness in the air\u2014a fine north wind stirring, offering a refreshing embrace that tidily counters the warmth that the day promises. As you walk through the seemingly still city, the sky wears a coat of partly sunny tranquility, hinting at brighter moments to come. Yet, despite this cheer, the gusts of wind whisper a reminder of winter's lingering presence, urging you to be mindful of the chill if you venture outdoors.\n\nAs evening approaches, the charm of the city takes on a softer tone, enveloped in a gown of mostly cloudy skies. With the mercury dropping closer to 9 degrees, the night beckons a protective layer; a sturdy coat, a warm scarf, perhaps a knit hat are your best companions to stave off the encroaching chill. A stroll along the Esplanade might reward you with a serene view of the river, while sipping a warm drink from a local caf\u00e9 offers a moment of respite and comfort as the wind picks up with a gentler, yet persistent force. For the hearty souls in search of activity, an evening walk through the quieter streets, where the flickering lights of shop windows illuminate your path, is a perfect way to savor this winter day, pausing now and then to appreciate the glimmers of life around you.",
-    "color_code": "#B0C4C0",
-    "timestamp": "2026-02-01 15:09:08"
+    "weather_report": "As the lingering twilight drapes over Boston, a hush blankets the city, punctuated by the soft glow of streetlights and the distant hum of life continuing beneath a mostly cloudy sky. The air carries a nip, with temperatures settling around the low single digits, and the wind chill hints at an even sharper chill, whispering reminders of winter's embrace. While the scene appears muted and subdued, tomorrow promises clarity and brightness as the sun will break through, heralding a brighter day with a comforting high that teases the promise of warmth, even if only fleetingly.\n\nTonight, warmth is essential; wrapping yourself in layers\u2014perhaps a woolen scarf and a sturdy coat\u2014will be your best armor against the cold, inviting you to seek solace indoors. Yet, if adventure calls, an evening stroll with a friend under the amber glow of city lights could reveal a certain beauty in the starkness of the season. Come morning, the sun beckons brightly, inviting those brave enough to venture out into its rays for a brisk morning walk or an errand that feels invigorating against the backdrop of a blue sky. As the crispness of winter dances at the edges of Boston\u2019s storied streets, each moment holds the potential for simple joys, wrapped in the serenity of this winter night.",
+    "color_code": "#1C2B3A",
+    "timestamp": "2026-02-01 19:43:30"
 }
