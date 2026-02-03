@@ -7,7 +7,7 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-03T07:53:00+00:00",
+            "timestamp": "2026-02-03T11:53:00+00:00",
             "temperature_f": null,
             "temperature_c": null,
             "humidity": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-03T03:00:00-05:00",
-                "endTime": "2026-02-03T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 9,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 9. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-02-03T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-02-03T07:00:00-05:00",
                 "endTime": "2026-02-03T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 33. West wind around 5 mph."
+                "detailedForecast": "Sunny, with a high near 33. West wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-03T18:00:00-05:00",
+                "endTime": "2026-02-04T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 14,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 14. Southwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the overnight veil casts a muted calm over Boston, a thin shroud of clarity begins to cover the horizon, hinting at a certain stillness that fills the air. With the low temperature dipping to a brisk 9 degrees, it's best to wrap yourself in cozy layers, an embrace of warmth that will transport you from the chill to the comfort of your adventures. A gentle northwest wind at around 6 mph whispers softly, almost as if reminding you of the chill that awaits with the dawn.\n\nAs the first rays of sunlight spill into the day, a brilliant warmth will emerge, promising a radiant and sunny Tuesday where temperatures will rise to an inviting 33 degrees. The west wind will continue its soft presence, but the brilliance of the day will more than compensate for any lingering coolness. This is a day for strolls among the quieter streets, perhaps visiting a local caf\u00e9 for a warm drink or exploring the park, where the crisp air invigorates the mind. Wrap up well, and enjoy the serenity of an early February day, marked not just by the chill, but by the promise of a gentle sun and the quiet beauty of winter.",
-    "color_code": "#333333",
-    "timestamp": "2026-02-03 03:17:12"
+    "weather_report": "This early morning in Boston greets us with a serene clarity, the kind that brushes away the remnants of last night\u2019s chill and invites a deep breath of freshness. The sky unfurls a vibrant blue, unmarred by the fog that sometimes cloaks this storied city, revealing a view that beckons one to venture outside. As the sun climbs, it will bid the frigid night adieu, warming the day to a comfortable peak around 33 degrees. A gentle westerly breeze whispers through, stirring the leaves and lifting spirits, though the evening promises to retreat into the depths of cold again, dipping down to a brisk 14 degrees.\n\nIt is a day made for quiet adventures\u2014a brisk stroll through the Commons or perhaps a leisurely visit to a favorite caf\u00e9, where steaming mugs of coffee will ward off the chill. Dress in layers; a sturdy coat paired with a stylish scarf can offer both warmth and flair. As shadows stretch beneath the trees and the golden light of the late afternoon washes over the streets, consider indulging in simple joys: perhaps a visit to an art gallery or just a moment to sit outside and feel the thawing sun. The day holds promise\u2014embrace it with an open heart and a curious mind.",
+    "color_code": "#7EC6E8",
+    "timestamp": "2026-02-03 07:19:07"
 }
