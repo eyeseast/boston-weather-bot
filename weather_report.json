@@ -7,7 +7,7 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-05T07:53:00+00:00",
+            "timestamp": "2026-02-05T11:53:00+00:00",
             "temperature_f": null,
             "temperature_c": null,
             "humidity": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-05T03:00:00-05:00",
-                "endTime": "2026-02-05T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 9,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 9. West wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-02-05T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-02-05T07:00:00-05:00",
                 "endTime": "2026-02-05T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 30,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 30. Northwest wind 3 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-05T18:00:00-05:00",
+                "endTime": "2026-02-06T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 10,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 10. Northwest wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As the early morning hours stretch into the quiet of night, Boston slumbers under a canopy of mostly clear skies, a serene low wrapping around the city with a gentle chill. The air is crisp, carrying whispers of a westward breeze. The day's promise reveals itself with the sun making its grand entrance, heralding a bright and sunny Thursday. As the temperatures rise toward the pleasant embrace of thirty degrees, the air will feel invigorating, ideal for stepping outside, whether on foot or in a car. \n\nDress warmly but allow for layers, as the cool morning will yield to a bright afternoon where a light jacket should suffice. Consider a comfortable walk through one of the city\u2019s many parks, perhaps the Arnold Arboretum, or take in a scenic stroll along the Charles River, where the water glimmers under the sun\u2019s rays. This day calls for simple pleasures\u2014a warm coffee in hand, a book on a bench, or perhaps even indulging in the vibrant local fare at a nearby caf\u00e9. The atmosphere is poised to be both tranquil and energizing, reflecting the beauty of this urban landscape awakening from the stillness of night.",
-    "color_code": "#A8C3D1",
-    "timestamp": "2026-02-05 03:19:37"
+    "weather_report": "In Boston, the morning unfolds under a splendidly clear sky, the vast expanse of blue stretching endlessly above the city. As the day approaches its zenith, the sun graces the landscape, promising warmth with its gentle caress\u2014a high nearing 30 invites one to breathe deeply of the crisp air, which is free of any fog or haze. The northwest wind, a gentle whisper navigating the streets, complements the day's soft brilliance, making it a splendid opportunity to embrace the world outside.\n\nAs evening settles in, a shift awaits with temperatures dipping to around 10. While the night may coax one to retreat indoors, the fading light reveals a quiet beauty, where the stars may twinkle shyly above. For today\u2019s adventures, perhaps a leisurely stroll along the Esplanade or a visit to one of Boston\u2019s hidden cafes would be ideal\u2014interactions leisurely unhurried, with a warm drink in hand, one can savor the moments that life has to offer. Layering up with a smart choice of a jacket and scarf is advisable, setting the stage for a day that dances between the vibrancy of winter's chill and the promise of spring yet to come.",
+    "color_code": "#A1C6E7",
+    "timestamp": "2026-02-05 07:20:15"
 }
