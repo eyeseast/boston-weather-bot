@@ -7,7 +7,7 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-06T07:53:00+00:00",
+            "timestamp": "2026-02-06T11:53:00+00:00",
             "temperature_f": null,
             "temperature_c": null,
             "humidity": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-06T03:00:00-05:00",
-                "endTime": "2026-02-06T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 10,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 10. Northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-02-06T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-02-06T07:00:00-05:00",
                 "endTime": "2026-02-06T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
                 "shortForecast": "Cloudy",
                 "detailedForecast": "Cloudy, with a high near 29. North wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-06T18:00:00-05:00",
+                "endTime": "2026-02-07T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 20,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 50
+                },
+                "windSpeed": "2 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/snow,50?size=medium",
+                "shortForecast": "Chance Light Snow",
+                "detailedForecast": "A chance of snow after 10pm. Cloudy, with a low around 20. Northwest wind around 2 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the early hours settle quietly over Boston, the city lies beneath a muted veil of clouds, a dimly lit canvas softened by the soft embrace of an emerging night. The temperature drifts chillily around ten degrees, urging you to wrap yourself warmly in layers that can hold both warmth and a sense of comfort. Perhaps a well-loved woolen sweater shielded by a sturdy coat would suit the temperament of the evening, allowing for leisurely strolls or cozy gatherings indoors, free from the biting cold.\n\nFriday brings the promise of overcast skies, a continuation of this tranquil aesthetic, with temperatures nudging towards a brisk twenty-nine during the day. The north wind whispers softly, hinting at a day that settles into a pleasant stroll down emblematic streets, windows glistening with the reflections of city life. Take your time\u2014state parks beckon for a peaceful retreat, while caf\u00e9s offer warm drinks that invite comfort. With such subdued beauty wrapping the city, consider a mid-morning visit to a local bookstore or a glance at art galleries where the atmosphere invites reflection and discovery. Today is less about grand gestures and more about savoring the simple joys that make everyday life rich.",
-    "color_code": "#4B4B4B",
-    "timestamp": "2026-02-06 03:19:32"
+    "weather_report": "As dawn breaks over Boston, a thick blanket of clouds drapes the city, casting the morning in muted shades of gray. The air feels crisp, with a hint of chill that permeates the atmosphere, as the temperature hovers near twenty-nine degrees. The north wind whispers gently, nudging leaves and sending a quiet shake through the trees. Clarity is just out of reach; a fog softens the horizon, veiling the skyline in a shroud of mystery.  \n\nToday\u2019s narrative begins under this cloudy cloak, with a slow shift anticipated as a chance of snow sneaks in after the evening settles. The forecast suggests a tantalizing possibility of soft, white flakes descending upon the city, adding a layer of magic to the evening. For those seeking solace from the cold, a cozy sweater layered beneath a warm coat will serve well against the brisk winds. Warm footwear is recommended, perhaps a reliable pair of boots ready to crunch upon the first traces of snow, should it materialize. As the day unfolds, one might find comfort within a local caf\u00e9, savoring a steaming cup of coffee or a fragrant tea while watching the world outside transform. A stroll along the tree-lined streets could yield moments of quiet introspection, the kind only a gray day can evoke, reminding us that even amidst the clouds, beauty endures.",
+    "color_code": "#A6B8D6",
+    "timestamp": "2026-02-06 07:19:32"
 }
