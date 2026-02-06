@@ -7,22 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-05T19:50:00+00:00",
-            "temperature_f": 33.8,
-            "temperature_c": 1,
-            "humidity": 34.361130155648,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 290,
+            "timestamp": "2026-02-05T23:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-02-05T15:00:00-05:00",
-                "endTime": "2026-02-05T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 30,
+                "name": "Tonight",
+                "startTime": "2026-02-05T19:00:00-05:00",
+                "endTime": "2026-02-06T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 11,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -31,32 +31,32 @@
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 30. Northwest wind around 5 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 11. Northwest wind around 5 mph."
             },
             {
                 "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-02-05T18:00:00-05:00",
-                "endTime": "2026-02-06T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 10,
+                "name": "Friday",
+                "startTime": "2026-02-06T06:00:00-05:00",
+                "endTime": "2026-02-06T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 28,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 10
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 10. Northwest wind around 5 mph."
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 28. North wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon sun graces Boston with its warm embrace, the clear sky invites those who venture outside to bask in its glow. With a high near thirty degrees, today's landscape is a tapestry of azure, punctuated by the gentle dance of a light northwest wind. Such clarity suggests an invigorating outing, perfect for a stroll through one of the city's historic parks or perhaps a quiet moment at the waterfront, where the sunlight sparkles on the water's surface, reflecting the vibrancy of the day.\n\nAs evening approaches, the promise of a slightly cooler temperature beckons. With lows projected around ten, now is the time to bundle up thoughtfully against the evening chill. A light coat, paired with a cozy scarf and warm gloves, will allow you to enjoy the lingering twilight without sacrifice. As the sky transitions to a whimsical palette of soft, dusky hues, consider heading indoors to savor a comforting cup of cocoa at a local caf\u00e9, or perhaps delve into a good book at home, recounting the day's blessings before settling in for the night. There's a serene beauty in tonight's tranquility, as the world slows and the promise of a new day awaits.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2026-02-05 15:12:51"
+    "weather_report": "As night unfurls its dark cloak over Boston, the streets whisper with a gentle chill, discouraging the day's remnants while nudging warmth into the last embers of evening. The sky appears mostly cloudy, and a faint northwest breeze drifts through, escorting temperatures that linger around a crisp 11 degrees. No fog dampens the clarity of the night; instead, twinkling city lights reflect the determined spirit of a city embracing the quiet of winter\u2019s embrace.\n\nTomorrow dawns with a promise of continued cloudiness but invites a modest rise in warmth to approximately 28 degrees. The air will remain light, with a gentle northerly breeze, making it a suitable day for those who are ready to venture outside. The softness in the temperature could encourage a brisk stroll along the waterfront or perhaps an afternoon spent perusing the shelves of a cozy bookshop, savoring the aroma of freshly brewed coffee. To navigate this weather, dressing thoughtfully is advisable\u2014a layered approach will provide comfort: a snug sweater beneath a dependable winter coat, and perhaps a hat to complete the ensemble, making one ready to explore the subtle beauty that winter presents.",
+    "color_code": "#5A5B5C",
+    "timestamp": "2026-02-05 19:40:15"
 }
