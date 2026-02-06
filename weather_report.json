@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-06T16:00:00+00:00",
-            "temperature_f": 26.6,
-            "temperature_c": -3,
-            "humidity": 73.903422585012,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 10,
-            "description": "Haze"
+            "timestamp": "2026-02-06T19:50:00+00:00",
+            "temperature_f": 30.2,
+            "temperature_c": -1,
+            "humidity": 59.032659326235,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 50,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-02-06T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2026-02-06T15:00:00-05:00",
                 "endTime": "2026-02-06T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 13
+                    "value": 15
                 },
                 "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 29. North wind around 6 mph."
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
+                "shortForecast": "Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow before 5pm. Cloudy, with a high near 29. Northeast wind around 6 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-02-06T18:00:00-05:00",
                 "endTime": "2026-02-07T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 20,
+                "temperature": 21,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 100
                 },
                 "windSpeed": "2 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20/snow,50?size=medium",
-                "shortForecast": "Chance Light Snow",
-                "detailedForecast": "A chance of snow after 10pm. Cloudy, with a low around 20. Northwest wind around 2 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/snow,100?size=medium",
+                "shortForecast": "Light Snow",
+                "detailedForecast": "Snow after 11pm. Cloudy, with a low around 21. Northwest wind around 2 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In the muted embrace of Boston, the day begins under a heavy quilt of clouds, each gray hue hinting at the chill that lingers in the air. The serene calm is punctuated only by a gentle north wind, a whisper rather than a gust, setting the stage for a day that feels more contemplative than energetic. As the clock creeps towards evening, the promise of snow adds a touch of whimsy, suggesting a delicate dance between winter\u2019s frost and the warmth of gathering indoors.\n\nIn the face of such weather, it would be prudent to adorn oneself in layers\u2014perhaps a snug wool sweater topped with a reliable coat to ward off the creeping cold that veils the city. A sturdy pair of boots might also prove valuable should the anticipated flurries materialize, allowing one to navigate the brisk streets comfortably. This afternoon invites quieter pursuits; perhaps a leisurely stroll through the nearby parks where the trees stand sentinel in their winter slumber, or seeking refuge in a cozy caf\u00e9 with a warm drink, allowing the world to pass by with each sip. As twilight approaches, there\u2019s beauty in the stillness, a moment to ponder the weight of the clouds before they release their snowy bounty.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2026-02-06 11:19:14"
+    "weather_report": "The afternoon in Boston unfolds beneath a shroud of gray clouds, with a palpable chill in the air, the kind that wraps around your bones and prompts you to seek warmth. With temperatures hovering around 29 degrees, the gusts of northeast wind add an extra bite to the atmosphere, making the prospect of snow a tangible reality as the skies hint at the coming evening plumes. A slight chance of snow flurries lingers in the forecast until darkness descends, when the promise of accumulation becomes more certain as temperatures dip to a brisk 21 degrees. Indeed, the anticipation of winter's touch feels eminent, urging those who venture outside to don their warmest layers\u2014heavy coats, mittens, and perhaps a knitted hat to stave off the chill that will accompany the snowy evening ahead.\n\nAs twilight deepens, a blanket of snow will grace the city, transforming the streets into a wintry tableau. It\u2019s a night that draws you to the cozy comforts of home; however, for the adventurous, an evening walk may offer a chance to marvel at the soft, whispering flakes as they dance from the heavens. The world outside may appear frozen, yet the allure of a quiet neighborhood stroll, perhaps with a hot beverage in hand, beckons with its own unique charm. In these hours, let the practical coziness of woolen scarves and warm boots be your allies against the cold. Embrace the simplicity of the moment, and find joy in the tranquil beauty that a snowy evening brings forth.",
+    "color_code": "#B0C4D4",
+    "timestamp": "2026-02-06 15:12:06"
 }
