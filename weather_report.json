@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-06T19:50:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 59.032659326235,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 50,
-            "description": "Cloudy"
+            "timestamp": "2026-02-07T00:25:00+00:00",
+            "temperature_f": 23.0,
+            "temperature_c": -5,
+            "humidity": 85.857954785728,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-02-06T15:00:00-05:00",
-                "endTime": "2026-02-06T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 29,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
-                "shortForecast": "Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow before 5pm. Cloudy, with a high near 29. Northeast wind around 6 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-02-06T18:00:00-05:00",
+                "startTime": "2026-02-06T19:00:00-05:00",
                 "endTime": "2026-02-07T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 21,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/snow,20/snow,100?size=medium",
                 "shortForecast": "Light Snow",
                 "detailedForecast": "Snow after 11pm. Cloudy, with a low around 21. Northwest wind around 2 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-02-07T06:00:00-05:00",
+                "endTime": "2026-02-07T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 29,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "2 to 12 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/snow,100?size=medium",
+                "shortForecast": "Heavy Snow",
+                "detailedForecast": "Snow. Cloudy. High near 29, with temperatures falling to around 22 in the afternoon. North wind 2 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible."
             }
         ]
     },
-    "weather_report": "The afternoon in Boston unfolds beneath a shroud of gray clouds, with a palpable chill in the air, the kind that wraps around your bones and prompts you to seek warmth. With temperatures hovering around 29 degrees, the gusts of northeast wind add an extra bite to the atmosphere, making the prospect of snow a tangible reality as the skies hint at the coming evening plumes. A slight chance of snow flurries lingers in the forecast until darkness descends, when the promise of accumulation becomes more certain as temperatures dip to a brisk 21 degrees. Indeed, the anticipation of winter's touch feels eminent, urging those who venture outside to don their warmest layers\u2014heavy coats, mittens, and perhaps a knitted hat to stave off the chill that will accompany the snowy evening ahead.\n\nAs twilight deepens, a blanket of snow will grace the city, transforming the streets into a wintry tableau. It\u2019s a night that draws you to the cozy comforts of home; however, for the adventurous, an evening walk may offer a chance to marvel at the soft, whispering flakes as they dance from the heavens. The world outside may appear frozen, yet the allure of a quiet neighborhood stroll, perhaps with a hot beverage in hand, beckons with its own unique charm. In these hours, let the practical coziness of woolen scarves and warm boots be your allies against the cold. Embrace the simplicity of the moment, and find joy in the tranquil beauty that a snowy evening brings forth.",
-    "color_code": "#B0C4D4",
-    "timestamp": "2026-02-06 15:12:06"
+    "weather_report": "The evening air in Boston is cloaked in a thick veil of impending snow, a promise of white that hangs like a whispered secret, inviting you to pause and reflect. The temperature dips to a bracing 21 degrees, and a gentle northwest breeze barely stirs the chill, wrapping the city in a quiet embrace. With a 100% chance of precipitation looming, the stillness carries an electric charge, as the clouds gather for their performance, ready to release their burden. \n\nAs you brace for tomorrow\u2019s snow-laden embrace, the forecast hints at a day enveloped in shades of gray, the high only reaching a frigid 29 degrees as the temperature takes a downward turn. A parade of clouds will march overhead, and northerly winds may carry the slightest gusts that echo through the streets, inviting you to dress warmly\u2014perhaps donning a sturdy coat, thick gloves, and a knitted scarf to ward off the cold's bite. While the chill might dissuade you from lengthy ventures outdoors, it paints an opportunity for delightful indoor warmth: a visit to a quiet caf\u00e9 to savor a steaming cup of something rich, or perhaps a leisurely afternoon spent lost in the pages of a well-worn book. As the snow begins to fall tonight, consider embracing the quiet beauty it brings, reveling in the cozy glow of home as winter\u2019s wonder blankets the streets.",
+    "color_code": "#4A4A4A",
+    "timestamp": "2026-02-06 19:40:31"
 }
