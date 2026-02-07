@@ -7,7 +7,7 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-07T07:50:00+00:00",
+            "timestamp": "2026-02-07T12:00:00+00:00",
             "temperature_f": 21.2,
             "temperature_c": -6,
             "humidity": 92.629770823612,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-07T03:00:00-05:00",
-                "endTime": "2026-02-07T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 21,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 77
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,80?size=medium",
-                "shortForecast": "Light Snow",
-                "detailedForecast": "Snow. Cloudy, with a low around 21. Northwest wind around 2 mph. Chance of precipitation is 80%. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-02-07T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-02-07T07:00:00-05:00",
                 "endTime": "2026-02-07T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 97
                 },
-                "windSpeed": "2 to 15 mph",
+                "windSpeed": "3 to 15 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/snow,100/snow,90?size=medium",
                 "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy. High near 29, with temperatures falling to around 21 in the afternoon. North wind 2 to 15 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible."
+                "detailedForecast": "Snow. Cloudy. High near 29, with temperatures falling to around 21 in the afternoon. North wind 3 to 15 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New snow accumulation of 3 to 5 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-07T18:00:00-05:00",
+                "endTime": "2026-02-08T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 2,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 35
+                },
+                "windSpeed": "13 to 16 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/snow,40/cold?size=medium",
+                "shortForecast": "Chance Light Snow then Partly Cloudy",
+                "detailedForecast": "A chance of snow before 7pm, then a slight chance of snow showers between 7pm and 9pm. Partly cloudy, with a low around 2. Wind chill values as low as -13. Northwest wind 13 to 16 mph, with gusts as high as 31 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
             }
         ]
     },
-    "weather_report": "As the night cloaks Boston in a soft, snow-laden hush, the atmosphere is thick with a quiet chill that seeps into every corner of the city. With temperatures hovering around the low twenties and an expectant 80% chance of snow, the world outside remains shrouded in thick cloud cover, a blanket of white softly whispering across the pavement in the dim light. The gentle dance of falling snowflakes sets a quiet stage\u2014a prelude to an even more significant accumulation anticipated tomorrow. \n\nAs the dawn approaches, Saturday beckons with the promise of heavier snowfall, bringing with it a mood both contemplative and cozy. With temperatures likely to drop further in the afternoon, it is best to dress warmly\u2014think layers of sweaters and thick jackets, complemented by scarves that can wrap around the face to keep the brisk wind at bay. While venturing out may sound less than appealing, the beauty of a snowy day offers its own charm; a stroll through the nearby parks could reveal a tranquil vista, with whispers of laughter echoing from bundled children making snowmen or engaging in gentle snowball fights. For those preferring the comforts of indoors, a warm cup of tea while observing the snow accumulate from a window may be the perfect antidote to this wintry embrace, making it a day to savor the little joys that winter brings.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-02-07 03:12:13"
+    "weather_report": "Boston awakens under a heavy shroud of snow, as the clouds hang low, casting a muted gray over the city. The biting cold is palpable, with temperatures hovering around the frigid range, accompanied by winds that whistle through the streets, adding an extra chill that creeps into one's bones. As the day unfolds, expect the snow to continue, blanketing the landscape in a deceptive softness, while the gusts remind all of the winter's unsparing hand. \n\nThis is not a day for adventure but rather for coziness. The inclination to stay indoors is compelling, ideally wrapped in layers that shield you from the cold\u2014a thick, insulated coat, a knitted scarf, and sturdy boots designed to navigate the slushy remnants of winter\u2019s storm. Perhaps a comforting cup of tea or a warm bowl of soup awaits at home, inviting you to settle down with a good book or perhaps some gentle music. As night descends, the air will only grow colder, hinting at a spring tease that seems light-years away, making it the perfect evening for quiet reflection, or even the simple joy of watching the world transform into a winter wonderland.",
+    "color_code": "#A8B2C6",
+    "timestamp": "2026-02-07 07:14:48"
 }
