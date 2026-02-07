@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-07T15:50:00+00:00",
+            "timestamp": "2026-02-07T19:50:00+00:00",
             "temperature_f": 24.8,
             "temperature_c": -4,
             "humidity": 79.631765086518,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 360,
+            "wind_speed_mph": 41.39344800000001,
+            "wind_direction": 350,
             "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-02-07T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2026-02-07T15:00:00-05:00",
                 "endTime": "2026-02-07T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 29,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 95
+                    "value": 38
                 },
-                "windSpeed": "8 to 15 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,100/snow,90?size=medium",
-                "shortForecast": "Snow",
-                "detailedForecast": "Snow. Cloudy. High near 29, with temperatures falling to around 21 in the afternoon. North wind 8 to 15 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,40?size=medium",
+                "shortForecast": "Chance Light Snow",
+                "detailedForecast": "A chance of snow. Mostly cloudy. High near 29, with temperatures falling to around 20 in the afternoon. North wind around 13 mph, with gusts as high as 29 mph. Chance of precipitation is 40%. New snow accumulation of less than one inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-02-07T18:00:00-05:00",
                 "endTime": "2026-02-08T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 2,
+                "temperature": 3,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 35
+                    "value": 23
                 },
-                "windSpeed": "13 to 16 mph",
+                "windSpeed": "14 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,40/cold?size=medium",
-                "shortForecast": "Chance Light Snow then Partly Cloudy",
-                "detailedForecast": "A chance of snow before 7pm, then a slight chance of snow showers between 7pm and 9pm. Partly cloudy, with a low around 2. Wind chill values as low as -13. Northwest wind 13 to 16 mph, with gusts as high as 31 mph. Chance of precipitation is 40%. New snow accumulation of less than half an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/cold?size=medium",
+                "shortForecast": "Slight Chance Light Snow then Mostly Cloudy",
+                "detailedForecast": "A slight chance of snow before 8pm. Mostly cloudy, with a low around 3. Wind chill values as low as -12. Northwest wind around 14 mph, with gusts as high as 32 mph. Chance of precipitation is 20%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "In Boston today, the world outside is shrouded in a quiet, wintry embrace as snow blankets the ground, creating a hushed canvas of white under a leaden sky. The temperature holds at a crisp 29 degrees, with a chilling descent expected as the day unfolds. Winds, brisk and unwavering from the north, whip through the streets, casting a sharp bite to the air that tinges cheeks with a rosy hue. It is that kind of snow, dense and determined, promising an accumulation of up to four inches; a winter's gift that draws out the playful spirit in all.\n\nAs evening creeps in, the chance of lingering snow persists. The atmosphere might lighten a touch, revealing fleeting glimmers of the dusky sky, while temperatures dip toward a forbidding low of 2 degrees. The wind, relentless, introduces a bone-chilling wind chill that will whisper tales of cold comfort. Given these conditions, the attire of choice should lean heavily toward warmth\u2014think layers of wool, thick socks tucked into sturdy boots, and scarves wrapped snugly against the face. For those considering venturing out, perhaps a brisk stroll through the snow-laden streets is in order, breathing deep the frosty air while watching the city transform into an ethereal winter wonderland. Alternatively, staying in with a well-worn book and a steaming cup of cocoa could provide solace from the harsh elements outside, enveloped in the warmth of home and the flicker of candlelight.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2026-02-07 11:10:08"
+    "weather_report": "In Boston this afternoon, a blanket of clouds hovers low over the city, casting a muted gray hue across the landscape. The air is crisp and biting, a foretaste of the gathering chill as temperatures slip toward the twenties. Though the wind\u2019s brisk embrace offers a certain invigorating sharpness, it also beckons caution, with gusts dancing through the streets, reminding us that winter is still very much in command. The possibility of snow lingers like an uninvited guest, hinting at delicate flakes that might add their quiet beauty to the scene, even if only in small doses.\n\nAs evening approaches, temperatures will plunge further, ushering in a stark cold enriched by wind chill values that can become biting. Tonight presents an opportunity for fortifying warmth\u2014think layers, a robust coat, and perhaps a woolen cap to shield against the chill. Those brave enough to venture outside might find solace in a quick jaunt through the hushed city, where a light dusting of snow might catch the faint glow of streetlamps, creating an ethereal, almost enchanted atmosphere. Perhaps a stop at a cozy caf\u00e9 to sip something warm will provide the perfect counterpoint to the evening's cool embrace.",
+    "color_code": "#A2B7DB",
+    "timestamp": "2026-02-07 15:09:17"
 }
