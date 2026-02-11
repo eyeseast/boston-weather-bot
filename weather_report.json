@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-11T08:05:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 92.97695284763,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "timestamp": "2026-02-11T12:05:00+00:00",
+            "temperature_f": 28.4,
+            "temperature_c": -2,
+            "humidity": 79.933943298105,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 290,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-11T03:00:00-05:00",
-                "endTime": "2026-02-11T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20?size=medium",
-                "shortForecast": "Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow before 4am. Mostly cloudy, with a low around 27. Southwest wind around 5 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-02-11T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-02-11T07:00:00-05:00",
                 "endTime": "2026-02-11T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 37,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 3
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "7 to 12 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 37. West wind 6 to 10 mph, with gusts as high as 21 mph."
+                "detailedForecast": "Mostly sunny, with a high near 37. West wind 7 to 12 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-11T18:00:00-05:00",
+                "endTime": "2026-02-12T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 23,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Light Snow then Mostly Cloudy",
+                "detailedForecast": "A slight chance of snow between 9pm and 10pm. Mostly cloudy, with a low around 23. West wind 7 to 10 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dawn gently approaches, the tranquil chill of a February night wraps around Boston, carrying with it a whisper of snow that settled lightly on the ground earlier. The clouds overhead hint at a world still waking, yet not too far from the promise of brighter hours ahead. With temperatures now resting around that delicate threshold of twenty-seven degrees, the air feels brisk\u2014not uncomfortable, but precisely the sort of chill that beckons for a warm scarf and perhaps a knitted hat to cradle your ears. The low southwest winds play softly, a faint breeze that reminds one of winter's persistent presence.\n\nAs Wednesday unfolds, hope rises alongside the sun. An expanse of blue will soon pierce through the clouds, unveiling a day tinged with the clarity of mid-winter. The anticipated high, near thirty-seven, will coax the city into a spirited mood, drawing residents out from their cozy nooks. With the wind still rustling at six to ten miles per hour, one will want to dress warmly; layered clothing, a sturdy coat, and perhaps waterproof shoes will serve one well if they find themselves wandering through the cobblestone streets or lingering by the icy Charles. The conditions call for simple pleasures: maybe a leisurely mid-morning stroll at the park, where the crunch of snow underfoot harmonizes with the laughter of a few, brave souls enjoying the fleeting winter. \n\nAs the city comes alive, consider curling up with a favorite book in a snug caf\u00e9, warmed by coffee or tea, while watching the world move briskly outside. Today is a canvas, ready for paint, and the quiet joy of Boston on this winter\u2019s day waits to be discovered by those willing to step out and breathe in the crisp air.",
-    "color_code": "#A2B0C3",
-    "timestamp": "2026-02-11 03:21:25"
+    "weather_report": "In Boston today, the sky unfolds above in a gentle embrace of mostly sunny brilliance, where the chill of winter breathes invigoratingly, with temperatures set to hover near a brisk 37 degrees. The west wind stirs softly, bringing a playful whip of air that dances through the city at speeds that invite a little adventure. As you meander through the streets, the warmth of the sun beams down, momentarily erasing the cold that tends to linger in the shadows of the buildings.\n\nAs evening approaches, a hint of change lurks in the atmosphere. Clouds will gather, casting a softer light onto the world below, with a slight chance of snow teasing at the edges of the night. Should you need to venture out, woolen layers and a snug scarf will be your companions, ready to shield you against the crisp descent of temperatures into the lower twenties. Each step can be a quiet pleasure this evening, whether you find solace in a cozy caf\u00e9 or relish the brisk walk with a view of the growing twilight. The landscape transforms into a canvas of muted colors as day yields to night, inviting moments of quiet reflection amidst the city\u2019s heartbeat.",
+    "color_code": "#A7C6ED",
+    "timestamp": "2026-02-11 07:25:28"
 }
