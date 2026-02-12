@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-11T12:05:00+00:00",
-            "temperature_f": 28.4,
-            "temperature_c": -2,
-            "humidity": 79.933943298105,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 290,
-            "description": "Clear"
+            "timestamp": "2026-02-12T00:30:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 55.433765044563,
+            "wind_speed_mph": 41.39344800000001,
+            "wind_direction": 260,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-02-11T07:00:00-05:00",
-                "endTime": "2026-02-11T18:00:00-05:00",
+                "name": "Tonight",
+                "startTime": "2026-02-11T19:00:00-05:00",
+                "endTime": "2026-02-12T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 22,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 11
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 22. West wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-02-12T06:00:00-05:00",
+                "endTime": "2026-02-12T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 37,
+                "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 3
                 },
-                "windSpeed": "7 to 12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 37. West wind 7 to 12 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-02-11T18:00:00-05:00",
-                "endTime": "2026-02-12T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 23,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "7 to 10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/snow,20/bkn?size=medium",
-                "shortForecast": "Slight Chance Light Snow then Mostly Cloudy",
-                "detailedForecast": "A slight chance of snow between 9pm and 10pm. Mostly cloudy, with a low around 23. West wind 7 to 10 mph. Chance of precipitation is 20%."
+                "windSpeed": "10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 34. Northwest wind around 10 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, the sky unfolds above in a gentle embrace of mostly sunny brilliance, where the chill of winter breathes invigoratingly, with temperatures set to hover near a brisk 37 degrees. The west wind stirs softly, bringing a playful whip of air that dances through the city at speeds that invite a little adventure. As you meander through the streets, the warmth of the sun beams down, momentarily erasing the cold that tends to linger in the shadows of the buildings.\n\nAs evening approaches, a hint of change lurks in the atmosphere. Clouds will gather, casting a softer light onto the world below, with a slight chance of snow teasing at the edges of the night. Should you need to venture out, woolen layers and a snug scarf will be your companions, ready to shield you against the crisp descent of temperatures into the lower twenties. Each step can be a quiet pleasure this evening, whether you find solace in a cozy caf\u00e9 or relish the brisk walk with a view of the growing twilight. The landscape transforms into a canvas of muted colors as day yields to night, inviting moments of quiet reflection amidst the city\u2019s heartbeat.",
-    "color_code": "#A7C6ED",
-    "timestamp": "2026-02-11 07:25:28"
+    "weather_report": "Tonight in Boston finds us nestled beneath a blanket of clouds, the brisk air whispering secrets as it tumbles through the quiet streets. The temperature dips low, inviting a sense of solitude that contrasts with the city\u2019s vibrant heartbeat. A west wind carries a crispness that may just urge you to reach for a cozy scarf or a warm jacket before stepping out. The gentle stirrings of the evening, combined with the twinkling of streetlights, lend a hint of charm to the nocturnal urban landscape, suggesting that a late walk could offer a moment of reflective peace.\n\nAs you awaken Thursday, anticipation builds in the dawning light. The forecast promises a flirtation with the sun, the clouds dissipating to reveal glimpses of blue sky. With temperatures inching toward a chilly but refreshing thirty-four degrees, dressing in layers becomes somewhat of an art\u2014think of a light sweater beneath a sturdy coat, perhaps paired with comfortable shoes perfect for a stroll through the Common. Engage with the day by exploring one of Boston\u2019s historic caf\u00e9s, savoring a warm drink as you watch the world come alive. The potential for brisk winds adds a dash of adventure; consider a visit to a gallery or a leisurely wander along the waterfront, where the chill complements the vibrant energy of the city. As the day unfolds, the clarity and the promise of a brighter atmosphere allow room for both introspection and enjoyment of simple pleasures.",
+    "color_code": "#2C2C2C",
+    "timestamp": "2026-02-11 19:43:11"
 }
