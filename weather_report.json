@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-12T16:10:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 43.364717012801,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 330,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-02-13T00:25:00+00:00",
+            "temperature_f": 26.6,
+            "temperature_c": -3,
+            "humidity": 58.506510777555,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 300,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-02-12T11:00:00-05:00",
-                "endTime": "2026-02-12T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 35,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 35. Northwest wind around 14 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-02-12T18:00:00-05:00",
+                "startTime": "2026-02-12T19:00:00-05:00",
                 "endTime": "2026-02-13T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 12,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 12. Northwest wind 7 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-02-13T06:00:00-05:00",
+                "endTime": "2026-02-13T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 36. Wind chill values as low as 0. Northwest wind around 8 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, a pleasant clarity hangs in the air, inviting the quiet rhythms of winter. The sun casts a bright yet gentle glow across the landscape, hinting at the warmth that can be found within its embrace, while a brisk northwest wind whispers tales of the chill that remains. As you step outside into this clear winter scene, a crispness tickles the cheeks, underscoring the presence of the winter season, yet the absence of fog lends an uplifting lightness to the atmosphere, perfect for a leisurely stroll.\n\nLater in the evening, the sky will transition into a peaceful canvas of stars under a mostly clear sky, inviting quiet reflections or perhaps a warm gathering over steaming cups of cocoa. Dress warmly\u2014a snug coat and sturdy boots will keep you comfortable against the brisk winds and chilly temperatures. Take this moment to appreciate the simple joy of the outdoors: a brisk walk through the neighborhood or a visit to one of Boston's serene parks. Embrace the wintry day, and allow it to remind you of the beauty in stillness.",
-    "color_code": "#A8C5E0",
-    "timestamp": "2026-02-12 11:25:41"
+    "weather_report": "Under the quiet embrace of a moonlit night, Boston pauses in a moment of tranquil clarity, the air crisp with the impending chill that heralds winter's grip. A soft rustle of the northwest wind carries whispers of cold, setting a scene that feels both serene and sharp. As the city rests, illuminated by scattered lights, a low of twelve degrees beckons the mindful to wrap themselves in warm layers, embracing the comforts of wool and thick coats, perhaps complemented by a cozy scarf and a sturdy hat to shield against the cool night's breath.\n\nTomorrow, the sun will rise with an invigorating promise, casting bright rays across a vibrant, snow-flecked canvas. A high near thirty-six offers a glimmer of warmth, although wind chill may dip to near zero, reminding all to tread carefully through the beauty of a wintry day. As the city stretches awake, the promise of sunshine invites brisk walks along the Charles, coffee in hand, allowing the warmth of the sun to meet the coolness of the air in an enchanting dance. Or one might find solace in a neighborhood caf\u00e9, sipping a steaming brew while engaging in leisurely conversation with friends. If adventure calls, consider a museum visit, where the fascinating tales of art and history will feel all the more inviting against the backdrop of this clear, fresh day.",
+    "color_code": "#001F3F",
+    "timestamp": "2026-02-12 19:45:23"
 }
