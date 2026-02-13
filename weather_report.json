@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-13T11:53:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-02-13T16:00:00+00:00",
+            "temperature_f": 30.2,
+            "temperature_c": -1,
+            "humidity": 43.058636576831,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 360,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Today",
-                "startTime": "2026-02-13T07:00:00-05:00",
+                "startTime": "2026-02-13T11:00:00-05:00",
                 "endTime": "2026-02-13T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 35,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
+                "windSpeed": "7 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 35. Northwest wind around 6 mph."
+                "detailedForecast": "Sunny, with a high near 35. West wind around 7 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-02-13T18:00:00-05:00",
                 "endTime": "2026-02-14T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 18,
+                "temperature": 19,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 16
+                    "value": 6
                 },
-                "windSpeed": "5 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct/snow,20?size=medium",
-                "shortForecast": "Partly Cloudy then Slight Chance Light Snow",
-                "detailedForecast": "A slight chance of snow between 4am and 5am. Partly cloudy, with a low around 18. West wind around 5 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 19. West wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the day unfurls into a canvas of bright blue skies, casting the city in a warm embrace. With temperatures hovering near a refreshing 35, the northwest breeze whispers gently, offering a pleasant reprieve from the winter chill. The clarity of the day is striking, inviting both those who seek quiet reflection and those who wish to engage with the world around them. However, as night approaches, a hint of mystery might drift in; a slight chance of snow flirts with the early hours, teasing the possibility of soft, powdery flakes.\n\nFor those venturing out, the attire should be comfortably layered, with a sturdy coat to shield against the evening drop into the low teens. This is the perfect time to stroll through the city, perhaps reveling in the ethereal beauty of a quiet park, or find solace in a cozy caf\u00e9, where the aroma of freshly brewed coffee mingles with the crisp winter air. Whether it's a moment to simply breathe and behold the splendor of a sun-kissed city or a chance to engage with the hum of daily life, the day promises glimpses of both clarity and charm.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2026-02-13 07:19:12"
+    "weather_report": "As the day unfolds in Boston, a brilliant sun blankets the landscape, illuminating the city under a sky so clear it invites contemplation. The temperature, reaching towards a comforting thirty-five degrees, carries with it the gentle breath of a westward breeze, soft but invigorating. Tonight, the scene shifts subtly; the sun will set behind a veil of partly clouded skies, the temperature dropping to a crisp nineteen, but fear not\u2014the charm of the evening will still remain, beckoning for a stroll or quiet reflection.\n\nIn this fine weather, a stroll along the Charles River\u2014or perhaps wandering through one of Boston's historic neighborhoods\u2014would bring both solace and serenity. Layering a light sweater under a well-loved coat will keep the winter chill at bay while allowing for movement and comfort. As the sun dips lower in the sky and shadows lengthen, perhaps a visit to a cozy caf\u00e9 or a bookshop, sipping something warm while observing the gentle hum of the city transitioning into night, would provide a fitting close to the day. In such conditions, Boston shines not just in its skyline, but in its vibrant pulse, urging one to step out and embrace the moment.",
+    "color_code": "#00A3E0",
+    "timestamp": "2026-02-13 11:20:41"
 }
