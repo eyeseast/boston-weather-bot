@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-14T06:53:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 190,
-            "description": "Clear"
+            "timestamp": "2026-02-14T12:00:00+00:00",
+            "temperature_f": 24.8,
+            "temperature_c": -4,
+            "humidity": 58.240201126198,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 240,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-14T03:00:00-05:00",
-                "endTime": "2026-02-14T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 17,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 17. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-02-14T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-02-14T07:00:00-05:00",
                 "endTime": "2026-02-14T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 38,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 38. West wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-14T18:00:00-05:00",
+                "endTime": "2026-02-15T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 21,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 21. West wind around 6 mph."
             }
         ]
     },
-    "weather_report": "In the quiet hours before dawn, Boston rests under a shroud of stillness, the night cloaking the city in deep, muted hues. The air, crisp and biting, nips sharply, promising a cold day ahead. With the temperature poised to dip to around seventeen degrees, one would do well to wrap themselves in layers; a well-insulated coat, perhaps a knitted scarf, and sturdy boots will serve as your armor against the brisk winds that wend through the streets, whispering tales of winter's lingering grasp.\n\nAs the sun makes its tentative entrance into this frigid morning, a veil of promise emerges\u2014mostly sunny skies will unfold, with a high creeping towards a more bearable thirty-eight degrees. The decrease in cloud cover will unveil Boston\u2019s beauty, inviting residents to emerge and bask in the gentle warmth of daylight. As the day progresses, consider wandering along the esplanade, taking in the steadfast presence of the Charles River, or perhaps meandering through the cobblestone streets of Beacon Hill, where history breathes alongside you in a quiet dialogue. There\u2019s a comfort in the routine that today's weather inspires, urging you towards a classic caf\u00e9 for a little warmth paired with a fresh pastry, or a local bookstore to lose oneself in the written word, wrapped in the embrace of heat. The day calls for a careful balance between comfort and adventure, ensuring you're well-prepared to face the chill, both in the air and in your heart.",
-    "color_code": "#5B5C56",
-    "timestamp": "2026-02-14 03:11:44"
+    "weather_report": "As dawn breaks over Boston, a clear, crisp day unfolds, defined by a gentle west wind that whispers promises of warmth. The atmosphere reveals itself in shades of soft blue, with the sun poised to bring forth a modest warmth, climbing towards a high that teases 38 degrees. Clear skies prevail, devoid of fog's ethereal touch, allowing for the distant skyline to glimmer, muted yet inviting.\n\nAs the day progresses, those venturing outdoors might choose layers\u2014a warm coat layered over a simple sweater, complemented by sturdy boots to navigate the cooler pavement. Ideal for a leisurely stroll along the Charles River, one could indulge in the serenity of a quiet morning, perhaps pausing at a local caf\u00e9 for a steaming mug cradled between chilled hands. As twilight descends, the forecast suggests a similarly placid evening and a low that hints at the chill returning; this evening could be best spent cozied up with a book by the fire or enjoying the nuances of intimate conversation.",
+    "color_code": "#A3B0C4",
+    "timestamp": "2026-02-14 07:14:30"
 }
