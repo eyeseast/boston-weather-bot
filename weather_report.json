@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-14T19:45:00+00:00",
-            "temperature_f": 35.6,
-            "temperature_c": 2,
-            "humidity": 55.433765044563,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 280,
-            "description": "Cloudy"
+            "timestamp": "2026-02-15T00:30:00+00:00",
+            "temperature_f": 28.4,
+            "temperature_c": -2,
+            "humidity": 74.09027171839,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 250,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-02-14T13:00:00-05:00",
-                "endTime": "2026-02-14T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 to 8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 38. West wind 5 to 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-02-14T18:00:00-05:00",
+                "startTime": "2026-02-14T19:00:00-05:00",
                 "endTime": "2026-02-15T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 22,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 22. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-02-15T06:00:00-05:00",
+                "endTime": "2026-02-15T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 32,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "1 to 9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 32. Northwest wind 1 to 9 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston, a blanket of clouds hangs low in the sky, dulling the sun's rays and casting a muted light over the city. With temperatures hovering around a chilly 38 degrees, the air carries a crispness that bites slightly against the skin. A gentle west wind stirs, providing a subtle movement that is almost refreshing, mingling with the stillness of the day. As evening approaches, the clouds will part slightly, ushering in a low of about 22 degrees, inviting a quilted layer of warmth against the chill.\n\nThe weather invites a modest sense of coziness, perfect for pulling on a warm sweater, a reliable coat, and perhaps even a scarf to seal out the cold when stepping outdoors. Today is well-suited for leisurely activities\u2014strolling through a nearby park where the muted colors of winter can be observed, or perhaps enjoying a moment at a local caf\u00e9, cradling a warm drink while watching the world go by. The weather may not beg for excitement, but it fosters a welcoming atmosphere for quiet reflection or respite from life\u2019s hustle, under the evolving yet unremarkable sky.",
-    "color_code": "#A5A8C1",
-    "timestamp": "2026-02-14 15:09:19"
+    "weather_report": "As evening descends upon Boston, a gentle darkness wraps the city, the air poised with a crispness that brings a certain vitality. Under a partly cloudy sky, the temperature rests comfortably at around 22 degrees, creating an atmosphere that is both invigorating and serene. A westerly breeze, slight yet present, adds a whisper of chill, reminding one that winter still holds its reign. \n\nLooking ahead to Sunday, the anticipated daylight brings a promise of brightness. With mostly sunny skies and a high near 32, an invitation to step outside becomes hard to resist. Dress warmly, layering against the cool air yet allowing for the pleasant warmth that sunlight can offer as it filters through the clouds. Venture forth to a cozy caf\u00e9 for a warm beverage, or simply take a stroll through the neighborhood, where the quiet streets beckon for a moment of reflection and slow-paced enjoyment. The day holds the potential for connection, whether through a shared conversation over coffee or a fleeting moment of joy while absorbing the city\u2019s understated beauty.",
+    "color_code": "#2F2F2F",
+    "timestamp": "2026-02-14 19:45:58"
 }
