@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-15T07:53:00+00:00",
+            "timestamp": "2026-02-15T11:53:00+00:00",
             "temperature_f": null,
             "temperature_c": null,
             "humidity": null,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-15T03:00:00-05:00",
-                "endTime": "2026-02-15T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 21,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 21. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-02-15T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-02-15T07:00:00-05:00",
                 "endTime": "2026-02-15T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 32,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 32. North wind 2 to 6 mph."
+                "detailedForecast": "Sunny, with a high near 32. North wind 5 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-15T18:00:00-05:00",
+                "endTime": "2026-02-16T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 22,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 17
+                },
+                "windSpeed": "3 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 3am. Mostly cloudy, with a low around 22. Northeast wind around 3 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the cool embrace of a Boston night, the streets lie under a tapestry of silence, save for the gentle hum of distant traffic. With temperatures dipping to a crisp 21 degrees, the air feels fresh, almost fragrant with anticipation as daylight approaches. A slight westerly breeze caresses the landscape, whispering secrets of the day that is to come. As dawn tiptoes onto the scene, a tapestry of sunlight will unfurl, promising a sunlit Sunday where warmth will graciously climb to a comfortable 32 degrees.\n\nThe expected clarity of the day invites warm attire\u2014think snug layers, perhaps a woolen scarf and a sturdy coat to combat that early morning chill. As the sun ascends, its rays will dance upon the cobblestones and shimmer through the trees, creating an inviting atmosphere where exploration beckons. Picture a leisurely walk along the Charles River, where the soothing waters reflect the gradual awakening of the city, or perhaps a visit to one of Boston\u2019s many cozy caf\u00e9s, where the scent of freshly brewed coffee mingles with the tantalizing aroma of baked goods. It is a day painted in the soft hues of a gentle winter, where the allure of the outdoors entwines with the comfort of a warm hearth.",
-    "color_code": "#1a1a1a",
-    "timestamp": "2026-02-15 03:13:16"
+    "weather_report": "Boston awakens to a crisp, invigorating morning, the air imbued with the promise of sunshine and a slight chill. The sky stretches overhead in a clear azure, unmarred by fog or haze, suggesting an idyllic day unfolding. As the hours draw on, temperatures will rise steadily, promising warmth that tiptoes just shy of summer, making for a pleasant winter\u2019s day. Nevertheless, an evening transition looms, bringing the potential for a gentle dusting of snow after midnight, a whisper of winter\u2019s charm to accompany the quiet of the night ahead.\n\nOn this bright day, consider dressing in layers that allow for flexibility; a light sweater will serve well in the sun\u2019s warmth, while a warmer coat will be your ally as twilight approaches. Footwear should prioritize comfort, inviting you to wander through the city\u2019s vibrant streets or perhaps find solace in a cozy caf\u00e9, a favorite nook where one can sip a warm brew and watch life unfurl. The allure of today beckons to those with an adventurer\u2019s heart\u2014take a leisurely stroll along the waterfront or enjoy the serene atmosphere of one of Boston\u2019s many parks, where the encroaching evening brings a sense of peaceful anticipation.",
+    "color_code": "#A7C7D9",
+    "timestamp": "2026-02-15 07:15:20"
 }
