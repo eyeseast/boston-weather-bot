@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-16T08:05:00+00:00",
-            "temperature_f": 21.2,
-            "temperature_c": -6,
-            "humidity": 79.323042834535,
+            "timestamp": "2026-02-16T12:05:00+00:00",
+            "temperature_f": 24.8,
+            "temperature_c": -4,
+            "humidity": 68.192265367641,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Cloudy"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-16T03:00:00-05:00",
-                "endTime": "2026-02-16T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 21,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 21. North wind around 2 mph."
-            },
-            {
-                "number": 2,
                 "name": "Washington's Birthday",
-                "startTime": "2026-02-16T06:00:00-05:00",
+                "startTime": "2026-02-16T07:00:00-05:00",
                 "endTime": "2026-02-16T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 38,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 1
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 38. Northeast wind 2 to 6 mph."
+                "detailedForecast": "Partly sunny, with a high near 38. Northeast wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-16T18:00:00-05:00",
+                "endTime": "2026-02-17T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 23,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 23. Northwest wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As the city of Boston nestles within the embrace of a chilly night, the air is painted with a prevailing shade of gray, a palette of clouds hovering overhead. Temperatures slumber at a crisp 21 degrees, and while the gentle north wind barely stirs, it whispers a reminder of winter's lingering presence. In the quiet hours before dawn, the streets remain hushed, wrapped in a serene veil of solitude, though the soft glow of faraway lights punctuates the dark.\n\nAs daybreak unfurls, the promise of Washington's Birthday emerges\u2014an invitation to bask in the soft rays of a partly sunny sky. Anticipate a high near a refreshing 38 degrees as the northeast wind teases the air, a comforting breeze that hints at the budding hints of spring. However, do prepare for the layered dressing of winter; a well-fitted coat, a snug scarf, and perhaps a woolen hat will serve you well throughout the brisk morning. As you venture out, let your steps be guided by exploratory curiosity; perhaps a leisurely stroll along the harbor will allow you to witness the city awaken. An afternoon would best be spent with a book in a cozy coffee shop, or perhaps indulging in a quiet moment at an art gallery, where the cold can be forgotten amid the warmth of creativity. \n\nAs twilight approaches, the lingering shadows of the day offer a peaceful end, reminiscent of a painter's final strokes on an evolving canvas. The bittersweet chill of the evening beckons\u2014as Boston breathes in serene solitude.",
-    "color_code": "#4B4F54",
-    "timestamp": "2026-02-16 03:20:58"
+    "weather_report": "As dawn unfolds over Boston, a soft and muted gray blankets the city, promising a day that mingles the chill of winter with a cautious hint of hope. The forecast beckons a partly sunny disposition as high temperatures inch toward a modest thirty-eight. For those beginning their day, the air carries a crispness that envelopes the skin, a reminder that while spring whispers on the horizon, winter still holds sway. Today\u2019s gentle northeast wind, barely rustling the bare branches, curls around like a fleeting embrace, inviting you to wrap yourself in warm layers \u2013 perhaps a cherished woolen sweater beneath a trusty coat.\n\nAs you navigate the morning, the clouds will linger, casting an inviting cloak over the day\u2019s activities. It is an ideal day for quiet pursuits; perhaps one might meander through the local bookstore, losing track of time among the stacks, or embrace the warmth of a cozy caf\u00e9, wrapped around a steaming mug, watching the world shuffle by. For the more adventurous at heart, a brisk walk along the Charles could awaken the senses, though it would be wise to wear a sturdy pair of boots and a scarf. The evening promises a slow descent into chillier territory, with temperatures dropping toward twenty-three. As twilight falls, the clouds will deepen their embrace, making that cup of tea or a good book a fitting conclusion to the day.",
+    "color_code": "#A1C3D0",
+    "timestamp": "2026-02-16 07:21:40"
 }
