@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-15T19:50:00+00:00",
-            "temperature_f": 35.6,
-            "temperature_c": 2,
-            "humidity": 34.670536049899,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 60,
+            "timestamp": "2026-02-16T00:30:00+00:00",
+            "temperature_f": 24.8,
+            "temperature_c": -4,
+            "humidity": 53.767758577863,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 70,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-02-15T14:00:00-05:00",
-                "endTime": "2026-02-15T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 33,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 33. Northeast wind 2 to 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-02-15T18:00:00-05:00",
+                "startTime": "2026-02-15T19:00:00-05:00",
                 "endTime": "2026-02-16T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 21,
@@ -49,14 +30,33 @@
                     "value": 10
                 },
                 "windSpeed": "2 mph",
-                "windDirection": "N",
+                "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 21. North wind around 2 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 21. Northeast wind around 2 mph."
+            },
+            {
+                "number": 2,
+                "name": "Washington's Birthday",
+                "startTime": "2026-02-16T06:00:00-05:00",
+                "endTime": "2026-02-16T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 37,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 11
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 37. Northeast wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sun casts a warm embrace over the landscape, heralding a high around thirty-three degrees. The gentle northeast breeze whispers softly through the streets, fostering an atmosphere that feels refreshing rather than biting. While the sky boasts a clarity that promises the gradual unveiling of a crisp, blue expanse, the day\u2019s charm is muted by the lingering chill as the sun takes its low arc across the horizon. As evening approaches, the clouds will gather in a mostly-overcast veil, settling down to an inviting low of about twenty-one degrees, with winds settling into a calm northward flow.\n\nFor those keen to relish the beauty of this serene winter day, it's an ideal moment to don layers\u2014a snug sweater beneath a warm coat, perhaps accompanied by a soft scarf. A stroll through the nearby parks may be particularly delightful, with the promise of a low but radiant sun painting tranquil shadows on wintry pathways. Or perhaps enjoy a warm drink at a local caf\u00e9, sipping slowly while taking in the gentle shield of clouds that will soon cocoon the city. Engage in the comfort of the ordinary, for moments like these beckon the heart to appreciate the subtle poetry of wintertime in Boston.",
-    "color_code": "#A3CED5",
-    "timestamp": "2026-02-15 15:09:21"
+    "weather_report": "As evening descends upon Boston, a veil of clouds wraps the city in a soft, muted embrace. The air is crisp, carrying temperatures that drop to a cool 21 degrees, while a gentle breeze whispers through the streets at just a hint of two miles per hour. The night is stark but serene, a calm before the partial dawn set to rise on Washington's Birthday. Tomorrow promises a flirtation with sunshine, though the chill will persist with highs near 37 degrees, an invitation for coats and layered attire.\n\nTonight\u2019s muted palette of grays and blacks suggests a moment for quiet contemplation, perhaps best spent with a warm drink cradled in your hands while watching the world unfurl from the comfort of your home. For the more adventurous souls, an evening stroll could reveal the serene beauty of Boston's twinkling lights reflected against the dark canvas of winter, though a soft scarf and sturdy shoes are advised to ward off the evening chill. As the days shift towards the promise of spring, this night provides a reminder of nature\u2019s grip, urging us to cherish moments of tranquility before the vibrant energy of the season returns.",
+    "color_code": "#2C2C2C",
+    "timestamp": "2026-02-15 19:43:59"
 }
