@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-18T03:00:00-05:00",
-                "endTime": "2026-02-18T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 32,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 32. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-02-18T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-02-18T07:00:00-05:00",
                 "endTime": "2026-02-18T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 38,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 52
                 },
-                "windSpeed": "5 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/rain,20/snow,50?size=medium",
                 "shortForecast": "Chance Light Rain then Chance Light Snow",
-                "detailedForecast": "A chance of rain between 10am and 3pm, then a chance of snow between 3pm and 4pm, then a chance of snow and patchy fog. Cloudy, with a high near 38. Northwest wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "Patchy fog before 9am, then a chance of rain between 10am and 3pm, then a chance of snow between 3pm and 4pm, then a chance of snow and patchy fog. Cloudy, with a high near 38. Northwest wind around 3 mph. Chance of precipitation is 50%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-18T18:00:00-05:00",
+                "endTime": "2026-02-19T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 26,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 49
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/snow,50/snow,30?size=medium",
+                "shortForecast": "Chance Light Snow",
+                "detailedForecast": "A chance of snow before 3am. Mostly cloudy, with a low around 26. North wind around 5 mph. Chance of precipitation is 50%. New snow accumulation of 1 to 2 inches possible."
             }
         ]
     },
-    "weather_report": "As the night settles in Boston, a tapestry of clouds blankets the city, wrapping it in a chill that whispers of winter\u2019s lingering embrace. The temperature hovers just above freezing, setting a brisk tone as the gentle southwest wind flirts with the corners of your coat. As dawn approaches, the promise of a damp Wednesday looms, with the chance of rain shadowed by the specter of snow starting in the afternoon. Cloudy skies will reign supreme, giving the day an overcast demeanor, possibly punctuated by patchy fog that dances along the roads and sidewalks, adding an element of mystery to the cityscape.\n\nFor those venturing outside, layered attire will be your ally, allowing you to adapt smoothly to the shifting temperatures. A sturdy coat, warm hat, and waterproof footwear will serve you well whether you are strolling through historic streets, visiting local cafes, or perhaps finding solace in the quiet corners of a library. With the chance of precipitation in the air, this day invites peaceful pursuits: why not settle into a well-loved chair in a cozy corner, a cup of tea cradled in your hands, as you watch the world go by softly veiled in fog? Alternatively, a gentle walk amongst the echo of soft footsteps on wet pavement brings a sense of calm to the busy spirit. The day may not beckon for grand adventures, but in its quiet, understated way, it offers a gentle reminder to find beauty in the simple moments.",
-    "color_code": "#7f94c4",
-    "timestamp": "2026-02-18 03:20:20"
+    "weather_report": "In the quiet embrace of early morning, Boston wakes under a thick veil of patchy fog, obscuring the familiar skyline and wrapping the day in a shroud of mystery. Visibility is low, and the air is cool\u2014almost crisp\u2014suggesting a soft touch of rain that lingers on the horizon until around mid-afternoon. As the clouds gather overhead, they promise the possibility of snow, teasing us with a light dusting that may accumulate ever so slightly. This haunting atmosphere makes for a rather melancholic beginning, yet there is something charming about the muted tones of a city emerging from sleep amidst fog and overcast skies.\n\nAs the day progresses, one might dress in layers, opting for a cozy sweater or a warm coat paired with a hat to keep the chill at bay. The outlook hints at an eventual shift to snowy whispers as the sun fades, inviting you to curl up with a good book or venture out to explore a quiet caf\u00e9 where warm drinks await. Perhaps a stroll through empty streets to absorb the gentle crunch of anticipated snow underfoot, or contemplating the day ahead from the comfort of your window could be a cozy alternative. Whatever you choose, the weather whispers of quiet pleasures and a moment to savor the softness of the day.",
+    "color_code": "#A8BFD2",
+    "timestamp": "2026-02-18 07:21:22"
 }
