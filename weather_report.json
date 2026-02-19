@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-18T20:00:00+00:00",
-            "temperature_f": 39.2,
-            "temperature_c": 4,
-            "humidity": 86.803362953546,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 270,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2026-02-19T04:20:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": null,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 30,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-02-18T15:00:00-05:00",
-                "endTime": "2026-02-18T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 66
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely and patchy fog. Cloudy, with a high near 38. North wind around 2 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-02-18T18:00:00-05:00",
+                "startTime": "2026-02-18T23:00:00-05:00",
                 "endTime": "2026-02-19T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 25,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 49
+                    "value": 20
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/snow,50/bkn?size=medium",
-                "shortForecast": "Chance Rain And Snow then Mostly Cloudy",
-                "detailedForecast": "A chance of rain and snow before midnight. Mostly cloudy, with a low around 25. North wind around 5 mph. Chance of precipitation is 50%."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Light Snow then Mostly Cloudy",
+                "detailedForecast": "A slight chance of snow before midnight. Mostly cloudy, with a low around 25. North wind around 5 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-02-19T06:00:00-05:00",
+                "endTime": "2026-02-19T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 39. Northeast wind around 3 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfurls in Boston, a thick shroud of clouds envelops the skyline, promising a drizzly embrace that all but guarantees the day will lean towards the damp and chilly side. The air is laden with the scent of impending rain, and a murky fog weaves its way through the streets, softening the often-harsh outlines of familiar buildings. Those venturing outdoors may find themselves accompanied by a curious chill, courtesy of a north wind that whispers through the avenues at a gentle two miles per hour. The high, resting around 38 degrees, suggests layers would serve one well: a cozy scarf wrapped snugly around the neck, a sturdy raincoat, and perhaps water-resistant boots to navigate puddles that will surely form. \n\nAs twilight approaches, expect the rhythm of the day to shift slightly, with the possibility of rain and snow flitting about pre-midnight. The evening will glide in at around 25 degrees, inviting a more resourceful attire to stave off the creeping cold. The overlap of rain and snow might inspire some to cozy up inside with a steaming mug of tea or gather for an informal gathering with friends over board games. For those obedient to the weather's whims, a brisk stroll in the neighborhood could stir a sense of camaraderie with fellow locals, all while braving the elements together. Today may not glimmer with sunshine or warmth, but it offers a certain charm steeped in the cozy spirit of winter in New England.",
-    "color_code": "#AAB8B5",
-    "timestamp": "2026-02-18 15:17:21"
+    "weather_report": "As the evening delicately unfolds over Boston, a quiet stillness permeates the air, punctuated only by the whisper of a gentle north wind. The chance of snow, though slight, hangs in the atmosphere like a tentative promise, urging one to slip on an extra layer before venturing outside. With temperatures dipping into the mid-twenties, the night beckons for warmth; a cozy woolen scarf and a snug hat are advisable companions for your walk about the city. While the clouds cloak the stars, they also shield the bustling streets from the harshness of the cold, creating an ambiance that is both dimly inviting and contemplative.\n\nCome Thursday, the day dawns with a brighter promise, a shift towards warmth as the sun makes its ascent. A high near 39 beckons with whispers of revitalization, inviting residents to embrace the light. The northeast wind may still be a gentle presence, but the clear skies are likely to usher in a day perfect for quiet pursuits. A leisurely stroll through one of Boston's historic neighborhoods or a visit to a cozy caf\u00e9 seems ideal, allowing you to bask in the spring-like causes of early sunshine while savoring the simple pleasures of life. So don a light jacket, embrace the crispness, and allow yourself to be swept away in the unhurried rhythm of the day ahead.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-02-18 23:42:19"
 }
