@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-20T00:25:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 74.275253880025,
+            "timestamp": "2026-02-20T12:00:00+00:00",
+            "temperature_f": 19.4,
+            "temperature_c": -7,
+            "humidity": 92.569445871,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Patchy Fog"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-02-19T19:00:00-05:00",
-                "endTime": "2026-02-20T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 26,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 26. Southeast wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-02-20T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-02-20T07:00:00-05:00",
                 "endTime": "2026-02-20T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 38,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 95
+                    "value": 82
                 },
-                "windSpeed": "3 to 9 mph",
+                "windSpeed": "2 to 7 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,100?size=medium",
-                "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely between 11am and 3pm, then rain and snow. Cloudy, with a high near 38. East wind 3 to 9 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,80?size=medium",
+                "shortForecast": "Light Snow",
+                "detailedForecast": "A slight chance of snow between 10am and noon, then rain likely between noon and 4pm, then snow. Cloudy, with a high near 38. East wind 2 to 7 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-20T18:00:00-05:00",
+                "endTime": "2026-02-21T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 29,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 92
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/snow_fzra,90/sleet,60?size=medium",
+                "shortForecast": "Light Snow",
+                "detailedForecast": "Snow before 7pm, then snow and freezing rain and sleet likely between 7pm and 8pm, then a chance of sleet and rain and snow. Cloudy, with a low around 29. Northeast wind around 7 mph. Chance of precipitation is 90%. New snow accumulation of 1 to 3 inches possible."
             }
         ]
     },
-    "weather_report": "In Boston tonight, the atmosphere is draped in a heavy blanket of clouds, casting a dim, muted calm over the city. The temperature dips, settling into the low twenties, where a gentle southeast breeze adds a chill to the air, urging passersby to wrap themselves in layers of warm fabric. As the city lights flicker against the night, there\u2019s an unmistakable stillness that hints at the transformation the coming day holds.\n\nTomorrow brings promises of snow transforming into rain, painting the landscape in a surreal palette of whites and grays. With a steady, determined approach, the precipitation is expected to begin around mid-morning, creating a wintry illusion that may delight some and irritate others. As you step into the day, be prepared for the wet slush that follows, dressing in water-resistant footwear for those mundane yet essential errands. Despite the weather\u2019s unpredictability, the soft sound of falling snow\u2014brief as it may be\u2014calls for a contemplative stroll, perhaps down a less-traveled street where the world feels slower and more intimate. \n\nFor those looking for comfort, a cozy caf\u00e9 awaits with the promise of warm brews and the gentle hum of conversation, while others might prefer to enjoy the evolving scenery from the comfort of home. Whatever the choice, the day offers a chance to embrace the quieter moments as winter\u2019s whispers linger on the edge of spring.",
-    "color_code": "#3a3a3a",
-    "timestamp": "2026-02-19 19:40:53"
+    "weather_report": "The morning unfolds in Boston, where the day\u2019s veil of gray lends a somber yet serene quality to the landscape. A chill lingers in the air, hinting at the impending weather that dances on the horizon. As the clock approaches noon, the delicate promise of snow flutters lightly in the atmosphere, soon to weave seamlessly into a likely rain, before settling back into the familiar embrace of winter's snow later in the day. The chance for precipitation stands solid, urging residents to embrace the layered comfort of winter attire\u2014think cozy sweaters, warm coats, and sturdy boots to weather both the cold and the coming mix of sleet.\n\nAs evening approaches, the transition will be palpable; snow and freezing rain are poised to sweep through the neighborhood, cloaking the streets in a shimmering yet treacherous sheen. For those venturing out, the crisp demeanor of the air beckons for hot drinks and gentle strolls, perhaps along the quieter enclaves of the city, where the silence of falling snow can be savored in solitude. It is a day to embrace the indoors, to curl up with a book or engage in quiet reflections as winter draws its curtain over the bustling city streets. Enjoy these moments of warmth, while the silver-clad skies keep their secrets just beyond view.",
+    "color_code": "#A3B1B3",
+    "timestamp": "2026-02-20 07:19:31"
 }
