@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-19T20:00:00+00:00",
-            "temperature_f": 42.8,
-            "temperature_c": 6,
-            "humidity": 38.77798822337,
+            "timestamp": "2026-02-20T00:25:00+00:00",
+            "temperature_f": 30.2,
+            "temperature_c": -1,
+            "humidity": 74.275253880025,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-02-19T15:00:00-05:00",
-                "endTime": "2026-02-19T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 38. East wind around 3 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-02-19T18:00:00-05:00",
+                "startTime": "2026-02-19T19:00:00-05:00",
                 "endTime": "2026-02-20T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 26,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 26. Southeast wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-02-20T06:00:00-05:00",
+                "endTime": "2026-02-20T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 95
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/snow,20/snow,100?size=medium",
+                "shortForecast": "Light Snow Likely",
+                "detailedForecast": "Snow likely between 11am and 3pm, then rain and snow. Cloudy, with a high near 38. East wind 3 to 9 mph. Chance of precipitation is 100%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, a gentle brightness permeates the landscape. The sky, a canvas brushed with soft shades of blue, speaks of a fleeting winter warmth as the sun arcs toward its zenith. Temperatures hover invitingly around thirty-eight degrees, while a tender east wind teases the senses with its mildness. The day appears mostly sunny, though in the ensuing hours, clouds will gather like whispers of an impending chill, ushering in a nighttime low around twenty-six.\n\nFor those journeying outside, a light sweater or a warm coat may suffice against the cool embrace of the breeze. This is no time for heavy layers, but rather a chance to savor a pleasant walk along the waterfront or perhaps to explore one of the city\u2019s quaint cafes, where the rich aroma of coffee beckons amidst the cool air. As evening approaches, the clouds may dull the palette of twilight, but the lingering memories of a sunlit day remain, inviting introspection and quiet moments of respite against what lies ahead.",
-    "color_code": "#A0C4E2",
-    "timestamp": "2026-02-19 15:13:41"
+    "weather_report": "In Boston tonight, the atmosphere is draped in a heavy blanket of clouds, casting a dim, muted calm over the city. The temperature dips, settling into the low twenties, where a gentle southeast breeze adds a chill to the air, urging passersby to wrap themselves in layers of warm fabric. As the city lights flicker against the night, there\u2019s an unmistakable stillness that hints at the transformation the coming day holds.\n\nTomorrow brings promises of snow transforming into rain, painting the landscape in a surreal palette of whites and grays. With a steady, determined approach, the precipitation is expected to begin around mid-morning, creating a wintry illusion that may delight some and irritate others. As you step into the day, be prepared for the wet slush that follows, dressing in water-resistant footwear for those mundane yet essential errands. Despite the weather\u2019s unpredictability, the soft sound of falling snow\u2014brief as it may be\u2014calls for a contemplative stroll, perhaps down a less-traveled street where the world feels slower and more intimate. \n\nFor those looking for comfort, a cozy caf\u00e9 awaits with the promise of warm brews and the gentle hum of conversation, while others might prefer to enjoy the evolving scenery from the comfort of home. Whatever the choice, the day offers a chance to embrace the quieter moments as winter\u2019s whispers linger on the edge of spring.",
+    "color_code": "#3a3a3a",
+    "timestamp": "2026-02-19 19:40:53"
 }
