@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-22T07:50:00+00:00",
+            "timestamp": "2026-02-22T12:05:00+00:00",
             "temperature_f": 28.4,
             "temperature_c": -2,
             "humidity": 92.863965557739,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Cloudy"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-22T03:00:00-05:00",
-                "endTime": "2026-02-22T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 21,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 21. North wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-02-22T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-02-22T07:00:00-05:00",
                 "endTime": "2026-02-22T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 37,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "3 to 9 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 37. Northeast wind 3 to 9 mph."
+                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a high near 37. Northeast wind 3 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-22T18:00:00-05:00",
+                "endTime": "2026-02-23T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "9 to 25 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/snow,50/blizzard,100?size=medium",
+                "shortForecast": "Heavy Snow",
+                "detailedForecast": "Snow between 9pm and 4am, then snow and areas of blowing snow. Cloudy, with a low around 27. Northeast wind 9 to 25 mph, with gusts as high as 48 mph. Chance of precipitation is 100%. New snow accumulation of 4 to 8 inches possible."
             }
         ]
     },
-    "weather_report": "In Boston, the night wears a heavy cloak of clouds, murmuring promises of chilly reprieve as temperatures dip to a brisk 21 degrees. As dawn approaches, a gentle north wind rustles through the silence, adding a whisper of winter to the air. The sky remains layered in gray, indeterminate and moody, casting an uncertain spell over the waking city. \n\nAs Sunday unfurls, the forecast predicts a continuation of this nebulous tranquility, with temperatures reaching a somewhat somber high of 37 degrees. The northeastern breeze lends an edge to the atmosphere as clouds hang densely overhead, creating a canvas of muted tones that soften the contours of the day. A dull light filters through, offering just enough clarity to hint at the shadows of buildings and streets below. For those venturing out, a warm coat layered over a comfortable sweater is advisable, perhaps paired with a knitted scarf to guard against the nipping air. The day's spirit calls for quiet domestic pursuits; a stroll through the less-traveled parks or a leisurely visit to a local caf\u00e9 would suit well, the warmth of a cup of coffee in hand serving as the perfect companion to the contemplative mood of this cool, gray Sunday.",
-    "color_code": "#4B4B3A",
-    "timestamp": "2026-02-22 03:12:28"
+    "weather_report": "In Boston this morning, the world wears a muted palette of gray, the clouds heavy and brooding, almost as though they seem to cling lazily to the horizon. The chill in the air is palpable, whispering reminders of winter's tenacity as temperatures hover just above freezing. A northeastern wind dances with a bit more vigor now, promising a more tumultuous evening ahead as the day unfolds. By nightfall, snow will begin to fall, creating a tapestry of white that could blanket the city in four to eight inches, each flake a soft touch reminding us of nature\u2019s quiet artistry.\n\nAs you navigate through the day, consider wrapping yourself in layers\u2014an insulated coat, perhaps a cozy scarf to ward off the biting wind, and sturdy boots to traverse the snowy aftermath of tonight\u2019s storm. It might be a fine time to indulge in some quiet reflection at a local caf\u00e9, a steaming cup warming your hands as you watch the world outside transform into a delicate snow globe. Alternatively, prepare for an evening indoors, where the allure of classic films or a new novel awaits like an embrace against the cold. Today invites both contemplation and comfort, a reminder that beauty often lies in the quiet corners of winter\u2019s chill.",
+    "color_code": "#A6C8E0",
+    "timestamp": "2026-02-22 07:14:53"
 }
