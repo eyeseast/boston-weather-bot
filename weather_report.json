@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-21T19:50:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 80.082632632858,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 60,
+            "timestamp": "2026-02-22T00:25:00+00:00",
+            "temperature_f": 28.4,
+            "temperature_c": -2,
+            "humidity": 92.863965557739,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-02-21T15:00:00-05:00",
-                "endTime": "2026-02-21T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 34,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 34. Northeast wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-02-21T18:00:00-05:00",
+                "startTime": "2026-02-21T19:00:00-05:00",
                 "endTime": "2026-02-22T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 21,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 8
+                    "value": 16
                 },
                 "windSpeed": "3 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 21. North wind around 3 mph."
+                "icon": "https://api.weather.gov/icons/land/night/snow,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Light Snow then Mostly Cloudy",
+                "detailedForecast": "A slight chance of snow before 8pm. Mostly cloudy, with a low around 21. North wind around 3 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-02-22T06:00:00-05:00",
+                "endTime": "2026-02-22T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "3 to 12 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/snow,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 5pm. Mostly cloudy, with a high near 36. Northeast wind 3 to 12 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a gentle guise of partly sunny allure pervades the scene, with temperatures softly touching 34 degrees. The whispers of a northeast wind linger, barely making its presence felt at 6 mph. Soft, diffused light brushes over the city, casting shadows that dance lightly against the chill that is now just a hint of winter\u2019s breath. Tonight beckons with the promise of a cloudier sky, dipping into a low of 21 degrees as the fragile warmth of the day yields to a more protective shroud, held by a delicate north wind.\n\nDespite the passing clouds, there\u2019s a steadfast charm in the air that invites modest exploration. Wrapped in a warm coat, perhaps layered with a light scarf to ward off the cool, one might find pleasure in a stroll through the hushed streets, letting the muted sounds of the city resonate in the backdrop. Alternatively, a quiet afternoon spent in a local caf\u00e9, cradling a warm mug of coffee or tea, can offer a cozy refuge from the winter chill, allowing for a moment of reflection and connection, as the soft glow of the mellow afternoon casts a calm spell over the bustling streets.",
-    "color_code": "#A9B2C3",
-    "timestamp": "2026-02-21 15:08:51"
+    "weather_report": "As the evening settles over Boston, a veil of clouds drapes gently across the sky, with pinpricks of urban light flickering in the distance like distant stars. The air, crisp and biting, carries the whisper of a possible flurry, though nothing substantial is expected tonight. Temperatures are dipping into the lower twenties, inviting a brisk chill that wraps around your collar and seeps through the fibers of your clothing. It is not a night for lingering outdoors, but the tranquil vibe of the city offers a comforting backdrop for those who venture out, perhaps for a warm drink or a stroll along the quieter avenues, where the evening buzz feels like a fading echo.\n\nTomorrow brings a sliver of hope for snow around the late afternoon, dressed in clouds and a hint of dreariness. With a forecast high of 36 degrees, the day promises moments of clarity juxtaposed with the understated melancholy of winter skies. It\u2019s advisable to bundle up well; a hearty coat, snug gloves, and a scarf will make encounters with the brisk air all the more bearable. As the weekend unfolds, consider a visit to your favorite local caf\u00e9, where the aroma of fresh brews mingles with the gentle hum of conversation, or perhaps take a moment to explore indoor galleries that beckon with warmth and inspiration. In this atmosphere of muted tones and subtle beauty, Boston reveals its charm, urging you to savor the quiet joys found in its embrace.",
+    "color_code": "#6A6A6A",
+    "timestamp": "2026-02-21 19:44:04"
 }
