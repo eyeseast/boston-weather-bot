@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-23T20:00:00+00:00",
-            "temperature_f": 26.6,
-            "temperature_c": -3,
-            "humidity": 86.076383684482,
-            "wind_speed_mph": 53.875908,
-            "wind_direction": 350,
-            "description": "Freezing Fog"
+            "timestamp": "2026-02-24T00:25:00+00:00",
+            "temperature_f": 28.4,
+            "temperature_c": -2,
+            "humidity": 68.629648895336,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 320,
+            "description": "Light Snow"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-02-23T15:00:00-05:00",
-                "endTime": "2026-02-23T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 98
-                },
-                "windSpeed": "20 to 23 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/blizzard,100?size=medium",
-                "shortForecast": "Snow And Areas Of Blowing Snow",
-                "detailedForecast": "Snow and areas of blowing snow. Cloudy, with a high near 31. North wind 20 to 23 mph, with gusts as high as 44 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 3 inches possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-02-23T18:00:00-05:00",
+                "startTime": "2026-02-23T19:00:00-05:00",
                 "endTime": "2026-02-24T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 20,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 69
+                    "value": 61
                 },
-                "windSpeed": "10 to 18 mph",
+                "windSpeed": "10 to 16 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/snow,70/bkn?size=medium",
-                "shortForecast": "Snow Likely then Mostly Cloudy",
-                "detailedForecast": "Snow likely before 10pm. Mostly cloudy, with a low around 20. Northwest wind 10 to 18 mph, with gusts as high as 38 mph. Chance of precipitation is 70%. New snow accumulation of less than one inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/blizzard,60/bkn?size=medium",
+                "shortForecast": "Light Snow Likely And Areas Of Blowing Snow then Mostly Cloudy",
+                "detailedForecast": "Snow likely and areas of blowing snow before 8pm, then areas of blowing snow and a chance of snow between 8pm and 10pm. Mostly cloudy, with a low around 20. Northwest wind 10 to 16 mph, with gusts as high as 37 mph. Chance of precipitation is 60%. New snow accumulation of less than half an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-02-24T06:00:00-05:00",
+                "endTime": "2026-02-24T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 31,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 31. Northwest wind 6 to 10 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the atmosphere wraps itself in a heavy, muted blanket of snow and wind, transforming the familiar landscape into a canvas of white. Flurries swirl ominously with gusts that dance at fierce angles, hinting at the chill biting through the air. Visibility is sharply reduced, creating a quiet hush that envelops the city, as if nature itself has slowed down to observe a moment of stillness. The day is draped in clouds, an overcast sky adding to the pallor that defines the current conditions, where snowflakes gently weave through the brisk gusts, settling in layers on the ground.\n\nAs evening approaches, the snow is likely to taper off, leaving behind a crystalline dusting, but not before promising one last flurry of light accumulation. It\u2019s a day to draw in warmth\u2014a thick scarf wrapped tightly, a woolen hat pulled snugly, and sturdy boots ready to tread through slushy sidewalks. Given the blustery conditions, a stroll in the park may best be replaced with a cozy indulgence at a local caf\u00e9. One might opt for a steaming mug of hot chocolate, gazing out as the world softens in the quiet aftermath of the storm, finding solace in the simple pleasures of warmth and refuge on this wintry day.",
-    "color_code": "#A0B5D9",
-    "timestamp": "2026-02-23 15:18:45"
+    "weather_report": "As twilight descends upon Boston, a quiet, persistent snow begins to veil the city, mingling with brisk northwest winds that whisper through the streets. The air is charged with a biting chill, a reminder that winter still holds dominion. The warmth of home beckons, yet the world outside is enshrouded in a blend of blowing snow and low clouds, congealing the very essence of an evening spent within. As temperatures hover near a crisp 20 degrees, the layers of clothing become your trusted sanctuary. A sturdy coat is essential, perhaps paired with a snug hat and gloves, protecting against the sharp gusts that rush by.\n\nTomorrow shines with promise; a sunlit day awaits with a hint of playful warmth, inviting moments of gentle respite amidst the chaos of winter. Perhaps a stroll to a local caf\u00e9 might align with the promise of better skies, where the aroma of freshly brewed coffee collides with the lingering chill, crafting a comforting pause in the day. Until then, the evening\u2019s embrace encourages you to indulge in the warmth of home, with a book in hand and a window revealing the quiet beauty of snowflakes dancing in the night.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-02-23 19:40:09"
 }
