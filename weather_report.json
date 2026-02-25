@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-25T04:25:00+00:00",
-            "temperature_f": 15.8,
-            "temperature_c": -9,
-            "humidity": 67.061908825759,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 240,
-            "description": "Clear"
+            "timestamp": "2026-02-25T07:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-02-24T19:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2026-02-25T03:00:00-05:00",
                 "endTime": "2026-02-25T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 11,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 4
+                    "value": 14
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 11. Southwest wind 6 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 11. Southwest wind around 6 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-02-25T06:00:00-05:00",
                 "endTime": "2026-02-25T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 40,
+                "temperature": 39,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 96
                 },
-                "windSpeed": "8 to 15 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,100/rain,50?size=medium",
-                "shortForecast": "Light Snow then Chance Light Rain",
-                "detailedForecast": "Snow between 7am and noon, then a chance of rain between noon and 2pm. Cloudy, with a high near 40. Southwest wind 8 to 15 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New snow accumulation of 1 to 2 inches possible."
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/snow,100/snow,70?size=medium",
+                "shortForecast": "Light Snow",
+                "detailedForecast": "Snow before 3pm. Cloudy, with a high near 39. South wind 6 to 12 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible."
             }
         ]
     },
-    "weather_report": "The night blankets Boston in a calm darkness, punctuated by the soft twinkling of city lights, pushing the chill of the evening into the background. With temperatures poised to drop to around 11 degrees, a southwest breeze whispers through the streets, gentle yet biting, urging residents to seek refuge within their warm abodes. As the clock strikes morning, the city will awaken to a canvas of white, where delicate snowflakes will fall, tenderly blanketing the ground. The forecast promises a steady snowfall, interspersed with the possibility of rain as the day progresses, with the mercury hovering near 40 degrees. \n\nTomorrow presents a blend of the frosty and the wet, inviting residents to dress in layers\u2014perhaps a warm sweater beneath a sturdy coat, complemented by a snug scarf and sensible boots, perfect for navigating snowy sidewalks or puddle-filled streets. With gusts that could whisk away the unprepared, an umbrella might be prudent, allowing one to brave the elements while enjoying the rhythm of the snow. As the mid-morning draws near, it might be best to indulge in the simple pleasures of the season\u2014perhaps a cozy coffee shop visit, where one can savor a rich brew while watching the snowfall from a window seat. There\u2019s something enchanting about the world softening under fresh snow, a quiet reminder to slow down and relish the moment.",
-    "color_code": "#4B4CFC",
-    "timestamp": "2026-02-24 23:42:40"
+    "weather_report": "As dawn approaches in Boston, the atmosphere hangs heavy with a blanket of clouds, murmuring hints of winter\u2019s bite as the temperature sinks to an uncomfortable chill. The lights of the city flicker like weary stars against the dark embrace of the night, setting a tone that speaks to both calm and anticipation. A gentle southwest wind stirs, barely whispering through the stillness, but the promise of snow looms overhead like a forgotten dream waiting to emerge, thick and soft, before day transforms into evening.\n\nBy mid-afternoon, the city will likely breathe in the creamy white of fresh snow, a spectacle that might clutch at your heart\u2014ideal for those who find beauty in the quiet stillness of winter. The likelihood of one inch of snow graces the forecast with a 100% certainty, an invitation to bundle up in layers and walk through the wintry landscape\u2014thermals beneath a sturdy coat, perhaps, paired with a snug scarf and weather-resistant boots. Given the impending weather, indulge in serene moments: a stroll through the nearby parks where snowflakes tumble lightly down, or find refuge in a cozy caf\u00e9, cradling a hot beverage while watching the world shift gently into winter\u2019s embrace.",
+    "color_code": "#4B0082",
+    "timestamp": "2026-02-25 03:21:25"
 }
