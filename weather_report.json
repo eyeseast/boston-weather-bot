@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-25T07:53:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": ""
+            "timestamp": "2026-02-25T12:05:00+00:00",
+            "temperature_f": 17.6,
+            "temperature_c": -8,
+            "humidity": 72.940363975261,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 170,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-02-25T03:00:00-05:00",
-                "endTime": "2026-02-25T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 11,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 14
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 11. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-02-25T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-02-25T07:00:00-05:00",
                 "endTime": "2026-02-25T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 39,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 96
                 },
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "6 to 13 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/snow,100/snow,70?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow,100/snow,60?size=medium",
                 "shortForecast": "Light Snow",
-                "detailedForecast": "Snow before 3pm. Cloudy, with a high near 39. South wind 6 to 12 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible."
+                "detailedForecast": "Snow before 3pm. Mostly cloudy, with a high near 39. South wind 6 to 13 mph, with gusts as high as 26 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-25T18:00:00-05:00",
+                "endTime": "2026-02-26T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 27,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 27. Southwest wind around 9 mph. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, the atmosphere hangs heavy with a blanket of clouds, murmuring hints of winter\u2019s bite as the temperature sinks to an uncomfortable chill. The lights of the city flicker like weary stars against the dark embrace of the night, setting a tone that speaks to both calm and anticipation. A gentle southwest wind stirs, barely whispering through the stillness, but the promise of snow looms overhead like a forgotten dream waiting to emerge, thick and soft, before day transforms into evening.\n\nBy mid-afternoon, the city will likely breathe in the creamy white of fresh snow, a spectacle that might clutch at your heart\u2014ideal for those who find beauty in the quiet stillness of winter. The likelihood of one inch of snow graces the forecast with a 100% certainty, an invitation to bundle up in layers and walk through the wintry landscape\u2014thermals beneath a sturdy coat, perhaps, paired with a snug scarf and weather-resistant boots. Given the impending weather, indulge in serene moments: a stroll through the nearby parks where snowflakes tumble lightly down, or find refuge in a cozy caf\u00e9, cradling a hot beverage while watching the world shift gently into winter\u2019s embrace.",
-    "color_code": "#4B0082",
-    "timestamp": "2026-02-25 03:21:25"
+    "weather_report": "As the morning unfolds over Boston, a soft blanket of snow continues to grace the landscape, setting a quiet scene enveloped in muted hues. The air carries a chill, a gentle reminder of winter's grasp, with temperatures hovering around the upper thirties. A gentle south wind stirs, whispering through the streets, but its briskness beside the snowflakes paints an image of a city ready to embrace cozy inner sanctums rather than bustling sidewalks. The snow may taper off by afternoon, revealing a cloud-strewn sky that invites contemplation rather than activity.\n\nAs day gives way to twilight, you may find solace in the idea of layering up\u2014donning a warm coat, thick gloves, and a snug scarf\u2014as you venture out for a light stroll or perhaps a cup of steaming coffee from a nearby caf\u00e9. While outdoor adventures may be tempered by the weather, there\u2019s a simple charm in watching the snow slow dance to the ground while wrapped in the warmth of your own thoughts. Tonight, as the temperatures dip toward the mid-twenties, there's an invitation to find comfort indoors\u2014perhaps curling up with a good book or enjoying the company of friends around a warm fire, relishing the serenity of a snow-kissed evening.",
+    "color_code": "#A3B6C1",
+    "timestamp": "2026-02-25 07:23:05"
 }
