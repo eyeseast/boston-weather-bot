@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-25T19:50:00+00:00",
-            "temperature_f": 37.4,
-            "temperature_c": 3,
-            "humidity": 69.687768711566,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 200,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-02-26T00:25:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 86.394921766766,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 190,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-02-25T15:00:00-05:00",
-                "endTime": "2026-02-25T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 6
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 38. Southwest wind around 14 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-02-25T18:00:00-05:00",
+                "startTime": "2026-02-25T19:00:00-05:00",
                 "endTime": "2026-02-26T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 39
                 },
-                "windSpeed": "9 to 13 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/snow,40?size=medium",
                 "shortForecast": "Scattered Snow Showers",
-                "detailedForecast": "Scattered snow showers between 8pm and 3am. Mostly cloudy, with a low around 29. Southwest wind 9 to 13 mph. Chance of precipitation is 40%."
+                "detailedForecast": "Scattered snow showers between 8pm and 3am. Mostly cloudy, with a low around 29. Southwest wind around 12 mph. Chance of precipitation is 40%."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-02-26T06:00:00-05:00",
+                "endTime": "2026-02-26T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 41,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 10
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 41. West wind 7 to 14 mph."
             }
         ]
     },
-    "weather_report": "As twilight approaches in Boston, the afternoon offers a solemn beauty marked by an overcast sky, a muted halo enveloping the city. The air carries a chill, a gentle reminder that winter's grasp is still felt here, with temperatures hovering near thirty-eight degrees. Winds sweep softly from the southwest, rustling through the bare branches, creating a moody yet contemplative atmosphere. Tonight, the clouds will linger, light snow showers dancing between eight and three, joining the whispers of an evening spent indoors by fireside comforts.\n\nThe low temperature will sink to about twenty-nine, demanding layers against the cold; a warm coat, perhaps, along with gloves and a woolen hat would provide the necessary shield. As the light fades and those flakes create a tranquil hush, this is an evening best spent with a warm drink, or perhaps curled up with a good book, allowing the world outside to melt away into a quiet reverie. Rather than forging into the winter evening, consider embracing the stillness of home, where comfort reigns and the beauty of the season is felt from within.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2026-02-25 15:15:55"
+    "weather_report": "As night settles over Boston, the air carries a chill that hints at the scattered snow showers expected to visit between 8 PM and 3 AM. The sky, mostly shrouded in soft clouds, is devoid of clarity, serving as a backdrop for the flickering lights of the city, casting a delicate glow against the impending winter chill. With a low around 29 degrees, it beckons you to wrap yourself warmly in layers, perhaps donning a stout winter coat to shield against the southwest winds that sweep through at a brisk 12 mph. \n\nLooking ahead to tomorrow, the sun will make a notable return, transforming the grey hues into a bright canvas of blue, promising a high near 41 degrees. It\u2019s a refreshing contrast to the cooler evening, inviting a leisurely stroll through the city or perhaps a visit to the local coffee shop to savor a warm beverage. Thick sweaters and comfortable boots will serve you well for whatever adventures await. Whether you choose to explore the quiet charm of Boston\u2019s streets or indulge in some indoor creativity, the day offers a sense of renewal, washed fresh by the snowfall of night.",
+    "color_code": "#2B4C81",
+    "timestamp": "2026-02-25 19:40:26"
 }
