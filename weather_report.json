@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-26T20:00:00+00:00",
-            "temperature_f": 42.8,
-            "temperature_c": 6,
-            "humidity": 35.896568818295,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 280,
+            "timestamp": "2026-02-27T00:25:00+00:00",
+            "temperature_f": 37.4,
+            "temperature_c": 3,
+            "humidity": 44.272699174859,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-02-26T15:00:00-05:00",
-                "endTime": "2026-02-26T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 39. West wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-02-26T18:00:00-05:00",
+                "startTime": "2026-02-26T19:00:00-05:00",
                 "endTime": "2026-02-27T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 17,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 3
+                    "value": 1
                 },
                 "windSpeed": "6 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 17. Northwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-02-27T06:00:00-05:00",
+                "endTime": "2026-02-27T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 39. West wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston presents a tableau of muted warmth, a soft embrace of mostly cloudy skies that cloak the city\u2019s silhouette in a gentle haze. The temperature hovers close, teasing just below that elusive threshold of warmth, while a gentle west wind whispers through the air, keeping it brisk yet manageable. As the sun casts a shy glow filtered through the clouds, one could sense the subtle charm of winter lingering, allowing a delicate interplay of chill and comfort.\n\nAs twilight descends, the clouds will part just enough to reveal glimpses of the night sky, with temperatures dipping to a low that calls for a warm embrace from your layers. It\u2019s the kind of evening that invites both a cozy stroll and a retreat indoors, perhaps curling up with a good book or enjoying the quiet ambiance of a local caf\u00e9. Dress in that comfortable yet stylish ensemble\u2014woolen layers, a snug scarf, and sturdy boots will serve one well against the crisper night air. Tonight, Boston is set to unfold its nocturnal charm, an ideal time for understated simplicity, as the city enjoys the early stirrings of spring tucked under the remnants of winter's chill.",
-    "color_code": "#A0B3C3",
-    "timestamp": "2026-02-26 15:15:42"
+    "weather_report": "As twilight deepens over Boston, the air carries a crispness that beckons an evening stroll, though the chill in the atmosphere is decidedly perceptible. Currently, the city is enveloped in a quilt of partly cloudy skies, lending a muted softness to the stark outlines of the buildings and the distant glow of lights reflecting off the horizon. With temperatures dipping to about 17 degrees, a vestige of warmth is necessary; gloves and a snug hat are wise companions for anyone stepping outside tonight.\n\nAs the sun rises on Friday, the promise of a clear, sunny day unfolds. The morning will greet Boston with bright rays, turning the landscapes into a palette of vibrant blues. A gentle west wind will whisper through the streets, perfect for an invigorating walk along the Charles River or perhaps a visit to one of the local coffee shops, where warmth and a fresh brew await. Dress in layers; allow for a cozy scarf to shield against the early bite of cold that lingers. Whether savoring a leisurely breakfast or wandering through the city\u2019s parks, it is a day to embrace the beauty of winter's fleeting light, appreciating the serenity that only a tranquil winter morning can bestow.",
+    "color_code": "#4B6F9D",
+    "timestamp": "2026-02-26 19:43:02"
 }
