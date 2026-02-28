@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-27T19:50:00+00:00",
-            "temperature_f": 42.8,
-            "temperature_c": 6,
-            "humidity": 26.183087950694,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 220,
+            "timestamp": "2026-02-28T00:20:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 47.532715989268,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 210,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-02-27T14:00:00-05:00",
-                "endTime": "2026-02-27T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 40,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 40. South wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-02-27T18:00:00-05:00",
+                "startTime": "2026-02-27T19:00:00-05:00",
                 "endTime": "2026-02-28T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 24,
+                "temperature": 26,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 24. Southwest wind around 7 mph."
+                "detailedForecast": "Mostly clear, with a low around 26. Southwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-02-28T06:00:00-05:00",
+                "endTime": "2026-02-28T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Sunny",
+                "detailedForecast": "Patchy fog between 7am and 9am. Mostly sunny, with a high near 50. Southwest wind around 9 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sun casts a crisp, invigorating glow over the city, as if it is painting the world anew with its golden brush. With temperatures hovering near a refreshing 40 degrees, the south wind whispers gently, bringing a hint of warmth that invites one to step outside and embrace the day. The sky, a brilliant expanse of blue, offers a clarity that warms the spirits, devoid of any haze or fog that might obscure the vibrant landscape. As evening approaches, the forecast promises mostly clear skies, with the chill settling gently around a low of 24 degrees. \n\nConsidering the delightful clarity of the day, it\u2019s best to don a layered approach to dressing; a light sweater under a sturdy jacket should suffice for the afternoon stroll, while a snug scarf and gloves will embrace you as the night draws near. Perhaps a leisurely walk along the Charles River, marveling at the silhouettes of buildings against the early dusk, would be a fitting way to savor the transitioning day. Alternatively, a visit to a cozy caf\u00e9, where the warmth of brewed coffee mingles with the sweet aroma of freshly baked goods, seems perfect for those who prefer indoor comforts. Enjoy the serene beauty that Boston offers, as winter gradually loosens its grip and the promise of spring looms near.",
-    "color_code": "#7EC8F4",
-    "timestamp": "2026-02-27 15:12:06"
+    "weather_report": "As the evening settles over Boston, a gentle stillness envelops the city. Tonight presents a serene tableau, with the stars twinkling faintly overhead and the air crisp, echoing the promise of winter's remaining days. A low of 26 degrees hugs the landscape, and a soft southwest wind whispers through the night, carrying with it a hint of warmth yet to come. The clear skies reveal glimmers of city lights, illuminating the darkness in a dance of urban life. \n\nTomorrow greets us with the possibility of patchy fog greeting the dawn. As the sun rises, it will unveil a mostly sunny day, perfect for a leisurely stroll along the Boston Common or the picturesque streets of Beacon Hill, where the cobblestones tremble underfoot with history. A high near 50 degrees invites a light jacket\u2014layered comforts will be your companion as you venture outdoors. Embrace the quiet moments, perhaps cozying up in a caf\u00e9 with a good book, or meandering through local shops that carry stories of the past. It\u2019s a day that whispers for simplicity; find joy in the gentle rhythms of life against the backdrop of a city ever-breathing with possibility.",
+    "color_code": "#2e2e2e",
+    "timestamp": "2026-02-27 19:37:35"
 }
