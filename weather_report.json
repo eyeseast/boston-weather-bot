@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-02-28T15:50:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": null,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 210,
+            "timestamp": "2026-02-28T19:50:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 27.350699472731,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 170,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-02-28T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2026-02-28T15:00:00-05:00",
                 "endTime": "2026-02-28T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 47. Southwest wind around 10 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-02-28T18:00:00-05:00",
-                "endTime": "2026-03-01T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 25,
+                "temperature": 46,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -49,14 +30,33 @@
                     "value": 2
                 },
                 "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 46. Southwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-02-28T18:00:00-05:00",
+                "endTime": "2026-03-01T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 29,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 7
+                },
+                "windSpeed": "6 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
-                "shortForecast": "Mostly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog between midnight and 3am. Mostly cloudy, with a low around 25. West wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 29. West wind around 6 mph."
             }
         ]
     },
-    "weather_report": "Boston awakens this morning under a generous canvas of clarity, the vast sky painted in a serene blue, stretching from horizon to horizon. The air carries a gentle touch of warmth, whispering promises of a high near forty-seven, accompanied by the soft caress of a southwest wind, stirring leaves and lifting spirits as it dances through the city. Though the sun shines brightly, inviting local adventurers to step outside, the day retains a certain crispness befitting late February, suggesting one should don a layered ensemble\u2014perhaps a cozy sweater beneath a light jacket, suitable for embracing the chill even as it begins to wane.\n\nAs twilight approaches, a cloak of cloudiness will begin to weave its way into the evening, bestowing a more subdued atmosphere. Expect patchy fog to emerge, lingering ghostlike between midnight and the wee hours, enhancing the quiet charm of the night. With a low settling around twenty-five, the evening encourages indoor pursuits, perhaps curling up with a good book or delving into that piece of writing you\u2019ve meant to finish. An invigorating walk through the city, watching the lights twinkle against the dusk, offers an invigorating breath of fresh air, especially for those looking to escape the confines of home as the winds start to whisper secrets of the night.",
-    "color_code": "#1E3A5F",
-    "timestamp": "2026-02-28 11:09:31"
+    "weather_report": "In Boston this afternoon, the air is invigorating and fresh, a crisp 46 degrees embracing the city beneath a mostly sunny canopy. As the southwest wind stirs lightly, it carries with it a hint of warmth, a gentle reminder that spring is inching closer. The horizon is clear, unmarred by mist or fog, allowing the skyline to stand proud against the vast blue above, and inviting residents to soak in the beauty of a late winter day. \n\nTonight, as the sun slips below the horizon, the temperature will dip to around 29 degrees, ushering in a shift towards a cool evening with just a trace of cloud cover. A west wind may wrap around you like a soft shawl, urging cozy layers and perhaps a hat to guard against the chill. This is a moment to embrace the simplicity of an evening stroll, perhaps sifting through the delicate hum of a neighborhood caf\u00e9 or savoring the glow of a warmly lit bookstore. The hours beckon for quiet reflection or a chance to connect with loved ones over a dinner that warms both body and spirit.",
+    "color_code": "#A9C0D7",
+    "timestamp": "2026-02-28 15:09:07"
 }
