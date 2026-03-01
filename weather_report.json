@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-01T07:34:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog"
+            "timestamp": "2026-03-01T12:00:00+00:00",
+            "temperature_f": 24.8,
+            "temperature_c": -4,
+            "humidity": 100,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 170,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-01T03:00:00-05:00",
-                "endTime": "2026-03-01T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 29,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 29. Northwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-03-01T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-03-01T07:00:00-05:00",
                 "endTime": "2026-03-01T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 33,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 64
+                    "value": 69
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "7 to 12 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,60?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow,70/snow,60?size=medium",
                 "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely between 8am and 3pm. Mostly cloudy. High near 33, with temperatures falling to around 27 in the afternoon. North wind 7 to 10 mph. Chance of precipitation is 60%. New snow accumulation of around one inch possible."
+                "detailedForecast": "Snow likely between 9am and 3pm. Mostly cloudy. High near 33, with temperatures falling to around 27 in the afternoon. North wind 7 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-01T18:00:00-05:00",
+                "endTime": "2026-03-02T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 4,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 4. Wind chill values as low as -7. Northwest wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the night envelops Boston, a chilly quiet descends, with the city lights sparkling like distant stars in a darkened sky. The temperature hovers at a brisk 29 degrees, accompanied by a gentle northwesterly breeze that whispers through the stillness. For those preparing to venture out, layers are essential; a warm coat, perhaps a snug scarf, and gloves will ensure comfort against the cold. \n\nAs Sunday unfolds, the clouds will gather, and the promise of snow flurries approaches. By morning, the atmosphere will become a canvas of soft whites and grays, setting the stage for a day when temperatures will dip further, creating a cozy backdrop for both contemplation and activity. One might find solace in the simple pleasures of a warm caf\u00e9, the aroma of freshly brewed coffee mingling with the delicate scent of baked goods, or perhaps a stroll through a snowy park, where each flake transforms the landscape into a winter wonderland. Embrace the chill, for it invites you to slow down and appreciate the serenity of the moment.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-03-01 03:12:26"
+    "weather_report": "As the day unfolds in Boston, a gentle hush blankets the city, punctuated by the promise of snow flurries dancing through the morning air. By late morning, expect a consistent shimmer as snow particles flutter down, creating a delicate lace on the landscape. While the temperature hovers just above freezing, an unfriendly chill seeps in, reminding us that winter holds its grasp for a little while longer, with winds that will tease the warmth from your skin. The atmosphere remains mostly cloudy, granting a muted grayness to the day, yet there\u2019s a certain beauty in this quietude, an invitation to gather together indoors, perhaps with a warm drink in hand.\n\nAs the afternoon descends, temperatures will steadily drop, bringing along the edge of frost that may make venturing outside feel like a bit of an expedition. Should you decide to brave the brisk air, layering thoughtfully will be essential; a warm coat paired with a soft scarf and sturdy boots will serve you well against the chill and any unexpected frostbite. For those who prefer the coziness of home, today is perfect for curling up with a book or catching up on the latest series, perhaps while the soft sound of snowflakes landing outside whispers sweetly against the windowpane, crafting a serene backdrop to your pursuits.",
+    "color_code": "#A3B3C6",
+    "timestamp": "2026-03-01 07:15:25"
 }
