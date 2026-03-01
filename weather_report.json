@@ -7,33 +7,33 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-01T15:45:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 92.97695284763,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 360,
-            "description": "Snow and Fog"
+            "timestamp": "2026-03-01T19:45:00+00:00",
+            "temperature_f": 33.8,
+            "temperature_c": 1,
+            "humidity": null,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-03-01T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2026-03-01T13:00:00-05:00",
                 "endTime": "2026-03-01T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 33,
+                "temperature": 38,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 69
+                    "value": 19
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/snow,70/snow,60?size=medium",
-                "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely before 3pm. Mostly cloudy. High near 33, with temperatures falling to around 27 in the afternoon. Northwest wind 8 to 12 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/snow,20?size=medium",
+                "shortForecast": "Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow before 2pm. Mostly sunny. High near 38, with temperatures falling to around 31 in the afternoon. Northwest wind 7 to 10 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-03-01T18:00:00-05:00",
                 "endTime": "2026-03-02T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 4,
+                "temperature": 8,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 4. Wind chill values as low as -7. Northwest wind 6 to 10 mph."
+                "detailedForecast": "Clear, with a low around 8. Wind chill values as low as 0. Northwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "In the heart of Boston, a veil of gray wraps the city in a blanket of snow-laden clouds. The day begins with an unmistakable chill, a promise of wintry precipitation that may dance through the air until the afternoon. As temperatures hover around a brisk thirty-three, there's a subtle shift as they dip, coaxing the mercury down to a frosty twenty-seven. The northwest wind whispers through the streets, adding an extra bite that calls for layers. A cozy scarf and a sturdy coat will serve well against the impending cold; gloves will be your trusted companions if venturing outside.\n\nAs the sun prepares to set, clarity will emerge, revealing a crisp night where temperatures dip to four degrees, turning the air into a sharp breath that bites at exposed skin. Should one brave the weather, a quiet stroll along the Charles, wrapped snugly against the cold, could lead to a serene moment of reflection under the stars. Alternatively, the warmth of a quaint caf\u00e9, a steaming cup of tea or cocoa in hand, might offer a more agreeable retreat. It is a day where the familiar comforts of winter beckon, urging us to embrace the season\u2019s essence with resilience and a sense of purpose.",
-    "color_code": "#A5A8A1",
-    "timestamp": "2026-03-01 11:10:02"
+    "weather_report": "In this quiet afternoon in Boston, the air holds a crisp stillness, hinting at the fading light of the day. The sun shines brightly, casting a warm glow upon the city, yet there is a chill that lingers, a push and pull between warmth and the chill of the approaching night. As temperatures dip steadily from their high, the promise of clear skies remains, offering a striking backdrop to the familiar landscape. \n\nAs evening draws near, the cold intensifies, inviting a serene reflection on the day. Bundle up; a sturdy coat layered over something warm will be your best companion. Scarves and gloves will fend off the bite of the wind chill, which suggests that real comfort lies just beyond the confines of your cozy home. With the clear conditions and fading light, an ideal way to embrace this weather would be a leisurely stroll along the Charles River, where the smooth water reflects the last golden rays of sunlight, or perhaps settling into a local caf\u00e9, savoring a warm drink and watching the world pass by with gentle intimacy.",
+    "color_code": "#A8C5E3",
+    "timestamp": "2026-03-01 15:09:11"
 }
