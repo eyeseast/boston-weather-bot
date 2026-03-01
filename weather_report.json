@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-01T04:25:00+00:00",
-            "temperature_f": 28.4,
-            "temperature_c": -2,
-            "humidity": 92.863965557739,
+            "timestamp": "2026-03-01T07:34:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Fog"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-02-28T19:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2026-03-01T03:00:00-05:00",
                 "endTime": "2026-03-01T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 29,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 7
+                    "value": 5
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
+                "windSpeed": "8 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 29. West wind around 6 mph."
+                "detailedForecast": "Partly cloudy, with a low around 29. Northwest wind around 8 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-03-01T06:00:00-05:00",
                 "endTime": "2026-03-01T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 34,
+                "temperature": 33,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 64
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/snow,40/snow,70?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/snow,60?size=medium",
                 "shortForecast": "Light Snow Likely",
-                "detailedForecast": "Snow likely after 8am. Mostly cloudy, with a high near 34. North wind around 8 mph. Chance of precipitation is 70%. New snow accumulation of around one inch possible."
+                "detailedForecast": "Snow likely between 8am and 3pm. Mostly cloudy. High near 33, with temperatures falling to around 27 in the afternoon. North wind 7 to 10 mph. Chance of precipitation is 60%. New snow accumulation of around one inch possible."
             }
         ]
     },
-    "weather_report": "As night envelops Boston, a cool breath of winter whispers through the streets, hinting at the chill to come. The sky, a velvet canvas, offers a glimpse of stars through scattered clouds, with temperatures dipping to around 29 degrees. A gentle west wind stirs the air, barely a murmur, leaving one to ponder the day's unblemished promise. Yet with the dawn, whispers of snow will grace the morning, cloaking the city in a light, clean sheet as it tumbles from the heavens, illuminating the typically muted winter palette.\n\nAs the day unfolds, anticipation will fill the atmosphere; snow is expected to embrace the landscape after 8 am, inviting the undercurrent of playful exhilaration that accompanies fresh snowfall. The high may tip toward 34 degrees, but the wintry chill suggests dressing in layers: a cozy sweater beneath a weatherproof coat, perhaps a knitted scarf, and sturdy boots for tromping through the soft accumulation. This is not a day for grand escapades, but rather for the simple joys that come with a quiet winter's morning\u2014perhaps sipping a warm cup at a local caf\u00e9 while watching the flakes dance lazily to the ground or taking a leisurely stroll through the muted streets lined with glistening snow. Choose your moments wisely, for they hold the potential for introspection and tranquility, even among the bustling life of the city.",
-    "color_code": "#1C2C4B",
-    "timestamp": "2026-02-28 23:43:45"
+    "weather_report": "As the night envelops Boston, a chilly quiet descends, with the city lights sparkling like distant stars in a darkened sky. The temperature hovers at a brisk 29 degrees, accompanied by a gentle northwesterly breeze that whispers through the stillness. For those preparing to venture out, layers are essential; a warm coat, perhaps a snug scarf, and gloves will ensure comfort against the cold. \n\nAs Sunday unfolds, the clouds will gather, and the promise of snow flurries approaches. By morning, the atmosphere will become a canvas of soft whites and grays, setting the stage for a day when temperatures will dip further, creating a cozy backdrop for both contemplation and activity. One might find solace in the simple pleasures of a warm caf\u00e9, the aroma of freshly brewed coffee mingling with the delicate scent of baked goods, or perhaps a stroll through a snowy park, where each flake transforms the landscape into a winter wonderland. Embrace the chill, for it invites you to slow down and appreciate the serenity of the moment.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-03-01 03:12:26"
 }
