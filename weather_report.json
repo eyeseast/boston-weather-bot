@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-02T08:00:00+00:00",
-            "temperature_f": 17.6,
-            "temperature_c": -8,
-            "humidity": null,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 350,
-            "description": "Clear"
+            "timestamp": "2026-03-02T12:00:00+00:00",
+            "temperature_f": 5.0,
+            "temperature_c": -15,
+            "humidity": 65.632582986568,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-02T03:00:00-05:00",
-                "endTime": "2026-03-02T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 4,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 4. Wind chill values as low as -6. North wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2026-03-02T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-03-02T07:00:00-05:00",
                 "endTime": "2026-03-02T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 27,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "3 to 7 mph",
-                "windDirection": "NW",
+                "windSpeed": "6 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 27. Wind chill values as low as -7. Northwest wind 3 to 7 mph."
+                "detailedForecast": "Sunny, with a high near 27. Wind chill values as low as -6. West wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-02T18:00:00-05:00",
+                "endTime": "2026-03-03T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 7,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/cold?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 7. Wind chill values as low as -1. South wind around 6 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of night, Boston rests under a crisp and clear sky, where the air carries the biting chill that whispers of a winter yet to release its hold. Temperatures have dipped into the low single digits, reigning a frosty -6 when accounting for wind chill, as a gentle north wind stirs through the city. Tomorrow promises no haze to soften the sharp outlines of the skyline; rather, the sun will stretch its beams across the horizon, warming the day to a brisk 27 degrees, with only a faint puff of wind from the northwest to invigorate the atmosphere.\n\nAs dawn approaches, one might consider how best to embrace this wintry tale\u2014layers will be essential. A sturdy coat, perhaps a knitted scarf wrapped snugly, and warm gloves will serve well against the tendrils of cold that linger in the air. Tomorrow\u2019s clear, sunny disposition invites a stroll through the heart of Boston, a chance to revel in the sights and sounds of the city waking to another day. A visit to a local caf\u00e9 for a steaming cup of coffee could be a delightful reprieve, or perhaps a quiet wander through one of the nearby parks to enjoy the tranquility before the city stirs to life. With the day ahead, it\u2019s a fine opportunity to breathe in the clarity of the late winter, a moment before spring nudges its way in.",
-    "color_code": "#4b9cd3",
-    "timestamp": "2026-03-02 03:20:19"
+    "weather_report": "The morning sun casts a serene glow over Boston, wrapping the city in a tapestry of clear blue skies that stretch endlessly into the distance. Currently, the air is still, though a brisk wind hints at the chill lurking just beneath the surface, that biting sensation lingering from the night\u2019s retreat. As the day unfurls, expectations are set for a warm-up, steering toward a high that will touch upon warmth, while the wind chill holds onto its crisp bite, urging one to reconsider layers before stepping out.\n\nWith tonight promising a deep dive into solitude beneath a tapestry of stars, it's essential to dress thoughtfully. Heavy jackets, snug scarves, and cozy mittens should make the day\u2019s rounds, keeping the elements at bay while inviting warmth beneath layers. One might find joy in simple pleasures\u2014perhaps a leisurely walk along the Charles, where the golden reflections on the water seem to whisper tales of the past, or a quiet caf\u00e9, the textural differences of a well-worn armchair inviting you to lose track of time with a steaming cup in hand. In this moment, the world pulses with gentle encouragement to partake in its subtleties, embracing both the winter chill and the radiant day that courses between the hours.",
+    "color_code": "#A9C7E3",
+    "timestamp": "2026-03-02 07:20:12"
 }
