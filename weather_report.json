@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-04T08:00:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 92.97695284763,
+            "timestamp": "2026-03-04T12:00:00+00:00",
+            "temperature_f": 28.4,
+            "temperature_c": -2,
+            "humidity": 92.863965557739,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Light Rain and Fog/Mist"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-04T03:00:00-05:00",
-                "endTime": "2026-03-04T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 26
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/fzra,30?size=medium",
-                "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog and a chance of freezing rain. Cloudy, with a low around 30. West wind around 7 mph. Chance of precipitation is 30%. Little or no ice accumulation expected."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-03-04T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-03-04T07:00:00-05:00",
                 "endTime": "2026-03-04T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
                 "shortForecast": "Areas Of Fog then Mostly Sunny",
-                "detailedForecast": "Areas of fog before 8am. Mostly sunny. High near 51, with temperatures falling to around 45 in the afternoon. West wind around 7 mph. Little or no ice accumulation expected."
+                "detailedForecast": "Areas of fog before 8am. Mostly sunny. High near 51, with temperatures falling to around 45 in the afternoon. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-04T18:00:00-05:00",
+                "endTime": "2026-03-05T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 26,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium",
+                "shortForecast": "Partly Cloudy then Areas Of Fog",
+                "detailedForecast": "Areas of fog after midnight. Partly cloudy, with a low around 26. Southwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the night lingers over Boston, the air feels heavy with moisture and a whisper of chill. Fog enshrouds the streets, wrapping the city in a velvet silence, while a chance of freezing rain threatens to coat surfaces with a thin, slippery veneer. The temperature hovers near thirty, a reminder that winter is not yet relinquishing its grip. A soft west wind stirs, barely rustling the chilly veil that blankets the skyline, though expectations of ice accumulation remain minimal. It's a night to settle in, perhaps with a novel or a warm cup of tea, while the fog morosely swirls outside.\n\nAs dawn approaches and the fog begins to lift, glimpses of the sun may break through. Wednesday promises a delicate shift toward clarity, with a mostly sunny disposition warming the day. While temperatures will peak around fifty-one, they will gently slide back down to a more reserved forty-five as the afternoon unfolds. The air may still carry a hint of chill, so layering is advisable\u2014perhaps a light sweater beneath a coat as you step out for a brisk walk. It\u2019s a good time to take a leisurely stroll along the Charles River, letting the promise of spring invigorate your spirit while the city shakes off the lingering fog. The day unfolds softly, a subtle dance between coolness and warmth, inviting moments of reflection and quiet enjoyment amidst the slow transition of the seasons.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2026-03-04 03:16:07"
+    "weather_report": "This morning in Boston, the air carries a lingering touch of fog, gently dissipating as the sun rises higher to reveal a canvas of azure. The day unfolds mostly sunny, a pleasant backdrop painted in shades of blue that warms to a high around 51 before retreating into the comforting embrace of afternoon chill. By evening, the weather shifts slightly, with patches of fog re-emerging after midnight, preserving a hint of mystery amidst the clarity.\n\nFor the discerning observer, today\u2019s temperature invites layers\u2014perhaps a light sweater over a long-sleeved shirt, and a jacket ready to ward off the brisk hints of the southwest breeze. People may find themselves drawn to the quieter pathways of the city, perhaps a leisurely stroll along the Charles River or a meandering through the historic streets of Beacon Hill, where fresh air and a light sunbeam can invigorate. The nascent hints of spring invite outside explorations without the chill of winter\u2019s linger. As twilight approaches, it will be a fine time for a warm beverage to savor while gazing at the shifting colors of the horizon, the day\u2019s tranquility wrapping around you as the seasons dance into transition.",
+    "color_code": "#A3C1E0",
+    "timestamp": "2026-03-04 07:19:19"
 }
