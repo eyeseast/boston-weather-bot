@@ -7,33 +7,33 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-04T00:20:00+00:00",
+            "timestamp": "2026-03-04T04:25:00+00:00",
             "temperature_f": 32.0,
             "temperature_c": 0,
             "humidity": 92.97695284763,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 80,
-            "description": "Light Rain"
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Unknown Precipitation and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Tonight",
-                "startTime": "2026-03-03T19:00:00-05:00",
+                "startTime": "2026-03-03T23:00:00-05:00",
                 "endTime": "2026-03-04T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 31,
+                "temperature": 30,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 84
                 },
-                "windSpeed": "1 to 6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_fzra,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and a chance of freezing rain and patchy fog before 4am, then patchy fog and a slight chance of rain between 4am and 5am. Cloudy, with a low around 31. Southwest wind 1 to 6 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "windSpeed": "7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/fzra,80/rain_fzra,80?size=medium",
+                "shortForecast": "Freezing Rain then Light Rain",
+                "detailedForecast": "Freezing rain and areas of fog before midnight, then rain and areas of fog and a chance of freezing rain between midnight and 1am, then freezing rain and areas of fog between 1am and 3am, then areas of fog and a chance of freezing rain. Cloudy, with a low around 30. Northwest wind around 7 mph. Chance of precipitation is 80%. New ice accumulation of less than half an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-03-04T06:00:00-05:00",
                 "endTime": "2026-03-04T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 47,
+                "temperature": 51,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 47. West wind 2 to 6 mph."
+                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
+                "shortForecast": "Areas Of Fog then Mostly Sunny",
+                "detailedForecast": "Areas of fog before 8am. Mostly sunny. High near 51, with temperatures falling to around 45 in the afternoon. West wind around 7 mph. Little or no ice accumulation expected."
             }
         ]
     },
-    "weather_report": "As night settles over Boston, a thick veil of rain and fog envelops the city, rendering familiar streets and skyline obscured beneath a shroud of mist. The forecast promises a low of around thirty-one degrees, bringing with it the distinct possibility of a chill in the air, combined with that dampness only a rainy evening can conjure. With winds stirring gently from the southwest, the mood is decidedly somber; the prospect of icy patches could make for an uncomfortable stroll. It is a night where cozy interiors beckon, and perhaps the ethereal glow of a lamp casts soft light on a well-loved book, urging one to indulge in the warmth of home.\n\nTomorrow, however, holds a brighter promise, as the sun peeks from behind the clouds to cast its gentle rays upon the city, lifting spirits with a high that approaches the upper forties. The west wind will whisper of renewal, encouraging light layers for those venturing out to soak in the mild embrace of early spring. An afternoon walk along the Charles, framed by the burgeoning hints of foliage, could provide a refreshing contrast to the dark, gloomy tones of the night. In this fleeting intermission between storm and clear skies, the day will hold a sense of peace, inviting exploration and the simple pleasures of life, from a quiet coffee shop visit to a leisurely meander through a park.",
-    "color_code": "#6c7585",
-    "timestamp": "2026-03-03 19:41:08"
+    "weather_report": "As the clock strikes the late hours of the night, Boston finds itself cloaked in a chilling shroud of freezing rain, combining with sweeping areas of fog that further obscure the city's silhouette against the dim backdrop. The air carries an unsettled chill, nudging the temperature to a hesitant 30 degrees. A whispering northwest wind weaves through the streets, urging passersby to brace themselves against the potential icy remnants still to come. With a notable chance of precipitation lingering, one might consider staying indoors, perhaps wrapped in a soft blanket with a hot cup of tea while the world outside glistens covertly under its frost.\n\nAs dawn breaks, a promise of clarity unfolds. The forecast hints at a transformation when Wednesday arrives; the morning may still present vestiges of fog, but the sun promises to peek out, casting warm, golden rays that will eventually chase away the remnants of the chill. As the temperature rises toward a more inviting 51 degrees, the afternoon will reclaim the warmth that the early morning has postponed. It would be wise to wear layers today, starting with a cozy sweater beneath a resistant outer shell, which might just guard against the residual dampness lurking in the shadows. Those venturing out might find simple joys in the neighborhood caf\u00e9s, indulging in a warm pastry or taking a brisk, refreshing stroll as Boston trails into a brighter afternoon.",
+    "color_code": "#6B7F93",
+    "timestamp": "2026-03-03 23:37:55"
 }
