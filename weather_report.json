@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-05T08:00:00+00:00",
-            "temperature_f": 24.8,
-            "temperature_c": -4,
-            "humidity": 100,
+            "timestamp": "2026-03-05T12:00:00+00:00",
+            "temperature_f": 26.6,
+            "temperature_c": -3,
+            "humidity": 92.806460468027,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Freezing Fog"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-05T03:00:00-05:00",
-                "endTime": "2026-03-05T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 27,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 27. West wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-03-05T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-03-05T07:00:00-05:00",
                 "endTime": "2026-03-05T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 36,
@@ -49,14 +30,33 @@
                     "value": 71
                 },
                 "windSpeed": "5 to 13 mph",
-                "windDirection": "N",
+                "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/fog/rain,70?size=medium",
                 "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog between 9am and noon, then areas of fog and a chance of rain between noon and 4pm, then rain likely and areas of fog. Cloudy, with a high near 36. North wind 5 to 13 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Areas of fog between 9am and noon, then areas of fog and a chance of rain between noon and 4pm, then rain likely and areas of fog. Cloudy, with a high near 36. Northeast wind 5 to 13 mph, with gusts as high as 25 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-05T18:00:00-05:00",
+                "endTime": "2026-03-06T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "14 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_snow,100?size=medium",
+                "shortForecast": "Sleet",
+                "detailedForecast": "Rain and areas of fog before 11pm, then sleet and rain and areas of fog. Cloudy, with a low around 33. Northeast wind around 14 mph. Chance of precipitation is 100%. New snow accumulation of around one inch possible."
             }
         ]
     },
-    "weather_report": "As the quiet hours of the night settle over Boston, a soft blanket of clouds wraps the city in a cool embrace, with temperatures dipping into the chill of the mid-20s. A gentle westward breeze rustles the stillness, signaling a transition towards the day ahead. In the early hours, the world is hushed; the only sounds are the whispers of the wind and the distant hum of city life, which seems to hold its breath in anticipation of morning.\n\nAs daylight unfurls, expect fog to weave through the streets, creating a mystical, almost dream-like atmosphere. By noon, the fog will intertwine with a hint of rain, as cloudy skies loom above, casting a muted light upon the landscape. The high will barely breach the chilly threshold of 36 degrees, punctuated by a northward wind, which carries occasional gusts that will remind you of winter's lingering chill. \n\nDressing for this day calls for layers\u2014a snug sweater beneath a resilient jacket, complemented by sturdy footwear to navigate both puddles and fog. An umbrella could serve as a faithful companion against the anticipated light rain, adding to your gear for the day. In this soothing yet somber weather, a leisurely stroll through the quiet streets would prove to be a delightful embrace of the city's atmospheric charm. A visit to a cozy caf\u00e9 might also be in order, as the warmth and rich aromas offer a perfect antidote to the dampness outside, allowing you to watch the world gently unfold through foggy windows.",
-    "color_code": "#6B7F8D",
-    "timestamp": "2026-03-05 03:17:48"
+    "weather_report": "As the day begins in Boston, a thick shroud of fog envelops the city, painting a picture of muted colors and softened outlines. The air feels damp\u2014a prelude to the promise of rain that will soon accompany the fog. With the temperature hovering near that chilly point, a northeast wind whispers through the streets, carrying both the scent of impending rain and a hint of winter\u2019s lingering chill. The day looks to be cloaked in clouds, setting a heavy but contemplative mood as the hours unfold, an invitation to pause and reflect.\n\nAs the fog dances with the possibility of rain, the wise choice for attire would be warm layers\u2014perhaps a cozy wool sweater beneath a water-resistant jacket, complemented by sturdy boots to navigate the slick conditions that are sure to arrive. A simple scarf may add a touch of comfort against the brisk breeze. As evening approaches, the forecast suggests a transition, with rain morphing into sleet, urging Boston's inhabitants to seek refuge indoors. A visit to a cozy caf\u00e9, where the warmth of freshly brewed coffee mingles with the aroma of baked goods, would be a delightful reprieve from the dampness outside. Alternatively, a leisurely stroll through the foggy city streets could evoke a quiet sense of wonder, the sounds of the city softened by the heavy air, offering a serene conclusion to the day.",
+    "color_code": "#A1B0C7",
+    "timestamp": "2026-03-05 07:21:00"
 }
