@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-04T19:50:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": null,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 240,
+            "timestamp": "2026-03-05T00:25:00+00:00",
+            "temperature_f": 37.4,
+            "temperature_c": 3,
+            "humidity": 74.996958768522,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-03-04T15:00:00-05:00",
-                "endTime": "2026-03-04T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 51,
+                "name": "Tonight",
+                "startTime": "2026-03-04T19:00:00-05:00",
+                "endTime": "2026-03-05T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 27,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 51, with temperatures falling to around 45 in the afternoon. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-03-04T18:00:00-05:00",
-                "endTime": "2026-03-05T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 28,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
                 "windSpeed": "6 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium",
                 "shortForecast": "Partly Cloudy then Areas Of Fog",
-                "detailedForecast": "Areas of fog after midnight. Partly cloudy, with a low around 28. Southwest wind around 6 mph."
+                "detailedForecast": "Areas of fog between 1am and 5am, then areas of freezing fog. Partly cloudy, with a low around 27. Southwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-03-05T06:00:00-05:00",
+                "endTime": "2026-03-05T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 71
+                },
+                "windSpeed": "5 to 13 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/fog/rain_snow,70?size=medium",
+                "shortForecast": "Areas Of Freezing Fog then Light Rain Likely",
+                "detailedForecast": "Areas of freezing fog before 8am, then areas of fog between 8am and noon, then rain likely and areas of fog between noon and 5pm, then rain likely and a chance of sleet. Cloudy, with a high near 36. North wind 5 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon gently unfolds over Boston, a resplendent clarity envelops the city, hinting at brighter days ahead. The sun casts its warm embrace upon the earth, nudging temperatures towards a modest high of 51, but a cool breeze is already filtering through, dropping them slightly as day melds into night. Locals might find themselves unwinding amidst the amiable glow, perhaps indulging in a leisurely stroll along the Charles River or exploring hidden corners of their favorite local haunts before the sunlight bids adieu.\n\nAs twilight approaches, the promise of fog awaits, closing in after midnight. The air will cool to a brisk 28, suggesting that a light jacket or a cozy sweater would serve well in this transitional climate. The evening offers an excellent opportunity to gather with a small circle of friends, perhaps over a coffee or a glass of something warm as one reflects on the day\u2019s simple pleasures. These moments become more precious when the air brings that fresh, nostalgic chill\u2014reminding us that the crossover into spring is just around the corner, framing our present in shades of hope.",
-    "color_code": "#A9C5D3",
-    "timestamp": "2026-03-04 15:14:02"
+    "weather_report": "As dusk settles over Boston, a blanket of fog begins to weave itself between city streets, heralding the colder night ahead. The air feels crisp, carrying whispers of chill from the southwest. Temperature dips around this hour, urging a retreat indoors or perhaps a layering of warm clothes\u2014a snug scarf, a sturdy coat, gloves to guard against the biting wind that may pick up its pace as the evening progresses. Those who venture out may find the city cloaked in a misty charm, a world softened by the wisps of fog, lending a quiet mystique that enchants the skyline.\n\nThursday promises a tangled affair with the weather, beginning with lingering freezing fog that will gradually give way to a layered tapestry of clouds, light rain, and even the chance of sleet as the day unfolds. While the high will barely break through a dull chill, the persistent moisture clings to the air, and an intrepid spirit may find comfort in sipping warm beverages from a cozy caf\u00e9\u2014perhaps a local favorite that tempts the senses with the rich aroma of freshly brewed coffee. A day of not quite sunshine calls for purposeful, warm journeys. Dress wisely, for a brisk stroll through the Boston Public Garden or a visit to a hidden bookstore might yield unexpected joys amidst the weather's capriciousness.",
+    "color_code": "#7B9A9A",
+    "timestamp": "2026-03-04 19:42:47"
 }
