@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-06T16:00:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 92.920792863957,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 20,
+            "timestamp": "2026-03-07T04:15:00+00:00",
+            "temperature_f": 33.8,
+            "temperature_c": 1,
+            "humidity": 100,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 50,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-03-06T07:00:00-05:00",
-                "endTime": "2026-03-06T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 34,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "9 to 13 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/snow,100/rain_showers,50?size=medium",
-                "shortForecast": "Light Snow then Rain Showers",
-                "detailedForecast": "Snow before 8am, then rain showers and a chance of drizzle between 8am and 1pm, then areas of fog and a chance of rain showers and a chance of drizzle between 1pm and 3pm, then areas of fog and a chance of drizzle and a slight chance of rain showers. Cloudy, with a high near 34. Northeast wind 9 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 100%. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-03-06T18:00:00-05:00",
+                "startTime": "2026-03-06T23:00:00-05:00",
                 "endTime": "2026-03-07T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 17
+                    "value": 8
                 },
-                "windSpeed": "5 to 8 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers?size=medium",
-                "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog and a chance of drizzle and a slight chance of rain showers. Cloudy, with a low around 33. Southeast wind 5 to 8 mph. Chance of precipitation is 20%."
+                "windSpeed": "2 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/rain?size=medium",
+                "shortForecast": "Areas Of Drizzle",
+                "detailedForecast": "Areas of drizzle and patchy fog. Cloudy, with a low around 33. North wind around 2 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-03-07T06:00:00-05:00",
+                "endTime": "2026-03-07T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 11
+                },
+                "windSpeed": "2 to 10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain?size=medium",
+                "shortForecast": "Areas Of Drizzle",
+                "detailedForecast": "Areas of drizzle and patchy fog before 3pm. Mostly cloudy, with a high near 48. South wind 2 to 10 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, a shroud of gray embraces the city, with snow giving way to rain, a melding of seasons that leaves the air heavy and expectant. The morning has been marked by fleeting snowflakes, soon to dissolve into drizzles and fog that cloak the streets, lending them an almost dreamlike quality. As the temperatures hover around the low thirties, a persistent northeast wind weaves through the alleyways, carrying the chill of winter and the dampness of spring. The precipitation looms large, with a certainty that leaves little room for doubt about the need for an umbrella.\n\nAs day bleeds into night, the forecast hints at a continuation of this murky embrace. Expect the fog to thicken, mingled with the occasional light drizzle that nurtures the earth but may leave one feeling a tad disheveled. This blend of soft weather calls for layers\u2014perhaps a sweater beneath a waterproof jacket, coupled with sturdy shoes to navigate the wet pavement. Venturing outside may evoke a calm stroll through a quiet neighborhood, perhaps leading to a local caf\u00e9 where the warmth of coffee awaits. One might also consider a cozy afternoon spent indoors, reading or rediscovering a favorite film\u2014a comforting retreat from the uninviting fog that blankets the world outside.",
-    "color_code": "#B0B3B7",
-    "timestamp": "2026-03-06 11:16:31"
+    "weather_report": "As twilight envelops Boston tonight, the air sits heavy with the promise of drizzle and the gentle embrace of patchy fog. With the temperature hovering just above freezing, a soft layer of moisture clings to the night, inviting a more serene pace. The north wind barely whispers at two miles per hour, creating a stillness that feels almost ethereal among the shadows of familiar streets. \n\nAs dawn breaks tomorrow, the drizzle is expected to linger, wrapping the city in a hushed blanket of clouds. A slightly warmer high of 48 will coax the day into motion, though the fog may dance through the mists until afternoon. The south winds will likely pick up, stirring the air with a gentle gust, hinting at a sense of movement and awakeness. For those venturing out, a layered wardrobe will serve well\u2014perhaps a cozy sweater beneath a waterproof jacket, paired with a hat to fend off the damp chill. Saturdays like this are made for quiet explorations through tucked-away cafes where the scent of fresh coffee mingles with warm pastries, or a leisurely stroll along the river, letting the rhythm of the city soothe the spirit as the day unfolds.",
+    "color_code": "#4B5563",
+    "timestamp": "2026-03-06 23:35:24"
 }
