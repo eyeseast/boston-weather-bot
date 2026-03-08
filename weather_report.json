@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-08T07:50:00+00:00",
-            "temperature_f": 48.2,
-            "temperature_c": 9,
+            "timestamp": "2026-03-08T12:05:00+00:00",
+            "temperature_f": 46.4,
+            "temperature_c": 8,
             "humidity": 100,
             "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 160,
+            "wind_direction": 200,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-08T04:00:00-04:00",
-                "endTime": "2026-03-08T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 32
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain and patchy fog. Cloudy, with a low around 42. Southwest wind around 9 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-03-08T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-03-08T08:00:00-04:00",
                 "endTime": "2026-03-08T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 56,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 35
+                    "value": 23
                 },
-                "windSpeed": "6 to 9 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,40/bkn?size=medium",
-                "shortForecast": "Chance Light Rain then Mostly Cloudy",
-                "detailedForecast": "A chance of rain and patchy fog before 8am, then patchy fog and a slight chance of rain between 8am and 11am. Mostly cloudy, with a high near 56. Southwest wind 6 to 9 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Cloudy",
+                "detailedForecast": "Patchy fog and a slight chance of rain before 11am. Mostly cloudy, with a high near 56. Southwest wind around 8 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-08T18:00:00-04:00",
+                "endTime": "2026-03-09T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 38. West wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the early morning hours drape a quiet shroud over Boston, the air carries a palpable hush, heavy with the scent of impending rain mixed with a whisper of fog. The temperature hovers around a cool 42 degrees, wrapping the city in a blanket of muted grey. With the promise of patchy fog and a gentle southwest breeze brushing against the skin, one can sense the nature of the day\u2014a teetering dance between the lingering cold of winter and the tentative hints of spring. \n\nAs the sun gradually climbs towards its zenith, expect the clouds to loosen just enough for patches of light to filter through, though the day likely remains draped in a largely overcast sky. A mild chance of rain lingers\u2014a companion to the fog\u2014creating an atmosphere that beckons for layered clothing. Consider donning a light jacket, perhaps accompanied by a warm scarf, to stay comfortable against the briskness of the air. With the chance of rain lingering until late morning, it is a perfect day for a leisurely stroll in the Boston Public Garden, where the first crocus of spring might dare to peek through the remnants of winter\u2019s chill. As the day unfolds, it invites quiet reflection and a gentle meander through cozy cafes or perhaps an intimate bookshop, where the world just outside remains beautifully obscured, waiting for clearer skies.",
-    "color_code": "#A8B9C2",
-    "timestamp": "2026-03-08 04:12:18"
+    "weather_report": "In Boston, the dawn breaks softly, shrouded in a gentle embrace of patchy fog that drifts lazily across the skyline. Today offers a dance between clouds and sunshine, as a slight chance of rain lingers like a whispered secret before 11 a.m. The air bears the crispness of early spring, inviting a day that hovers around a comfortable 56 degrees. As you step outside, the southwest wind carries a subtle warmth, but the remnants of night still cling to the ground. It\u2019s a time to wrap yourself in a light jacket, the kind that shields you from the coolness yet welcomes the caress of emerging sunbeams. \n\nAs evening approaches, the sky will clear, settling into stillness and tranquility. A low of around 38 suggests bundling up as the world turns darker; a cozy sweater or a warm scarf would fit nicely against the chill. This day beckons the calm of reflective strolls along the Charles or perhaps a visit to a local coffee shop where the aroma of fresh brews create an inviting atmosphere. A book or quiet conversation would be perfectly suited for these lay-back moments. With nature slowly waking up, savor the opportunity to embrace the subtle beauty that today in Boston offers, a harmony between the lingering winter and the eager spring.",
+    "color_code": "#A0B3C3",
+    "timestamp": "2026-03-08 08:15:07"
 }
