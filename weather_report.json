@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-07T19:50:00+00:00",
+            "timestamp": "2026-03-08T00:30:00+00:00",
             "temperature_f": 42.8,
             "temperature_c": 6,
-            "humidity": 87.000902360951,
+            "humidity": 100,
             "wind_speed_mph": 37.286316,
             "wind_direction": 200,
-            "description": "Cloudy"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-03-07T15:00:00-05:00",
-                "endTime": "2026-03-07T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 48. Southwest wind around 10 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-03-07T18:00:00-05:00",
+                "startTime": "2026-03-07T19:00:00-05:00",
                 "endTime": "2026-03-08T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 43,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 45
+                    "value": 42
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "13 to 17 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30/rain,50?size=medium",
-                "shortForecast": "Patchy Fog then Chance Light Rain",
-                "detailedForecast": "Patchy fog and a slight chance of rain between 8pm and 10pm, then a chance of rain and patchy fog. Mostly cloudy. Low around 43, with temperatures rising to around 51 overnight. Southwest wind around 10 mph, with gusts as high as 24 mph. Chance of precipitation is 50%."
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,40?size=medium",
+                "shortForecast": "Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after midnight. Cloudy, with a low around 43. Southwest wind 13 to 17 mph. Chance of precipitation is 40%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-03-08T06:00:00-04:00",
+                "endTime": "2026-03-08T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/bkn?size=medium",
+                "shortForecast": "Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A chance of rain showers before 10am. Mostly cloudy, with a high near 58. Southwest wind around 12 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As dusk gently approaches Boston, a blanket of mostly cloudy skies envelops the city, casting a muted hue over the landscape. The temperature hovers near the chill of 48 degrees, with a gentle southwest wind creaking at 10 mph and occasionally gusting, adding a crisp edge to the atmosphere. A slight chance of rain dances on the horizon, entwined with patchy fog creeping in as evening deepens, whispering of lingering dampness and a low settling around 43 degrees.\n\nThis day, while not one to inspire sprawling outdoor adventures, calls for practicality in dress. Layering becomes wise, with a lightweight jacket paired over a cozy sweater\u2014enough to ward off the cool air while granting ease as the temperatures gradually rise overnight. Perhaps an unhurried stroll through quiet streets, where the muffled sounds of the city blend with the soft patter of impending rain, could soothe the spirit. Alternatively, one might cozy up in a caf\u00e9, savoring a warm drink while watching the world move through the mist\u2014a perfect scenario for fleeting thoughts and introspection as the light fades into evening.",
-    "color_code": "#AFAFAF",
-    "timestamp": "2026-03-07 15:08:47"
+    "weather_report": "As dusk envelops Boston, the city finds itself cloaked in a shroud of clouds, laden with the promise of rain. The atmosphere is cool, with a gentle breeze from the southwest stirring the remnants of winter. While tonight may offer a glimpse of showers post-midnight, the evening could still be enjoyed under a heavy blanket of clouds, perhaps encouraging a reflective stroll under the muted glow of city lights. A low of 43 degrees invites a cozy wrap of layers\u2014a soft sweater or a tailored jacket, perhaps paired with a sturdy pair of shoes to navigate the damp sidewalks.\n\nFor tomorrow, the morning holds a chance of rain, tapering off by 10 AM. The day will awaken under a mostly cloudy sky, with temperatures nudging towards a modest 58 degrees. As the clutter of winter begins to fade, it\u2019s a fine opportunity to meander through the Boston Common or explore quaint caf\u00e9 corners with a warm beverage in hand. While the chance of rain lingers like a shy guest, it's the chance to embrace the quieter moments that the city might offer. Dressing in layered, comfortable attire will make the day more pleasant, ensuring one is prepared for whatever the climate chooses to bestow.",
+    "color_code": "#4B4C50",
+    "timestamp": "2026-03-07 19:43:39"
 }
