@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-08T19:50:00+00:00",
-            "temperature_f": 55.4,
-            "temperature_c": 13,
-            "humidity": 71.661522629146,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 240,
+            "timestamp": "2026-03-09T00:30:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 93.248095448059,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-03-08T16:00:00-04:00",
-                "endTime": "2026-03-08T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 56. West wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-03-08T18:00:00-04:00",
+                "startTime": "2026-03-08T20:00:00-04:00",
                 "endTime": "2026-03-09T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 38,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 38. West wind around 6 mph."
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 38. Southwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-03-09T06:00:00-04:00",
+                "endTime": "2026-03-09T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 67. Southwest wind 6 to 13 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the skies wear a weighty veil of clouds, gently dimming the light into a soft, muted brightness that imbues the day with a tranquil, reflective quality. The high temperature hovers near a crisp fifty-six, with a delicate west wind whispering through the streets at a steady seven miles per hour\u2014a reminder of the unpredictable warmth that will soon beckon with the promise of spring. As evening unfolds, the clouds will ease, parting like curtains to reveal a vast, star-speckled sky while temperatures ease down toward the thirty-eighth mark. \n\nFor those venturing out, a light jacket layered over a sweater will be both practical and comfortable; the lingering chill urges a thoughtful embrace of warmth. This gentle weather may inspire a stroll along the Charles, where the path seems to welcome quiet contemplation and the simple pleasures of nature. With the day winding down, consider settling into one of the cozy caf\u00e9s for a warming cup of tea, perhaps indulging in a good book as the world drifts toward nightfall in a serene embrace.",
-    "color_code": "#A4B9D5",
-    "timestamp": "2026-03-08 16:09:01"
+    "weather_report": "As the sun slips below the horizon, Boston finds itself under a blanket of stillness, the evening air tinged with a gentle chill as temperatures settle around thirty-eight degrees. The southwest wind meanders softly at seven miles per hour, creating a whisper among the emerging stars. Tonight holds the promise of a partly cloudy sky, with just enough breaks to let the moonlight cast fleeting shadows across the familiar contours of the city. A sense of calm blankets the landscape, inviting those who venture out to don a light jacket to embrace the cool embrace of the night.\n\nAs dawn approaches on Monday, expect the world to awaken in a symphony of warmth and luminosity, with clear skies offering a sunny respite that will lead to a high near sixty-seven. The gentle rustle of the wind will carry the crisp scent of spring, mingling with the earthy aroma of melting frost. A leisurely stroll through the neighborhood, perhaps stopping for a coffee at a local caf\u00e9 with a patio, could provide one with the perfect way to appreciate the transition from coolness to warmth. Light layers will serve well throughout the day, allowing you to bask in the sunshine while remaining comfortable as the day unfolds. So, whether you find yourself wandering through the parks or absorbing the vibrant energy of the city streets, the day promises a delightful touch of spring\u2019s approach.",
+    "color_code": "#6C7B93",
+    "timestamp": "2026-03-08 20:43:06"
 }
