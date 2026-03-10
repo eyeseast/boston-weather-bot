@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-10T04:20:00+00:00",
-            "temperature_f": 46.4,
-            "temperature_c": 8,
-            "humidity": 61.296851102691,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 170,
+            "timestamp": "2026-03-10T12:05:00+00:00",
+            "temperature_f": 39.2,
+            "temperature_c": 4,
+            "humidity": 93.195121939331,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-10T00:00:00-04:00",
-                "endTime": "2026-03-10T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 43. Southwest wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-03-10T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-03-10T08:00:00-04:00",
                 "endTime": "2026-03-10T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 72,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 72. Southwest wind 7 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-10T18:00:00-04:00",
+                "endTime": "2026-03-11T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 41,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 19
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain after 5am. Mostly cloudy, with a low around 41. West wind 5 to 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning, Boston lies wrapped in the embrace of night, punctuated by the twinkling lights of the city, reminiscent of fallen stars scattered on a darkened canvas. The air carries a crisp clarity, tinged with a mild chill that promises a refreshing start to the day. As dawn approaches, the forecast serves up a delightful forecast\u2014a sunny Tuesday awaits, with warm, inviting rays that will soon banish the shadows, coaxing residents out into the world.\n\nBy day, a gentle southwest wind will weave through the streets, carrying with it the scent of anticipation, as temperatures rise to a pleasant 72 degrees. Such weather invites simplicity: a light jacket may be prudent for the morning\u2019s coolness, but as the sun makes its ascent, short sleeves and perhaps a breathable fabric will suit the day beautifully. The sunlit hours beg to be filled with the quiet joys of life in this vibrant city. Perhaps a leisurely stroll along the Charles River, where the water reflects the awakening sky, or a visit to a local caf\u00e9 to savor the warmth of a freshly brewed cup while observing the world come to life. Today is meant for being present, for indulging in the everyday wonder that Boston effortlessly offers, even in its most mundane moments.",
-    "color_code": "#F0E68C",
-    "timestamp": "2026-03-10 00:38:21"
+    "weather_report": "As the morning sun rises gently over Boston, it reveals a canvas painted in brilliant blue, signifying a day that promises to unfold in pleasant simplicity. With temperatures expected to reach a comfortable 72 degrees, the air carries a light southwestern breeze that ushers in a sense of ease. It\u2019s a day to step outside, breathe in the fresh spring air, and perhaps meander along the Charles River, where whispers of laughter and the sounds of gentle splashes fill the atmosphere. \n\nWhile tonight may veer towards the cooler side with a slight chance of rain, a light sweater or a light windbreaker would suffice to keep the evening chill at bay. The forecast hints at clouds gathering softly after the sun dips below the horizon, but for now, the clarity of the sky invites you to relish the day. Whether you're strolling through the Boston Public Garden or enjoying a quiet afternoon in a caf\u00e9, today speaks of serenity, warmth, and the tranquil ebb and flow of life in this vibrant city.",
+    "color_code": "#4A90E2",
+    "timestamp": "2026-03-10 08:20:55"
 }
