@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-10T20:00:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 27.013513332628,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 220,
+            "timestamp": "2026-03-11T00:20:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 54.624817014396,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 150,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-03-10T16:00:00-04:00",
-                "endTime": "2026-03-10T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 72,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 72. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-03-10T18:00:00-04:00",
+                "startTime": "2026-03-10T20:00:00-04:00",
                 "endTime": "2026-03-11T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 41,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 41. West wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-03-11T06:00:00-04:00",
+                "endTime": "2026-03-11T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 23
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and a slight chance of rain after 8am. Mostly cloudy, with a high near 51. East wind around 7 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the afternoon sun casts its warm embrace over Boston, the city awakens to a delightful ambiance. The air carries a gentle movement, whispering promises of comfort with a high temperature flirting around 72 degrees. With a soft southwest breeze at play, it is an invitation to step outside, perhaps to enjoy a leisurely stroll through the vibrant streets or a visit to one of the many parks, where the faint rustle of leaves and the distant laughter of children may accompany your journey. \n\nAs the daylight fades, the evening will usher in a calm transition, dipping down to a refreshing 41 degrees. The sky will don a partly cloudy veil, offering glimpses of the twilight hues. For the evening attire, a light sweater or a cozy jacket will serve you well against the coolness. After a day replete with sunshine and vigor, consider unwinding with a quiet moment on your porch, perhaps sipping a warm drink while watching the world light up as darkness falls, or indulging in a passionate page-turner as the night unfolds.",
-    "color_code": "#ADD8E6",
-    "timestamp": "2026-03-10 16:13:22"
+    "weather_report": "As night settles softly over Boston, a gentle hush envelops the city, punctuated only by the occasional whisper of the wind and the distant echo of urban life. The temperature hovers around a crisp 41 degrees, inviting cozy layers that embrace warmth without sacrificing style. A pair of soft gloves, a snug scarf, and a light jacket create an ideal ensemble for wandering the quiet streets. The sky, partially cloaked in clouds, reveals just enough moonlight to cast a poetic glow on the winding avenues and charming brownstones.\n\nTomorrow promises an awakening rather unlike the typical spring morn, as patchy fog dances through the streets, lending a whimsical aura to the day. With a high hovering near 51, the chill will cling, especially in the morning hours before the gentle sun peaks through the clouds and the weight of the fog begins to dissipate. An umbrella might prove unnecessary, with only a slight chance of rain, yet a sturdy pair of shoes and a light hat could be the perfect companions for errands or a stroll along the Esplanade. As you step into the day, consider indulging in a mid-morning coffee at a neighborhood caf\u00e9, where the scent of freshly brewed beans mingles with that crisp, slightly balmy air, creating a serene start to your Wednesday in this beautiful city.",
+    "color_code": "#3A3A3C",
+    "timestamp": "2026-03-10 20:39:51"
 }
