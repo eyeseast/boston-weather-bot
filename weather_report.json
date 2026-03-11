@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-11T08:00:00+00:00",
-            "temperature_f": 37.4,
-            "temperature_c": 3,
-            "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Mostly Clear"
+            "timestamp": "2026-03-11T12:00:00+00:00",
+            "temperature_f": 42.8,
+            "temperature_c": 6,
+            "humidity": 75.519709049237,
+            "wind_speed_mph": 41.39344800000001,
+            "wind_direction": 40,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-11T04:00:00-04:00",
-                "endTime": "2026-03-11T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 41,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. Low around 41, with temperatures rising to around 47 overnight. Northeast wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-03-11T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-03-11T08:00:00-04:00",
                 "endTime": "2026-03-11T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 19
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
                 "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain between 8am and 5pm. Mostly cloudy, with a high near 51. East wind around 7 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain before 5pm. Partly sunny, with a high near 51. East wind around 8 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-11T18:00:00-04:00",
+                "endTime": "2026-03-12T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 41
+                },
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,40?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain before 11pm, then a chance of rain and patchy fog and a slight chance of thunderstorms. Mostly cloudy, with a low around 51. South wind 7 to 12 mph, with gusts as high as 24 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "As the morning light begins to stretch its fingers across Boston, the air is enveloped in a cool embrace, hinting at a day that will remain largely overcast. The temperature drifts gently upward from a comfortable chill near 41 degrees, encouraging everyone to wrap themselves in layers and perhaps don a light coat. While the forecast does introduce the possibility of a sprinkle, excitement should be tempered, as the chance for rainfall rests merely at 20%. A quiet east wind brushes against the skin, subtly urging you to embrace an afternoon stroll through the neighborhood, where the murmur of life continues despite the clouds\u2019 lingering presence.\n\nWith the shades of grey cloaking the sky, it seems a good plan to partake in introspective activities. One might enjoy a leisurely visit to a local caf\u00e9, savoring a warm cup of coffee while watching the world unfurl beyond the window. Or consider taking a stroll through the cobblestone streets, where the earthy scents and muted sounds of the city provide a comforting backdrop. Although the day lacks the sun's vibrant warmth, it holds a soft charm, perfect for quiet reflection or engaging conversations with friends. As you prepare for your day, think of comfortable shoes, cozy scarves, and perhaps a knapsack to hold treasures you may gather along your way, for though the weather holds a hint of bleakness, therein lies the canvas of possibility.",
-    "color_code": "#7B8D9A",
-    "timestamp": "2026-03-11 04:18:07"
+    "weather_report": "As morning unfolds over Boston, the air carries a hint of coolness, a gentle reminder of the late winter still holding onto its grip. The sky, an interplay of muted blues and soft grays, reflects the forecast of slight rain lacing the day. With a high anticipated near 51, one might find light layers most comfortable\u2014perhaps a cozy cashmere blend over a soft cotton crew neck, topped with a breeze-friendly jacket. The east wind whispers quietly through the branches, while the likelihood of rain this afternoon lingers at a modest 20%. \n\nAs twilight approaches, the clouds may deepen their shades, potentially ushering in a chance of rain alongside patchy fog and the tease of thunderstorms. For those venturing out, be it a stroll through the Boston Common or a quiet moment sipped over warm coffee at a local caf\u00e9, the atmosphere will demand a bit of layering\u2014a water-resistant jacket or perhaps an umbrella stowed away will be prudent choices. The emerging night does not foretell of tumultuous weather yet, but it invites a cozy evening spent indoors, perhaps with a book or a gathering of friends. As the sands of the hourglass slip away, embracing simple pleasures amidst the hazy foreboding can transform an ordinary day into something quietly extraordinary.",
+    "color_code": "#A3B4C8",
+    "timestamp": "2026-03-11 08:20:45"
 }
