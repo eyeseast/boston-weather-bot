@@ -7,33 +7,33 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-15T15:45:00+00:00",
-            "temperature_f": 39.2,
-            "temperature_c": 4,
-            "humidity": null,
+            "timestamp": "2026-03-15T19:50:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 41.562483250283,
             "wind_speed_mph": 24.884388,
-            "wind_direction": 130,
-            "description": "Mostly Cloudy"
+            "wind_direction": 40,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-03-15T08:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-03-15T16:00:00-04:00",
                 "endTime": "2026-03-15T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 44,
+                "temperature": 43,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 10
+                    "value": 6
                 },
-                "windSpeed": "5 to 9 mph",
-                "windDirection": "NE",
+                "windSpeed": "8 mph",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 44. Northeast wind 5 to 9 mph."
+                "detailedForecast": "Partly sunny, with a high near 43. Southeast wind around 8 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-03-15T18:00:00-04:00",
                 "endTime": "2026-03-16T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 36,
+                "temperature": 37,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 48
+                    "value": 54
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain,50?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Rain",
-                "detailedForecast": "A chance of rain between 4am and 5am, then a chance of rain and patchy fog. Mostly cloudy. Low around 36, with temperatures rising to around 42 overnight. Southeast wind 6 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,50?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 4am. Mostly cloudy, with a low around 37. Southeast wind 6 to 9 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the clock ticks through this mid-March day in Boston, the atmosphere holds a gentle melancholy, draped in layers of soft gray clouds. The sun peeks intermittently through the veil, casting a muted light upon the city and its surroundings, where the promise of spring lingers tantalizingly. With a current temperature settling comfortably in the low forties, the day hints at a chill in the air, one that begs for an extra layer or two\u2014a cozy sweater paired with a light jacket would do nicely.\n\nAs evening approaches, the forecast whispers of rain, accompanied by the subtle emergence of patchy fog, perhaps a gentle embrace from the southeast winds. It\u2019s a time for quiet contemplation or simple pleasures, perhaps meandering through the streets of Boston, stopping at an unassuming caf\u00e9 for a warm drink as the weather shifts. A stroll along the waterfront may offer a refreshing perspective, while the murmur of the waves harmonizes with the soft patter of rain, creating a moment of serene reflection amid the city's pulse. Dress warmly, remain prepared for those unexpected showers, and embrace the beauty of the day\u2019s quietude.",
-    "color_code": "#A9B5C5",
-    "timestamp": "2026-03-15 12:11:57"
+    "weather_report": "As the afternoon unfolds in Boston, a gentle haze hugs the sky, hinting at a day caught between the lingering chill of winter and the first whispers of spring. The air carries a subtle promise, with a high temperature barely nudging past 43 degrees. As clouds drift languidly above, a soft southeast breeze makes its presence known\u2014inviting yet crisp\u2014perfect for a modest layer over a light shirt. \n\nAs twilight approaches tonight, clouds will deepen, ushering in a chance of rain showers after 4 AM, softening the relentless grip of dryness that has lingered too long. A low of 37 may prompt thoughts of layering up, as one walks the streets or perhaps enjoys a quiet dinner with friends. While the forecast hints at a 50% chance of rain, the evening's ambiance might lure you to seek refuge in a favorite cafe, sipping something warm as the city lights begin to twinkle against the somber sky. Tonight is not one for grand pursuits, but for enjoying cozy moments tucked away from the damp chill that will inevitably follow.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2026-03-15 16:10:16"
 }
