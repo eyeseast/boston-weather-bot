@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-17T20:00:00+00:00",
-            "temperature_f": 42.8,
-            "temperature_c": 6,
-            "humidity": null,
+            "timestamp": "2026-03-18T00:30:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 31.985852333624,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-03-17T16:00:00-04:00",
-                "endTime": "2026-03-17T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 42. West wind around 14 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-03-17T18:00:00-04:00",
+                "startTime": "2026-03-17T20:00:00-04:00",
                 "endTime": "2026-03-18T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 23,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "8 to 12 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 23. West wind 8 to 12 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Mostly clear, with a low around 23. West wind around 10 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-03-18T06:00:00-04:00",
+                "endTime": "2026-03-18T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 38. Southwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As the sun graces Boston this afternoon, a gentle warmth dances through the air, revealing a clear sky adorned with fluffy clouds that provide a dynamic backdrop for the city\u2019s skyline. With temperatures lingering around a pleasant 42 degrees, the westward breeze invites one to feel a touch of briskness, rustling the leaves and tousling hair just enough to remind us that winter's grasp is still lingering. The streets shimmer with clarity, and it appears that the afternoon sun has painted the landscape with hues that yield a sense of optimism.\n\nAs evening approaches, the skies remain mostly clear, with stars poised to emerge, one by one, against the backdrop of a deepening night. While the air may cool to about 23 degrees, the western wind promises a serene, albeit slightly brisk experience for those venturing outdoors. Dress comfortably in layers, perhaps donning a warm scarf and a well-fitted jacket, to embrace the shifting temperatures. The atmosphere appears perfect for a leisurely stroll along the Charles River or a quiet visit to a cozy caf\u00e9, where conversations can linger as the sun sets to welcome the quietude of night. Finding solace in simple pleasures epitomizes today\u2019s gentle charm in Boston.",
-    "color_code": "#A0C4FF",
-    "timestamp": "2026-03-17 16:16:36"
+    "weather_report": "As night blankets Boston, a serene clarity wraps the city. The stars twinkle faintly through the cool air, with temperatures dipping to a crisp 23 degrees. A gentle westerly wind whispers through the streets, offering a reminder of the chill that this season carries. As night unfolds, the signs of bustling life pulse in the distance\u2014warm lights from windows and street lamps flicker like constellations on the ground.\n\nTomorrow promises a bright embrace of sunshine, illuminating the historic skyline with a high near 38 degrees. A soft southwest breeze will accompany the daylight, lending a mildness that encourages a brisk adventure. For those stepping out, layering will be crucial; a cozy scarf and a thick jacket will ward off the lingering cold, while perhaps a comfortable beanie adds just the right touch for those who fancy a stroll. The day, with its promise of sunshine, invites opportunities for leisurely outings\u2014perhaps a wander through a nearby park or a quiet coffee at a local caf\u00e9, where the warmth of the drink parallels the sun's inviting glow. Make the most of this splendid day; venture out and breathe in the invigorating air, for the city below is alive with possibilities.",
+    "color_code": "#1C1C2D",
+    "timestamp": "2026-03-17 20:44:40"
 }
