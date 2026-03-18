@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-18T08:05:00+00:00",
-            "temperature_f": 24.8,
-            "temperature_c": -4,
-            "humidity": 49.604297542623,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 280,
+            "timestamp": "2026-03-18T12:10:00+00:00",
+            "temperature_f": 26.6,
+            "temperature_c": -3,
+            "humidity": 42.441354758402,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 270,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-18T04:00:00-04:00",
-                "endTime": "2026-03-18T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 23,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 23. West wind around 8 mph, with gusts as high as 21 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-03-18T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-03-18T08:00:00-04:00",
                 "endTime": "2026-03-18T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 37,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 37. Southwest wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 37. Southwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-18T18:00:00-04:00",
+                "endTime": "2026-03-19T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 28,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 28. South wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As the cool night gradually yields to dawn, Boston awakens beneath a cloak of clarity, with stars fading into the gentle embrace of morning light. The atmosphere is crisp, holding the promise of a bright winter day. With a touch of frost in the air, it beckons for warm layers\u2014perhaps a heavy coat wrapped snugly over a woolen sweater, paired with a soft scarf to stave off the chill that lingers. A walk along the Charles River might be particularly rewarding today, with the sun casting its first golden rays over the calm water, inviting muffled reflections against the tranquil surface.\n\nWednesday unfolds with the sun shining warmly, lifting spirits as it climbs higher, reaching for the high of a pleasant thirty-seven degrees. The gentle southwest breeze carries with it hints of spring, teasing the promise of warmer days ahead. A stroll through the North End could bring about delightful discoveries of hidden caf\u00e9s, where one might savor a rich coffee or a decadent pastry, all while basking in the gathering light. For those who lean towards indoor pursuits, exploring the art galleries or settling into a quiet library might be equally enticing, allowing the calm of the day to seep into both mind and body. As the hours pass, it\u2019s a day where simplicity merges beautifully with the seasonal transition, reminding us of life's quiet yet vibrant moments.",
-    "color_code": "#C4A6B0",
-    "timestamp": "2026-03-18 04:21:49"
+    "weather_report": "In the heart of Boston, the day unfolds with a crisp clarity, revealing a sky washed in blue, unmarred by fog or haze. The sunlight, though still timid as winter lingers afresh, casts a gentle warmth that hints at spring\u2019s impending embrace. As the morning unravels, the temperature hovers around a cool 37 degrees, urging inhabitants to wrap themselves in warmth yet not too heavily\u2014perhaps a light jacket over layered sweaters, complemented by a comfortable scarf to shield against the faint breeze from the southwest. \n\nAs the evening draws near, the air will chill slightly, settling into the low 28s, welcoming a more contemplative atmosphere. Tonight promises a soft mingling of clouds with the stars, inviting those who strolled during the day to continue their evening outside, perhaps on a quiet walk along the Charles River, or indulging in a cozy gathering at a nearby caf\u00e9 where the aroma of freshly brewed coffee and baked goods beckons. The charm of Boston, so palpable against such serene weather, allows one to appreciate the simpler pleasures\u2014the rustling of leaves, the murmur of conversations, and the vibrant pulse of life that persists through the seasons.",
+    "color_code": "#A1C6E8",
+    "timestamp": "2026-03-18 08:26:38"
 }
