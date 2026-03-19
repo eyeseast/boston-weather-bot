@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-19T08:00:00+00:00",
-            "temperature_f": 23.0,
-            "temperature_c": -5,
-            "humidity": 79.478232981322,
+            "timestamp": "2026-03-19T12:05:00+00:00",
+            "temperature_f": 28.4,
+            "temperature_c": -2,
+            "humidity": 68.629648895336,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-19T03:00:00-04:00",
-                "endTime": "2026-03-19T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 24,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 24. South wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-03-19T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-03-19T08:00:00-04:00",
                 "endTime": "2026-03-19T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 41,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
                 "detailedForecast": "Partly sunny, with a high near 41. South wind 2 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-19T18:00:00-04:00",
+                "endTime": "2026-03-20T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 31,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 31. Southwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the dawn gently breaks over Boston, a whisper of crispness fills the air. The sky holds a muted palette, a blend of deep blues and ashy grays that foretell both clarity and chill. With temperatures resting around a cool 24 degrees, the day\u2019s journey will greet us with partly sunny skies and a high that nudges just above 40. The serene south wind, barely more than a breeze, invites a chance to revel in the unfolding morning.\n\nThough the air is bracing, it beckons outdoor pursuits that call for warmth yet lend themselves to a certain liberating freshness. A light scarf or a cozy knit should suffice, perhaps layered under a slightly heavier jacket for those venturing out as the day warms. A stroll through the Common could reveal hints of early blooms, as nature begins its slow wake. Alternatively, one might find solace in the quaint hideaways of local caf\u00e9s, the aroma of freshly brewed coffee competing with the nostalgic musk of books lining the shelves, promising a Sunday of pleasant reverie.",
-    "color_code": "#A8B8D5",
-    "timestamp": "2026-03-19 04:20:07"
+    "weather_report": "In Boston, the day unfolds with the gentle promise of mild temperatures, poised just around 41 degrees. The clouds overhead, while abundant, offer a soft light that dances across the city, hinting at an early spring awakening. The air holds a crispness that belies the warmth to come, inviting a light jacket as the gentle winds whisper from the south, caressing the skin without chill. In the evening, a comforting repose sets in, with temperatures easing towards a cooler 31 degrees, turning the clouds into muted gray blankets against the twilight.\n\nAs you venture out, the soft undercurrent of this day suggests a stroll through the cobbled streets or perhaps a quiet visit to your favorite caf\u00e9, where the aroma of freshly brewed coffee mingles with the scent of pastries. This day is not only about the warmth outside but is embellished with the vibrant pulse of urban life. In this calm yet invigorating atmosphere, take a moment to appreciate the little things around you\u2014whether it's the intricate architecture blossoming in the light or the laughter of others lost in their own simple joys. As mid-morning transitions into afternoon, let this blend of cool air and emerging sunlight guide you toward a leisurely pursuit, savoring the blend of the pleasant and the mundane that this day so graciously offers.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-03-19 08:21:06"
 }
