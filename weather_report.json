@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-20T07:55:00+00:00",
-            "temperature_f": 35.6,
-            "temperature_c": 2,
-            "humidity": 69.480096758187,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 220,
-            "description": "Cloudy"
+            "timestamp": "2026-03-20T12:05:00+00:00",
+            "temperature_f": 33.8,
+            "temperature_c": 1,
+            "humidity": 74.639707050277,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-20T04:00:00-04:00",
-                "endTime": "2026-03-20T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 32,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 32. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-03-20T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-03-20T08:00:00-04:00",
                 "endTime": "2026-03-20T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 53,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
                 "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
                 "detailedForecast": "A slight chance of rain showers after 5pm. Mostly sunny, with a high near 53. Southwest wind 3 to 17 mph, with gusts as high as 33 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-20T18:00:00-04:00",
+                "endTime": "2026-03-21T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 41,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 92
+                },
+                "windSpeed": "7 to 18 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,90/rain_showers,70?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers. Cloudy, with a low around 41. Southwest wind 7 to 18 mph, with gusts as high as 33 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, the city lies cloaked in a gentle veil of clouds, the night still whispering its final secrets before the sun takes its rightful place. The air holds a crisp chill, hinting at the remnants of winter yet to fully relinquish its grip. With temperatures hovering around freezing, a layer of warmth will be a humble companion should you venture outdoors. The promise of a brighter day beckons, as the morning transitions into a mostly sunny spectacle, but not without the potential for a light drizzle that may flirt with the air as the clock nudges towards the evening.\n\nThose who choose to step out might find the gusty winds invigorating\u2014a brisk reminder of nature\u2019s powers\u2014so a sturdy jacket and perhaps a hat would be wise attire today. The day invites a quiet stroll through the city's historic avenues or a thoughtful moment in a cozy caf\u00e9, where perspectives meet with the fragrance of freshly brewed coffee and the gentle hum of conversation. This isn't the day for grand adventures or bustling gatherings, but rather a serene embrace of simple pleasures, allowing time to reflect beneath the shifting skies.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2026-03-20 04:18:47"
+    "weather_report": "As the sun rises over Boston, a gentle clarity blankets the city, offering a delightful respite from the weight of winter. Today brings mostly sunny conditions and a crisp high of around 53 degrees, with a modest southwest breeze ruffling the air. As the day progresses, the charm of this gorgeous morning may be fleeting. By mid-afternoon, clouds will gather, hinting at the rain showers expected to emerge later in the day. This transformation invites a tapestry of moods, shifting from the brightness of daylight to a more contemplative, overcast sky as evening approaches.\n\nFor those stepping out into the elements today, layering is key; perhaps a light jacket and comfortable, breathable attire will serve well, with a scarf at the ready for the brisk wind. As twilight descends, the atmosphere will thicken with the promise of rain and a low reminiscent of damp, fresh earth. While the impending showers may curtail outdoor adventuring, the beauty lies in embracing the cozy allure of the indoors. An afternoon spent in a quiet caf\u00e9 with a warm drink or welcoming friends for a simple gathering could blossom into a delightful way to savor the transition of seasons.",
+    "color_code": "#A6B3B1",
+    "timestamp": "2026-03-20 08:19:46"
 }
