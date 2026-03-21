@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-21T08:00:00+00:00",
+            "timestamp": "2026-03-21T11:55:00+00:00",
             "temperature_f": 44.6,
             "temperature_c": 7,
-            "humidity": 93.352225938757,
+            "humidity": 87.098056588182,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Cloudy"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-21T02:00:00-04:00",
-                "endTime": "2026-03-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 19
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain before 3am. Mostly cloudy, with a low around 42. Southwest wind around 7 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-03-21T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-03-21T08:00:00-04:00",
                 "endTime": "2026-03-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 8
                 },
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "8 to 12 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 49. Northwest wind 6 to 12 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Mostly sunny, with a high near 49. Northwest wind 8 to 12 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-21T18:00:00-04:00",
+                "endTime": "2026-03-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 37,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 19
+                },
+                "windSpeed": "2 to 9 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/snow,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Light Snow",
+                "detailedForecast": "A slight chance of snow after 4am. Mostly cloudy, with a low around 37. Northeast wind 2 to 9 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the early hours of Saturday unfold over Boston, a low-hanging cloudiness whispers of a past flirtation with rain, though now the air is still, lingering with an almost palpable anticipation. The chill clings to the bones, settling in at around 42 degrees, inviting those who venture out to wrap themselves in comforting layers. As dawn breaks, the forecast promises an ascent to a more genial high of 49, illuminated beneath a mostly sunny sky, though a playful northwest wind dances about, bringing gusts strong enough to tease the leaves clinging to branches.\n\nThe morning is ripe for simple pleasures\u2014instead of rushing through a bustling caf\u00e9, perhaps one might enjoy a quiet stroll along the shores of the Charles, with the city awakening in the distance. The air is crisp but invigorating, perfect for a thoughtful walk or an exploration of the hidden corners of a nearby park where the remnants of winter\u2019s grasp gradually yield to spring's hopeful embrace. Keep a warm scarf close, and perhaps venture into that independent bookstore you\u2019ve always meant to explore or savor a warm drink in a sunlit corner. It's a day to embrace with calm appreciation, finding pockets of warmth amidst the overarching cool.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2026-03-21 04:12:55"
+    "weather_report": "In the early morning light, Boston finds itself wrapped in a soft gray blanket, offering a hint of the day\u2019s potential yet holding tightly to a hint of chill in the air. As the sun attempts to break through the scattered clouds, you might sense that warmth yearning to emerge but held at bay by a persistent Northwest breeze. While the forecast whispers of mostly sunny hours ahead, the sky here, for now, is a muted canvas, pregnant with the promise of snow later in the night\u2014a gentle reminder of winter\u2019s lingering presence.\n\nAs you contemplate the day, it\u2019s prudent to dress in layers; a light jacket should suffice against the cool winds, complemented perhaps by a cozy scarf to keep that chill at bay. There is a charm to these quieter, overcast moments that might inspire a leisurely stroll through the winding streets, pausing to sip a warm coffee at a local caf\u00e9 or browsing the once-vibrant alley markets now lying in the quietude of early spring. The humidity in the air hints at intimacy, making this an ideal time to lose yourself in the pages of a book at home, savoring the fragile balance of nature transitioning from winter to awakening life. As the sun ascends higher, keep an eye on those clouds\u2014as their form shifts and dances with the breeze, they might just reveal a splendor you didn\u2019t expect.",
+    "color_code": "#8C9BBA",
+    "timestamp": "2026-03-21 08:15:02"
 }
