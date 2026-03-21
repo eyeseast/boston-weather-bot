@@ -7,33 +7,33 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-21T04:25:00+00:00",
+            "timestamp": "2026-03-21T08:00:00+00:00",
             "temperature_f": 44.6,
             "temperature_c": 7,
             "humidity": 93.352225938757,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 210,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-03-21T00:00:00-04:00",
+                "startTime": "2026-03-21T02:00:00-04:00",
                 "endTime": "2026-03-21T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 43,
+                "temperature": 42,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 71
+                    "value": 19
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely before 1am, then a chance of rain and patchy fog between 1am and 4am, then patchy fog and a slight chance of rain. Mostly cloudy, with a low around 43. Southwest wind 6 to 10 mph, with gusts as high as 28 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,20?size=medium",
+                "shortForecast": "Slight Chance Light Rain",
+                "detailedForecast": "A slight chance of rain before 3am. Mostly cloudy, with a low around 42. Southwest wind around 7 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-03-21T06:00:00-04:00",
                 "endTime": "2026-03-21T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 52,
+                "temperature": 49,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 16
+                    "value": 8
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "6 to 12 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Sunny",
-                "detailedForecast": "Patchy fog and a slight chance of rain before 9am. Mostly sunny, with a high near 52. Northwest wind 6 to 10 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 49. Northwest wind 6 to 12 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "In the gentle embrace of night, Boston finds itself under a cloak of rain and occasional fog, each raindrop whispering secrets to the pavement below. As the clock ticks past midnight, the city holds a quiet promise of what tomorrow may bring. Temperatures drift into the cool 40s, while gusts of wind flutter through the streets, bringing a sense of briskness that suggests one should reach for a warm jacket before stepping outside. The air is thick with moisture, hinting at the possibility of a few lingering drizzles and low visibility until dawn breaks, but rest assured, this is just a brief interlude in the city's story.\n\nAs morning unveils itself, the forecast teases with glimpses of sunshine suffused with patchy fog, an invitation for a brisk walk through the awakening city. The chill of the early hours will call for layered clothing\u2014a comfortable sweater or a light jacket would be wise, accessorized perhaps with a scarf, to ward off the touch of the northwest winds. Daylight promises to grow warmer, culminating in a moderate afternoon, a singular chance to revel in simple pleasures. So, consider a leisurely visit to a quaint caf\u00e9, where a steaming cup of coffee can serve as both warmth and solace, or perhaps a stroll along the river, where the receding fog gives way to the shimmering sunlight, transforming the city into a kaleidoscope of colors and shadows.",
-    "color_code": "#4A4A4A",
-    "timestamp": "2026-03-21 00:36:51"
+    "weather_report": "As the early hours of Saturday unfold over Boston, a low-hanging cloudiness whispers of a past flirtation with rain, though now the air is still, lingering with an almost palpable anticipation. The chill clings to the bones, settling in at around 42 degrees, inviting those who venture out to wrap themselves in comforting layers. As dawn breaks, the forecast promises an ascent to a more genial high of 49, illuminated beneath a mostly sunny sky, though a playful northwest wind dances about, bringing gusts strong enough to tease the leaves clinging to branches.\n\nThe morning is ripe for simple pleasures\u2014instead of rushing through a bustling caf\u00e9, perhaps one might enjoy a quiet stroll along the shores of the Charles, with the city awakening in the distance. The air is crisp but invigorating, perfect for a thoughtful walk or an exploration of the hidden corners of a nearby park where the remnants of winter\u2019s grasp gradually yield to spring's hopeful embrace. Keep a warm scarf close, and perhaps venture into that independent bookstore you\u2019ve always meant to explore or savor a warm drink in a sunlit corner. It's a day to embrace with calm appreciation, finding pockets of warmth amidst the overarching cool.",
+    "color_code": "#A0A0A0",
+    "timestamp": "2026-03-21 04:12:55"
 }
