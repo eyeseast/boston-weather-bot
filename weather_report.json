@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-20T19:45:00+00:00",
-            "temperature_f": 51.8,
-            "temperature_c": 11,
-            "humidity": 53.831404997309,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Clear"
+            "timestamp": "2026-03-21T00:25:00+00:00",
+            "temperature_f": 44.6,
+            "temperature_c": 7,
+            "humidity": 81.217278940752,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 190,
+            "description": "Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-03-20T16:00:00-04:00",
-                "endTime": "2026-03-20T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain after 5pm. Partly sunny, with a high near 55. South wind around 14 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-03-20T18:00:00-04:00",
+                "startTime": "2026-03-20T20:00:00-04:00",
                 "endTime": "2026-03-21T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 43,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 92
                 },
-                "windSpeed": "6 to 14 mph",
+                "windSpeed": "6 to 12 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,90/rain,70?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "Rain before 1am, then a chance of rain and patchy fog between 1am and 4am, then patchy fog and a slight chance of rain. Mostly cloudy, with a low around 43. Southwest wind 6 to 14 mph, with gusts as high as 35 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain before 1am, then a chance of rain and patchy fog between 1am and 4am, then patchy fog and a slight chance of rain. Mostly cloudy, with a low around 43. Southwest wind 6 to 12 mph, with gusts as high as 31 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-03-21T06:00:00-04:00",
+                "endTime": "2026-03-21T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 16
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/sct?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Sunny",
+                "detailedForecast": "Patchy fog and a slight chance of rain before 9am. Mostly sunny, with a high near 52. Northwest wind 6 to 10 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the sun wanes this afternoon over Boston, the sky wears a shroud of cloud, casting a muted pallor across the landscape. There's a hint of warmth in the air, with a brisk southern wind brushing against the cheeks\u2014though whispers of rain threaten to emerge after five. The city breathes in anticipation of the showers anticipated in the evening, an invitation for those who crave a cozy reprieve from the elements. With a high that flirts with 55 degrees, stepping out in light layers paired with a well-worn jacket would offer the perfect balance of comfort, especially with gusts playing tricks upon one's hair.\n\nAs twilight descends, the chances of rain rise significantly, and the encroaching fog adds an element of mystery to the scene. A stroll along the river might be invigorating, but taking shelter with a warm mug of coffee could prove more appealing as the rain begins, caressing the pavement with its gentle rhythm. An evening spent indoors, perhaps flipping through pages of a well-loved book or delving into a captivating film, would resonate with the season's transition. The allure of the evening sky, veiled in patchy fog, may hold a soft beauty that beckons to the soul, inviting moments of quiet reflection amid the bustle of a vibrant city.",
-    "color_code": "#A0A0A0",
-    "timestamp": "2026-03-20 16:12:08"
+    "weather_report": "As the city of Boston settles into the evening, the rain is dancing softly against pavements, a prelude to a gradual retreat as the clock ticks past one. A shroud of patchy fog blankets the city, eluding visibility and creating an ethereal atmosphere. With temperatures draped in a chill, this night welcomes the Southwest winds, swirling with whispers that hint at both the moisture in the air and a promise of respite. The dampness hangs lightly, leaving a hint of promise on the horizon as one seeks refuge in the comforts of home or a cozy caf\u00e9, perhaps savoring a steaming cup, watching the world outside transform.\n\nTomorrow, the dawn will come fitfully. While the fog may linger a moment longer, the sun will cast its gentle rays, lifting the veil and greeting Boston with clarity as the day unfolds into a tapestry of blue skies and captivating sunshine. A cool breeze will accompany those brave enough to venture beyond their door, ideally dressing in layers: perhaps a well-fitted jacket over a sweater, complemented by sturdy shoes that embrace the spirit of discovery. It\u2019s a splendid day for roaming through the streets, perhaps finding a hidden corner of the Boston Common or indulging in an impromptu visit to a local gallery. Let the day beckon you outside, where the chill will invigorate and the sun will warm, crafting moments to be savored amidst the city\u2019s vibrant bustle.",
+    "color_code": "#4B7F92",
+    "timestamp": "2026-03-20 20:40:40"
 }
