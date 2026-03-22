@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-22T08:00:00+00:00",
+            "timestamp": "2026-03-22T12:00:00+00:00",
             "temperature_f": 37.4,
             "temperature_c": 3,
-            "humidity": 64.714825534266,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 210,
-            "description": "Mostly Cloudy"
+            "humidity": 69.687768711566,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 160,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-22T04:00:00-04:00",
-                "endTime": "2026-03-22T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 35,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 10
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 35. Southeast wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-03-22T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-03-22T08:00:00-04:00",
                 "endTime": "2026-03-22T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 46,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 96
                 },
-                "windSpeed": "3 to 10 mph",
+                "windSpeed": "7 to 13 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain,50/rain,100?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "Rain after 7am. Cloudy, with a high near 46. South wind 3 to 10 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain. Cloudy, with a high near 46. South wind 7 to 13 mph, with gusts as high as 30 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-22T18:00:00-04:00",
+                "endTime": "2026-03-23T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 96
+                },
+                "windSpeed": "5 to 13 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100/rain_snow,70?size=medium",
+                "shortForecast": "Light Rain then Sleet Likely",
+                "detailedForecast": "Rain before 1am, then sleet likely and rain likely. Cloudy, with a low around 33. Northwest wind 5 to 13 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "In the stillness of the overnight hours, Boston rests beneath a shroud of mostly cloudy skies, with a crisp chill settling in as temperatures dip into the mid-thirties. As dawn creeps over the horizon, the promise of rain looms: a gentle curtain of moisture set to drape over the city come morning. By mid-morning, rain will weave its way through the fabric of the day, casting a somber hue upon the landscape, with predicted highs only reaching the upper forties. The south wind, a restless companion, will stir at gentle speeds, occasionally breaking into playful gusts.\n\nSuch weather may inspire a longing for the comforts of warm layers and waterproof footwear. Those venturing into the drizzle might embrace cozy sweaters or light jackets complemented by a sturdy umbrella, ready for the inevitable showers. While the environment may lack the vibrancy of a typical spring day, an afternoon spent tucked away in a local caf\u00e9, savoring a warm cup of coffee and the delightful scents of baked goods, could transform the dreariness into a period of introspection and quiet enjoyment. Alternatively, a visit to the Boston Museum of Fine Arts offers both an intellectual refuge and a chance to appreciate the beauty housed within four walls, safely away from the rain\u2019s embrace, turning a gray day into a canvas of culture and warmth.",
-    "color_code": "#4B5B88",
-    "timestamp": "2026-03-22 04:14:01"
+    "weather_report": "In the heart of Boston, the day unfolds under a blanket of gray, a drizzle kissing the streets and softening the edges of this historic city. The air carries a chill that hints at the lingering winter\u2014one could even call it a reluctant embrace of spring. As the rain continues to fall, accompanied by warming gusts from the south, the atmosphere feels heavy yet strangely intimate, compelling many to draw close to the warmth of home or a favorite caf\u00e9. The forecast promises not just rain but a transition to sleet by nightfall, inviting a snug layer of comfort against the dampness.\n\nFor those contemplating a venture outside, a sturdy umbrella and a waterproof jacket would serve well, protecting against the soggy weather while allowing for a gradual acceptance of the changing season. Perhaps today is best suited for enjoying the simple pleasures: a leisurely stroll through a museum, lost in the depths of creativity; savoring a cup of steaming coffee while watching the world glide by; or perhaps even settling in with a good book beside a window, the rhythmic patter of rain providing a soothing backdrop. While the day may not bring the sun's warmth or the brightness of clear skies, it offers an opportunity to find joy in small moments, as the city of Boston, draped in rain, reveals its quieter beauty.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2026-03-22 08:16:16"
 }
