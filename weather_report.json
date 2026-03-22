@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-21T15:50:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 50.387471827471,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-03-22T00:35:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 41.562483250283,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-03-21T12:00:00-04:00",
-                "endTime": "2026-03-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 53. Northwest wind around 12 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-03-21T18:00:00-04:00",
+                "startTime": "2026-03-21T20:00:00-04:00",
                 "endTime": "2026-03-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 35,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 17
                 },
-                "windSpeed": "1 to 8 mph",
+                "windSpeed": "1 to 6 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain,20?size=medium",
                 "shortForecast": "Mostly Cloudy then Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain after 5am. Mostly cloudy, with a low around 35. Northeast wind 1 to 8 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain after 5am. Mostly cloudy, with a low around 35. Northeast wind 1 to 6 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-03-22T06:00:00-04:00",
+                "endTime": "2026-03-22T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 46,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 90
+                },
+                "windSpeed": "5 to 13 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,90?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 46. South wind 5 to 13 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In the heart of Boston, the day unfolds with a soft, gentle brilliance. The skies, mostly sunny, reveal an expansive canvas of muted yet vibrant hues, where the clouds drift lazily, their occasional shadows hovering like whispers across the landscape. With a high hovering near a brisk 53 degrees, the afternoon invites a sense of refreshment and clarity. The northwest winds murmur through the city\u2019s streets, offering just a hint of chill that plays at the edges of one\u2019s warmth.\n\nAs dusk approaches, expect a subtle shift in the atmosphere. A mere whisper of a chance for rain emerges just past the equality of twilight, with the clouds thickening into a more robust palette of greys. The temperatures will dip to a cooler embrace around 35 degrees, guided by a gentle breeze from the northeast. One might want to dress in layers\u2014start with a breathable base to savor the daytime warmth, then wrap in something cozier for the evening chill. A light jacket would suffice, complemented by comfortable shoes to enjoy a stroll through one of Boston\u2019s picturesque neighborhoods. This time of day beckons with the promise of engaging in leisurely pursuits; perhaps a visit to a quaint caf\u00e9 to experience the warmth of community over a steaming cup, or an evening walk along the Charles River, as the city begins to twinkle under the soft flicker of street lamps.",
-    "color_code": "#BEC4D4",
-    "timestamp": "2026-03-21 12:10:27"
+    "weather_report": "As evening cloaks Boston in a gentle shroud, the air carries hints of rain that might break before dawn. The cloud cover hangs like a thick curtain, dimming the city's usual shimmer, echoing the chill of a late winter\u2019s farewell with temperatures settling around 35 degrees. A whisper of wind drifts lazily from the northeast, barely disturbing the stillness, while a mere 20% chance of precipitation looms on the horizon, hinting at a delicate possibility rather than a certainty. It's an evening best suited for coziness; a light jacket, perhaps layered over a soft sweater, will shield against the cool air that lingers.\n\nAs dawn breaks on Sunday, however, a more pressing forecast emerges. Rain is all but assured, gathering strength throughout the day, transforming the cityscape into a muted palette of grey, the high struggling to reach 46 degrees. While a stronger south wind may sweep through, the 90% chance of rain suggests that staying dry will be the day's priority. It may not be the sunniest Sunday, but there\u2019s charm in the soft patter of rain against windows, an invitation for quiet pursuits. One might find solace in a local caf\u00e9, savoring the warmth of a hot drink while watching the steady rhythm of droplets outside. Alternatively, an afternoon spent delving into a good book\u2014perhaps paired with a slice of something sweet\u2014could be just the remedy for the cooler, damp air.",
+    "color_code": "#4F5D77",
+    "timestamp": "2026-03-21 20:45:50"
 }
