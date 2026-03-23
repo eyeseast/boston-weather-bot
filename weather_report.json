@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-22T19:50:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 87.098056588182,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 240,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2026-03-23T00:30:00+00:00",
+            "temperature_f": 46.4,
+            "temperature_c": 8,
+            "humidity": 93.403401079213,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 350,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-03-22T16:00:00-04:00",
-                "endTime": "2026-03-22T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy, with a high near 46. Southwest wind around 10 mph, with gusts as high as 25 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-03-22T18:00:00-04:00",
                 "endTime": "2026-03-23T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,100/sleet,100?size=medium",
                 "shortForecast": "Light Rain",
                 "detailedForecast": "Rain and patchy fog before 4am, then a chance of sleet and rain and snow. Cloudy, with a low around 34. Northwest wind 7 to 13 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-03-23T06:00:00-04:00",
+                "endTime": "2026-03-23T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 37,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 91
+                },
+                "windSpeed": "13 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/sleet,90/snow,60?size=medium",
+                "shortForecast": "Chance Sleet then Snow Showers Likely",
+                "detailedForecast": "A chance of sleet and rain and snow before 11am, then snow showers likely. Cloudy, with a high near 37. North wind around 13 mph. Chance of precipitation is 90%. New snow accumulation of less than one inch possible."
             }
         ]
     },
-    "weather_report": "The afternoon unfolds in Boston, wrapped in a thick cloak of rain and patchy fog. The sky wears a heavy grayness, obscuring what little light bounces off the damp streets below, and the air carries a chill that feels almost tangible. With temperatures hovering at a brisk 46 degrees, a gentle southwest breeze whispers through the city, playful yet biting, as it dances with gusts that toss the branches of the trees. The windows gather beads of water, a quiet reminder of the relentless drizzle, which promises to escalate as the evening draws near.\n\nAs night falls, the rain will persist, accompanied by the possibility of sleet and snow\u2014a fitting backdrop for those cozying up indoors with a steaming cup of tea or a favorite novel. The air will cool further, settling around 34 degrees, nudging those with evening plans to bundle up in warm layers, perhaps wrapping themselves in a thick scarf and dependable waterproof coat. For those venturing out, the best endeavors will be simple: perhaps a casual stroll through a nearby gallery to admire local art or an intimate gathering with friends in a snug caf\u00e9, where conversation can flow as freely as the hot drinks being served. In this peculiar early spring mix, the true beauty lies in the moments of warmth shared with others and the comforting joys found beneath a canopy of gray.",
-    "color_code": "#A2C2E4",
-    "timestamp": "2026-03-22 16:09:37"
+    "weather_report": "As night envelops Boston, the air is thick with anticipation, the soft patter of rain mingling with the chill that creeps into the evening. Fog whispers through the streets, creating a dreamlike haze where familiar shapes become elusive shadows. The temperature hovers near 34 degrees, and the northwest wind carries an invigorating bite, urging us to seek warmth. There is an unmistakable promise of winter in the dampness tonight, with the forecast hinting at a messy mix of sleet and snow \u2014 a reminder that the season is not yet ready to release its grip. \n\nTomorrow brings further uncertainty, with lingering chances of sleet transforming into snow showers by midday. The high barely nudges above freezing, so one should certainly bundle up, donning layers of warmth to stave off the inevitable chill. Sturdy boots and a waterproof coat will serve well, as puddles form on the sidewalks, each reflecting the muted glow of streetlights. For those unable to resist the pull of the outdoors, perhaps a cozy caf\u00e9 could offer solace, complete with a steaming cup of something warm while rain lightly taps against the windowpanes. Or consider a leisurely stroll, embraced by the brisk air, where each step becomes a playful dance amidst the droplets and gently swirling flakes, allowing the world to feel both expansive and intimate in this weather-wrought embrace.",
+    "color_code": "#4B5E99",
+    "timestamp": "2026-03-22 20:46:29"
 }
