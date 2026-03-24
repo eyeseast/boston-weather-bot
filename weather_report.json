@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-03-24T08:05:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 74.458391582193,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 320,
-            "description": "Cloudy"
+            "timestamp": "2026-03-24T16:20:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 44.869465702799,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 10,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-03-24T04:00:00-04:00",
-                "endTime": "2026-03-24T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 30. Northwest wind around 6 mph. New snow accumulation of less than half an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-03-24T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-03-24T12:00:00-04:00",
                 "endTime": "2026-03-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 46,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 0
                 },
                 "windSpeed": "6 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 46. West wind around 6 mph. New snow accumulation of less than half an inch possible."
+                "detailedForecast": "Mostly sunny, with a high near 46. West wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-03-24T18:00:00-04:00",
+                "endTime": "2026-03-25T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 33. Southwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As Boston stirs from its winter slumber, the night brings a slight chill, the air thick with clouds that wrap the city in a cloak of mystery. Temperatures linger around the low thirties, and a whisper of wind dances through the surrounding streets, hinting at the possibility of delicate snowflakes adding to the quiet blanket of winter. As dawn approaches, expect the first rays of sunlight to break through these clouds, promising a respite from the gray that has held court for far too long.\n\nThroughout the day, the sun will play a teasing game of hide and seek, often re-emerging to cast a warm glow upon the cobblestones before retreating back into the embrace of the clouds. Highs will touch the mid-forties, a gentle invitation to step outside. Given the briskness lingering in the air, it would be wise to don a cozy jacket layered over a simple sweater, perhaps a scarf for good measure, as one strolls through the historic streets or enjoys a quiet moment at a local caf\u00e9. The light snowfall predicted remains subtle, almost capricious, ensuring that winter\u2019s grip is reluctant to let go completely. For the day, a stroll along the Esplanade or a stroll through the Arnold Arboretum could bring a touch of joy as one watches the world awaken in layers more vibrant than they have been of late.",
-    "color_code": "#A3B7D2",
-    "timestamp": "2026-03-24 04:22:44"
+    "weather_report": "In Boston, the afternoon unfurls under a canopy of gentle sunlight, casting a serene glow over the city. With the temperature hovering around a moderate 46 degrees, it invites those who venture outdoors to relish in the crispness of late March. A light breeze from the west subtly stirs the air, reminding us of winter's lingering presence, yet hints at the approaching warmth of spring. As clouds drift lazily overhead, their soft white forms contrast beautifully with the expansive blue, creating a dreamy vista. Tonight, the sky will embrace more clouds, wrapping the city in a cozy shroud as temperatures dip to a cool 33. The southwesterly winds will continue to dance through the evening air.\n\nFor those who choose to roam the streets this afternoon, a light jacket or a layered ensemble is advisable to balance comfort with style, perhaps complemented by a scarf to ward off the chill. Enjoy a leisurely stroll through one of Boston\u2019s parks or indulge in the joy of sipping coffee at a quaint caf\u00e9 while people-watching. As the day transitions into evening, the peaceful ambiance of the city calls for a quiet moment, perhaps inside a library or a local bookstore, where one can curl up with a good book and savor the dimming light. The evening, though brisk, offers the promise of a cozy refuge\u2014perfect for unwinding as day gives way to night.",
+    "color_code": "#A0C4F1",
+    "timestamp": "2026-03-24 12:29:33"
 }
