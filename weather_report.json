@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-02T20:05:00+00:00",
+            "timestamp": "2026-04-03T00:30:00+00:00",
             "temperature_f": 37.4,
             "temperature_c": 3,
             "humidity": 86.702946851968,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 50,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 90,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-04-02T16:00:00-04:00",
-                "endTime": "2026-04-02T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 19
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of rain showers. Mostly cloudy, with a high near 38. Northeast wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-04-02T18:00:00-04:00",
+                "startTime": "2026-04-02T19:00:00-04:00",
                 "endTime": "2026-04-03T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 36,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 27
                 },
-                "windSpeed": "3 to 9 mph",
+                "windSpeed": "3 to 8 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,30?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of rain showers before 4am, then a chance of rain showers and patchy fog. Cloudy, with a low around 36. East wind 3 to 9 mph. Chance of precipitation is 30%."
+                "detailedForecast": "Patchy fog and a slight chance of rain showers before 4am, then a chance of rain showers and patchy fog. Cloudy, with a low around 36. East wind 3 to 8 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-04-03T06:00:00-04:00",
+                "endTime": "2026-04-03T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 21
+                },
+                "windSpeed": "2 to 12 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Cloudy",
+                "detailedForecast": "Patchy fog and a slight chance of rain showers before noon. Mostly cloudy, with a high near 64. South wind 2 to 12 mph, with gusts as high as 22 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a soft veil of fog intertwines with the clouds, crafting an atmosphere that feels both muted and introspective. At this hour, the temperature hovers at a brisk 38, accompanied by a gentle northeast wind whispering through the streets. The chance of a light rain shower adds a glisten to the dim light, perhaps encouraging a cozy retreat into the warm embrace of home or a favorite caf\u00e9, where the aroma of freshly brewed coffee dances about. For those venturing outside, the suggestion to wear layers\u2014a warm coat with a light scarf\u2014remains wise, as even a short stroll may bring a chill.\n\nAs evening approaches, the fog thickens and the chances of showers rise slightly, painting the city in shades of grey. The low of 36 invites a contemplative ambiance, ideal for a quiet evening stroll under the muted streetlights or enjoying a book in the comfort of one's living room. Simple indoor activities can take center stage in this weather\u2014perhaps unwinding with a puzzle or revisiting a classic film can bring warmth to the cool day. This Thursday, as nature cloaks the city in its serene yet somber palette, it certainly calls for embracing moments of tranquility and connection, be it with oneself or others.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2026-04-02 16:15:38"
+    "weather_report": "As night unfolds over Boston, a veil of patchy fog drifts through the air, lending an ethereal hush to the world. The faint chill whispers of approaching rain, though the town seems to resist any urgent call of the storm, hovering instead in a state of gentle anticipation. The skies are cloaked in a mercurial blanket of clouds, promising a change in the morrow. The ambiance is serene yet slightly unsettled, the temperatures hovering in the cool embrace of a mid-30s night, as localized breezes contribute to a sense of briskness in the air. \n\nTomorrow beckons with a promise of relief; patches of fog may persist until noon, but the sun is expected to peek through, imparting warmth that will nudge the temperatures to the pleasant mid-60s. As you contemplate your activities, an afternoon stroll along the Charles may be just the remedy to shake off the remnants of spring's lingering chill. Dressed in layers, perhaps a light sweater over a casual shirt, you\u2019ll find balance between warmth and freedom as the day unfolds. And if the rain lingers, a cozy caf\u00e9 would make for a worthy refuge, where you might lose yourself in a book while savoring a warm drink, allowing the world outside to melt into the background.",
+    "color_code": "#4b4e5b",
+    "timestamp": "2026-04-02 20:47:37"
 }
