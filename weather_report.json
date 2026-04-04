@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-03T19:50:00+00:00",
-            "temperature_f": 69.8,
-            "temperature_c": 21,
-            "humidity": 56.411645702143,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 200,
+            "timestamp": "2026-04-04T00:20:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 76.840593259432,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 170,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-04-03T16:00:00-04:00",
-                "endTime": "2026-04-03T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 65. Southwest wind around 12 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-04-03T18:00:00-04:00",
+                "startTime": "2026-04-03T20:00:00-04:00",
                 "endTime": "2026-04-04T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "7 to 12 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog after 11pm. Mostly cloudy. Low around 48, with temperatures rising to around 55 overnight. West wind 7 to 12 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Patchy fog after 11pm. Mostly cloudy. Low around 48, with temperatures rising to around 55 overnight. West wind 7 to 10 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-04-04T06:00:00-04:00",
+                "endTime": "2026-04-04T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 59, with temperatures falling to around 45 in the afternoon. North wind 7 to 14 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston, the sky wears a soft veil of grayish clouds, casting a muted light over the city, akin to a gentle embrace. The air is alive with a mild breeze stirring from the southwest, carrying the promise of a comfortable day ahead with temperatures flirting around the mid-sixties. While the clouds may shield the sun at times, the overall atmosphere remains pleasant, urging one to venture outdoors, where the scent of spring lingers. As twilight approaches, expect the soft emergence of patchy fog after 11 PM, as the temperature tenderly dips to the low forties, eventually nudging towards the mid-fifties overnight. \n\nIn light of these conditions, dressing in layers will serve you well. A light jacket paired with a long-sleeved shirt could strike the perfect balance against the coolness of the evening. A stroll along the Esplanade or perhaps a quiet moment at one of the many parks would complement this tranquil setting. Consider diving into a book beneath the shady branches, or enjoying a warm beverage from a local caf\u00e9, as the gentle rhythms of the day fade into the calm of night.",
-    "color_code": "#A8B9C4",
-    "timestamp": "2026-04-03 16:14:15"
+    "weather_report": "As night unfolds over Boston, faint wisps of fog dance through the atmosphere, hinting at a delicate stillness. The air is cool, with temperatures hovering around a gentle 48 degrees, gradually rising to a balmy 55 as the night deepens. A west wind stirs softly, whispering through the trees while delivering playful gusts\u2014an orchestrated symphony of nature. The clouds linger, casting a velvety gray over the city, while the faint glow of city lights pierces the darkness, creating a tapestry of illumination that underscores the night\u2019s serenity.\n\nLooking ahead to Saturday, the sun is poised to break free, promising a day of bright clarity. Expect the temperature to reach a mild 59 before dipping into the crispness of the afternoon. A north wind will sweep through, invigorating the atmosphere and inviting a brisk, refreshing feel. As you step outside, layering your attire will be prudent; a light sweater or jacket, perhaps accompanied by a sturdy pair of shoes, will provide comfort against the cool breeze. With daybreak beckoning with promises of blue skies, consider a leisurely stroll along the Charles, or perhaps a visit to one of Boston's charming cafes, where the aroma of fresh coffee mingles with the morning air\u2014perfect for a quiet moment of reflection before the day unfolds.",
+    "color_code": "#4B9CD3",
+    "timestamp": "2026-04-03 20:44:00"
 }
