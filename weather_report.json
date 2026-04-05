@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-05T04:30:00+00:00",
+            "timestamp": "2026-04-05T07:50:00+00:00",
             "temperature_f": 39.2,
             "temperature_c": 4,
-            "humidity": 86.803362953546,
+            "humidity": 93.195121939331,
             "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 80,
-            "description": "Cloudy"
+            "wind_direction": 120,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-04-05T00:00:00-04:00",
+                "startTime": "2026-04-05T04:00:00-04:00",
                 "endTime": "2026-04-05T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 25
+                    "value": 40
                 },
-                "windSpeed": "6 to 9 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 3am and 4am, then a chance of rain showers and patchy fog between 4am and 5am, then patchy fog and a slight chance of rain showers. Cloudy, with a low around 37. Southeast wind 6 to 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers before 5am, then a chance of rain showers and patchy fog. Cloudy, with a low around 37. Southeast wind around 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-04-05T06:00:00-04:00",
                 "endTime": "2026-04-05T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 57,
+                "temperature": 61,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 92
+                    "value": 93
                 },
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "6 to 13 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra,90?size=medium",
-                "shortForecast": "Patchy Fog then Showers And Thunderstorms",
-                "detailedForecast": "Patchy fog before 9am, then patchy fog and a slight chance of rain showers between 9am and 1pm, then showers and thunderstorms. Cloudy, with a high near 57. South wind 6 to 12 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/tsra,90?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "A chance of rain showers and patchy fog before 7am, then patchy fog and a slight chance of rain showers between 7am and 10am, then a chance of rain showers and patchy fog between 10am and noon, then showers and thunderstorms. Cloudy, with a high near 61. South wind 6 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As the clock ticks toward the dawn in Boston, a veil of patchy fog cloaks the city, pooling in low-lying areas and weaving through the streets, blurring the outlines of familiar landmarks. The air carries a crisp chill, hinting at the transition from the cold embrace of the night to the muted light of day. As the morning advances, the fog may lift slightly, but it will likely linger, casting an ethereal quality that softens the edges of reality. Today, as clouds gather, a symphony of showers and perhaps a rumble of thunder may punctuate the afternoon, creating an ambience that demands attention.\n\nDressing for today\u2019s whimsy requires layers\u2014a warm sweater beneath a light jacket will serve well against the cool breeze from the south. Breathable footwear would ease your stroll through the city, especially if you find yourself wandering under a drizzly sky. Those who seek comfort in activity might consider a visit to a cozy caf\u00e9, where you can savor a warm drink while watching the lively ballet of raindrops on the window, or perhaps explore the local bookstore, entranced by the whispers of stories waiting to be discovered. Today is one of those days that draws you in, encouraging moments of quiet reflection and simple pleasures amidst the rhythmic patter of rain.",
-    "color_code": "#8B9DC5",
-    "timestamp": "2026-04-05 00:56:02"
+    "weather_report": "As dawn breaks over Boston, an air of quiet anticipation hangs like a delicate veil over the city. The chill of early morning lingers, with temperatures hovering around the low end of comfort. A chance of rain showers and the promise of patchy fog create a backdrop of muted colors, hinting at the coziness of a warm beverage. The winds rustle softly, whispering stories of the day ahead, as the atmosphere teeters between restful and restless.\n\nAs the morning unfolds, the chances of light rain and fog will give way to a more tumultuous midday, where the clouds will gather strength, and showers and thunderstorms may roll in. With a high near sixty-one, one might find relief in the warmth, yet it would be wise to dress in layers, perhaps donning a light waterproof jacket over a comfortable, breathable fabric. This unpredictable weather invites a leisurely stroll through the city\u2019s quiet parks, a moment of respite in nature\u2019s embrace. Alternatively, one could seek solace in a local caf\u00e9, savoring the sound of raindrops against the window while indulging in the sweetness of a baked treat, as the world outside shifts and sways with the rhythm of the elements.",
+    "color_code": "#6B8E23",
+    "timestamp": "2026-04-05 04:18:22"
 }
