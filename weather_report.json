@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-04T19:50:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 65.625930527634,
-            "wind_speed_mph": 49.688244000000005,
+            "timestamp": "2026-04-05T00:30:00+00:00",
+            "temperature_f": 37.4,
+            "temperature_c": 3,
+            "humidity": 80.661880682868,
+            "wind_speed_mph": 41.39344800000001,
             "wind_direction": 80,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-04-04T16:00:00-04:00",
-                "endTime": "2026-04-04T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy. High near 57, with temperatures falling to around 40 in the afternoon. East wind around 15 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-04-04T18:00:00-04:00",
+                "startTime": "2026-04-04T20:00:00-04:00",
                 "endTime": "2026-04-05T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 25
                 },
-                "windSpeed": "6 to 14 mph",
+                "windSpeed": "6 to 12 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/rain/rain_showers,30?size=medium",
-                "shortForecast": "Patchy Drizzle then Scattered Rain Showers",
-                "detailedForecast": "Patchy drizzle between 9pm and 3am, then scattered rain showers. Cloudy, with a low around 37. East wind 6 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,30?size=medium",
+                "shortForecast": "Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers between 3am and 4am, then a chance of rain showers and patchy fog between 4am and 5am, then patchy fog and a slight chance of rain showers. Cloudy, with a low around 37. East wind 6 to 12 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-04-05T06:00:00-04:00",
+                "endTime": "2026-04-05T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 92
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra,90?size=medium",
+                "shortForecast": "Patchy Fog then Showers And Thunderstorms",
+                "detailedForecast": "Patchy fog before 9am, then patchy fog and a slight chance of rain showers between 9am and 1pm, then showers and thunderstorms. Cloudy, with a high near 57. South wind 6 to 12 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston today, the atmosphere is draped in a thick curtain of cloud, casting a muted light over the city as the day edges toward evening. With temperatures beginning to dwindle around the fifty-seven mark, a cooler breath draws in from the east, where gusts stir the leaves and whisper of rain to come. As the sun retreats, a veil of drizzles will unfurl between nine and three, heralding scattered showers that will brush the cobblestones and glisten on the asphalt. The chill of the evening feels like a press of grey, hinting at the low to come.\n\nAs you navigate this cool, damp day, consider donning a sturdy jacket to shield against the bite of wind, complemented by a scarf that wraps you in warmth. Waterproof footwear might be a wise choice as unremarkable rain arrives\u2014a condition perfect for wandering under the eaves of cozy coffee shops where the aroma of fresh brews fills the air. The kind of day inviting you to sip slowly, reflecting on the quiet promise of spring just waiting to bloom.",
-    "color_code": "#a5a6a7",
-    "timestamp": "2026-04-04 16:11:57"
+    "weather_report": "As dusk descends upon Boston, a gentle persistency cloaks the evening, with hints of fog weaving its way through the city streets. The atmosphere is tinged with a chill, grounding the night in an embrace of the not-so-distant winter's coolness. As the clock ticks closer to 9 PM, temperatures hover around a modest 37 degrees, urging residents to layer up against the evening's crisp air. The wind whispers softly, a subtle eastward breeze that stirs memories of spring's arrival yet feels more like a lullaby of late winter's embrace.\n\nLooking ahead, the morrow promises a morning shrouded in patchy fog that may slow the pace of the day. With the sun slowly pushing through, the air will warm to a more inviting 57 degrees by midday, albeit with rain showers lurking on the horizon and possibly the rumble of distant thunder. As the clouds gather, the chance of precipitation looms large by afternoon, suggesting a day earmarked for introspection or indoor pursuits. Wrap yourself in a comfortable coat, perhaps don a light scarf; it\u2019s wise to keep an umbrella handy as the forecast calls for showers, lending a perfect excuse to seek refuge in your favorite caf\u00e9 or dive into a captivating book.\n\nWith the landscape cloaked in fog, the charm of Boston's vibrant life stirs quietly, inviting a stroll down familiar streets or perhaps a visit to a local gallery to appreciate art while the world outside drizzles. Creative pursuits within the warm confines of home may flourish as the weather encourages reflection, offering the ideal setting to sip a warm beverage and listen to the soft patter of rain.",
+    "color_code": "#2D2D2D",
+    "timestamp": "2026-04-04 20:50:57"
 }
