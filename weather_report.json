@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-08T08:15:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 54.610161358391,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 330,
+            "timestamp": "2026-04-08T12:10:00+00:00",
+            "temperature_f": 32.0,
+            "temperature_c": 0,
+            "humidity": 43.364717012801,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 350,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-04-08T04:00:00-04:00",
-                "endTime": "2026-04-08T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 26,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 26. Northwest wind around 12 mph, with gusts as high as 24 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-04-08T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-04-08T08:00:00-04:00",
                 "endTime": "2026-04-08T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 45,
@@ -49,14 +30,33 @@
                     "value": 0
                 },
                 "windSpeed": "8 to 12 mph",
-                "windDirection": "NE",
+                "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 45. Northeast wind 8 to 12 mph, with gusts as high as 23 mph."
+                "detailedForecast": "Sunny, with a high near 45. East wind 8 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-04-08T18:00:00-04:00",
+                "endTime": "2026-04-09T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 28,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 28. South wind 5 to 8 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of night, Boston rests beneath a celestial blanket that promises a crisp morning to come. While the temperature teeters near 26 degrees, a gentle northwest wind whispers through the streets, lending a sense of sharp yet invigorating coldness. As dawn approaches, the anticipation of a sun-kissed day emerges. \n\nTomorrow brings a lovely shift, the sun will rise magnificent and bright, casting its warm embrace over the city. Expect clear skies, as visibility will be unimpeded, providing a splendid backdrop for the hustle and bustle that characterizes a Wednesday in this historic hub. The temperature will flirt with a high around 45, nudged along by a light northeast breeze. The day offers myriad opportunities for quiet enjoyment: a stroll along the Charles River, perhaps, or a visit to a local caf\u00e9 to sip on something warm while observing the kaleidoscope of life unfolding outside. Dressing in layers will serve you well, with a comfortable sweater underneath a sturdy jacket, allowing flexibility as the warmth of the sun seeks to break through the chill. This day beckons softly, inviting you to delve into the simple pleasures that await, all while the city hums with the promise of new adventures.",
-    "color_code": "#A5C6D3",
-    "timestamp": "2026-04-08 04:33:55"
+    "weather_report": "In Boston this morning, the sun casts a brilliant array of light across the landscape, affirming its promise of a delightful day. With no hint of fog or haze to obscure the view, the clarity in the air paints everything in striking detail, inviting residents to step outside and savor the fresh atmosphere. The briskness of early spring is felt with a gentle east wind, nipping at the edges while promising warmth as the day unfolds. \n\nAs temperatures reach a mild 45 degrees, the air remains crisp but not unkind, making a light jacket or a cozy sweater the perfect companion for any venture. As shadows lengthen into the afternoon, the weather fosters an ideal setting for a stroll along the Charles River or a leisurely coffee break in a cozy caf\u00e9, where one can indulge in a moment of respite as the world passes by outside. This day beckons to be enjoyed, filled with simple pleasures, from a quiet read on a bench to a thoughtful walk in nearby parks, all under the watchful presence of a clear blue sky.",
+    "color_code": "#A8C8E0",
+    "timestamp": "2026-04-08 08:29:12"
 }
