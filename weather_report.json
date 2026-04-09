@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-09T04:35:00+00:00",
-            "temperature_f": 28.4,
-            "temperature_c": -2,
-            "humidity": 79.933943298105,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 170,
+            "timestamp": "2026-04-09T16:25:00+00:00",
+            "temperature_f": 53.6,
+            "temperature_c": 12,
+            "humidity": 22.156252735709,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-04-09T00:00:00-04:00",
-                "endTime": "2026-04-09T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 26,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 26. South wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-04-09T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-04-09T12:00:00-04:00",
                 "endTime": "2026-04-09T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 to 15 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 56. South wind 5 to 15 mph."
+                "detailedForecast": "Sunny, with a high near 56. South wind 10 to 15 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-04-09T18:00:00-04:00",
+                "endTime": "2026-04-10T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "8 to 15 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 36. South wind 8 to 15 mph."
             }
         ]
     },
-    "weather_report": "In the quiet embrace of the early morning hours, Boston rests under a clear blanket of tranquility, the air crisp and filled with the promise of a new day. With temperatures dipping to a chill of 26 degrees, the city reveals itself slowly; the subtle south wind whispers through the streets, each breath of air a reminder of winter's lingering touch. As dawn approaches, anticipation builds for a day that holds the warmth of sunshine, with a high hovering around a comfortable 56 degrees. \n\nToday invites the heart outdoors, encouraging one to shed the confines of the indoor routine. Layering up is a sensible choice; a light jacket combined with a cozy scarf will ward off the morning chill while still allowing for ease as the sun ascends and brings with it a touch of warmth. A stroll along the esplanade, perhaps, or a visit to one of the local markets may provide a delightful way to embrace the day. For those more contemplative, a quiet moment with a good book at an outdoor caf\u00e9 could encapsulate the serenity of this spring awakening. As the city stirs, the beauty of Boston unfolds, promising a cheerful and invigorating day ahead.",
-    "color_code": "#Cce1f4",
-    "timestamp": "2026-04-09 00:53:47"
+    "weather_report": "This afternoon in Boston unfolds under a brilliant blue blanket, inviting residents to bask in the sun's gentle embrace. With temperatures hovering near a mild 56 degrees and a south wind rustling the leaves at a soft 10 to 15 mph, it\u2019s the kind of day that nudges you outdoors. The clarity of the skies is nothing short of exhilarating, promising a respite from the confining indoors. As evening approaches, the backdrop remains a tranquil canvas, transitioning to a cooling tranquility with low temperatures settling around 36 degrees, yet still holding on to that clear charm.\n\nAs you contemplate the afternoon, consider a light layering that allows for comfort against the soft wind\u2014perhaps a light sweater over a simple shirt, complemented by jeans or chinos for that blend of style and ease. The spirit of the day beckons you to wander, perhaps to linger on the waterfront or lose yourself in a quiet corner of a park, where the sun dapples through budding trees, and the world feels poised on the brink of spring. Whether you find yourself in quiet reflection or enjoying the simple pleasure of a stroll, today is gently urging you to step outside and reconnect with the stirring rhythm of life.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-04-09 12:37:06"
 }
