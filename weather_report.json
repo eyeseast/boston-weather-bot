@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-11T04:30:00+00:00",
-            "temperature_f": 51.8,
-            "temperature_c": 11,
-            "humidity": 40.276238532121,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 210,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-04-11T12:00:00+00:00",
+            "temperature_f": 53.6,
+            "temperature_c": 12,
+            "humidity": 62.250959103783,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-04-11T00:00:00-04:00",
-                "endTime": "2026-04-11T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 33
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers before 4am. Mostly cloudy, with a low around 48. Southwest wind around 14 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-04-11T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-04-11T08:00:00-04:00",
                 "endTime": "2026-04-11T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 0
                 },
-                "windSpeed": "14 to 17 mph",
+                "windSpeed": "17 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 59. Northwest wind 14 to 17 mph, with gusts as high as 31 mph."
+                "detailedForecast": "Sunny, with a high near 59. Northwest wind around 17 mph, with gusts as high as 30 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-04-11T18:00:00-04:00",
+                "endTime": "2026-04-12T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 33,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 33. Northwest wind 6 to 14 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the night deepens over Boston, a gentle quiet embraces the city, punctuated only by the soft patter of scattered rain showers that linger until the early hours. The clouds veil the sky, wrapping the landscape in an understated serenity, while the westward breeze, brisk and cool at fourteen miles per hour, dances through the stillness, heralding a change to come. The temperature dips to a cozy 48 degrees, inviting wearers of light jackets and sweaters to venture into the lingering dampness.\n\nCome Saturday, the clouds will part, revealing a bright and sunlit day, the warmth of the sun contrasting with the chilly northwest winds that will sweep through at a notable pace. With the temperature reaching a pleasant 59 degrees, it will be a day to embrace the awakening of spring, ideal for a leisurely walk along the Esplanade or a casual visit to a local caf\u00e9. As you step out, perhaps layer a light sweater beneath a jacket, prepared for the wind gusts that will remind you of winter\u2019s retreat. In these moments, the city reveals its charm, calling for simple pleasures that enrich the spirit, as life in Boston flows gracefully into a refreshing spring day.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-04-11 00:44:30"
+    "weather_report": "Boston awakens to a crisp and invigorating morning, where the sun stretches lazily across the sky, illuminating the city with a bright yet gentle light. The air, sweet with the promise of spring, sits comfortably around 59 degrees, accompanied by a robust northwest wind that dances through the streets, occasionally gusting with playful vigor. Clouds drift languidly, hinting at the grandeur of a clear day, as the landscape below seems to breathe with renewed life. As night approaches, the temperature will dip to a chilling 33 degrees, and the winds will soften to a whisper, a stark contrast to the daytime's spirited currents.\n\nWith such inviting conditions, attire should blend practicality with the spirit of the season; a light jacket layered over a cozy sweater will suffice for those venturing outdoors. This day beckons one to stroll along the Charles River, perhaps savoring a quiet moment near the water's edge, or to explore the city's myriad of quaint coffee shops, where a warm beverage awaits to cradle cold hands. As evening draws nearer, consider finding a snug nook to watch the sky transition to twilight, a reminder of the beauty found in these fleeting moments. For those inspired by nature, a gentle hike would be rejuvenating, wrapping you in the calm that whispers of peaceful days ahead.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2026-04-11 08:19:08"
 }
