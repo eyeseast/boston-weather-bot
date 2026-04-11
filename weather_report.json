@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-10T16:15:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 36.48122227917,
-            "wind_speed_mph": 45.581112000000005,
+            "timestamp": "2026-04-11T00:30:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 53.831404997309,
+            "wind_speed_mph": 33.17918400000001,
             "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-04-10T12:00:00-04:00",
-                "endTime": "2026-04-10T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 to 17 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 67. Southwest wind 12 to 17 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-04-10T18:00:00-04:00",
+                "startTime": "2026-04-10T20:00:00-04:00",
                 "endTime": "2026-04-11T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 47,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 25
+                    "value": 28
                 },
-                "windSpeed": "14 to 18 mph",
+                "windSpeed": "10 to 15 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers between 1am and 5am. Mostly cloudy, with a low around 47. Southwest wind 14 to 18 mph. Chance of precipitation is 30%."
+                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers between 1am and 5am. Mostly cloudy, with a low around 47. Southwest wind 10 to 15 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-04-11T06:00:00-04:00",
+                "endTime": "2026-04-11T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "12 to 16 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 59. Northwest wind 12 to 16 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, the sun reigns supreme, casting a warm glow that beckons you to step outside. The brisk southwest wind, with its playful gusts, dances through the streets, carrying the scent of spring and a promise of delightful warmth\u2014just close enough to remind you that a light jacket will suffice as you venture out. The afternoon unfolds with clear skies, inviting those who seek the incomparable pleasure of an unencumbered stroll through the city\u2019s parks or along the resplendent waterfront. As day gives way to night, a modest sprinkle may linger about, the sort that nudges you to draw your umbrella from its dormant state\u2014albeit with only a thirty percent chance of needing it.\n\nAs the evening descends, a blanket of clouds will cradle the city, cloaking it in a meditative stillness. With temperatures settling down, comfort becomes paramount. Consider slipping into layers that excite the senses while providing shelter from both the cool air and the possibility of light rain. It\u2019s a day that feels like a gentle nudge towards spontaneity, inviting you to seek out a cozy caf\u00e9 or a hidden bookshop where the world slows down, granting you time to reflect or perhaps to converse with an old friend. Embrace this blend of sun and cloud, allowing it to guide your path in this vibrant, ever-pulsating city.",
-    "color_code": "#A2C2E9",
-    "timestamp": "2026-04-10 12:25:07"
+    "weather_report": "As night deepens over Boston, the air carries a cool whisper, with a gentle breeze meandering through the streets. A chance of rain lingers in the early hours, teasing a light shower between one and five in the morning. The clouds stretch lazily across the sky, hinting at a soft, muted ambiance. The current temperature hovers around the chill of 47 degrees, inviting warmth in the form of a well-loved jacket or a cozy sweater, to ward off the evening chill. \n\nTomorrow promises clarity and sunlight as the sun rises to unveil a day of cheerful brightness. With a high near 59, the landscape will awaken under the watchful eye of a brilliant blue sky, unmarred by the clouds that so often temper the city\u2019s vibrancy. Winds from the northwest will dance through the streets, encouraging long walks along the river or quiet moments in local parks. An afternoon spent wandering the streets or sipping coffee outdoors would be met with a comfortable embrace, making the day perfect for friends and laughter, punctuated by the sweet sounds of spring.",
+    "color_code": "#475C78",
+    "timestamp": "2026-04-10 20:47:03"
 }
