@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-12T08:05:00+00:00",
-            "temperature_f": 33.8,
-            "temperature_c": 1,
-            "humidity": 64.247160621569,
+            "timestamp": "2026-04-12T12:05:00+00:00",
+            "temperature_f": 42.8,
+            "temperature_c": 6,
+            "humidity": 45.165282960847,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-04-12T04:00:00-04:00",
-                "endTime": "2026-04-12T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 34,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 34. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-04-12T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-04-12T08:00:00-04:00",
                 "endTime": "2026-04-12T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 55,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 55. Northeast wind 5 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-04-12T18:00:00-04:00",
+                "endTime": "2026-04-13T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 38
+                },
+                "windSpeed": "9 to 18 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,40?size=medium",
+                "shortForecast": "Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers after 7pm. Cloudy, with a low around 43. South wind 9 to 18 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn unfurls over Boston, the city is enveloped in a tranquil stillness, the sky adorned with a tapestry of stars before yielding to the soft light of day. The temperature gently leans towards the cool grasp of 34 degrees, complemented by a whispering northwest wind that adds a crisp touch to the morning air. The promise of a bright Sunday lies ahead, with the sun preparing to paint the horizon in hues of gold and soft pastel, ushering in a day that will warm to a hopeful 55 degrees. \n\nClarity prevails, with no fog obscuring the view, allowing for a serene appreciation of the landscape. As the day unfolds, those venturing out might consider light layers, perhaps a soft sweater accompanied by a light jacket for the morning chill, before shedding the outer layer as the sun climbs higher. With the pleasant weather inviting outdoor exploration, a leisurely stroll along the Charles River or a quiet visit to one of Boston's historic caf\u00e9s would be most suitable today. Such moments can weave the ordinary into the extraordinary, filling the soul with an appreciation for the simple joys of life as the city awakens.",
-    "color_code": "#A0C1D1",
-    "timestamp": "2026-04-12 04:23:30"
+    "weather_report": "As daylight unfolds over Boston, the air holds a gentle promise of warmth beneath a clean, mostly sunny sky. It is a serene morning, where the soft embrace of a northeast breeze stirs the city just enough to break the morning's stillness. With temperatures flirting with mildness, one can anticipate a high around 55 degrees, making it a delightful time to step outside. Today invites leisurely strolls through the neighborhood, perhaps a visit to a local caf\u00e9, or exploring the green spaces that grace this vibrant urban landscape.\n\nAs twilight approaches, however, a shift will begin. Clouds will gather, accompanied by scattered rain showers after dinner. This evening\u2019s low will lower to a crisp 43 degrees, a reminder to don a light jacket before venturing out to catch the first hints of spring. While the day's brightness and warmth might lull you into an outdoor adventure, be prepared for the evening's chill and the moist touch of impending rain\u2014a time best spent indulging in quiet reflections indoors or sharing stories with friends around a cozy table. Embrace the day\u2019s charm while it lasts, for tonight promises a transformative shift, heralding spring's ever-changing moods.",
+    "color_code": "#A9C3D0",
+    "timestamp": "2026-04-12 08:21:06"
 }
