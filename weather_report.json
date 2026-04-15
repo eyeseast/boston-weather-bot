@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-15T08:27:00+00:00",
-            "temperature_f": 53.96,
-            "temperature_c": 12.2,
+            "timestamp": "2026-04-15T12:20:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
             "humidity": 100,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 140,
-            "description": "Fog"
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-04-15T04:00:00-04:00",
-                "endTime": "2026-04-15T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 59. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-04-15T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-04-15T08:00:00-04:00",
                 "endTime": "2026-04-15T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 72,
@@ -49,14 +30,33 @@
                     "value": 29
                 },
                 "windSpeed": "3 to 9 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/fog/rain_showers,30?size=medium",
-                "shortForecast": "Patchy Fog then Chance Rain Showers",
-                "detailedForecast": "Patchy fog before 7am, then a chance of rain showers. Mostly sunny, with a high near 72. North wind 3 to 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,30?size=medium",
+                "shortForecast": "Partly Sunny then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 4pm. Partly sunny, with a high near 72. Northeast wind 3 to 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-04-15T18:00:00-04:00",
+                "endTime": "2026-04-16T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 51
+                },
+                "windSpeed": "1 to 6 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,50?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of rain showers before 8pm, then a chance of showers and thunderstorms between 8pm and 11pm, then patchy fog and a chance of showers and thunderstorms. Cloudy, with a low around 52. East wind 1 to 6 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn unfurls its gentle light over Boston this morning, anticipation hangs softly in the air, reminiscent of a whispered conversation before the day's adventures begin. The overnight hours embraced a peaceful calm, with cool temperatures settling comfortably around 59 degrees. A westward breeze meanders quietly, suggesting that the day will soon reveal its true nature.\n\nAs the morning meanders on, patchy fog shrouds some corners, hinting at a fleeting embrace with the early light. This mist will soon relinquish its hold to the sun, as the promise of a mostly sunny day reveals itself. With temperatures forecasted to climb to a mild 72 degrees, the city's vibrant energy is bound to awaken. A gentle breeze from the north invites you to dress in layers; a light cardigan or a soft shawl might provide comfort as you navigate the changing conditions. \n\nToday beckons for a leisurely stroll through the countless winding streets or a quiet moment with a book at a cafe, allowing you to soak in the tranquil beauty of Boston. Perhaps a visit to one of the nearby parks for an impromptu picnic would be fitting, where the laughter of children and the rustle of leaves create a backdrop as delightful as any masterpiece. Whatever you choose, today promises a gentle embrace of warmth and clarity, a reminder that spring has indeed arrived, and the world is blooming with possibilities.",
-    "color_code": "#A7C9E0",
-    "timestamp": "2026-04-15 04:42:26"
+    "weather_report": "Boston wakes this morning under a gentle embrace of partly sunny skies, a canvas painted in fleeting shades of blue and white. As the sun introduces its warmth, high temperatures are expected to hover close to the comfortable 72 degrees, accompanied by a light northeast breeze, whispering at 3 to 9 miles per hour. That refreshing air carries the scent of possibility, though it holds a hint of rain that may grace us later in the day. The skies may darken as afternoon warms into evening, with a chance of showers arriving alongside the comforting scent of damp earth. \n\nAs twilight approaches, anticipate a softening of the light, the clouds thickening into a blanket overhead. By nightfall, we may find ourselves in the gentle embrace of patchy fog, a reminder of the rain's earlier flirtations. Dressing for today calls for layers; a light cardigan or jacket could ward off the evening's chill, as temperatures dip into the low 50s. It's a day that beckons you to savor the moments; perhaps take a stroll along the Charles River, indulge in a quiet coffee at an inviting caf\u00e9, or even find a spot to read, surrounded by the burgeoning life of springtime.",
+    "color_code": "#A3C1C4",
+    "timestamp": "2026-04-15 08:32:39"
 }
