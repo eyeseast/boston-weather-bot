@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-17T08:20:00+00:00",
-            "temperature_f": 51.8,
-            "temperature_c": 11,
-            "humidity": 87.476252351683,
+            "timestamp": "2026-04-17T12:15:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 93.65072411462,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Mostly Clear"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-04-17T04:00:00-04:00",
-                "endTime": "2026-04-17T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 8
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Mostly cloudy. Low around 47, with temperatures rising to around 55 overnight. Southwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-04-17T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-04-17T08:00:00-04:00",
                 "endTime": "2026-04-17T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 63,
@@ -52,11 +33,30 @@
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
                 "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain and patchy fog before noon, then a chance of rain and patchy fog between noon and 4pm, then patchy fog and a slight chance of rain. Mostly cloudy. High near 63, with temperatures falling to around 54 in the afternoon. Northeast wind 1 to 9 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "A chance of rain before 9am, then patchy fog between 11am and noon, then a chance of rain and patchy fog between noon and 4pm, then patchy fog and a slight chance of rain. Mostly cloudy. High near 63, with temperatures falling to around 54 in the afternoon. Northeast wind 1 to 9 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-04-17T18:00:00-04:00",
+                "endTime": "2026-04-18T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog. Partly cloudy, with a low around 48. Northeast wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a shroud of patchy fog wraps the city, hinting at the moist embrace of the overnight air. The clouds, heavy and grey, cast a soft diffused light, as the temperature begins to creep upward, inviting the day to unfold. It\u2019s one of those mornings where the world feels tranquil yet cloaked in mystery, perfect for a contemplative stroll through the streets, where the dew clings to blades of grass and the asphalt sparkles with droplets. \n\nAs the day progresses, expect to see the fog persist, creating an enchanting backdrop for the low-hanging clouds. There's a gentle chance of rain that may accompany the fog, swirling together like an artist's palette, but with a high near 63, a sense of mildness prevails. You might want to layer your clothing; a light jacket or a cozy sweater will serve you well as temperatures begin to drop in the afternoon. Perhaps sip on a warm cup of coffee while wandering among the quaint shops or find solace in a local bakery, where the aroma of freshly baked bread invites you in. Today\u2019s weather calls for soft shadows and subdued colors, perfect for enjoying life at a slower pace\u2014follow your instincts and let the day inspire a leisurely exploration of the hidden nooks and crannies of this historic city.",
-    "color_code": "#8C9DAB",
-    "timestamp": "2026-04-17 04:42:41"
+    "weather_report": "As dawn breaks over Boston, a serene veil of clouds envelops the skyline, casting a soft gray hue upon the waking city. There is a delicate dance between elements; patches of fog linger, while a subtle chance of rain whispers promises of dampness before morning passes into afternoon. With temperatures dipping into the cooler side of 60, a brisk breeze from the northeast stirs, gentle yet insistent, urging a sense of both coziness and alertness from those venturing outdoors. \n\nFor today's exploration, dressing in layers would be prudent; a light jacket coupled with a scarf might shield against the coolness of the breeze and the occasional mist that may brush against your skin. A leisurely walk along the Charles River could reveal the city\u2019s ever-changing character, reflecting in the water as the day unfolds. Perhaps a quiet caf\u00e9 beckons, allowing for a moment of reflection while you sip a warm beverage, savoring the atmosphere enveloped in the soft embrace of fog. As evening descends, expect the chill to deepen, with wispy fog clinging to street corners, urging one to retreat to the warmth of home or to gather with friends and share stories under the luminous glow of softened lights.",
+    "color_code": "#A9B3C2",
+    "timestamp": "2026-04-17 08:31:03"
 }
