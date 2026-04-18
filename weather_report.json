@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-18T08:05:00+00:00",
-            "temperature_f": 39.2,
-            "temperature_c": 4,
+            "timestamp": "2026-04-18T12:10:00+00:00",
+            "temperature_f": 48.2,
+            "temperature_c": 9,
             "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "wind_speed_mph": 41.39344800000001,
+            "wind_direction": 60,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-04-18T04:00:00-04:00",
-                "endTime": "2026-04-18T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Areas Of Fog",
-                "detailedForecast": "Areas of fog. Mostly cloudy, with a low around 47. Northeast wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-04-18T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-04-18T08:00:00-04:00",
                 "endTime": "2026-04-18T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 50,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 3
                 },
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/fog/ovc?size=medium",
                 "shortForecast": "Areas Of Fog then Cloudy",
-                "detailedForecast": "Areas of fog before noon. Cloudy, with a high near 50. Northeast wind 5 to 9 mph."
+                "detailedForecast": "Areas of fog before noon. Cloudy, with a high near 50. Northeast wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-04-18T18:00:00-04:00",
+                "endTime": "2026-04-19T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 45,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 13
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Areas of fog after 7pm. Cloudy, with a low around 45. Southeast wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks softly over Boston, the air is thick with a blanket of fog that shrouds the city in a quiet mystery. The clouds hang low, whispering the promise of a cool day ahead with temperatures lingering around the low fifties. A gentle northeast wind stirs the morning air, urging you to pull your coat a little tighter against your frame as you step outside. The world is a muted palette of greys, with the outlines of buildings barely discernible in the dim light, creating a calm yet somewhat somber atmosphere.\n\nFor those who venture out, consider layers to fend off the chill\u2014perhaps a light sweater under a heavier jacket, paired with a scarf to ward against the damp air. It\u2019s a day suited for reflection over a warm cup of coffee at a cozy caf\u00e9, or a stroll along the river to witness the waking city, its rhythms emerging from the fog. The ethereal quality of the surroundings invites a slower pace, making it an ideal time to contemplate or engage in quiet conversation. As the day progresses, the fog is expected to linger, wrapping the city in its embrace, thus encouraging a sense of intimacy with your surroundings as you navigate through the hazy veil of the morning.",
-    "color_code": "#AAB8C2",
-    "timestamp": "2026-04-18 04:20:40"
+    "weather_report": "As dawn breaks over Boston, a thick shroud of fog clings to the city, mesmerizing in its embrace, blurring the boundaries between the familiar streets and the vast expanse of the sky. The air carries a damp chill, yet whispers of warmth linger, hinting at a high that might brush against fifty degrees later in the day. Northeast winds, gentle yet insistent, rustle through the fog but fail to dispel its presence. Today is an invitation to experience the cloistered intimacy of the city\u2014an almost ethereal cultivation of quietude punctuated only by the soft sounds of life stirring beneath the blanket of clouds.\n\nAs evening approaches, expect the fog to deepen, wrapping the skyline in a velvety haze. With temperatures dipping into the mid-forties, comfortable layers will serve you well\u2014consider a cozy sweater paired with a light jacket and perhaps a scarf to fend off the dampness. This drizzly day brings a tranquility that is perfect for contemplative walks along the Esplanade, where the mist transforms the landscape into a painterly canvas, inviting introspection. Alternatively, seek refuge in one of Boston's inviting caf\u00e9s, where the aroma of freshly brewed coffee mingles with the gentle murmur of conversations. Today is not about bold ambitions but rather savoring the serene moments that linger in the damp air and the gentle hush of an emerging spring.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2026-04-18 08:20:35"
 }
