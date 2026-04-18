@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-17T20:00:00+00:00",
-            "temperature_f": 55.4,
-            "temperature_c": 13,
-            "humidity": 82.008317294977,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 40,
-            "description": "Cloudy"
+            "timestamp": "2026-04-18T00:30:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 93.504015298216,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-04-17T16:00:00-04:00",
-                "endTime": "2026-04-17T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of showers and thunderstorms before 5pm. Partly sunny. High near 63, with temperatures falling to around 54 in the afternoon. Northeast wind around 9 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-04-17T18:00:00-04:00",
+                "startTime": "2026-04-17T20:00:00-04:00",
                 "endTime": "2026-04-18T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 47,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "2 to 6 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of showers and thunderstorms. Partly cloudy, with a low around 47. Northeast wind 2 to 6 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
+                "shortForecast": "Mostly Cloudy then Areas Of Fog",
+                "detailedForecast": "Areas of fog after 2am. Mostly cloudy, with a low around 47. Northeast wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-04-18T06:00:00-04:00",
+                "endTime": "2026-04-18T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 50,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 7
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/fog/ovc?size=medium",
+                "shortForecast": "Areas Of Fog then Cloudy",
+                "detailedForecast": "Areas of fog before 11am. Cloudy, with a high near 50. Northeast wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "A gentle veil of patchy fog lingers over Boston this afternoon, providing a soft, muted backdrop to the city\u2019s iconic skyline. The air carries a hint of moisture, and while a few adventurous raindrops may attempt to make their mark before the day wanes, the sun peeks through intermittently, casting a sporadic glow amidst a sky adorned with brooding clouds. As temperatures slide into the evening, you may find the breeze drifting around 9 mph from the northeast, urging you to consider a light jacket or cardigan for comfort.\n\nTonight, expect the fog to deepen, wrapping the world in a cooling embrace, as the mercury dips to a comfortable 47. It\u2019s a fine evening for a leisurely stroll through one of Boston\u2019s parkways or perhaps an intimate sip of something warm at a local caf\u00e9, the kind of simple pleasure that keeps the spirit buoyant. The tranquility of this evening invites reflection, perhaps suggesting a slow read of a favorite novel or a quiet conversation with a close companion, the gentle symphony of the city\u2019s nightlife just beginning to unfold.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-04-17 16:19:53"
+    "weather_report": "As the evening envelops Boston, a gentle veil of clouds drapes the city, hinting at the fog that will softly settle by dawn. The temperature hovers around a cool 47 degrees, and the northeast wind whispers through the streets at a leisurely pace. Tonight, the city might hold its breath in anticipation, as pockets of fog begin to weave through the familiar landscape, muting the brightness of the evening lights. For those out and about, a light jacket would be a wise choice, offering a touch of warmth against the crisp air and an added layer of comfort against the encroaching fog.\n\nLooking ahead to Saturday, the fog will linger through the morning hours, likely cloaking buildings and streets in mystery until around mid-morning. The day promises coolness, as temperatures only venture up to the low 50s, nestled beneath an overcast sky. The conditions may lack vibrancy, yet there\u2019s a certain allure in the muted light and quiet ambiance. A stroll along the waterfront could be refreshing, each breath a mix of ocean air and the soft scent of damp earth. Alternatively, an indoor afternoon spent in cozy caf\u00e9s or browsing local bookstores, with a warm mug cradled in hand, would resonate beautifully with this introspective day.",
+    "color_code": "#4a4c4f",
+    "timestamp": "2026-04-17 20:48:28"
 }
