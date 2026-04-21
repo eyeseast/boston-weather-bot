@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-21T08:25:00+00:00",
-            "temperature_f": 30.2,
-            "temperature_c": -1,
-            "humidity": 74.275253880025,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-04-21T16:15:00+00:00",
+            "temperature_f": 46.4,
+            "temperature_c": 8,
+            "humidity": 24.729148732705,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 30,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-04-21T04:00:00-04:00",
-                "endTime": "2026-04-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 31. North wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-04-21T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-04-21T12:00:00-04:00",
                 "endTime": "2026-04-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "3 to 8 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 49. East wind 3 to 8 mph."
+                "detailedForecast": "Mostly sunny, with a high near 49. East wind 5 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-04-21T18:00:00-04:00",
+                "endTime": "2026-04-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 36,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 7
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 36. South wind around 10 mph."
             }
         ]
     },
-    "weather_report": "As the early hours of the morning drift by, a serene unease blankets Boston, casting shadows over the city that lay quiet under the inky sky. The cool air carries with it an anticipation, a promise of warmth to come as the sun struggles to rise above the horizon, peeking through the veil of darkness. The forecast hints at a gradual unveiling, where the day ahead will shift from the stillness of the night into a canvas of mostly sunny skies, adorned with just a few wisps of cloud returning later.\n\nDraped in layers, one might consider a snug sweater, perhaps accompanied by a light jacket to stave off the lingering bite of the chill\u2014a gentle north breeze whispers of the seasons in transition. As the morning unfolds into the afternoon, the air will warm to a more inviting embrace, an almost optimistic touch of 49 degrees. As the sun climbs higher, the city\u2019s streets will beckon, inviting simple pleasures, whether it be a leisurely stroll along the Charles, a quiet moment in one of the myriad caf\u00e9s savoring a steaming cup of coffee, or perhaps the exploration of a local bookstore where the scent of paper awakens the mind.\n\nBeneath the friendly glow of day, Boston will reveal its charm, urging you to seize this tranquil yet promising spring day. Dress thoughtfully, embrace the crispness, and let the city unfurl its wonders before your eyes, one gentle step at a time.",
-    "color_code": "#4C4DFF",
-    "timestamp": "2026-04-21 04:46:10"
+    "weather_report": "As the afternoon unfolds in Boston, the day reveals itself, adorned in a subtle and gentle palette of blues. The sun shines amiably, casting a warm glow over an environment still cradled in spring's cautious embrace. With temperatures lingering just beneath fifty degrees, the air feels brisk yet invigorating; a delightful reminder of the vitality of the season. Despite the clouds gathering softly in the sky, there is a clarity that punctuates the scenery\u2014local landmarks standing proud against the backdrop of the serene horizon, inviting one to step outside.\n\nAs evening approaches, a veiling of clouds will come forth, lowering the temperature to a cozy thirty-six degrees. Those venturing outdoors will find it wise to don a light jacket, perhaps layered over a comfortable sweater, in preparation for the cooling air. This is a fine time for a leisurely stroll through the city, perhaps along the Freedom Trail, or a visit to a local caf\u00e9 that offers warmth and a comforting drink. The rhythm of a vibrant city might echo softly in the air, perfect for enjoying simple moments of connection with friends or family. As the day winds down, the charm of a gentle evening stroll captures the essence of what makes Boston feel both timeless and alive.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2026-04-21 12:30:52"
 }
