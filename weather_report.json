@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-22T08:20:00+00:00",
-            "temperature_f": 37.4,
-            "temperature_c": 3,
-            "humidity": 74.996958768522,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 180,
-            "description": "Clear"
+            "timestamp": "2026-04-22T12:15:00+00:00",
+            "temperature_f": 42.8,
+            "temperature_c": 6,
+            "humidity": 70.299266961976,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 200,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-04-22T04:00:00-04:00",
-                "endTime": "2026-04-22T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 37,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 12
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 37. South wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-04-22T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-04-22T08:00:00-04:00",
                 "endTime": "2026-04-22T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 48,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 37
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,40?size=medium",
                 "shortForecast": "Scattered Rain Showers",
-                "detailedForecast": "Scattered rain showers after 7am. Cloudy, with a high near 48. South wind 6 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Scattered rain showers. Cloudy, with a high near 48. South wind 7 to 10 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-04-22T18:00:00-04:00",
+                "endTime": "2026-04-23T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 25
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/ovc?size=medium",
+                "shortForecast": "Scattered Rain Showers then Cloudy",
+                "detailedForecast": "Scattered rain showers before 11pm. Cloudy, with a low around 42. South wind 3 to 8 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As dawn approaches Boston, a gentle veil of clouds cloaks the landscape, providing a muted backdrop to the waking city. The temperature lingers around a crisp 37 degrees, encouraging a chill in the air that whispers of layers to come. Commuters might experience a twinge of dampness as scattered rain showers are poised to grace the morning, softening the edges of the skyline. A south wind, mild and unhurried, accompanies the chance of light rain, promising only the briefest of interruptions to the day\u2019s unfolding story.\n\nIn light of these conditions, one might find solace in well-prepared attire: a cozy sweater, perhaps a light raincoat, and an umbrella tucked under arm as a precaution. The invitation of the day is to engage in the quiet hum of city life, whether it be savoring a warm coffee at a local caf\u00e9 while watching the world go by, or perhaps exploring the inner corridors of one of Boston's many museums. This day, with its subdued ambiance, offers the perfect backdrop for quiet contemplation, leisurely walks, or catching up on reading in a cozy nook.",
-    "color_code": "#B0C4D7",
-    "timestamp": "2026-04-22 04:44:23"
+    "weather_report": "The morning in Boston drapes itself in layers of cloud, offering a calm yet somber atmosphere. Scattered rain showers are predicted to pepper the day, as the sky holds a muted gray hue, reflecting a coolness that may penetrate through even the thickest of jackets. With temperatures hovering around the mid-forties, it feels like the sun is teasing us from behind a curtain of clouds, merely hinting at its warmth without delivering. For those venturing outside, a light raincoat or an umbrella will be wise companions, and a warm scarf could add a touch of comfort against the cool breeze wafting in from the south.\n\nAs the day unfolds, the occasional splatter of rain can be expected, especially before nightfall, when the chance of precipitation diminishes, leaving behind a damp chill. It\u2019s a suitable day for a slow stroll through the Boston Commons, where the vibrant hues of freshly sprouting spring flowers contrast beautifully with the overcast sky. A quiet caf\u00e9 beckons with its warm, inviting ambience, perfect for sipping a cup of coffee while watching the world pass by\u2014a modest yet delightful way to engage with this drizzly spring day.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2026-04-22 08:32:15"
 }
