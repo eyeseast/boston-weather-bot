@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-21T20:05:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 23.390549263715,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 180,
-            "description": "Partly Cloudy"
+            "timestamp": "2026-04-22T00:25:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 48.408424535628,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 160,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-04-21T16:00:00-04:00",
-                "endTime": "2026-04-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 48. East wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-04-21T18:00:00-04:00",
+                "startTime": "2026-04-21T20:00:00-04:00",
                 "endTime": "2026-04-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 37,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,20?size=medium",
                 "shortForecast": "Partly Cloudy then Slight Chance Rain Showers",
                 "detailedForecast": "A slight chance of rain showers after 5am. Partly cloudy, with a low around 37. South wind around 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-04-22T06:00:00-04:00",
+                "endTime": "2026-04-22T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 47,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 59
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain_showers,60?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely. Cloudy, with a high near 47. South wind 6 to 10 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "The afternoon sun casts a gentle glow over Boston, illuminating the city in hues of calm and clarity. With temperatures reaching near 48 degrees, the day feels brisk yet temperate, inviting you to venture outdoors. A light easterly breeze stirs the air, adding a refreshing touch to the atmosphere. As the sun dips and evening approaches, clouds may creep in, hinting at a slight chance of rain showers after dawn. For now, however, the atmosphere holds a pleasant serenity, perfect for a stroll along the waterfront or a quiet afternoon spent in one of the city's charming coffee shops.\n\nAs you prepare for the evening, consider layering your attire\u2014perhaps a soft sweater beneath a light jacket, allowing for comfort as temperatures are expected to fall to around 37 degrees. Remember to bring an umbrella, just in case those fleeting clouds decide to release a few drops. With the day drawing to a close, this tranquil moment in Boston offers the ideal backdrop for a leisurely walk or perhaps a visit to a local bookstore, where the soft rustle of pages turning is drowned out only by the lingering scent of freshly brewed coffee. Embrace the subtle pleasures of this day, where simplicity reigns and the beauty of the moment invites quiet reflection.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-04-21 16:23:57"
+    "weather_report": "As night envelops Boston, the air carries a crisp hint of possibility, its coolness marking the fleeting moments before dawn. The heavens hang partly cloudy, allowing for a smattering of stars to punctuate the darkness. As the clock edges towards 5 a.m., a subtle sense of moisture stirs, hinting at the faintest possibility of rain showers, capped at just a 20% chance. Tonight\u2019s low settles around 37 degrees, so a warm layer\u2014a well-loved sweater or a cozy jacket\u2014would be wise attire against the brisk air. A stroll through the quiet streets represents an inviting respite, a chance to breathe in the freshness and note the gentle stirrings of a city preparing for morning.\n\nLooking ahead to Wednesday, the character of the day shifts decidedly. Clouds take center stage, heavy with the promise of rain that tips the scales with a 60% likelihood. The high will barely graze 47 degrees, meandering through the coolness as a soft, steady wind begins to swirl gently around 6 to 10 mph. Here, the day calls for a thoughtful ensemble: perhaps a waterproof jacket, sturdy shoes, and an umbrella tucked snugly under an arm. Despite the greyness creeping in, there\u2019s little need to withdraw from the world; visiting a local caf\u00e9 or delving into the stacks of a nearby library could provide warmth and comfort against the damp, while a good book or reflective moment might just transform the day into something quietly meaningful amid the rain.",
+    "color_code": "#6B7F80",
+    "timestamp": "2026-04-21 20:50:42"
 }
