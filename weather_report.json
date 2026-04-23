@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-23T08:20:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 81.217278940752,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "timestamp": "2026-04-23T12:15:00+00:00",
+            "temperature_f": 48.2,
+            "temperature_c": 9,
+            "humidity": 76.027205034618,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 260,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-04-23T04:00:00-04:00",
-                "endTime": "2026-04-23T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a low around 42. Southwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-04-23T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-04-23T08:00:00-04:00",
                 "endTime": "2026-04-23T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 60,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 0
                 },
-                "windSpeed": "5 to 14 mph",
-                "windDirection": "W",
+                "windSpeed": "6 to 14 mph",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 60. West wind 5 to 14 mph, with gusts as high as 28 mph."
+                "detailedForecast": "Mostly sunny, with a high near 60. Northwest wind 6 to 14 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-04-23T18:00:00-04:00",
+                "endTime": "2026-04-24T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 37,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 37. Northwest wind 3 to 10 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "As dawn creeps over Boston, a gray shroud embraces the city, gently lifting the veil of night. The temperature rests around a cool 42 degrees, ensuring a sharpened air that hints at the gradual warming to come. Soft winds whisper from the southwest, stirring to life the crispness that is characteristic of early mornings. As the hours unspool, the skies will yield to clearer vistas, adorned with glimpses of sunlight that beckon a high near 60 degrees. The breezy west wind will playfully toss the leaves, gusting here and there, promising a dynamic day ahead.\n\nAs you prepare to step outside, consider layers to navigate this dance of chilly morning air and the emerging warmth. A light jacket could serve you well, ideally one that dances between comfort and fashion, buoyant enough to allow for freedom in movement. Given the transition into what promises to be a notably pleasant day, it\u2019s a fine opportunity for a leisurely stroll through the neighborhood, perhaps pausing at a quiet caf\u00e9 to savor a warm cup and watch the city come alive. Whether you wander along the waterfront or through the bustling streets, the day offers a canvas ready to be filled with ordinary joys, where each moment merits a tender appreciation of the little things.",
-    "color_code": "#A9B1C7",
-    "timestamp": "2026-04-23 04:45:07"
+    "weather_report": "Today in Boston, the sky is engaging in a gentle display of azure and soft clouds, which hints at a rather inviting atmosphere. The northwest winds whisper through the streets, bringing a refreshing chill that cuts through the reminders of winter\u2019s retreat. The air is crisp, with a comforting warmth gracing the high of nearly 60, making it a splendid day to step outside and embrace the city. As evening approaches, the sun will retreat further, yielding a clear canvas for a night dipped in tranquility, with temperatures sinking to a serene 37.\n\nFor those planning to navigate the day, layers would be the wisest choice\u2014perhaps a light sweater embraced by a sturdy jacket to combat any sudden gusts that flirt at higher speeds. Whether wandering through the emerald expanses of the Public Garden or exploring the vibrant streets of Somerville, the conditions are conducive to enjoyable jaunts between coffee shops and bookstores. This simple indulgence in the ordinary becomes a meditative experience under the gentle embrace of a brisk spring day.",
+    "color_code": "#A5C8E0",
+    "timestamp": "2026-04-23 08:32:03"
 }
