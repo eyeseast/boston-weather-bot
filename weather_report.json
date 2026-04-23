@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-22T20:05:00+00:00",
-            "temperature_f": 46.4,
-            "temperature_c": 8,
-            "humidity": 70.697540658389,
-            "wind_speed_mph": 37.286316,
+            "timestamp": "2026-04-23T00:35:00+00:00",
+            "temperature_f": 44.6,
+            "temperature_c": 7,
+            "humidity": 75.690542144641,
+            "wind_speed_mph": 24.884388,
             "wind_direction": 190,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-04-22T16:00:00-04:00",
-                "endTime": "2026-04-22T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 48. South wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-04-22T18:00:00-04:00",
+                "startTime": "2026-04-22T20:00:00-04:00",
                 "endTime": "2026-04-23T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 14
                 },
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "2 to 6 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog after 9pm. Cloudy, with a low around 42. Southwest wind 2 to 8 mph."
+                "detailedForecast": "Patchy fog after 10pm. Cloudy, with a low around 42. Southwest wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-04-23T06:00:00-04:00",
+                "endTime": "2026-04-23T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "3 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Sunny",
+                "detailedForecast": "Patchy fog before 8am. Mostly sunny, with a high near 62. West wind 3 to 13 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon wears on in Boston, a shroud of clouds hangs over the city, rendering the world below in muted tones, where the air feels tinged with a hint of dampness. The temperature, barely nudging towards the 50s, creates a setting that sprawls gently between casual comfort and the necessity of warmth. By the coastline, the soft whisper of a south wind meanders through the streets, caressing passersby who are wise to bundle themselves against the chill, perhaps opting for light sweaters under their jackets, hats pulled snugly against their ears. \n\nTonight promises a lingering fog, creeping in after the sun surrenders to the horizon, casting a soft veil on familiar sights. As the temperature dips further into the low 40s, the atmosphere hints at quiet reflections. This is an ideal evening for a stroll along the Esplanade, where the tranquility of the Charles River invites contemplation, or maybe to find a cozy cafe where one can sip warm beverages while gazing through water-streaked windows at the brooding sky. Such gentle hints of the mundane offer a comforting embrace on this cloudy day, underscoring the simple pleasure of being present in a city that stands resilient even when draped in gray.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2026-04-22 16:25:36"
+    "weather_report": "As twilight descends upon Boston, a gentle haze lingers in the air, cloaking the city in a soft embrace of patchy fog. The temperature has dipped into the low 40s, inviting a subtle chill that whispers of the evening ahead. A mild southwest breeze rustles through the streets, wrapping the urban landscape in a tender caress, as the aubergine sky hints at the clouds that hang low, softening the edges of the city\u2019s silhouette. \n\nTomorrow promises a transformation, casting off the foggy veil as the sun rises, ushering in a day kissed by bright clarity and warmth. With gentle reminders of spring, the forecast invites you to step outside and revel in the golden rays that will play across your skin. Dress smartly\u2014layering is wise, as the morning chill will give way to a more amiable high near 62. As the day unfolds, consider meandering through one of Boston\u2019s scenic parks, allowing the sunlight to illuminate the world around you, or perhaps indulging in a quiet moment over a cup of coffee at a cozy caf\u00e9, where the stories of fellow patrons will intertwine with the aroma of fresh brews.",
+    "color_code": "#6C6A71",
+    "timestamp": "2026-04-22 20:54:46"
 }
