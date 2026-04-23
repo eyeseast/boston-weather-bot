@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-23T04:45:00+00:00",
+            "timestamp": "2026-04-23T08:20:00+00:00",
             "temperature_f": 44.6,
             "temperature_c": 7,
             "humidity": 81.217278940752,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 170,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-04-23T01:00:00-04:00",
+                "startTime": "2026-04-23T04:00:00-04:00",
                 "endTime": "2026-04-23T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 6
+                    "value": 0
                 },
-                "windSpeed": "2 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Cloudy, with a low around 42. Southwest wind around 2 mph."
+                "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
+                "shortForecast": "Cloudy",
+                "detailedForecast": "Cloudy, with a low around 42. Southwest wind around 3 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-04-23T06:00:00-04:00",
                 "endTime": "2026-04-23T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 62,
+                "temperature": 60,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 4
+                    "value": 2
                 },
-                "windSpeed": "3 to 13 mph",
+                "windSpeed": "5 to 14 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Sunny",
-                "detailedForecast": "Patchy fog before 8am. Mostly sunny, with a high near 62. West wind 3 to 13 mph, with gusts as high as 23 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 60. West wind 5 to 14 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "As the night lingers in Boston, a veil of patchy fog drapes over the city, softening the contours of buildings and blurring the sharp edges that typically define the skyline. With temperatures dipping to a cool 42 degrees, the atmosphere feels crisp yet inviting, a gentle reminder of early spring's playful chill. A light southwest breeze whispers through the air, making the quiet moments feel almost serene. \n\nAs dawn approaches, the fog will begin to lift, revealing a mostly sunny landscape awash in warmth by midday. With highs near 62 degrees, Thursday promises a pleasant day, ideal for those who savor the gentle embrace of sunshine. The winds will stir slightly\u2014a playful 3 to 13 mph, with occasional gusts\u2014inviting a sense of liveliness among the trees and streets. This is a day for light layers; perhaps a light sweater or a flannel shirt paired with comfortable trousers will suit your wanderings well. Whether you choose to take a leisurely stroll along the Charles River or find a quiet corner in a caf\u00e9 with a book, now is the time to breathe deep and enjoy the unfolding beauty of spring in Boston, cultivating small joys as the city awakens.",
-    "color_code": "#BFD3C1",
-    "timestamp": "2026-04-23 01:06:40"
+    "weather_report": "As dawn creeps over Boston, a gray shroud embraces the city, gently lifting the veil of night. The temperature rests around a cool 42 degrees, ensuring a sharpened air that hints at the gradual warming to come. Soft winds whisper from the southwest, stirring to life the crispness that is characteristic of early mornings. As the hours unspool, the skies will yield to clearer vistas, adorned with glimpses of sunlight that beckon a high near 60 degrees. The breezy west wind will playfully toss the leaves, gusting here and there, promising a dynamic day ahead.\n\nAs you prepare to step outside, consider layers to navigate this dance of chilly morning air and the emerging warmth. A light jacket could serve you well, ideally one that dances between comfort and fashion, buoyant enough to allow for freedom in movement. Given the transition into what promises to be a notably pleasant day, it\u2019s a fine opportunity for a leisurely stroll through the neighborhood, perhaps pausing at a quiet caf\u00e9 to savor a warm cup and watch the city come alive. Whether you wander along the waterfront or through the bustling streets, the day offers a canvas ready to be filled with ordinary joys, where each moment merits a tender appreciation of the little things.",
+    "color_code": "#A9B1C7",
+    "timestamp": "2026-04-23 04:45:07"
 }
