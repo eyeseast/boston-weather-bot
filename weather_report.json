@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-27T08:40:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-04-27T12:25:00+00:00",
+            "temperature_f": 53.6,
+            "temperature_c": 12,
+            "humidity": 46.90434296071,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 30,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-04-27T04:00:00-04:00",
-                "endTime": "2026-04-27T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 39,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 39. North wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2026-04-27T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-04-27T08:00:00-04:00",
                 "endTime": "2026-04-27T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 61. Northeast wind 3 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-04-27T18:00:00-04:00",
+                "endTime": "2026-04-28T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 40,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 40. Northeast wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, the sky transforms from its nighttime hues to softer shades of blue and gray, hinting at the warmth that will unfold with the sun's ascent. The air carries a brisk chill, the kind that nudges you to wrap up warmly before stepping outside. With a low expected overnight dip to a crisp 39 degrees, a light jacket in muted tones would do well, perhaps accompanied by a touch of wool to ward off the lingering cold. \n\nThe day beckons with a promise of sunshine, the forecast predicting radiant skies reaching a genteel 61 degrees. As morning unfurls, you may find it pleasant to venture out for a leisurely walk along the Charles River or perhaps to stroll amid the historic streets of Beacon Hill. The soft breeze from the northeast, gentle but present, sets the stage for a day that feels refreshingly inviting yet subtly invigorating. As the sun climbs higher, take a moment to appreciate the translucent beauty illuminating the cityscape; grab a coffee from a cozy caf\u00e9, and watch as each passerby brings a touch of color to the awakening urban tapestry.",
-    "color_code": "#A0C8E1",
-    "timestamp": "2026-04-27 04:59:51"
+    "weather_report": "A vivid day unfolds over Boston, marked by an expansive, azure sky that stretches unimpeded above the city. With the sun shining gently alongside a light northeast breeze, it feels as though nature has wielded a brush, painting the landscape in serene hues. The air is crisp but inviting, maintaining a pleasant chill, suggesting that while one should still don a light jacket or a cozy sweater, the allure of the outdoors beckons. \n\nAs the day progresses towards its peak warmth, take to the streets to explore the city\u2019s nooks and crannies, perhaps embarking on a leisurely stroll along the historic Freedom Trail, where the past whispers through the cobblestone streets. Alternatively, settle down at a caf\u00e9 with an inviting patio to enjoy a warm beverage while basking in the sun's rays. As evening approaches, the clarity remains, and temperatures will gently dip, rewarding those who have embraced the day\u2019s charm with a tranquil night under a star-speckled sky.",
+    "color_code": "#A6C3D8",
+    "timestamp": "2026-04-27 08:44:03"
 }
