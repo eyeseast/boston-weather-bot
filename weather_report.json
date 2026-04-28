@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-27T20:20:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 31.882617941089,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 20,
+            "timestamp": "2026-04-28T04:50:00+00:00",
+            "temperature_f": 39.2,
+            "temperature_c": 4,
+            "humidity": 80.802917043684,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-04-27T14:00:00-04:00",
-                "endTime": "2026-04-27T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 62. East wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-04-27T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-04-28T01:00:00-04:00",
                 "endTime": "2026-04-28T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 39,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 39. East wind 2 to 6 mph."
+                "windSpeed": "2 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 39. Northeast wind around 2 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-04-28T06:00:00-04:00",
+                "endTime": "2026-04-28T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 58. Northeast wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, a brilliant tapestry of blue fills the sky, inviting the day to linger a little longer. With a gentle east wind caressing the streets at a leisurely pace, the sunlight dances on the surfaces, casting warm hues across the city. Today\u2019s temperature nudges near a comfortable 62 degrees, making it an ideal moment to step outside and savor the crisp air without the heaviness of winter's layers. As evening approaches, expect a serene tranquility to wash over the landscape, with temperatures settling around 39 degrees under a clear sky, encouraging layers but not necessitating heavy wear.\n\nIt is a day perfectly suited for leisurely strolls through the Public Garden or along the Charles River, perhaps indulging in an artisan coffee from a cozy caf\u00e9 while observing the ebb and flow of the city\u2019s vibrant life. Lightweight scarves, sweaters, and light jackets will serve well as the sun diminishes, urging you to embrace the gentle transition into evening. The clarity of the day inspires not just outdoor activity, but a thoughtful pause to appreciate the simple beauty of urban living\u2014where the outlines of buildings fade into the horizon against a masterpiece of nature. Venture out now and let Boston\u2019s charm envelop you, for the day gracefully balances warmth and that hint of refreshing chill.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2026-04-27 16:31:19"
+    "weather_report": "As night drapes its cool embrace over Boston, the air carries a hint of serenity, with a mere whisper of wind rustling through the streets. The temperature, a gentle reminder of the season, hovers around a refreshing 39 degrees, inviting those who venture outside to don a light jacket. Looking ahead, Tuesday dawns with promise. The sun will rise, bright and unclouded, casting its embrace over the city as it reaches a comfortable high near 58 degrees. With winds from the northeast gently stirring, the day beckons a pleasant warmth without the oppressive heat that can often chase the sunshine away.\n\nMorning walks along the Charles or quiet moments in the Public Garden will feel invigorating beneath the clear blue sky. Those who venture out may find themselves enjoying a cozy caf\u00e9, perhaps savoring a warm beverage as the city slowly stirs to life. As the day unfolds, consider a layered outfit to accommodate the rising temperatures; a soft pullover or a light scarf can provide just the right comfort during the cooler hours of the early morning. Whether one finds delight in a stroll, a visit to a local market, or simply soaking in the sun\u2019s gentle rays, Boston offers a canvas today that illustrates the beauty of springtime with understated elegance.",
+    "color_code": "#4A90E2",
+    "timestamp": "2026-04-28 01:14:17"
 }
