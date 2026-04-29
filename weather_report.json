@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-28T16:10:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
-            "humidity": 44.214683083114,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 40,
-            "description": "Clear"
+            "timestamp": "2026-04-29T04:45:00+00:00",
+            "temperature_f": 46.4,
+            "temperature_c": 8,
+            "humidity": 75.859700794654,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 60,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-04-28T12:00:00-04:00",
-                "endTime": "2026-04-28T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 58. East wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-04-28T18:00:00-04:00",
+                "startTime": "2026-04-28T20:00:00-04:00",
                 "endTime": "2026-04-29T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 5
                 },
-                "windSpeed": "3 to 7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 42. Northeast wind 3 to 7 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 42. Northeast wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-04-29T06:00:00-04:00",
+                "endTime": "2026-04-29T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 12
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 59. Northeast wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, a sunny canvas stretches above, welcoming the day with a gentle warmth that nudges the thermometer toward a comfortable high. The east wind carries with it the whisper of spring, making the air feel crisp yet inviting. Tonight, the clouds will gather softly, draping the city in a snug embrace, signaling the arrival of cooler temperatures and a chance for quiet introspection. \n\nSuch a day calls for light layers; perhaps a lightweight sweater for those brisk moments and comfortable shoes to stroll the city\u2019s vibrant streets. With the sun shining and a mild breeze, the ordinary becomes extraordinary\u2014a perfect setting for a leisurely coffee on a sunlit terrace or a meandering walk along the waterfront, where the undulating waves meet the city\u2019s pulse. In this embrace of day and time, take a moment to enjoy the delightful simplicity of being, as the world breathes softly around you.",
-    "color_code": "#A5C8E0",
-    "timestamp": "2026-04-28 12:42:24"
+    "weather_report": "As the night envelops Boston, a gentle haze drapes over the city, whispering promises of cooler undertones and a muffled serenity. The sky holds its breath, mostly clouded, as the northeast winds carry a hint of crispness, foreshadowing the chill that will settle in as the evening deepens into the quiet hours. When dawn breaks, the sun will cautiously peek through a tapestry of clouds, offering a glimpse of warmth\u2014a high near fifty-nine degrees, delicate but inviting. The gentle breeze will carry the scents of damp earth and fresh beginnings, making for a day that, while temperate, hints at the awakening of spring.\n\nFor those navigating the waking hours of tomorrow, consider wrapping yourself in layers\u2014perhaps a light sweater worn over a simple t-shirt to embrace the clarity that may unfold with the sunlight. A stroll along the river or a visit to one of the local cafes could be both rejuvenating and reflective, perfect for pondering the soft nuances of life in this historic city. With the calm of the weather in mind, let your steps be guided by the gentle optimism of spring\u2019s arrival, mingling with a lightness in your heart.",
+    "color_code": "#6B8E2C",
+    "timestamp": "2026-04-29 01:12:02"
 }
