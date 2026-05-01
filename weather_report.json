@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-04-30T20:20:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 81.879846925107,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 240,
-            "description": "Cloudy"
+            "timestamp": "2026-05-01T00:45:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 87.476252351683,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-04-30T16:00:00-04:00",
-                "endTime": "2026-04-30T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 16
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers before 5pm. Mostly cloudy, with a high near 56. Southwest wind around 3 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-04-30T18:00:00-04:00",
+                "startTime": "2026-04-30T21:00:00-04:00",
                 "endTime": "2026-05-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 45,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 7
+                    "value": 10
                 },
                 "windSpeed": "2 to 6 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 45. West wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-05-01T06:00:00-04:00",
+                "endTime": "2026-05-01T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 63. Northwest wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "The weather in Boston this afternoon presents a subdued tableau, marked by a blanket of clouds casting a muted light over the city. A slight chance of rain lingers in the air, a whisper of moisture that might dare to fall before day\u2019s end, but for now, the atmosphere holds its breath under a sky seemingly woven with grey threads. The temperature hovers gently around the mid-50s, inviting a modest lightness but still demanding layers against a soft, yet persistent, breeze from the southwest. As the evening approaches, expect temperatures to dip into the mid-40s, nudged along by a light westward wind, lending an encouraging shiver that might entice one to don a light jacket for warmth.\n\nThe day may not be awash in brilliance, but there is an elegance in the cool, quiet charm of early spring in New England. Rather than let the clouds dictate your day, seize the opportunity to stroll along the Charles River, savoring the tranquility that this somewhat overcast canvas bestows. Perhaps an early evening visit to a local caf\u00e9 would be delightful, where one can enjoy a warm drink while watching the city settle into the softer hues of twilight. So, layer up with a cozy cardigan or a lightweight scarf, and embrace the subtle beauty of this cloudy afternoon\u2014there is much to enjoy in the serene hush of a day like today.",
-    "color_code": "#A8B7B0",
-    "timestamp": "2026-04-30 16:31:11"
+    "weather_report": "The night holds a gentle embrace over Boston, wrapping the city in a cloak of soft clouds and cool air. As the clock ticks past nine, the temperature dips to a comfortable 45 degrees, urging those who venture outdoors to don a light jacket or perhaps a cozy sweater. A calm west wind whispers through the streets, stirring up the peaceful rhythm of the night. The glow of city lights twinkles against the backdrop of the obscured sky, casting a serene yet slightly mysterious vibe over the landscape.\n\nTomorrow promises a refreshing shift as the sun takes center stage. Expect a lovely day, awash with mostly sunny skies and a high nearing a pleasant 63 degrees. A gentle northwest breeze will accompany the sunlight, making it an ideal day for a leisurely stroll along the Charles River or a charming visit to one of Boston's waterfront caf\u00e9s, where one could sip a warm beverage while enjoying the company of friends or a good book. With the day poised to bring a delightful contrast to tonight's embrace, it\u2019s an opportunity to immerse oneself in the beauty that Boston has to offer, wrapped in layers of comfort suitable for this gentle transition from night to day.",
+    "color_code": "#2A2D30",
+    "timestamp": "2026-04-30 21:03:50"
 }
