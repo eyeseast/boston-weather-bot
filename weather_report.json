@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-01T19:55:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 25.625755359749,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 290,
+            "timestamp": "2026-05-02T04:50:00+00:00",
+            "temperature_f": 42.8,
+            "temperature_c": 6,
+            "humidity": 75.519709049237,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-01T16:00:00-04:00",
-                "endTime": "2026-05-01T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 64. Northwest wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-05-01T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-05-02T01:00:00-04:00",
                 "endTime": "2026-05-02T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 46,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 16
                 },
-                "windSpeed": "2 to 9 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,20?size=medium",
-                "shortForecast": "Partly Cloudy then Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers after 5am. Partly cloudy, with a low around 46. Southwest wind 2 to 9 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
+                "shortForecast": "Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers after 5am. Mostly cloudy, with a low around 46. Southwest wind around 3 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-05-02T06:00:00-04:00",
+                "endTime": "2026-05-02T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 45
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain,50?size=medium",
+                "shortForecast": "Scattered Rain Showers then Chance Light Rain",
+                "detailedForecast": "Scattered rain showers before noon, then a chance of rain. Cloudy, with a high near 58. South wind 5 to 9 mph. Chance of precipitation is 50%."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston unfolds with a cheerful sun casting its warm glow across the landscape, inviting one to step outside and embrace the day. With a gentle northwest wind rustling the leaves, the temperature drifts towards a comfortable 64 degrees, creating an atmosphere ripe for leisurely strolls along the Charles River or perhaps a visit to a favorite caf\u00e9 to enjoy a rich cup of coffee. As the daylight wanes into evening, the sky may dance with occasional clouds, hinting at isolated rain showers that may grace the city after dawn. A low temperature of approximately 46 degrees beckons the thoughtful dresser to reach for a light jacket or a cozy sweater, embracing the gentle chill that accompanies the night.\n\nGiven the clarity of the scene, with no fog clouding the view, it\u2019s an ideal time to indulge in the mundane pleasure of a quiet walk through the city\u2019s historical streets. Perhaps you might wander through the Boston Common, taking in the budding trees and vibrant blooms, or simply sit on a bench, losing yourself in a good book as the day transitions softly into night. With the promise of cooler air ahead, this time of day offers a pause, a moment to reflect and savor the beauty around you, making it a perfect occasion to embrace the simple joys of life that often go unnoticed.",
-    "color_code": "#A9C6E9",
-    "timestamp": "2026-05-01 16:24:18"
+    "weather_report": "As the early morning hours settle over Boston, the city rests under a blanket of mostly cloudy skies, hinting at the promise of rain. The muted glow of city lights is a quiet reminder of the life below, yet the air carries a crisp coolness that whispers of impending precipitation. Overnight, the atmosphere has been charged with the possibility of isolated showers, a gentle reminder that spring\u2019s whims are ever present. With the mercury hovering near a cool 46 degrees, bundled layers and sturdy shoes would serve well for those venturing out.\n\nAs daylight breaks, a scattered symphony of rain showers is expected to grace the morning, gradually intensifying in the hours that follow. The haze of clouds will persist, giving the day a somewhat somber but introspective character. While the forecast suggests a high near 58, suggestive of modest warmth, the presence of clouds and the chance of rain may put a damper on outdoor activities. Today might not be the day for leisurely strolls in the park, but rather an opportune moment to explore the rich tapestry of cafes and bookstores, or perhaps linger over a warm cup of coffee while immersing oneself in a good book. The rain transforms the usual hustle and bustle into a gentle rhythm, calling for comfort and quiet reflection.",
+    "color_code": "#696969",
+    "timestamp": "2026-05-02 01:08:31"
 }
