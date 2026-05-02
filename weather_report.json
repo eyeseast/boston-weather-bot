@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-02T08:25:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 75.690542144641,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 170,
-            "description": "Cloudy"
+            "timestamp": "2026-05-02T12:10:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 71.281266407174,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 210,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-02T04:00:00-04:00",
-                "endTime": "2026-05-02T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 46,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 34
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 46. Southwest wind around 5 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-05-02T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-05-02T08:00:00-04:00",
                 "endTime": "2026-05-02T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 51
                 },
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,50?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 58. Southwest wind 5 to 9 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 58. Southwest wind 6 to 9 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-02T18:00:00-04:00",
+                "endTime": "2026-05-03T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 44
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 43. West wind around 6 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "As the world turns towards dawn in Boston, a veil of clouds hangs in the air, casting a muted light over the city. The overnight hours have brought a damp chill as anticipation of rain lingers on the horizon, with the temperature resting comfortably around forty-six degrees. The soft whisper of a southwest wind indicates a gentle stirring, promising to accompany us through the day as hints of occasional rain showers dance in the forecast. As the morning unfolds, the clouds will persist, reluctant to clear, creating an atmosphere that is more brooding than bright; a high of fifty-eight inches closer on the horizon, but the warmth of the sun will unlikely penetrate the pervasive gray.\n\nIt would be wise to dress in layers today, choosing garments that embrace comfort against both the coolness of the air and the potential light rain. A cozy sweater under a light waterproof jacket could provide just the right balance, allowing for ease as one goes about their day. Ample opportunities await despite the drizzle\u2014for a quiet stroll along the Boston waterfront, where the sounds of water lapping at the shore blend seamlessly with the distant hum of the city. Alternatively, an afternoon spent in one of Boston's numerous cozy caf\u00e9s might offer solace, enveloped in the aroma of freshly brewed coffee, as the day drifts by softly under the watchful eye of the clouds.",
-    "color_code": "#6B7B8A",
-    "timestamp": "2026-05-02 04:38:42"
+    "weather_report": "In Boston this morning, the sky hangs heavy with clouds, hinting at the promise of rain later in the day. The air feels crisp, poised on the edge of a light drizzle that may unfurl with the slightest provocation. The temperature lingers around a cool 58 degrees, suggesting that a light jacket or sweater would serve well against the chill, particularly with a soft wind from the southwest brushing against the skin. An atmosphere of anticipation settles, as a 50% chance of precipitation lingers in the air.\n\nAs day transitions to evening, the clouds will deepen into a more profound gray, with temperatures descending to around 43. The hope of sunshine seems a distant memory, but this weather invites a different kind of comfort. It\u2019s a day to seek shelter in cozy caf\u00e9s or to explore the rich textural tapestry of Boston\u2019s historic streets, guided by the muted glow of streetlights. Consider a leisurely stroll through the vibrant neighborhoods, perhaps ducking into a bookshop to sip coffee while the rain provides a melodic backdrop. Embrace the day\u2019s chill with layered clothing, honoring both the cool air and a sense of cozy exploration.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2026-05-02 08:27:05"
 }
