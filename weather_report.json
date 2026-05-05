@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-04T20:15:00+00:00",
-            "temperature_f": 71.6,
-            "temperature_c": 22,
-            "humidity": 24.888484681854,
-            "wind_speed_mph": 49.688244000000005,
+            "timestamp": "2026-05-05T04:45:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 71.281266407174,
+            "wind_speed_mph": 16.589592000000003,
             "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-04T16:00:00-04:00",
-                "endTime": "2026-05-04T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 72,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 72. Southwest wind around 20 mph, with gusts as high as 37 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-05-04T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-05-05T01:00:00-04:00",
                 "endTime": "2026-05-05T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 51,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "12 to 18 mph",
+                "windSpeed": "13 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 51. Southwest wind 12 to 18 mph, with gusts as high as 32 mph."
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 51. Southwest wind around 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-05-05T06:00:00-04:00",
+                "endTime": "2026-05-05T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 79,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "13 to 24 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 79. Southwest wind 13 to 24 mph, with gusts as high as 48 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, the air is brisk and clear, embracing the essence of a perfect spring day. The sun casts its warming glow over the city, bathing it in a soft light that caresses the landscape and accentuates the vibrant colors of the season. With a high hovering around the low seventies, the atmosphere invites one to step outside and soak in the beauty of the world. A gentle southwest breeze, dancing with gusts that offer a playful tug on jackets, carries the scent of blooming flowers and freshly cut grass, reminding us that life is bursting forth anew.\n\nAs evening draws near, the warmth of the day will yield to a pleasantly cool night, settling around fifty-one degrees\u2014a comfortable reprieve from the midday sun. The sky will remain mostly clear, offering a perfect canvas for watching the stars emerge as the sun dips below the horizon. For those venturing out, a light jacket or a cozy sweater will suffice, ensuring comfort as the breeze picks up in the twilight. This delightful weather beckons for leisurely strolls along the Charles River or quiet conversations at an outdoor caf\u00e9, where the sounds of laughter mingle with the rustle of leaves. Embrace the spirit of the day, whether through a tranquil walk in Boston Common or a casual gathering with friends in a sun-drenched park; today is a gentle reminder of the small pleasures that spring brings.",
-    "color_code": "#A3C1E0",
-    "timestamp": "2026-05-04 16:35:40"
+    "weather_report": "As the night blankets Boston, a cool serenity envelops the city. The air is crisp, with temperatures dipping gently to a comfortable 51 degrees, and a soft southwest breeze carries the promise of a radiant day ahead. The city slumbers under a clear sky, unmarred by fog or haze, allowing the twinkling lights of residences and businesses to dance in the darkness, creating a mosaic of urban calm.\n\nMorning will unveil the splendor of a sunlit Tuesday, as warmth graces the horizon, pushing the temperature towards a delightful 79 degrees. The wind will pick up, whispering through the streets at speeds that might remind you of a summer\u2019s playful gusts. This is a day beckoning gentle adventures; perhaps a leisurely stroll through one of Boston\u2019s storied parks, where the fresh air mingles with the scent of blooming flowers, or perhaps a coffee outing at a local caf\u00e9, where the world gradually comes to life with each passing moment. As the sun climbs higher, opt for light layers to accommodate the warmth, embracing the spirit of the season. Allow the allure of Boston\u2019s vibrant streets to unfold before you, the day a canvas of possibilities, each moment waiting to be savored.",
+    "color_code": "#A8DADC",
+    "timestamp": "2026-05-05 01:10:00"
 }
