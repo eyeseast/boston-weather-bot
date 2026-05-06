@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-06T08:35:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 82.261352957573,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 190,
+            "timestamp": "2026-05-06T12:35:00+00:00",
+            "temperature_f": 62.6,
+            "temperature_c": 17,
+            "humidity": 72.401374699018,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-06T04:00:00-04:00",
-                "endTime": "2026-05-06T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 58. Southwest wind around 12 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-05-06T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-05-06T08:00:00-04:00",
                 "endTime": "2026-05-06T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 69,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 70
+                    "value": 65
                 },
-                "windSpeed": "13 to 16 mph",
+                "windSpeed": "15 to 20 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,70?size=medium",
                 "shortForecast": "Cloudy then Rain Showers Likely",
-                "detailedForecast": "Rain showers likely after 3pm. Cloudy, with a high near 69. South wind 13 to 16 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain showers likely after 2pm. Cloudy, with a high near 69. South wind 15 to 20 mph, with gusts as high as 31 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-06T18:00:00-04:00",
+                "endTime": "2026-05-07T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 64
+                },
+                "windSpeed": "8 to 17 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,60?size=medium",
+                "shortForecast": "Showers And Thunderstorms Likely",
+                "detailedForecast": "Rain showers likely before 7pm, then showers and thunderstorms likely between 7pm and 10pm, then patchy fog and showers and thunderstorms likely. Cloudy, with a low around 51. West wind 8 to 17 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the early morning light gently stirs over Boston, a shroud of clouds lingers overhead, hinting at the transition from night to day. The air is brisk, carrying a whisper of warmth that will gradually swell as the sun rises. Tonight\u2019s covering of clouds gives way to the unmistakable scent of rain settling into the earth. With the promise of the day ahead, the forecast suggests that the comfort of home may soon be beckoned by the silken tap of rain against windowpanes. A gentle southwest wind sways the trees, although it sharpens in gusts, suggesting a lively, if slightly unsettled, atmosphere.\n\nAs the day unfolds, a high of nearly 69 will invite a blend of preparation and spontaneity. While the potential for showers hovers, there is a pleasant warmth to embrace, perfect for light layers\u2014a soft cardigan or a cozy sweater over a breathable shirt would suit the shifting weather well. Consider strolling through the city or settling into a warm caf\u00e9, where you can relish the rhythm of the rain and perhaps enjoy the mingling aromas of rich coffee and baked goods. There\u2019s comfort in this urban setting, where the weather might remind you to slow down and take in the moment, a reminder of life\u2019s unpredictability playing out in the skies above.",
-    "color_code": "#4B6F8F",
-    "timestamp": "2026-05-06 04:58:43"
+    "weather_report": "As the day unfolds in Boston, one finds the city enveloped in a shroud of gray, a promise of rain hovering in the moist air. Although the morning begins with a gentle wind whispering through the trees, the clouds gather, hinting at an imminent downpour. Today\u2019s high beckons with a balmy warmth, wrapped in the embrace of soft, southern breezes. Yet, beneath the surface, lingered sentiments of dampness suggest that umbrellas might become more than mere accessories as the afternoon approaches.\n\nWith rain showers expected to join the dance of clouds, a subdued calm settles over the streets. The atmosphere transforms, urging those venturing out to dress in layers, perhaps opting for a light jacket and sturdy footwear to navigate puddles and potential thunderstorms later as the sun slips below the horizon. This evening promises to be more dynamic, with the rhythmic patter of rain echoing off pavement, while distant rumbles of thunder add a sense of drama to the otherwise tranquil evening. \n\nIn such weather, why not seek the comfort of a local caf\u00e9? There, one can enjoy a warm cup, perhaps a novel in hand, while the world outside becomes a watercolor painting of blurred outlines and softened edges. As the fog rolls in, surrender to the dreamlike quality of the evening, where the familiar streets of Boston morph into something subtly mysterious.",
+    "color_code": "#A4B0B6",
+    "timestamp": "2026-05-06 08:48:35"
 }
