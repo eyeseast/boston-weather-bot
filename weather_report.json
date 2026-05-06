@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-05T12:20:00+00:00",
-            "temperature_f": 60.8,
-            "temperature_c": 16,
-            "humidity": 63.174428866933,
+            "timestamp": "2026-05-06T00:35:00+00:00",
+            "temperature_f": 62.6,
+            "temperature_c": 17,
+            "humidity": 59.28213477523,
             "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 220,
+            "wind_direction": 200,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-05-05T08:00:00-04:00",
-                "endTime": "2026-05-05T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 81,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "16 to 24 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/wind_few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 81. Southwest wind 16 to 24 mph, with gusts as high as 48 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-05-05T18:00:00-04:00",
+                "startTime": "2026-05-05T20:00:00-04:00",
                 "endTime": "2026-05-06T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 4
+                    "value": 2
                 },
-                "windSpeed": "17 to 23 mph",
+                "windSpeed": "14 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/wind_sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 58. Southwest wind 17 to 23 mph, with gusts as high as 43 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 58. Southwest wind around 14 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-05-06T06:00:00-04:00",
+                "endTime": "2026-05-06T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "13 to 16 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/ovc/rain_showers,70?size=medium",
+                "shortForecast": "Cloudy then Rain Showers Likely",
+                "detailedForecast": "Rain showers likely after 3pm. Cloudy, with a high near 69. South wind 13 to 16 mph, with gusts as high as 30 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "Boston awakens to a canvas of clear blue skies on this promising day in early May, the sun casting its warm embrace over the city. With temperatures climbing toward the low 80s, a gentle southwest breeze stirs, rustling the trees and whispering tales of warmer days ahead. The air carries a buoyancy, albeit punctuated by lively gusts that remind us of nature's unpredictable spirit. Tonight, as twilight settles, expect a transition to partly cloudy conditions, with the warmth lingering into the evening hours.\n\nAs you step outside, consider donning light layers, a comfortable shirt complemented by a light jacket, which may serve well as the sun dips. With the weather begging for engagement, why not embrace the outdoors? Perhaps a leisurely stroll along the Esplanade, or a quiet moment at one of Boston\u2019s myriad parks, could offer a soothing respite. This is a splendid day to enjoy the simple pleasures of life\u2014savoring a good book on a bench or indulging in a sweet treat from a local caf\u00e9. As the hours slip by, let the day\u2019s warmth invite you to explore and appreciate the beauty that surrounds this vibrant city.",
-    "color_code": "#6BB7F9",
-    "timestamp": "2026-05-05 08:36:21"
+    "weather_report": "As the evening takes hold in Boston, the air carries a sense of anticipation, cloaked in a blanket of mostly cloudy skies. The cool whisper of a southwest breeze rustles gently, hinting at the stirring of nature\u2019s preparations for the night. With temperatures drifting down to a comfortable 58 degrees, the urban landscape glimmers subtly under the dimming light, its lustrous points flickering like scattered stars against the night. The wind, robust and spirited, dances with gusts that rattle the leaves and redirect thoughts to warmer attire.\n\nLooking ahead to tomorrow, clouds gather in earnest, foretelling a cascade of rain showers, particularly as the clock strikes three. As the day unfolds beneath a sullen, overcast sky, the mercury aims for a high of 69, teetering near the edge of warmth but shrouded in the gray, suggesting a dampness to the air. It may not be the quintessential bright day everyone craves, but it offers a gentle nudge for activities that embrace the coziness found within. A walk through the historic streets, enveloped in a light jacket, perhaps with an umbrella tucked away as a faithful companion, could yield delightful discoveries. The caf\u00e9 scene beckons with warm drinks and the comfort of sheltered conversations, while raindrops rhythmically tap the pavement, inviting introspection. So, as the night drifts forward, consider how best to meld with the weather's ebb and flow, finding joy in the chapter being written by nature.",
+    "color_code": "#4B4E7E",
+    "timestamp": "2026-05-05 20:54:56"
 }
