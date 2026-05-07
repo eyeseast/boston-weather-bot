@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-06T20:20:00+00:00",
-            "temperature_f": 60.8,
-            "temperature_c": 16,
-            "humidity": 82.385951628273,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 180,
-            "description": "Light Rain"
+            "timestamp": "2026-05-07T00:35:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 93.698536677741,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 190,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-06T16:00:00-04:00",
-                "endTime": "2026-05-06T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 56
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Cloudy. High near 71, with temperatures falling to around 64 in the afternoon. South wind around 16 mph, with gusts as high as 29 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-05-06T18:00:00-04:00",
+                "startTime": "2026-05-06T20:00:00-04:00",
                 "endTime": "2026-05-07T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 64
                 },
-                "windSpeed": "6 to 15 mph",
+                "windSpeed": "6 to 13 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,60/rain_showers,50?size=medium",
                 "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely before 9pm, then a chance of rain showers and patchy fog. Mostly cloudy, with a low around 50. Southwest wind 6 to 15 mph, with gusts as high as 28 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Rain showers likely before 9pm, then a chance of rain showers and patchy fog. Mostly cloudy, with a low around 50. Southwest wind 6 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-05-07T06:00:00-04:00",
+                "endTime": "2026-05-07T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 27
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/sct?size=medium",
+                "shortForecast": "Chance Rain Showers then Mostly Sunny",
+                "detailedForecast": "A chance of rain showers before 8am. Mostly sunny, with a high near 64. Northwest wind 6 to 9 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the weather drapes itself with a heavy shroud of clouds, as rain showers are likely to dance across the cityscape. The air carries a softness, marked by gentle gusts that intermittently stir the trees and whisper promises of cooler temperatures as the day unwinds. As the warmth of the afternoon gently yields to a more subdued embrace, you may find a sense of coziness in a light layering\u2014a cardigan or an unfussy rain jacket might serve well against the April coolness and the persistently playful winds.\n\nAs evening approaches, the likelihood of rain lingers, offering a backdrop of gentle pattering against windows and streets softened by the dampness. With patches of fog teasing the boundaries of vision, the warmth of a warm drink could provide comfort, perhaps at a local caf\u00e9, where you can watch the world go by through a misty lens. It\u2019s a time for quiet reflection, or perhaps an intimate gathering with friends, wrapped in the embrace of meaningful conversation. Even as you feel the rain's call, the atmosphere holds a certain charm\u2014one that beckons you to slow down and savor the moment.",
-    "color_code": "#A3A3A3",
-    "timestamp": "2026-05-06 16:36:38"
+    "weather_report": "As twilight settles over Boston, a gentle mist embraces the streets, hinting at the evening's rain showers that are likely to linger before giving way to the soft embrace of fog. The air holds a coolness that creeps in, inviting a cozy sweater or a light jacket, particularly as temperatures dip toward the lower end of the spectrum. It\u2019s the kind of evening that suggests warmth and comfort indoors\u2014perhaps a good book or a favorite film to keep the mind engaged while the rain creates a soothing rhythm against the windows.\n\nTomorrow, the clouds will gradually part to reveal glimpses of sunshine, promising a delightful mix of warmth and cool breezes as the day unfolds. A stroll beneath the newly refreshed sky could be refreshing, as the air clears and transforms into something invitingly crisp. With temperatures reaching the mid-sixties, light layers would be ideal\u2014think a long-sleeve shirt complemented by a light jacket, suitable for the fluctuating temperatures as morning greets you and the day brightens. A visit to your local caf\u00e9 could offer the perfect escape, where the remnants of the fog give way to the reawakening vibrancy of a city in spring, waiting to be explored.",
+    "color_code": "#8C9C9E",
+    "timestamp": "2026-05-06 20:59:16"
 }
