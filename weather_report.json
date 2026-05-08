@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-08T08:20:00+00:00",
-            "temperature_f": 37.4,
-            "temperature_c": 3,
-            "humidity": 80.661880682868,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-05-08T12:20:00+00:00",
+            "temperature_f": 53.6,
+            "temperature_c": 12,
+            "humidity": 37.699514520477,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 300,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-08T01:00:00-04:00",
-                "endTime": "2026-05-08T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 41,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 41. West wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-05-08T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-05-08T08:00:00-04:00",
                 "endTime": "2026-05-08T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 61,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 24
+                    "value": 18
                 },
                 "windSpeed": "7 to 13 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
-                "shortForecast": "Partly Sunny then Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers after 2pm. Partly sunny, with a high near 61. West wind 7 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
+                "shortForecast": "Mostly Sunny then Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers after 2pm. Mostly sunny, with a high near 62. West wind 7 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-08T18:00:00-04:00",
+                "endTime": "2026-05-09T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 11
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 43. West wind 5 to 10 mph."
             }
         ]
     },
-    "weather_report": "As dawn edges gracefully over Boston, a soft cloak of quiet envelops the city. The lights of the skyline shimmer in the prelude to morning, hinting at a day that promises to be uneventful yet filled with subtle charm. The air is brisk, a gentle invitation for a wrap of warm layers\u2014perhaps a sweater or a lightweight jacket\u2014to guard against the lingering chill. With the temperatures settling around 41 as the day unfolds, an easygoing west wind encourages a leisurely pace.\n\nAs Friday wears on, the atmosphere will flirt with the possibility of isolated showers, a delicate juxtaposition against the partly sunny backdrop. Expect the sky to shift from a tranquil blue to a canvas of muted gray as clouds drift lazily by, potentially teasing rain droplets after the clock strikes two. There is a mere whisper of precipitation in the air, allowing one to venture out to explore the vibrant life of Boston\u2014the local caf\u00e9s beckon with the rich aroma of brewing coffee, while cobblestone streets lie invitingly quiet. Take a moment to stroll through vibrant neighborhoods or savor the latest release from a nearby bookstore, delighting in the little pleasures of the day as you dress for the variable charm of spring.",
-    "color_code": "#A0B8D8",
-    "timestamp": "2026-05-08 04:41:25"
+    "weather_report": "In Boston this morning, the sky stretches out like a serene blue canvas, inviting you to face the day with optimism. With temperatures on the rise towards the pleasant sixty-two, there\u2019s a gentle warmth budding in the air, tempered by a westward breeze that rustles through the burgeoning leaves. Though the sun will bask in its glory for much of the day, do not be surprised if a few isolated rain showers traipse by after two, like visitors who forgot their umbrellas. As the evening approaches, the warmth eases into a crispness, hovering around a cool forty-three, coaxing you to wrap up in something cozy but light.\n\nDressing for today's weather calls for a balance\u2014layer smartly to embrace the warmth of the sun while staying prepared for the chill that arrives with twilight. A medium-weight jacket complemented by comfortable trousers would serve well as you traverse the city\u2019s many avenues. Whether it\u2019s meandering through quaint neighborhoods, enjoying a leisurely coffee al fresco, or simply engaging in the delightful ritual of people-watching, today lends itself well to simple pleasures. The grandeur of the open sky echoes with possibility, offering a backdrop for an uncomplicated day filled with small joys.",
+    "color_code": "#A3C1E5",
+    "timestamp": "2026-05-08 08:40:41"
 }
