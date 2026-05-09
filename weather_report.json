@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-08T20:05:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
-            "humidity": 35.601377229691,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-05-09T00:35:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 43.344699599247,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 240,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-08T16:00:00-04:00",
-                "endTime": "2026-05-08T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 22
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Isolated Rain Showers",
-                "detailedForecast": "Isolated rain showers. Mostly cloudy, with a high near 62. West wind around 14 mph, with gusts as high as 24 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-05-08T18:00:00-04:00",
+                "startTime": "2026-05-08T20:00:00-04:00",
                 "endTime": "2026-05-09T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 17
+                    "value": 11
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 42. West wind 5 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-05-09T06:00:00-04:00",
+                "endTime": "2026-05-09T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
                 },
                 "windSpeed": "5 to 12 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/sct?size=medium",
-                "shortForecast": "Isolated Rain Showers then Partly Cloudy",
-                "detailedForecast": "Isolated rain showers before 7pm. Partly cloudy, with a low around 42. West wind 5 to 12 mph. Chance of precipitation is 20%."
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/rain_showers,100?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers after 9am. Cloudy, with a high near 59. South wind 5 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a tapestry of muted gray and gentle blues brushes the skyline, with clouds drifting lazily above. There is a whisper of rain in the air, mild enough to suggest an occasional soft shower, but not persistent enough to dampen the spirits of those outdoors. A crisp breeze dances in from the west, invigorating without being overpowering, adding texture to the afternoon air. With temperatures hovering around a refreshing 62 degrees, the atmosphere carries both promise and the occasional hint of unpredictability, characterized by a 20% chance of precipitation that makes one keep an eye on the sky.\n\nAs the evening draws near, one can expect the clouds to part ever so slightly to reveal a starlit canvas, although the coolness will settle in with a low that reaches down to about 42 degrees. It is the kind of evening that calls for layers\u2014a light jacket or a cozy sweater would be prudent against the chill. With a chance to enjoy a walk along the Charles River or perhaps a visit to a local caf\u00e9, the conditions invite a pleasant exploration of Boston\u2019s quieter corners, offering both serenity and the simple joy of human connection. Tonight beckons with possibilities, a gentle reminder of the beauty found in everyday moments.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-05-08 16:28:38"
+    "weather_report": "As the evening deepens over Boston, the sky transitions into a gentle tapestry of twilight. The air carries a coolness that wraps around you like an old, familiar shawl, with temperatures settling at around 42 degrees. For those stepping outside, a light jacket or sweater is a comforting choice, perfect against the light breeze that whispers through the streets.\n\nLooking ahead to Saturday, the ambiance shifts dramatically, as the clouds conspire to draw a curtain over the sun. A symphony of raindrops is set to commence post-morning, accompanied by a soft sigh of wind from the south, hinting at impending showers. With a near-certain promise of precipitation, it would be wise to arm yourself with an umbrella and sturdy footwear, as the day wears a face of muted colors and moist asphalt. Expect the landscape to reflect a melancholic beauty, perfect for indoor pleasures\u2014perhaps exploring a cozy caf\u00e9 or losing yourself in the rich stories at the local library. There\u2019s something inherently soothing about the rhythm of rain against windows, an invitation to pause and savor the moment.",
+    "color_code": "#5C4B8C",
+    "timestamp": "2026-05-08 20:58:53"
 }
