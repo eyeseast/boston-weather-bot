@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-09T08:25:00+00:00",
-            "temperature_f": 33.8,
-            "temperature_c": 1,
-            "humidity": 93.032455771759,
+            "timestamp": "2026-05-09T12:10:00+00:00",
+            "temperature_f": 42.8,
+            "temperature_c": 6,
+            "humidity": 87.000902360951,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-09T04:00:00-04:00",
-                "endTime": "2026-05-09T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 42. Southwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-05-09T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-05-09T08:00:00-04:00",
                 "endTime": "2026-05-09T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -52,11 +33,30 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/tsra,80?size=medium",
                 "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Rain showers likely between 7am and 5pm, then showers and thunderstorms. Cloudy, with a high near 61. South wind 2 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain showers likely before 5pm, then showers and thunderstorms. Cloudy, with a high near 61. South wind 2 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-09T18:00:00-04:00",
+                "endTime": "2026-05-10T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 80
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,80/rain_showers,30?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Showers and thunderstorms before 9pm, then rain showers likely and patchy fog between 9pm and 1am, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 49. South wind 5 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As the early hours of Saturday unfurl over Boston, the atmosphere is thick with a promise of change. Currently, the scene is painted with a canvas of mostly cloudy skies, a chill holding fast at around 42 degrees. A gentle southwest wind whispers through the stillness, adding a touch of crispness to the twilight air. The day ahead harbors rain showers that will likely weave their way between the hours of morning and afternoon, evolving into the possibility of thunderstorms as daylight unfurls. A cooler high of 61 degrees suggests that while the warmth of spring is trying to assert itself, the weather remains temperamental, and an 80% chance of precipitation means umbrellas will be essential companions.\n\nGiven the impending dampness, one might choose layers of comfort\u2014perhaps a light waterproof jacket over a soft, breathable sweater, complemented by well-fitting pants and sturdy shoes, ready to tread through puddles with ease. The essence of the day calls for a gentle embrace of indoor pursuits; perhaps a visit to a small caf\u00e9, where a steaming cup of coffee can warm the hands while watching the world huddle for cover outside. Alternatively, a trip to a museum or a cozy bookstore could offer solace from the storm, inviting slow moments of leisure. The elements have set the stage for hushed adventures, where the beauty lies in the understated charm of the rainy day routine.",
-    "color_code": "#666666",
-    "timestamp": "2026-05-09 04:39:53"
+    "weather_report": "As the morning unfurls over Boston, the day clings to the overcast skies, a heavy blanket promising rain and the occasional rumble of thunder. With temperatures hovering in the low sixties, the air is imbued with a chill that whispers of the rain showers expected to dance through the afternoon. The atmosphere carries a palpable humidity, hinting at the moisture that will soon manifest in sporadic bursts from the heavens. It's a day steeped in gray, robust and certain, as the chance of precipitation lingers like a shadow, looming at 80%. \n\nAs night approaches, the final claps of thunder may echo, giving way to a cooler embrace as temperatures dip to the brisk forties. Fog will likely weave through the streets post-rain, offering a romantic haze over the familiar landscapes of the city. Given the weather\u2019s enigmatic nature, sweater layers and a stylish yet functional raincoat should be your allies in navigating the day\u2019s unpredictability. Outdoor pursuits might yield to indoor comforts\u2014an afternoon spent with a captivating book in a cozy caf\u00e9 or a leisurely stroll through the lively city streets could offer solace as the rain taps at the window. In this atmospheric interplay of weather, one finds not gloom but rather an invitation to linger a little longer indoors, wrapped in the warmth of coffee and good company.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2026-05-09 08:28:50"
 }
