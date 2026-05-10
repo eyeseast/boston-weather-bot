@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-09T20:00:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 76.998577407491,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 170,
-            "description": "Light Rain"
+            "timestamp": "2026-05-10T05:00:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 93.553471551667,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-09T16:00:00-04:00",
-                "endTime": "2026-05-09T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 57
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely. Mostly cloudy, with a high near 61. South wind around 14 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-05-09T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-05-10T01:00:00-04:00",
                 "endTime": "2026-05-10T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 84
+                    "value": 23
                 },
-                "windSpeed": "6 to 13 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,80/rain_showers,20?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Rain showers likely before 7pm, then showers and thunderstorms between 7pm and 9pm, then a chance of rain showers and patchy fog between 9pm and 1am. Mostly cloudy, with a low around 49. South wind 6 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
+                "shortForecast": "Areas Of Fog",
+                "detailedForecast": "Areas of fog and a slight chance of rain showers. Mostly cloudy, with a low around 49. South wind around 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-05-10T06:00:00-04:00",
+                "endTime": "2026-05-10T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 73,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 24
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "Areas of fog before 10am, then a slight chance of rain showers. Mostly cloudy, with a high near 73. Southwest wind 6 to 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sky drapes itself in a moody quilt of gray, thick with clouds that promise a gentle cascade of rain showers. As the temperature hovers near a brisk 61 degrees, there's a tangible softness to the air, stirred by a south wind that whispers around 14 mph. The forecast hints at an 80% chance of rain this evening, with showers making their timely appearance before dusk, accompanied by brief thunderstorms. It\u2019s a moment where the city seems to hold its breath, anticipating the stirring of nature\u2019s elements, a reminder of spring\u2019s unpredictable temperament.\n\nAs twilight descends, the atmosphere, cloaked in moisture, may invite patches of fog to flirt with the edges of visibility. You might decide to forego the whimsy of a lighter jacket in favor of something cozier\u2014 perhaps a soft fleece or a light water-resistant layer\u2014 to counter the chill that accompanies the impending shower. With the rhythm of the rain outside, this is an ideal time for embracing the quiet corners of your favorite caf\u00e9, savoring a warm beverage, or perusing the local bookstore for that volume you've been eager to explore. While the weather may seem less than inviting for the outdoor enthusiast, it carries its own charm; after all, life's simple pleasures often shine the brightest on such overcast afternoons.",
-    "color_code": "#B0C4C7",
-    "timestamp": "2026-05-09 16:20:07"
+    "weather_report": "As the night wraps its tender cloak around Boston, a gentle veil of fog mingles with the slight chance of rain, weaving an ethereal charm over the city. The air holds a cool crispness, hinting at the warmth that will embrace the day ahead. With temperatures expected to kiss the low fifties overnight, a light jacket and soft layers will make for a comfortable escape into the morning's haze. As dawn breaks, those swaths of fog cling quietly to the path, offering a soft, muted landscape that beckons exploration.\n\nSunday promises a gentle awakening from this misty slumber, with the promise of mostly cloudy skies and highs nearing a pleasant seventy-three degrees. A loose breeze from the southwest will bring a whisper of warmth, an ideal companion for those emerging from their weekend cocoon. With sturdy shoes and a light wrap in hand, wander along the city's storied streets or perhaps find solace with a book in one of the local parks, the contemplative calm of fog lending itself beautifully to reflection. Embrace the unique character of this day where the ordinary becomes a serene retreat from life\u2019s rush.",
+    "color_code": "#A6A39A",
+    "timestamp": "2026-05-10 01:19:07"
 }
