@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-10T20:05:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 49.934634256059,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2026-05-11T00:40:00+00:00",
+            "temperature_f": 62.6,
+            "temperature_c": 17,
+            "humidity": 72.401374699018,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 310,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-10T16:00:00-04:00",
-                "endTime": "2026-05-10T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 73,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 23
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms. Mostly sunny, with a high near 73. Southwest wind around 10 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-05-10T18:00:00-04:00",
+                "startTime": "2026-05-10T21:00:00-04:00",
                 "endTime": "2026-05-11T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 47,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 23
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers before 5am. Mostly cloudy, with a low around 47. Northwest wind 5 to 8 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A slight chance of rain showers between 11pm and 5am. Mostly cloudy, with a low around 47. Northwest wind around 5 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-05-11T06:00:00-04:00",
+                "endTime": "2026-05-11T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 7
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 64. Northwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon sun pours gently through the clouds, Boston wears a dress of mostly vibrant blue, punctuated by those soft, cotton-like formations that hint at a whisper of moisture lingering in the air. The temperature hovers comfortably around the mid-seventies, a gentle reminder of spring's full embrace, though a slight chance of showers and thunderstorms adds a tantalizing unpredictability. For those stepping outside, lightweight layers would be ideal; a soft cardigan or a light jacket can provide comfort against the occasional breeze that plays its own melody.\n\nAs dusk approaches, the atmosphere promises a shift, trading the warmth of the day for a cooler evening. With temperatures dipping into the upper forties, the burgeoning clouds may tempt a drizzle before dawn, leaving the streets glistening with fresh rain. This evening could be perfect for a quiet stroll through the winding streets of Boston, perhaps a little coffee in hand as you navigate the nuanced balance of warmth and coolness. Alternatively, a visit to a cozy spot with a view of the sweeping skyline might allow one to reflect and appreciate the veil of clouds slowly receding to the embrace of night.",
-    "color_code": "#A9CDA4",
-    "timestamp": "2026-05-10 16:21:37"
+    "weather_report": "As night blankets Boston, a soft veil of clouds drifts across the sky, mingling with the delicate flickers of city lights below. The air holds a slight chill that whispers of a cooler night ahead, presenting a peaceful tranquility with just the hint of impending rain lurking in the shadows of the early morning hours. With temperatures dipping to a crisp 47 degrees, the gentle northwest wind brings about the kind of calm that invites a lightweight jacket or perhaps a cozy sweater, allowing one to stroll comfortably along the waterfront or venture out for an evening walk.\n\nLooking ahead to tomorrow, the sun\u2019s rays promise to break through the morning clouds, revealing a pleasantly mild day with temperatures approaching 64. It's a respite beckoning one to seize the opportunity for leisurely activities\u2014perhaps a visit to one of the local parks or a quaint caf\u00e9 with outdoor seating, where one can sip coffee and bask in the mildness of a spring day. The light breeze calls for comfortable attire, so dressing in layers would allow for a smooth transition from the cooler morning to the warmth of the afternoon sun, complementing a day that is sure to bring joy to any simple outing.",
+    "color_code": "#7D9F21",
+    "timestamp": "2026-05-10 21:04:14"
 }
