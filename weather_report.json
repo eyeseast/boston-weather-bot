@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-11T20:25:00+00:00",
-            "temperature_f": 60.8,
-            "temperature_c": 16,
-            "humidity": 27.011411875611,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 260,
+            "timestamp": "2026-05-12T00:35:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 43.344699599247,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-11T16:00:00-04:00",
-                "endTime": "2026-05-11T18:00:00-04:00",
+                "name": "Tonight",
+                "startTime": "2026-05-11T20:00:00-04:00",
+                "endTime": "2026-05-12T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 43. Northwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-05-12T06:00:00-04:00",
+                "endTime": "2026-05-12T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 63,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 4
+                    "value": 0
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 63. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-05-11T18:00:00-04:00",
-                "endTime": "2026-05-12T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 44. Northwest wind around 6 mph."
+                "windSpeed": "8 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 63. North wind around 8 mph."
             }
         ]
     },
-    "weather_report": "As afternoon settles softly over Boston, the sky wears a muted palette of gray with fleeting hints of blue peeking through the clouds. With temperatures poised around a gentle sixty-three degrees, a light northwest breeze lends a fresh touch to the urban air, inviting you to step outside and relish the day\u2019s subtle charm. The clouds, while a bit thick, don't threaten rain, leaving the promise of a pleasant evening for those who venture out. As twilight approaches, temperatures will dip to a cool forty-four, offering a perfect excuse to wrap yourself in a light jacket or perhaps a cozy scarf against the evening chill.\n\nThis time of year, the city pulses with a quiet energy, making it an ideal moment for a leisurely stroll along the harbor or a visit to your favorite park. You might discover a hidden nook, a caf\u00e9 offering warm brews, or simply take a moment to observe the world, the rhythm of life blending seamlessly with the soft rustle of leaves and distant chatter. Such days call for simplicity\u2014embrace the inviting air, breathe deeply, and enjoy the gentle embrace of early spring in Boston.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-05-11 16:40:55"
+    "weather_report": "As twilight gathers over Boston, the sky reveals a tapestry of muted colors, hinting at the night\u2019s embrace. A gentle chill hovers in the air, a subtle reminder that warmth is just a sweater away. Tonight promises mostly cloudy skies, draping the city in a soft, subdued blanket. The northwest wind whispers around six miles per hour, caressing the branches of trees and inviting a moment of quiet reflection among the evening's activities.\n\nCome Tuesday, a pleasant turn awaits, as the sun will rise boldly, casting its golden rays across the landscape. Expect a high near 63, perfect for leisurely pursuits that breathe life into spring. As you step outside, think of lighter layers\u2014perhaps a comfortable shirt paired with a light jacket. The north wind will continue to play its role, but nothing to deter an invigorating stroll through the winding streets or a visit to one of the city\u2019s charming parks. Consider indulging in a quaint caf\u00e9, sipping a warm brew while watching the day unfold. With the clear skies devoid of fog, Boston invites you to engage with its lively spirit, creating memories best savored in the fresh spring air.",
+    "color_code": "#4A90E2",
+    "timestamp": "2026-05-11 20:58:02"
 }
