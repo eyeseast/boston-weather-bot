@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-13T05:05:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 93.248095448059,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Clear"
+            "timestamp": "2026-05-13T12:35:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 71.281266407174,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 160,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-13T01:00:00-04:00",
-                "endTime": "2026-05-13T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 45. Southwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-05-13T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-05-13T08:00:00-04:00",
                 "endTime": "2026-05-13T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 65,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 21
                 },
-                "windSpeed": "3 to 16 mph",
+                "windSpeed": "5 to 16 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 9am and 1pm. Mostly cloudy, with a high near 65. South wind 3 to 16 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers between 9am and 1pm. Mostly cloudy, with a high near 65. South wind 5 to 16 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-13T18:00:00-04:00",
+                "endTime": "2026-05-14T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 16
+                },
+                "windSpeed": "7 to 15 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 5am. Mostly cloudy, with a low around 51. South wind 7 to 15 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning hours, Boston rests beneath a shroud of clouds, an understated blanket that suggests change is on the horizon. The gentle whisper of a southwest breeze stirs the leaves, a shy precursor to the day ahead. With the mercury faintly hovering around 45 degrees, there\u2019s a crispness in the air, an invitation to wrap oneself in the embrace of a light jacket, perhaps layered over a soft sweater. \n\nAs the day unfolds, the clouds will dance in anticipation, casting a muted light over the city with a high inching toward a comfortable 65 degrees. While a slight chance of rain flirts with the morning, the day promises to be punctuated by moments of clarity, breaking through the gray canvas to reveal the vibrant hues of spring. It\u2019s a time to wander the less-traveled paths of Boston, perhaps meandering by the Charles River or enjoying a quiet moment in a local caf\u00e9, sipping on a warm brew. Today is not one for grandiose adventures or bustling outdoor festivals, but rather a gentle invitation to embrace the simplicity of life and the beauty of a city awakening.",
-    "color_code": "#A0C3D2",
-    "timestamp": "2026-05-13 01:24:07"
+    "weather_report": "As morning light gently filters through the overcast sky, Boston awakens to a canvas of muted greys. The air hangs heavy with the faint promise of rain, only a whisper of moisture daring to dance on the edge of the day. With a high of 65, the warmth is cloaked in a soft shroud, the south winds stirring gently, yet at times billowing with a spirited gust. As the clock ticks toward the afternoon, the slight chance of rain showers remains\u2014a lingering possibility that teeters precariously between the mundane and the dramatic.\n\nFor those venturing out, a light jacket would offer comfort against the coolness of the breeze while remaining stylishly casual. Ideal for a late morning stroll, the day hints at potential activity\u2014perhaps a quiet visit to a local caf\u00e9, where the aroma of freshly brewed coffee mingles with the hum of conversation, or an idyllic moment in a nearby park, watching the clouds lazily drift overhead. Evening will come dressed in a similar cloak, and while rain may flirt with the idea of arrival, the essence of the day is grounded in a rich tapestry of soft sounds and subdued colors, beckoning one to appreciate the subtleties of life within the city.",
+    "color_code": "#A3A8B5",
+    "timestamp": "2026-05-13 08:55:36"
 }
