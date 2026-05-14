@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-14T08:45:00+00:00",
-            "temperature_f": 55.4,
-            "temperature_c": 13,
-            "humidity": 76.681069549305,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 150,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-05-14T12:30:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
+            "humidity": 72.218947621294,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 160,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-14T05:00:00-04:00",
-                "endTime": "2026-05-14T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 53. South wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-05-14T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-05-14T08:00:00-04:00",
                 "endTime": "2026-05-14T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 61,
@@ -52,11 +33,30 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,90?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers after 8am. Cloudy. High near 61, with temperatures falling to around 55 in the afternoon. Southeast wind around 10 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Rain showers. Cloudy. High near 61, with temperatures falling to around 55 in the afternoon. Southeast wind around 10 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-14T18:00:00-04:00",
+                "endTime": "2026-05-15T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 98
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,100/rain_showers,70?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers. Cloudy, with a low around 49. Northeast wind 3 to 8 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn unfurls over Boston, a thick veil of clouds shrouds the city, casting a subdued light that hints at the day's potential. Currently, the air feels cool, carrying a whisper of warmth\u2014sweet but fleeting\u2014enough to soften the chill as night slowly yields to morning. The forecast paints a picture of impending rain, with showers expected to commence shortly after eight, a reminder that the spring rains are upon us. One might brace for a high of sixty-one, which will crest before slipping back towards a more temperate fifty-five by the afternoon, as eager raindrops tap gently at the windows.\n\nGiven the likely precipitation, dressing in layers would be prudent\u2014perhaps a light waterproof jacket alongside a comfortable sweater, allowing for both warmth and flexibility. These drizzly conditions are best met with sensible footwear, especially if the cobblestone streets bear the weight of puddles and reflections. Though outdoor activities might seem less appealing, consider a stroll through the elegant arcades of the Boston Public Library or a quiet coffee in a corner caf\u00e9; the ambiance of rain-soaked streets can provide a certain intimacy that we so often seek amidst our bustling lives. As the day unfolds, surrender to the rhythm of the clouds and find solace in the gentle persistence of the rain.",
-    "color_code": "#8B9DC3",
-    "timestamp": "2026-05-14 05:05:32"
+    "weather_report": "As dawn breaks over Boston, a heavy blanket of clouds envelops the city, casting a muted light over the awakening streets. The air carries a tangible dampness, a harbinger of the rain showers that are set to dominate the day. With temperatures hovering around the low sixties, giving way to a cooler afternoon, one can almost feel the heaviness of impending precipitation, a steadfast promise from the gathering clouds. This morning, the gentle southeast wind is almost a whisper against the skin, yet it hints at the greater gusts that may swirl as the day progresses, inviting a certain somber reflection.\n\nAs we move toward midday, the rain will intensify, drumming softly but insistently on rooftops and sidewalks. While some might see the day as drab, there\u2019s a quiet charm in the drizzle\u2014a chance to embrace the cozy sanctuaries of coffee shops or the comforting embrace of a well-worn book. Prepare to don layers: perhaps a light water-resistant jacket, comfortable shoes, and an umbrella at the ready, for tonight promises a relentless onslaught of rain, with the chill descending rapidly to the high forties. The chance for outdoor revelries may be washed away, and the allure of a tranquil evening in, accompanied by a steaming mug and soft melodies, feels far more inviting under this dreary shroud.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2026-05-14 08:47:58"
 }
