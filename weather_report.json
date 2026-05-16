@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-16T08:25:00+00:00",
-            "temperature_f": 39.2,
-            "temperature_c": 4,
-            "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog"
+            "timestamp": "2026-05-16T12:10:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 82.008317294977,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 220,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-16T04:00:00-04:00",
-                "endTime": "2026-05-16T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 47,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog before 5am. Mostly clear, with a low around 47. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-05-16T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-05-16T08:00:00-04:00",
                 "endTime": "2026-05-16T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 77,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 77. Southwest wind 6 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-16T18:00:00-04:00",
+                "endTime": "2026-05-17T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "8 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct/rain_showers,20?size=medium",
+                "shortForecast": "Partly Cloudy then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers between 4am and 5am. Partly cloudy, with a low around 59. Southwest wind 8 to 12 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the early morning unfolds in Boston, a gentle veil of patchy fog lingers, slowly retreating with the arrival of dawn. The air is cool and crisp, perhaps hinting at the softly fading remnants of night, while the promise of a sunny day hovers just beyond the horizon. With the forecast predicting clear skies and a comfortable high around 77 later today, you can anticipate a transformation that will bathe the city in warm, inviting light, perfect for strollers and seekers of the outdoors.\n\nDressing thoughtfully for such a pleasant transition might involve a light layer against the morning chill, swapping it later for something more breathable as the sun takes center stage. Perhaps a leisurely stroll along the Esplanade or a visit to a local caf\u00e9 would suit the mood, as the city awakens and its rhythms quicken. Life in Boston today seems to invite introspection as well as activity, perfect for those who appreciate both the rush of nature and the slow unfolding of a tranquil morning.",
-    "color_code": "#A0C8F0",
-    "timestamp": "2026-05-16 04:41:23"
+    "weather_report": "Beneath a sweeping azure sky, Boston awakens to a splendidly sunny day, inviting all to step outside and embrace the warmth. The soft kiss of a southwest breeze dances through the streets, carrying with it the refreshing scents of early spring. As the sun climbs toward its zenith, the temperature nudges a comfortable 77, beckoning picnickers to dust off their blankets and find a favorite patch of grass along the Charles River. The day promises clarity, unmarred by fog, casting a vibrant light that glimmers off windows and reflects the cheerful spirit of the city.\n\nAs the evening settles in, a gentle transition begins, with whispers of rain forecasted in the early hours. Before nightfall, one might consider a leisurely stroll through the cobblestone streets of Beacon Hill or an early dinner at a local caf\u00e9, relishing the last golden rays of light. The night air will cool to a moderate 59, making a light jacket a wise choice for those aiming to extend their enjoyment under the stars. With the chance of the passing shower lingering low on the horizon, today unfolds as a beautiful reminder of spring's charm, inviting moments of connection and contemplation in Boston's embrace.",
+    "color_code": "#58A4B0",
+    "timestamp": "2026-05-16 08:31:03"
 }
