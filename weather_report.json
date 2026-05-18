@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-17T20:00:00+00:00",
-            "temperature_f": 87.8,
-            "temperature_c": 31,
-            "humidity": 29.211402312476,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 270,
-            "description": "Mostly Clear"
+            "timestamp": "2026-05-18T00:40:00+00:00",
+            "temperature_f": 78.8,
+            "temperature_c": 26,
+            "humidity": 41.728049158235,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 230,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-17T16:00:00-04:00",
-                "endTime": "2026-05-17T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 85,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 23
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct,20?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 85. West wind around 13 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-05-17T18:00:00-04:00",
+                "startTime": "2026-05-17T21:00:00-04:00",
                 "endTime": "2026-05-18T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 9
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 56. North wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-05-18T06:00:00-04:00",
+                "endTime": "2026-05-18T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 79,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
                 },
                 "windSpeed": "3 to 10 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/few,20/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 56. North wind 3 to 10 mph. Chance of precipitation is 20%."
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 79. Southeast wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the atmosphere carries a gentle warmth, as the sun makes its presence felt through a tapestry of soft clouds. With temperatures nearing a pleasant 85 degrees, the light breeze from the west adds a refreshing touch, stirring nearby leaves and inviting the myriad of pedestrians outside to bask in this joyful weather. The possibility of rain is minimal, just a whisper in the air, allowing for uninterrupted moments of leisure. As the day transitions into evening, that warmth gives way to a cool embrace, with the night settling in comfortably around 56 degrees.\n\nAs daylight wanes, this is a time to revel in the simplicity of life; perhaps a leisurely walk along the Charles River, where the reflections dance upon the water\u2019s surface, or a quiet moment spent with a book in a park as the sun dips low. As evening approaches, lightweight layers may suffice to ward off the approaching coolness, offering comfort without weighing you down. The idyllic blend of sunshine and clear skies serves as an invitation to savor the present, making for a truly delightful day in the heart of Boston.",
-    "color_code": "#A5C6D7",
-    "timestamp": "2026-05-17 16:22:23"
+    "weather_report": "As night gently blankets Boston, the atmosphere settles into a serene calm, marked by mostly clear skies that embrace a coolness accentuated by the soft north wind. With temperatures drifting down to around fifty-six degrees, it is a moment to savor, where tranquility meets the whisper of evening. The moon plays a quiet role, its slender crescent casting a watchful gaze across the cityscape, while the twinkling lights of Boston punctuate the darkness, creating a beautiful tapestry against the night sky.\n\nTomorrow promises to bring a breath of sunshine, with the warmth inching toward seventy-nine degrees as the day unfolds under a blanket of mostly blue. The southeast wind will carry whispers of spring, inviting residents and adventurers alike to don light layers for comfort. Perhaps a brisk morning stroll along the Charles River will beckon you, or a leisurely afternoon spent at one of the local caf\u00e9s, enjoying the ambiance of the city as it stirs awake. As the sun ascends, its rays will shine upon the vibrant, bustling avenues, a reminder of the simple pleasures this city offers\u2014a good book in a park, a visit to a local artist\u2019s gallery, or simply basking in the warmth of the day, adding to the tapestry of experiences that define your week.",
+    "color_code": "#4B0082",
+    "timestamp": "2026-05-17 21:06:47"
 }
