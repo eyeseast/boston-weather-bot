@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-19T09:05:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 93.838813960785,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 170,
+            "timestamp": "2026-05-19T13:00:00+00:00",
+            "temperature_f": 80.6,
+            "temperature_c": 27,
+            "humidity": 61.613746674378,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 240,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-19T05:00:00-04:00",
-                "endTime": "2026-05-19T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 66. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-05-19T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-05-19T09:00:00-04:00",
                 "endTime": "2026-05-19T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 92,
@@ -51,12 +32,31 @@
                 "windSpeed": "7 to 13 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/day/hot/rain_showers,20?size=medium",
-                "shortForecast": "Sunny then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 5pm. Sunny, with a high near 92. Southwest wind 7 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 5pm. Mostly sunny, with a high near 92. Southwest wind 7 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-19T18:00:00-04:00",
+                "endTime": "2026-05-20T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 71,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 26
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/sct?size=medium",
+                "shortForecast": "Chance Rain Showers then Partly Cloudy",
+                "detailedForecast": "A chance of rain showers before 8pm. Partly cloudy, with a low around 71. Southwest wind around 12 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the air carries a soft clarity, heralding a day that will gradually unveil its warm embrace. The atmosphere is currently calm, with a slight hint of lingering humidity that hints at a potential shower later in the afternoon. With the temperature expected to rise, the city is bracing for a sultry high that could reach into the lower nineties. Yet, as the sun climbs into the sky, it\u2019s the kind of warmth that beckons you outdoors rather than deters you. \n\nConsidering the gentle breeze from the southwest, you might opt for light layers\u2014perhaps a breathable cotton shirt to keep the heat at bay, complemented by comfortable shorts that allow for freedom of movement in this vibrant city. The potential for a fleeting sprinkle in the late afternoon may suggest carrying a light jacket or a compact umbrella, but the day promises more sun than clouds, offering ample opportunity for an afternoon stroll along the esplanade or perhaps a leisurely visit to a local caf\u00e9 with outdoor seating. It is a moment to savor, as Boston\u2019s heartbeat quickens with the arrival of another summer day, allowing for a balance of relaxation and adventure amid the urban landscape.",
-    "color_code": "#D4C218",
-    "timestamp": "2026-05-19 05:21:18"
+    "weather_report": "As the sun rises high over Boston, the day unfolds with hints of warmth tempered by a delicate whisper of breeze, carrying with it the scent of dew-kissed greenery. The forecast beckons with a high approaching 92 degrees, a promise of summer\u2019s embrace, while the clouds linger only as a fleeting afterthought. The clarity of the sky emerges like a soft-spoken story, marking a day that invites both adventure and respite.\n\nA gentle southwest wind rustles the leaves, providing a comfortable companion against the growing warmth. However, a chance of rain lingers like an uninvited guest, whispering of showers in the evening. It would be wise to dress in light fabrics that breathe, yet perhaps carry a light layer or a small umbrella, just in case the weather decides to share its unpredictable nature later on. As the day unfolds, one might find joy in the simplest of activities\u2014a leisurely stroll through nearby parks, allowing the sun\u2019s rays to dance upon their skin, or perhaps enjoying the quiet corners of a cozy caf\u00e9, sipping chilled beverages while watching the world go by. This is a day to savor the simplicity of life amidst the growing bustle of the city, where each moment holds the potential for quiet delight.",
+    "color_code": "#D0E7F3",
+    "timestamp": "2026-05-19 09:19:50"
 }
