@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-20T05:10:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 93.929774401027,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 150,
-            "description": "Fog/Mist"
+            "timestamp": "2026-05-20T12:50:00+00:00",
+            "temperature_f": 78.8,
+            "temperature_c": 26,
+            "humidity": 65.355762196942,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 250,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-20T01:00:00-04:00",
-                "endTime": "2026-05-20T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 70. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-05-20T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-05-20T09:00:00-04:00",
                 "endTime": "2026-05-20T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 91,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 30
                 },
-                "windSpeed": "8 to 13 mph",
+                "windSpeed": "9 to 13 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/hot/tsra_hi,30?size=medium",
                 "shortForecast": "Mostly Sunny then Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms between 2pm and 4pm, then a slight chance of showers and thunderstorms. Mostly sunny. High near 91, with temperatures falling to around 83 in the afternoon. West wind 8 to 13 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of showers and thunderstorms between 2pm and 4pm, then a slight chance of showers and thunderstorms. Mostly sunny. High near 91, with temperatures falling to around 83 in the afternoon. West wind 9 to 13 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-20T18:00:00-04:00",
+                "endTime": "2026-05-21T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 19
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers before 2am. Mostly cloudy, with a low around 56. Northwest wind 6 to 12 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the shadows deepen across the city of Boston, a tranquil night envelops the streets, with the temperature settling comfortably around seventy degrees. The breeze whispers through the trees, soft and warm, offering a gentle embrace against the stillness of the evening. Just beyond the horizon, the promise of tomorrow beckons with hints of sunshine edging ever closer. Yet for now, the city cloaks itself in a calm clarity, hinting at the vibrant day that awaits.\n\nWhen dawn breaks, Boston will greet Wednesday with a mixture of sunny splendor and a few flirtatious clouds. The air will warm to a near-scorching ninety-one degrees before the afternoon softens to a more manageable temperature around eighty-three. Light breezes from the west will sweep through, carrying with them the possibility of scattered showers and perhaps a rumble of thunder. As the day unfolds, a practicality in dressing is advised\u2014a light layer will suffice for early warmth, but keep an umbrella at hand as the heavens may let loose in the afternoon. \n\nFor those inclined to venture out, consider a stroll along the waterfront where the city breathes life into the day. Visit a quaint caf\u00e9, savoring the rich aroma of fresh coffee wafting in the air, or perhaps take solace in the serene embrace of a nearby park as the sun bathes everything in warmth. Whatever your choice, tomorrow promises to be a mixture of delightful sun and the wistful possibility of those purifying summer showers.",
-    "color_code": "#FFCC66",
-    "timestamp": "2026-05-20 01:29:16"
+    "weather_report": "As the sun rises over Boston, the day awakens with a whisper of warmth, promising a mixed bag of weather. Encroaching clouds float lazily across the sky, hinting at the possibility of late afternoon thunderstorms that may roll in like the soft rustle of distant thunder. The sun, steadfast yet subdued, urges the temperature toward a high near 91 degrees\u2014an invitation for outdoor pursuits tinged with caution. The air is filled with a palpable energy, although the looming threat of showers ignites a sense of urgency amidst the comfortable glow.\n\nAs the day drifts on toward evening, one might find the atmosphere transforming\u2014clouds gathering, shadows lengthening, hinting that the quiet moments before rain can bring a serene kind of beauty. The evening promises cooler air, falling to a refreshing low of 56. As for attire, light layers would serve well, allowing for easy transitions as warmth gives way to a cooler night. Perhaps it\u2019s a fine opportunity for a leisurely stroll along the Charles River, where the rippling reflections dance beneath the ever-changing sky. With the scent of imminent rain in the air, those who venture outdoors may want to keep an umbrella handy, not for the seeking of storms, but for the emotive experience of a city that thrives even in the face of changing weather.",
+    "color_code": "#A8C8E8",
+    "timestamp": "2026-05-20 09:06:00"
 }
