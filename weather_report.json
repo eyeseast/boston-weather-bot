@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-20T20:35:00+00:00",
-            "temperature_f": 87.8,
-            "temperature_c": 31,
-            "humidity": 45.911833266115,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2026-05-21T00:50:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 50.200126046479,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 280,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-20T16:00:00-04:00",
-                "endTime": "2026-05-20T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 92,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 23
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms before 5pm. Mostly sunny. High near 92, with temperatures falling to around 86 in the afternoon. West wind around 17 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-05-20T18:00:00-04:00",
+                "startTime": "2026-05-20T21:00:00-04:00",
                 "endTime": "2026-05-21T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 55,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 20
                 },
-                "windSpeed": "6 to 16 mph",
+                "windSpeed": "6 to 9 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers between 10pm and 3am. Mostly cloudy, with a low around 55. Northwest wind 6 to 16 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers between 10pm and 3am. Mostly cloudy, with a low around 55. Northwest wind 6 to 9 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-05-21T06:00:00-04:00",
+                "endTime": "2026-05-21T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 15
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain showers between 8am and 9am. Mostly cloudy, with a high near 65. North wind around 7 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the late afternoon sun casts its golden glow over Boston, the air is warm and tinged with a slight breeze, hinting at the summer ahead. The current ambience carries with it an unmistakable aura of leisure and a whisper of spontaneity. With temperatures navigating towards a pleasant high, the sky is predominantly clear, adorned with wisps of clouds that float lazily, inviting the daydreamer to ponder life\u2019s simple joys. While there\u2019s a slight chance of rain as twilight deepens, the present moment offers a luminous clarity, ideal for strolling through the Common or lingering over a book in a cozy caf\u00e9.\n\nAs the sun begins its descent, preparing to exchange its bright reign for the tranquility of the night, a light jacket is advisable for those planning to extend their outings. The weather encourages escape\u2014from the office, from routine\u2014beckoning the adventurous to grab a bike and explore the meandering paths along the Charles River or to embark on a culinary quest in one of the city\u2019s inviting neighborhoods. Should the cloud cover settle in later, bringing a hint of rain, the allure of a cozy spot to sip tea or enjoy a warm biscuit becomes increasingly tempting. Engage in the evening with simple pleasures, relishing both the warmth of the day and the cool, contemplative night that follows.",
-    "color_code": "#4A90E2",
-    "timestamp": "2026-05-20 16:49:43"
+    "weather_report": "As twilight wraps its arms gently around Boston, a slightly brisk atmosphere begins to settle in, with comfortable temperatures lingering around the mid-fifties. The evening sky, quite cloudy, hints at the possibility of stray showers, a soft whisper of rain that could tap lightly against windows and rooftops overnight. While the moisture lingers in the air, the chance remains modest at twenty percent, leaving some hope for a dry evening under the canvas of mottled clouds. A gentle northwesterly breeze breathes across the city, heralding the change of the season that lies just around the corner.\n\nOn Thursday morning, one can expect more of the same\u2014clouds dominating the sky and the lightest of rain potentially brushing through at dawn. The air carries a coolness that would suggest dressing in layers: a light jacket over a cozy sweater could provide the warmth necessary for an early stroll along the Charles or a drive through the backroads framed by the whispering trees. As the day unfolds, the high will reach a pleasant sixty-five, perfect for leisurely activities, whether it\u2019s indulging in a good book at a caf\u00e9 terrace or wandering through one of the city\u2019s vibrant neighborhoods, taking in the subtle details life has to offer. Embrace the ambiance of this understated day, and let it guide your moments in the unfolding narrative of your spring.",
+    "color_code": "#4A4E63",
+    "timestamp": "2026-05-20 21:08:35"
 }
