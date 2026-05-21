@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-21T09:00:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 42.599691859382,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 350,
-            "description": "Partly Cloudy"
+            "timestamp": "2026-05-21T13:00:00+00:00",
+            "temperature_f": 62.6,
+            "temperature_c": 17,
+            "humidity": 48.306889338497,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 330,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-21T05:00:00-04:00",
-                "endTime": "2026-05-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 57,
+                "name": "Today",
+                "startTime": "2026-05-21T09:00:00-04:00",
+                "endTime": "2026-05-21T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 64,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 13
+                    "value": 22
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. North wind around 7 mph."
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain showers before noon. Mostly cloudy, with a high near 64. East wind 5 to 8 mph. Chance of precipitation is 20%."
             },
             {
                 "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-05-21T06:00:00-04:00",
-                "endTime": "2026-05-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 66,
+                "name": "Tonight",
+                "startTime": "2026-05-21T18:00:00-04:00",
+                "endTime": "2026-05-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 45,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 13
+                    "value": 7
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 66. Northeast wind around 7 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 45. North wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "In Boston this morning, a soft veil of clouds drapes the city like a delicate shawl, imparting a muted tranquility to the surroundings. The air is fresh, cradling the promise of a day that will remain cool, a gentle north wind weaving through the streets. As daylight breaks, the world\u2019s inhabitants stir awake in the embrace of a crisp 57 degrees, ideal for the adventures that today beckons. Expect the temperatures to rise modestly to around 66, but the persistent cloud cover suggests the sun will play coy, revealing its warmth intermittently.\n\nWhile the morning invites a reflective stroll through the quieter streets or perhaps a visit to a nearby caf\u00e9 where the aroma of freshly brewed coffee intertwines with the cool air, later hours may call for a light jacket or perhaps a layer of warmth as the evening cools. It\u2019s a day for simple pleasures\u2014taking a leisurely walk along the Charles River or indulging in a moment of introspection at a local park, allowing the soft ambient sounds of the city to accompany your thoughts. The conditions support an air of peacefulness, making it an apt time to connect with oneself or with friends in meaningful conversation, all while wrapped in comfortable clothing to ward off the lingering chill.",
-    "color_code": "#A6C5D7",
-    "timestamp": "2026-05-21 05:18:14"
+    "weather_report": "In Boston today, the morning brings with it a gentle ambivalence, a whisper of moisture hanging in the air as a slight chance of rain lingers before noon. The atmosphere is cloaked in a veil of clouds, soft and gray, hinting at the day's potential for a light sprinkle but remaining largely unobtrusive. As the hours advance, the warmth seeks to break through the overcast with a high near 64, tempered by an earnest eastward breeze. The quiet rustle of leaves signals a subtle invitation to embrace the morning\u2014today, the city leans towards the comforting embrace of a cozy sweater paired with light layers, perhaps even a scarf to chase away the chill as the sun strives for presence among the clouds.\n\nLater, as night unfurls its darker shades, temperatures will dip to a cooler 45, nudging residents towards a perhaps more robust jacket for evening strolls. The tranquility of this partly cloudy evening suggests a perfect backdrop for a gentle wander along the Charles River or a visit to one of Boston's intimate cafes, where conversations can flow as easily as the coffee. Seek solace in books or the company of friends in this serene, yet subtly charged atmosphere\u2014a day that cradles the promise of nuance rather than grandeur.",
+    "color_code": "#A5B8B4",
+    "timestamp": "2026-05-21 09:20:12"
 }
