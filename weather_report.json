@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-22T20:25:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 29.374444541862,
+            "timestamp": "2026-05-23T00:45:00+00:00",
+            "temperature_f": 53.6,
+            "temperature_c": 12,
+            "humidity": 50.387471827471,
             "wind_speed_mph": 12.401928,
-            "wind_direction": 140,
+            "wind_direction": 180,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-22T16:00:00-04:00",
-                "endTime": "2026-05-22T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 63. East wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-05-22T18:00:00-04:00",
+                "startTime": "2026-05-22T21:00:00-04:00",
                 "endTime": "2026-05-23T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "1 to 6 mph",
-                "windDirection": "S",
+                "windSpeed": "1 to 5 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 48. South wind 1 to 6 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 48. Southwest wind 1 to 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-05-23T06:00:00-04:00",
+                "endTime": "2026-05-23T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 63. Northeast wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "Amidst the gentle embrace of a late afternoon in Boston, the air carries a slight chill, mingling with the soft warmth of a sun that dares to peek through a thin veil of clouds. Currently, a high near 63 degrees wraps the city in a cool yet inviting atmosphere, perfect for a leisurely stroll down Commonwealth Avenue or a quiet moment in the lush expanses of the Public Garden. As evening approaches, a shift in the wind whispers promises of a more temperate night, with temperatures dropping to around 48 by the time twilight settles in, making it wise to don a light jacket as the day\u2019s brightness yields to a more subdued, cloudy magnificence.\n\nThe greyness overhead holds an understated elegance; there is no hint of fog but rather a gentle obscurity that lends itself well to quiet reflection. For those seeking mild adventure, perhaps an afternoon spent exploring the quaint bookstores of Beacon Hill or an artful detour through one of the vibrant street festivals would suit the mood. Alternatively, a serene evening with a favorite book, nestled in the comfort of one\u2019s living room, can offer its own kind of grace, as the soft glow of lamps chases away the shadows of the encroaching night. The weekend stretches ahead, filled with potential, yet here and now, the day feels invitingly calm\u2014an ode to simple pleasures and inviting scenery.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2026-05-22 16:38:02"
+    "weather_report": "As twilight casts its gentle veil over Boston, the air is filled with a serene coolness, hinting at a night that will embrace the city in a cloak of mostly cloudy skies. The temperature is poised to settle around a comfortable 48 degrees, enveloped by a subtle breeze from the southwest, carrying whispers of the day\u2019s warmth into the evening. There is a peacefulness to this moment, as the clouds slowly blanket the horizon and the twinkling lights of the city begin to emerge, offering a soft glow against the darkening sky.\n\nAs the dawn unfolds tomorrow, Boston will awaken to a similar scene\u2014a day predominantly draped in clouds, yet hinting at a gentle brightness that may occasionally peek through. With temperatures reaching around 63 degrees, it promises to be a truly pleasant Saturday, suitable for wandering the streets or perhaps relaxing at a beloved caf\u00e9 with a warm cup in hand. A light jacket or a cozy sweater would serve well, allowing for comfort amidst the coolness that lingers in the air. Given the softness of the weather and a quiet sense of anticipation, a leisurely stroll along the Charles River, or a visit to the local farmer's market, could provide an ideal way to embrace the day and enjoy the subtle rhythm of life in this storied city.",
+    "color_code": "#6c757d",
+    "timestamp": "2026-05-22 21:03:23"
 }
