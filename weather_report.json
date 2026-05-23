@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-23T08:30:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 87.098056588182,
+            "timestamp": "2026-05-23T12:10:00+00:00",
+            "temperature_f": 53.6,
+            "temperature_c": 12,
+            "humidity": 76.519987759453,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-23T04:00:00-04:00",
-                "endTime": "2026-05-23T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 49,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "1 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 49. West wind around 1 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-05-23T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-05-23T08:00:00-04:00",
                 "endTime": "2026-05-23T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "1 to 8 mph",
+                "windSpeed": "3 to 8 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 64. Northeast wind 1 to 8 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 64. Northeast wind 3 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-23T18:00:00-04:00",
+                "endTime": "2026-05-24T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 41
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain,40?size=medium",
+                "shortForecast": "Cloudy then Chance Light Rain",
+                "detailedForecast": "A chance of rain after 3am. Cloudy, with a low around 48. Southeast wind 3 to 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In the quiet embrace of an early morning, Boston stirs beneath a canopy of diffuse clouds, their muted hues evoking a sense of calm and introspection. As the sun tiptoes towards the horizon, it casts a soft glow amidst the overcast sky, hinting at the promise of a gentle day ahead. With temperatures settling in the cool territory of the upper forties, a light west wind carries a tranquil whisper, as if urging all to linger a little longer in the clutches of morning's stillness.\n\nAs Saturday unfolds, the promise of cloudiness lingers, with the high barely touching the mid-sixties. The northeast wind, slow yet steady, nudges at the edges of this placid canvas. For those venturing out, a cozy sweater paired with light layers would be both sensible and comfortable, ideal for wandering through the historic streets or curling up with a book in a favorite caf\u00e9. The weather lends itself to nurturing activities; perhaps a brisk walk along the water, where the reflections dance beneath the undulating clouds, or visiting a local market, where the vibrant produce stands in contrast to the subdued sky. Today beckons for simplicity, where one might find pleasure in conversations over warm cups or simply pausing to observe the world, wrapped in a gentle chill and the tender ambiance of an inviting city.",
-    "color_code": "#A6AAB8",
-    "timestamp": "2026-05-23 04:49:10"
+    "weather_report": "In Boston today, the atmosphere is shrouded in a gentle veil of clouds, casting a soft, muted light upon the bustling city. With the temperature hovering around a comfortable 64 degrees, the day beckons, though it carries the weight of the impending possibility of rain as the night draws near. The breeze, a light caress from the northeast, whispers through the trees, promising a refreshing reprieve from the ordinary warmth that often envelops this time of year.\n\nAs dusk approaches, chances of rain emerge, hinting at a subtle choreography of nature\u2019s dynamics. Those venturing out might find themselves cloaked in light layers, prepared for a fluctuating chill as the evening sets in. With the clouds wrapping Boston in a cozy embrace, it\u2019s an ideal moment to find solace in quiet pursuits\u2014perhaps indulging in a leisurely stroll through Commonwealth Avenue\u2019s tree-lined paths or curling up in a caf\u00e9 with a well-worn book. The day invites contemplation and tranquility, a gentle reminder that even in the shadows of clouds, there lies a graceful beauty waiting to unfold.",
+    "color_code": "#B0C4D9",
+    "timestamp": "2026-05-23 08:30:24"
 }
