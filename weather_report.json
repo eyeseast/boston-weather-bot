@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-24T08:35:00+00:00",
-            "temperature_f": 51.8,
-            "temperature_c": 11,
-            "humidity": 87.476252351683,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "timestamp": "2026-05-24T16:10:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 87.659298938668,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 70,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-24T04:00:00-04:00",
-                "endTime": "2026-05-24T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 29
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 51. Southeast wind around 3 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-05-24T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-05-24T12:00:00-04:00",
                 "endTime": "2026-05-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 51,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 93
+                    "value": 100
                 },
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "10 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/rain_showers,90?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers before 4pm, then rain showers and patchy fog. Cloudy, with a high near 51. East wind 5 to 9 mph. Chance of precipitation is 90%. New rainfall amounts between a quarter and half of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain and patchy fog. Cloudy, with a high near 51. East wind around 10 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-24T18:00:00-04:00",
+                "endTime": "2026-05-25T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,50?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain and patchy fog. Cloudy, with a low around 51. East wind 3 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the atmosphere is cloaked in a gentle blanket of clouds, hinting at the day's impending rain. The early hours bring a cool embrace, with temperatures nestled comfortably around 51 degrees, encouraging a light layer or a favorite cardigan. For those venturing out, a waterproof jacket may be a prudent companion, as the day promises showers rolling in before the clock strikes four, thickening the air with a sense of moisture and expectation. \n\nThe muted light lingers delicately, teasing with the possibility of fog that may dance through the streets as the clouds settle lower, blurring the sharp edges of the skyline. With a robust chance of patchy fog looming, visibility may wane, transforming casual strolls into quieter moments of introspection. Today is less about vibrant outings and more about cozy corners\u2014perhaps a warm caf\u00e9 beckoning for solace with a good book or an afternoon spent perusing the local library's treasures, wrapped in the soft layers that ward off the damp chill. Amidst the drizzle and fog, this day offers a serene canvas, perfect for reflective escapes rather than routine adventures.",
-    "color_code": "#B0C4D3",
-    "timestamp": "2026-05-24 04:59:32"
+    "weather_report": "The mood above Boston today is a quiet, heavy blanket of cloud, shrouded in a persistent drizzle that seems intent on ushering in a chill unlike the warmth of the season. The gentle murmur of rainfall accompanies the cool air, wrapping the city in a veil of patchy fog that creeps along the streets, lending an almost cinematic quality to familiar scenes. As you gaze out, the world is softened and the outlines of buildings blur into one another, creating a landscape that feels both intimate and removed. With temperatures settling just around the cool side of fifty, there\u2019s an unmistakable urge to nestle into a cozy sweater and perhaps pull on that waterproof jacket tucked safely in the closet, for the drizzle shows no signs of abating.\n\nAs the day unfolds, the rain is predicted to persist, refusing to relent through the evening hours, providing a canvas well-suited for quiet pursuits. A stroll along the harbor might yield a serene, albeit damp, charm, or perhaps a visit to a cherished bookshop, where the scent of aged paper mingles with the soothing sound of raindrops against the window panes. The weather calls for activities that embrace indoor comforts\u2014sipping warm concoctions in friendly caf\u00e9s or finding solace in the pages of a well-loved novel. The skies may seem dismal, but there is beauty in the stillness, a reminder that even on the cloudiest of days, one can find pockets of warmth and reflection if only one takes a moment to pause and appreciate the rich tapestry of life that unfolds, rain or shine.",
+    "color_code": "#A1A1A1",
+    "timestamp": "2026-05-24 12:27:23"
 }
