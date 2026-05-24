@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-23T20:05:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 62.946377213896,
+            "timestamp": "2026-05-24T00:45:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 66.934299400772,
             "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 20,
+            "wind_direction": 40,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-23T16:00:00-04:00",
-                "endTime": "2026-05-23T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/ovc?size=medium",
-                "shortForecast": "Cloudy",
-                "detailedForecast": "Cloudy, with a high near 64. East wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-05-23T18:00:00-04:00",
+                "startTime": "2026-05-23T21:00:00-04:00",
                 "endTime": "2026-05-24T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 49
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/night/ovc/rain,50?size=medium",
                 "shortForecast": "Cloudy then Chance Light Rain",
-                "detailedForecast": "A chance of rain after 1am. Cloudy, with a low around 50. Southeast wind 5 to 8 mph. Chance of precipitation is 50%."
+                "detailedForecast": "A chance of rain after 1am. Cloudy, with a low around 50. Southeast wind around 6 mph. Chance of precipitation is 50%."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-05-24T06:00:00-04:00",
+                "endTime": "2026-05-24T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "7 to 14 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 51. East wind 7 to 14 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon drapes itself over Boston, a thick blanket of clouds settles in, casting the city in a muted palette of gray and soft blues. The air is crisp, inviting enough for a light jacket as the temperature hovers around a gentle 64 degrees, accompanied by a whisper of an eastward breeze. As twilight approaches, the forecast hints at the likelihood of rain after one in the morning, intensifying the somberly tranquil mood. With temperatures dipping to a cool 50 degrees tonight, it's a fitting time to retreat indoors, perhaps to a favorite caf\u00e9 where the warmth and comfort of a steaming cup can be savored.\n\nFor those who wander outdoors this evening, consider a light layering of garments; a sweater over a breathable shirt will keep the chill at bay while allowing for a casual stroll through the dimly lit streets, perhaps a moment to soak in the quiet hum of the city preparing for another night. Engage in a bit of local exploration\u2014find a cozy bookstore or a gallery showcasing the talents of local artists. Alternatively, the serene atmosphere might just entice you to curl up with a book at home, the rhythmic tap of raindrops providing a perfect soundtrack for an evening spent in contemplation.",
-    "color_code": "#B0C4D3",
-    "timestamp": "2026-05-23 16:22:59"
+    "weather_report": "As the day begins to fade into night in Boston, a gentle shroud of clouds envelops the skyline, hinting at the rain that will soon grace the city. The temperature drifts toward the low fifties, while an easterly wind stirs at a calm pace, creating a sense of stillness that belies the impending precipitation. Tonight carries a potential for light rain beginning after the witching hour, a soft sound that might punctuate the serene backdrop of nocturnal life. With a 50% chance of showers, the atmosphere becomes thick with anticipation, inviting thoughts of cozy evenings indoors amidst the warmth of good company or a poignant literary escape.\n\nAs dawn breaks on Sunday, it seems the clouds have decided to settle in for the day, bringing a near-certain downpour with them. At a high of only 51 degrees, Boston might feel damp and chilly, a persistent drizzle promising to deliver between a quarter and half an inch of rain. With such low visibility and cooler temperatures, a thoughtful choice in attire is paramount\u2014layered clothing, water-resistant materials, and perhaps a well-loved umbrella will serve one well as they navigate the brisk day ahead. It would be prudent to indulge in quieter diversions; perhaps a visit to a charming caf\u00e9 for a warm drink, or a stroll through the Museum of Fine Arts, where the steady rhythm of rain can serve as an enchanting backdrop to moments of reflection.",
+    "color_code": "#505050",
+    "timestamp": "2026-05-23 21:07:58"
 }
