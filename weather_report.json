@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-25T09:10:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-05-25T13:00:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 93.698536677741,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 260,
             "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-25T05:00:00-04:00",
-                "endTime": "2026-05-25T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 42
-                },
-                "windSpeed": "1 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers and patchy fog. Cloudy, with a low around 51. East wind around 1 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Memorial Day",
-                "startTime": "2026-05-25T06:00:00-04:00",
+                "startTime": "2026-05-25T09:00:00-04:00",
                 "endTime": "2026-05-25T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 71,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 90
                 },
-                "windSpeed": "1 to 7 mph",
-                "windDirection": "NW",
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,90/rain_showers,60?size=medium",
                 "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers and patchy fog before 3pm. Cloudy, with a high near 71. Northwest wind 1 to 7 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain showers and areas of fog before 1pm, then areas of fog and a chance of rain showers between 1pm and 4pm. Cloudy, with a high near 71. West wind 2 to 7 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-25T18:00:00-04:00",
+                "endTime": "2026-05-26T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 57. West wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a gentle embrace of fog drapes the landscape, wrapping the tranquil city in a soft, muted veil. The current air hints at the moisture of impending rain, its cool touch settling at around fifty-one degrees. This morning, as the sun negotiates its way through the clouds, one may find the visibility limited, with wisps of gray obscuring familiar landmarks. The promise of rain lingers as the day unfolds, casting an expectant atmosphere over the city.\n\nA more pronounced gloom is anticipated for Memorial Day, with rain showers likely to dance through the afternoon, peaking near three o\u2019clock. The high will flirt with seventy-one degrees, but the chance of precipitation looms large\u2014an invitation to dress defensively against the elements. Layers of comfortable clothing, perhaps a light rain jacket and sturdy footwear, are recommended as one steps out into this damp embrace. The rhythmic tap of rain on pavement may offer a unique beauty to your stroll, perhaps down to a local caf\u00e9 for warming beverages or indulging in the alluring solace of a bookshop. Though the conditions may seem uninspiring at first, there exists a quiet charm within the mist, beckoning the contemplative spirit to explore the hidden gems of the city\u2019s life, revealing stories nestled beneath the surface.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-05-25 05:31:24"
+    "weather_report": "As the morning unfolds in Boston, a thick blanket of fog clings to the skyline, shrouding the city in a muted embrace. The promise of rain showers lingers in the air, with whispers of moisture hanging almost palpably, morphing the landscape into a scene reminiscent of a sleepy dream. The temperature hovers comfortably, inviting one to indulge in less refined layers\u2014perhaps a cozy sweater could add a touch of warmth against the brisk westward breeze. Although the skies remain cloudy, the day hints at a possibility of clearing, allowing for brief moments where the sun might peek through, casting gentle light upon the dew-kissed streets.\n\nAs the clock ticks toward afternoon, one might consider a stroll along the quieter paths of the Common or a leisurely visit to a local caf\u00e9, where the rain might serve as a backdrop to a rich cup of coffee. For those who prefer the indoors, curling up with a good book or exploring the latest museum exhibit could provide a delightful escape from the stillness outside. Whatever choice one makes, it\u2019s a day for connection\u2014both with the self and with others, while the world outside dances in a delicate interplay of rain and fog.",
+    "color_code": "#A3B0B1",
+    "timestamp": "2026-05-25 09:21:18"
 }
