@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-25T20:25:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 64.719860273836,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 250,
+            "timestamp": "2026-05-26T00:40:00+00:00",
+            "temperature_f": 64.4,
+            "temperature_c": 18,
+            "humidity": 88.10014352739,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Memorial Day",
-                "startTime": "2026-05-25T16:00:00-04:00",
-                "endTime": "2026-05-25T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 71. West wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-05-25T18:00:00-04:00",
+                "startTime": "2026-05-25T21:00:00-04:00",
                 "endTime": "2026-05-26T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 56,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium",
                 "shortForecast": "Partly Cloudy then Areas Of Fog",
-                "detailedForecast": "Areas of fog after midnight. Partly cloudy, with a low around 56. West wind around 6 mph."
+                "detailedForecast": "Areas of fog after midnight. Partly cloudy, with a low around 56. West wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-05-26T06:00:00-04:00",
+                "endTime": "2026-05-26T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 83,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 83. Southwest wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the late afternoon settles over Boston, the sky reveals a soft tapestry of clouds lazily moving across the expanse, inviting moments of sunshine to punctuate the day. The temperature hovers comfortably, embodying the spirit of Memorial Day, encouraging leisurely strolls or relaxed gatherings in local parks. There's a gentle breeze wafting from the west, stirring the senses and hinting at the delightful evening that awaits. As night approaches, expect areas of fog to embrace the city softly, cloaking familiar landmarks in a delicate veil that transforms the landscape into something ethereal and dreamlike.\n\nIn this serene setting, attire that balances comfort with a hint of flair is ideal\u2014perhaps a light sweater for when the sun dips beneath the horizon and a breathable layer for the warmer afternoon. Consider reveling in the joys of a quiet afternoon, perhaps indulging in a book at a cozy caf\u00e9 or wandering through local galleries, where art breathes life into mundane days. As evening descends, a peaceful walk along the waterfront might provide a refreshing escape, with the fog creating a narrative of mystery in your surroundings. The day unfurls a multitude of enjoyable, tranquil experiences, perfectly in tune with the rhythm of the season.",
-    "color_code": "#A1C6EA",
-    "timestamp": "2026-05-25 16:36:04"
+    "weather_report": "As night falls over Boston, an air of serene mystery begins to wrap the city in its embrace. Areas of fog are set to creep in after midnight, imparting a soft, dreamy glow that bathes the skyline in delicate whispers. The temperatures are gentle now, around the mid-50s, inviting a light layer or perhaps a comfortable sweater for those who linger outdoors. The west wind carries a gentle touch, barely stirring the leaves, as if nature herself is holding her breath, waiting for the day to break anew.\n\nAs dawn approaches, Tuesday will greet Boston with mostly sunny skies, promising warmth with a high near 83. The air will shift, encouraged by a light southwest breeze that beckons one outside. It's a day ripe for a leisurely stroll along the esplanade or perhaps a picnic in the park, where time seems to slow, allowing the beauty of the moment to blossom. Dressing in light, breathable fabrics will be wise, preparing for a sun-kissed afternoon. So, whether you're sipping coffee in an outdoor caf\u00e9 or wandering through the vibrant streets, seize the day \u2014 bask in the warmth, and relish the understated pleasures that early summer brings.",
+    "color_code": "#F2A900",
+    "timestamp": "2026-05-25 21:04:43"
 }
