@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-27T09:00:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 76.998577407491,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-05-27T13:05:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 53.576211354435,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 220,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-27T05:00:00-04:00",
-                "endTime": "2026-05-27T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 63. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-05-27T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-05-27T09:00:00-04:00",
                 "endTime": "2026-05-27T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 87,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 14
                 },
-                "windSpeed": "7 to 12 mph",
+                "windSpeed": "9 to 13 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 87. West wind 7 to 12 mph."
+                "detailedForecast": "Partly sunny, with a high near 87. West wind 9 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-27T18:00:00-04:00",
+                "endTime": "2026-05-28T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 59,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 12
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 59. Northwest wind 7 to 10 mph, with gusts as high as 21 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfolds over Boston, the air carries a cool whisper of the night, hinting at a summer day that promises warmth. The sky, draped in a blanket of soft clouds, casts a gentle glow, illuminating the horizon in muted shades of violet and gold. The atmosphere feels invigorating, a prelude to the sun's ascent, which will eventually bathe the city in its luminous embrace. As daylight breaks, the region is expected to experience the delightful remnants of early spring, with temperatures gently climbing toward the mid-80s. \n\nFor those considering their attire, light layers will serve best; a breathable shirt paired with comfortable shorts will allow for ease as the sun climbs higher in the sky. The breeze, swirling softly from the west, carries a reassuring warmth but also a whisper of humidity; an ideal combination for a leisurely stroll along the Charles or perhaps a visit to a shaded caf\u00e9. As the day progresses, it invites you to engage in simple pleasures: the joy of watching the city wake, perhaps with a good book in hand, savoring the mingling scents of coffee and fresh pastries. For the more adventurous, an afternoon hike amidst the lush trails nearby beckons, promising a tranquil connection with nature. Today, Boston invites you to slow down, breathe deeply, and indulge in the serene pleasures life offers.",
-    "color_code": "#D1A579",
-    "timestamp": "2026-05-27 05:19:37"
+    "weather_report": "Boston awakens to a gentle interplay of sun and clouds, a reminder that today is poised for warmth. The sky, while brightening, still carries a veil of soft wisps that may elicit a sense of nostalgia for those accustomed to clearer days. With temperatures expected to flirt with the high 80s, the West wind adds a mild embrace, rustling leaves and stirring the spirit for adventure. The air remains unburdened by fog, inviting opportunities to wander through the bustling avenues, perhaps to explore quaint cafes or the myriad parks that offer shelter beneath the boughs of ancient trees. \n\nAs evening descends, expect a delicate transition to a cooler atmosphere, with temperatures morphing into a refreshing low. The northwest wind may carry whispers of earlier sunlit moments, making for a pleasant outing or a tranquil evening stroll along the river. Dress comfortably but with layers, a light sweater or shawl to guard against the evening's bite will serve well, particularly as twilight approaches. Today is perfect for an impromptu picnic in the park or a leisurely walk through the historic streets, allowing you to soak in the character of the city while feeling the remnants of warmth linger softly on your skin.",
+    "color_code": "#A8C7E6",
+    "timestamp": "2026-05-27 09:24:50"
 }
