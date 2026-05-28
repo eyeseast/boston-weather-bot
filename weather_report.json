@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-28T05:10:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 55.910188768411,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 360,
-            "description": "Partly Cloudy"
+            "timestamp": "2026-05-28T13:10:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 52.541325581066,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 30,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-28T01:00:00-04:00",
-                "endTime": "2026-05-28T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 60,
+                "name": "Today",
+                "startTime": "2026-05-28T09:00:00-04:00",
+                "endTime": "2026-05-28T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 72,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 50
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 60. North wind around 5 mph."
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/tsra_sct,50?size=medium",
+                "shortForecast": "Scattered Rain Showers",
+                "detailedForecast": "Scattered rain showers between 11am and 2pm, then scattered showers and thunderstorms. Partly sunny, with a high near 72. Northeast wind 7 to 12 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-05-28T06:00:00-04:00",
-                "endTime": "2026-05-28T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 70,
+                "name": "Tonight",
+                "startTime": "2026-05-28T18:00:00-04:00",
+                "endTime": "2026-05-29T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 50,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 24
                 },
-                "windSpeed": "8 mph",
+                "windSpeed": "5 to 8 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,40?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 11am. Partly sunny, with a high near 70. North wind around 8 mph. Chance of precipitation is 40%."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Isolated Rain Showers then Mostly Cloudy",
+                "detailedForecast": "Isolated rain showers before 10pm. Mostly cloudy, with a low around 50. North wind 5 to 8 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As night enfolds Boston, the horizon is draped in a gentle gray cloudiness, punctuated by the soft glow of city lights beyond. A hush settles over the landscape, with a mild temperature around 60 degrees persisting in the stillness of the hour. The north wind whispers softly through the trees, carrying the scent of spring, hinting at the prospect of the day to come. \n\nAnticipation hangs in the air like the promise of rain, lingering around the 40% chance of scattered showers after the sun nudges its way past the horizon at 11 AM. The clouds may play coy, but amidst the shifting light, pockets of sun will peek through, offering fleeting glimpses of warmth as the day unfolds toward a high of about 70. This atmosphere calls for comfort; a light jacket paired with breathable layers to adapt to shifting temperatures might be just the ticket. As the world awakens, a walk along the Charles, a quiet moment in a caf\u00e9 indulging in the rich aroma of freshly brewed coffee, or perhaps tending to the garden with the gentle hope of rain nurturing the earth could frame your morning. Embrace this nuance, as May gives way to the reluctant, yet welcoming, warmth of summer.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-05-28 01:32:32"
+    "weather_report": "As morning breaks over Boston, the sky unveils a tapestry of scattered clouds drifting lazily across a canvas of blue. The day carries a whisper of anticipation, with rain showers expected to grace the city between mid-morning and early afternoon, followed by the potential for thunderous applause in the form of sporadic storms. The air, warmed to a gentle 72 degrees, beckons for a light touch\u2014a cardigan or a stylish rain jacket may do well as the breeze brushes through at a peaceful northeast tempo.\n\nEvening approaches with an invitation to slow down, promising a quieter atmosphere under mostly cloudy skies and a cooling temperature that dips toward 50. The chance of isolated rain showers tempers plans for outdoor adventures; perhaps a cozy respite indoors with a captivating book or a leisurely stroll to an inviting caf\u00e9 would suit this dreamy day. The sidewalks glisten with a hint of moisture, and the scent of rain-dampened earth fills the air, a fragrant reminder of seasonal shifts. An afternoon jaunt in the rain might just reveal the beauty of the moment\u2014a dance amidst nature\u2019s unpredictable grace.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2026-05-28 09:27:55"
 }
