@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-29T20:35:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 67.769403902783,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 260,
-            "description": "Light Rain"
+            "timestamp": "2026-05-30T00:45:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 76.998577407491,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 130,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-29T16:00:00-04:00",
-                "endTime": "2026-05-29T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 23
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers. Mostly cloudy, with a high near 71. West wind around 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-05-29T18:00:00-04:00",
                 "endTime": "2026-05-30T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,80?size=medium",
                 "shortForecast": "Light Rain",
                 "detailedForecast": "A chance of rain showers before 8pm, then rain. Mostly cloudy, with a low around 45. Southwest wind 6 to 9 mph, with gusts as high as 23 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-05-30T06:00:00-04:00",
+                "endTime": "2026-05-30T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 71
+                },
+                "windSpeed": "12 to 22 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely. Mostly cloudy, with a high near 53. Northwest wind 12 to 22 mph, with gusts as high as 44 mph. Chance of precipitation is 70%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As twilight approaches in Boston, a subtle grayness hangs over the city, draping it in a cloak that hints at both a soft evening and a lingering chance of rain. The air carries the coolness of a gentle breeze, offering a respite from earlier warmth. Though the high temperatures have danced around the low seventies today, the clouds have made sure that the sun\u2019s rays are neither bold nor persistent; instead, they play coyly, teasing glimpses of light while remaining largely hidden. The persistent possibility of rain, with increasing certainty as evening descends, suggests one should not venture too far from a cozy nook or a sheltered caf\u00e9 without an umbrella at the ready.\n\nAs the clock edges closer to evening, the atmosphere calls for layers\u2014a light jacket paired with something breathable beneath should suffice to navigate the transition from the warmer afternoon to the decidedly cooler night. The scent of impending rain hangs in the air, invigorating after a humid day. Ideally, one might enjoy the simple pleasure of wandering through the cobblestone streets, perhaps stopping by a welcoming bookstore or a nearby coffee shop, where one can admire the clouds through the window, sip on something warm, and ponder life\u2019s small yet profound delights. While outdoor attractions might beckon, today calls for connections made indoors, where the rhythms of conversation can intertwine with the pitter-patter of the rain soon to come.",
-    "color_code": "#7A8D9D",
-    "timestamp": "2026-05-29 16:54:36"
+    "weather_report": "As the twilight deepens over Boston, a blanket of clouds drapes the city, promising a night where the scent of rain blends with the coolness settling in. The chance of showers lingers on the breeze, offering a prelude to the steady rain expected to embrace the area soon. The air carries a crispness, hinting at a low dipping to a cool 45 degrees, while the gentle southwest wind adds a touch of movement, rustling the leaves and whispering stories of the night. It beckons the dreamers and wanderers, reminding them to dress warmly in layers, perhaps a cozy sweater beneath a light rain jacket, lest the chill take them unawares.\n\nTomorrow unfolds with the likelihood of rain continuing to grace the town, temperatures reaching just shy of 53 degrees. The gusts from the northwest may stir the air, creating a symphony of rustling branches and distant sounds, urging those seeking shelter to find solace indoors with a book or a warm beverage. While the skies may stay moody and dramatic, the essence of a day disturbed by rain often creates the perfect backdrop for quiet reflection or catching up with friends in cozy corners of the city. Embrace the rhythm of the rain, and let the pulse of Boston keep you company.",
+    "color_code": "#4A4C7D",
+    "timestamp": "2026-05-29 21:05:35"
 }
