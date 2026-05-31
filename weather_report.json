@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-31T08:50:00+00:00",
-            "temperature_f": 33.8,
-            "temperature_c": 1,
-            "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog/Mist"
+            "timestamp": "2026-05-31T12:15:00+00:00",
+            "temperature_f": 53.6,
+            "temperature_c": 12,
+            "humidity": 66.720955975373,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 250,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-05-31T05:00:00-04:00",
-                "endTime": "2026-05-31T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 43. West wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-05-31T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-05-31T08:00:00-04:00",
                 "endTime": "2026-05-31T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 69,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 53
+                    "value": 62
                 },
-                "windSpeed": "5 to 8 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,50?size=medium",
-                "shortForecast": "Partly Sunny then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 2pm. Partly sunny. High near 69, with temperatures falling to around 63 in the afternoon. Northwest wind 5 to 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/tsra_sct,60?size=medium",
+                "shortForecast": "Partly Sunny then Chance Showers And Thunderstorms",
+                "detailedForecast": "Scattered rain showers between 1pm and 2pm, then a chance of showers and thunderstorms. Partly sunny. High near 69, with temperatures falling to around 62 in the afternoon. West wind 3 to 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-05-31T18:00:00-04:00",
+                "endTime": "2026-06-01T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 48,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 61
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,60/bkn?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms then Mostly Cloudy",
+                "detailedForecast": "A chance of showers and thunderstorms before midnight. Mostly cloudy, with a low around 48. West wind around 7 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks softly over Boston, the air carries a crispness that invigorates the senses, hinting at the day ahead. The early morning sky is a muted canvas, offering a serene clarity with only the faintest traces of uncertainty in the atmosphere. Temperatures rest comfortably in the low 40s, and a gentle whisper of wind brushes through, a precursor to the shifting conditions anticipated later in the day.\n\nBy afternoon, however, the tranquility will yield to a different temperament. The forecast suggests a dance of clouds with the potential for fleeting rain showers after 2 PM, likely casting a gentle veil over the city. With a high nearing 69 degrees but a gradual descent into the mid-60s later on, the day encourages a layered wardrobe. Lightweight fabrics may be wise, ideally complemented by a light jacket to ward off the coolness expected as the sun dips towards the horizon. \n\nIn light of these conditions, you might find joy in a leisurely stroll through the local parks, where the greenery is lush and the paths well-trodden by those seeking serenity amidst the urban landscape. Alternatively, it could be a perfect day for a cozy visit to a nearby caf\u00e9, allowing time to sip a warm drink while watching the clouds pass overhead. Whatever your venture, remain steady in the knowledge that though the sun may play hide and seek, the pleasure of this late spring day lies in its subtle, shifting character.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2026-05-31 05:10:50"
+    "weather_report": "As the day unfolds in Boston, a gentle shifting of clouds dances across the sky, heralding a mix of sun and scattered rain showers. The promise of warmth hangs in the air, with temperatures nudging towards the high sixties; however, don\u2019t be surprised if a hint of chill creeps in as the afternoon approaches. You may notice a breeze, soft from the west at a leisurely pace, providing a gentle reminder of the nuances of spring. The atmosphere bears a palpable sense of anticipation, a juxtaposition of brightness interwoven with the possibility of thunderous skies later in the day.\n\nEvening whispers will bring a chance of showers and perhaps a rumble of thunder before midnight, beckoning a shift toward the cooler side of the spectrum, with temperatures settling around the upper forties. Given this, a light jacket or a cozy cardigan would serve you well for the impending night. This is a day for leisurely strolls through the gardens, where flowers nod under the uncertain skies, or perhaps a quiet moment spent sipping your favorite brew in a welcoming caf\u00e9. While the weather may fluctuate, it encapsulates the essence of a spring day, inviting you to embrace both warmth and the refreshing scent of impending rain.",
+    "color_code": "#A3C1E5",
+    "timestamp": "2026-05-31 08:39:56"
 }
