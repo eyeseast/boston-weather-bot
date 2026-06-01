@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-05-31T20:10:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 52.013467849557,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 230,
-            "description": "Clear"
+            "timestamp": "2026-06-01T01:00:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 93.65072411462,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 340,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-05-31T16:00:00-04:00",
-                "endTime": "2026-05-31T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 52
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,50?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms. Cloudy, with a high near 69. Northwest wind around 7 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-05-31T18:00:00-04:00",
+                "startTime": "2026-05-31T21:00:00-04:00",
                 "endTime": "2026-06-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 48,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 58
+                    "value": 43
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,60/bkn?size=medium",
-                "shortForecast": "Showers And Thunderstorms Likely then Mostly Cloudy",
-                "detailedForecast": "Showers and thunderstorms likely before 11pm. Mostly cloudy, with a low around 48. West wind around 6 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/bkn?size=medium",
+                "shortForecast": "Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A chance of rain showers before 11pm. Mostly cloudy, with a low around 48. West wind around 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-06-01T06:00:00-04:00",
+                "endTime": "2026-06-01T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 11
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 60. Northeast wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfurls its cloudy wings over Boston, a sense of mild anticipation lingers in the air. The temperature hovers around a comfortable 69 degrees, infused with the promise of rain as distant thunder echoes softly in the atmosphere. A gentle northwest breeze nudges the humid air, whispering secrets of approaching showers. Perhaps your moment in the city will be punctuated by a brief, refreshing downpour, an invitation to pause and appreciate the vibrant greens that flourish under these somber clouds. With a 50% chance of precipitation, it might be prudent to carry a light umbrella or don a water-resistant jacket, allowing you to step out confidently, come what may.\n\nAs night creeps in, expect the clouds to thicken, ushering in a further chance of showers and thunderstorms until they withdraw, leaving whispers of moisture behind. The evening\u2019s chill will dip into the mid-40s, making snug layers a wise choice as you prepare either for an intimate gathering or a quiet night stroll under the muted glow of streetlights reflecting off the wet pavement. Tonight favors the homebody, an excellent opportunity for cozy reading by the window or watching the rhythmic dance of raindrops against glass. Yet, for the adventurous spirit, embracing the golden hour just before the storm rolls in holds its own allure. Whatever your path this evening, Boston's lenient unrest beckons contemplation and an embrace of the ever-changing skies.",
-    "color_code": "#A9B3C3",
-    "timestamp": "2026-05-31 16:30:42"
+    "weather_report": "As the day unwinds into the stillness of evening, Boston quietly cloaks itself in a veil of clouds, hinting at a possible dampness in the air. The forecast speaks of a chance for light rain, urging passersby to glance nervously at the heavens above. A gentle west wind stirs, barely a breath, as if whispering secrets of warmth amid the chill settling in with the dusk. The temperature hovers around a mild 48 degrees, a reminder that though the heart of spring lingers, the cool touch of night asserts its presence with subtle insistence.\n\nLooking ahead to tomorrow, the sun will rise generously, its first light promising a clearer sky despite tonight's lingering gloom. Daytime beckons with the allure of a high near 60 degrees, compelling Boston's denizens to shake off their dampened spirits and embrace the dawn. A light northeast breeze will accompany the sun\u2019s warmth, making for a pleasant adventure outdoors\u2014perhaps one might stroll along the cobbled streets, seeking a quiet caf\u00e9, or meander through the parks serenaded by the soft rustling of leaves. Dressing in layers will be wise; a light jacket should suffice against the lingering chill of early morning, while a simple shirt may catch the warmth as the sun climbs. For now, as evening envelops the city, it offers a perfect moment for reflection or a calm read by the window, watching the world transform under the shy hand of night.",
+    "color_code": "#4a4c50",
+    "timestamp": "2026-05-31 21:15:59"
 }
