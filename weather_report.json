@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-07T12:25:00+00:00",
-            "temperature_f": 71.6,
-            "temperature_c": 22,
-            "humidity": 73.288964682767,
-            "wind_speed_mph": 45.581112000000005,
-            "wind_direction": 260,
-            "description": "Clear"
+            "timestamp": "2026-06-07T20:20:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 53.576211354435,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-06-07T08:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-06-07T16:00:00-04:00",
                 "endTime": "2026-06-07T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 81,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 39
                 },
-                "windSpeed": "13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct/tsra_hi,50?size=medium",
-                "shortForecast": "Mostly Sunny then Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms after 3pm. Mostly sunny. High near 81, with temperatures falling to around 74 in the afternoon. West wind around 13 mph, with gusts as high as 24 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "16 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,40?size=medium",
+                "shortForecast": "Scattered Showers And Thunderstorms",
+                "detailedForecast": "Scattered showers and thunderstorms. Mostly cloudy. High near 81, with temperatures falling to around 73 in the afternoon. Northwest wind around 16 mph, with gusts as high as 28 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-06-07T18:00:00-04:00",
                 "endTime": "2026-06-08T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 54,
+                "temperature": 51,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 65
+                    "value": 58
                 },
-                "windSpeed": "7 to 13 mph",
+                "windSpeed": "5 to 13 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70/sct?size=medium",
-                "shortForecast": "Rain Showers Likely then Partly Cloudy",
-                "detailedForecast": "Rain showers likely before 11pm. Partly cloudy, with a low around 54. North wind 7 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,60/bkn?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms then Mostly Cloudy",
+                "detailedForecast": "A chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 51. North wind 5 to 13 mph, with gusts as high as 26 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the sun rises gently over Boston, the sky reveals a brilliant expanse of blue, painted with soft wisps of cloud. Today carries with it a promise of warmth, with temperatures flirting with the high of 81, though a subtle shift is noted as the afternoon wears on, bringing a cooling embrace that will settle around 74. The west wind sweeps in, stirring the leaves and sending a few playful gusts dancing through the streets. However, the atmosphere carries a hint of electric anticipation, as afternoon showers and the possibility of thunderstorms loom on the horizon like distant murmurs, intertwining the beauty of the day with an undercurrent of change.\n\nLater tonight, the clouds will drape over the city, accompanied by whispers of rain, creating a serene backdrop and a soothing soundscape for the evening. With temperatures dropping to a comfortable 54, it would be wise to wrap yourself in layers, perhaps opting for a light sweater or jacket to ward off the coolness that follows the day\u2019s warmth. As for activities, take a stroll through one of Boston\u2019s tranquil parks, perhaps the Arnold Arboretum, where nature invites reflection and connection. The possibility of rain is simply a call to embrace the beauty of nature\u2019s rhythm, making for an ideal afternoon to enjoy a leisurely cup of tea indoors as you watch the world outside quietly transform.",
-    "color_code": "#A6C1DB",
-    "timestamp": "2026-06-07 08:42:46"
+    "weather_report": "As the afternoon unfolds in Boston, the air is tinged with the promise of scattered showers and occasional thunder, a reminder of nature's unpredictability. The sky hangs heavy with clouds, casting a muted hue over the city, softening the outlines of buildings and turning the atmosphere into a contemplative gray. With winds swirling from the northwest, a brisk cadence brushes against the skin, whispering of cooler moments ahead. Tread carefully if venturing outdoors \u2014 a light jacket will be your ally against the shifting warmth and potential rain, while sturdy shoes will prove wise against the damp pavement that awaits.\n\nAs evening approaches, the chance of rain grows, accompanied by a thoughtful breeze that invites quiet reflection. The temperature dips to a comfortable coolness, nudging the inhabitants of the city toward cozy residences or perhaps a serene caf\u00e9, where warm drinks provide solace from the shifting weather. It\u2019s a day not for grand adventures but for those subtle pleasures that can be found in quieter corners\u2014perhaps indulging in a delightful book or savoring a comforting meal while the world outside dances with raindrops. As the thunder rolls gently in the distance, you might find peace in the warmth of your own thoughts, embraced by the rhythm of a Boston evening shrouded in the soft embrace of clouds.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2026-06-07 16:33:13"
 }
