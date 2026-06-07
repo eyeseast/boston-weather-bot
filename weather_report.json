@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-07T08:50:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 88.10014352739,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 220,
+            "timestamp": "2026-06-07T12:25:00+00:00",
+            "temperature_f": 71.6,
+            "temperature_c": 22,
+            "humidity": 73.288964682767,
+            "wind_speed_mph": 45.581112000000005,
+            "wind_direction": 260,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-07T05:00:00-04:00",
-                "endTime": "2026-06-07T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 65. West wind around 10 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-06-07T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-06-07T08:00:00-04:00",
                 "endTime": "2026-06-07T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 81,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct/tsra_hi,50?size=medium",
                 "shortForecast": "Mostly Sunny then Chance Showers And Thunderstorms",
                 "detailedForecast": "A chance of showers and thunderstorms after 3pm. Mostly sunny. High near 81, with temperatures falling to around 74 in the afternoon. West wind around 13 mph, with gusts as high as 24 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-06-07T18:00:00-04:00",
+                "endTime": "2026-06-08T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 65
+                },
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70/sct?size=medium",
+                "shortForecast": "Rain Showers Likely then Partly Cloudy",
+                "detailedForecast": "Rain showers likely before 11pm. Partly cloudy, with a low around 54. North wind 7 to 13 mph, with gusts as high as 24 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the air carries a gentle warmth, hinting at the day ahead. The skies, mostly clear at this hour, invite the first whispers of sunshine, though they will soon dance with clouds as the day warms to a promising 81 degrees. A pleasant breeze from the west, nudging the trees with a soft touch, brings a hint of movement that feels invigorating. Yet, as the afternoon approaches, a playful tease of showers and thunderstorms lurks on the horizon, with a 50% chance of rain sprinkling a bit of unpredictability into the day.\n\nFor those stepping out, this morning\u2019s tranquility is best complemented by light layers\u2014perhaps a casual shirt paired with a comfortable pair of trousers or shorts. An umbrella or light jacket is wise for the later hours, as the occasional storm might roll in, bringing a refreshing contrast to the warmth. Embrace the day with a leisurely stroll along the Charles River or find refuge in a cozy caf\u00e9, savoring the quiet moments before the thunderous applause of nature arrives. Soak in the atmosphere; today has its own character, one that invites both spontaneity and repose amid the soft bustle of Boston life.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2026-06-07 05:11:05"
+    "weather_report": "As the sun rises gently over Boston, the sky reveals a brilliant expanse of blue, painted with soft wisps of cloud. Today carries with it a promise of warmth, with temperatures flirting with the high of 81, though a subtle shift is noted as the afternoon wears on, bringing a cooling embrace that will settle around 74. The west wind sweeps in, stirring the leaves and sending a few playful gusts dancing through the streets. However, the atmosphere carries a hint of electric anticipation, as afternoon showers and the possibility of thunderstorms loom on the horizon like distant murmurs, intertwining the beauty of the day with an undercurrent of change.\n\nLater tonight, the clouds will drape over the city, accompanied by whispers of rain, creating a serene backdrop and a soothing soundscape for the evening. With temperatures dropping to a comfortable 54, it would be wise to wrap yourself in layers, perhaps opting for a light sweater or jacket to ward off the coolness that follows the day\u2019s warmth. As for activities, take a stroll through one of Boston\u2019s tranquil parks, perhaps the Arnold Arboretum, where nature invites reflection and connection. The possibility of rain is simply a call to embrace the beauty of nature\u2019s rhythm, making for an ideal afternoon to enjoy a leisurely cup of tea indoors as you watch the world outside quietly transform.",
+    "color_code": "#A6C1DB",
+    "timestamp": "2026-06-07 08:42:46"
 }
