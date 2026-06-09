@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-09T08:55:00+00:00",
-            "temperature_f": 51.8,
-            "temperature_c": 11,
-            "humidity": 87.476252351683,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-06-09T12:50:00+00:00",
+            "temperature_f": 71.6,
+            "temperature_c": 22,
+            "humidity": 53.062217933001,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 250,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-09T05:00:00-04:00",
-                "endTime": "2026-06-09T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 55. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-06-09T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-06-09T09:00:00-04:00",
                 "endTime": "2026-06-09T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 85,
+                "temperature": 87,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "12 to 15 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 85. West wind around 10 mph."
+                "detailedForecast": "Sunny, with a high near 87. West wind 12 to 15 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-06-09T18:00:00-04:00",
+                "endTime": "2026-06-10T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "8 to 14 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 61. Southwest wind 8 to 14 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the air is crisp and clear, revealing a delightful morning of clear skies that stretch across the horizon. With a gentle southwest breeze whispering through the city, the day starts on a serene note, promising warmth as the sun climbs higher. The forecast hints at a vibrant day, with temperatures rising to a pleasant embrace of warmth by midday. There is a sense of anticipation, as the city prepares to bask in the soft glow of the sun\u2019s rays, a welcome reprieve from the lingering chill of night.\n\nAs you make your plans, consider light, breathable clothing to fully enjoy the sun\u2019s caress. A simple T-shirt paired with comfortable shorts or a sundress would suit the day beautifully. Perhaps a leisurely stroll along the Charles River or a visit to one of the many parks would provide just the right touch of relaxation and rejuvenation. A midday picnic could be charming, allowing you to savor the warmth while surrounded by the vibrant life of the city. Given the perfect weather and bountiful sunshine, it is an ideal day for exploring, unwinding, or even indulging in a book at your favorite caf\u00e9, all beneath a luscious blue sky that promises to remain unmarred by clouds.",
-    "color_code": "#A2C2E0",
-    "timestamp": "2026-06-09 05:18:35"
+    "weather_report": "As Boston awakens to this lovely morning, the air carries a gentle warmth, heralding a day that promises sunshine and clear skies. The forecast indicates a peak temperature near a comfortable 87 degrees, accompanied by a modest west wind that whispers through the trees. There\u2019s a sense of invitation in the daylight, one that beckons you outside to relish the bounteous light and the vibrant energy that fills the streets.\n\nTonight will usher in a calm evening, with temperatures settling down to around 61 degrees, creating an atmosphere perfect for a leisurely evening stroll or perhaps sitting on a porch with a cool drink in hand. Such delightful weather recommends a wardrobe of light fabrics; a breathable shirt and comfortable shorts would serve well during the day, while as dusk approaches, a light jacket may add just the right touch of coziness against the gentle evening air. \n\nWith these inviting conditions, consider a stroll along the Charles River, where the sun will cast undeniable glimmers upon the water, or explore the historic streets of Beacon Hill, soaking in the charm of the architecture that whispers tales from days gone by. It\u2019s the sort of day that calls for simple pleasures, whether you find yourself admiring the vibrant farmers markets or seeking a quiet moment in one of Boston\u2019s lush public gardens, where nature and urban life harmoniously coexist.",
+    "color_code": "#5EBE67",
+    "timestamp": "2026-06-09 09:11:10"
 }
