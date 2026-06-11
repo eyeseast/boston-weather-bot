@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-11T09:20:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 100,
+            "timestamp": "2026-06-11T13:15:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 83.338787521304,
             "wind_speed_mph": 12.401928,
-            "wind_direction": 220,
-            "description": "Rain and Fog/Mist"
+            "wind_direction": 230,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-11T05:00:00-04:00",
-                "endTime": "2026-06-11T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 69. Southwest wind around 6 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-06-11T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-06-11T08:00:00-04:00",
                 "endTime": "2026-06-11T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 91,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 12
+                    "value": 10
                 },
                 "windSpeed": "7 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/fog/hot?size=medium",
                 "shortForecast": "Patchy Fog then Mostly Sunny",
                 "detailedForecast": "Patchy fog before 9am. Mostly sunny, with a high near 91. Heat index values as high as 95. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-06-11T18:00:00-04:00",
+                "endTime": "2026-06-12T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 71,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 22
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/fog?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Patchy Fog",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 11pm, then patchy fog between 1am and 2am. Partly cloudy, with a low around 71. West wind around 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "This morning in Boston, the city awakens shrouded in a gentle haze, with patchy fog lightly cloaking the landscape, bringing an air of mystery to the early hours. As the sun peers cautiously over the horizon, expect this mist to lift, revealing a day bathed in warmth and golden light. The atmosphere carries a promise of an inviting afternoon, where temperatures will rise, transforming the fog\u2019s embrace into golden rays, and reaching up to a sultry 91 degrees. The heat index, nudging close to 95, calls for a careful blend of comfort and style in attire; light fabrics and breathable materials will ensure ease as the day unfolds.\n\nWith the sun claiming its full reign, consider indulging in a leisurely stroll along the Charles River or perhaps a visit to a local caf\u00e9 to savor a morning pastry as the city stirs. The inviting weather beckons you to embrace the outdoors, ideal for a serene picnic in one of Boston\u2019s many parks, where laughter and light conversation drift through the air like the softest breeze. As the warmth envelops you, bask in this lovely day; it invites a casual charm that effortlessly balances activity and repose.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2026-06-11 05:40:00"
+    "weather_report": "As the sun ushers in the daytime, Boston finds itself cradled in a gentle embrace of warmth, punctuated by the remnants of early fog dissolving under a brightening sky. Clarity slips slowly into the day, revealing a panorama of possibilities against this canvas of mostly sunny hues. Although the heat is keen, with the air kissing 91, it carries a whisper of humidity that nudges the heat index closer to 95, urging you to savor the shade alongside the sun.\n\nAs night descends, the city may experience a flicker of drama with a slight chance of showers or thunder, perhaps spurring a comforting indoors retreat as patchy fog waltzes in after the day\u2019s warmth. The evening cools to a mild 71, offering a sweet reprieve from the sunswept day. The rhythm of the air suggests wearing something breathable for the day, perhaps a lightweight linen shirt or a flowing dress, while keeping a light layer at hand for later. With the day drawing out gently, a stroll along the Charles might be just the antidote to the heat, or perhaps gathering friends for a casual meeting where laughter pairs well with local brews. It's a day that whispers for simplicity\u2014take it slow, find joy in the moment, and let the rhythm of the evening softly guide you home.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-06-11 09:33:33"
 }
