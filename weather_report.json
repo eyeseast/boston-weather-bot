@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-11T19:53:00+00:00",
-            "temperature_f": 89.06,
-            "temperature_c": 31.7,
-            "humidity": 46.678266686053,
-            "wind_speed_mph": 24.964920000000003,
-            "wind_direction": 300,
-            "description": ""
+            "timestamp": "2026-06-12T00:53:00+00:00",
+            "temperature_f": 77.0,
+            "temperature_c": 25,
+            "humidity": 78.981255804611,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-06-11T16:00:00-04:00",
-                "endTime": "2026-06-11T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 91,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 10
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 91. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-06-11T18:00:00-04:00",
+                "startTime": "2026-06-11T21:00:00-04:00",
                 "endTime": "2026-06-12T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 71,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 22
+                    "value": 19
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
+                "windSpeed": "3 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/bkn?size=medium",
                 "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Cloudy",
-                "detailedForecast": "A slight chance of showers and thunderstorms between 7pm and 11pm. Mostly cloudy, with a low around 71. Northwest wind around 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A slight chance of showers and thunderstorms before 11pm. Mostly cloudy, with a low around 71. West wind around 3 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-06-12T06:00:00-04:00",
+                "endTime": "2026-06-12T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 86,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 17
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers between 8am and 3pm. Mostly sunny, with a high near 86. Northeast wind 2 to 7 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, the air is drenched in warmth, with sunbeams bathing the city in a gentle, golden hue. The temperature nudges close to 91, a perfect reminder of summer's embrace, while a light northwest breeze whispers through the streets, offering just enough relief to make the warmth feel comfortable. The sky is a striking tableau of bright blue interspersed with cottony clouds, casting soft shadows on the bustling world below, hinting at the serene beauty of a day well-aligned with the spirit of exploration.\n\nAs evening approaches, the atmosphere shifts slightly, with the possibility of brief showers and thunderstorms from 7pm to 11pm gently reminding us of nature's unpredictability. The creeping clouds promise to wash away the day's heat, ushering in a coolness that beckons for cozy outdoor gatherings, perhaps at a local park or rooftop terrace, where one can sip a chilled beverage and savor the twilight. Tonight, dressing in lightweight layers will serve you well\u2014comfortable enough to partake in the pleasant evening, yet warm enough should the shadows lengthen and a breeze stir. \n\nEmbrace the fine day by wandering along the banks of the Charles or visiting one of Boston\u2019s quaint cafes, watching the city morph into a canvas of vibrant lights as dusk settles in. Whether you choose to people-watch or indulge in the arts, let this day carry you effortlessly into the charm of a summer evening.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-06-11 16:56:03"
+    "weather_report": "As twilight deepens over Boston, a gentle whisper of moisture lingers in the air, hinting at the possibility of a shower before nightfall. The sky, draped in a soft tapestry of clouds, hints at a delicate dance between light and shadow. With warm temperatures wrapping around you like a familiar shawl, the evening presents a comfortable warmth, perfect for a leisurely stroll through cobblestone streets or a quiet moment on a porch overlooking the cityscape. The slight westward breeze carries the promise of rain, but the chance remains fleeting, allowing one to enjoy the lingering vibrancy of the day.\n\nCome Friday, the sun will make its entrance, a golden orb casting down its warmth. Anticipate the day to unfold under a canvas of mostly sunny skies, inviting those seeking respite to relish in the beauty of outdoors. While a few light showers may flirt with the morning, the likelihood remains low, allowing for the day's planned activities to proceed with ease. Consider light attire, perhaps a comfortable dress or breathable shirt, paired with a light jacket for the morning chill. It\u2019s a day well-suited for exploration\u2014perhaps a visit to a local market or a leisurely bike ride along the Charles River, where nature harmonizes with urban life. Embrace the day; it promises an abundance of warmth and potential.",
+    "color_code": "#4A90E2",
+    "timestamp": "2026-06-11 21:16:29"
 }
