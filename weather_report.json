@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-12T09:12:00+00:00",
-            "temperature_f": 69.08,
-            "temperature_c": 20.6,
-            "humidity": 96.36167032456,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog/Mist"
+            "timestamp": "2026-06-12T12:53:00+00:00",
+            "temperature_f": 78.98,
+            "temperature_c": 26.1,
+            "humidity": 76.75727862001,
+            "wind_speed_mph": 16.91172,
+            "wind_direction": 230,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-12T05:00:00-04:00",
-                "endTime": "2026-06-12T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 10
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 71. Southwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-06-12T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-06-12T09:00:00-04:00",
                 "endTime": "2026-06-12T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 86,
@@ -52,11 +33,30 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/tsra_hi,30?size=medium",
                 "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of rain showers between 8am and 11am, then a slight chance of showers and thunderstorms between 11am and 1pm, then a chance of showers and thunderstorms between 1pm and 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 86. Southeast wind 2 to 6 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "A chance of rain showers before 11am, then a slight chance of showers and thunderstorms between 11am and 1pm, then a chance of showers and thunderstorms between 1pm and 2pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 86. Southeast wind 2 to 6 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-06-12T18:00:00-04:00",
+                "endTime": "2026-06-13T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 16
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 2am. Partly cloudy, with a low around 67. Northeast wind 3 to 8 mph. Chance of precipitation is 20%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the city stirs beneath a gently veiled sky, tinted with soft hues of amber and muted gray. The air remains warm, a comforting blanket, holding a promise of a day that could shift from placid to dynamic. Currently, the low-lying clouds cloak the horizon, keeping the sun shy, but a slight breeze carries a hint of anticipation for the day ahead.\n\nExpectations run high for Friday, as the morning prepares to unveil a blend of sun and sporadic rain, with a chance of brief showers dancing on the breeze. While the likelihood of rain remains mild, the warmth enveloping the city hints at spontaneous thunderstorms that could disrupt the tranquil morning. Therefore, dressing in layers\u2014perhaps a light, water-resistant jacket\u2014will serve best to navigate both the warmth and the whimsical threat of moisture from above. Given the meteorological mood, feel free to venture out to explore your local caf\u00e9 or peruse a nearby bookstore as the clouds create a cozy, subdued atmosphere perfect for contemplation. Take a leisurely stroll along the waterfront, but keep an eye on the sky as the day unfolds, ready to embrace the change that accompanies a summer\u2019s storm.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2026-06-12 05:34:14"
+    "weather_report": "As morning unfurls over Boston, a veil of soft clouds hangs gently in the sky, hinting at the day's potential. A light breeze stirs the air, creating an atmosphere that feels both refreshing and inviting, yet there's an underlying tension as rain showers linger within the forecast. The city, often proud in its sunshine, today wears the delicate shroud of uncertainty, with possible storms shimmering on the horizon like distant promises. As the clock approaches midday, humidity may rise, coaxing the warmth to envelop those out and about. \n\nFor those contemplating their day, dressing in layers might be the wisest choice \u2013 a light, breathable fabric for the rising heat, paired with a light jacket or outer layer to guard against unexpected showers. As activity beckons, a leisurely stroll along the Charles may provide solace\u2014watching the water reflect the changing skies while enjoying the vibrant pulse of city life. Alternatively, one might seek refuge in a quiet caf\u00e9, a book in hand, listening as the rain gently taps against the window, a perfect companion to the unfolding narrative of the day.",
+    "color_code": "#A8C4D0",
+    "timestamp": "2026-06-12 09:22:19"
 }
