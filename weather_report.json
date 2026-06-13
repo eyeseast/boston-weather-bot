@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-12T20:35:00+00:00",
-            "temperature_f": 89.6,
-            "temperature_c": 32,
-            "humidity": 59.044795274558,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 260,
-            "description": "Mostly Clear"
+            "timestamp": "2026-06-13T00:50:00+00:00",
+            "temperature_f": 78.8,
+            "temperature_c": 26,
+            "humidity": 78.63985107242,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-06-12T16:00:00-04:00",
-                "endTime": "2026-06-12T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 90,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 29
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly sunny, with a high near 90. East wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-06-12T18:00:00-04:00",
+                "startTime": "2026-06-12T21:00:00-04:00",
                 "endTime": "2026-06-13T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 68,
@@ -49,14 +30,33 @@
                     "value": 18
                 },
                 "windSpeed": "2 to 8 mph",
-                "windDirection": "N",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=medium",
                 "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms between 10pm and 1am. Partly cloudy, with a low around 68. North wind 2 to 8 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of showers and thunderstorms between 10pm and 1am. Partly cloudy, with a low around 68. Northwest wind 2 to 8 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-06-13T06:00:00-04:00",
+                "endTime": "2026-06-13T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 91,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 91. Northwest wind around 9 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, a warm embrace of near-90-degree air invites a sense of languid energy, punctuated by the gentle possibility of rain showers that flirt with the sunshine. The sky is a whimsical canvas, brushed with clouds that drift like thoughts on a summer breeze, while a soothing east wind adds to the mild ambiance. The day has that character\u2014filled with promise yet leaving room for uncertainty as the shadows of rain loom lightly on the horizon. As daylight wanes into a partly cloudy evening, a few playful storms may dance between 10 PM and 1 AM, but for now, the city is drenched in warmth, a hint of humidity lingering in the air, suggesting a dress of light fabrics and comfort\u2014think airy dresses or relaxed shirts, perhaps paired with shorts that allow for easy movement.\n\nAs twilight approaches, the scene outside calls for casual promenades through the park or perhaps an unhurried coffee at a sidewalk caf\u00e9 where conversations linger as leisurely as the clouds in the sky. The ambiance is conducive to quiet reflections or shared laughter, where the occasional rumbles of thunder might only add a thrilling background score to an otherwise peaceful evening.  So, unravel your weekday worries, putting on a layer you can shed if the warmth wraps too tightly around you, and step into the rhythm of the city as it embraces the scintillating energy of a summer evening.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-06-12 16:51:35"
+    "weather_report": "As twilight deepens over Boston, the air carries a gentle warmth, hinting at the unhurried embrace of summer. Tonight anticipates a slight possibility of showers and a clap of thunder, though for now, the clouds dance softly against a backdrop of fading light. The temperature, dipping toward a comfortable 68, invites the casual comfort of light layers; a cardigan paired with shorts might just strike the right balance. A whisper of a northwest wind stirs the leaves, accentuating the pleasant aura of the approaching night.\n\nAs dawn unfurls on Saturday, the promise of sunshine glistens in the morning dew, offering an enticing forecast that peaks near 91. The day beckons those yearning to venture outside\u2014perhaps a stroll along the Esplanade, where the symphony of laughter and the rustle of trees provide a tranquil backdrop. For the spirited seekers, an outdoor caf\u00e9 on a shaded patio may offer refuge, with tables adorned by fragrant cups of coffee spilling into the warm breeze. With the current weather a vibrant prelude to a blissful weekend, it is an ideal moment to indulge in the joys of the season, embracing simplicity and the richness of a sunlit day peeking into evening.",
+    "color_code": "#f2c94c",
+    "timestamp": "2026-06-12 21:14:41"
 }
