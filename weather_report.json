@@ -7,37 +7,18 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-15T05:35:00+00:00",
-            "temperature_f": 69.8,
-            "temperature_c": 21,
-            "humidity": 77.915158291749,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 180,
-            "description": "Mostly Clear"
+            "timestamp": "2026-06-15T10:00:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 93.974509366621,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 140,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-15T01:00:00-04:00",
-                "endTime": "2026-06-15T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 81
-                },
-                "windSpeed": "8 to 12 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,80?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of rain showers before 2am, then showers and thunderstorms between 2am and 5am, then patchy fog and showers and thunderstorms likely. Mostly cloudy, with a low around 64. South wind 8 to 12 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2026-06-15T06:00:00-04:00",
                 "endTime": "2026-06-15T18:00:00-04:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/tsra_hi,50/bkn?size=medium",
                 "shortForecast": "Chance Showers And Thunderstorms then Partly Sunny",
                 "detailedForecast": "A chance of showers and thunderstorms before 9am. Partly sunny, with a high near 85. West wind around 9 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-06-15T18:00:00-04:00",
+                "endTime": "2026-06-16T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 58. Northwest wind around 8 mph."
             }
         ]
     },
-    "weather_report": "As the night softly envelops Boston, the air hangs heavy with the weight of impending moisture. While a touch of rain may dance briefly on some rooftops, the horizon is painted with the promise of thunderstorms that will arrive as the clock ticks past two. A shroud of cloud gathers overhead, forming a steamy blanket that melds with patchy fog, draping the city in its unveiled mystery. The gentle south wind hums through the trees, whispering secrets of warmth, with temperatures resting comfortably near sixty-four. \n\nAs dawn breaks, the day promises intervals of sunshine tempered by the possibility of errant showers and an occasional rumble of thunder. With the high projected near eighty-five, one might opt for light layers that can be easily shed or donned as the weather dictates. The unique charm of a summer day in Boston beckons, perfect for strolls through the winding streets or perhaps a leisurely visit to a cozy cafe, where the clattering of cups and soft conversations create a comforting symphony. Keep an umbrella handy, an emblem of preparation in this capricious climate. Always, nature offers its canvas, and this day unfurls as a delicate interplay between unpredictability and beauty.",
-    "color_code": "#D2C8D8",
-    "timestamp": "2026-06-15 01:57:09"
+    "weather_report": "As dawn breaks over Boston, the air is thick with promise, albeit tinged with a hint of ambiguity. The remnants of rain hover in the atmosphere, whispering the possibility of brief showers and transient thunderstorms that may grace the morning but will likely retreat, yielding to dappled sunlight. By midday, the sky looks to open up, revealing a bright expanse as the high near 85 invites the warmth to seep into every corner of the city. A gentle west wind meanders through the streets, bringing with it the sweet scent of summer, carrying a lightness that seems to invigorate.\n\nAs the sun begins its arc towards the horizon, the evening promises a serene transition, with temperatures cooling to a cozy 58. The clarity gracing the day suggests that one might venture out into the evening, perhaps for a leisurely walk along the Charles River or to indulge in a captivating poetry reading at a local caf\u00e9. Dressing in layers is advisable\u2014start with something breathable to embrace the warmth of the day, yet a light sweater or shawl may become your companion as the night descends. Today is a canvas, inviting spontaneous adventure and quiet reflection alike.",
+    "color_code": "#A2C2E0",
+    "timestamp": "2026-06-15 06:16:23"
 }
