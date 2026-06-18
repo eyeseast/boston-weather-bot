@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-18T09:20:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 77.309999878277,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 160,
-            "description": "Cloudy"
+            "timestamp": "2026-06-18T20:35:00+00:00",
+            "temperature_f": 73.4,
+            "temperature_c": 23,
+            "humidity": 78.209169794993,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-18T05:00:00-04:00",
-                "endTime": "2026-06-18T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 29
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 61. South wind around 7 mph. Chance of precipitation is 30%."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-06-18T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-06-18T16:00:00-04:00",
                 "endTime": "2026-06-18T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 80,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 54
                 },
-                "windSpeed": "8 to 21 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/tsra,60?size=medium",
-                "shortForecast": "Showers And Thunderstorms Likely",
-                "detailedForecast": "A chance of rain showers before 2pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 80. South wind 8 to 21 mph, with gusts as high as 38 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "20 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,50?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a high near 80. Southwest wind around 20 mph, with gusts as high as 38 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-06-18T18:00:00-04:00",
+                "endTime": "2026-06-19T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 55
+                },
+                "windSpeed": "8 to 17 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,60/sct?size=medium",
+                "shortForecast": "Showers And Thunderstorms Likely then Partly Cloudy",
+                "detailedForecast": "Showers and thunderstorms likely before 9pm. Partly cloudy, with a low around 63. Southwest wind 8 to 17 mph, with gusts as high as 32 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn tiptoes into the Boston sky, a gentle shroud of clouds enfolds the city, hinting at the possibility of rain that lingers in the air like a distant memory of summer storms. The temperature hovers around a mild 61 degrees, with a soft breeze from the south suggesting a day that could sway from placid to vibrant. By mid-morning, the forecast beckons showers and the rumble of distant thunder, a prelude to the warm embrace of a high near 80. The currents of the wind grow bolder, gusting to 38 mph, urging the clouds to dance and swirl across the heavens.\n\nIn the heart of the city, these conditions evoke a certain introspective charm\u2014perfect for a leisurely morning stroll through the cobblestone streets, perhaps stopping at a local caf\u00e9 for a warm cup and a quiet conversation. Dress in layers that allow for both comfort and adaptability; a light jacket might serve as the perfect companion against the erratic whims of rain. As the day unfolds and the clouds threaten to spill their contents, an afternoon spent indulging in literature or exploring an indoor market would keep the spirit buoyant despite the weather\u2019s uncertainties. In this moment, Boston encapsulates a blend of reflective beauty and hints of summer\u2019s thunderous touch, inviting you to embrace all it offers.",
-    "color_code": "#A1C6E7",
-    "timestamp": "2026-06-18 05:39:08"
+    "weather_report": "As the afternoon unfolds in Boston, a thick blanket of clouds hangs overhead, lending an air of anticipation to the day. The temperature climbs toward the inviting warmth of 80 degrees, but a whisper of unsettled weather is palpable, with a hint of thunder rolling in the distance. The brisk southwest breeze, wild and daring, occasionally gusts hard enough to remind you of nature's power, painting the scene with a restless energy. Rain is hinted at, promising a refreshing kiss but only if the skies decide to open their arms. \n\nAs dusk approaches, the likelihood of showers and thunderstorms becomes more pronounced, casting a shadow of uncertainty over outdoor plans. Tonight invites a comfortable retreat, with temperatures easing into a mild embrace around 63 degrees. A casual stroll through Boston might offer a chance to savor the last of the day's warmth before the gathering clouds. It\u2019s wise to consider light layers to accommodate the cooling evening air, perhaps a light jacket just in case the wind picks up and the sky releases its pent-up promise. While the day holds its risks, embracing a local caf\u00e9 or seeking refuge at a favorite bookstore could transform the overcast into an enriching experience, reminding us that tranquility can often bloom in the heart of stormy skies.",
+    "color_code": "#A9B2C8",
+    "timestamp": "2026-06-18 16:56:48"
 }
