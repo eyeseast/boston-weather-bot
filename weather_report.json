@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-18T20:35:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 78.209169794993,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-06-19T01:00:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 100,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 170,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-06-18T16:00:00-04:00",
-                "endTime": "2026-06-18T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 80,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 54
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,50?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a high near 80. Southwest wind around 20 mph, with gusts as high as 38 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-06-18T18:00:00-04:00",
+                "startTime": "2026-06-18T21:00:00-04:00",
                 "endTime": "2026-06-19T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 63,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 55
+                    "value": 8
                 },
-                "windSpeed": "8 to 17 mph",
+                "windSpeed": "8 to 15 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,60/sct?size=medium",
-                "shortForecast": "Showers And Thunderstorms Likely then Partly Cloudy",
-                "detailedForecast": "Showers and thunderstorms likely before 9pm. Partly cloudy, with a low around 63. Southwest wind 8 to 17 mph, with gusts as high as 32 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 63. Southwest wind 8 to 15 mph."
+            },
+            {
+                "number": 2,
+                "name": "Juneteenth",
+                "startTime": "2026-06-19T06:00:00-04:00",
+                "endTime": "2026-06-19T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 83,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "10 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 83. West wind 10 to 14 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a thick blanket of clouds hangs overhead, lending an air of anticipation to the day. The temperature climbs toward the inviting warmth of 80 degrees, but a whisper of unsettled weather is palpable, with a hint of thunder rolling in the distance. The brisk southwest breeze, wild and daring, occasionally gusts hard enough to remind you of nature's power, painting the scene with a restless energy. Rain is hinted at, promising a refreshing kiss but only if the skies decide to open their arms. \n\nAs dusk approaches, the likelihood of showers and thunderstorms becomes more pronounced, casting a shadow of uncertainty over outdoor plans. Tonight invites a comfortable retreat, with temperatures easing into a mild embrace around 63 degrees. A casual stroll through Boston might offer a chance to savor the last of the day's warmth before the gathering clouds. It\u2019s wise to consider light layers to accommodate the cooling evening air, perhaps a light jacket just in case the wind picks up and the sky releases its pent-up promise. While the day holds its risks, embracing a local caf\u00e9 or seeking refuge at a favorite bookstore could transform the overcast into an enriching experience, reminding us that tranquility can often bloom in the heart of stormy skies.",
-    "color_code": "#A9B2C8",
-    "timestamp": "2026-06-18 16:56:48"
+    "weather_report": "As the sun dips below the horizon, an inviting calm settles over Boston. The sky transitions into a tapestry of deep blues and gentle oranges, promising a tranquil night ahead. With temperatures easing down to around 63 degrees, a soft southwest breeze stirs, whispering through open windows and inviting evening strolls along the Charles River, where shadows stretch elegantly on the water\u2019s surface. Tonight's weather is clear and bright, a perfect companion for quiet reflections or perhaps a late-night coffee at a cozy caf\u00e9.\n\nAs Juneteenth dawns, expect the warmth of the sun to embrace the city with a high near 83 degrees. A predominantly sunny day beckons, flavored by a lively west wind\u2014ideal for afternoon pursuits such as wandering through the Boston Common or engaging in friendly conversations at outdoor markets. Dress lightly, perhaps in breathable fabrics that hold some elegance, embracing the spirit of the day while staying comfortable. It\u2019s the kind of weather that encourages an exploration of the city's charm or a simple gathering with friends, enjoying the heady blend of sunshine and gentle breezes that only a midsummer day can bring.",
+    "color_code": "#005AB5",
+    "timestamp": "2026-06-18 21:21:10"
 }
