@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-20T08:50:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 55.656762504377,
-            "wind_speed_mph": 37.286316,
+            "timestamp": "2026-06-20T12:30:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 59.762815682936,
+            "wind_speed_mph": 49.688244000000005,
             "wind_direction": 260,
-            "description": "Clear"
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-20T05:00:00-04:00",
-                "endTime": "2026-06-20T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 62. West wind around 13 mph, with gusts as high as 25 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-06-20T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-06-20T08:00:00-04:00",
                 "endTime": "2026-06-20T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 81,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few/tsra_hi,20?size=medium",
                 "shortForecast": "Sunny then Slight Chance Showers And Thunderstorms",
                 "detailedForecast": "A slight chance of showers and thunderstorms after 3pm. Sunny, with a high near 81. West wind 13 to 16 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-06-20T18:00:00-04:00",
+                "endTime": "2026-06-21T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 18
+                },
+                "windSpeed": "5 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/few?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Clear",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 9pm. Mostly clear, with a low around 60. West wind 5 to 12 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the morning air is tinged with a gentle warmth, hinting at the promise of a pleasant day ahead. The horizon, painted with soft hues of blue and wisps of cloud, sets the stage for a day that transitions from tranquil early hours to the potential excitement of afternoon storms. The low temperatures overnight have left a mild freshness that lingers; a gentle west wind dances through the trees, carrying a whisper of energy and the occasional rustle of leaves.\n\nUnderneath the burgeoning sunshine, the city will warm to a comfortable degree, though the clouds might threaten with scattered showers or a rumble of thunder later in the afternoon. With the day\u2019s high fluttering near 81 degrees, dressing in light layers will prove wise\u2014perhaps a crisp cotton shirt accompanied by a lightweight jacket for the possibility of rain. As the hours unfold, consider traversing the neighborhood, perhaps visiting a favorite caf\u00e9 or exploring a quiet park. The allure of summer is palpable, inviting leisurely pursuits in the low light of evening. Enjoy this fleeting moment where the city pulses with life, a prelude to the vibrant adventures awaiting in the hours to come.",
-    "color_code": "#A2B7D5",
-    "timestamp": "2026-06-20 05:11:53"
+    "weather_report": "Today in Boston, the atmosphere presents a gentle interplay between sun and cloud, creating a backdrop that feels both invigorating and serene. With temperatures inching toward the low 80s, this balmy day yields a hint of excitement with a slight chance of showers or thunderstorms later in the afternoon. A westerly breeze dances through, rustling the leaves and teasing your hair, whispering of the warmth and vibrancy that summer brings. As the sun ascends, the sky transforms into a tableau of blues and whites, casting an optimistic light over the city.\n\nAs evening approaches, the promise of a tranquil night unfolds. The temperature dips just enough to warrant a light layer, as the low settles near 60 degrees. A leisurely stroll along the Charles River could be invigorating, or perhaps an exploration of the city\u2019s eclectic cafes to relish a cozy cup of coffee before dusk fully embraces Boston. The faint chance of rain adds a touch of unpredictability, but for now, the weather persists in its pleasantness. So, throw on something relaxed yet stylish\u2014perhaps a lightweight shirt paired with comfortable pants\u2014and venture out to appreciate this delightful slice of the summer season.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-06-20 08:47:05"
 }
