@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-20T16:25:00+00:00",
-            "temperature_f": 77.0,
-            "temperature_c": 25,
-            "humidity": 44.281814632319,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2026-06-21T00:50:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 52.802638324228,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 310,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-06-20T12:00:00-04:00",
-                "endTime": "2026-06-20T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 81,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 20
-                },
-                "windSpeed": "13 to 16 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms after 3pm. Mostly sunny, with a high near 81. West wind 13 to 16 mph, with gusts as high as 30 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-06-20T18:00:00-04:00",
+                "startTime": "2026-06-20T21:00:00-04:00",
                 "endTime": "2026-06-21T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 60,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 18
+                    "value": 5
                 },
-                "windSpeed": "5 to 12 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/few?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms then Mostly Clear",
-                "detailedForecast": "A slight chance of showers and thunderstorms before 9pm. Mostly clear, with a low around 60. West wind 5 to 12 mph, with gusts as high as 25 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 60. West wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-06-21T06:00:00-04:00",
+                "endTime": "2026-06-21T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 83,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 25
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct/tsra_hi,30?size=medium",
+                "shortForecast": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+                "detailedForecast": "A slight chance of showers and thunderstorms between 2pm and 4pm, then a chance of showers and thunderstorms between 4pm and 5pm, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 83. West wind 5 to 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the sun casts a gentle glow across Boston this afternoon, the air is laced with the promise of warmth and the whisper of a potential storm. The sky wears a quilt of puffy clouds, drifting lazily, while a light breeze carries a refreshing hint of freedom that nudges the temperature towards a pleasant embrace of 81 degrees. Though there's the slight chance of showers or thunderstorms later in the day, for now, the prevailing conditions invite a sense of adventure. With gusts of wind playfully flitting through the streets, your best companion would be a light jacket or long sleeves, allowing you to enjoy the gradual transition from the sun-soaked afternoon to the cooler hues of the evening.\n\nAs night drapes its calm upon the city, the forecasters hint at a lingering chance of rain before nine, but worries of the downpour can be brushed aside for this splendid June day. Under the evening sky, as temperatures dip to a comfortable 60 degrees, the invitation is clear: take a stroll along the Esplanade, find a cozy caf\u00e9 for a cup of tea, or perhaps lose yourself in a charming bookstore. This is a night made for quiet introspection or heartfelt conversations with old friends, all under the watchful eyes of a star-speckled sky and a gentle evening breeze.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2026-06-20 12:38:52"
+    "weather_report": "As night enfolds Boston, the air hangs pleasantly around 60 degrees, kissed gently by a soft west wind. The sky, mostly clear now, hints at the promise of a beautiful Sunday. Tomorrow, the sun will rise bright and inviting, casting a golden glow over the city. Throughout the day, expect warmth to surge toward the low 80s, although a whisper of uncertainty lingers in the form of slight chances for showers and thunderstorms, especially in the afternoon. But for now, the temperature is just cool enough to warrant a light sweater as the last of the day\u2019s light dips below the horizon.\n\nAs the new day dawns, a balanced outfit is advisable\u2014perhaps a short-sleeved shirt paired with lightweight long pants, allowing for comfort should the day take a turn towards warmth or rain. A woven hat can shield your face from the sun and add a touch of airiness to your look. With the potential for rain in the afternoon, keeping a light jacket on hand is wise, enabling a stroll through the local parks, where friends and families gather to embrace the beauty of the season. As the weather hints at transitions, Boston invites its residents to savor both the sparkle of sunlight and the rich aroma of impending rain, making it a day perfect for exploration, whether that leads you to a bustling caf\u00e9 or a serene lakeside sit.",
+    "color_code": "#88B1D1",
+    "timestamp": "2026-06-20 21:18:51"
 }
