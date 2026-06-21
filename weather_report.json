@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-21T09:05:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-06-21T12:35:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 60.236208780511,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 270,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-21T05:00:00-04:00",
-                "endTime": "2026-06-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 60. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-06-21T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-06-21T08:00:00-04:00",
                 "endTime": "2026-06-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 82,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 26
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/few/tsra_hi,30?size=medium",
                 "shortForecast": "Sunny then Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms between 4pm and 5pm, then a chance of showers and thunderstorms. Sunny, with a high near 82. West wind 6 to 10 mph. Chance of precipitation is 30%."
+                "detailedForecast": "A slight chance of showers and thunderstorms between 4pm and 5pm, then a chance of showers and thunderstorms. Sunny, with a high near 82. West wind 7 to 10 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-06-21T18:00:00-04:00",
+                "endTime": "2026-06-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 21
+                },
+                "windSpeed": "2 to 8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/sct?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 7pm. Partly cloudy, with a low around 60. West wind 2 to 8 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As day breaks over Boston, the sky reveals a gentle shade of blue, brushed with the soft hues of dawn. The air holds an unmistakable freshness, a promise of warmth as sunlight gradually steals over the horizon. Currently, the temperature hovers comfortably around sixty degrees, tempered by a light breeze from the west, a whisper that carries with it the scents of morning dew and waking city life. \n\nLooking ahead, the afternoon calls for a mix of sun and the possibility of passing showers or thunderstorms. While a chance of rain looms between four and five, it seems more a playful threat than a certainty. With temperatures expected to climb near eighty-two, this day may invite both shorts and light layers. As the sun charting its path through the sky, one might consider leisurely strolls along the Charles Riverwalk or the inviting shade of Boston Common\u2014perhaps a visit to a quiet caf\u00e9 for a coffee, basking in the warmth of mild afternoon sun. Enjoy the day, but keep an eye on the horizon; summer\u2019s capricious nature may weave in a quick shower or two, adding a dash of spontaneity to your leisurely pursuits.",
-    "color_code": "#9BC9FF",
-    "timestamp": "2026-06-21 05:24:15"
+    "weather_report": "As the sun rises over Boston this fine June morning, the sky stretches out in a brilliant expanse of blue, a canvas brushed lightly with wisps of white. The warmth of the day gently nudges awake the city's spirit, hinting at the delight it has in store. With a high near 82, it encourages activity, though a touch of humidity lingers in the air, reminding us that summer is fully upon us. Late afternoon may surprise us with a slight chance of showers and thunderstorms, a whimsical twist that feels more like summer's playful tease than a threat.\n\nTonight, as the sun dips, the ambiance will shift ever so subtly. There lies the promise of a partly cloudy evening with temperatures cooling to a gentle 60, perfect for a stroll beneath the stars or a gathering with friends on a patio. As the breeze whispers through the trees, dressing comfortably\u2014perhaps in light layers\u2014will allow you to embrace both warmth and chill as they come. This is a day made for leisurely pursuits: a visit to a local caf\u00e9, a quiet walk through the Boston Common, or the company of a good book in a park, indulging in the contours of urban life while savoring the moments of simple pleasure that summer generously offers.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-06-21 08:51:02"
 }
