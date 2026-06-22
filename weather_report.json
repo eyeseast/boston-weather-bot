@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-22T05:25:00+00:00",
-            "temperature_f": 55.4,
-            "temperature_c": 13,
-            "humidity": 93.65072411462,
+            "timestamp": "2026-06-22T09:45:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-22T01:00:00-04:00",
-                "endTime": "2026-06-22T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 60. West wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
+                "name": "Today",
                 "startTime": "2026-06-22T06:00:00-04:00",
                 "endTime": "2026-06-22T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 79,
+                "temperature": 81,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 62
+                    "value": 53
                 },
-                "windSpeed": "1 to 7 mph",
+                "windSpeed": "0 to 7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,50?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 2pm. Mostly cloudy, with a high near 81. Southwest wind 0 to 7 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-06-22T18:00:00-04:00",
+                "endTime": "2026-06-23T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "9 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn/tsra_sct,60?size=medium",
-                "shortForecast": "Mostly Cloudy then Showers And Thunderstorms Likely",
-                "detailedForecast": "A chance of rain showers between 2pm and 4pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 79. South wind 1 to 7 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra,90/tsra,100?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Rain showers before 8pm, then showers and thunderstorms between 8pm and 10pm, then patchy fog and showers and thunderstorms between 10pm and 2am, then patchy fog and showers and thunderstorms. Cloudy, with a low around 62. South wind around 9 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "As the quiet hours of the night envelop Boston, the air is cool and tranquil, holding the promise of a warm day ahead. The city lies under a blanket of mostly clear skies, with temperatures settling around a gentle 60 degrees. A soft breeze whispers from the west, barely noticeable, inviting a moment of reflection before the day's activities begin. As dawn breaks, the sun will rise to melt away any lingering chill, paving the way for a late-morning warmth that will beckon the city's residents outdoors.\n\nThe forecast for the day signals a shift, as clouds gather and the threat of rain showers emerges, particularly in the afternoon. As temperatures creep toward the comforting height of 79, it would be wise to dress in layers\u2014light clothing to accommodate the warmth, yet perhaps an umbrella or light jacket on hand for the impending thunderstorms. Though the day may not hold the crystal clarity of a picture-perfect summer afternoon, it still possesses a charm unique to the shifting weather patterns of New England. The bustling streets will soon awaken as people emerge from their homes, perhaps to wander through the lush gardens along the Esplanade, catch up with friends over coffee in a cozy caf\u00e9, or explore the historical sites dotting the landscape. Each moment spent today will carry the thrill of a summer day, filled with the anticipation of what lies ahead.",
-    "color_code": "#2F4F4F",
-    "timestamp": "2026-06-22 01:59:31"
+    "weather_report": "Boston awakens to a cloudy canvas, the air laced with the promise of warm, albeit unsettled, weather. The high today is expected to gently crest near 81, though the likelihood of rain showers creeping in after 2 PM adds a layer of unpredictability to the day. A southwest breeze whispers through the streets, adding a slight comfort for those stepping out, though it\u2019s prudent to carry an umbrella as the afternoon unfolds. \n\nAs twilight descends, the sky will deepen into a brooding grey, punctuated by the rhythm of rain showers and potential thunderstorms making their entrance before nightfall. With temperatures dipping to a cozy 62, those who venture out might find it wise to don layers\u2014a light jacket coupled with breathable fabrics\u2014to navigate both the warmth of the day and the cool moisture of the evening. Given the impending storms, finding a welcoming caf\u00e9 or cozy nook for a quiet read might be just the retreat one needs, offering solace as the rain taps against the windows, creating an ambiance perfect for reflection.",
+    "color_code": "#A9C8D6",
+    "timestamp": "2026-06-22 06:09:35"
 }
