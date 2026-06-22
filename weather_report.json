@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-21T20:25:00+00:00",
-            "temperature_f": 82.4,
-            "temperature_c": 28,
-            "humidity": null,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Clear"
+            "timestamp": "2026-06-22T01:05:00+00:00",
+            "temperature_f": 64.4,
+            "temperature_c": 18,
+            "humidity": 72.582141630914,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-06-21T16:00:00-04:00",
-                "endTime": "2026-06-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 81,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 16
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms. Mostly sunny, with a high near 81. Northwest wind around 9 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-06-21T18:00:00-04:00",
+                "startTime": "2026-06-21T21:00:00-04:00",
                 "endTime": "2026-06-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 60,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 14
+                    "value": 1
                 },
-                "windSpeed": "2 to 7 mph",
-                "windDirection": "NW",
+                "windSpeed": "2 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 60. Northwest wind 2 to 7 mph."
+                "detailedForecast": "Partly cloudy, with a low around 60. West wind around 2 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-06-22T06:00:00-04:00",
+                "endTime": "2026-06-22T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 79,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 62
+                },
+                "windSpeed": "1 to 7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/tsra_sct,60?size=medium",
+                "shortForecast": "Mostly Cloudy then Showers And Thunderstorms Likely",
+                "detailedForecast": "A chance of rain showers between 2pm and 4pm, then showers and thunderstorms likely. Mostly cloudy, with a high near 79. South wind 1 to 7 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds with a gentle warmth, where the sun interplays with clouds, casting a serene glow over the city. A slight chance of showers and thunderstorms lingers in the distance, but the predominant sensation is one of peaceful vigor. The temperature hovers invitingly near 81 degrees, encouraging moments spent outdoors, even as the northwest wind whispers softly through the trees. As dusk approaches, the sky transitions to a soft embrace of partly cloudy hues, suggesting a comfortable evening ahead with temperatures dipping to around 60. The cool air will brush against your skin, refreshing after the day\u2019s warmth.\n\nAttire should lean towards light layers\u2014a breathable shirt paired with a light jacket or cardigan for the evening\u2019s gentle coolness. Perhaps consider a leisurely stroll along the Charles River or a quiet sit in one of Boston\u2019s many parks, where the wonders of nature can be witnessed in subtle colors and soft sounds. A visit to a quaint caf\u00e9 might also complement the day beautifully, as the ambiance invites conversation or quiet reflection over a warm drink. Embrace the tranquility of the day, savoring its simple pleasures as the sun makes its graceful descent.",
-    "color_code": "#A7C6ED",
-    "timestamp": "2026-06-21 16:38:42"
+    "weather_report": "As the evening unfolds in Boston, the sky transitions into a sprawling canvas of deep blues and scattered clouds, hinting at both the calm of the night and the potential for inclement weather to come. Tonight, temperatures settle comfortably around 60, kissed by a gentle west wind that whispers through the leaves, making it a pleasant time for a stroll along the river or perhaps a quiet moment on a balcony, savoring the shift in the air. The ambiance is serene, yet there\u2019s an undercurrent of expectancy as the forecast warns of rain's arrival tomorrow, bringing with it the possibility of showers and thunderstorms in the afternoon. \n\nFor the day ahead, Boston will embrace a more humid embrace, with temperatures climbing to a warm 79. The clouds will thicken, nudging away that refreshing evening breeze, replaced instead by the soft south winds hinting at changing times. As the sun takes its time to rise, consider dressing in layers; a light jacket for the morning chill, easily shed as the day warms. Given the anticipated rain, perhaps indulge in the cozy shelter of a local caf\u00e9 or muse through a captivating book in a park, allowing the life of the city to envelop you. It\u2019s a day of contrasts\u2014where the sunshine and warmth may temporarily brighten the path, yet the promise of rain reminds us of nature's ever-changing moods.",
+    "color_code": "#405E94",
+    "timestamp": "2026-06-21 21:18:53"
 }
