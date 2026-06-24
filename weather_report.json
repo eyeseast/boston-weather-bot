@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-24T08:53:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog"
+            "timestamp": "2026-06-24T12:35:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 77.615480305123,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 330,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-24T05:00:00-04:00",
-                "endTime": "2026-06-24T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 60. Northwest wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-06-24T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-06-24T08:00:00-04:00",
                 "endTime": "2026-06-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 83,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 3
+                    "value": 0
                 },
-                "windSpeed": "5 to 12 mph",
+                "windSpeed": "6 to 12 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 83. Northwest wind 5 to 12 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 83. Northwest wind 6 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-06-24T18:00:00-04:00",
+                "endTime": "2026-06-25T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 60. West wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the city unfolds beneath a soft blanket of clouds, hinting at the gentle embrace of a warm summer day. The air is still, cradled by a light northwesterly breeze that carries with it just the faintest trace of moisture from the night before. The temperature lingers around a comfortable sixty degrees, suggesting that those venturing outside might relish the bite of a light jacket for the early morning hours. \n\nAs the sun climbs higher in the sky, it promises to illuminate the day with its gentle rays, coaxing the temperature toward a pleasant eighty-three. This midweek offering is perfect for leisurely pursuits; perhaps a stroll through the blooming gardens of the Public Garden or a casual wander down Newbury Street, where the boutiques beckon with their curated displays. Attire should lean toward comfort, opting for light cottons or linens to keep cool as the day unfolds. Business casual will work nicely if the day involves a pinch of professionalism, while a casual tee and shorts will complement the vibrant energy of the city. With the promise of sunshine and a mild breeze, one can expect the residents of Boston to soak in the warmth, perhaps lingering over an afternoon coffee at a sidewalk caf\u00e9, watching the world pass by at a pace that invites relaxation.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2026-06-24 05:16:45"
+    "weather_report": "This morning, Boston greets us with an inviting warmth and clarity that speaks to the soul. The sun hangs brightly in the sky, casting its golden rays upon the city, promising a high near 83. It\u2019s a day designed for simple joys\u2014perhaps a stroll through the Public Garden, where every blossom beckons with vibrant colors, or a leisurely coffee at an outdoor caf\u00e9, allowing the soft breeze to accompany your thoughts. As the afternoon sun reaches its zenith, a gentle northwest wind whispers through the streets, cool but invigorating, a perfect companion for those wandering about.\n\nAs daylight fades, expect a serene transition to a mostly clear evening, with temperatures gracefully dipping to around 60. The west wind carries with it a fragrant hint of summer's essence, wrapping the city in a comforting embrace. For those contemplating their outfits, light layers will suffice\u2014perhaps a breathable shirt paired with comfy shorts for the day, and maybe a light sweater for the evening as you enjoy the lingering twilight. Given the picturesque conditions, it's an ideal time to discover the buried treasures of local parks or relish a tranquil picnic, all while appreciating the fleeting beauty of June days enriched by nature\u2019s splendor.",
+    "color_code": "#A3D6E1",
+    "timestamp": "2026-06-24 08:56:27"
 }
