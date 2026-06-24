@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-23T20:30:00+00:00",
-            "temperature_f": 68.0,
-            "temperature_c": 20,
-            "humidity": 82.871929790445,
+            "timestamp": "2026-06-24T00:45:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 93.929774401027,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Light Rain"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-06-23T16:00:00-04:00",
-                "endTime": "2026-06-23T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 72,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 49
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers and patchy fog. Mostly cloudy, with a high near 72. North wind around 5 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-06-23T18:00:00-04:00",
+                "startTime": "2026-06-23T21:00:00-04:00",
                 "endTime": "2026-06-24T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 60,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 36
+                    "value": 33
                 },
                 "windSpeed": "1 to 5 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/rain_showers,20?size=medium",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium",
                 "shortForecast": "Chance Rain Showers then Patchy Fog",
-                "detailedForecast": "A chance of rain showers and patchy fog before 11pm, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 60. North wind 1 to 5 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers and patchy fog before 11pm, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 60. Northwest wind 1 to 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-06-24T06:00:00-04:00",
+                "endTime": "2026-06-24T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 83,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 83. Northwest wind 5 to 9 mph."
             }
         ]
     },
-    "weather_report": "Boston drifts into a subdued afternoon, the air wrapped in a veil of soft gray, as sparse rain showers dance playfully on the breeze. A hint of fog softens the edges of the skyline, cloaking the city in a romantic haze, with temperatures wrapping you gently around 72 degrees. The north wind whispers, barely stirring the leaves, as those ambers of sunlight shy away, retreating behind heavy clouds. As the sun wanes, the chance of more showers lingers, though the droplets may be mere whispers compared to the day\u2019s earlier promise.\n\nAs evening approaches, a gentle chill invites cozy layers; a light cardigan or a breathable sweater could provide comfort against the encroaching fog and a lingering chance of rain. The streets beckon with understated charm\u2014perhaps a leisurely stroll through a nearby park, where the gentle murmur of conversation fills the air, or a visit to a quaint caf\u00e9, its windows fogged with warmth, offering a perfect refuge. As night descends, the clouds will settle in, creating a tranquil backdrop for quiet moments or intimate gatherings, catching brief glimpses of stars that fight to pierce through the shroud of clouds.",
-    "color_code": "#B0C4D8",
-    "timestamp": "2026-06-23 16:50:42"
+    "weather_report": "As the night falls over Boston, a gentle shroud of mist mingles with the remnants of daylight, creating a soft, muted atmosphere. There's a hint of rain, a whisper of showers that may linger until late, leaving behind the promise of a cooler night with temperatures settling around a comfortable 60 degrees. The city rests under a mostly cloudy sky, punctuated by the occasional patch of fog that blankets the fading light. The air, though still, carries a touch of humidity, suggesting that this could be a night best spent indoors, perhaps curled up with a good book or catching up on the latest from the local arts scene.\n\nWednesday dawns with the anticipation of sunshine breaking through the clouds, bringing with it a warmth that promises to reach into the low 80s. A west-northwest breeze will gently coax those clouds aside, leaving ample room for clear sky and ample sunlight. The day\u2019s charm invites you to step outside, perhaps for a stroll through the Boston Common or to sip coffee at a sidewalk caf\u00e9, soaking in the beauty of the city as life unfurls leisurely. Dress lightly but with an eye toward comfort\u2014an airy shirt and comfortable trousers will serve well in this delightful embrace of summer. Whether you choose to wander amidst the historic streets or linger at a local gallery, the day beckons with the allure of exploration and the joys of everyday life.",
+    "color_code": "#B0C4D1",
+    "timestamp": "2026-06-23 21:03:07"
 }
