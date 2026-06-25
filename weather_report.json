@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-25T09:00:00+00:00",
-            "temperature_f": 51.8,
-            "temperature_c": 11,
-            "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog"
+            "timestamp": "2026-06-25T12:35:00+00:00",
+            "temperature_f": 71.6,
+            "temperature_c": 22,
+            "humidity": 60.470206383168,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 270,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-25T05:00:00-04:00",
-                "endTime": "2026-06-25T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 62. West wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-06-25T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-06-25T08:00:00-04:00",
                 "endTime": "2026-06-25T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 85,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 85. Southwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-06-25T18:00:00-04:00",
+                "endTime": "2026-06-26T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 44
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,40?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 2am. Mostly cloudy, with a low around 63. South wind around 7 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn gently unfolds over Boston, a serene stillness permeates the air. The sky transitions from the soft embrace of night, hinting at colors of lilac and pearl, creating a dreamscape that whispers of the warmth to come. Current conditions, though still in the cool embrace of early morning, are set to rise with the sun, promising a delightful day ahead. The forecast hints at mostly sunny skies, where the playful dance of light will soon warm the streets, ideal for strolling along the banks of the Charles or seeking refuge among the green canopies of Boston Common.\n\nAs the temperature nudges toward the inviting warmth of the mid-80s, it might be wise to embrace a comfortable attire\u2014perhaps a light cotton shirt complemented by breathable shorts, ideal for savoring a quiet cup of coffee at an outdoor caf\u00e9 or indulging in the soft rustle of pages at a locals' favorite bookstore. An afternoon spent investigating the shores of the harbor, or meandering through the vibrant streets, would be a splendid way to soak in the exhilaration of summer's embrace. Such conditions call not for grand gestures but rather for the simple joys of life; take a moment to observe the laughter of children at play, or revel in the artistry of a street musician transcending the backdrop of a glorious day.",
-    "color_code": "#A6C5E6",
-    "timestamp": "2026-06-25 05:15:21"
+    "weather_report": "In the heart of Boston this morning, the sun casts a friendly glow over the city, promising a day that invites outdoor exploration. With clear skies spreading a gentle warmth, it feels like the kind of morning that stirs a yearning for leisurely strolls along the waterfront or perhaps a quiet sit at one of the city\u2019s many charming parks, where the grass is soft and the air carries the scent of summer blooms. As the day rises and temperatures flirt with the mid-80s, a soft breeze whispers through the streets, offering just enough comfort to make a light shirt and shorts a pleasant choice.\n\nHowever, as the evening approaches, a shift in the atmosphere beckons. Clouds will collect, and the likelihood of rain showers drapes a gentle veil over the night. Dress accordingly if you plan to linger outdoors\u2014perhaps a light jacket, just in case the air starts to cool as the sun takes its leave. The chance of precipitation adds a playful unpredictability, so it might be wise to carry an umbrella for that late-night wander. The evening might just call for a cozy spot indoors, perhaps enjoying a quiet read by the window, watching the clouds roll in as nature prepares for its nocturnal serenade.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-06-25 08:57:18"
 }
