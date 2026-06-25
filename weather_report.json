@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-24T20:25:00+00:00",
-            "temperature_f": 80.6,
-            "temperature_c": 27,
-            "humidity": 39.338864143364,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 330,
-            "description": "Partly Cloudy"
+            "timestamp": "2026-06-25T00:45:00+00:00",
+            "temperature_f": 71.6,
+            "temperature_c": 22,
+            "humidity": 56.659698507038,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 260,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-06-24T16:00:00-04:00",
-                "endTime": "2026-06-24T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 83,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 83. West wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-06-24T18:00:00-04:00",
+                "startTime": "2026-06-24T21:00:00-04:00",
                 "endTime": "2026-06-25T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "3 to 8 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 61. West wind 3 to 8 mph."
+                "detailedForecast": "Mostly clear, with a low around 61. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-06-25T06:00:00-04:00",
+                "endTime": "2026-06-25T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 83,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 83. Southwest wind 5 to 8 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, the sun graces the city with a warm embrace, casting a light that dances across the landscape while the breeze carries the essence of a summer afternoon. As the hours wane, temperatures are nestled around comfortable levels, promising a vibrant evening under a mostly clear sky. The gentle sway of the wind, soft as a whisper, adds a refreshing touch, inviting residents to step outside and revel in the tableau of blue and white above.\n\nAs twilight beckons, the transition from day to night offers an exquisite opportunity for simple pleasures. With a light jacket in tow for the cooler evening air, one could meander through the parks, perhaps stopping by a local caf\u00e9 for a soothing cup of tea, or simply savor the serenity of a quiet stroll along the Charles River, where the reflections of the city shimmer on the water\u2019s dance. It\u2019s a day made for enjoying the outdoors, filling the lungs with the promise of summer as you search for a patch of grass to settle down upon, headphones in place, losing oneself to the rhythm of the moment.",
-    "color_code": "#A7C6E7",
-    "timestamp": "2026-06-24 16:40:20"
+    "weather_report": "As twilight descends upon Boston, the air carries a gentle whisper of warmth, heralding the promise of an inviting evening. The sky, a blend of deepening blues and soft purples, reveals the last tender rays of daylight. With a current low hovering around 61 degrees, a pleasant breeze from the west stirs, bringing a refreshing touch that dances across the city. There\u2019s a clarity to the air, along with the serene prospect of a mostly clear night, where city lights twinkle like stars reflecting on the urban tapestry below.\n\nTomorrow unfolds with the allure of warmth, as the sun rises to greet a partly sunny day, nudging the temperatures toward a comfortable high near 83. The subtle southwest wind is likely to accompany the day, making it a perfect opportunity to venture outdoors. Dress in light layers \u2014 perhaps a soft short-sleeved shirt paired with breathable trousers to embrace the ease of the day. A leisurely stroll along the Charles River, or a moment spent savoring coffee at an outdoor caf\u00e9, would complement this charming weather beautifully. As the evening deepens, consider gathering with friends for a casual dinner on a patio, relishing the simple pleasures that this vibrant city has to offer.",
+    "color_code": "#315B81",
+    "timestamp": "2026-06-24 21:07:19"
 }
