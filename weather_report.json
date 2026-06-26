@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-26T08:50:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 93.838813960785,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 140,
-            "description": "Partly Cloudy"
+            "timestamp": "2026-06-26T12:35:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 93.929774401027,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 160,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-26T05:00:00-04:00",
-                "endTime": "2026-06-26T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 54
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 65. Southwest wind around 3 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-06-26T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-06-26T08:00:00-04:00",
                 "endTime": "2026-06-26T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 81,
@@ -51,12 +32,31 @@
                 "windSpeed": "3 to 9 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/bkn?size=medium",
-                "shortForecast": "Rain Showers Likely then Mostly Cloudy",
-                "detailedForecast": "Rain showers likely before noon. Mostly cloudy, with a high near 81. South wind 3 to 9 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "shortForecast": "Rain Showers Likely then Partly Sunny",
+                "detailedForecast": "Rain showers likely before noon. Partly sunny, with a high near 81. South wind 3 to 9 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-06-26T18:00:00-04:00",
+                "endTime": "2026-06-27T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 51
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,50/bkn?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms then Mostly Cloudy",
+                "detailedForecast": "A chance of showers and thunderstorms between 7pm and 10pm. Mostly cloudy, with a low around 62. Southwest wind 3 to 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn stretches across Boston, the air carries a gentle promise of change, shrouded in the muted hues of a cloudy morning. The atmosphere is thick with potential rainfall, and a soft sigh of wind whispers through the trees, hinting at the lingering warmth that will accompany the day. As the temperature settles into the mid-60s, the chance of rain makes its presence felt, trailing just behind the persistent clouds that hang above. The early light softens the skyline, revealing a city poised between the quiet of night and the vibrancy of the day to come.\n\nAs the hours unfold, rain showers are likely to grace the city before noon, inviting a sense of introspection. One might choose to embrace the day wrapped in light layers, perhaps a comfortable shirt paired with a jacket to guard against the cool, damp air, and comfortable shoes suited for a stroll along the Esplanade or a quiet visit to a cozy caf\u00e9. With temperatures expected to reach near 81 later, the warmth will break through, paving the way for activities that welcome the laughter of friends or the simple pleasure of a good book taken outside, as the early clouds give way to moments of clarity. Whatever your agenda may be, today offers a canvas painted in subtle tones, inviting leisurely pursuits and thoughtful reflection.",
-    "color_code": "#A3B1C5",
-    "timestamp": "2026-06-26 05:15:43"
+    "weather_report": "A veil of mist clings to the city, softening the outlines of buildings and rendering the world an indistinct yet serene tableau. This morning, rain showers are anticipated to precede a more welcoming embrace of sunlight, with the promise of warmth peeking through the clouds by midday. The air carries a hint of humidity, a reminder of the rainfall that has passed, and for those stepping out, a light jacket might serve well against the lingering chill. The day is poised to warm, inviting the curious to partake in leisurely strolls along the Charles, where the sun may finally break free, casting a gentle glow on the water.\n\nAs dusk approaches, there exists a distinct possibility of showers and even a thunderstorm, lending an atmospheric drama to the evening. While the low temperature should feel mild and comforting, the unpredictability of the forecast encourages a watchful eye to the sky. For those considering an evening engagement, whether it\u2019s a quiet dinner or a stroll through the neighborhoods, the aura of the city whispers an invitation to explore its hidden corners. Perhaps a visit to a local caf\u00e9, where the rich aroma of coffee mingles with the anticipation of rain, may be just the respite one seeks. Dress with layers in mind, and keep an umbrella handy for those unexpected splashes of summer rain.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-06-26 08:53:52"
 }
