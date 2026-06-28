@@ -7,9 +7,9 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-28T05:20:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
+            "timestamp": "2026-06-28T12:25:00+00:00",
+            "temperature_f": 64.4,
+            "temperature_c": 18,
             "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-06-28T01:00:00-04:00",
-                "endTime": "2026-06-28T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 63,
+                "name": "Today",
+                "startTime": "2026-06-28T08:00:00-04:00",
+                "endTime": "2026-06-28T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 81,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 4
+                    "value": 17
                 },
-                "windSpeed": "3 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 63. East wind around 3 mph."
+                "windSpeed": "1 to 8 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 3pm. Partly sunny, with a high near 81. Northeast wind 1 to 8 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-06-28T06:00:00-04:00",
-                "endTime": "2026-06-28T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 76,
+                "name": "Tonight",
+                "startTime": "2026-06-28T18:00:00-04:00",
+                "endTime": "2026-06-29T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 22
+                    "value": 12
                 },
-                "windSpeed": "3 to 7 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/fog/tsra_hi,20?size=medium",
-                "shortForecast": "Patchy Fog then Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "Patchy fog before 8am, then a slight chance of showers and thunderstorms. Partly sunny, with a high near 76. Northeast wind 3 to 7 mph. Chance of precipitation is 20%."
+                "windSpeed": "6 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 62. South wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the dawn tiptoes into Boston, a gentle veil of patchy fog embraces the city, hinting at an ethereal morning that lingers in the damp air. The night\u2019s warmth holds tight, with temperatures whispering around 63 degrees, and a soft breeze drifting in from the east. The clouds hang like sleep-worn pillows overhead, allowing only fleeting glimpses of the sun. As the day unfolds, the fog will begin to lift, yet a slight chance of showers and even a rumble of thunder lies in wait, as the sky plays a game of hide-and-seek with the sun. The warmth of the day promises a high near 76, a beacon for those yearning to escape the confines of their home.\n\nDressing for this capricious weather means opting for layers; a comfortable light sweater or a light jacket could accompany a casual shirt, especially in the morning when the fog lingers. By midday, you may wish to shed the layers as the warmth breaks through the clouds. This Sunday offers a peculiar charm, perfect for a leisurely stroll in one of the city\u2019s quiet parks, where the gentle sounds of nature begin to stir. Alternatively, a visit to your favorite cozy caf\u00e9 could be equally rewarding\u2014perhaps with a book in hand, sipping something warm as the day transitions from soft dawn to a more vibrant afternoon. The blend of cool air and the scent of impending rain invites contemplation, making today a fine opportunity to embrace the elements, however transient they may be.",
-    "color_code": "#A8B3AC",
-    "timestamp": "2026-06-28 01:37:51"
+    "weather_report": "As the day unfolds in Boston, it teeters between whispers of rain and gentle sun, a dance that hints at both warmth and an occasional chill. The morning greets us with a slight haze, a gauzy curtain that softens the edges of the world, allowing the promise of a bright afternoon to peek through. There\u2019s a light breeze that drifts lazily from the northeast, inviting you to step outside and savor the air, still crisp and alive.\n\nBy afternoon, a slight chance of rain may bring a refreshingly cool drizzle, while the sun pushes toward a comfortable warmth, nudging the temperature to nearly 81 degrees. As the evening draws near, the clouds will likely disperse, leaving a partly cloudy canvas overhead as the city settles into the softer tones of dusk. Tonight, the air will carry a gentle warmth, perfect for a leisurely stroll or a quiet dinner on the terrace, as you embrace the evening\u2019s tranquility beneath the glow of street lamps. A light jacket may serve you well, providing just enough comfort without being heavy.\n\nWith the faint threat of rain and an ambiance wrapped in a soft veil of clouds, one may find pleasure in more tranquil pursuits\u2014perhaps an exploration of the local cafes, where the aromas of freshly brewed coffee mingle with the delightful sounds of chatter, or if the rain holds off, a walk through the vibrant streets, where the day\u2019s lingering warmth dances in the evening air.",
+    "color_code": "#BFD5A2",
+    "timestamp": "2026-06-28 08:38:19"
 }
