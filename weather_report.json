@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-06-30T20:30:00+00:00",
-            "temperature_f": 82.4,
-            "temperature_c": 28,
-            "humidity": 65.771194518237,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 190,
-            "description": "Clear"
+            "timestamp": "2026-07-01T00:45:00+00:00",
+            "temperature_f": 73.4,
+            "temperature_c": 23,
+            "humidity": 88.518307938961,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 170,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-06-30T16:00:00-04:00",
-                "endTime": "2026-06-30T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 89,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 19
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 5pm. Mostly cloudy, with a high near 89. Southwest wind around 10 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-06-30T18:00:00-04:00",
+                "startTime": "2026-06-30T21:00:00-04:00",
                 "endTime": "2026-07-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 70,
@@ -52,11 +33,30 @@
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/tsra_sct,30?size=medium",
                 "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of rain showers before 8pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 70. Southwest wind around 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of showers and thunderstorms. Mostly cloudy, with a low around 70. Southwest wind around 9 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-07-01T06:00:00-04:00",
+                "endTime": "2026-07-01T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 95,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 19
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/hot?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
+                "detailedForecast": "A slight chance of rain showers before 7am. Mostly sunny, with a high near 95. Heat index values as high as 103. Southwest wind around 12 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon drapes itself over Boston, the sky wears a cloak of mostly gray, hinting at the possibility of distant showers. With a hazy warmth, the temperature hovers near a comfortable embrace of 89 degrees, carried softly by a gentle southwest breeze. The air is thick with anticipation, a mere 20% chance of rain suggesting an ephemeral wisp of moisture may brush the city. This clouded tapestry overhead might weave itself into something more substantial as the day shifts towards evening, bringing with it a 30% likelihood of showers or a thunderstorm, a reminder of summer's capricious nature.\n\nFor those navigating the streets, lighter attire beckons\u2014breezy fabrics and perhaps a light jacket for when twilight edges in and the air starts to cool. Activities can reflect the subdued cadence of the weather; a stroll along the river, a leisurely visit to a local caf\u00e9, or indulging in the quietude of a bookstore as you await the crescendo of thunder or the soft patter of rain. The ambiance, tinted with the promise of refreshment in the thickening air, lends itself to reflective moments, making it a day best spent lingering and enjoying the ever-changing scene of Boston\u2019s vibrant streets.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2026-06-30 16:44:51"
+    "weather_report": "As the evening envelops Boston, the clouds gracefully cloak the skyline, hinting at the possibility of showers accompanied by the distant rumble of thunder. The air is warm, embracing you with a gentle humidity that wraps around the skin. A peaceful night is on the horizon, albeit with a whisper of rain, and as darkness deepens, one might sense the atmosphere is ripe for introspection or a casual gathering with friends who share in the allure of the city's evening charm. \n\nLooking ahead to Wednesday, the sun is poised to make a grand entrance, promising a day drenched in warmth and vitality. While the morning may greet you with a fleeting drizzle, it quickly gives way to brilliant sunshine, beckoning all to revel in the heat of summer. The high temperatures will flirt with the mid-nineties, and the air will shimmer with humidity, so light fabrics in breathable materials will be your allies against the sweltering embrace of the season. Consider a leisurely stroll along the Esplanade or a visit to one of Boston's verdant parks, where one might find solace under the sprawling shade of a tree or explore the pathways adorned with nature\u2019s splendor. As the day unfolds, grasp the fleeting moments that summer provides, allowing the warmth of the sun to recharge your spirit.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-06-30 21:12:19"
 }
