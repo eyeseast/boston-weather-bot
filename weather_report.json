@@ -7,37 +7,18 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-02T07:15:00+00:00",
-            "temperature_f": 77.0,
-            "temperature_c": 25,
-            "humidity": 88.67956137467,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 230,
+            "timestamp": "2026-07-02T13:55:00+00:00",
+            "temperature_f": 87.8,
+            "temperature_c": 31,
+            "humidity": 58.813923696437,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 300,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-02T03:00:00-04:00",
-                "endTime": "2026-07-02T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 74,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 35
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,40?size=medium",
-                "shortForecast": "Scattered Showers And Thunderstorms",
-                "detailedForecast": "Scattered showers and thunderstorms. Mostly cloudy, with a low around 74. Southwest wind around 9 mph. Chance of precipitation is 40%."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2026-07-02T06:00:00-04:00",
                 "endTime": "2026-07-02T18:00:00-04:00",
                 "isDaytime": true,
@@ -52,11 +33,30 @@
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/hot/tsra_hi,20?size=medium",
                 "shortForecast": "Mostly Sunny then Isolated Showers And Thunderstorms",
-                "detailedForecast": "Isolated showers and thunderstorms after 1pm. Mostly sunny, with a high near 98. Heat index values as high as 106. West wind 9 to 14 mph. Chance of precipitation is 20%."
+                "detailedForecast": "Isolated rain showers between 1pm and 2pm, then isolated showers and thunderstorms. Mostly sunny, with a high near 98. Heat index values as high as 106. West wind 9 to 14 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-07-02T18:00:00-04:00",
+                "endTime": "2026-07-03T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 77,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 20
+                },
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20?size=medium",
+                "shortForecast": "Isolated Showers And Thunderstorms",
+                "detailedForecast": "Isolated showers and thunderstorms. Partly cloudy, with a low around 77. Heat index values as high as 104. West wind 7 to 13 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As the city of Boston settles into the early hours of the morning, a sense of calm envelopes the landscape, though the distant rumble of thunder reminds us of nature's latent energy. Scattered showers and intermittent thunderstorms linger in the air, casting a veil of clouds that hang low, offering a warmth that leaves the night steamy. The scent of rain may linger, a reminder of summer's unpredictable temperament. Residents are greeted by a balmy warmth, nudging us toward clothing that is light yet resilient\u2014perhaps a cotton shirt and breathable shorts, complemented by waterproof footwear, for those brave enough to stroll beneath the impending storms.\n\nAs the sun peeks into the afternoon, the forecast heralds a transition toward a blistering heat, where the sun will reign over the clouds, suggesting highs near 98 degrees. The heat index promises a stifling embrace, urging caution for those heading outdoors. It would be wise to seek shade and hydration, perhaps enjoying a leisurely walk along the harbor or savoring an iced coffee at a quaint caf\u00e9. As the day draws on, a gentle west wind may provide a brief respite, whispering promises of cooler moments ahead. Engaging in activities that allow for breaks from the oppressive heat, such as reading in an air-conditioned nook or visiting a local gallery to escape the sun's intensity, may yield the best comfort on this industrious summer day.",
-    "color_code": "#D3D3D3",
-    "timestamp": "2026-07-02 03:36:28"
+    "weather_report": "As the sun ascends higher, casting a warm embrace over Boston, today unfolds with the promise of a few isolated rain showers, particularly noticeable during the early afternoon when the clock strikes one. Anticipate a dance of clouds, occasionally yielding to thunderous displays, as the atmosphere warms to near 98 degrees. The heat envelops the city with a weight that feels heavier, nudging the heat index toward a staggering 106. West winds whisper through the streets, gentle yet persistent, providing a modicum of relief from the sweltering embrace of summer. \n\nInto the evening, the sky continues its playful ballet, with the possibility of lingering showers and thunderstorms. The night promises a low around 77, inviting starlight peeks amidst the clouds. To navigate this warmth and potential precipitation, consider opting for light layers. Fabrics that breathe, paired with a light jacket for unexpected coolness, will serve you well. Given the day unfolding between warmth and whimsy, take a leisurely stroll in nearby parks or find refuge in a cozy caf\u00e9, savoring the sights and sounds of summer in the city while being prepared for the abrupt theatrics of a summer storm.",
+    "color_code": "#F5CBAE",
+    "timestamp": "2026-07-02 10:16:39"
 }
