@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-02T21:00:00+00:00",
-            "temperature_f": 96.8,
-            "temperature_c": 36,
-            "humidity": 41.807631144761,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2026-07-03T03:30:00+00:00",
+            "temperature_f": 84.2,
+            "temperature_c": 29,
+            "humidity": 65.976405023424,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 250,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-07-02T17:00:00-04:00",
-                "endTime": "2026-07-02T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 100,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 100. Heat index values as high as 105. West wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-07-02T18:00:00-04:00",
+                "startTime": "2026-07-02T23:00:00-04:00",
                 "endTime": "2026-07-03T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 77,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 13
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 77. Heat index values as high as 105. West wind 5 to 8 mph."
+                "detailedForecast": "Mostly clear, with a low around 77. West wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-07-03T06:00:00-04:00",
+                "endTime": "2026-07-03T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 99,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 10
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 99. Heat index values as high as 105. West wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "The sun bathes Boston this afternoon, radiating an intense warmth that beckons one to both revel in and retreat from its embrace. With temperatures soaring close to 100 and a heat index nudging upward, the air feels thick and heavy, laden with the weight of summer's heat. The westward breeze, gentle yet insistent, provides only the faintest reprieve on what is, by all accounts, a sultry day. As evening approaches, the clarity of the sky allows for a glimpse of the fading day, a palette of soft blues and whites beneath which the city thrums with life.\n\nTonight, the warmth will linger, offering a mild low of around 77, continuing the trend of enveloping heat. The lingering heat index suggests that the night will still feel more oppressive than refreshing, yet beneath the vast expanse of stars, there's a sublime allure to the evening. For those seeking solace amid the summer haze, casual attire with breathable fabrics is advisable\u2014light cotton dresses or shorts, perhaps paired with a wide-brimmed hat or a loose shirt to shield from the sun's relentless rays. A late-night stroll along the Charles might be in order, the gentle ripple of water laughing at the warm summer air, where one may scatter thoughts as freely as fireflies dance. Indeed, the conditions invite a spirited game of outdoor chess or simply indulging in a favorite book al fresco, delighting in the warmth of the season before it gives way to autumn's cool touch.",
-    "color_code": "#FFCC66",
-    "timestamp": "2026-07-02 17:15:13"
+    "weather_report": "As night unfurls its quiet cloak over Boston, the sky remains predominantly clear, cradling the warmth of a balmy evening. With the mercury hovering around 77 degrees, a gentle westward breeze whispers softly, offering slight relief from the lingering humidity. In a few short hours, the dawn will break, ushering in a sun-drenched Friday, where the temperature will soar near 99 degrees. The heat index may stretch even higher, summoning a muggy embrace that will envelop the city. \n\nFor those waking to this relentless summer sun, preparing for the day ahead suggests a choice of light and breathable fabrics\u2014perhaps cotton shorts paired with a loose linen shirt, shielding the skin from the unyielding rays. It's a day ripe for leisurely strolls through shaded parks, perhaps a stop at a local caf\u00e9 for a refreshing iced coffee, or exploring the historic waterfront, where the ocean's whispers provide a serene backdrop. As the sunlight dances on cobblestone streets and the scent of summer wafts through the air, embrace the vibrant pulse of the city, always mindful of the forecast\u2019s subtle reminder to hydrate often.",
+    "color_code": "#FDD835",
+    "timestamp": "2026-07-02 23:50:06"
 }
