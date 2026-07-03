@@ -7,37 +7,18 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-03T07:10:00+00:00",
-            "temperature_f": 80.6,
-            "temperature_c": 27,
-            "humidity": 74.137240537203,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 260,
+            "timestamp": "2026-07-03T10:25:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 88.599352571993,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 140,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-03T03:00:00-04:00",
-                "endTime": "2026-07-03T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 78,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 6
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 78. West wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2026-07-03T06:00:00-04:00",
                 "endTime": "2026-07-03T18:00:00-04:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 100. Heat index values as high as 105. West wind 7 to 13 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-07-03T18:00:00-04:00",
+                "endTime": "2026-07-04T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 76,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 27
+                },
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30?size=medium",
+                "shortForecast": "Scattered Showers And Thunderstorms",
+                "detailedForecast": "Scattered showers and thunderstorms between 10pm and 5am. Partly cloudy, with a low around 76. Heat index values as high as 101. West wind 7 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the quiet hours stretch on, the night in Boston is enveloped in a clear serenity, with cool breezes whispering through the air. The promise of warmth swells on the horizon as the morning beckons tomorrow, where the sun will rise to greet a magnificent summer day. Expect the sun to assert its presence fiercely, raising the temperature toward the upper reaches of the 90s. The heat, intensified by a soaring heat index, will urge caution, yet the bright blue sky will invite residents to find solace in leisure. \n\nLight, breathable clothing will be your best ally; cotton or linen will allow your skin to breathe amidst the afternoon warmth. Hydration will be key, as the humidity and high temperatures conspire to encourage fatigue. For those seeking a reprieve from the sun\u2019s intensity, a shaded caf\u00e9 patio or a leisurely stroll by the Charles River can provide both comfort and inspiration. Avoiding strenuous activities during the peak heat may be wise, but the evening should beckon with its cooler embrace, perfect for relaxed picnics or meandering walks through the neighborhoods. The day may promise discomfort, but its bright potential for joy remains ever-present.",
-    "color_code": "#F5E39A",
-    "timestamp": "2026-07-03 03:28:37"
+    "weather_report": "Beneath a vast expanse of azure, Boston wakes to a sun-soaked morning, where the heat clings to the air like a warm embrace. Today promises an unapologetic embrace of summer, with temperatures reaching close to a hundred, urging even the most ardent fans of the outdoors to reconsider their plans. The brisk west wind may offer brief moments of relief, rustling through the leaves, but the heat index will rise, coaxing beads of perspiration to the surface in a sultry reminder of the season. As the sun arcs across the sky, the radiant warmth is both invigorating and oppressive, demanding a thoughtful choice of attire\u2014light fabrics, perhaps in softer colors to reflect the sun, paired with sturdy sunglasses and a wide-brimmed hat to stave off the midday glare.\n\nAs daylight surrenders to the evening, an orchestra of scattered showers and potential thunderstorms may serenade the city between ten and five. The night will not extinguish the sultriness, as temperatures retreat only slightly to around 76, reminding all that this summer day is not yet finished. Eyes to the sky might reveal fleeting clouds, possibly hinting at moisture in the air, but for now, the sun persists in its ascent. Those considering evening pursuits would do well to prepare for a brief rendezvous with summer's fickle temperament, a light jacket or umbrella nearby for the unexpected. The ambiance, a delicate balance of warmth and impending rain, invites a leisurely stroll, a quiet moment on a porch, or perhaps a visit to a local caf\u00e9, where the sound of ice clinking in glasses and laughter fills the air, crafting a tapestry of a summer evening well-spent.",
+    "color_code": "#FFD700",
+    "timestamp": "2026-07-03 06:43:43"
 }
