@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-05T03:40:00+00:00",
+            "timestamp": "2026-07-05T10:10:00+00:00",
             "temperature_f": 71.6,
             "temperature_c": 22,
-            "humidity": 94.06252427588,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 140,
-            "description": "Mostly Cloudy"
+            "humidity": 60.470206383168,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 30,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-05T00:00:00-04:00",
-                "endTime": "2026-07-05T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 8
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 68. North wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
+                "name": "Today",
                 "startTime": "2026-07-05T06:00:00-04:00",
                 "endTime": "2026-07-05T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 83,
+                "temperature": 82,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 8
+                    "value": 6
                 },
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers/sct?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
-                "detailedForecast": "A slight chance of rain showers before 7am. Mostly sunny, with a high near 83. Northeast wind 2 to 8 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 82. Northeast wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-07-05T18:00:00-04:00",
+                "endTime": "2026-07-06T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 64,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 25
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 10pm. Mostly cloudy, with a low around 64. Southeast wind around 8 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the night drapes its dark, muted fabric over Boston, the air carries an almost tangible calmness, punctuated only by the distant twinkling of city lights. The forecast ushers in the promise of rain showers drifting through the midnight hours, with a velvety cloud cover holding the warmth within, settling at a mild 68 degrees. A gentle north wind whispers softly, creating a serene atmosphere, infusing the landscape with a sense of introspection, perfect for a late-night stroll or a moment spent in reflection under the quiet sky.\n\nAs dawn approaches, the city will awaken to the possibility of lingering raindrops before sunbeams break free. The day promises to shift to a lovely embrace of sunshine, warming the streets and inviting the community outdoors. With a high reaching the vibrant warmth of 83, a slight northeast breeze will provide just enough coolness for comfort. Dress lightly, perhaps in breathable fabrics complemented by a light layer for the early hours, as one might find solace in a simple caf\u00e9 visit or a leisurely walk along the Charles River. The day, though beginning with a hint of moisture, unfolds a canvas for discovery\u2014just enough charm to coax the city into moments both tranquil and delightful.",
-    "color_code": "#A9B7EB",
-    "timestamp": "2026-07-05 00:01:04"
+    "weather_report": "As dawn gently unfolds across Boston this morning, the city greets the day with a warm embrace of early sunshine and the promise of a pleasant summer\u2019s day. The air is alive with a soft breeze whispering between trees, nudging you to step outside and enjoy the unfolding beauty. However, a subtle haze lingers, hinting at the possibility of passing clouds that may roll in later. Those venturing out can expect temperatures to rise, providing the perfect opportunity to dress in light, breathable fabrics while keeping a light jacket handy for the evening when temperatures will dip.\n\nAs the sun arcs higher in the sky, the day promises to be a favored canvas for outdoor pursuits. The warm shade of moderate sun beckons you to linger in parks or seek out a quaint caf\u00e9 where you can savor your morning brew as the world meanders by. While the looming chance of scattered rain may cast a slight shadow on evening plans, the anticipation of refreshing showers could transform your night into a cozy interlude filled with the soothing sound of raindrops. Therefore, as the sun sets, consider seeking out an inviting gathering with friends or perhaps a gentle stroll under the shelter of umbrellas, embracing the unexpected.",
+    "color_code": "#A8C8E4",
+    "timestamp": "2026-07-05 06:22:24"
 }
