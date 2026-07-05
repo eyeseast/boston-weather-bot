@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-04T20:45:00+00:00",
-            "temperature_f": 89.6,
-            "temperature_c": 32,
-            "humidity": null,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 300,
-            "description": "Clear"
+            "timestamp": "2026-07-05T03:40:00+00:00",
+            "temperature_f": 71.6,
+            "temperature_c": 22,
+            "humidity": 94.06252427588,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 140,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Independence Day",
-                "startTime": "2026-07-04T17:00:00-04:00",
-                "endTime": "2026-07-04T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 95,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 18
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms. Mostly cloudy, with a high near 95. Heat index values as high as 96. Northwest wind around 9 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-07-04T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-07-05T00:00:00-04:00",
                 "endTime": "2026-07-05T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 68,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 19
+                    "value": 8
+                },
+                "windSpeed": "3 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 68. North wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-07-05T06:00:00-04:00",
+                "endTime": "2026-07-05T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 83,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 8
                 },
                 "windSpeed": "2 to 8 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_sct,20/tsra_sct?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms then Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms before 7pm, then a chance of showers and thunderstorms between 7pm and 10pm, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 68. Heat index values as high as 95. Northwest wind 2 to 8 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers/sct?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
+                "detailedForecast": "A slight chance of rain showers before 7am. Mostly sunny, with a high near 83. Northeast wind 2 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the sun bathes Boston in the golden glow of late afternoon, an air of warm anticipation mingles with the promise of summer storms. Though the high rises of the skyline shimmer in the distance, a gentle canopy of clouds looms above, hinting at the possibility of intermittent showers and the rumble of distant thunder. Today might evoke the wanderlust in many, but a slight chill still whispers within the heat\u2014the perfect invitation to seek refuge in leisurely cafes or enjoy the solace of shaded parks. With temperatures nearing the mid-nineties and a heat index that feels even more intense, comfort should guide your attire; light fabrics and breathable materials will serve best, perhaps with a stylish hat to fend off the sun's bold advances.\n\nAs twilight approaches, the thunderstorm's flirtation with the horizon becomes a greater prospect, and those venturing outdoors would do well to carry a light jacket or an umbrella. A late evening stroll may reveal the faint scents of summer rain on the breeze, a natural refreshment after a long day. In these moments, you'll find that Boston's vibrant streets are alive with the laughter of friends gathered for evening barbecues or spontaneous gatherings on rooftops, while the city breathes an appreciative sigh amidst the warm air. The day\u2019s fervor invites both relaxation and respite\u2014echoing the rhythm of life itself, a gentle reminder that with every cloud there lies a silver lining, perhaps just waiting to break through.",
-    "color_code": "#F0E68C",
-    "timestamp": "2026-07-04 17:04:43"
+    "weather_report": "As the night drapes its dark, muted fabric over Boston, the air carries an almost tangible calmness, punctuated only by the distant twinkling of city lights. The forecast ushers in the promise of rain showers drifting through the midnight hours, with a velvety cloud cover holding the warmth within, settling at a mild 68 degrees. A gentle north wind whispers softly, creating a serene atmosphere, infusing the landscape with a sense of introspection, perfect for a late-night stroll or a moment spent in reflection under the quiet sky.\n\nAs dawn approaches, the city will awaken to the possibility of lingering raindrops before sunbeams break free. The day promises to shift to a lovely embrace of sunshine, warming the streets and inviting the community outdoors. With a high reaching the vibrant warmth of 83, a slight northeast breeze will provide just enough coolness for comfort. Dress lightly, perhaps in breathable fabrics complemented by a light layer for the early hours, as one might find solace in a simple caf\u00e9 visit or a leisurely walk along the Charles River. The day, though beginning with a hint of moisture, unfolds a canvas for discovery\u2014just enough charm to coax the city into moments both tranquil and delightful.",
+    "color_code": "#A9B7EB",
+    "timestamp": "2026-07-05 00:01:04"
 }
