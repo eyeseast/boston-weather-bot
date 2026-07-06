@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-05T20:50:00+00:00",
-            "temperature_f": 80.6,
-            "temperature_c": 27,
-            "humidity": 54.334416034089,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 190,
+            "timestamp": "2026-07-06T03:50:00+00:00",
+            "temperature_f": 71.6,
+            "temperature_c": 22,
+            "humidity": 68.773495222447,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-07-05T17:00:00-04:00",
-                "endTime": "2026-07-05T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 82,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 82. East wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-07-05T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-07-06T00:00:00-04:00",
                 "endTime": "2026-07-06T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 63,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 27
                 },
-                "windSpeed": "2 to 8 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after midnight. Mostly cloudy, with a low around 63. Southeast wind 2 to 8 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 63. Southeast wind around 3 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-07-06T06:00:00-04:00",
+                "endTime": "2026-07-06T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 73,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 46
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,50?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Cloudy, with a high near 73. Southeast wind 3 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the daylight wanes over Boston, a hushed tranquility envelops the city, the air vibrant yet tempered by the promise of rain. This afternoon has unfolded under the caress of partly sunny skies, the temperature gracefully ascending toward the mid-eighties, while a gentle east wind carries with it the scent of impending moisture. However, as night approaches, a blanket of clouds thickens, bringing not just shadows, but the potential for rain showers after midnight. The fading light casts a muted charm on the horizon, and with a low expected in the early hours, the evening may feel more like a cozy embrace than a brisk summer night.\n\nIn this moment of transition, the best attire would strike a balance between warmth and breathability\u2014perhaps a light sweater layered over a breathable top, paired effortlessly with comfortable trousers. Evenings such as these beckon leisurely strolls through the city's verdant parks or perhaps a visit to a cozy caf\u00e9, where the brewing aroma of coffee mingles with the chatter of friendly conversation. With the hint of rain\u2014a mere whisper in the air\u2014one might find solace in the understated beauty of Boston as it turns from dusk into a night full of possibilities, best enjoyed under the gentle watch of a changing sky.",
-    "color_code": "#B0C4D3",
-    "timestamp": "2026-07-05 17:08:14"
+    "weather_report": "As the early hours of the morning envelop Boston, the atmosphere carries a hint of moisture tinged with the possibility of rain. The clouds, thick and persistent, blanket the night sky, shielding the city from the moonlight's embrace. With temperatures nestled around a comfortable 63 degrees, there is a subtle warmth that invites one to linger indoors, where the aroma of coffee beckons like an old friend. The gentle southeast winds whisper through the trees, barely rustling the leaves, suggesting an uneventful night ahead.\n\nAs the day unfolds, Boston will remain cloaked in a shroud of clouds, presenting a canvas for the occasional dance of raindrops. The chance of rain, though present, is accompanied by a modest warmth, making the day feel more like a cozy embrace than a summer scorcher. Selecting attire that captures this duality is essential; light layers will serve well, allowing one to adapt to the shifting moods of the weather, with a rain jacket at the ready should a shower decide to grace the streets. \n\nIn such conditions, the city offers a variety of understated pleasures. A stroll through the shaded parks, where each drop of water brings vitality to the grass and leaves, might be just the remedy for a languid afternoon. Alternatively, a visit to a local caf\u00e9 or the inviting corners of a bookstore can provide solace as the rain delicately taps against the window, creating an intimate moment with a good book and a steaming cup of tea. As the day transitions and the clouds linger, it is perhaps a time to appreciate the quiet beauty that emerges from a simple, cloudy day.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-07-06 00:07:05"
 }
