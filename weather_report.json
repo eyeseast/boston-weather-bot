@@ -7,37 +7,18 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-08T06:20:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 93.838813960785,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 350,
-            "description": "Cloudy"
+            "timestamp": "2026-07-08T10:00:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
+            "humidity": 93.792573905746,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 330,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-08T02:00:00-04:00",
-                "endTime": "2026-07-08T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 18
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 61. North wind around 8 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
+                "name": "Today",
                 "startTime": "2026-07-08T06:00:00-04:00",
                 "endTime": "2026-07-08T18:00:00-04:00",
                 "isDaytime": true,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Sunny",
-                "detailedForecast": "Patchy fog before 7am. Mostly sunny, with a high near 82. Northeast wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers/sct?size=medium",
+                "shortForecast": "Chance Rain Showers then Mostly Sunny",
+                "detailedForecast": "A chance of rain showers and patchy fog before 7am. Mostly sunny, with a high near 82. Northeast wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-07-08T18:00:00-04:00",
+                "endTime": "2026-07-09T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 66. South wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As nighttime deepens over Boston, a veil of patchy fog clings to the edges of the city, whispering secrets to those beneath its soft embrace. A slight chance of rain lingers on the air, yet the clouds, though mostly gray, are reluctant to release their burden. The temperature settles gently around 61 degrees, and a tender north wind caresses the skin, sending reminders of nature's presence as it glides through the quiet streets. For those awake at this hour, a light jacket or a cozy sweater would provide a comfortable shield while stepping outside to take in the stillness of the night.\n\nAs dawn breaks, the promise of a brilliant day awaits. The fog will lift, giving way to mostly sunny skies and temperatures edging towards a pleasantly warm 82 degrees. It beckons an invitation to stroll leisurely through the local parks, perhaps with a good book or in the company of a friend. The gentle northeast breeze whispers of fleeting moments perfect for sipping coffee at a caf\u00e9 sidewalk table. With the weather shaping so favorably, light layers would be ideal\u2014a breezy top that celebrates the warmth without stifling it. A day spent indulging in the simple pleasures of life under Boston's radiant sun will surely yield memories worth savoring.",
-    "color_code": "#CCCCCC",
-    "timestamp": "2026-07-08 02:32:58"
+    "weather_report": "As dawn breaks in Boston, the remnants of a gentle fog linger, casting a soft veil across the city\u2019s skyline. The day promises to morph from this subdued beginning into something altogether brighter. Expect an embrace of warmth as the sun climbs higher, pushing temperatures toward a comfortable high, inviting the day\u2019s activities to unfold amidst a gentle breeze. The current cloud cover will gradually clear, ushering in pockets of blue that will lend a lovely backdrop for afternoon wanderings. \n\nFor those seeking to engage with the present moment, this weather calls for easy attire\u2014light layers that breathe, paired with soft shoes ready for an urban stroll or a serene afternoon in a garden. Consider visiting a quaint caf\u00e9 for a leisurely coffee while soaking in the vibrant spirit of the streets, or perhaps taking a scenic walk along the Charles River, where the sun's reflection dances over the tranquil water. As the evening sets in, the sky will clear, inviting you to relax under the stars with a light cardigan thrown over your shoulders.",
+    "color_code": "#A6C2D1",
+    "timestamp": "2026-07-08 06:24:29"
 }
