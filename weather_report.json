@@ -7,41 +7,41 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-09T07:25:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 93.838813960785,
+            "timestamp": "2026-07-09T11:00:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 82.990398777177,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Mostly Clear"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-09T03:00:00-04:00",
-                "endTime": "2026-07-09T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 67,
+                "name": "Today",
+                "startTime": "2026-07-09T07:00:00-04:00",
+                "endTime": "2026-07-09T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 91,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 3
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 67. Southwest wind around 6 mph."
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 91. Heat index values as high as 97. West wind 6 to 10 mph."
             },
             {
                 "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-07-09T06:00:00-04:00",
-                "endTime": "2026-07-09T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 91,
+                "name": "Tonight",
+                "startTime": "2026-07-09T18:00:00-04:00",
+                "endTime": "2026-07-10T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 70,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -50,13 +50,13 @@
                 },
                 "windSpeed": "6 to 10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 91. Heat index values as high as 97. Southwest wind 6 to 10 mph."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
+                "shortForecast": "Mostly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after 5am. Mostly cloudy, with a low around 70. Heat index values as high as 95. Southwest wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the night drapes its velvety cloak over Boston, the city pulses quietly under a blanket of stars. There's a stillness in the air, heralding a warm night with temperatures gently resting around 67 degrees, a soft whisper of a breeze coming from the southwest. Early risers may catch the gentle glow on the horizon, hinting at the sun's impending ascent and the charm of a new day.\n\nThursday promises an embrace of warmth, with sun-drenched skies and temperatures soaring to nearly 91 degrees. The heat will weave a tapestry of shimmering heat indices, almost beckoning one outdoors. There\u2019s a vibrancy in the forecast, suggesting it would be wise to dress in light layers, perhaps linen or cotton, allowing your skin to breathe as you navigate the charming streets of Boston. For those strolling along the waterfront or reclining in a shaded park, consider a wide-brimmed hat and sunglasses to shield against the sun's brilliance. \n\nWith such delicious weather, today is ripe for exploration\u2014perhaps a leisurely walk along the Freedom Trail, unveiling the city's rich tapestry of history, or a visit to a local caf\u00e9 to savor a refreshing iced coffee while absorbing the local culture. One might also find joy in perusing the stalls of a nearby farmer's market, picking up fresh produce to craft a delightful summer meal. It\u2019s a day that invites you to revel in the ease and warmth, a pause between the hurried moments of life, beckoning you to linger just a little longer in the embrace of a beautiful Boston summer.",
-    "color_code": "#F7D5B5",
-    "timestamp": "2026-07-09 03:42:28"
+    "weather_report": "Boston awakens to a crystalline morning, where the sun, a radiant orb, pours its warmth across the landscape, inviting all to embrace the day. The current temperature hovers with a gentle intensity, teasing the senses and hinting at a high that will flirt with the 90s, creating a heat index that feels even more pressing. For now, the air is relatively still, a whisper of a breeze meandering through the streets, yet one can sense the anticipation of summer\u2019s embrace tightening its grip as the hours pass.\n\nAs the day unfolds, one might want to dress lightly\u2014perhaps linen or breathable cotton to navigate the warmth with grace. Sunglasses and ample hydration will ensure comfort as the sky shines with azure hues, heralding an invitation for leisurely strolls through shaded parks or quiet conversations at outdoor caf\u00e9s. The forecast whispers of a subtle transformation by evening, where patchy fog will sneak in, wrapping the night in a soft embrace, coinciding with the cooling air following the day\u2019s heat. Take a moment to relish these serene hours, perhaps embarking on an evening wander down to the harbor, or simply savoring a book on the porch as the twilight folds softly in.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-07-09 07:15:13"
 }
