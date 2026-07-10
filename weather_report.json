@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-09T21:05:00+00:00",
-            "temperature_f": 89.6,
-            "temperature_c": 32,
-            "humidity": 55.564587603211,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 200,
-            "description": "Partly Cloudy"
+            "timestamp": "2026-07-10T03:35:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 83.338787521304,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 210,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-07-09T16:00:00-04:00",
-                "endTime": "2026-07-09T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 91,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 91. Heat index values as high as 97. Southwest wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-07-09T18:00:00-04:00",
+                "startTime": "2026-07-09T23:00:00-04:00",
                 "endTime": "2026-07-10T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 71,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 11
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
                 "shortForecast": "Mostly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog after 2am. Mostly cloudy, with a low around 71. Heat index values as high as 95. Southwest wind 6 to 10 mph."
+                "detailedForecast": "Patchy fog after 2am. Mostly cloudy, with a low around 71. Southwest wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-07-10T06:00:00-04:00",
+                "endTime": "2026-07-10T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 89,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 27
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/tsra_hi,30?size=medium",
+                "shortForecast": "Patchy Fog then Chance Showers And Thunderstorms",
+                "detailedForecast": "Patchy fog before 7am, then a chance of showers and thunderstorms. Mostly sunny, with a high near 89. Northwest wind around 7 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "Boston basks in a welcoming afternoon glow, with the sun casting its warm embrace upon the city. The air is rich with warmth, climbing toward a high that flirts with 91 degrees, though the heat index nudges a steamy 97. As the afternoon unfurls, wispy clouds drift lazily against a backdrop of sky, hinting at the day\u2019s lingering splendor. However, as twilight approaches, the charm may wane; patchy fog begins to weave through the cool night air, enveloping the city in a gentle shroud. Expect the temperature to settle around a soft 71, with whispers of humidity maintaining warmth into the evening hours.\n\nFor those venturing outdoors, lightweight attire remains your ally under the sun's gaze, perhaps a light cotton shirt paired with comfortable shorts or flowing trousers to catch the evening breeze. As the sun dips, it might be wise to layer up; a light sweater can ease into the night chill as fog rolls in. This is an ideal evening to enjoy simple pleasures\u2014perhaps a leisurely stroll along the Charles, where the reflected lights ripple across the water, or a quiet gathering with friends at an outdoor caf\u00e9, sipping cool drinks as the humidity begins to settle. The day may not bring high drama, but there is a soft poetry in its unfolding, inviting you to pause and revel in the moment.",
-    "color_code": "#FFCC99",
-    "timestamp": "2026-07-09 17:26:19"
+    "weather_report": "As night envelops Boston, a gentle hush falls over the city, interrupted only by the distant hum of urban life. The air is heavy with warmth, holding a promise of moisture as patchy fog tiptoes into existence after the clock strikes two. The low temperature caresses the skin at around seventy-one degrees, while a soft southwest breeze whispers through the darkness. It\u2019s a moment not unkind, though the view may be obscured; familiarity with the terrain brings comfort even as night bathes it in shadows.\n\nAs dawn approaches tomorrow, expect the fog to fade into a canvas painted with daylight, revealing the vibrancy of summer. The day will unfurl itself under mostly sunny skies, bearing the heat of a high near eighty-nine. The chance of thunderstorms later introduces a thrill, a possibility of nature\u2019s spectacle, though not an overwhelming certainty, as only a gentle thirty percent stands on the horizon. Slip into comfortable attire\u2014perhaps a loose-fitting shirt and lightweight shorts, lest the warmth become insistent. It is a day well-suited for leisurely endeavors: a midday stroll along the Charles, or perhaps a quiet moment with a book at a caf\u00e9, as clouds begin to gather, hinting at the excitement that may come later.\n\nThe atmosphere dances with anticipation, urging one to enjoy the daylight while it lasts, knowing that summer storms can shift the day\u2019s energy in an instant.",
+    "color_code": "#5E4B8D",
+    "timestamp": "2026-07-09 23:52:50"
 }
