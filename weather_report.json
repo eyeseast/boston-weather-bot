@@ -7,37 +7,18 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-14T06:00:00+00:00",
-            "temperature_f": 71.6,
-            "temperature_c": 22,
-            "humidity": 60.470206383168,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 210,
+            "timestamp": "2026-07-14T09:35:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 73.114660436646,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 220,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-14T02:00:00-04:00",
-                "endTime": "2026-07-14T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 69. Southwest wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2026-07-14T06:00:00-04:00",
                 "endTime": "2026-07-14T18:00:00-04:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 96. Heat index values as high as 100. Southwest wind 8 to 15 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-07-14T18:00:00-04:00",
+                "endTime": "2026-07-15T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 79,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 12
+                },
+                "windSpeed": "8 to 15 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 79. Heat index values as high as 99. Southwest wind 8 to 15 mph, with gusts as high as 28 mph."
             }
         ]
     },
-    "weather_report": "As the gentle hues of dawn break over Boston, the city rests under a cloak of warmth. The skies, mostly clear, hint at a promising day ahead, with a low temperature around 69 quietly holding onto the remnants of the night. A light southwest breeze carries whispers of summer, allowing the spirit of the city to awaken with a touch of velvety comfort.\n\nCome Tuesday, as the sun ascends to its zenith, expect temperatures to soar near 96, with the heat index nudging toward a sultry 100. The day will bathe the streets in bright sunshine, making outdoor adventures both enticing and demanding. A spirited southwest wind will dance through the city at a playful 8 to 15 mph, perhaps providing brief reprieves from the enveloping warmth. It's a day well-suited for leisurely strolls in shaded parks or quiet moments of reflection by the Charles River, where the blend of wind and reflection can cool the skin. Dress lightly, perhaps in breathable fabrics that celebrate the ease of summer, but don\u2019t forget to embrace a wide-brimmed hat and a pair of sunglasses to guard against the sun's bold rays. Whether you find yourself lost in the pages of a cherished book or savoring the simple pleasure of a cold drink outdoors, the day invites a slower rhythm, promising both the joy of exploration and the sweet solace of summer's embrace.",
-    "color_code": "#FFCC00",
-    "timestamp": "2026-07-14 02:16:27"
+    "weather_report": "In Boston, the morning sun casts its golden glow upon a landscape drenched in warmth, a herald of the day yet to unfold. As the heat rises toward its peak near the mid-nineties, a pronounced haze softens the contours of the skyline, lending an almost dreamlike quality to the city as it stirs from its slumber. The telltale signs of summer are palpable in the air, rich with humidity and the faint promise of a balmy breeze that seems to whisper through the trees. With a heat index nudging closer to a hundred, it bears advising those meandering through the streets to don light, breathable fabrics\u2014cotton and linen are favored allies against this sultry embrace. \n\nAs dawn unfolds into the day, one might seek solace in the pleasures of shaded parks or inviting caf\u00e9s, where the rhythm of life carries on in a lively yet languorous dance. Opt for lazy strolls under the canopies of leafy branches, or perhaps immerse oneself in the rhythm of a local market, where the bounty of summer beckons in enticing displays. The warmth of the day may stretch into the night, inviting continued revelry under a partly cloudy sky, where the softness of evening brings with it a chance to linger outdoors, basking in the intimate glow of streetlights and shared laughter. Today is a canvas painted with the colors of summer, vibrant and undeniably alive.",
+    "color_code": "#FFC300",
+    "timestamp": "2026-07-14 06:03:39"
 }
