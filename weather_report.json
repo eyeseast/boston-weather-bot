@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-14T16:55:00+00:00",
-            "temperature_f": 84.2,
-            "temperature_c": 29,
-            "humidity": 54.831464944524,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 250,
+            "timestamp": "2026-07-15T02:30:00+00:00",
+            "temperature_f": 80.6,
+            "temperature_c": 27,
+            "humidity": 69.735359877774,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 220,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-07-14T13:00:00-04:00",
-                "endTime": "2026-07-14T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 96,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 96. Heat index values as high as 100. Southwest wind around 15 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-07-14T18:00:00-04:00",
+                "startTime": "2026-07-14T22:00:00-04:00",
                 "endTime": "2026-07-15T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 79,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 12
+                    "value": 8
                 },
-                "windSpeed": "8 to 15 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 79. Heat index values as high as 99. Southwest wind 8 to 15 mph, with gusts as high as 28 mph."
+                "windSpeed": "9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 79. West wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-07-15T06:00:00-04:00",
+                "endTime": "2026-07-15T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 94,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 16
+                },
+                "windSpeed": "8 to 13 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
+                "shortForecast": "Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers between 11am and 5pm. Mostly sunny, with a high near 94. Northwest wind 8 to 13 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As afternoon unfolds over Boston, the sun dabbles lightly amid a thermal embrace, casting a warm glow that hails a high near 96 degrees. A gentle southwest breeze carries whispers of originality, though the heat index raises a tender hand, suggesting a sensation closer to 100. While the sun reigns in its dominance, a swath of humidity hangs like a curtain, softening the landscape and adding a touch of haze to the horizon. As one gazes toward the city, the urban skyline stands faintly defined against the muted sky, a silhouette cloaked in warmth.\n\nTonight, as the sun takes its bow and the temperatures dip to around 79, the warmth lingers like a distant memory. The heat index stubbornly hovers, offering the hint of a lingering evening glow. In this sultry tableau, those venturing out might find comfort in breathable fabrics\u2014perhaps shorts and lightweight shirts for the day, transitioning to a light sweater or wrap for when night falls. The world outside beckons with the sweet sway of leisurely summer nights; a stroll along the waterfront, a quiet moment over a book in a shaded nook, or enjoying a local caf\u00e9\u2019s outdoor seating can transform this warm afternoon into an idyllic experience, despite the heat.",
-    "color_code": "#F4C300",
-    "timestamp": "2026-07-14 13:19:45"
+    "weather_report": "As the evening drapes its velvet cloak over Boston, the city hums quietly with the soft glow of distant lights. The air is warm, enveloping you in a gentle embrace as the temperature hovers around 79 degrees, inviting a sense of languid comfort. A west wind plays a subtle melody, rustling through the trees and caressing the skin, while the clear sky offers a serene backdrop, hinting at the promise of a pleasant night ahead.\n\nLooking toward tomorrow, a canvas of sunny warmth awaits, painted in shades of vibrant anticipation. With temperatures rising to nearly 94 degrees, there\u2019s a whisper of excitement in the air\u2014a slight chance for a brief shower teasing the afternoon but otherwise allowing the sun to cast its golden rays upon the day. It\u2019s a time to dress lightly, embracing breathable fabrics that dance with the breeze, perhaps a soft linen shirt or a loose cotton dress. As the sun slips higher, you might find contentment in a leisurely stroll along the waterfront, or perhaps indulge in the uncomplicated joy of sipping iced tea at a cozy caf\u00e9, pausing to soak in the ambiance of a summer day in the city. As you take in the sights and sounds of Boston, let the warmth and light guide your simple pleasures, making each moment a gentle reminder of the beauty of summer.",
+    "color_code": "#FFD700",
+    "timestamp": "2026-07-14 22:53:37"
 }
