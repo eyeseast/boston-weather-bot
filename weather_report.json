@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-15T20:40:00+00:00",
-            "temperature_f": 80.6,
-            "temperature_c": 27,
-            "humidity": 50.986771578907,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 290,
+            "timestamp": "2026-07-16T03:00:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 68.176241889352,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-07-15T17:00:00-04:00",
-                "endTime": "2026-07-15T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 83,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 9
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/smoke?size=medium",
-                "shortForecast": "Patchy Smoke",
-                "detailedForecast": "Patchy smoke. Partly sunny, with a high near 83. Northwest wind around 12 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-07-15T18:00:00-04:00",
+                "startTime": "2026-07-15T19:00:00-04:00",
                 "endTime": "2026-07-16T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 68,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 6
+                    "value": 4
                 },
-                "windSpeed": "3 to 10 mph",
+                "windSpeed": "3 to 9 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/haze/few?size=medium",
                 "shortForecast": "Haze then Mostly Clear",
-                "detailedForecast": "Haze before 10pm. Mostly clear, with a low around 68. Northwest wind 3 to 10 mph."
+                "detailedForecast": "Haze before 10pm. Mostly clear, with a low around 68. Northwest wind 3 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-07-16T06:00:00-04:00",
+                "endTime": "2026-07-16T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 90,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "5 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/smoke?size=medium",
+                "shortForecast": "Patchy Smoke",
+                "detailedForecast": "Patchy smoke after 11am. Sunny, with a high near 90. West wind 5 to 14 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a delicate veil of patchy smoke hangs in the air, giving the sky a muted hue that dances between gray and ochre. The high temperature nudges toward a comfortable 83 degrees, kissed by a gentle northwest breeze that carries a promise of warmth. While the day may appear somewhat hazy, the sun still manages to peek through, creating a canvas of shifting light that invites both contemplation and activity.\n\nTonight, the atmosphere will shift ever so slightly; expect a slight haze lingering until around 10 PM, after which the stars will assert their presence, highlighting the deepening twilight. As temperatures drop to a balmy 68 degrees, the evening stroll offers a perfect opportunity to appreciate the city's quiet charm. In this moment, a light jacket might serve well, while those seeking relaxation might find pleasure in gathering at outdoor cafes or enjoying a friendly game at a local park. As the sun begins its descent, consider indulging in the simple pleasures that this warm Boston night has to offer\u2014perhaps a leisurely walk alongside the Charles River, where the sound of water lapping against the shore accompanies the evening's unfolding serenity.",
-    "color_code": "#D3C8A2",
-    "timestamp": "2026-07-15 17:05:29"
+    "weather_report": "As the night deepens in Boston, a gentle haze blankets the landscape, wrapping the city in a quiet embrace. The temperature rests comfortably around 68 degrees, with the whisper of a northwest wind hinting at the calm before the day unfolds. The muted glow of distant lights twinkles against the dark, a reminder of the vibrant life that persists even in the stillness of night. \n\nLooking ahead to Thursday, the sun will rise to greet a day that promises warmth and clarity, with temperatures inching toward a sultry 90. As the haze lifts and the air fills with a patchy smoke, enjoying the outdoors may come with a touch of caution. Dress in light, breathable fabrics, and perhaps let a wide-brimmed hat shield your face from the sun\u2019s prominent glow. Amidst the heat, you might find joy in a leisurely stroll along the Charles River, savoring a quiet moment on a shaded park bench or exploring a local caf\u00e9. Embrace the serenity of the morning before the city awakens fully, a perfect time for quiet reflection or a good book, as the day stretches ahead.",
+    "color_code": "#D9B45A",
+    "timestamp": "2026-07-15 23:15:06"
 }
