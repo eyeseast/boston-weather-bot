@@ -7,37 +7,18 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-16T06:05:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 77.309999878277,
+            "timestamp": "2026-07-16T10:00:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-16T02:00:00-04:00",
-                "endTime": "2026-07-16T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/smoke?size=medium",
-                "shortForecast": "Patchy Smoke",
-                "detailedForecast": "Patchy smoke. Partly cloudy, with a low around 68. West wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2026-07-16T06:00:00-04:00",
                 "endTime": "2026-07-16T18:00:00-04:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/smoke?size=medium",
                 "shortForecast": "Areas Of Smoke",
                 "detailedForecast": "Areas of smoke. Partly sunny, with a high near 83. West wind 6 to 14 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-07-16T18:00:00-04:00",
+                "endTime": "2026-07-17T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 17
+                },
+                "windSpeed": "5 to 13 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers?size=medium",
+                "shortForecast": "Areas Of Smoke",
+                "detailedForecast": "Areas of smoke before 8pm, then areas of smoke and isolated rain showers between 8pm and 3am. Partly cloudy, with a low around 63. Northwest wind 5 to 13 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the quiet of the overnight hours, Boston rests under a light veil of patchy smoke that shrouds the skyline, lending an ethereal quality to the city. The temperature gently hugs around 68 degrees, while the faint rustle of a west wind adds a subtle movement to the calm. As dawn approaches, the city is poised to awaken to a partly sunny day, where the smoke lingers, casting a mellow haze over the landscape. The afternoon promises warmth as the mercury heads toward 83 degrees, with spirited gusts of wind that dance through the streets, carrying whispers of summer\u2019s embrace.\n\nAs the day unfolds, one might find solace in simple pleasures\u2014perhaps a leisurely stroll along the waterfront to enjoy the cool breeze stirring the air, or a visit to a cherished caf\u00e9 to sip coffee while observing the gentle rhythms of city life. Dressing in light layers is advisable, as the warmth of the day beckons, while the evening might cool just enough to summon a light sweater. With the sky splashed with hues of light and warmth, it\u2019s a day that invites both reflection and connection, encouraging residents to step outside and embrace the beauty before them.",
-    "color_code": "#D1B2A1",
-    "timestamp": "2026-07-16 02:23:42"
+    "weather_report": "As Boston awakens on this midsummer day, a blanket of smoke gently lingers in the air, casting a muted veil over the skyline. The sun shares its warmth, striving to reach a peak of 83 degrees, yet the haze softens its brilliance, inviting an unusual stillness to the city. A steady west wind carries with it promises of relief, rustling the leaves and sending wisps of warmth dancing through the streets. \n\nAs the evening approaches, expect the smoke to persist, accompanied by the potential for isolated showers stirring between 8 PM and 3 AM. As night falls, the temperature will dip to a comfortable 63 degrees, perfect for light layers. In this in-between moment, one might find solace in a leisurely stroll along the harbor or settle into a caf\u00e9, savoring a warm drink while watching the city transition. Opt for breathable fabrics during the day and keep a light jacket handy for the cooling night; a gentle reminder of the summer's fickle nature. Given these conditions, the day offers an invitation for quiet exploration, perhaps a visit to the Boston Public Garden or a casual gathering with friends\u2014simple yet rewarding activities that let the rhythms of the city unfold naturally.",
+    "color_code": "#D4C8C8",
+    "timestamp": "2026-07-16 06:15:31"
 }
