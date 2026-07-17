@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-16T20:45:00+00:00",
-            "temperature_f": 86.0,
-            "temperature_c": 30,
-            "humidity": 40.172842074825,
-            "wind_speed_mph": 53.875908,
-            "wind_direction": 260,
+            "timestamp": "2026-07-17T02:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 220,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-07-16T17:00:00-04:00",
-                "endTime": "2026-07-16T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 90,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "17 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Smoke",
-                "detailedForecast": "Smoke and a slight chance of rain showers. Partly sunny, with a high near 90. West wind around 17 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-07-16T18:00:00-04:00",
+                "startTime": "2026-07-16T23:00:00-04:00",
                 "endTime": "2026-07-17T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 17
+                    "value": 0
                 },
-                "windSpeed": "6 to 15 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/sct?size=medium",
-                "shortForecast": "Smoke then Partly Cloudy",
-                "detailedForecast": "Smoke and a slight chance of rain showers before midnight. Partly cloudy, with a low around 59. Northwest wind 6 to 15 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/smoke/few?size=medium",
+                "shortForecast": "Patchy Smoke then Mostly Clear",
+                "detailedForecast": "Patchy smoke before midnight. Mostly clear, with a low around 59. Northwest wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-07-17T06:00:00-04:00",
+                "endTime": "2026-07-17T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 85,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 85. West wind around 10 mph."
             }
         ]
     },
-    "weather_report": "As the sun hangs low in the summer sky over Boston, a veil of smoke lingers, softening the edges of buildings and roads with a hazy touch. The day, with its promise of warmth, meanders towards the evening, where temperatures will gently descend to a more refreshing chill. However, the slight chance of rain showers before midnight casts a reminder of nature\u2019s unpredictable charm. The winds, whispering through the streets at a lively pace, add a touch of excitement, swirling the scent of distant activities and the potential for a stormy resolve.\n\nIn these conditions, dressing in layers is wise, combining comfort with the ability to adjust to the fluctuating temperatures. Light attire protected by a breezy jacket would suit the adventurous spirit, as one might meander through the parks or along the waterfront, where the evening might bless with a view of the retreating sun and the softening skyline. The allure of a quiet caf\u00e9 beckons on such an afternoon, where one can enjoy a respite, absorbing the ambiance while watching the world drift past, grounded in the simple pleasures that summer often bestows.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2026-07-16 17:07:52"
+    "weather_report": "As the night settles over Boston, a gentle haze fills the air, carrying with it the scent of distant greenery and the faint whisper of smoke that drifts away before midnight's embrace. The temperature lingers in an inviting chill, resting at a comfortable 59 degrees, while a light northwest breeze stirs the calm. The city\u2019s lights twinkle softly against the horizon, creating a serene panorama that speaks of quiet evenings spent reflecting or perhaps enjoying a walk along the Charles. \n\nLooking ahead, the dawn will break with the promise of a sunny day, bathing the city in all its glory. Expect clear skies and warmth creeping into the upper 80s, hinting at a day perfect for leisurely pursuits. As you step outside, consider dressing in light, breathable fabrics that allow for movement and enjoyment under the sun's embrace. With such lovely weather, it invites exploration\u2014how about visiting a local bookstore and losing oneself in the pages of a long-neglected novel, or perhaps taking a stroll through one of Boston's many charming parks, letting the sunlight dance upon your skin and the laughter of summer fill the air? The day ahead holds much to offer, encouraging you to savor the small moments amid the vibrant heartbeat of the city.",
+    "color_code": "#FFCC66",
+    "timestamp": "2026-07-16 23:18:00"
 }
