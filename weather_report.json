@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-17T05:53:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
+            "timestamp": "2026-07-17T13:30:00+00:00",
+            "temperature_f": 73.4,
+            "temperature_c": 23,
             "humidity": null,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-17T02:00:00-04:00",
-                "endTime": "2026-07-17T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-07-17T09:00:00-04:00",
+                "endTime": "2026-07-17T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 85,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 85. Northwest wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-07-17T18:00:00-04:00",
+                "endTime": "2026-07-18T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 5
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 61. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-07-17T06:00:00-04:00",
-                "endTime": "2026-07-17T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 84,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 to 12 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 84. Northwest wind 7 to 12 mph."
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/smoke?size=medium",
+                "shortForecast": "Areas Of Smoke",
+                "detailedForecast": "Areas of smoke after 10pm. Mostly clear, with a low around 61. West wind 5 to 8 mph."
             }
         ]
     },
-    "weather_report": "As Boston slumbers under a tranquil blanket of night, the air breathes a mildness that hints at the warmth to come. A clear sky reveals itself, as if the universe has polished the stars to a fine sheen, inviting serenity with a low around a comfortable sixty-one degrees. Wind whispers gently from the northwest, maintaining a subtle presence that adds to the serene ambiance of the early hours.\n\nWith the dawn breaking, the city is poised for a radiant Friday. Sunshine will pour over the streets and parks, coaxing people out from their early routines. Anticipate a soaring high near eighty-four, a splendid invitation to embrace the day. The northwest breeze may playfully tussle hair and flutter garments but will remain amiable rather than overwhelming. Light, breathable clothing is the outfit of choice; think of soft cotton or linen that dances with the lightness of the air. Perhaps slip on a light cardigan or jacket for the fleeting moments when the sun dips behind a cloud or as the day wanes; warmth lingers without burden.\n\nThis Friday holds promise for leisurely strolls by the Charles River, casual coffee catch-ups on sun-kissed patios, or perhaps an afternoon exploring the vibrant energy of local shops. As the sun bathes the historic brick buildings and the laughter of friends fills the air, the city transforms into a canvas of warmth and connection. Let the day unfold with a gentle rhythm, where mundane tasks become opportunities to relish the beauty of a perfect summer\u2019s day.",
-    "color_code": "#F5F5DC",
-    "timestamp": "2026-07-17 02:21:33"
+    "weather_report": "The morning in Boston unfolds with a gentle warmth, the sun casting its golden hue over the city, promising a high near 85 degrees later in the day. A light northwest breeze dances through the streets, offering a refreshing relief as the day progresses. For those planning to venture out, the clear skies invite leisurely strolls along the Charles River, where the shimmering water reflects the azure above. Yet, as the evening approaches, a veil of smoke may dim the picturesque view, creeping in subtly after ten. Those wrapped in the embrace of the outdoors tonight will find temperatures cooling to a comfortable 61, under a vast canopy that may hint at a tranquil, starry night.\n\nIn such blissful weather, dressing lightly but layering for the evening chill seems prudent. A simple linen shirt paired with comfortable shorts or a flowing sundress can keep one feeling free yet prepared for the brisk shift as dusk settles in. The allure of the day beckons for mundane pursuits\u2014a visit to the local caf\u00e9, where the air is infused with the scent of freshly brewed coffee, or perhaps a casual gathering with friends in one of Boston's many open spaces. The city's essence shines through in these ordinary moments, encased in the warmth of the sun's embrace and the promise of a soft evening glow.",
+    "color_code": "#A8D8D4",
+    "timestamp": "2026-07-17 09:50:35"
 }
