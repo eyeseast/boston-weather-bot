@@ -7,7 +7,7 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-20T06:15:00+00:00",
+            "timestamp": "2026-07-20T10:45:00+00:00",
             "temperature_f": 51.8,
             "temperature_c": 11,
             "humidity": 100,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-20T02:00:00-04:00",
-                "endTime": "2026-07-20T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 59. West wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2026-07-20T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-07-20T07:00:00-04:00",
                 "endTime": "2026-07-20T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 82,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 82. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-07-20T18:00:00-04:00",
+                "endTime": "2026-07-21T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 63. South wind 5 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the dawn approaches Boston, a soft tapestry of serenity is woven into the night sky, with only a slight whisper of wind rustling through the stillness. The forecast promises a gentle embrace of warmth as the sun ascends, hinting at a glorious day ahead, with clear skies inviting the light to dance across the city skyline. By midday, temperatures are expected to rise to a pleasant warmth, perfect for strolling along the Charles River, where the gentle current reflects the vivid hues of blue and gold.\n\nIn anticipation of this delightful weather, it would be wise to don something light yet comfortable\u2014perhaps a breezy shirt or a sundress, complementing a pair of easy-going shoes, ideal for a leisurely walk through the parks or a visit to one of the local markets. It\u2019s a day for the simple joys: savoring a cup of coffee al fresco, soaking in the warmth of the sun, or perhaps exploring a quiet nook of one of Boston's historic neighborhoods. As you step out, the promise of a beautiful day should be enough to uplift the spirits, inviting all to partake in the bounty of life's small pleasures.",
-    "color_code": "#F2BC5A",
-    "timestamp": "2026-07-20 02:52:51"
+    "weather_report": "In Boston this morning, the sun lifts a warm blanket of light over the landscape, casting gentle shadows and infusing the air with a warmth that promises an inviting day. As you step outside, the layers of blue stretch endlessly above, with a soft westward breeze whispering through the streets, nudging the warmth into a pleasant embrace. It\u2019s the kind of weather that encourages one to linger outdoors, perhaps strolling through the Public Garden or enjoying a leisurely coffee at a sidewalk caf\u00e9, the day ahead brimming with the potential for simple yet satisfying delights.\n\nAs the evening approaches, the sky will wear a subtle sheen of clouds, a gentle transition to the night, with temperatures settling comfortably. Dressing for this day, consider light, breathable fabrics, perhaps a simple linen shirt or a cotton dress, complemented by comfortable shoes, ready for both meandering explorations and quiet moments of reflection. This alluring weather calls for nothing ostentatious\u2014just the perfect attire to bask in the vibrant energy of a summer day in the city.",
+    "color_code": "#A7CDA9",
+    "timestamp": "2026-07-20 07:06:34"
 }
