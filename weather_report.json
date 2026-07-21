@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-20T21:00:00+00:00",
-            "temperature_f": 80.6,
-            "temperature_c": 27,
-            "humidity": 34.448362072935,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 270,
+            "timestamp": "2026-07-21T03:00:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
+            "humidity": 82.385951628273,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-07-20T17:00:00-04:00",
-                "endTime": "2026-07-20T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 82,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 82. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-07-20T18:00:00-04:00",
+                "startTime": "2026-07-20T23:00:00-04:00",
                 "endTime": "2026-07-21T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 63,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 63. South wind 5 to 9 mph."
+                "detailedForecast": "Partly cloudy, with a low around 63. South wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-07-21T06:00:00-04:00",
+                "endTime": "2026-07-21T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 82,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 27
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/tsra_sct,30?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
+                "detailedForecast": "A slight chance of rain showers between 2pm and 5pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 82. South wind 6 to 13 mph, with gusts as high as 23 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "Boston is basking in the embrace of a sun-drenched afternoon, as a warm breeze stirs memories of languid summer days. The sky is a clear canvas, punctuated only by the soft whispers of scattered clouds, creating a backdrop that hints at a gentle serenity. With temperatures nudging past the warm threshold of comfort, this moment invites one to cast aside the burdens of the week and step outside, where the heart of the city revels in the cheerful glow of day. As evening approaches, the air will cool slightly, inviting a breathable warmth that calls for light layers, perhaps a comfortable t-shirt paired with a breezy linen shirt to catch the soft south wind.\n\nThis evening, as the sun softly dips behind the horizon, a leisurely stroll along the Charles or a stop at a quaint cafe could offer the perfect interlude. The city, painted in hues of golden hour, beckons those who wish to linger in the lingering daylight. Whether it\u2019s enjoying the laughter of friends over coffee or finding solace in a book on a park bench, Boston is alive with possibilities that reflect the gentle rhythm of summer. While the glow of the day will eventually yield to the calmness of night, there\u2019s no denying that the atmosphere teems with the promise of warmth and connection.",
-    "color_code": "#FFCC66",
-    "timestamp": "2026-07-20 17:15:20"
+    "weather_report": "As twilight dimly cloaks the city of Boston, a gentle breeze carries with it the promise of a sultry summer night, settling in with temperatures around 63. The south wind whispers through the streets, offering a subtle warmth that speaks to the jasmine-scented evenings ahead. Predicted cloud cover lingers, hinting at the possibility of rain tomorrow. As the night deepens, the stars retreat behind a veiled curtain of moisture, leaving only the soft twinkle of city lights against the darkened sky.\n\nAs dawn breaks, imagine the day unfurling with a tentative warmth, sunshine peeking through a tapestry of clouds. There is a light chance of rain showers, a playful teasing that may transform into vivid thunderstorms later in the afternoon. With temperatures expected to rise toward a comfortable 82, it would be wise to don light layers; breathable fabric will ensure you feel at ease amidst the shifting weather. Should you find yourself with free time, a leisurely stroll through one of Boston's historic parks could be quite enjoyable, the scent of grass and flowers mingling with the anticipation of rain, or perhaps a visit to a cozy corner caf\u00e9, where you can enjoy the atmosphere as it ebbs and flows with the changing skies.",
+    "color_code": "#A5C8D1",
+    "timestamp": "2026-07-20 23:20:50"
 }
