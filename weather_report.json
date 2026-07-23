@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-23T06:20:00+00:00",
-            "temperature_f": 60.8,
-            "temperature_c": 16,
-            "humidity": 93.792573905746,
+            "timestamp": "2026-07-23T10:00:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 93.698536677741,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,26 +18,7 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-23T02:00:00-04:00",
-                "endTime": "2026-07-23T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 61. Northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
+                "name": "Today",
                 "startTime": "2026-07-23T06:00:00-04:00",
                 "endTime": "2026-07-23T18:00:00-04:00",
                 "isDaytime": true,
@@ -49,14 +30,33 @@
                     "value": 1
                 },
                 "windSpeed": "6 mph",
-                "windDirection": "N",
+                "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 81. North wind around 6 mph."
+                "detailedForecast": "Sunny, with a high near 81. Northwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-07-23T18:00:00-04:00",
+                "endTime": "2026-07-24T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 58. Southwest wind around 5 mph."
             }
         ]
     },
-    "weather_report": "As Boston stirs in the early hours, a gentle tapestry of clouds flickers against a backdrop of deepening navy. The night's warmth settles in, cradled by a slight, refreshing breeze from the northwest. The forecast whispers promises of radiant sunlight, a day that will soon be swathed in golden hues, perfect for reveling in the city\u2019s vibrant life. With temperatures expected to gracefully rise to a comfortable warmth, one might find joy in the simple act of stepping outside, perhaps adorned in light layers, a casual shirt paired with shorts or breezy trousers; comfortable footwear to wander the streets or stroll along the waterfront.\n\nThe unfolding day beckons with the warmth of summer, a canvas inviting leisurely exploration. Picture a modest afternoon spent at the local caf\u00e9, the hum of conversation mingling with the clinking of cups, or perhaps a saunter through the nearby parks, where trees sway lazily in the gentle winds. As the sun climbs in the sky, consider visiting a bookshop, losing oneself among the stacks for a few tranquil hours, or finding a spot to relax and watch the city's activity\u2014its pulse quickening as the day unfolds. Such lovely hours await, under a clear blue sky, just waiting for you to embrace them.",
-    "color_code": "#F0E68C",
-    "timestamp": "2026-07-23 02:33:59"
+    "weather_report": "As dawn breaks over Boston, the city awakens to an enticing promise of sunlight and mild temperatures, a perfect invitation for a day spent outdoors. The forecast heralds a sun-drenched expanse, with a gentle northwesterly breeze whispering through the streets. The high of 81 brings warmth, balanced seamlessly by the cooling caress of air, setting an idyllic stage for anything from leisurely strolls along the Charles River to quiet cafes where you can sip a fresh brew and watch the world glide by.\n\nAs the sun dips and evening draws near, you can expect a clear sky bathed in stars, providing a tranquil backdrop for introspection or friendly gatherings. Dressed in light layers, a comfortable t-shirt and perhaps a light cardigan will keep you just right for both the shimmering heat of the day and the coolness that night promises. Whether it's wandering through the historic neighborhoods or finding solace in a book at your favorite park, today is nothing short of delightful.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-07-23 06:28:25"
 }
