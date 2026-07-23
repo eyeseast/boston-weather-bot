@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-22T21:00:00+00:00",
-            "temperature_f": 71.6,
-            "temperature_c": 22,
-            "humidity": 94.06252427588,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 150,
-            "description": "Light Rain"
+            "timestamp": "2026-07-23T03:10:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 77.615480305123,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-07-22T16:00:00-04:00",
-                "endTime": "2026-07-22T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 86,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 30
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,30?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of showers and thunderstorms. Partly sunny, with a high near 86. West wind around 13 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-07-22T18:00:00-04:00",
+                "startTime": "2026-07-22T23:00:00-04:00",
                 "endTime": "2026-07-23T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 21
+                    "value": 6
                 },
-                "windSpeed": "6 to 10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/sct?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms then Partly Cloudy",
-                "detailedForecast": "A slight chance of showers and thunderstorms before 8pm. Partly cloudy, with a low around 61. West wind 6 to 10 mph, with gusts as high as 21 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "8 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 61. Northwest wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-07-23T06:00:00-04:00",
+                "endTime": "2026-07-23T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 80,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 80. North wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As the sun makes its slow descent over Boston this afternoon, the air carries a hint of moisture, a prelude to fleeting showers that may stir before the day takes its leave. With the temperature flirting around a warm 86 degrees, the west winds dance gently, promising a slight reprieve from the sticky embrace of humidity. A soft tapestry of clouds hangs above, adding an element of intrigue to the sky while granting that peculiar mix of sun and shade that enhances the city's vibrancy. Though a chance of thunderstorms looms, the odds remain modest, creating an atmosphere ripe for adventure or for indulging in the comfort of a cozy caf\u00e9.\n\nTonight, as twilight casts its gentle spell, the temperature is set to dip, inviting you to wrap yourself in something more comfortable as the night embraces a cool 61 degrees. Donning layers may serve you well, particularly as winds pick up, whispering secrets of the coming evening. Consider an evening stroll through the quiet streets or a serene stop at the waterfront, where the hushed sounds of the city meld harmoniously with the lapping waves. It's a night where tranquility reigns, and the chance of a lingering shower is but a backdrop to the gentle allure of the night. Embrace this blend of warmth and coolness, where simplicity finds a lovely balance in the pulse of the setting sun.",
-    "color_code": "#A2B7D6",
-    "timestamp": "2026-07-22 17:14:16"
+    "weather_report": "With a gentle breeze brushing through the cool Boston night, the air carries a crispness that hints at the warm glow of the day ahead. As clouds recede, a patch of stars twinkles softly in the indigo sky, creating a serene canvas for the night. The anticipated morning promises bright sunshine, inviting residents to shed the remnants of evening chill. When dawn breaks, temperatures will rise steadily, cloaking the city in warmth as the sun ascends, casting vibrant hues across the skyline. \n\nAs the day unfolds, you might find yourself drawn outdoors, perhaps to a leisurely stroll through the winding streets or the charm of a local caf\u00e9, sipping coffee while watching the world wake up. Dress in layers; a light jacket may serve well in the early hours, but as the sun climbs overhead, a comfortable tee will offer solace from the day\u2019s warmth. Enjoy the pleasant embrace of summer as it stretches over Boston, encouraging simply relaxed moments amidst the rhythmic pulse of urban life.",
+    "color_code": "#C1D3F9",
+    "timestamp": "2026-07-22 23:26:18"
 }
