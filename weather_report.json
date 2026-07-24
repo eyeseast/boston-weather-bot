@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-23T20:45:00+00:00",
-            "temperature_f": 78.8,
-            "temperature_c": 26,
-            "humidity": 34.166862775596,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 330,
+            "timestamp": "2026-07-24T03:00:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
+            "humidity": 82.385951628273,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-07-23T16:00:00-04:00",
-                "endTime": "2026-07-23T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 80,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 80. Northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-07-23T18:00:00-04:00",
+                "startTime": "2026-07-23T23:00:00-04:00",
                 "endTime": "2026-07-24T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 58. Southwest wind around 5 mph."
+                "detailedForecast": "Clear, with a low around 58. Southwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-07-24T06:00:00-04:00",
+                "endTime": "2026-07-24T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 83,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 83. South wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "In Boston this evening, the sun casts a warm embrace over the landscape, whispering the promise of a pleasant summer afternoon. With clear skies stretching endlessly overhead, temperatures dance close to 80 degrees, a reminder of the season\u2019s uncomplicated joys. The gentle northwest breeze offers just enough of a cool caress to keep the heat at bay, making it an opportune moment to venture out, perhaps to stroll along the tranquil banks of the Charles or to find respite in one of the city's many charming parks. \n\nAs the sun descends, the fading light will yield to a serene twilight, inviting a snug layer of comfort before night sets in. A light jacket might be all that\u2019s needed as the temperatures gracefully lower to around 58 degrees. The evening will be clear, creating a perfect canvas for stars to twinkle in the expansive sky. It's the kind of night that beckons for quiet reflection or perhaps a leisurely bite at an outdoor caf\u00e9, where the gentle sound of laughter mingles with the soft rustle of the leaves. Engage in the simple pleasures of life\u2014be it reading a book on a bench or taking in the quiet charm of the city.",
-    "color_code": "#A3C1E0",
-    "timestamp": "2026-07-23 17:10:15"
+    "weather_report": "As the evening settles over Boston, a gentle clarity envelops the city, with temperatures drifting down to a comfortable 58 degrees. The southwest wind whispers softly, at first a mere breath, promising a serene transition into the warmth of tomorrow. The night sky, a canvas of infinite darkness, is punctuated only by the twinkling lights of the city, casting a glow that dances against the trees and buildings, creating an atmosphere of tranquil stillness. \n\nAs dawn approaches, expect a glorious display of sunshine that will complement the already warm air, with highs reaching the pleasant embrace of 83 degrees. The soft south wind will add to the day\u2019s charm, making it an ideal occasion to step outside. One might consider donning lightweight clothing, perhaps a breezy shirt and comfortable slacks, coupled with a straw hat to shield from the sun\u2019s gentle yet persistent caress. It's the type of day that invites leisurely strolls through the Common, perhaps a visit to a local caf\u00e9, or simply sitting on a sunlit bench, watching the world pass by. \n\nThe allure of summer beckons, and the simplicity of life calls; breathe in the warmth, feel the rhythm of the city, and savor the moments ahead.",
+    "color_code": "#F5D89E",
+    "timestamp": "2026-07-23 23:20:29"
 }
