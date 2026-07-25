@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-25T09:31:00+00:00",
-            "temperature_f": 51.98,
-            "temperature_c": 11.1,
-            "humidity": 96.731932441167,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog/Mist"
+            "timestamp": "2026-07-25T16:45:00+00:00",
+            "temperature_f": 80.6,
+            "temperature_c": 27,
+            "humidity": 36.82210986036,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 110,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-25T05:00:00-04:00",
-                "endTime": "2026-07-25T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 58. Southwest wind around 2 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-07-25T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-07-25T13:00:00-04:00",
                 "endTime": "2026-07-25T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 82,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "1 to 9 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "windSpeed": "9 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 82. Northwest wind 1 to 9 mph."
+                "detailedForecast": "Sunny, with a high near 82. East wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-07-25T18:00:00-04:00",
+                "endTime": "2026-07-26T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "1 to 8 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 57. Northeast wind 1 to 8 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a gentle clarity graces the horizon, inviting the day with a soft embrace. The serenity of early morning portends a warm embrace as temperatures will rise steadily toward the balmy heights of afternoon. With a low of around 58 overnight, the subtle coolness of the air lingers just enough to remind us of the night\u2019s quiet retreat. Today, the sun will shine effortlessly, a bright beacon in a sky painted blue, albeit accompanied by a few discreet winds whispering at 1 to 9 mph from the northwest.\n\nThe day ahead beckons for light attire; a breeze here and there will not overshadow the warmth that promises to envelop all who venture outside. Perhaps a walk along the Charles River, where the water dances under the sun's blissful gaze, might be just the thing. Alternatively, a leisurely stroll through the Boston Common could offer a delightful reprieve, where the lush greens and vibrant flowers provide a perfect complement to the day\u2019s generous warmth. Whatever the choice, today radiates with the promise of enjoyment, inviting all to step outside and relish the beauty of a summer day in the city.",
-    "color_code": "#A2C2D4",
-    "timestamp": "2026-07-25 05:54:03"
+    "weather_report": "In the heart of Boston this afternoon, the sun reigns supreme, casting a warm embrace upon the city. As the day unfolds before us, it feels more like a gentle summer's kiss than the heart of July, with temperatures approaching a delightful 82 degrees. The soft east wind whispers through the trees, adding a refreshing touch, while the skies above maintain their clear demeanor, allowing for the sun to weave its golden threads through the streets and parks. As evening arrives, the ambiance promises serenity, with mostly clear conditions settling over the horizon, inviting nightfall to wrap its cool arms around the city as temperatures dip to a comfortable 57 degrees.\n\nWith such inviting weather, one might consider donning light layers today\u2014the breezy fabric of a summer shirt complemented by a pair of comfortable shorts, perhaps. As the sun begins its descent, a light jacket could serve as a perfect companion for an evening stroll along the Charles, where the water reflects the retreating sun in soft shades of orange and pink. This afternoon\u2019s allure beckons leisurely walks or perhaps a stop at a local caf\u00e9 for a refreshing iced coffee. As the city embraces the simplicity of a sunny day, it invites one to bask in its beauty, to savor fleeting moments that, though ordinary, are imbued with the extraordinary warmth of a day well-lived.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-07-25 13:05:21"
 }
