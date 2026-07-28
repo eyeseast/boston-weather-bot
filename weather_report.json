@@ -7,37 +7,18 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-28T06:20:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 100,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 120,
-            "description": "Fog"
+            "timestamp": "2026-07-28T10:25:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 93.974509366621,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 180,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-28T01:00:00-04:00",
-                "endTime": "2026-07-28T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 65. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2026-07-28T06:00:00-04:00",
                 "endTime": "2026-07-28T18:00:00-04:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20/tsra_hi,30?size=medium",
                 "shortForecast": "Chance Showers And Thunderstorms",
                 "detailedForecast": "A chance of showers and thunderstorms after 11am. Partly sunny, with a high near 81. South wind 3 to 13 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-07-28T18:00:00-04:00",
+                "endTime": "2026-07-29T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 65,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 26
+                },
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/tsra_sct,30?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of showers and thunderstorms after 1am. Mostly cloudy, with a low around 65. Southeast wind 7 to 13 mph. Chance of precipitation is 30%."
             }
         ]
     },
-    "weather_report": "As the quiet hours linger over Boston, the city basks in the gentle embrace of a mostly clear night, where temperatures cradle the mid-sixties under a soft southwest breeze. The air feels warm, inviting, as it carries with it the whispers of summer nights, perfect for a stroll along the Charles or perhaps a leisurely read on a balcony. With dawn yet to break, the promise of a new day simmers just on the horizon.\n\nCome Tuesday, the city awakens to possibilities. The forecast hints at a chance of showers and the distant rumble of thunderstorms after eleven, though the morning may greet you with a kindly partial sun. A high near 81 suggests humidity may become a familiar friend, and a light south wind will dance through the streets. Attire for this day should balance comfort with readiness; lightweight fabrics will serve well, alongside an umbrella tucked away for those sporadic showers in the afternoon\u2019s brightness. As you navigate the day, consider a visit to a local caf\u00e9 for a soothing cup of coffee amid chatter, or meander through the lush parks, letting the verdant scenery rejuvenate your spirit. Engaging in the simple pleasure of observing life around you feels just right, a perfect way to embrace this summer day in the city.",
-    "color_code": "#F0E68C",
-    "timestamp": "2026-07-28 02:31:17"
+    "weather_report": "In the quiet moments of dawn, Boston wakes to a veil of gray, the morning shrouded in a gentle fog that softens outlines and mutes sound. The air carries the promise of warmth later in the day, as wisps of sunshine threaten to break through, hinting at the high temperatures that await. Yet, for now, a cool breeze rustles through the city, whispering tales of the thunderstorms that are forecasted for the afternoon. The sky appears to hold its breath, with clouds hanging low, offering just a hint of the sun's eventual return. \n\nAs the day unfolds, it will be wise to embrace layers, perhaps a light shirt for warmth accompanied by a lightweight jacket, especially as the humidity begins to rise. With a chance of afternoon showers, those who venture outside might find solace in a caf\u00e9, watching the world go by as a parade of umbrellas blooms along the streets, or perhaps enjoy a stroll through the verdant parks that dot the landscape, listening for the distant rumble of thunder. With the evening promising a continuation of moisture, the atmosphere lends itself to a snug dinner at home, perhaps with a book in hand, as the thunder grumbles gently in the distance.",
+    "color_code": "#B0C4E2",
+    "timestamp": "2026-07-28 06:40:10"
 }
