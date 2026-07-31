@@ -7,37 +7,18 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-31T06:30:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 93.838813960785,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 160,
-            "description": "Cloudy"
+            "timestamp": "2026-07-31T10:30:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 100,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Fog"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-07-31T02:00:00-04:00",
-                "endTime": "2026-07-31T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog before 5am. Mostly cloudy, with a low around 60. Northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
+                "name": "Today",
                 "startTime": "2026-07-31T06:00:00-04:00",
                 "endTime": "2026-07-31T18:00:00-04:00",
                 "isDaytime": true,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 22
+                    "value": 21
                 },
-                "windSpeed": "3 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/fog/rain_showers,20?size=medium",
-                "shortForecast": "Patchy Fog then Slight Chance Rain Showers",
-                "detailedForecast": "Patchy fog before 8am, then a slight chance of rain showers. Mostly sunny, with a high near 81. Northwest wind around 3 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/sct/tsra_hi,20?size=medium",
+                "shortForecast": "Mostly Sunny then Slight Chance Showers And Thunderstorms",
+                "detailedForecast": "A slight chance of showers and thunderstorms after 2pm. Mostly sunny, with a high near 81. Northwest wind around 5 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-07-31T18:00:00-04:00",
+                "endTime": "2026-08-01T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 18
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/fog?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms then Patchy Fog",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 7pm, then patchy fog. Mostly clear, with a low around 63. Southwest wind around 5 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In the stillness of night, Boston is shrouded in a gentle veil of fog, lending an air of mystery to the city's familiar contours. As dawn approaches, the forecast hints at the fog's retreat, giving way to a mostly sunny day that promises warmth and a touch of the golden season's first rays. The morning might be slow to awaken, with wisps of fog lingering until the sun stretches its arms and breaks through with a soft clarity. A slight whisper of wind offers a refreshing touch, balancing the humidity that comes with summer nights.\n\nAs the day unfolds, temperatures are expected to rise comfortably, inviting residents to step outside and explore the charm of the area. There is a chance, albeit slight, of rain showers\u2014but nothing that should deter one from enjoying the outdoors. A light, breathable outfit would be wise, with perhaps a jacket or cardigan for the coolness of the early hours. It\u2019s an ideal setting for a leisurely stroll along the Charles River, where the tranquility of the water mirrors the gentle warmth of the sun. Alternatively, a visit to one of Boston's quaint coffee shops could offer a perfect respite before diving into the day's agenda, savoring a moment of calm before the bustle of life's demands takes hold.",
-    "color_code": "#A6B3CE",
-    "timestamp": "2026-07-31 02:48:50"
+    "weather_report": "This morning in Boston, the skies are a gentle canvas of cerulean, with the sun peeking through in a soft and inviting manner. The day promises a warmth that flirts with the edges of summer, boasting a high near 81 degrees. A light breeze whispers through the tree branches, offering a refreshing contrast to the warmth. As the afternoon unfolds, there's a mere hint of possibility for thunderstorms, though the likelihood remains slight. Therefore, while the sun may play hide and seek, a touch of caution regarding waterproof attire could be wise as the day progresses.\n\nAs evening approaches, the allure of a clear canvas gives way to the soft embrace of patchy fog and a gentle night. The temperature is expected to dip to a comfortable 63 degrees. With the low humidity and the calm of the evening, this presents an ideal setting for a leisurely stroll along the waterfront or perhaps a quiet moment spent in a local park, where the city\u2019s heartbeat slows to a more contemplative rhythm. A light layer will suffice, allowing you to savor the residual warmth while preparing for the quiet whisper of night. It is a day for the simple things\u2014the kind where a cup of coffee outside or a quiet read in relaxed company offers its own brand of joy, inviting you to linger just a little longer in the golden embrace of floats.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2026-07-31 06:44:41"
 }
