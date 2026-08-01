@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-07-31T20:50:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 83.223812842562,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 50,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-08-01T03:12:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-07-31T16:00:00-04:00",
-                "endTime": "2026-07-31T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 81,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 19
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,20?size=medium",
-                "shortForecast": "Isolated Showers And Thunderstorms",
-                "detailedForecast": "Isolated showers and thunderstorms. Partly sunny, with a high near 81. Northwest wind around 3 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-07-31T18:00:00-04:00",
+                "startTime": "2026-07-31T23:00:00-04:00",
                 "endTime": "2026-08-01T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 63,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 20
+                    "value": 2
                 },
                 "windSpeed": "3 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/fog?size=medium",
-                "shortForecast": "Isolated Showers And Thunderstorms then Patchy Fog",
-                "detailedForecast": "Isolated showers and thunderstorms before 8pm, then patchy fog. Partly cloudy, with a low around 63. Southwest wind around 3 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium",
+                "shortForecast": "Mostly Clear then Patchy Fog",
+                "detailedForecast": "Patchy fog after 2am. Mostly clear, with a low around 63. Southwest wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-08-01T06:00:00-04:00",
+                "endTime": "2026-08-01T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 84,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Sunny",
+                "detailedForecast": "Patchy fog before 9am. Mostly sunny, with a high near 84. South wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As the late afternoon sinks gently into Boston, the atmosphere embodies a tranquil yet dynamic charm, where isolated showers and the possibility of distant thunder seem to linger on the horizon, hinting at spontaneity amidst the warm embrace of a high around 81 degrees. The sun intermittently graces the city with its golden hue, casting playful shadows as the gentle northwest breeze carries the day's warmth. With a 20% chance of precipitation in the air, the world seems both inviting and slightly unpredictable, a balance of sun-drenched joy and the solemn awareness of potential rain.\n\nAs evening approaches, the weather will transform, inviting a veil of patchy fog to join the quietude of the night. The temperature will drop, urging a comfortable light wrap or a cozy cardigan, particularly as the low settles around 63 degrees. Such a night lends itself to simple pleasures: perhaps a stroll along the picturesque waterfront, where the fading sunlight dances on the water\u2019s surface, or an intimate gathering at a local caf\u00e9, where conversations float in the air. This delicate blend of warmth and coolness, combined with the lingering scent of evening dew, creates an ideal backdrop for a serene evening, as Boston prepares to slip into the gentle embrace of night.",
-    "color_code": "#A7C9E2",
-    "timestamp": "2026-07-31 17:12:02"
+    "weather_report": "As the night embraces Boston, the gentle breath of a southwest wind carries whispers of what lies ahead. A soft veil of patchy fog will begin to unfurl after two in the morning, shrouding the city in a delicate mystery as it settles in for the night. The air holds a warm promise, with temperatures dipping to a mellow low, cradling the senses against the backdrop of twinkling lights that lace the horizon.\n\nCome Saturday, the dawn will gift early risers with a fleeting haze, soon giving way to a radiant embrace of sunshine. As the day unfurls, expect warmth to remain a faithful companion, teasing the air with cheerful, golden rays that invite outdoor adventures. With highs nearing a delightful 84 degrees, the atmosphere pulses with life, perfect for a stroll along the Charles or perhaps an unhurried brunch at a quaint caf\u00e9, where the aroma of freshly brewed coffee mingles with the chatter of contented patrons. A light layering or breathable fabrics will keep one comfortable, allowing for movement and ease as the day unfurls into a scene of serene splendor. Whether you're tending to errands or delighting in the vibrant energy of the city, the enchantment of a summer day beckons, promising moments that linger long after the sun dips beyond the skyline.",
+    "color_code": "#D8BFD8",
+    "timestamp": "2026-07-31 23:31:42"
 }
