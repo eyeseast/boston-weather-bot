@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-01T20:35:00+00:00",
-            "temperature_f": 82.4,
-            "temperature_c": 28,
-            "humidity": 61.837259550781,
-            "wind_speed_mph": 33.17918400000001,
+            "timestamp": "2026-08-02T03:10:00+00:00",
+            "temperature_f": 71.6,
+            "temperature_c": 22,
+            "humidity": 94.06252427588,
+            "wind_speed_mph": 20.696724000000003,
             "wind_direction": 180,
-            "description": "Mostly Cloudy"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-01T16:00:00-04:00",
-                "endTime": "2026-08-01T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 87,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 12
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 87. South wind around 7 mph. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-08-01T18:00:00-04:00",
+                "startTime": "2026-08-01T23:00:00-04:00",
                 "endTime": "2026-08-02T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 68,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 9
+                    "value": 2
                 },
-                "windSpeed": "8 mph",
-                "windDirection": "S",
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 68. South wind around 8 mph. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Mostly cloudy, with a low around 68. Southwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-08-02T06:00:00-04:00",
+                "endTime": "2026-08-02T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 85,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "6 to 12 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 85. South wind 6 to 12 mph."
             }
         ]
     },
-    "weather_report": "As twilight approaches in Boston, the air hangs heavy with warmth, enveloped by a canopy of mostly cloudy skies. The temperature, holding around a comfortable 87 degrees, invites an easeful spirit, while a gentle south wind provides an almost imperceptible whisper across the city\u2019s vibrant streets. Yet, there\u2019s an unspoken promise from the clouds above, hinting at a slight chance of light rain\u2014just enough to refresh the rooftops and sidewalks, without dampening the evening\u2019s potential.\n\nAs you wander Boston's neighborhoods, the soft glow of streetlights begins to twinkle against the backdrop of a lingering sunset, making it a perfect evening for casual strolls along the Charles River or perhaps indulging in a leisurely dinner at a sidewalk caf\u00e9. Dress in light layers; a breezy shirt may suffice for the warm afternoon, while a light jacket could serve as a comforting companion for the cooler night air. Embrace the day's clouded tranquility\u2014ideal for unwinding with a quiet book or simply observing the slow rhythm of life play out in this historic city. As the patterns of clouds shift, let this moment linger, filled with the gentle allure of late summer mingling softly with the promise of rain.",
-    "color_code": "#A9CBA3",
-    "timestamp": "2026-08-01 17:00:18"
+    "weather_report": "As the evening deepens in Boston, a gentle cloak of clouds settles over the city, casting a soft, muted light that hints at the warmth yet to come. The night air approaches a comfortable warmth around 68 degrees, with a whispering southwest breeze. This atmosphere invites one to stroll beneath the enigmatic night sky, perhaps along the waterfront, where the lapping waters mirror the scattered lights that twinkle like distant stars. \n\nTomorrow unfolds with mostly cloudy skies, the day promising to brush against the mid-80s. It's a day that beckons for leisurely pursuits, whether that means languishing in a local caf\u00e9, indulging in the simple joys of good company and fresh pastries, or taking to the shaded paths of one of the city\u2019s many parks. Opt for light layers\u2014a breathable shirt accompanied by comfortable shorts\u2014to savor the warmth without succumbing to the heat. This fleeting summer day is not to be rushed; it invites moments of reflection, conversation, and easy laughter among friends. A quiet adventure awaits in the heart of the city, where the mundane transforms into the profound under the watchful gaze of the drifting clouds.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2026-08-01 23:32:42"
 }
