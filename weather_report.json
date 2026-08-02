@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-02T09:40:00+00:00",
-            "temperature_f": 69.8,
-            "temperature_c": 21,
-            "humidity": 94.018757001038,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 180,
-            "description": "Clear"
+            "timestamp": "2026-08-02T13:15:00+00:00",
+            "temperature_f": 77.0,
+            "temperature_c": 25,
+            "humidity": 78.497647216551,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-08-02T05:00:00-04:00",
-                "endTime": "2026-08-02T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 69,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 69. South wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-08-02T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-08-02T09:00:00-04:00",
                 "endTime": "2026-08-02T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 85,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 6
                 },
-                "windSpeed": "6 to 12 mph",
+                "windSpeed": "8 to 12 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 85. South wind 6 to 12 mph."
+                "detailedForecast": "Partly sunny, with a high near 85. South wind 8 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-08-02T18:00:00-04:00",
+                "endTime": "2026-08-03T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 70,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 67
+                },
+                "windSpeed": "5 to 12 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,30/tsra,70?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of showers and thunderstorms between 9pm and 1am, then patchy fog and showers and thunderstorms likely between 1am and 3am, then patchy fog and showers and thunderstorms. Mostly cloudy, with a low around 70. South wind 5 to 12 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "The dawn breaks over Boston, shrouded in a gentle veil of gray, where the warmth of the summer night lingers just above a comfortable 69 degrees. As the sun begins its ascent, the air remains cloaked in a soft embrace, with the whispers of a light south wind guiding those who venture outside. While morning dew still clings to the grass, the promise of a brighter day lies ahead; the clouds will gradually part to reveal an inviting warmth near 85 degrees by midday.\n\nDespite the early haze, the potential for a lovely Sunday unfolds\u2014a day perfect for simple pleasures. Embrace light and breathable fabrics to match the evolving climate; perhaps a soft cotton shirt and a pair of airy shorts will do nicely. Stroll along the Charles River, allowing yourself to be enveloped by the vibrancy of the city as it awakens. A visit to a local caf\u00e9 for a warm cup of coffee can provide a cozy start before the sunshine encourages a shift towards outdoor activities later in the day. Whether it\u2019s a leisurely afternoon at the park or a gentle bike ride through the city\u2019s trails, this day beckons for a celebration of summer's fleeting beauty.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-08-02 06:01:49"
+    "weather_report": "In Boston today, the skies bear a quilt of cloud cover with a hint of warmth lingering, as the day warms toward a comfortable mid-eighties. The south wind stirs gently, coaxing a slight movement through the streets and parks, inviting those curious enough to venture outside. The sunlight breaks through at times, casting soft shadows and lifting spirits momentarily, though the looming clouds suggest a transition is on the horizon.\n\nAs twilight approaches, the atmosphere morphs, promising a chance of showers and thunderstorms that may arrive like uninvited guests\u2014from 9 in the evening onward, bringing with them patches of fog and the lingering scent of rain. There\u2019s a 70% chance of precipitation, hinting at a night where the air will chill slightly, draping the city in a heavy yet soothing embrace. For the discerning, dressing in layers may be advisable; a light jacket or an umbrella could serve well against the anticipated dampness. In these conditions, one might find solace in the comfort of a cozy caf\u00e9, a good book in hand, or perhaps an evening walk, the clouds overhead perfect companions as the sky darkens and the rain dances upon the pavement.",
+    "color_code": "#A3B5E0",
+    "timestamp": "2026-08-02 09:40:11"
 }
