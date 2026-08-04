@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-03T21:00:00+00:00",
-            "temperature_f": 77.0,
-            "temperature_c": 25,
-            "humidity": 88.67956137467,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 190,
-            "description": "Cloudy"
+            "timestamp": "2026-08-04T03:00:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 82.990398777177,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 270,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-03T17:00:00-04:00",
-                "endTime": "2026-08-03T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 80,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 39
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,40?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a chance of showers and thunderstorms. Mostly cloudy, with a high near 80. South wind around 14 mph, with gusts as high as 26 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-08-03T18:00:00-04:00",
+                "startTime": "2026-08-03T23:00:00-04:00",
                 "endTime": "2026-08-04T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 3
                 },
-                "windSpeed": "7 to 13 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,60/sct?size=medium",
-                "shortForecast": "Patchy Fog then Partly Cloudy",
-                "detailedForecast": "Patchy fog and showers and thunderstorms likely before 7pm, then patchy fog and a chance of showers and thunderstorms between 7pm and 9pm. Partly cloudy, with a low around 61. Southwest wind 7 to 13 mph, with gusts as high as 26 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "windSpeed": "9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 61. West wind around 9 mph. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-08-04T06:00:00-04:00",
+                "endTime": "2026-08-04T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 85,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 85. West wind around 7 mph."
             }
         ]
     },
-    "weather_report": "The late afternoon in Boston unfolds with a gentle embrace of hazy clouds, painting the skyline with an enigmatic aura. A veil of patchy fog hangs lightly over the city, mingling with the remnants of earlier showers and the anticipated dance of thunderstorms. With temperatures hovering near a warm 80 degrees, one will feel a mild thrum of humidity while breezes from the south stir reassuringly, punctuated by gusts that carry a hint of adventure. As the sun begins its slow descent, the forecast insists on a lingering chance of rain, a melody of droplets tapping delicately against windows or perhaps splashing onto the pavement.\n\nAs the evening softens from the day\u2019s warmth, consider dressing in layers that can adapt to the evolving conditions\u2014a lightweight jacket or shawl might be wise, offering comfort against the cooler air that settles in as twilight approaches. The promise of a picturesque night could still beckon, with quiet strolls along the riverbanks or cozy gatherings in local cafes inviting you to linger. Simple pleasures, like curling up with a book or sharing stories with a friend over warm beverages, will fruitfully align with the rhythmic pulse of the weather, reflecting the tender balance between the lingering humidity and the softening breeze.",
-    "color_code": "#A3B1C4",
-    "timestamp": "2026-08-03 17:10:06"
+    "weather_report": "As night embraces Boston, the sky remains mostly clear, revealing a calm serenity. The air is gently kissed by the west winds, whispering at around nine miles per hour, and the temperature nestles around a comfortable 61 degrees. Although a slight chance of rain lingers in the air, any moisture is likely to be negligible, leaving the evening inviting and mild.\n\nBut the dawn brings more than just the promise of a new day; the forecast reveals a sunny Tuesday, with the mercury rising to near 85. A gentle breeze will tame the warmth, creating a pleasant backdrop for the day\u2019s activities. Given the clear outlook ahead, one might consider dressing in light layers, opting for breathable fabrics to bask in the anticipated sunshine. Picture a stroll through the Public Garden or perhaps a leisurely coffee at a sidewalk cafe, where the world unfolds gently around you, inviting each moment to be savored rather than rushed. There\u2019s a quiet beauty in embracing the simplicity of a sunny day, allowing the gentle warmth to guide you through the hours ahead, as Boston awakens.",
+    "color_code": "#FFD700",
+    "timestamp": "2026-08-03 23:15:32"
 }
