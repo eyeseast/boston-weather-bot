@@ -7,37 +7,18 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-04T06:20:00+00:00",
-            "temperature_f": 60.8,
-            "temperature_c": 16,
+            "timestamp": "2026-08-04T10:25:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
             "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-08-04T02:00:00-04:00",
-                "endTime": "2026-08-04T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 61,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 61. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
+                "name": "Today",
                 "startTime": "2026-08-04T06:00:00-04:00",
                 "endTime": "2026-08-04T18:00:00-04:00",
                 "isDaytime": true,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny, with a high near 85. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-08-04T18:00:00-04:00",
+                "endTime": "2026-08-05T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 63. Southwest wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As Boston settles into a tranquil night, the air is clear and calm, with a gentle west wind caressing the streets and whispering through the leaves. The temperature has dipped pleasantly to a comfortable low, inviting a sense of serenity as the city basks in the quiet embrace of evening. With dawn on the horizon, tomorrow promises to unfold like a bright tapestry, as the sun will greet the day with delightful warmth, rising to a high that suggests outdoor adventures await.\n\nThose eager to venture out will find the day inviting and vibrant, perfect for leisurely strolls along the Charles River or perhaps a visit to one of Boston's charming caf\u00e9s for a morning cup of coffee. Attire should be comfortably casual, perhaps a light sweater for the morning chill, giving way to breathable fabrics as the sun warms the cobblestone streets. One might even consider a picnic in one of the city parks, soaking in the sun's rays and enjoying the gentle breeze while watching the world go by in a lovely display of summer life. With the clarity of the day, every sight invites exploration, urging both locals and visitors to bask in the beauty that a Boston summer day lovingly offers.",
-    "color_code": "#FFD700",
-    "timestamp": "2026-08-04 02:31:49"
+    "weather_report": "In Boston this morning, a gentle light unfurls across the horizon, its warmth begging to be felt. The forecast promises a sunny day, reaching towards a comfortable warmth, with whispers of a westward breeze that carries the scent of summer. The air is fresh, marked by clarity; absent are the hazy veils that sometimes shroud the skyline. Tonight, as the sun retreats, clouds may playfully dance across the sky, but those tranquil moments are still hours away.\n\nNow is a perfect time to step out. Light layers would be wise\u2014perhaps a short-sleeved shirt paired with a light cardigan\u2014allowing one to embrace the day, whether strolled through the Commons or tucked away in one of the city\u2019s charming cafes. For the adventurous soul, a leisurely walk along the Charles River would be rewarding, each step marked by the soft murmur of water mingling with laughter and sounds of summer life. Let the heart wander through the city\u2019s historic streets, where whispers of the past intertwine seamlessly with the vibrant present.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-08-04 06:44:31"
 }
