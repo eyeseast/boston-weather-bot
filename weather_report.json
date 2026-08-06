@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-05T20:50:00+00:00",
-            "temperature_f": 82.4,
-            "temperature_c": 28,
-            "humidity": 51.245730319259,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 260,
+            "timestamp": "2026-08-06T03:00:00+00:00",
+            "temperature_f": 73.4,
+            "temperature_c": 23,
+            "humidity": 68.96917974782,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 200,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-05T17:00:00-04:00",
-                "endTime": "2026-08-05T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 88,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 88. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-08-05T18:00:00-04:00",
+                "startTime": "2026-08-05T23:00:00-04:00",
                 "endTime": "2026-08-06T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 70,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 3
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 70. Southwest wind around 7 mph."
+                "detailedForecast": "Partly cloudy, with a low around 70. Southwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-08-06T06:00:00-04:00",
+                "endTime": "2026-08-06T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 91,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 11
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 91. Heat index values as high as 100. Southwest wind 5 to 8 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds with a gentle warmth, a comforting embrace tinged with a hint of sun-dappled joy. Clarity reigns above, with the sky boasting an inviting expanse of partly sunny hues, promising a high that flirts with the 88-degree mark\u2014a fine day indeed. As the sun sinks lower, the surroundings exude a tranquil energy, with the soft whispers of a southwest breeze nudging along at a pleasant pace, inviting those who wander outside to revel in the atmosphere. Tonight, a quilt of partly cloudy skies will envelop the city, ushering in an evening that holds the promise of a sultry warmth lingering around 70 degrees, an invitation to relaxation under the evening stars.\n\nFor today\u2019s attire, consider the soft touch of breathable fabrics, perhaps a light cotton shirt paired with comfortable shorts or a flowy skirt, allowing your skin to bask in the gentle warmth while remaining unencumbered. A light sweater may be your companion for later, should the nighttime bring a cooler breath. Activities could range from leisurely strolls along the Charles River, letting your gaze linger on the shimmering waters, to catching up with an old friend over iced coffee at a charming caf\u00e9 corner\u2014an endeavor driven not just by the thirst for refreshment, but by the pleasure of connection savoring the season\u2019s riches. Such a day beckons with a promise of simple joys, perfect for absorbing the languid charm of New England summer.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-08-05 17:16:53"
+    "weather_report": "As night falls over Boston, a gentle calm blankets the city, the air holding a warm embrace with temperatures settling around a comfortable 70 degrees. Beneath a canopy of scattered clouds, the lights of the urban landscape twinkle like distant stars, illuminating the streets below with a soft glow. A wisp of a southwest breeze plays through the evening, whispering promises of a sultry day ahead.\n\nTomorrow, Boston will awaken to a brilliant canvas of sunshine, the forecast revealing a high near 91 degrees, and with it, a heat index creeping towards the 100-degree mark. The warmth will carry a weight, urging the conscious mind to navigate the day with both awareness and ease. In such conditions, light fabrics\u2014perhaps a loose linen shirt paired with breathable shorts\u2014will offer solace against the sun\u2019s intense embrace. The haze of warmth suggests a day of mingling pleasures and simple pursuits; a leisurely stroll along the waterfront in the early morning hours, when the sun is still shy and the air carries a hint of freshness. Later, as the hours crescendo in warmth, a shaded caf\u00e9 offers respite, where one might indulge in the slow joy of iced coffee, listening to laughter and the soft clinking of glasses. \n\nThis forecast, with its promise of warmth and clarity, invites one to savor the simple pleasures that life has to offer: a lazy afternoon spent amongst friends or perhaps a quiet moment with a book in a sunny nook, allowing the day to unfurl in continued warmth and light.",
+    "color_code": "#FFD700",
+    "timestamp": "2026-08-05 23:13:59"
 }
