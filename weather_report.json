@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-08T08:25:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 83.223812842562,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-08-08T16:25:00+00:00",
+            "temperature_f": 87.8,
+            "temperature_c": 31,
+            "humidity": 58.813923696437,
+            "wind_speed_mph": 37.286316,
+            "wind_direction": 230,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-08-08T04:00:00-04:00",
-                "endTime": "2026-08-08T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 73,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 13
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 73. Southwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-08-08T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-08-08T12:00:00-04:00",
                 "endTime": "2026-08-08T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 89,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 14
+                    "value": 1
                 },
-                "windSpeed": "5 to 9 mph",
-                "windDirection": "SW",
+                "windSpeed": "9 to 13 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 89. Heat index values as high as 96. Southwest wind 5 to 9 mph."
+                "detailedForecast": "Mostly sunny, with a high near 89. Heat index values as high as 96. West wind 9 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-08-08T18:00:00-04:00",
+                "endTime": "2026-08-09T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 73,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 33
+                },
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/sct?size=medium",
+                "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
+                "detailedForecast": "A chance of showers and thunderstorms between 8pm and 10pm. Partly cloudy, with a low around 73. West wind 5 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As night surrenders to dawn in Boston, a gentle veil of clouds drifts languidly across the sky. The air is warm, clinging to the balmy embrace of a summer evening that lingers longer than it should, with a serene low around 73. The southwest winds whisper softly, stirring a sense of calm in this bustling city, where the lights flicker like distant stars coming to terms with the coming day.\n\nCome Saturday, expect a radiant transformation as the sun stretches its golden arms, promising a high near 89. The day will unfurl brightly, though the warmth may feel intensified, beckoning a heat index that soars to 96. It will be a day to celebrate sunlight and enjoy the vibrancy of summer, yet one must heed the higher temperatures. Dress comfortably, perhaps in light cottons that breathe as you wander through the city's nooks or relax at an outdoor caf\u00e9. With such splendid weather, consider a leisurely stroll through the Public Garden or perhaps a gentle bike ride along the Charles River paths, where the water mirrors the sky's blue and invites a moment of reflection amidst the lively pace of the day.",
-    "color_code": "#F0E68C",
-    "timestamp": "2026-08-08 04:48:59"
+    "weather_report": "As the afternoon unfolds over Boston, the sun bestows a golden warmth upon the city, inviting spirits outdoors. With a high nearing 89, the air carries a palpable energy, but a swift breeze from the west serves as a gentle reminder to remain hydrated and seek shade amidst the brightness. The sky is a brilliant canvas, punctuated by fluffy clouds that dance lazily across the horizon\u2014an invitation to linger in the green spaces, perhaps with a good book or in good company. \n\nAs twilight approaches, there\u2019s a whisper of impending change with a chance of showers and thunderstorms. Clouds may gather and shift between 8 and 10 PM, bringing that soft, perhaps unsought, rhythm of rain, making it a perfect evening to cherish home, embracing warmth indoors with the comforting aroma of brewed tea. Attire should reflect the balance of warmth and coolness: light clothing for the day, layered just enough to ward off the evening chill. A stroll along the Charles might beckon, though the excitement of a cozy indoor evening could serve as an equally compelling option.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2026-08-08 12:39:49"
 }
