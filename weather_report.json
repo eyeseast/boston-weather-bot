@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-07T20:30:00+00:00",
-            "temperature_f": 91.4,
-            "temperature_c": 33,
-            "humidity": 49.398242289998,
+            "timestamp": "2026-08-08T01:40:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 88.599352571993,
             "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 230,
-            "description": "Mostly Clear"
+            "wind_direction": 200,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-07T16:00:00-04:00",
-                "endTime": "2026-08-07T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 93,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 8
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 93. Heat index values as high as 98. West wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-08-07T18:00:00-04:00",
+                "startTime": "2026-08-07T21:00:00-04:00",
                 "endTime": "2026-08-08T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 73,
@@ -49,14 +30,33 @@
                     "value": 27
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct/tsra_hi,30?size=medium",
-                "shortForecast": "Partly Cloudy then Chance Showers And Thunderstorms",
-                "detailedForecast": "A chance of rain showers between midnight and 3am, then a chance of showers and thunderstorms. Partly cloudy, with a low around 73. Heat index values as high as 96. West wind around 5 mph. Chance of precipitation is 30%."
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/tsra_hi,30?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Showers And Thunderstorms",
+                "detailedForecast": "A chance of rain showers between midnight and 3am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 73. Southwest wind around 5 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-08-08T06:00:00-04:00",
+                "endTime": "2026-08-08T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 89,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 23
+                },
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
+                "shortForecast": "Slight Chance Showers And Thunderstorms",
+                "detailedForecast": "A slight chance of showers and thunderstorms before 8am, then a slight chance of showers and thunderstorms. Mostly sunny, with a high near 89. Southwest wind 5 to 9 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds with a refreshing vibrancy under a mostly clear sky, bathed in golden sunlight that teeters on the brink of heat. The warmth wraps around you like a comforting embrace, pushing temperatures toward 93, yet the heat index whispers of an intensity that feels closer to 98 with each movement. The horizon is a canvas of soft, billowy clouds, casting gentle shadows over the landscape, though their presence does little to diminish the overall brilliance of the day.\n\nAs evening descends, the atmosphere shifts subtly, with hints of a possible shower or thunderstorm lingering on the horizon, embracing the humidity that clings to the night air. A temperature drop to around 73 suggests a more temperate evening, yet heat index values persist, encouraging a careful choice of attire\u2014light layers that keep you cool in the warmth but warm enough for a possible damp chill after a rain. This is not a day for grand adventures; rather, consider a leisurely stroll through the avenues or a quiet visit to a neighborhood caf\u00e9, where the murmur of conversation mingles with the soothing sounds of ice clinking in chilled glasses. Enjoy the day, savor the moments, and remain watchful as the sky prepares to release its blessings, transforming the familiar, bustling city into a serene retreat.",
-    "color_code": "#FFCC66",
-    "timestamp": "2026-08-07 16:48:00"
+    "weather_report": "As the evening settles over Boston, a subtle atmosphere cloaks the city, hinting at the possibility of rain as the hours slip into the night. The clouds linger, hinting at a brief interlude with the refreshing touch of a shower or perhaps a gentle rumble of thunder between midnight and three. The temperatures cradle comfortably in the low seventies, a soft breeze whispering through urban canyons. As the night deepens, the hint of precipitation looms with a 30% chance, leaving a promise of moisture hanging in the air, a soft reminder of summer's embrace before the dawn.\n\nLooking ahead to Saturday, the sun will break through the clouds, offering mostly sunny skies that invite the warmth of mid-August. With a high near 89, the day is poised to embrace you with its heat, while the possibility of scattered showers and thunderstorms lingers lightly in the background. Clad in breathable fabrics, a simple t-shirt and airy shorts, complemented by comfortable sandals, will serve you well. As the humidity wraps around you, consider seeking refuge in spaces that offer cool air or perhaps savor lunch al fresco under the shade of leafy trees. Should the thunder rumble, a cozy caf\u00e9 or a charming bookstore could be ideal for basking in the characters and stories that unfold within. As the sunlight tiptoes across the horizon, let the day guide you towards simple pleasures that echo the beauty of an easy summer weekend.",
+    "color_code": "#F0E68C",
+    "timestamp": "2026-08-07 21:59:38"
 }
