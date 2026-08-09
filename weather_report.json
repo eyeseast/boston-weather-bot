@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-08T20:20:00+00:00",
-            "temperature_f": 89.6,
-            "temperature_c": 32,
-            "humidity": 52.265453703063,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 260,
-            "description": "Mostly Clear"
+            "timestamp": "2026-08-09T01:50:00+00:00",
+            "temperature_f": 77.0,
+            "temperature_c": 25,
+            "humidity": 65.145510455717,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 240,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-08T16:00:00-04:00",
-                "endTime": "2026-08-08T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 90,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 10
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 90. Heat index values as high as 98. West wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-08-08T18:00:00-04:00",
+                "startTime": "2026-08-08T22:00:00-04:00",
                 "endTime": "2026-08-09T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 71,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 32
+                    "value": 4
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "6 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 71. Southwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-08-09T06:00:00-04:00",
+                "endTime": "2026-08-09T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 91,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
+                },
+                "windSpeed": "6 to 10 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/sct?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms then Partly Cloudy",
-                "detailedForecast": "A slight chance of rain showers between 7pm and 8pm, then a chance of showers and thunderstorms between 8pm and 10pm. Partly cloudy, with a low around 71. Heat index values as high as 95. West wind 5 to 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 91. West wind 6 to 10 mph. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "Boston basks in the warm embrace of a late afternoon sun, its skies a patchwork of gentle clouds and azure. The temperature edges towards the high nineties, reminding all who venture outdoors of summer's lingering vitality, yet the heat envelops the city with a palpable weight, evoking a quiet urgency to find coolness where one can. As dusk approaches, the promise of rain dances on the horizon, coaxing a slight unease; yet, for the moment, the city pulses with life, its charm unshaken.\n\nDressing for these balmy conditions suggests light fabrics that breathe, perhaps a linen shirt paired with comfortable shorts or a flowing dress that shields against the heat but allows for a breezy reprieve. As evening falls, potential showers and thunderstorms loom like romantic protagonists waiting for their moment; carry an umbrella just in case, but perhaps hold off on any grand outdoor plans. Instead, consider meandering to a nearby caf\u00e9, where conversations mingle with the aroma of fresh coffee, or find solace in one of Boston's delightful bookstores, where the pages of new adventures await just as much as the sky prepares for its evening curtain of storms.",
-    "color_code": "#F2A900",
-    "timestamp": "2026-08-08 16:36:05"
+    "weather_report": "As the night deepens over Boston, the sky remains predominantly clear, softly illuminated by the scattered lights of the city below. A gentle southwest breeze caresses the air, carrying hints of warmth as it whispers through the quiet neighborhoods. With the temperature settling around a comfortable 71 degrees, it invites an evening of casual strolls and relaxed conversation in the cool, comforting embrace of late summer.\n\nTomorrow promises a sunlit embrace, with the horizon poised to bask in a vibrant 91 degrees as the day unfolds. With a warm west wind nudging the air, it will be an exquisite day for outdoor pursuits\u2014perhaps a leisurely visit to the local park or a quiet moment spent sipping coffee on a sunlit patio. Dressing in light fabrics and donning sunglasses will be essential to chase away the rising heat, as the sun encourages revelry in the beauty of midsummer. As the sun rises and sets, Boston will thrive, offering a gentle reminder of the serene allure of these summer nights and days, each moment bathed in the golden glow of perfect weather.",
+    "color_code": "#F0E68C",
+    "timestamp": "2026-08-08 22:07:43"
 }
