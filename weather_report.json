@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-10T05:10:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 93.884545007364,
+            "timestamp": "2026-08-10T13:05:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 69.163192099994,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-08-10T01:00:00-04:00",
-                "endTime": "2026-08-10T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 67. Northwest wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2026-08-10T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-08-10T09:00:00-04:00",
                 "endTime": "2026-08-10T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 91,
@@ -49,14 +30,33 @@
                     "value": 1
                 },
                 "windSpeed": "2 to 7 mph",
-                "windDirection": "SW",
+                "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/hot?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 91. Southwest wind 2 to 7 mph. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "Mostly sunny, with a high near 91. South wind 2 to 7 mph. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-08-10T18:00:00-04:00",
+                "endTime": "2026-08-11T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 70,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 28
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/sct?size=medium",
+                "shortForecast": "Chance Rain Showers then Partly Cloudy",
+                "detailedForecast": "A chance of rain showers between 10pm and 11pm. Partly cloudy, with a low around 70. Southwest wind around 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night envelops the Boston skyline, a gentle stillness reigns, punctuated only by the soft glow of distant urban lights. The air is warm and tranquil, an indication of the comfortable day that lies ahead. The forecast promises a delightful embrace of sunshine, warming the city to a near-summer peak as lively hues dance across the horizon. With a gentle breeze whispering through the trees, the day encourages outdoor wanderings\u2014perhaps a stroll along the Charles River or a visit to one of the local parks to savor a moment of peace amidst the pleasant bustle.\n\nAs the sun ascends the sky, luminescence will replace the calm darkness of the night. Embracing the warmth of the day ahead, consider dressing in light layers\u2014perhaps a breathable fabric to allow for comfort in the afternoon\u2019s heat, complemented by a hat to shield against the sun. This is a day for quiet enjoyment, whether you choose to read on a park bench, savor a coffee at a charming caf\u00e9, or seek the lively sounds of conversation at a farmers' market. The air promises to be clear, allowing the beauty of the city to unfold, making it an exquisite occasion to be outside, soaking in the vibrancy that embodies a Boston summer.",
-    "color_code": "#FFD700",
-    "timestamp": "2026-08-10 01:37:37"
+    "weather_report": "As the sun rises over Boston this August morning, a warm embrace of late summer lingers in the air. Currently, the sky displays a gentle canvas of mostly sunny brilliance. The day promises to reach a comfortable 91 degrees, shrouded with light winds from the south, adding just a touch of warmth to the atmosphere. The air carries an invitation for outdoor exploration, although a sprinkle of rain may brush the city later this evening, urging one to keep an umbrella close by.\n\nFor those contemplating attire, lightweight fabrics in soft greens or blues will mirror the tranquil hues of the day while allowing for breathable comfort. Given the allure of sunshine, a stroll along the Charles River or a visit to the Boston Public Garden could yield moments of quiet reflection, punctuated by the sounds of nature reclaiming its space. The day's warmth and slight chance of rain present a perfect backdrop for a leisurely afternoon at a local cafe, sipping iced tea while delighting in the simple joys of life. As the hour draws close to dusk, gather with friends outdoors, enjoying the summer evening, before the clouds potentially veil the last glow of the sun.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-08-10 09:20:31"
 }
