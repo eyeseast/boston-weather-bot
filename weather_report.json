@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-11T08:35:00+00:00",
-            "temperature_f": 69.8,
-            "temperature_c": 21,
-            "humidity": 82.990398777177,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 240,
+            "timestamp": "2026-08-11T13:00:00+00:00",
+            "temperature_f": 78.8,
+            "temperature_c": 26,
+            "humidity": 69.54626593683,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 250,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-08-11T04:00:00-04:00",
-                "endTime": "2026-08-11T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 70. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-08-11T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-08-11T09:00:00-04:00",
                 "endTime": "2026-08-11T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 89,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "6 to 10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 89. West wind 6 to 10 mph."
+                "windSpeed": "10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 89. Northwest wind around 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-08-11T18:00:00-04:00",
+                "endTime": "2026-08-12T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "2 to 9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 67. Northwest wind 2 to 9 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over the horizon, Boston wakes beneath a mostly clear blanket of sky. The temperatures cradle around a gentle 70 degrees, whispering promises of warmth that will soon unfurl. A soft west wind stirs, offering just a hint of movement, a breath among stillness. With the sun poised to rise, the day ahead guarantees a splendid embrace of sunshine, beckoning residents to shed the remnants of slumber and venture into the tantalizing warmth that promises to envelop them as the afternoon approaches, bringing highs near 89 degrees.\n\nWhat lies ahead is an exquisite opportunity to savor the pleasures of a late summer day. One might consider donning light, breathable fabrics that dance with the light breeze, perhaps a well-loved cotton shirt or airy dress, perfectly complemented by a wide-brimmed hat to shield against the bright sun. A stroll through one of Boston\u2019s neighborhoods, where the scent of fresh coffee mingles with the floral notes of late-blooming gardens, is an enticing prospect. Alternatively, a quiet moment spent reading on a sunlit bench in the Public Garden could offer solace, allowing one to bask in the gentle rustle of leaves overhead. So, as day unfolds, take a breath, step outside, and embrace the simple joys that such a luminous canvas presents.",
-    "color_code": "#F3C28A",
-    "timestamp": "2026-08-11 05:04:05"
+    "weather_report": "In Boston today, the sun casts its warm embrace across the city, promising a delightful summer day. A gentle Northwest breeze dances through the air, stirring the warmth just enough to keep one cool without the chill. With a high creeping toward the inviting 89 degrees, there is an unmistakable feeling of energy, urging one to venture out. The sky holds a soft blue expanse, unmarred by clouds, suggesting clarity and a promise of long vistas from high places.\n\nAs evening approaches, the comfort of a partly cloudy sky will wrap around the city, cooling down to a pleasant 67 degrees. With the gentle wind subsiding to a whisper, it\u2019s an ideal opportunity to indulge in the simple pleasures of life. Today\u2019s attire should reflect this fusion of warmth and subtlety\u2014perhaps a pair of lightweight trousers coupled with a crisp short-sleeved shirt, with a light cardigan on hand for the evening. Venture outside to stroll along the Charles River, where the sunset casts golden hues upon the water, reflecting a city at ease. Alternatively, find a quiet caf\u00e9 terrace where one might sip a cool drink, observing the daily ebb and flow of city life as the shadows stretch long into the evening.",
+    "color_code": "#A9C2DA",
+    "timestamp": "2026-08-11 09:17:21"
 }
