@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-12T20:30:00+00:00",
-            "temperature_f": 82.4,
-            "temperature_c": 28,
-            "humidity": 39.618074047441,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 280,
+            "timestamp": "2026-08-13T01:55:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 82.752266062258,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-12T16:00:00-04:00",
-                "endTime": "2026-08-12T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 85,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 85. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-08-12T18:00:00-04:00",
+                "startTime": "2026-08-12T22:00:00-04:00",
                 "endTime": "2026-08-13T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 66,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 32
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after midnight. Mostly cloudy, with a low around 66. Southwest wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/ovc/rain_showers,30?size=medium",
+                "shortForecast": "Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after midnight. Cloudy, with a low around 66. Southwest wind around 3 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-08-13T06:00:00-04:00",
+                "endTime": "2026-08-13T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 83,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 28
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/tsra_sct,30?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers before 3pm, then a chance of showers and thunderstorms. Mostly cloudy, with a high near 83. Southwest wind 3 to 8 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston, the skies above are an inviting blend of warmth and gentle winds, hinting at a high that will touch the pleasant edge of the mid-80s. The sun peeks through wisps of clouds, casting soft shadows that dance across the landscape. This moment, wrapped in the embrace of a Northwest breeze, feels like a friendly reminder of summer's lingering charm. As night approaches, however, the clouds will gather once again, brushing the horizon with a hint of rain. The air will carry a gentle heaviness, with a slight chance of showers after midnight, perhaps coaxing those of us wandering outside to find shelter under an awning or indulge in a cozy caf\u00e9 for an evening drink. \n\nDressing in light layers is advisable today; a comfortable short-sleeved shirt paired with breathable trousers will serve well until evening's onset. A light jacket may be wise as you step into the night, ready for Mother Nature\u2019s playful whims. Given these conditions, consider meandering through one of Boston's many parks, where the shadows of trees offer cool respite. Alternatively, you might enjoy a quiet evening stroll along the waterfront, where the gentle sound of waves mingles with the night air, providing a serene backdrop for reflection or connection with a companion.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-08-12 16:51:56"
+    "weather_report": "As twilight descends upon Boston, the night envelops the city in a veil of quiet anticipation, marked by the distant glow of urban lights peeking through a shroud of cloudiness. With temperatures resting comfortably around the mid-60s, the air carries a subtle humidity, hinting at the possibility of a few raindrops lingering on the horizon. This evening may usher in a gentle drizzle after midnight, casting a romantic ambiance perfect for cozy conversations or the tranquility of a solo evening walk beneath the muted glow of streetlamps.\n\nLooking ahead to tomorrow, the day promises a continuation of this mixed fare. Expect more gray skies and lingering humidity, with temperatures nudging into the low 80s. A chance of showers and perhaps a rumble of thunder could punctuate the afternoon, urging residents to keep umbrellas within reach. For those venturing outside, a lightweight jacket paired with comfortable layers will provide the perfect balance against the coolness of early morning and the warmth that may unfold during the day. Consider indulging in a leisurely lunch at a local caf\u00e9, where the cozy atmosphere can be savored while listening to the gentle patter of rain\u2014a simple pleasure allowing for introspection or warm camaraderie.",
+    "color_code": "#6B6A5C",
+    "timestamp": "2026-08-12 22:25:40"
 }
