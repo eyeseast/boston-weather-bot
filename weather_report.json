@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-13T16:40:00+00:00",
-            "temperature_f": 82.4,
-            "temperature_c": 28,
-            "humidity": 51.245730319259,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 280,
-            "description": "Mostly Clear"
+            "timestamp": "2026-08-14T01:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-13T13:00:00-04:00",
-                "endTime": "2026-08-13T18:00:00-04:00",
+                "name": "Tonight",
+                "startTime": "2026-08-13T22:00:00-04:00",
+                "endTime": "2026-08-14T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 63. Northwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-08-14T06:00:00-04:00",
+                "endTime": "2026-08-14T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 83,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 23
+                    "value": 4
                 },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers. Mostly sunny, with a high near 83. West wind around 7 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-08-13T18:00:00-04:00",
-                "endTime": "2026-08-14T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 18
-                },
-                "windSpeed": "7 mph",
+                "windSpeed": "6 to 10 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/few?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Mostly Clear",
-                "detailedForecast": "A slight chance of rain showers before 8pm. Mostly clear, with a low around 64. Northwest wind around 7 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 83. Northwest wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the air is imbued with a gentle warmth, as the sun embraces the city beneath a canvas of scattered clouds. A hint of fateful rain lingers in the air, but it seems more a distant whisper than a promise. With temperatures flirting near 83 degrees, the day invites you outside, encouraging a leisurely stroll along the Charles River or a visit to the verdant confines of a local park. The westward breeze, light and refreshing, carries with it the aroma of summer and the laughter of children playing, providing a serene backdrop to the city\u2019s vibrant heartbeat.\n\nAs twilight approaches, the charm of Boston only deepens. The colors of the sunset will dance playfully on the horizon, softening any lingering worries of rain showers before nightfall. With a low around 64 degrees, the evening promises to be a tender embrace, ideal for wrapping yourself in a light sweater or shawl. Consider gathering with friends at an outdoor caf\u00e9, sipping on a chilled drink while the sun\u2019s final rays play hide-and-seek behind the buildings. For those with a penchant for simple pleasures, an evening walk through the cobblestone streets speaks to the soul, allowing one to savor the rhythm of a city that never truly sleeps.",
-    "color_code": "#A1C8E0",
-    "timestamp": "2026-08-13 13:00:36"
+    "weather_report": "As night settles over Boston, the air is still and devoid of the day's usual bustle, resting comfortably around 63 degrees. The northwest wind whispers gently, nudging clouds to reveal a canvas of stars, as city lights twinkle like distant constellations. Tonight invites a serene calm, perfect for a leisurely stroll along the Charles River or perhaps a quiet moment on a favorite balcony, where one can sip a warm drink and reflect on the day's gone by.\n\nTomorrow, the sun will rise to cast golden rays across the city, promising a bright and balmy day. With temperatures soaring to around 83, sunshine will dominate the sky, and the gentle breeze will be refreshingly present. It\u2019s a fine opportunity to indulge in the simple pleasures of summer. Attire of breathable fabrics and cheerful colors would suit the mood nicely. You might find delight in a visit to one of the local farmers' markets, exploring the fresh produce as life in the city bursts forth with vibrancy. Alternatively, seek out the shade of a favorite park, a place where laughter and lightness flourish under the harmonious dance of summer.",
+    "color_code": "#FFD700",
+    "timestamp": "2026-08-13 22:24:21"
 }
