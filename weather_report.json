@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-15T00:55:00+00:00",
-            "temperature_f": 68.0,
-            "temperature_c": 20,
-            "humidity": 68.377043112712,
+            "timestamp": "2026-08-15T03:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-08-14T21:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-08-15T00:00:00-04:00",
                 "endTime": "2026-08-15T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 13
+                    "value": 0
                 },
                 "windSpeed": "5 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 59. North wind around 5 mph."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 59. North wind around 5 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-08-15T06:00:00-04:00",
                 "endTime": "2026-08-15T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 80,
+                "temperature": 81,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 1
                 },
                 "windSpeed": "6 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 80. North wind around 6 mph."
+                "detailedForecast": "Sunny, with a high near 81. North wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the day surrenders to twilight in Boston, the air is still, with only a gentle murmur of the north wind brushing past. Clouds retreat to reveal a canvas of stars, their timid flickers mirroring the distant city lights that stretch across the skyline. The temperature drifts comfortably around fifty-nine degrees, enveloping the evening in a pleasant embrace. Those stepping out might find themselves dressed in a light sweater, the perfect companion to the mild night air\u2014a harbinger of the warm day that waits on the morrow.\n\nAnticipate a splendid Saturday bathed in sunlight, where the golden rays are set to ignite the city, pushing the temperature toward eighty degrees. With such cheerfulness in the forecast, this presents an ideal opportunity to wander through the historic streets of Beacon Hill or perhaps enjoy a leisurely afternoon along the banks of the Charles River. A simple picnic under the vast blue sky, complete with a good book, seems fitting for the canvas of the day. Embrace the tranquility of the time, for such moments are treasures, waiting patiently to be savored under the vastness of a summer sky.",
-    "color_code": "#1E90FF",
-    "timestamp": "2026-08-14 21:35:57"
+    "weather_report": "As the city of Boston holds its breath under the velvet darkness of the night, the air is cool and tranquil, with a gentle breeze whispering through the streets. The low temperatures cradle the city, setting the stage for a pleasant day ahead. When dawn breaks, expect the sun to stretch its arms over the skyline, casting its warm glow across the bustling streets. The forecast promises a sunny embrace, with temperatures nudging toward a comfortable warmth, infused with just a hint of a northward breeze to keep the day refreshingly crisp. \n\nWith such inviting conditions on the horizon, attire should lean toward light layers; perhaps a soft linen shirt and comfortable shorts, perfect for basking in the sunlight without succumbing to the midday heat. It\u2019s an excellent moment for a leisurely stroll along the Charles River, where the mirrored ripples invite contemplative thoughts, or perhaps a visit to one of the city\u2019s many parks, where the laughter of children blends harmoniously with the rustling leaves. As the morning gives way to the vibrancy of a summer day, one might find the simple pleasures of coffee on a patio or browsing local shops equally delightful.",
+    "color_code": "#f5f5dc",
+    "timestamp": "2026-08-15 00:36:38"
 }
