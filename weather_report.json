@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-14T20:20:00+00:00",
-            "temperature_f": 82.4,
-            "temperature_c": 28,
-            "humidity": 37.102613225695,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 300,
+            "timestamp": "2026-08-15T00:55:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 68.377043112712,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-14T16:00:00-04:00",
-                "endTime": "2026-08-14T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 83,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 12
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 83. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-08-14T18:00:00-04:00",
+                "startTime": "2026-08-14T21:00:00-04:00",
                 "endTime": "2026-08-15T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 59,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 18
+                    "value": 13
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 59. North wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-08-15T06:00:00-04:00",
+                "endTime": "2026-08-15T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 80,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
                 },
                 "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,20/sct?size=medium",
-                "shortForecast": "Isolated Showers And Thunderstorms then Partly Cloudy",
-                "detailedForecast": "Isolated showers and thunderstorms between 7pm and 9pm. Partly cloudy, with a low around 59. Northwest wind around 6 mph. Chance of precipitation is 20%."
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 80. North wind around 6 mph."
             }
         ]
     },
-    "weather_report": "This afternoon finds Boston bathed in a gentle warmth, the sun sending down its golden rays but softened by scattered clouds fluffing the sky like freshly whipped cream. With a high nudging toward the low 80s, a mild northwest breeze whispers through tree branches, inviting a leisurely walk through the Public Garden or perhaps an afternoon caf\u00e9 visit to savor a quiet moment. The atmosphere carries a hint of anticipation, as the forecast communicates the potential for isolated showers and thunderstorms later, casting a shadow of uncertainty but not before dusk arrives. \n\nAs twilight descends, the temperature will dip, offering a comfortable escape with lows slipping into the cooler 50s. A light jacket or a soft sweater will be the perfect companion as the sun retreats and the skies may threaten a flicker of rain. Stray showers will be brief, and the chance of having your evening dampened seems slight. It is a perfect time to explore the intimate streets of Beacon Hill or find a cozy spot on a patio, perhaps indulging in a good book while contemplating the rhythm of the day. The evening may be brisk, yet it brings with it a peaceful charm suitable for good conversation or solitary reflection.",
-    "color_code": "#A3C1E0",
-    "timestamp": "2026-08-14 16:35:18"
+    "weather_report": "As the day surrenders to twilight in Boston, the air is still, with only a gentle murmur of the north wind brushing past. Clouds retreat to reveal a canvas of stars, their timid flickers mirroring the distant city lights that stretch across the skyline. The temperature drifts comfortably around fifty-nine degrees, enveloping the evening in a pleasant embrace. Those stepping out might find themselves dressed in a light sweater, the perfect companion to the mild night air\u2014a harbinger of the warm day that waits on the morrow.\n\nAnticipate a splendid Saturday bathed in sunlight, where the golden rays are set to ignite the city, pushing the temperature toward eighty degrees. With such cheerfulness in the forecast, this presents an ideal opportunity to wander through the historic streets of Beacon Hill or perhaps enjoy a leisurely afternoon along the banks of the Charles River. A simple picnic under the vast blue sky, complete with a good book, seems fitting for the canvas of the day. Embrace the tranquility of the time, for such moments are treasures, waiting patiently to be savored under the vastness of a summer sky.",
+    "color_code": "#1E90FF",
+    "timestamp": "2026-08-14 21:35:57"
 }
