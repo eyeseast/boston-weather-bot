@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-15T08:09:00+00:00",
-            "temperature_f": 53.96,
-            "temperature_c": 12.2,
-            "humidity": 96.759606973144,
+            "timestamp": "2026-08-15T12:35:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 68.377043112712,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-08-15T04:00:00-04:00",
-                "endTime": "2026-08-15T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 59. Northwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-08-15T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-08-15T08:00:00-04:00",
                 "endTime": "2026-08-15T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 81,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 2
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 81. North wind around 6 mph."
+                "detailedForecast": "Sunny, with a high near 81. North wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-08-15T18:00:00-04:00",
+                "endTime": "2026-08-16T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "1 to 5 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 58. West wind 1 to 5 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of this early morning, Boston drapes itself in a gentle blanket of clarity, the coolness lingering as daylight awakens. The forecast whispers promises of warmth and sunshine, as the low of 59 fades away, yielding to a radiant day that beckons the spirit outdoors. By noon, vibrant beams of sunlight will grace the streets, a perfect union of blue skies and a soft north wind. \n\nAs the hour unfolds, dressing in light layers will harmonize beautifully with the air\u2014a t-shirt paired with a light sweater should suffice, perfect for meandering along the Charles or pausing for a reflective moment at one of the city\u2019s verdant parks. The weather seems tailor-made for a stroll through South End\u2019s artisanal shops or sipping a morning brew at one of the quaint cafes lining the streets. For those inclined towards the more cultural, a visit to the Museum of Fine Arts or a casual walk along the Freedom Trail offers enriching ways to embrace the spirit of this remarkable city on a splendid Saturday.",
-    "color_code": "#A3D9F2",
-    "timestamp": "2026-08-15 04:35:03"
+    "weather_report": "In Boston today, the sky greets you with an expansive blue canvas, unmarred by clouds, just as the forecast promised. The sunshine gently kisses the city, casting a warm glow over everything in sight. With temperatures nudging towards a delightful 81 degrees Fahrenheit, the day beckons you to breathe in the crisp, fresh air that carries a gentle north wind, whispering tales of summer's glory. As evening approaches, expect a soft transition into a serene night, where the temperatures dip into the refreshing embrace of the upper fifties, allowing for a cozy end to the day.\n\nSuch idyllic conditions invite simple pleasures: perhaps a stroll along the Charles River, where the water reflects the azure horizon, or maybe a leisurely visit to a local caf\u00e9, savoring a chilled beverage while watching the world pass by. Given these comfortable conditions, light layers are advisable for the day, allowing for both the warmth of the sun and the cool breeze. Dress for ease\u2014think airy shirts and breathable fabrics. As the golden light wanes, you might find joy in a quiet evening walk, welcoming the peaceful ambiance that only a summer night in Boston can offer.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-08-15 08:47:59"
 }
