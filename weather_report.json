@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-16T03:53:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
+            "timestamp": "2026-08-16T12:35:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 68.176241889352,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-08-16T00:00:00-04:00",
-                "endTime": "2026-08-16T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 59. Northwest wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-08-16T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-08-16T07:00:00-04:00",
                 "endTime": "2026-08-16T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 82,
+                "temperature": 80,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "2 to 8 mph",
-                "windDirection": "E",
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 82. East wind 2 to 8 mph."
+                "detailedForecast": "Mostly sunny, with a high near 80. Southeast wind 3 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-08-16T18:00:00-04:00",
+                "endTime": "2026-08-17T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 51
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,50?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers after 2am. Mostly cloudy, with a low around 67. South wind around 12 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the early hours of Sunday greet Boston, a serene calm envelops the city, broken only by the distant hum of urban life and the faint flicker of lights illuminating the landscape. The night is clear, cradling a gentle coolness, perhaps inviting you to step outside for a moment to relish the velvet sky and the promise of dawn. In just a few hours, the sun will rise to unfurl a canvas of warmth, casting golden tones across the city, with temperatures anticipated to climb near a pleasant eighty-two degrees. The light breeze, a soft whisper from the east, will make the day feel refreshing, a perfect backdrop for leisurely pursuits.\n\nDaylight will bring with it a joyful invitation to explore. A stroll along the Charles River, or perhaps a leisurely visit to one of the vibrant local markets, would be wonderfully suited to the agreeable weather. Light layers will keep you comfortable; a simple cotton shirt paired with a light jacket will provide ease against the warmth of the sun. As the day unfolds, allow yourself the luxury of time, perhaps finding a cozy caf\u00e9 where you can sip something refreshing while watching the city hum with life. Today's clear skies suggest an abundance of brightness, perfect for enjoying the simple yet profound beauty of a Sunday in Boston.",
-    "color_code": "#F0E68C",
-    "timestamp": "2026-08-16 00:40:21"
+    "weather_report": "In Boston, the dawn unfurls lazily into a canvas of azure, a gentle embrace of sunlight illuminating the city\u2019s vibrant life. The air, kissed by a mild southeast breeze, carries the promise of warmth as the temperature heads toward a comfortable high, inviting residents to step outside and revel in the day. Yet, as twilight creeps closer, there lingers a whisper of rain. Clouds will drift in like shy performers, hinting at the possibility of brief showers after midnight, offering an intriguing juxtaposition to the sun's bright debut.\n\nAs one ventures into the day, a simple yet stylish approach to attire may serve well\u2014perhaps a light shirt and comfortable pants, layered with a light jacket for the evening's chill. Time spent in caf\u00e9s, parks, or even wandering the cobblestone streets will delight the senses. Consider indulging in a leisurely stroll along the harbor, where the harmony of water and sky creates a delicate symphony, or perhaps find solace in a quaint bookshop, the perfect refuge should the clouds gather. The interplay of sun and shadow today invites exploration, creating a canvas on which the ordinary can be transformed into the delightful.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-08-16 08:49:28"
 }
