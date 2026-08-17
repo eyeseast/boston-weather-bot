@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-16T20:05:00+00:00",
-            "temperature_f": 78.8,
-            "temperature_c": 26,
-            "humidity": 50.72618873623,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 190,
-            "description": "Cloudy"
+            "timestamp": "2026-08-17T01:25:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 77.915158291749,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 180,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-16T16:00:00-04:00",
-                "endTime": "2026-08-16T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 80,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 80. South wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-08-16T18:00:00-04:00",
+                "startTime": "2026-08-16T21:00:00-04:00",
                 "endTime": "2026-08-17T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 67,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 45
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,50?size=medium",
                 "shortForecast": "Mostly Cloudy then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after midnight. Mostly cloudy, with a low around 67. South wind 7 to 10 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers after midnight. Mostly cloudy, with a low around 67. South wind around 9 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-08-17T06:00:00-04:00",
+                "endTime": "2026-08-17T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 75,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 57
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/rain_showers,30?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "A chance of rain showers before 7am, then rain showers likely and patchy fog. Cloudy, with a high near 75. South wind 6 to 9 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the sun casts its warm embrace over Boston this afternoon, the atmosphere feels buoyant and inviting. With temperatures edging toward a pleasant 80 degrees, the city basks under mostly sunny skies, interrupted only by a few playful clouds that drift lazily across the expanse. A gentle south wind whispers through the streets, hinting at a comforting evening, although the forecast anticipates a chance of rain showers after midnight. As twilight approaches, the temperature is expected to settle around a balmy 67, cloaking the city in a soft, humid embrace.\n\nGiven this delightful blend of warmth and a hint of moisture, it's wise to dress in light, breathable fabrics\u2014perhaps a comfortable cotton shirt paired with airy shorts or a light sundress, savoring these late summer days before the air turns crisp. The afternoon beckons for outdoor pursuits, perhaps a leisurely stroll along the Charles River or a quiet moment with a book at one of the city's tranquil parks. As evening falls, consider heading to a cozy caf\u00e9 for a warm drink, where conversations can linger like the gentle twilight. Embrace the day's charm, for with every moment, the city reveals its cozy delights, with the promise of rain adding a sense of intimacy to the night ahead.",
-    "color_code": "#A8C9E9",
-    "timestamp": "2026-08-16 16:28:31"
+    "weather_report": "As the day transitions into evening in Boston, a shroud of clouds drifts languidly overhead, hinting at the rain to come. The air feels thick with humidity, a precursor to the showers that are likely to arrive after midnight. The temperature settles around a warm 67, and the gentle whisper of a south wind caresses the city, just enough to keep one comfortably cool. The city\u2019s night canvas, awash with the distant glow of streetlights and the pulsating lights of skyscrapers, reflects a sense of serene anticipation, though the moisture-laden air suggests that tomorrow holds much more than just an ordinary day.\n\nThe morrow will greet Bostonians with overcast skies and the chance of early morning rain showers that may burgeon throughout the day. With a high reaching 75, it promises to be a sultry and cloudy affair, enough to keep one contemplating a light jacket or an umbrella at hand. As you navigate this urban expanse, consider wandering away from the hustle of downtown into the embrace of a caf\u00e9, where the aroma of freshly brewed coffee can mingle with the sweet sounds of hushed conversations. Perhaps a visit to the local bookstores or quiet parks, where the patchy fog may create an intimate ambiance, could be just the remedy for a day whispering of rain.",
+    "color_code": "#8B9DC2",
+    "timestamp": "2026-08-16 21:40:22"
 }
