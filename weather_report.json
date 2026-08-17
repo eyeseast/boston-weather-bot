@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-17T08:35:00+00:00",
+            "timestamp": "2026-08-17T12:30:00+00:00",
             "temperature_f": 66.2,
             "temperature_c": 19,
-            "humidity": 93.929774401027,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 150,
+            "humidity": 88.185541322848,
+            "wind_speed_mph": null,
+            "wind_direction": null,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-08-17T04:00:00-04:00",
-                "endTime": "2026-08-17T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "1 to 9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,100?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 67. West wind 1 to 9 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2026-08-17T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-08-17T08:00:00-04:00",
                 "endTime": "2026-08-17T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 75,
@@ -52,11 +33,30 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/rain_showers,60/rain_showers,50?size=medium",
                 "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely before 8am, then rain showers likely and patchy fog. Mostly cloudy, with a high near 75. Southeast wind 6 to 9 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain showers likely and patchy fog. Mostly cloudy, with a high near 75. Southeast wind 6 to 9 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-08-17T18:00:00-04:00",
+                "endTime": "2026-08-18T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 67,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 32
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium",
+                "shortForecast": "Chance Rain Showers then Patchy Fog",
+                "detailedForecast": "A chance of rain showers before 8pm, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 67. North wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the dawn breaks over Boston, the gentle patter of rain whispers against the windows, a soft refrain promising a day cloaked in moisture and shadows. The air is thick with humidity, wrapping around you like an embrace as you navigate the early morning. The temperature hangs comfortably around 67 degrees, conducive for a day that carries a hint of nostalgia\u2014perhaps reminiscent of lingering summer evenings, now giving way to the ever-encroaching autumn.\n\nThroughout the morning, expect inclement weather to linger, with rain showers making their presence known, accompanied by patchy fog that may soften the city\u2019s edges. The atmosphere is likely to feel cooler on the skin, so one might consider donning a light jacket or a waterproof layer. An amble through the streets may reveal a city bustling with life, as coffee shops beckon with the promise of warmth and comfort. Indulging in a leisurely stroll amid the muted sounds of rainfall could provide a contemplative respite, marking the day with serene moments. As the sky remains a patchwork of clouds, an afternoon spent tucked away in a cozy nook of a library or perhaps perusing quaint bookstores might strike the right balance between productivity and reflection. The day calls for quiet appreciation\u2014an ideal backdrop for penning a few notes or dreaming of travels yet to unfold.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2026-08-17 04:50:02"
+    "weather_report": "As the day unfolds in Boston, the sky drapes itself in a muted gray, casting a soft blanket over the city. A veil of mist lingers, hinting at the presence of fog that curls around the edges of the horizon. Though warmth flirts with the air \u2014 a promise of around 75 degrees \u2014 it is accompanied by moisture, with rain showers likely to thread through the morning. The humid breeze from the southeast carries an electric charge, hinting at the dance of droplets that may soon grace the streets. \n\nThe evening may not bring an end to this ceremonial moisture; it lingers as a slight chance of rain lingers even after the sun dips below the skyline. Those brave enough to navigate the world outside today should dress light yet prepared \u2014 perhaps favoring a cotton sweater to ward off the coolness of patchy fog, coupled with a pair of water-resistant shoes for any inadvertent splashes. It feels like perfect weather to explore the hidden corners of cozy caf\u00e9s, where a steaming cup of coffee might offer comfort against the gray backdrop, or perhaps a leisurely stroll along the waterfront will strike a chord with the soul. In a day that invites reflection and pause, embrace the charm hidden within the gentler climes of an overcast afternoon.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2026-08-17 08:53:52"
 }
