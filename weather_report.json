@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-17T16:15:00+00:00",
-            "temperature_f": 71.6,
-            "temperature_c": 22,
-            "humidity": 78.062863996432,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 180,
-            "description": "Cloudy"
+            "timestamp": "2026-08-18T01:20:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 93.929774401027,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-17T12:00:00-04:00",
-                "endTime": "2026-08-17T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 75,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 45
-                },
-                "windSpeed": "6 to 9 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 75. Southeast wind 6 to 9 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-08-17T18:00:00-04:00",
+                "startTime": "2026-08-17T21:00:00-04:00",
                 "endTime": "2026-08-18T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 67,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 32
+                    "value": 14
                 },
-                "windSpeed": "5 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/rain_showers,20?size=medium",
-                "shortForecast": "Chance Rain Showers then Patchy Fog",
-                "detailedForecast": "A chance of rain showers before 8pm, then patchy fog and a slight chance of rain showers. Mostly cloudy, with a low around 67. North wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "2 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog. Mostly cloudy, with a low around 67. Northeast wind around 2 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-08-18T06:00:00-04:00",
+                "endTime": "2026-08-18T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 82,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 18
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/fog/rain_showers,20?size=medium",
+                "shortForecast": "Patchy Fog then Slight Chance Rain Showers",
+                "detailedForecast": "Patchy fog before 11am, then a slight chance of rain showers. Mostly cloudy, with a high near 82. Northeast wind 2 to 6 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfurls under a lightly oppressive blanket of clouds. The air carries the unmistakable scent of impending rain\u2014an invitation to consider the comfort of indoor pursuits as grayness wraps the skyline. Current temperatures hover with an almost sultry warmth, close to 75, while a gentle southeast wind whispers from the horizon, teasing the promise of refreshment. Yet, the forecast suggests a persistent chance of showers, casting a veiled uncertainty on plans to roam the parks or peruse the city\u2019s quaint streets.\n\nAs evening approaches, the potential for patchy fog invites contemplation, a softening of edges as the sun retreats, nudging the day into a languorous farewell. Favoring comfort, one might choose breathable fabrics, perhaps a light jacket for the coolness settling in as night emerges. The richness of Boston\u2019s culinary scene is beckoning, providing an opportune moment to explore local eateries or perhaps seek solace in a quiet caf\u00e9, where the world beyond blurs with a fogged window, allowing for thoughtful indulgence in a steaming cup of coffee. The atmosphere feels almost nostalgic, perfect for the written word or intimate conversation, as thoughts drift like autumn leaves\u2014wandering, reflecting, savoring the moment.",
-    "color_code": "#A8B8C1",
-    "timestamp": "2026-08-17 12:33:11"
+    "weather_report": "As the night drapes over Boston, a soft quilt of patchy fog settles in, clinging subtly to the edges of familiarity. The city\u2019s solid edges blur into the dusk, a whisper of clouds weaving through the warm evening air, lending an almost ethereal quality to the surroundings. With the temperature gracefully holding at around 67 degrees, the faint northeast breeze dances by, barely ruffling the tranquility of the scene. There is an unassuming charm in the way the lights of the city flicker with a muted glow against the darkening sky, creating a comforting tapestry that invites introspection and calm.\n\nAs tomorrow dawns, a hint of uncertainty lingers in the forecast. Patchy fog will linger until late morning, slowly unveiling a day that promises a gentle rise in temperature towards the low 80s. Although there is only a slight chance of rain, the clouds overhead may keep the sun\u2019s brighter moments at bay. Given the mellow warmth and the slight chill that accompanies the fog, one might find comfort in layers\u2014perhaps a light, breathable sweater paired with relaxed trousers for those strolls along the waterfront or while enjoying a hushed coffee moment in a cozy caf\u00e9. This is a day made for contemplative walks or quiet gatherings with friends who appreciate the soothing backdrop of a city cloaked in mist and mystery, the sort of day that encourages savoring the simple pleasures of life.",
+    "color_code": "#555555",
+    "timestamp": "2026-08-17 21:35:48"
 }
