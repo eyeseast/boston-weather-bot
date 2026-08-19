@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-18T20:10:00+00:00",
-            "temperature_f": 80.6,
-            "temperature_c": 27,
-            "humidity": 61.613746674378,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 60,
-            "description": "Partly Cloudy"
+            "timestamp": "2026-08-19T01:25:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 88.353665604321,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-18T16:00:00-04:00",
-                "endTime": "2026-08-18T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 79,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_hi,20?size=medium",
-                "shortForecast": "Slight Chance Showers And Thunderstorms",
-                "detailedForecast": "A slight chance of showers and thunderstorms after 5pm. Sunny, with a high near 79. East wind around 6 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-08-18T18:00:00-04:00",
                 "endTime": "2026-08-19T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct/fog?size=medium",
                 "shortForecast": "Partly Cloudy then Patchy Fog",
                 "detailedForecast": "Patchy fog after midnight. Partly cloudy, with a low around 66. South wind 2 to 6 mph. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-08-19T06:00:00-04:00",
+                "endTime": "2026-08-19T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 86,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Sunny",
+                "detailedForecast": "Patchy fog before 7am. Mostly sunny, with a high near 86. Southwest wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston unfolds like a gentle promise, draped in warm, inviting sunshine that warms the skin and brightens the spirit. With temperatures flirting near 79 degrees, a light easterly breeze wafts through the city, encouraging one to step outside and revel in the mellow warmth. The horizon offers an enticing hint of clouds that seem to dance lazily, yet a sense of foreboding wafts in with the mention of potential showers and thunderstorms later in the day. The likelihood is slight, but the air hums with the anticipation of a summer squall.\n\nAs twilight approaches, the city may don a veil of patchy fog, weaving itself into the night air and casting a dreamy shroud over familiar streets. Temperatures will retreat to around 66 degrees, making for a comfortably warm evening perfect for leisurely strolls or quiet gatherings. Dressing in layers remains wise; consider a light cardigan to ward off the evening chill just as the sun dips below the horizon. Embrace the natural allure of this evening\u2014perhaps a gentle walk along the river, where the sounds of the city blend with the soft rippling of water, offers tranquility. Alternatively, finding a cozy nook to savor a cup of tea or indulge in leisurely reading could turn the evening into a soothing retreat from a busy day.",
-    "color_code": "#ADD8E6",
-    "timestamp": "2026-08-18 16:29:45"
+    "weather_report": "As night drapes softly over Boston, a gentle haze settles into the nooks and crannies of the city, weaving through the streets like a whispered secret. The humidity, a tender reminder of summer\u2019s grip, turns the air into a warm embrace, inviting a moment of calm reflection. With temperatures hovering around a sultry 66 degrees, it's a night made for quiet strolls or even for lingering on a patio with a favorite book. \n\nAs dawn stretches its light, the fog will begin to lift, leaving behind a sky of promising blue. A warm sun, sliding into its role of the day, will raise the temperature to a near-scorching 86 degrees. A light breeze will rustle through the trees, making the air feel like a comforting sigh on the skin. The day invites a wardrobe adjustment; light fabrics will keep you cool, favoring breathable cotton over heavier materials. It\u2019s a splendid opportunity to partake in the simple joys of life: perhaps visiting a local caf\u00e9 for a morning coffee, playing a leisurely round of disc golf in one of the city\u2019s green spaces, or exploring the streets lined with historic charm. With such favorable weather waiting, every moment spent outdoors will be a delightful reminder of summer\u2019s splendor.",
+    "color_code": "#FFDD99",
+    "timestamp": "2026-08-18 21:37:51"
 }
