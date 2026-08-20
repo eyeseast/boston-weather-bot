@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-20T04:25:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 88.10014352739,
+            "timestamp": "2026-08-20T08:25:00+00:00",
+            "temperature_f": 60.08,
+            "temperature_c": 15.6,
+            "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-08-20T00:00:00-04:00",
+                "startTime": "2026-08-20T04:00:00-04:00",
                 "endTime": "2026-08-20T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 68,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
+                "windSpeed": "5 mph",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 68. Southwest wind around 6 mph."
+                "detailedForecast": "Mostly clear, with a low around 68. West wind around 5 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-08-20T06:00:00-04:00",
                 "endTime": "2026-08-20T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 85,
+                "temperature": 87,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 18
+                    "value": 13
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "1 to 6 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
-                "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 3pm. Mostly sunny, with a high near 85. Northwest wind around 6 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 87. Northwest wind 1 to 6 mph. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the quiet night envelops Boston, the city lies cloaked in a gentle darkness, interrupted only by the glittering lights that punctuate the skyline. Overnight, the air retains a warm feeling, whispering promises of a comfortable dawn ahead, with temperatures settling around a balmy 68 degrees. The southwest breeze dances softly at around six miles per hour, caressing skin and ruffling hair with a hint of familiarity. \n\nAs the day unfolds, expect a canvas of mostly sunny skies beckoning from above, with the sun painting the horizon with its warm, golden hues. The temperature is likely to flirt with 85 degrees, encouraging those who venture outside to embrace the outdoors. However, as afternoon approaches, the distant rumble of potential rain showers hinted at by the forecast may tease the senses after 3 PM. With a mere 20% chance of precipitation, the clouds may part, allowing for those brief moments of sunshine that glisten on sidewalks and park benches alike. \n\nIn this mild warmth, light and breathable fabrics are the way to go\u2014a comfortable t-shirt paired with chinos or a casual sundress will serve you well, complemented by sneakers or sandals for easy movement. The day calls not for grand adventures, but rather for simple pleasures: a stroll through Boston Common, where the greenery soaks up the sun\u2019s rays; perhaps a visit to a local caf\u00e9, where aromas of freshly brewed coffee prepare the mind for the tasks ahead. Keep an eye on the sky as the afternoon progresses, and, should the drizzle arrive, the opportunity for cozy corners and warm cups will present themselves just as beautifully as the day\u2019s sunny interlude.",
-    "color_code": "#F0E68C",
-    "timestamp": "2026-08-20 00:41:29"
+    "weather_report": "As dawn approaches Boston, the city still cradles the gentle embrace of night, though hints of a bright promise linger in the air. The temperature rests comfortably around 68, carrying the essence of summer while a soft breeze whispers through the trees, offering a taste of the warmth soon to envelop the day. As the sun begins its slow ascent, we can anticipate a morning that will yield to mostly sunny skies, a canvas painted with the softest hues as the day softens into a lively 87 degrees. \n\nFor those wandering through the streets, light layers will serve you well; a simple T-shirt with a light jacket can transition from the cooler morning air to the warmth that will follow. As the sun rises higher, it beckons us to embrace outdoor endeavors\u2014perhaps a leisurely walk along the Charles River, where the reflections of the city mingle gracefully with glimmers of sunlight, or a visit to one of Boston's many vibrant parks, perfect for a spring picnic or reading in the shade. With a chance of minimal rainfall later, the day invites you to relish the simple moments where nature and city life converge, defining an experience that is uniquely Boston.",
+    "color_code": "#F0E1A2",
+    "timestamp": "2026-08-20 04:46:04"
 }
