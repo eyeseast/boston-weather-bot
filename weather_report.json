@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-20T20:10:00+00:00",
-            "temperature_f": 82.4,
-            "temperature_c": 28,
-            "humidity": 48.088385537135,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 260,
-            "description": "Clear"
+            "timestamp": "2026-08-21T01:20:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 82.990398777177,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 340,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-20T16:00:00-04:00",
-                "endTime": "2026-08-20T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 87,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 87. Northeast wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-08-20T18:00:00-04:00",
+                "startTime": "2026-08-20T21:00:00-04:00",
                 "endTime": "2026-08-21T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 65,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 80
                 },
-                "windSpeed": "5 to 10 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/rain,80/rain,70?size=medium",
                 "shortForecast": "Light Rain",
-                "detailedForecast": "Rain before 3am, then a chance of rain and patchy drizzle between 3am and 5am, then patchy drizzle and a slight chance of rain. Cloudy, with a low around 65. Northeast wind 5 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "Rain before 3am, then a chance of rain and patchy drizzle between 3am and 5am, then patchy drizzle and a slight chance of rain. Cloudy, with a low around 65. Northeast wind 7 to 10 mph. Chance of precipitation is 80%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-08-21T06:00:00-04:00",
+                "endTime": "2026-08-21T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 71,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 30
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30?size=medium",
+                "shortForecast": "Patchy Drizzle",
+                "detailedForecast": "Patchy drizzle and a slight chance of rain before 8am, then a chance of rain and patchy drizzle between 8am and 9am, then patchy drizzle and a slight chance of rain between 9am and 1pm, then a chance of rain and patchy drizzle. Mostly cloudy, with a high near 71. Northeast wind 7 to 10 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the air pulses with a gentle warmth, approaching 87 degrees, though a cloak of clouds casts a muted light over the city. A delicate breeze from the northeast stirs the leaves, but the atmosphere hints at an impending change. As twilight creeps in, the forecast beckons the possibility of rain, an 80% chance to be precise, beginning before the clock strikes three. Clouds drape the heavens, and the scent of precipitation lingers, an uninvited but familiar guest.\n\nFor those navigating this day, the sky suggests a wardrobe shift; lightweight layers that breathe will serve well, yet carrying an umbrella or a slicker may be wise, anticipating the drizzle and light rain that could blanket the evening. With the warm embrace of late summer still clinging to the day, perhaps a quiet stroll along the Esplanade or indulging in a leisurely caf\u00e9 visit would be delightful, while the sound of drops tapping rhythmically on the pavement becomes the backdrop to an evening steeped in gentle melancholy and the promise of cozy moments ahead.",
-    "color_code": "#8CA8B1",
-    "timestamp": "2026-08-20 16:33:59"
+    "weather_report": "As evening unfolds over Boston, a gentle rain sweeps in, mingling with the promise of lullabies sung by the clouds. The air hangs with a certain weight, an invitation from the sky to linger in cozy corners, the kind of night draped in a rich, muted serenity. With temperatures resting comfortably around 65, a light, protective layer will suffice. Perhaps a soft rain jacket or an old sweater, one that carries memories of similar nights, will help wrap you against the chill and the drizzle that may linger in the hours ahead.\n\nAs the city gently hums its evening song, the forecast whispers of a grey day ahead\u2014a day where the sun may play hide and seek, only to be teased by patches of drizzle till the afternoon. An exploration downtown could be soothing, weaving through quiet caf\u00e9s or charming bookstores, where the aroma of coffee mingles with the rustle of pages. An afternoon stroll through the park, adorned by droplets on leaves, might serve to refresh the spirit, as long as one carries an umbrella, just in case. Dress warmly, embrace the weather\u2019s moody disposition, and find a way to savor the urban symphony that unfolds, even under the cloudy veil.",
+    "color_code": "#6B8E24",
+    "timestamp": "2026-08-20 21:41:14"
 }
