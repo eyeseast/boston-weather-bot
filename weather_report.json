@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-21T07:30:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 93.884545007364,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 40,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2026-08-21T15:50:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 77.915158291749,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 50,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-08-21T04:00:00-04:00",
-                "endTime": "2026-08-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 65,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 44
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Cloudy, with a low around 65. North wind around 6 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-08-21T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-08-21T12:00:00-04:00",
                 "endTime": "2026-08-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 74,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 50
+                    "value": 32
                 },
-                "windSpeed": "7 to 12 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,50/rain_showers,30?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30?size=medium",
                 "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 74. Northeast wind 7 to 12 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a high near 74. Northeast wind around 12 mph. Chance of precipitation is 30%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-08-21T18:00:00-04:00",
+                "endTime": "2026-08-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 38
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Mostly cloudy, with a low around 61. Northeast wind 6 to 9 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the early hours of the morning unfold, a thick blanket of clouds wraps around Boston, casting a muted gray over the skyline. The remnants of night linger, with just a flicker of distant city lights piercing the gloom. The air is heavy with the promise of soft rain; droplets may soon grace the pavement, as the forecast hints at a 40% chance of light showers. The temperature, a mild 65 degrees, invites a sense of comfort, though a gentle northward breeze whispers hints of cooler air.\n\nAs the day progresses, the clouds persist, presumably allowing the sun little room to break through, with a 50% chance of rain preceding the afternoon. A high of 74 degrees beckons for a casual warmth, suggesting layers could be a wise choice. Perhaps a light cardigan paired with comfortable shoes will offer the perfect balance for wandering through the city. Given the forecast and the slightly overcast atmosphere, one might indulge in a stroll along the waterfront, appreciating the quiet murmur of the waves, or seek refuge in a cozy caf\u00e9, savoring the rich aroma of freshly brewed coffee while watching the world move outside through raindrops on the window.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-08-21 04:48:00"
+    "weather_report": "In the heart of Boston today, one will find a sky draped in a heavy quilt of clouds, lending a muted gray to the afternoon light. A gentle breeze from the northeast ushers in the scent of impending rain, with a touch of humidity lingering in the air. The forecast hints at rain showers, casting a veil of uncertainty across the day. While the warmth nudges near 74 degrees, the clouds bring a coolness that softens the touches of summer, inviting some introspection amid a potentially damp evening.\n\nAs the hours roll into night, the cloud cover thickens, cradling the city in its embrace. With temperatures dropping to a comfortable 61 and a 40% chance of rain, one might want to reach for a light jacket or a thin sweater to ward off the chill. Steps into the day could lead you to a cozy caf\u00e9, where the scent of freshly brewed coffee dances through the air, or perhaps a stroll through the damp streets, where the echoes of footsteps form a quiet companionship with the rhythm of the rain. In these moments, Boston transforms, offering a serene backdrop to any understated adventure you choose.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2026-08-21 12:39:49"
 }
