@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-21T20:05:00+00:00",
+            "timestamp": "2026-08-22T04:20:00+00:00",
             "temperature_f": 68.0,
             "temperature_c": 20,
-            "humidity": 82.871929790445,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 60,
+            "humidity": 77.766036021768,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 30,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-21T16:00:00-04:00",
-                "endTime": "2026-08-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 74,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers before 5pm. Mostly cloudy, with a high near 74. Northeast wind around 8 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-08-21T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-08-22T00:00:00-04:00",
                 "endTime": "2026-08-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -49,14 +30,33 @@
                     "value": 21
                 },
                 "windSpeed": "3 to 7 mph",
-                "windDirection": "NE",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
                 "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 8pm. Mostly cloudy, with a low around 62. Northeast wind 3 to 7 mph. Chance of precipitation is 20%."
+                "detailedForecast": "A slight chance of rain showers. Cloudy, with a low around 62. North wind 3 to 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-08-22T06:00:00-04:00",
+                "endTime": "2026-08-22T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 73,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 36
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Cloudy, with a high near 73. Northeast wind around 9 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "As the afternoon stretches into evening, Boston finds itself in a gentle embrace of mostly cloudy skies, the air thick with a hint of humidity. The lingering clouds may cloak the city, hinting at a slight chance of rain showers. The wind, a soft whisper from the northeast, carries with it the mild warmth of the season, urging one to shed heavy layers while still considering a light sweater or jacket for the cooler moments that may accompany the impending twilight. \n\nWith the sun on its descent, the prospect of evening showers looms gently overhead\u2014a mere shiver in the air. This kind of day may prompt quiet contemplation, a stroll through nearby parks or along the riverbank, where the reflections on the water could enchant the eye amidst the subdued hues of the dusk. Alternatively, one might seek solace in the warm glow of a quaint caf\u00e9, sipping a comforting brew while a light drizzle taps against the window. Today's weather calls for an understated elegance in attire; breathable fabrics paired with a light layer would suit the day well. Embrace the weather's soft unpredictability; it inspires moments of unhurried simplicity.",
-    "color_code": "#A9B2B1",
-    "timestamp": "2026-08-21 16:30:54"
+    "weather_report": "As the early hours of Saturday morning unfold in Boston, the air carries a gentle anticipation of rain, a soft whisper from the clouds that adorn the night sky. The temperature hovers comfortably, encouraging layers that offer warmth without restriction. With a slight chance of scattered showers on the horizon, it's wise to bring along a light, waterproof jacket, perhaps accompanied by a cozy sweater for those moments when the cool breeze curls around you like a familiar embrace. \n\nAs the sun makes its slow ascent, the day promises to be cloudy, with occasional breaks of gray and the possibility of rain showers lingering, drawing the curious eye to the rhythm of the sky. While the temperatures will climb to a modest warmth, the moist air may carry a slight chill. This might not be the perfect day for an outdoor picnic in the park, but it does invite leisurely strolls through the quieter streets of the city, where the lush greenery glistens with droplets, and the fresh scent of impending rain fills the air. Perhaps a leisurely visit to a local caf\u00e9 for warmth and comfort, or a quiet hour spent in one of the city\u2019s beloved bookstores, could turn this overcast day into a moment of indulgence and solace, a chance to savor the softness of a rainy Boston weekend.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-08-22 00:38:19"
 }
