@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-24T08:35:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 100,
+            "timestamp": "2026-08-24T12:40:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 93.929774401027,
             "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 240,
-            "description": "Mostly Cloudy"
+            "wind_direction": 170,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-08-24T04:00:00-04:00",
-                "endTime": "2026-08-24T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 63. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2026-08-24T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-08-24T09:00:00-04:00",
                 "endTime": "2026-08-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 82,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "5 to 13 mph",
+                "windSpeed": "6 to 13 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium",
-                "shortForecast": "Patchy Fog then Sunny",
-                "detailedForecast": "Patchy fog before 7am. Sunny, with a high near 82. Southwest wind 5 to 13 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 82. Southwest wind 6 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-08-24T18:00:00-04:00",
+                "endTime": "2026-08-25T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "5 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 60. Southwest wind 5 to 12 mph."
             }
         ]
     },
-    "weather_report": "As the night whispers its final moments in Boston, a patch of cloud drapes softly across the urban landscape, wrapped in a cloak of tranquility. The air carries the warmth of the day drawing to a close, holding an inviting low of 63 degrees. A gentle breeze, reminiscent of a distant lullaby, moves from the southwest. As dawn awakens, expect a fleeting embrace of fog before 7 AM, the kind that brushes past you like an old friend, too shy to linger long. The promise of the day unfolds as the sun stretches and greets Boston with a vibrant warmth, a high near 82 beckoning residents outdoors.\n\nThe morning will reveal a canvas of endless blue sky that's likely to wash over the city, inviting a sense of optimism and ease. On such a fine day, there\u2019s an unmistakable call for a light layered outfit; perhaps a comfortable linen shirt that dances in the breeze, paired with breathable pants to keep you cool under the sun's friendly gaze. It's a perfect time for an afternoon stroll along the Charles River, where the rhythms of life pulse harmoniously with nature, or perhaps a stop at a local caf\u00e9, savoring a cup of artisan coffee while watching the world wake up to its Tuesday routine. The gentle warmth and inviting ambiance are enough to coax anyone into taking a few extra moments to appreciate the simple joys life has to offer.",
-    "color_code": "#C9D8D3",
-    "timestamp": "2026-08-24 04:54:04"
+    "weather_report": "This morning, Boston wakes to the embrace of a sunlit sky, a canvas painted in soothing shades of blue. The warmth of the day hovers around a comfortable 82, accompanied by a gentle southwest breeze that stirs the leaves but whispers rather than shouts. The clarity is palpable, inviting residents to step outside and immerse themselves in the bright day. As the sun arcs gracefully overhead, the promise of a clear evening settles like a warm blanket, with temperatures dipping to a pleasant 60, perfect for a leisurely stroll under the stars or a serene dinner on the porch.\n\nAs you contemplate your attire, light layers are your allies; perhaps a breezy shirt paired with shorts or a sundress, complemented by a light cardigan for when the evening cools. The serene weather beckons for simple pleasures\u2014consider a visit to the local farmer's market, where the rich scents of fresh produce hang in the air, or a casual bike ride along the Charles River, where laughter and the distant sound of splashing water create a joyful symphony. Engage in the rhythm of the day, and let the embrace of this glorious weather guide your leisurely pursuits.",
+    "color_code": "#87CEFA",
+    "timestamp": "2026-08-24 09:00:15"
 }
