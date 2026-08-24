@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-23T20:10:00+00:00",
-            "temperature_f": 71.6,
-            "temperature_c": 22,
-            "humidity": 83.107688157695,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 100,
-            "description": "Cloudy"
+            "timestamp": "2026-08-24T01:25:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 100,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 180,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-23T16:00:00-04:00",
-                "endTime": "2026-08-23T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 77,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 8
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 77. East wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-08-23T18:00:00-04:00",
+                "startTime": "2026-08-23T21:00:00-04:00",
                 "endTime": "2026-08-24T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -49,14 +30,33 @@
                     "value": 18
                 },
                 "windSpeed": "7 mph",
-                "windDirection": "S",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/fog?size=medium",
                 "shortForecast": "Slight Chance Rain Showers then Areas Of Fog",
-                "detailedForecast": "A slight chance of rain showers between 7pm and 10pm, then areas of fog. Mostly cloudy, with a low around 62. South wind around 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "detailedForecast": "A slight chance of rain showers before 10pm, then areas of fog. Mostly cloudy, with a low around 62. Southwest wind around 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-08-24T06:00:00-04:00",
+                "endTime": "2026-08-24T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 82,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 6
+                },
+                "windSpeed": "6 to 13 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/few?size=medium",
+                "shortForecast": "Areas Of Fog then Sunny",
+                "detailedForecast": "Areas of fog before 8am. Sunny, with a high near 82. Southwest wind 6 to 13 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sky embraces a mosaic of muted grays, suggesting a day influenced by the gentle hand of clouds. The air feels warm, hinting at a high that slides flirtatiously toward 77 degrees, while a soft, eastward breeze whispers its way through the streets. As the sun\u2019s tenuous rays dance across the skyline, the city breathes a kind of lazy contentment, punctuated by the faint possibility of rain that hovers faintly in the evening forecast.\n\nCome nightfall, the atmosphere will shift gently, inviting the delicate kiss of fog to obscure the city\u2019s outlines, wrapping everything in a soft, silken embrace. A subtle chance of rain lingers, enough to prompt one to consider a light jacket or an umbrella\u2014discreet items that could add an air of sophistication to the evening stroll. As the clock ticks on, perhaps one might find solace in a cozy caf\u00e9, savoring a warm beverage while the world outside wears its misty cloak, or wander aimlessly through a park, watching as the evening light plays coyly with the fog, creating an ethereal ambiance that speaks of introspection and quiet joys.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2026-08-23 16:28:52"
+    "weather_report": "As the evening unfolds over Boston, a gentle shroud of fog begins to weave itself into the fabric of the urban landscape, cloaking the city in a soft embrace. The air is warm, a sultry balm of around 62 degrees, and whispers of moisture linger, hinting at the day\u2019s earlier rain showers. With only a slight chance of further precipitation lingering in the atmosphere, the true drama is found in the muted contours of the buildings and streets, their outlines subtly softened by the mist that hangs in the air.\n\nLooking ahead to tomorrow, a vibrant transformation awaits as the sun will break free from the fog\u2019s embrace, casting its golden warmth across the city. Expect a day that dances between gentle breezes and playful sunbeams, coaxing the temperature to a welcoming 82 degrees. This is the kind of day that beckons one to take to the streets, perhaps engaging in leisurely strolls through the park or visiting a quaint caf\u00e9 for a moment of respite. As for your attire, layers would be most wise; an easy cotton shirt for the warmth of the afternoon, paired with a light scarf or sweater to ward off the chill of the morning mist. With the city alive with opportunities, one might embrace the possibilities of a simple outing\u2014perhaps wandering through a local gallery, where art mingles with the day\u2019s indelible charm, or simply finding a quiet spot to revel in the essence of an ordinary day transformed into something quite spectacular under the sun\u2019s uplifting glow.",
+    "color_code": "#4E4E4E",
+    "timestamp": "2026-08-23 21:42:07"
 }
