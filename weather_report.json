@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-24T20:20:00+00:00",
-            "temperature_f": 80.6,
-            "temperature_c": 27,
-            "humidity": 39.338864143364,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Partly Cloudy"
+            "timestamp": "2026-08-25T01:10:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 82.752266062258,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 170,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-24T16:00:00-04:00",
-                "endTime": "2026-08-24T18:00:00-04:00",
+                "name": "Tonight",
+                "startTime": "2026-08-24T21:00:00-04:00",
+                "endTime": "2026-08-25T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few/fog?size=medium",
+                "shortForecast": "Mostly Clear then Patchy Fog",
+                "detailedForecast": "Patchy fog between 4am and 5am. Mostly clear, with a low around 61. Southwest wind 5 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-08-25T06:00:00-04:00",
+                "endTime": "2026-08-25T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 81,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 4
+                    "value": 8
                 },
-                "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 81. Southwest wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-08-24T18:00:00-04:00",
-                "endTime": "2026-08-25T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 18
-                },
-                "windSpeed": "3 to 9 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/few?size=medium",
-                "shortForecast": "Isolated Rain Showers then Mostly Clear",
-                "detailedForecast": "Isolated rain showers between 7pm and 8pm. Mostly clear, with a low around 60. Southwest wind 3 to 9 mph. Chance of precipitation is 20%."
+                "windSpeed": "5 to 9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 81. West wind 5 to 9 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, the sun shines generously upon the city, casting a warm glow on the bustling streets teeming with life. The temperature climbs to a comfortable high, flirting with 81 degrees, as a gentle southwest breeze whispers through the trees\u2014a subtle promise of an inviting evening ahead. The richness of the day invites one to venture outdoors, whether it's a leisurely stroll along the Charles River or perhaps an afternoon spent sipping coffee at a nearby caf\u00e9, soaking in the vibrant pulse of the city.\n\nAs twilight approaches, the sky will transition into a canvas of soft hues, with a few isolated rain showers anticipated shortly, from 7 to 8 PM, though they seem more like fleeting whispers than any significant disruption. With a low settling around 60 degrees, light layers will prove beneficial against the evening\u2019s cool embrace. It\u2019s a time to relish the remnants of daylight, perhaps exploring a local art exhibit or enjoying a serene moment in one of Boston\u2019s picturesque parks. For those caught in the enchantment of the city\u2014there is much to savor before night falls, making the most of this splendid day.",
-    "color_code": "#87CEEB",
-    "timestamp": "2026-08-24 16:36:10"
+    "weather_report": "As night unfurls its velvety cloak over Boston, a gentle whisper of fog may roll in briefly in the early hours, creating a serene and mysterious ambiance. The air holds a certain warmth, suggesting a comfortable evening awaits, with temperatures settling around 61. Though the southwest wind carries a lightness, it steers clear of the chill, ensuring a cozy night for those meandering the city streets or perhaps enjoying the contours of a favorite book within.\n\nAs dawn breaks on Tuesday, the promise of a sun-drenched day reveals itself. With mostly clear skies and temperatures edging toward 81, the scene is set for delightful pursuits. The air will dance with a light breeze from the west, encouraging leisurely strolls in parks or exploration of the vibrant markets scattered throughout the city. A sensible outfit would consist of breathable fabrics, perhaps a light short-sleeve shirt paired with comfortable shorts or a casual dress\u2014perfect for embracing the sun and the subtle rustling of nature that hints at the transition from summer\u2019s embrace to the whispers of autumn. As the day unfolds, the atmosphere will invite you to savor simple pleasures, like sipping coffee at an outdoor caf\u00e9 or reveling in the artistry of local street performers, making the most of this perfectly pleasant summer day.",
+    "color_code": "#F0E68C",
+    "timestamp": "2026-08-24 21:37:10"
 }
