@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-25T20:25:00+00:00",
-            "temperature_f": 78.8,
-            "temperature_c": 26,
-            "humidity": 47.553680242908,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 270,
+            "timestamp": "2026-08-26T01:20:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 77.615480305123,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-25T16:00:00-04:00",
-                "endTime": "2026-08-25T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 79,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 79. West wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-08-25T18:00:00-04:00",
+                "startTime": "2026-08-25T21:00:00-04:00",
                 "endTime": "2026-08-26T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 1
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 61. West wind 5 to 8 mph."
+                "detailedForecast": "Mostly clear, with a low around 61. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-08-26T06:00:00-04:00",
+                "endTime": "2026-08-26T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 80,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "1 to 6 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 80. Northwest wind 1 to 6 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, the sky takes on a canvas of gentle blues and scattered clouds, inviting you to step outside and embrace the mild beauty of the day. With the sun casting its warm glow and a soft breeze whispering from the west, the atmosphere is undeniably pleasant, perfect for those seeking a reprieve from the frenzy of indoor life. The temperature hovers comfortably around 79 degrees, encouraging light attire but perhaps with a shawl or light jacket on hand, as the evening coolness beckons.\n\nAs twilight approaches, the sky transforms into a serene expanse where clarity reigns, with a promise of a peaceful night ahead. The forecast hints at mostly clear skies as temperatures dip to around 61 degrees, a gentle reminder to those wandering outside to dress thoughtfully for the shift. This transitional time of day invites leisurely strolls along the Charles, a visit to your favorite caf\u00e9 to sip on something warm, or perhaps finding a hidden bench to simply watch the world drift by, illuminated by the fading day. Embrace the charm of Boston's late summer, where every corner holds the potential for tranquil discoveries.",
-    "color_code": "#A2C2E5",
-    "timestamp": "2026-08-25 16:39:33"
+    "weather_report": "As night falls over Boston, a serene clarity envelops the city. The air, gently stirred by a soft westward breeze, carries with it the comforting warmth of an evening that promises mild temperatures resting around 61 degrees. Tonight's sky remains mostly clear, a canvas dotted with stars and punctuated by the faint glow of distant city lights. The tranquility invites leisurely strolls along the Charles or perhaps a cozy gathering at a local caf\u00e9, allowing for moments of reflection amidst the quiet hum of the city.\n\nLooking ahead to tomorrow, the sun will rise to a wholly inviting day, poised to stretch near 80 degrees. Anticipating the gentle embrace of a mostly sunny plain, a delightful northwest wind will weave through the balances of warm air. Such conditions beckon opportunities for simple pleasures; a leisurely bike ride along the Esplanade or a visit to one of Boston\u2019s delightful open-air markets would illuminate the spirit. Dressing in lightweight layers would allow one to adapt to the evolving warmth, but there\u2019s no need for anything extraneous. Embrace the day with a sense of adventure, as Boston unfurls its charm, waiting to be explored.",
+    "color_code": "#C4D6E3",
+    "timestamp": "2026-08-25 21:42:06"
 }
