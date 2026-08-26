@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-26T04:25:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 93.745817353204,
+            "timestamp": "2026-08-26T08:30:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
                 "name": "Overnight",
-                "startTime": "2026-08-26T00:00:00-04:00",
+                "startTime": "2026-08-26T04:00:00-04:00",
                 "endTime": "2026-08-26T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 61,
@@ -29,11 +29,11 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "3 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 61. West wind around 6 mph."
+                "detailedForecast": "Clear, with a low around 61. West wind around 3 mph."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-08-26T06:00:00-04:00",
                 "endTime": "2026-08-26T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 80,
+                "temperature": 82,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "1 to 6 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 80. Northwest wind 1 to 6 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 82. Northwest wind around 5 mph."
             }
         ]
     },
-    "weather_report": "As the night deepens over Boston, a serene clarity blankets the city, punctuated only by the soft glow of distant lights. Temperatures linger in the comforting realm of the low sixties, accompanied by a gentle westerly breeze that stirs the air with a hint of refreshing coolness. The tranquility invites introspection, providing the perfect backdrop for a leisurely evening stroll through the quiet streets, where the echoes of laughter from nearby caf\u00e9s can still be heard like whispers in the night.\n\nCome Wednesday, the dawn will unveil a mostly sunny canvas, a promising harbinger for the day ahead. With a high approaching the delightful warmth of eighty degrees, it\u2019s the kind of day that beckons to be embraced\u2014perhaps by those wishing to explore the winding paths of Boston Common, or to indulge in a leisurely brunch at one of the charming local eateries. Dressing in lightweight layers will serve you well, as the gentle northwest breeze dances through the air, balancing comfort with style. As the sun bathes the city in its graceful light, you might find joy in savoring an afternoon iced coffee outdoors or simply soaking in the vibrant spirit of the city.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-08-26 00:45:43"
+    "weather_report": "As the early hours of the morning drift lazily into the waking world, Boston rests under a serene, unbroken sky. The air feels crisp and breathes of the approaching day, with temperatures nestled comfortably around 61 degrees. The gentle caress of a westward breeze carries whispers of clarity, promising a transition into a sun-drenched Wednesday. The absence of any fog or haze reveals the city poised to greet the sun with all its splendor.\n\nAnticipation hangs softly in the air, for the bright orb will soon rise, illuminating the urban tapestry in warm shades of gold and amber. As the day reaches towards a pleasant high of 82 degrees, the atmosphere suggests a perfect invitation to embrace simple joys. Consider donning lightweight, breathable fabrics that allow for movement in the gentle wind, perhaps a short-sleeve shirt paired with comfortable trousers. Mornings like this beckon leisurely strolls along the Esplanade, or a visit to one of Boston\u2019s charming caf\u00e9s, where the aroma of fresh brews mingles with laughter and conversation. The day, calm and inviting, carries the promise of simplicity; a perfect backdrop for an unfettered afternoon of reading in a sun-warmed park or perhaps indulging in the art of people-watching from a cozy outdoor seat.",
+    "color_code": "#F4C542",
+    "timestamp": "2026-08-26 04:50:31"
 }
