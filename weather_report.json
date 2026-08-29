@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-28T21:45:00+00:00",
-            "temperature_f": 84.2,
-            "temperature_c": 29,
-            "humidity": 54.831464944524,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 280,
-            "description": "Clear"
+            "timestamp": "2026-08-29T13:20:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 52.802638324228,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 360,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-08-28T18:00:00-04:00",
-                "endTime": "2026-08-29T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 14
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 60. Northwest wind around 7 mph. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-08-29T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-08-29T09:00:00-04:00",
                 "endTime": "2026-08-29T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 79,
@@ -49,14 +30,33 @@
                     "value": 0
                 },
                 "windSpeed": "6 mph",
-                "windDirection": "N",
+                "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 79. North wind around 6 mph."
+                "detailedForecast": "Sunny, with a high near 79. Northeast wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-08-29T18:00:00-04:00",
+                "endTime": "2026-08-30T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 60. South wind around 5 mph."
             }
         ]
     },
-    "weather_report": "As twilight descends upon Boston, the air carries a gentle promise of serene weather, with temperatures cooling to a comfortable 60 degrees. A soft breeze from the northwest whispers through the streets, rustling the leaves in a soothing companionship. The sky, adorned with a patchwork of clouds against a backdrop of fading sunlight, hints at a tranquil evening ahead, where evening walks and leisurely chats over coffee might be the perfect antidote to a bustling week.\n\nTomorrow dawns bright and inviting; the sun will rise to greet us in a cloudless expanse with a warm touch of 79 degrees. This pleasant climate beckons not just the adventurous spirit but also those seeking solace in nature. Leisurely strolls along the Charles, visits to local parks, or perhaps simply enjoying a book on a sun-dappled bench would elevate one's heart. Light layers, perhaps a simple t-shirt or sundress, would harmonize with the gentle breeze and the day\u2019s joyous disposition, allowing for comfortable exploration without the burden of unnecessary warmth.\n\nAs the soft colors of the evening deepen, contemplate the simple pleasures that await; from the laughter shared with friends to the quiet moments that invite reflection. Embrace the charm of a classic Boston evening, for a season of possibility lies ahead.",
-    "color_code": "#A8C8D4",
-    "timestamp": "2026-08-28 18:03:55"
+    "weather_report": "As morning light drapes over Boston, the city awakens beneath a crisp and inviting sky, the expanse overhead a vibrant canvas of blue kissed lightly by wisps of cloud. With a gentle breeze whispering from the northeast, today's high promises a comfortable warmth just shy of summer's embrace, urging residents to explore the streets. The clarity of the day enhances the allure of the city, suggesting a perfect opportunity for a leisurely stroll along the waterfront, where the gentle lapping of waves against cobblestones sets the rhythm for a peaceful morning.\n\nAs the sun begins its graceful descent toward evening, it will give way to a mostly clear night, bringing cool air that invites a relaxed evening outdoors. In such delightful conditions, layering becomes the key; perhaps a light sweater to guard against the cooler night air, paired with comfortable shoes suitable for wandering. One might find joy in exploring a nearby caf\u00e9, savoring a warm beverage while watching the bustling world go by, or simply taking in the serenity of a quiet park, where the glow of street lamps begins to mingle with the darkening sky. Such a day offers a gentle reminder of life's simple pleasures and the beauty that lies within the ordinary.",
+    "color_code": "#add8e6",
+    "timestamp": "2026-08-29 09:44:47"
 }
