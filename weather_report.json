@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-30T03:53:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 92.966926628606,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-08-30T13:25:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 53.576211354435,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 230,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-08-30T00:00:00-04:00",
-                "endTime": "2026-08-30T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 61,
+                "name": "Today",
+                "startTime": "2026-08-30T09:00:00-04:00",
+                "endTime": "2026-08-30T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 86,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 4
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "7 to 12 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 61. Southwest wind around 6 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 86. Southwest wind 7 to 12 mph."
             },
             {
                 "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-08-30T06:00:00-04:00",
-                "endTime": "2026-08-30T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 85,
+                "name": "Tonight",
+                "startTime": "2026-08-30T18:00:00-04:00",
+                "endTime": "2026-08-31T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 64,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 18
                 },
-                "windSpeed": "7 to 13 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 85. Southwest wind 7 to 13 mph."
+                "windSpeed": "5 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A slight chance of rain showers between 9pm and 11pm. Mostly cloudy, with a low around 64. West wind 5 to 10 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "As dawn approaches in Boston, a gentle calm drapes the city, punctuated only by the twinkling lights of the skyline, slowly yielding to the anticipatory glow of morning. Currently, the air is a comforting 61 degrees, mildly tempered by a soft southwest breeze whispering around six miles an hour. The night offers a tranquil repose, and while the clouds scuttle above, the promise of a bright and warm Sunday is just on the horizon.\n\nThe day ahead is set to unfold under a vibrant blue canvas laced with the warmth of sunshine, reaching towards a welcoming 85 degrees. As folks awaken and breathe in the freshness of the day, one might choose fabrics that allow a whisper of air yet shield from the mid-afternoon sun\u2014a blend of comfort and style, perhaps a light, airy shirt paired with relaxed slacks or a breezy sundress. It\u2019s a splendid day for a leisurely stroll along the Charles River or a sit beneath the shade of trees in the Boston Common, where thoughts can drift as easily as the soft breeze. The clarity of the skies and the golden warmth beckon outdoor exploration, promising a simple yet delightful communion with the world outside.",
-    "color_code": "#F0E68C",
-    "timestamp": "2026-08-30 00:52:40"
+    "weather_report": "As the sun ascends in Boston\u2019s clear blue sky, it blesses the city with a warmth that hints at the late summer days soon fading. With temperatures expected to flirt gently with the mid-eighties, the air carries a soft, inviting humidity, a whisper of summer\u2019s lingering embrace. A languid southwest breeze flows through, making it an excellent morning for a stroll along the Charles River or perhaps a leisurely coffee at an outdoor caf\u00e9, where the subtle rustle of leaves complements the soft laughter of life unfolding around you.\n\nAs evening descends, the sky will cloak itself in a veil of clouds, teasing the possibility of brief showers between nine and eleven, though the likelihood remains slim. Dress comfortably in light layers, allowing for a gradual transition from the brightness of day to the coolness of night. As twilight invites, capturing the vibrant energy of the city, consider exploring the local parks or indulging in the quiet of a hidden bookstore. This day in Boston might be a gentle reminder that while summer is still holding on, change is coming\u2014encouraging connections, calm, and contemplation for all who venture into its embrace.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-08-30 09:42:37"
 }
