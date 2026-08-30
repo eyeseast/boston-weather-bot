@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-30T18:53:00+00:00",
-            "temperature_f": 82.04,
-            "temperature_c": 27.8,
-            "humidity": 42.502275407954,
-            "wind_speed_mph": 37.04472,
-            "wind_direction": 240,
-            "description": "Clear"
+            "timestamp": "2026-08-30T22:20:00+00:00",
+            "temperature_f": 77.0,
+            "temperature_c": 25,
+            "humidity": 50.463975577095,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 230,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-08-30T15:00:00-04:00",
-                "endTime": "2026-08-30T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 85,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 85. Southwest wind around 13 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-08-30T18:00:00-04:00",
                 "endTime": "2026-08-31T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium",
                 "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
                 "detailedForecast": "A slight chance of rain showers between 7pm and 11pm. Mostly cloudy, with a low around 64. West wind 5 to 10 mph, with gusts as high as 22 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-08-31T06:00:00-04:00",
+                "endTime": "2026-08-31T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 77,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 77. Northeast wind around 7 mph."
             }
         ]
     },
-    "weather_report": "In Boston today, the afternoon unfolds under a canvas of mostly cloudy skies, suggesting a serene yet somewhat muted atmosphere. The warmth of the day, with temperatures nudging toward a pleasant 85 degrees, invites one to seek the solace of the outdoors, though the southwest wind provides just enough movement to remind us of summer's gentle breath. As evening approaches, the promise of a slight drizzle lingers in the air, a whisper of rain between 7 and 11 PM, hinting at the enchanting dance of droplets that may come to serenade the city.\n\nAs twilight descends, the cool embrace of night will descend to about 64 degrees, making it wise to layer up; perhaps a light jacket or sweater to comfortably navigate the late hours. There is a certain charm to a day like this, where a simple stroll along the Esplanade or a visit to a cozy caf\u00e9 may bring joy amidst the clouds. So, wander leisurely, sip a rich coffee, or lose yourself in a book at a nearby park as Boston transitions from day to night, its vibrant hues dulled by the encroaching clouds but still rich with the promise of serenity.",
-    "color_code": "#B0C4D7",
-    "timestamp": "2026-08-30 15:13:18"
+    "weather_report": "As twilight envelopes Boston, the atmosphere is a blend of anticipation and gentle calm. The clouds hang low and heavy, ushering in a slight chance of rain showers that may whisper through the city between the hours of seven and eleven this evening. With a low of around 64, a subtle chill is starting to weave its way into the air, buoyed by a west wind that rustles the nearby trees, dancing with gusts of up to 22 mph. The sky, overcast yet majestic, is far from dreary; it possesses a unique allure that invites one to step outside and relish the shifting light.\n\nAs Monday dawns, the forecast promises a radiant sun breaking through, transforming the landscape into a canvas of warmth, reaching highs around 77. Until then, dressing in layers may serve one well \u2014 a light jacket against the evening coolness, perhaps paired with long sleeves that can be shed as the day brightens. The evening is ripe for a lazy stroll through the cobblestone streets, the kind of walk that allows one to consider the day ahead or simply savor the momentary peace. Alternatively, this is a perfect time to nestle into a cozy caf\u00e9 with a book, sipping aromatic brews as thoughts swirl like the clouds above. Wherever the evening takes you, there is comfort in the embrace of this transitional weather, offering both a sense of adventure and tranquility.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-08-30 18:35:29"
 }
