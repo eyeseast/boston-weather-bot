@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-08-31T04:40:00+00:00",
-            "temperature_f": 68.0,
-            "temperature_c": 20,
-            "humidity": 93.974509366621,
+            "timestamp": "2026-08-31T15:40:00+00:00",
+            "temperature_f": 73.4,
+            "temperature_c": 23,
+            "humidity": 49.934634256059,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Mostly Cloudy"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-08-30T18:00:00-04:00",
-                "endTime": "2026-08-31T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 21
-                },
-                "windSpeed": "5 to 10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/bkn?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Mostly Cloudy",
-                "detailedForecast": "A slight chance of rain showers between 7pm and 11pm. Mostly cloudy, with a low around 64. West wind 5 to 10 mph, with gusts as high as 22 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2026-08-31T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-08-31T12:00:00-04:00",
                 "endTime": "2026-08-31T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 77,
+                "temperature": 79,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -49,14 +30,33 @@
                     "value": 0
                 },
                 "windSpeed": "7 mph",
-                "windDirection": "NE",
+                "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 77. Northeast wind around 7 mph."
+                "detailedForecast": "Mostly sunny, with a high near 79. East wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-08-31T18:00:00-04:00",
+                "endTime": "2026-09-01T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 57
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/rain_showers,60?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers between 1am and 4am, then rain showers likely and patchy fog. Mostly cloudy, with a low around 63. South wind 3 to 7 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the hour drapes the city in its velvety darkness, Boston settles into a night that feels mild, saturated with a whisper of moisture. A slight chance of rain lurks quietly in the air, promising only an occasional sprinkle. The sky holds a tapestry of clouds, each one draped in shades of deep gray, while the west wind stirs gently, hinting at the warmth to come with its gusts. This evening offers a comfortable backdrop for a stroll beneath the flickering city lights or a reflective moment on a quiet balcony, with the muted sounds of urban life breathing around you.\n\nLooking ahead to Monday, the clouds are expected to part, revealing a day adorned in the soft embrace of sunlight. The temperature will rise to a pleasing warmth, inviting you to embrace the outdoors. It\u2019s a splendid opportunity for a leisurely lunch at a local caf\u00e9, where sunlight spills over the tables, or perhaps a gentle walk along the waterfront, where the sigh of the waves accompanies your thoughts. Dress in layers to catch the changing moods of the day\u2014perhaps a light jacket to fend off the lingering chill at dawn, shedding it for a simple tee as the sun climbs higher. The day beckons with its quiet promise of beauty, the sort that inspires simple joys rather than grand adventures.",
-    "color_code": "#D6D6D6",
-    "timestamp": "2026-08-31 00:56:22"
+    "weather_report": "In Boston, the afternoon unfolds under a gentle embrace of sunlight, a balmy warmth beckoning you to venture outdoors. The horizon stretches beyond, a canvas of soft blues and whites where clouds lazily drift. The unmistakable whisper of a light eastern breeze invigorates the air, grounding the excitement of late summer. As the day wanes, the evening will bring a shift, with a dance of rain showers expected to grace the city after midnight, mingling with the coastal kiss of fog. \n\nTo relish in today's gleaming brightness before the inevitable moisture arrives, comfortable attire is advisable\u2014perhaps a light shirt or blouse paired with breathable fabrics; keep a light jacket at hand for when the temperature dips under the evening's embrace. This enchanting afternoon is perfectly suited for a meander through the vibrant streets, allowing one to savor a coffee al fresco, or to simply enjoy the muffled hum of life as it carries on. Engage in a leisurely stroll along the riverbank, or perhaps discover a tucked-away garden where nature whispers its secrets. Enjoy today\u2019s pleasant charm while it lasts, as the promise of rain lingers on the horizon.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-08-31 12:01:49"
 }
