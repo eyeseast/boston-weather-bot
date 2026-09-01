@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-01T19:05:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 82.631392228995,
+            "timestamp": "2026-09-01T22:10:00+00:00",
+            "temperature_f": 62.6,
+            "temperature_c": 17,
+            "humidity": 93.838813960785,
             "wind_speed_mph": 12.401928,
             "wind_direction": 160,
             "description": "Cloudy"
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-01T15:00:00-04:00",
-                "endTime": "2026-09-01T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "Showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 70. East wind around 12 mph. Chance of precipitation is 100%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-09-01T18:00:00-04:00",
                 "endTime": "2026-09-02T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 60,
+                "temperature": 59,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 67
+                    "value": 49
                 },
-                "windSpeed": "10 mph",
+                "windSpeed": "3 to 7 mph",
                 "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,70/tsra,40?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and showers and thunderstorms likely before 4am, then patchy fog and a slight chance of rain showers. Cloudy, with a low around 60. East wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,50/rain_showers?size=medium",
+                "shortForecast": "Chance Rain Showers then Patchy Fog",
+                "detailedForecast": "A chance of rain showers and patchy fog before 10pm, then patchy fog and a slight chance of rain showers between 10pm and 3am. Mostly cloudy, with a low around 59. East wind 3 to 7 mph. Chance of precipitation is 50%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-09-02T06:00:00-04:00",
+                "endTime": "2026-09-02T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 73,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 73. East wind 5 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, a curtain of gray shrouds the city, punctuated by the sound of distant thunder\u2014a reminder of the summer storms weaving through the atmosphere. The air hangs heavy with moisture, thickening the horizon and reducing clarity to a mere suggestion of distant shapes. It feels a touch warmer than the outlook indicates, yet the humidity wraps around you, making the promise of a cool breeze seem but a fleeting thought. Those venturing outdoors might consider a light jacket, a sturdy umbrella, or even waterproof shoes, since the forecast ensures a steady chance of showers and the possibility of sudden, heavy rain.\n\nAs twilight approaches, the low-hanging clouds and patchy fog will invite a quiet reflection on the day's unfolding. With evening showers likely lingering, it might be best to seek solace indoors, perhaps indulging in a good book or enjoying a favorite movie while the world outside remains cloaked in mist. For those yearning for a brief escape, a cozy caf\u00e9 could provide the perfect sanctuary, where one might savor the warmth of a hot drink, surrounded by the gentle murmur of rain tapping against the window.",
-    "color_code": "#A2B2B8",
-    "timestamp": "2026-09-01 15:18:25"
+    "weather_report": "As twilight drapes its gentle veil over Boston, the atmosphere carries an air of quiet contemplation, tinged with the restless promise of rain. A soft, amorphous haze blankets the city, creating a feeling of intimacy as the skyline begins to lose its edges in the fading light. The anticipated showers linger like a whisper, with the night holding a 50% chance of nourishing droplets. As temperatures settle into a comfortable embrace around 59 degrees, a light east wind stirs, inviting a light outer layer\u2014a cozy cardigan or a feathery jacket would be a fitting choice to stave off the evening chill.\n\nTomorrow unfolds with a promise of warmth, as daytime temperatures rise to a welcoming 73 degrees beneath a shroud of persistent clouds. The weather invites leisurely pursuits; one might relish a quiet stroll along the Charles River, feeling the gentle breeze and perhaps pausing at a park bench to absorb the serene rhythms of urban life. Alternatively, a visit to a local caf\u00e9 would offer warmth and comfort, pairing well with the muted ambiance of the day. While the fog may obscure the horizon, it crafts a backdrop ripe for introspection, allowing the beauty of the ordinary to become the focus, where moments of calm easily find their way into one's day.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2026-09-01 18:30:03"
 }
