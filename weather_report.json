@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-01T04:10:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 93.884545007364,
+            "timestamp": "2026-09-01T13:00:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 93.929774401027,
             "wind_speed_mph": 12.401928,
-            "wind_direction": 160,
-            "description": "Cloudy"
+            "wind_direction": 80,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-09-01T00:00:00-04:00",
-                "endTime": "2026-09-01T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 21
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 4am. Mostly cloudy, with a low around 64. South wind around 5 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-09-01T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-09-01T09:00:00-04:00",
                 "endTime": "2026-09-01T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 70,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 80
+                    "value": 100
                 },
-                "windSpeed": "3 to 9 mph",
+                "windSpeed": "5 to 12 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/tsra,80?size=medium",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
                 "shortForecast": "Patchy Fog",
-                "detailedForecast": "A chance of rain showers before 7am, then rain showers likely and patchy fog between 7am and 2pm, then patchy fog and showers and thunderstorms. Mostly cloudy, with a high near 70. Southeast wind 3 to 9 mph. Chance of precipitation is 80%. New rainfall amounts between a quarter and half of an inch possible."
+                "detailedForecast": "Patchy fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 70. Southeast wind 5 to 12 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-09-01T18:00:00-04:00",
+                "endTime": "2026-09-02T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 67
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,70/tsra,40?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and showers and thunderstorms likely before 4am, then patchy fog and a slight chance of rain showers. Cloudy, with a low around 60. East wind around 10 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As night blankets Boston, the city rests in a state of cool anticipation. The air, imbued with the faint promise of rain, whispers through the trees as a gentle breeze from the south encourages thoughts of what tomorrow may bring. With a low of 64 hanging in the air, the clouds drift above, enshrouding the night in a muted embrace. The possibility of rain showers later in the early hours injects a certain electric vitality into the atmosphere, a precursor to the shifts that will reveal themselves at dawn.\n\nAs day breaks, the forecast hints at drizzling showers and the hazy appearance of fog that promises to linger between the streets and alleys of this historic city. A chance of thunderstorms by midday melds into the background of a cool 70 degrees, painting a picture that feels both serene and slightly ominous, calling for layers of lightweight clothing that can adapt to the shifting conditions. An umbrella may prove to be your ally as you venture out\u2014perhaps for a brisk walk along the Esplanade or a quiet visit to a nearby caf\u00e9, where you can sip a warm beverage and watch the rain nurture the earth around you. The day's charm lies in its unpredictability, where the music of raindrops on rooftops creates a soothing soundtrack to life unfolding in rhythm with nature.",
-    "color_code": "#4A4A4A",
-    "timestamp": "2026-09-01 00:35:16"
+    "weather_report": "As Boston awakens under a subdued sky of muted grays, the day reveals itself draped in a cloak of fog and the promise of rain. This atmospheric embrace hints at scenes of life cloaked in mystery, with patchy fog swirling through the streets and whispering secrets to those inclined to lend an ear. The forecast brings with it the likelihood of showers and thunder, a symphony of nature\u2019s percussion as the clouds prepare to spill the treasures of the heavens. The air is thick with humidity and warmth, urging a slight shift in wardrobe to accommodate an ever-present drizzle\u2014perhaps light layers accompanied by a waterproof jacket or a careful choice of sturdy footwear that welcomes the wet pavement.\n\nAs the day unfolds, the anticipated showers may wash over the city with the kind of fervor that quickens the allure of cozy indoor pursuits. A visit to a local caf\u00e9, where the aroma of freshly brewed coffee mingles with the soft chatter of neighbors, offers solace against the looming weather. Alternatively, the crimson hues of a novel might charm a solitary reader, all while listening to the rhythmic patter of raindrops against the windowpane. But those brave enough to step outside will find the earthy scent of rain invigorating, a reminder of life\u2019s continuous cycle, even as the hours creep toward twilight. As evening approaches, the storms will likely linger, softening into a gentle sigh, leaving behind a world glistening with the freshness only a rainy day can bestow.",
+    "color_code": "#A8B9C3",
+    "timestamp": "2026-09-01 09:22:01"
 }
