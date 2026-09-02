@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-02T03:35:00+00:00",
-            "temperature_f": 60.8,
-            "temperature_c": 16,
-            "humidity": 100,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "timestamp": "2026-09-02T16:00:00+00:00",
+            "temperature_f": 73.4,
+            "temperature_c": 23,
+            "humidity": 56.905982387402,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 100,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-09-01T23:00:00-04:00",
-                "endTime": "2026-09-02T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 14
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
-                "shortForecast": "Mostly Cloudy then Patchy Fog",
-                "detailedForecast": "Patchy fog between 1am and 3am. Mostly cloudy, with a low around 59. East wind around 5 mph. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-09-02T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-09-02T12:00:00-04:00",
                 "endTime": "2026-09-02T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 73,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "9 mph",
                 "windDirection": "E",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 73. East wind 5 to 8 mph."
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 73. East wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-09-02T18:00:00-04:00",
+                "endTime": "2026-09-03T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/tsra,60?size=medium",
+                "shortForecast": "Mostly Cloudy then Showers And Thunderstorms Likely",
+                "detailedForecast": "Showers and thunderstorms likely after 1am. Mostly cloudy, with a low around 61. Southeast wind 3 to 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the clock approaches the stroke of midnight, Boston settles into a gentle embrace of autumnal evening. A patch of fog is forecasted to waver in and out between the quaint hours of one and three, lending an ethereal softness to the cityscape. The night, though mostly veiled by cloud cover, wears a low temperature that dances around the gentle warmth of 59 degrees. A breeze from the east whispers softly, brushing against the skin like a lover\u2019s sigh.\n\nLooking ahead, Wednesday may don a cloak of cloudiness, yet the promise of a mild day prevails with temperatures climbing to a comfortable 73. The air is neither oppressive nor stifling; rather, it lingers with an invitation to roam. As such, today is perfectly primed for an amiable stroll along the Charles, where the murmurs of the water meet the soft rustle of leaves preparing to relinquish their summer hues. A light jacket will be your ideal companion, providing just the right amount of warmth as you traverse the scenic paths. Take this chance to savor a coffee at a nearby caf\u00e9, the aroma mingling with the cool air, perfect for reflection before the bustle of day sets in.",
-    "color_code": "#666666",
-    "timestamp": "2026-09-01 23:57:52"
+    "weather_report": "The afternoon in Boston presents a canvas of partial sunshine, a warm embrace of gentle breezes, and hints of the transformations that the evening will bring. With temperatures hovering around a pleasant 73 degrees, this midday offers a moment to appreciate the delicate balance of nature. The sky, a mild tapestry of clouds interplaying with bright patches of blue, invites one to linger outside, perhaps with a book in hand or strolling through the familiar paths of a nearby park, where the resonance of cicadas punctuates the warm air.\n\nHowever, as dusk approaches, the narrative shifts towards the more tempestuous side of weather, with thunderstorms lurking just behind the horizon. A low of approximately 61 awaits, and the murmur of rain and distant rumbles may soon weave into the evening's fabric. With a modest southeast breeze promising a gentle stir, it would be wise to pack an umbrella or don a light jacket before heading out. As the city transitions into the night, enjoying a cozy dinner in a nearby caf\u00e9 or catching up with friends indoors would suit the ambiance perfectly.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-09-02 12:21:31"
 }
