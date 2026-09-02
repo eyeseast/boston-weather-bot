@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-02T16:00:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 56.905982387402,
+            "timestamp": "2026-09-02T22:10:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 64.287246008636,
             "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 100,
-            "description": "Partly Cloudy"
+            "wind_direction": 110,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-02T12:00:00-04:00",
-                "endTime": "2026-09-02T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 73,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 73. East wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-09-02T18:00:00-04:00",
                 "endTime": "2026-09-03T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 61,
+                "temperature": 63,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 60
+                    "value": 89
                 },
-                "windSpeed": "3 to 8 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn/tsra,60?size=medium",
-                "shortForecast": "Mostly Cloudy then Showers And Thunderstorms Likely",
-                "detailedForecast": "Showers and thunderstorms likely after 1am. Mostly cloudy, with a low around 61. Southeast wind 3 to 8 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/bkn/tsra,90?size=medium",
+                "shortForecast": "Mostly Cloudy then Patchy Fog",
+                "detailedForecast": "Rain showers likely between 1am and 5am, then patchy fog and showers and thunderstorms. Mostly cloudy, with a low around 63. Southeast wind 7 to 10 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-09-03T06:00:00-04:00",
+                "endTime": "2026-09-03T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 82,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 89
+                },
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,90/tsra,30?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and showers and thunderstorms before 10am, then patchy fog and a chance of showers and thunderstorms. Mostly cloudy, with a high near 82. Southwest wind 7 to 12 mph. Chance of precipitation is 90%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "The afternoon in Boston presents a canvas of partial sunshine, a warm embrace of gentle breezes, and hints of the transformations that the evening will bring. With temperatures hovering around a pleasant 73 degrees, this midday offers a moment to appreciate the delicate balance of nature. The sky, a mild tapestry of clouds interplaying with bright patches of blue, invites one to linger outside, perhaps with a book in hand or strolling through the familiar paths of a nearby park, where the resonance of cicadas punctuates the warm air.\n\nHowever, as dusk approaches, the narrative shifts towards the more tempestuous side of weather, with thunderstorms lurking just behind the horizon. A low of approximately 61 awaits, and the murmur of rain and distant rumbles may soon weave into the evening's fabric. With a modest southeast breeze promising a gentle stir, it would be wise to pack an umbrella or don a light jacket before heading out. As the city transitions into the night, enjoying a cozy dinner in a nearby caf\u00e9 or catching up with friends indoors would suit the ambiance perfectly.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-09-02 12:21:31"
+    "weather_report": "In Boston tonight, the air hangs heavy with the promise of rain, a soft symphony of moisture stirring in the evening gloom. As clouds diffuse the fading light, a gentle patter of showers is expected to begin between the hours when most souls drift into dreams. With a low resting around a mild 63 degrees, the southeast breeze murmurs through the trees, offering a hint of warmth despite the impending dampness. Perhaps you'll feel the first touches of fog trickling in to obscure the familiar skyline, making the evening feel even more intimate.\n\nAs dawn breaks on Thursday, remnants of the storms may still linger. Patchy fog will weave its way through the streets, teetering between a looming overcast and brief flashes of sun. A high of 82 degrees beckons you outside, but it is wise to dress in layers\u2014the morning chill can be deceptive under the promise of later warmth. This is a day for quiet explorations; maybe a stroll through a local coffee shop followed by a leisurely walk along the Esplanade, where the rhythms of nature harmonize with the city's pulse. Embrace the textures of wet earth and renewed foliage, making the most of a moment where everything feels freshly washed and alive.",
+    "color_code": "#8F9BBA",
+    "timestamp": "2026-09-02 18:29:25"
 }
