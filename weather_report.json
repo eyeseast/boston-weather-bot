@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-03T15:50:00+00:00",
-            "temperature_f": 71.6,
-            "temperature_c": 22,
-            "humidity": 88.436416127982,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Cloudy"
+            "timestamp": "2026-09-03T22:15:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 78.354092127266,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 70,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-03T12:00:00-04:00",
-                "endTime": "2026-09-03T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 81,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 53
-                },
-                "windSpeed": "5 to 8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/tsra_sct,50?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and a chance of showers and thunderstorms before 5pm, then a chance of showers and thunderstorms. Partly sunny, with a high near 81. Southwest wind 5 to 8 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-09-03T18:00:00-04:00",
                 "endTime": "2026-09-04T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 64,
+                "temperature": 66,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 27
+                    "value": 25
                 },
                 "windSpeed": "5 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/tsra_hi,30/fog?size=medium",
-                "shortForecast": "Chance Showers And Thunderstorms then Patchy Fog",
-                "detailedForecast": "A chance of showers and thunderstorms before 7pm, then a slight chance of showers and thunderstorms between 7pm and 8pm, then patchy fog between 9pm and 3am. Partly cloudy, with a low around 64. West wind around 5 mph. Chance of precipitation is 30%."
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/fog?size=medium",
+                "shortForecast": "Chance Rain Showers then Patchy Fog",
+                "detailedForecast": "A chance of rain showers before 8pm, then patchy fog. Mostly cloudy, with a low around 66. Northeast wind around 5 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-09-04T06:00:00-04:00",
+                "endTime": "2026-09-04T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 84,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/fog/sct?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Sunny",
+                "detailedForecast": "Patchy fog before 8am. Mostly sunny, with a high near 84. Northwest wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "Boston finds itself enveloped in a shroud of gentle haze this afternoon, as clouds drift lazily above, punctuated now and then by the muted brightness of scattered sunlight. The weather hints at a volatile temperament, with patchy fog making brief appearances, while the possibility of summer showers and distant thunderstorm echoes lingers in the warm air, offering a glimpse of nature's unpredictable charm. The air hovers close to that sweet spot of eighty degrees, but beneath the surface warmth, an undercurrent of humidity whispers the tale of a chance for rain.\n\nAs twilight approaches, the evening beckons with a hint of cooler air, inviting you to consider a light jacket should you choose to stroll along the riverbanks or enjoy a peaceful moment in one of Boston's intimate coffee shops. The sky will drift toward a calm embrace, giving way to patchy fog that might weave through the streets, lending an enigmatic quality to familiar paths. A gentle westward breeze carries the scents of autumn slowly edging into summer's lengthy embrace, making it an ideal time for quiet contemplation or a leisurely read in a cozy corner of the city. Embrace the day with a relaxed spirit, clad in comfort and just a layer or two to suit the late-day chill.",
-    "color_code": "#A4A3B9",
-    "timestamp": "2026-09-03 12:11:53"
+    "weather_report": "As twilight unfolds over Boston, the air carries a gentle warmth with a hint of moisture, indicative of the evening's approach. Scattered clouds drift overhead, reminiscent of soft cotton candy against a fading blue sky. The city, quieting from its daily hustle, oscillates between the lingering chance of rain showers and the encroaching fog that whispers secrets of the night ahead. As darkness settles, a temperature of around 66 degrees makes a light jacket or a cozy sweater a perfect companion for those stepping out.\n\nTomorrow promises a shift towards sunlit serenity, a welcome relief from the hazy remnants of the day before. With a high near 84 anticipated, the morning will greet early risers with lingering patches of fog, inviting quiet contemplation before the full embrace of the sun. The gentle northwest breezes will stir the leaves, beckoning outdoor pursuits. A simple walk along the Charles River or a visit to a local caf\u00e9 could yield small pleasures, where one might savor a warm drink while watching the lively rhythm of the city awaken around them. As evening returns, the warmth will linger, making a leisurely stroll or a spontaneous outdoor gathering feel not only pleasant but necessary.",
+    "color_code": "#D6CBE4",
+    "timestamp": "2026-09-03 18:27:01"
 }
