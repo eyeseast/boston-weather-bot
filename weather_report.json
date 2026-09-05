@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-05T07:50:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
-            "humidity": 93.698536677741,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Clear"
+            "timestamp": "2026-09-05T14:35:00+00:00",
+            "temperature_f": 71.6,
+            "temperature_c": 22,
+            "humidity": 64.504431334078,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 40,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-09-05T04:00:00-04:00",
-                "endTime": "2026-09-05T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 63. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-09-05T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-09-05T10:00:00-04:00",
                 "endTime": "2026-09-05T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 71,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 29
+                    "value": 18
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Mostly Cloudy then Isolated Rain Showers",
+                "detailedForecast": "Isolated rain showers between 1pm and 2pm. Mostly cloudy, with a high near 71. Northeast wind around 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-09-05T18:00:00-04:00",
+                "endTime": "2026-09-06T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 8
+                },
+                "windSpeed": "2 to 7 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,30?size=medium",
-                "shortForecast": "Mostly Sunny then Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 2pm. Mostly sunny, with a high near 71. North wind 6 to 10 mph. Chance of precipitation is 30%."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 57. North wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As the early morning hours unfold in Boston, a serene stillness cloaks the city, marked by a gentle embrace of mostly clear skies. The gentle northwest breeze carries the warmth of the night into daybreak, whispering promises of comfort with temperatures resting around a soothing sixty-three degrees. Although shadows dance lightly in the dim light, the anticipation of a more vibrant Saturday is palpable, though clouds may flirt with the sun later in the afternoon.\n\nAs the day progresses, expect a touch of unpredictability, with rain showers potentially gracing the city after two o'clock. The forecast calls for mostly sunny spells amid a vibrant canvas of blue, interrupted only by the possibility of scattered droplet showers. Today\u2019s high is a pleasant seventy-one, inviting a wardrobe choice of light layers\u2014a breathable shirt complemented by a light jacket for the fleeting chill of morning and the potential dampness of afternoon rain. The spirit of Boston beckons you outdoors, whether it be a leisurely stroll along the waterfront, where the air thrums with muted excitement, or perhaps a quiet afternoon in a favorite caf\u00e9, sipping a warm cup while observing the gentle rhythm of life unwind, always adding to the city\u2019s timeless charm.",
-    "color_code": "#B5C6E6",
-    "timestamp": "2026-09-05 04:16:12"
+    "weather_report": "As the sun stretches precariously behind a shroud of soft, gray clouds, Boston stands resolute, swathed in a hint of lingering moisture from early morning drizzle. The air feels pleasantly mild, a gentle whisper of coolness flowing from the northeast, inviting one to linger outdoors for just a little while. Today, the potential for isolated showers lingers on the horizon between early afternoon, as raindrops may play their fleeting dance across the city. Despite the cloud cover, there\u2019s a certain beauty in the muted light, a soft glow that warms the spirit even as it cloaks the skyline.\n\nWhether you\u2019re heading to a quaint caf\u00e9 or perhaps meandering through a favored park, opting for a light, long-sleeved shirt paired with comfortable trousers seems prudent. A lightweight jacket will serve you well as the temperature dips gently into the early evening. While the chance of rain remains slight, it\u2019s best to remain prepared for nature\u2019s whims. This afternoon, why not take a moment to explore one of the city\u2019s cultural gems or simply enjoy a slow stroll along the Charles River? A day like this beckons for a quiet appreciation of the nuances of urban life amidst soft sounds and muted colors, allowing one to revel in the ordinary yet extraordinary embrace of a Boston day.",
+    "color_code": "#A6B3C4",
+    "timestamp": "2026-09-05 10:56:13"
 }
