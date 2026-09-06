@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-05T21:35:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 72.761266404652,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 60,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-09-06T03:45:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 93.745817353204,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-05T17:00:00-04:00",
-                "endTime": "2026-09-05T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 71,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 8
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 71. Northeast wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-09-05T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-09-06T00:00:00-04:00",
                 "endTime": "2026-09-06T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 57,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 8
+                    "value": 6
                 },
-                "windSpeed": "2 to 7 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 57. North wind 2 to 7 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 57. North wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-09-06T06:00:00-04:00",
+                "endTime": "2026-09-06T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 70,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 70. North wind 5 to 8 mph."
             }
         ]
     },
-    "weather_report": "As the sun begins its gentle descent towards the horizon, Boston finds itself wrapped in a shroud of cloud, the late-afternoon sky a tapestry of muted grays. The high temperatures flirt gently with 71 degrees, with a soft northeast breeze whispering through the trees, carrying the promise of a refreshing evening. This mostly cloudy tableau suggests a tranquil, if not particularly vivid, atmosphere; it is a calm sort of day where one might notice the world moving quietly about, each street and alley reflecting a subtle, understated charm.\n\nTonight promises more of this serene ambience, temperatures slipping to a cozy 57 degrees as the north wind wraps around the city. Beneath these clouds, the unassuming beauty of the urban landscape beckons\u2014there is something idyllic in the grayness that invites introspection. Perhaps a stroll through the quieter streets, a visit to a favorite caf\u00e9 for a warm beverage, or some light reading at home as shadows lengthen would perfectly complement the soft climate. Dress accordingly; a light sweater will serve well against the evening chill. For those seeking simple pleasures, now is a time to enjoy the quiet cadence of Boston life, where every breath feels refreshed by the coming autumn.",
-    "color_code": "#A1B0B6",
-    "timestamp": "2026-09-05 17:59:25"
+    "weather_report": "As the early morning whispers of Boston drift into the new day, the air is a gentle embrace, cool and slightly damp, with temperatures nudging around a mild 57 degrees. Above, the sky wears a cloak of mostly cloudy fabric, hinting at softer light as daylight unfurls. A whispering north wind carries itself through the streets, a subtle invitation to step outside and enjoy the crispness of the morning.\n\nAs the sun climbs higher on this Sunday, the day promises to transform, revealing patches of blue in what will become a partly sunny expanse. With a high near 70, it\u2019s a perfect canvas for quiet strolls along the Esplanade or perhaps a leisurely visit to one of Boston\u2019s many parks, where the scent of earth and grass mingles with the invigorating breeze. Dressing in layers, a light sweater or a thin jacket could be just the comfort needed against the coolness of the morning that will warm to a delightful afternoon. The day calls for simple pleasures, perhaps sipping coffee outdoors at a favorite caf\u00e9 or meandering through the vibrant twists of Beacon Hill, where the charm of cobblestones and quaint storefronts awaits with open arms.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-09-06 00:01:35"
 }
