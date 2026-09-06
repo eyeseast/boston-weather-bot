@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-06T17:50:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 67.97370121525,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 50,
-            "description": "Light Rain"
+            "timestamp": "2026-09-06T21:40:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 64.287246008636,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 220,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-06T14:00:00-04:00",
-                "endTime": "2026-09-06T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 70,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 8
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 70. North wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-09-06T18:00:00-04:00",
                 "endTime": "2026-09-07T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 52,
+                "temperature": 54,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 8
+                    "value": 17
                 },
-                "windSpeed": "2 to 6 mph",
+                "windSpeed": "2 to 7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. West wind 2 to 6 mph."
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/few?size=medium",
+                "shortForecast": "Isolated Rain Showers then Mostly Clear",
+                "detailedForecast": "Isolated rain showers before 7pm. Mostly clear, with a low around 54. West wind 2 to 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Labor Day",
+                "startTime": "2026-09-07T06:00:00-04:00",
+                "endTime": "2026-09-07T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 76,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 76. Northwest wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sun has finally begun to break through the clouds, casting a gentle light over the city's historic streets and lively parks. The air feels crisp against the skin, a refreshing prelude to the approaching evening. As the day warms to a comfortable high near seventy, a mild north wind stirs, whispering of autumn\u2019s imminent arrival. Tonight promises a peaceful transition to a mostly clear sky, inviting the stars to twinkle softly above. As evening descends, the temperature will mellow to a cozy low of around fifty-two, ideal for wrapping oneself in a light sweater or a casual jacket.\n\nWith such inviting weather, one might think of leisurely walks along the Charles River or perhaps visiting a cozy caf\u00e9, the aroma of coffee mingling with the cool air. The essence of this day encourages simple pleasures: gathering with friends for a quiet chat outdoors or indulging in a book at a local park, where the warmth of the sun caresses the skin. As dusk approaches, the gentle chill will encourage a warm drink in hand, perfect for savoring the tranquil ambiance of the city settling into the evening.",
-    "color_code": "#A3C1E2",
-    "timestamp": "2026-09-06 14:09:44"
+    "weather_report": "As twilight descends upon Boston, the remnants of isolated rain showers fading into the evening render the atmosphere crisp yet inviting. The lingering clouds now give way to a clear vault of sky punctuated by the muted palette of early night. With temperatures settling around a pleasant fifty-four degrees, a gentle breeze wafts through the city, carrying with it the promise of a comfortable night. Tonight, the stillness is punctuated only by the soft rustling of leaves, a reminder that summer is slowly yielding to autumn.\n\nAs Labor Day unfolds, a radiant sun promises to grace Boston with a day marked by warmth and clarity, reaching highs near seventy-six. The enticing prospect of blue skies invites leisurely strolls along the waterfront or perhaps a tranquil afternoon at one of the local parks, where families gather to share laughter and dreams under the sun. Whether indulging in a quiet read on a grassy knoll or enjoying a coffee al fresco, the day beckons all to savor a brief respite before the inevitable transition into autumn's embrace. A light sweater may suffice for the evening's cool touch, but for the day's activities, lighter clothing is perfectly suited, allowing for ease and comfort as you navigate the gentle warmth.",
+    "color_code": "#A2C2D4",
+    "timestamp": "2026-09-06 18:01:53"
 }
