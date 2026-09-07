@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-07T19:30:00+00:00",
-            "temperature_f": 78.8,
-            "temperature_c": 26,
-            "humidity": 39.058443699936,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 290,
-            "description": "Partly Cloudy"
+            "timestamp": "2026-09-07T22:25:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 38.493993567539,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 320,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Labor Day",
-                "startTime": "2026-09-07T15:00:00-04:00",
-                "endTime": "2026-09-07T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 78,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 78. Northwest wind around 10 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-09-07T18:00:00-04:00",
                 "endTime": "2026-09-08T06:00:00-04:00",
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 60. Northwest wind 5 to 8 mph."
+                "detailedForecast": "Mostly clear, with a low around 60. Northwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-09-08T06:00:00-04:00",
+                "endTime": "2026-09-08T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 82,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 82. Northwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the sun casts a warm embrace over the city this Labor Day, illuminating the skies with a gentle, resolute brightness. The air is clear, inviting a sense of freedom that begs for exploration. As the clock ticks to mid-afternoon, the high of 78 combines with a light northwest breeze, harmoniously balancing warmth with a refreshing touch, perfect for a leisurely stroll through the winding streets or perhaps a quiet moment in one of the city's green spaces.\n\nAs evening approaches, a soft transition promises a mild night, with the temperature descending to around 60. The clarity of the day assures a peaceful night ahead, where the stars will begin to twinkle against the fading light. Dress comfortably in light layers\u2014perhaps a breathable t-shirt complemented by a cardigan for the cooler hours. The day beckons for simple pleasures; why not enjoy an outdoor caf\u00e9, savoring the uncluttered sky, or take a leisurely walk by the waterfront, where the gentle waves whisper stories of days gone by. With a backdrop this lovely, even the mundane feels enriched with possibility, inviting all to savor the beauty of the moment.",
-    "color_code": "#A3C1E1",
-    "timestamp": "2026-09-07 15:45:56"
+    "weather_report": "As twilight descends upon Boston, the evening air is invigorated by a gentle northwest breeze, whispering promises of a crisp and clear night. The sky lays open, a canvas of soft blues and fading golds, empty of fog or haze\u2014a particularly lovely backdrop as the city transitions into the quieter hours. In the distance, the gentle silhouette of the skyline stands proud, unobscured and clear, inviting a contemplation of the day just past.\n\nTomorrow ushers in the morning light with an appealing warmth, suggesting a day ripe for simple pleasures. With temperatures anticipated to flirt with the low eighties, one would do well to dress in light layers, comfortably embracing the sun while keeping a light jacket on hand for the cooler breezes that often emerge. A stroll along the Charles or perhaps a visit to a local caf\u00e9 for a leisurely breakfast could be just the remedy for the spirit. The beauty of the day lies less in extravagance and more in the art of savoring a moment, whether that's finding a secluded bench to read or breaking bread with a friend in the embrace of Boston\u2019s charming streets.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2026-09-07 18:41:41"
 }
