@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-08T02:53:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
+            "timestamp": "2026-09-08T12:30:00+00:00",
+            "temperature_f": 62.6,
+            "temperature_c": 17,
+            "humidity": 77.309999878277,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": ""
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-09-08T00:00:00-04:00",
-                "endTime": "2026-09-08T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 57. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-09-08T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-09-08T08:00:00-04:00",
                 "endTime": "2026-09-08T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 79,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 3
+                    "value": 6
                 },
                 "windSpeed": "5 to 9 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 79. Northwest wind 5 to 9 mph."
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 79. North wind 5 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-09-08T18:00:00-04:00",
+                "endTime": "2026-09-09T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
+                },
+                "windSpeed": "6 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 60. Southeast wind around 6 mph."
             }
         ]
     },
-    "weather_report": "As the stillness of night cloaks Boston, the gentle hum of the city is accompanied by a whisper of cool air, wrapping the landscape in a soft embrace. With temperatures sitting at a comfortable 57 degrees, there is a serene clarity to the atmosphere\u2014partly cloudy skies allow for scattered glimmers of starlight, hinting at the promise of a refreshing Tuesday dawn. As morning approaches, one can anticipate a delightful transformation, where the sun will rise to greet the day with a warmth nudging near 79 degrees. The northwest winds will carry with them a gentle encouragement, inviting residents to step outside and savor the onset of early fall.\n\nGiven the moderate temperatures, the morning may call for a light jacket, perhaps a cozy sweater that can easily be shed as the sun breaks through. The day beckons with countless possibilities; a leisurely stroll along the harbor's edge, stopping perhaps for a quiet cup of coffee at a local caf\u00e9, or an afternoon spent exploring the picturesque streets that weave through historic neighborhoods. With the air still holding the freshness of early autumn, today presents a splendid opportunity to appreciate the simple joys of life\u2014one might even consider a picnic in the park, where laughter and conversation can flow as freely as the gentle breeze.",
+    "weather_report": "The morning sun casts a gentle warmth over Boston, promising a delightful day ahead. With mostly sunny skies extending far into the horizon, the air is crisp yet inviting, the kind of day that urges you to step outside and embrace the world. The temperature is expected to reach a comfortable 79 degrees, making it perfect for a leisurely stroll through the city or perhaps a trip to one of its lush parks. A light north wind carries with it the whispers of autumn, a welcome hint of change that dances through the leaves.\n\nAs evening approaches, expect a transition to mostly cloudy skies, presenting a softer close to the day with temperatures falling to around 60 degrees. This gradual shift envelops the city in a gentle embrace, ideal for wrapping yourself in a light jacket as you savor a quiet dinner or attend a local evening event. Considering the overall pleasantry of the day, dressing in layers will allow you to adapt to the warmth of noon and the coolness of the evening. Whether exploring the local caf\u00e9 scene or indulging in a captivating book beneath a tree, today holds the potential for simple yet memorable encounters in the heart of Boston.",
     "color_code": "#B0C4DE",
-    "timestamp": "2026-09-08 00:02:45"
+    "timestamp": "2026-09-08 08:46:31"
 }
