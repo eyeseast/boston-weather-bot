@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-09T19:00:00+00:00",
-            "temperature_f": 78.8,
-            "temperature_c": 26,
-            "humidity": 57.634332679046,
+            "timestamp": "2026-09-09T22:00:00+00:00",
+            "temperature_f": 73.4,
+            "temperature_c": 23,
+            "humidity": 78.209169794993,
             "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 180,
-            "description": "Mostly Clear"
+            "wind_direction": 190,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-09T15:00:00-04:00",
-                "endTime": "2026-09-09T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 79,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 5
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 79. South wind around 12 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-09-09T18:00:00-04:00",
                 "endTime": "2026-09-10T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,20/tsra,40?size=medium",
                 "shortForecast": "Chance Rain Showers",
                 "detailedForecast": "A chance of rain showers between 8pm and 2am, then a chance of showers and thunderstorms. Mostly cloudy, with a low around 71. Southwest wind 12 to 18 mph, with gusts as high as 32 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-09-10T06:00:00-04:00",
+                "endTime": "2026-09-10T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 85,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 36
+                },
+                "windSpeed": "17 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/sct?size=medium",
+                "shortForecast": "Chance Rain Showers then Mostly Sunny",
+                "detailedForecast": "A chance of rain showers before 8am. Mostly sunny, with a high near 85. West wind around 17 mph, with gusts as high as 31 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, the skies are draped in a soft quilt of mostly cloudy hues, the air feels warm with a hint of buoyancy, a reminder of summer still lingering, even as it edges toward the inevitable embrace of autumn. The temperature hovers close to 79 degrees, inviting passersby to engage with the world outside while a gentle south wind calls softly at 12 mph. With the sun peeping tentatively through the clouds, it's a day that offers both promise and slight trepidation; a lingering chance of rain draws near, whispering tales of showers and perhaps a thunderstorm before the night's delicate embrace.\n\nAs dusk approaches and the clock ticks towards evening, a low of 71 beckons with a cool allure, but don\u2019t forget the winds that will dance across the landscape with gusts as bold as 32 mph. A light jacket or a cozy layer could provide comfort against the spirited air of the coming night. For those who find solace in the simple pleasures of life, perhaps an evening stroll through the tree-lined avenues of the local parks, or a quiet sit at a caf\u00e9 to watch the world meander by, could be just the remedy for a tranquil end to the day. With a touch of caution, one may also choose to bring an umbrella, just in case the skies decide to unfurl their rain, creating a delightful symphony of nature's sounds all around.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2026-09-09 15:10:48"
+    "weather_report": "As the twilight paints the Boston skyline in muted tones, a creeping humidity settles into the evening air. The chance of rain lingers, offering only the slightest promise of relief from the day\u2019s warmth, with clouds swathing the sky in their soft embrace. The roads, where earlier laughter and commerce thrived under an expansive sun, now reflect a more introspective mood as a gentle wind whispers through the trees. With a low temperature tapering towards 71 degrees, those venturing out might opt for layers\u2014perhaps a light jacket over a relaxed tee, ensuring comfort amid the occasional chill brought by the gusts which dance playfully at 12 to 18 mph.\n\nLooking ahead to tomorrow, Boston will awaken to a gradual dispersion of clouds, making space for the sun to reclaim its throne. A high near 85 promises warmth but carries the lingering possibility of sprightly rain showers before the day fully unfolds. The vibrant streets will beckon those seeking simple pleasures; perhaps a stroll through the neighborhood, stopping for a quiet moment at a sidewalk caf\u00e9 to savor a cup of coffee, all while keeping an attentive ear to the brewing thunderheads in the distance. Tomorrow may not evoke the whimsical bustle of a sun-drenched summer day, yet its charm lies in the hidden pockets of serenity that such weather fosters, encouraging an intimate interaction with the world outside, a slow dance amidst nature's caprices.",
+    "color_code": "#A6B3C1",
+    "timestamp": "2026-09-09 18:23:37"
 }
