@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-09T03:40:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
-            "humidity": 93.698536677741,
+            "timestamp": "2026-09-09T12:30:00+00:00",
+            "temperature_f": 62.6,
+            "temperature_c": 17,
+            "humidity": 82.509292694902,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Partly Cloudy"
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-09-09T00:00:00-04:00",
-                "endTime": "2026-09-09T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 58. Northeast wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-09-09T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-09-09T08:00:00-04:00",
                 "endTime": "2026-09-09T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 78,
+                "temperature": 79,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 78. Southeast wind 3 to 13 mph."
+                "detailedForecast": "Mostly cloudy, with a high near 79. Southeast wind 3 to 13 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-09-09T18:00:00-04:00",
+                "endTime": "2026-09-10T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 70,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 60
+                },
+                "windSpeed": "14 to 18 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/rain_showers,60?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely. Mostly cloudy, with a low around 70. Southwest wind 14 to 18 mph, with gusts as high as 32 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night deepens over Boston, a gentle cloak of clouds wraps around the city, with the air cool and inviting at 58 degrees. A soft breeze whispers from the northeast, insistent yet unobtrusive, as the nightlites of the city flicker like stars fallen to the earth. Tomorrow promises much, with temperatures nudging closer to the pleasant warmth of 78 degrees under a similar mottled sky. It will dawn as mostly cloudy, a blanket both comforting and familiar, fostering an ambiance that encourages a leisurely morning.\n\nDressing for this transitional spell invites light layers: a breathable shirt underneath a soft cardigan for warmth against the chill of dawn, perhaps accompanied by comfortable trousers. As the day unfolds, the warmth will grow, beckoning one to step out and embrace a stroll through Boston\u2019s storied streets or perhaps to repose in a quiet caf\u00e9, where the aroma of fresh brew mingles with the sounds of soft conversation. In essence, the surfacing day offers a serene canvas for reflection, a time to amble leisurely rather than to rush, redolent of both promise and calm.",
-    "color_code": "#B0C4C8",
-    "timestamp": "2026-09-09 00:09:43"
+    "weather_report": "In Boston today, the heavens cloak the city in a gentle shroud of clouds that keeps the warmth of the season lingering nearby without unveiling the sun's full radiance. A subtle breeze brushes through the streets, whispering of summer's lingering embrace as the temperature hovers around a comfortable warmness, inviting you to step outside. As the day unfolds, weather patterns hint at the possibility of rain; an anticipated cadence of showers will likely arrive as twilight descends, introducing a different atmosphere and a soothing rhythm to the evening. \n\nDressing for this day means embracing layers; lightweight fabrics that allow for ease in the warmth, yet carrying an umbrella or a light jacket for the evening\u2019s moisture may be prudent. As you navigate the day, consider a quiet stroll along the Charles\u2014perhaps stop at a cozy caf\u00e9, savoring a latte while observing life unfold around you. A visit to a gallery or a bookshop could also provide warmth and inspiration amid the overcast skies, creating a sanctuary until the rain arrives, softly tapping against windows and solidifying the day's seamless transition into evening.",
+    "color_code": "#B0C4D4",
+    "timestamp": "2026-09-09 08:51:18"
 }
