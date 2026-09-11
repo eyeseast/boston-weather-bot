@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-10T12:30:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 78.209169794993,
+            "timestamp": "2026-09-11T03:40:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 49.398701223186,
             "wind_speed_mph": 24.884388,
-            "wind_direction": 240,
+            "wind_direction": 260,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-09-10T08:00:00-04:00",
-                "endTime": "2026-09-10T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 87,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 15
-                },
-                "windSpeed": "15 to 18 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/sct?size=medium",
-                "shortForecast": "Slight Chance Rain Showers then Mostly Sunny",
-                "detailedForecast": "A slight chance of rain showers before 9am. Mostly sunny, with a high near 87. West wind 15 to 18 mph, with gusts as high as 30 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-09-10T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-09-11T00:00:00-04:00",
                 "endTime": "2026-09-11T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 58,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "7 to 16 mph",
+                "windSpeed": "8 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 58. West wind 7 to 16 mph."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 58. West wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-09-11T06:00:00-04:00",
+                "endTime": "2026-09-11T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 77,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 77. Northwest wind around 10 mph."
             }
         ]
     },
-    "weather_report": "As the day unfolds in Boston, the air is crisp and invigorating, tinged with the remnants of early morning dew. The forecast of a slight chance of rain showers has dissipated, giving way to a predominantly sunlit sky where the warmth of the sun begins to paint the landscape in gentle hues. With temperatures hovering close to an inviting 87 degrees, a soft west wind carries the promise of a refreshing escape, rustling the leaves and whispering of the day's adventures awaiting outside city confines.\n\nAs twilight beckons, a transition awaits with nightfall promising cooler temperatures around 58, making evenings cozy and conducive for gatherings or quiet strolls amid the urban charm. In such balmy conditions, light attire remains appropriate, but keeping a light jacket handy as the sun dips below the horizon is wise. This day beckons leisurely pursuits\u2014the inviting outdoor cafes lining the streets offer quiet corners for a morning coffee or a late afternoon read; perhaps a visit to a nearby park where laughter dances on the breeze or a casual wander along the waterfront, the city illuminated by the golden rays. Engage in the soft rhythm of Boston as it hums with life; in these moments, simplicity becomes a delight.",
+    "weather_report": "As the night gently surrenders its hold, a quiet clarity sets in over Boston, allowing the stars to peek through a mostly clear sky. The temperature drifts into a comfortable embrace of 58 degrees, with a whispering west wind carrying with it the tender promise of tomorrow. Littered among the twinkling city lights, Boston waits expectantly for the dawn, which will unfurl into a sun-drenched Friday, anticipating a high of 77 degrees. The morning sun will chase away any lingering shadows, beckoning locals and visitors alike to step outdoors and revel in the gentle warmth that the day will offer.\n\nIt would be best to dress in layers, perhaps a light sweater to ward off the coolness of early hours, transitioning into a breezy shirt by midday. The day invites leisurely strolls along the Charles River, pen in hand for jotting down thoughts as the water sparkles in response to the sun\u2019s caress. It promises the kind of day that craves simple pleasures, like finding a corner caf\u00e9 for a mid-morning coffee or indulging in conversation with friends in the park. And as evening descends, heading towards the nearest outdoor terrace will be the perfect conclusion, where the aromas of nearby restaurants mingle in the air, promising a delightful end to a beautiful day.",
     "color_code": "#A3C1DA",
-    "timestamp": "2026-09-10 08:49:07"
+    "timestamp": "2026-09-11 00:05:26"
 }
