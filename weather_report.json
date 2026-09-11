@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-11T18:40:00+00:00",
-            "temperature_f": 77.0,
-            "temperature_c": 25,
-            "humidity": 36.257882036602,
+            "timestamp": "2026-09-11T22:05:00+00:00",
+            "temperature_f": 75.2,
+            "temperature_c": 24,
+            "humidity": 35.974174686658,
             "wind_speed_mph": 28.991520000000005,
             "wind_direction": 300,
             "description": "Clear"
@@ -18,25 +18,6 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-11T15:00:00-04:00",
-                "endTime": "2026-09-11T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 77,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 77. Northwest wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-09-11T18:00:00-04:00",
                 "endTime": "2026-09-12T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
                 "detailedForecast": "Clear, with a low around 53. North wind 3 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-09-12T06:00:00-04:00",
+                "endTime": "2026-09-12T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 78,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 6 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 78. East wind 2 to 6 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon sun bathes the city in a warm embrace, casting a golden hue across the skyline. With gentle northwesterly winds whispering through the trees, the temperature flirts with a comfortable warmth, inviting residents and visitors alike to step outside and soak in the beauty of this clear day. As dusk approaches, the sky will transition smoothly into a serene evening; a low around 53 degrees awaits, suggesting comfortable layers would suffice\u2014a light sweater perhaps, or a soft shawl for those who might linger outdoors.\n\nUnder this vibrant sun, the city offers countless opportunities for leisurely pursuits. A stroll along the banks of the Charles or an afternoon lost among the shelves of a local bookstore could be delightful choices. The clear skies set the stage for dining al fresco, as laughter and conversation blend seamlessly with the gentle rustle of leaves. Today's conditions, marked by clarity and warmth, create a perfect backdrop for a smooth blend of relaxation and engagement, reminding us that even ordinary days can hold a touch of magic.",
+    "weather_report": "As twilight descends over Boston, the skies remain resolutely clear, embracing the city in a gentle embrace of warmth. The air, once vibrant with the afternoon sun\u2019s energy, cools to a delightful chill, reflecting a serene transition into evening with temperatures gracefully settling around fifty-three degrees. The soft rustle of a north wind carries with it the promise of a crisp night, whispering through the avenues lined with aging brownstones and swaying trees.\n\nTomorrow, the sun will rise anew, casting its golden glow across the landscape, hinting at a day marked by sunshine and pleasant warmth, with temperatures inching toward a comfortable seventy-eight. Against this backdrop, the city pulses with life, offering the perfect setting for a leisurely stroll along the Charles River or an unhurried coffee amidst the vibrant atmosphere of a local caf\u00e9. As you step out, consider donning a light sweater or a breezy jacket for the evening's embrace, with the assurance that daytime welcomes a more casual attire. Engage in simple pleasures\u2014perhaps a visit to a hidden bookstore, meandering through a serene park, or indulging in the flavors of seasonal treats from a nearby bakery. The clear, unobstructed skies invite a quiet sense of contentment, urging us to savor those small moments where the mundane becomes extraordinary.",
     "color_code": "#F0E68C",
-    "timestamp": "2026-09-11 15:04:49"
+    "timestamp": "2026-09-11 18:22:42"
 }
