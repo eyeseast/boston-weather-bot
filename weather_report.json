@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-12T17:50:00+00:00",
-            "temperature_f": 77.0,
-            "temperature_c": 25,
-            "humidity": 41.448828752784,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-09-12T21:45:00+00:00",
+            "temperature_f": 73.4,
+            "temperature_c": 23,
+            "humidity": 49.934634256059,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-12T14:00:00-04:00",
-                "endTime": "2026-09-12T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 75,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 75. East wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-09-12T18:00:00-04:00",
                 "endTime": "2026-09-13T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 61. South wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-09-13T06:00:00-04:00",
+                "endTime": "2026-09-13T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 73,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 83
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,80?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Showers and thunderstorms after 8am. Some of the storms could produce heavy rain. Cloudy, with a high near 73. Southeast wind around 7 mph. Chance of precipitation is 80%. New rainfall amounts between 1 and 2 inches possible."
             }
         ]
     },
-    "weather_report": "In the heart of Boston, a serene afternoon unfolds, draping the city in a gentle embrace marked by mostly sunny skies and a calm eastward breeze. The balmy air, carrying the lingering warmth of summer\u2019s end, flirts with the notion of autumn, tempting one to linger outdoors just a little longer. As day shifts towards evening, clouds will softly roll in, cloaking the city with a veil of gray, though the temperature will remain comfortably settled in the low 60s. Boston shines with a clarity that invites exploration\u2014a perfect setting for a leisurely walk through the historic streets or a casual coffee on a caf\u00e9 patio, the aroma of autumn spices soon to fill the air.\n\nFor those venturing out today, a light layer would be wise, perhaps a cardigan or thin jacket to ward off the evening chill. The ambient sounds of laughter and chatter blend harmoniously with the city\u2019s pulse, making it an ideal time for a stroll along the Harborwalk or a visit to one of the charming local bookstores. The day holds the promise of repose and reflection, a moment to savor as life dances ever forward into the embrace of the changing seasons.",
-    "color_code": "#A6B1C2",
-    "timestamp": "2026-09-12 14:14:49"
+    "weather_report": "As twilight descends upon Boston, the atmosphere is marked by a gentle haze, draping the city with an air of mystery. Current conditions present a mostly cloudy sky, the temperature softly cradling around 61 degrees. A mild south wind whispers through the city, hinting at a changing tide. The evening invites a reflective mood, where one might consider a leisurely stroll through the neighborhood, savoring the scent of damp earth as the day surrenders to night.\n\nHowever, as dawn breaks on Sunday, the skies will shift dramatically, welcoming showers and the rumble of distant thunderstorms. The day\u2019s promise of heavy rain implies that outdoor plans might need to be reconsidered, nudging one to seek the cozy comfort of indoor activities. Layers are advisable, as the high will hover close to 73 degrees, making a light jacket and an umbrella indispensable companions for the day ahead. Delight in a Sunday brunch at a tucked-away caf\u00e9, where the clink of porcelain and the aroma of freshly brewed coffee can blend with the rhythm of raindrops against the window, creating an intimate tableau for a quiet weekend. Embrace the rhythm of the rain, allowing its cadence to wash away the stress of the week, channeling the cozy warmth that Sunday afternoons can bring.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-09-12 18:05:54"
 }
