@@ -7,33 +7,33 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-13T13:00:00+00:00",
+            "timestamp": "2026-09-13T18:25:00+00:00",
             "temperature_f": 66.2,
             "temperature_c": 19,
-            "humidity": 88.185541322848,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 150,
-            "description": "Cloudy"
+            "humidity": 100,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": "Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-09-13T09:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-09-13T14:00:00-04:00",
                 "endTime": "2026-09-13T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 71,
+                "temperature": 70,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 99
                 },
-                "windSpeed": "8 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "A chance of rain showers before 10am, then patchy fog and showers and thunderstorms between 10am and 11am, then patchy fog and showers and thunderstorms between 11am and 2pm, then patchy fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 71. Southeast wind around 8 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+                "windSpeed": "6 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,100?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers and patchy fog before 5pm, then patchy fog and a slight chance of rain showers. Cloudy, with a high near 70. East wind around 6 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-09-13T18:00:00-04:00",
                 "endTime": "2026-09-14T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 61,
+                "temperature": 63,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 37
+                    "value": 15
                 },
-                "windSpeed": "5 to 8 mph",
+                "windSpeed": "2 to 7 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/fog/rain_showers,40?size=medium",
-                "shortForecast": "Patchy Fog then Chance Rain Showers",
-                "detailedForecast": "Patchy fog before 2am, then a chance of rain showers and patchy fog. Mostly cloudy, with a low around 61. West wind 5 to 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/fog/tsra_hi,20?size=medium",
+                "shortForecast": "Patchy Fog then Slight Chance Showers And Thunderstorms",
+                "detailedForecast": "Patchy fog before 5am, then a slight chance of showers and thunderstorms. Mostly cloudy, with a low around 63. West wind 2 to 7 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "The morning in Boston unfolds under a heavy grey blanket, with clouds wrapping the skyline in an intimate embrace. As the day progresses, rain showers tease the horizon, whispering promises of a proper drenching. The chance of thunderstorms adds a lively edge to the damp air, reminding us that nature remains unpredictable yet captivating. The damp atmosphere lingers, hinting at fog that will weave through the streets, blurring the edges of familiar sights. With temperatures gently resting around 71 degrees, the warmth provides a cozy backdrop for the impending rain, while breezes from the southeast carry the scent of the approaching storms.\n\nConsidering these conditions, the day calls for practicality in your attire. A light rain jacket or an umbrella would serve you well, complementing a comfortable pair of shoes that won\u2019t mind the occasional puddle. As the world becomes shrouded in fog, perhaps today is the perfect moment for a quiet walk through the rain-slicked streets of Boston or a visit to one of the city\u2019s many inviting caf\u00e9s, where the rhythmic tapping of raindrops creates a soothing soundtrack. A leisurely afternoon spent delving into a good book or enjoying quiet conversation feels just right as nature performs her symphony outside\u2014an invitation to reconnect with simple pleasures on a day of beautiful melancholy.",
-    "color_code": "#B0C4E9",
-    "timestamp": "2026-09-13 09:13:29"
+    "weather_report": "In the heart of Boston this afternoon, thick layers of fog hang like whispers over the city, casting a muted veil on what would otherwise be a vibrant day. The rain, having danced its way through the morning, now lingers lightly, softening the air with an earthy aroma. The temperature hovers comfortably, but the dampness seeps in, suggesting that a light jacket or a cozy cardigan may be your best companions as you navigate the streets. As the day progresses, expect the fog to remain persistent, painting the skyline in shades of gray and shadows.\n\nAs the evening approaches, the chance of showers and even a thunderstorm linger just enough to keep one guessing, turning the skies into a canvas of brooding clouds. With this in mind, a quiet evening could be spent exploring a local caf\u00e9, its warm light inviting amidst the cool dampness outside, or perhaps curling up with a favorite book as twilight settles in. In such weather, there\u2019s a unique allure to moments spent indoors, wrapped in comfort while the world outside embraces the soft touch of rain and fog.",
+    "color_code": "#B0C4D9",
+    "timestamp": "2026-09-13 14:40:53"
 }
