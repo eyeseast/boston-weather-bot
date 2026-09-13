@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-13T04:00:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
-            "humidity": 87.749358083507,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Clear"
+            "timestamp": "2026-09-13T13:00:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 88.185541322848,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 150,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-09-13T00:00:00-04:00",
-                "endTime": "2026-09-13T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 60. South wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-09-13T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-09-13T09:00:00-04:00",
                 "endTime": "2026-09-13T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 72,
+                "temperature": 71,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -51,12 +32,31 @@
                 "windSpeed": "8 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
-                "shortForecast": "Showers And Thunderstorms",
-                "detailedForecast": "A chance of rain showers between 7am and 10am, then showers and thunderstorms between 10am and 5pm. Some of the storms could produce heavy rain. Cloudy, with a high near 72. Southeast wind around 8 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "A chance of rain showers before 10am, then patchy fog and showers and thunderstorms between 10am and 11am, then patchy fog and showers and thunderstorms between 11am and 2pm, then patchy fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 71. Southeast wind around 8 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-09-13T18:00:00-04:00",
+                "endTime": "2026-09-14T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 61,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 37
+                },
+                "windSpeed": "5 to 8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/fog/rain_showers,40?size=medium",
+                "shortForecast": "Patchy Fog then Chance Rain Showers",
+                "detailedForecast": "Patchy fog before 2am, then a chance of rain showers and patchy fog. Mostly cloudy, with a low around 61. West wind 5 to 8 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston, the night wraps itself around the city in a cloak of soft clouds, hinting at the moisture that will soon awaken the morning. As the low settles around a mild 60 degrees, the south wind stirs gently, a whisper of what is to come. Soon, the dawn will break with the promise of rain, a weave of showers and possible thunderstorms weaving through the day, each droplet a reminder of the summer's lingering humidity. With a tarp of clouds overhead, a high of 72 inches into the atmosphere, the distinct possibility of heavy rain reminds us of nature's unpredictable temperament. \n\nAs the morning unfolds, it may be wise to trade your lightweight attire for something a bit more resilient\u2014perhaps a water-resistant layer accompanied by a sturdy umbrella to shield against the inevitable rains. It is the kind of day that invites you to slow down; perhaps a quaint caf\u00e9 will offer solace in the warmth of rich coffee or tea as the world outside clatters with the rhythms of rain. Those who prefer warmth may find comfort in the inviting ambiance of a bookstore, losing themselves among the pages as thunder provides the score. Embrace the elements, for the grey of the day carries a certain beauty, a gentle reminder that the sun will rise again, warm and unclouded.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2026-09-13 00:17:29"
+    "weather_report": "The morning in Boston unfolds under a heavy grey blanket, with clouds wrapping the skyline in an intimate embrace. As the day progresses, rain showers tease the horizon, whispering promises of a proper drenching. The chance of thunderstorms adds a lively edge to the damp air, reminding us that nature remains unpredictable yet captivating. The damp atmosphere lingers, hinting at fog that will weave through the streets, blurring the edges of familiar sights. With temperatures gently resting around 71 degrees, the warmth provides a cozy backdrop for the impending rain, while breezes from the southeast carry the scent of the approaching storms.\n\nConsidering these conditions, the day calls for practicality in your attire. A light rain jacket or an umbrella would serve you well, complementing a comfortable pair of shoes that won\u2019t mind the occasional puddle. As the world becomes shrouded in fog, perhaps today is the perfect moment for a quiet walk through the rain-slicked streets of Boston or a visit to one of the city\u2019s many inviting caf\u00e9s, where the rhythmic tapping of raindrops creates a soothing soundtrack. A leisurely afternoon spent delving into a good book or enjoying quiet conversation feels just right as nature performs her symphony outside\u2014an invitation to reconnect with simple pleasures on a day of beautiful melancholy.",
+    "color_code": "#B0C4E9",
+    "timestamp": "2026-09-13 09:13:29"
 }
