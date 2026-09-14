@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-14T04:05:00+00:00",
-            "temperature_f": 68.0,
-            "temperature_c": 20,
-            "humidity": 93.974509366621,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 240,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-09-14T14:30:00+00:00",
+            "temperature_f": 69.8,
+            "temperature_c": 21,
+            "humidity": 56.411645702143,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-09-14T00:00:00-04:00",
-                "endTime": "2026-09-14T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 7
-                },
-                "windSpeed": "5 to 9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog before 5am. Mostly cloudy, with a low around 62. West wind 5 to 9 mph. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2026-09-14T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-09-14T10:00:00-04:00",
                 "endTime": "2026-09-14T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 76,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 40
+                    "value": 3
                 },
-                "windSpeed": "9 to 17 mph",
+                "windSpeed": "14 to 17 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40/sct?size=medium",
-                "shortForecast": "Chance Rain Showers then Mostly Sunny",
-                "detailedForecast": "A chance of rain showers between 7am and 8am. Mostly sunny, with a high near 76. Northwest wind 9 to 17 mph, with gusts as high as 29 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 76. Northwest wind 14 to 17 mph, with gusts as high as 29 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-09-14T18:00:00-04:00",
+                "endTime": "2026-09-15T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 to 13 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 49. North wind 7 to 13 mph."
             }
         ]
     },
-    "weather_report": "The night blankets Boston in a delicate veil of fog, drifting lazily before dawn breaks. As the hours roll on, the temperature hovers comfortably in the low sixties, accompanied by a gentle breeze that plays with the strands of night. This early morning hush, punctuated only by the whisper of rustling leaves, sets the stage for a transition from dark to light\u2014a promise of the day ahead.\n\nAs daylight unfurls, the fog will likely yield to clarity. Expect a gentle yet invigorating warmth, with the sun peeking through an irregular patchwork of clouds, casting soft shadows and illuminating the vibrant hues of early autumn. The wind brushes through the air, shifting from the northwest, carrying hints of fresh beginnings and endless possibilities. It\u2019s a day that beckons you outdoors\u2014ideal for a stroll along the Esplanade or perhaps a visit to a cozy caf\u00e9, where the aroma of freshly brewed coffee mingles with laughter and casual conversation. Dress in layers; a light sweater may serve you well against the morning chill, while a carefree shirt will suffice as the day warms. Consider foraging through a local market or indulging in a leisurely bike ride, where the melodies of the city blend harmoniously with nature\u2019s symphony, reminding you that each day in this bustling metropolis offers moments worth savoring.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2026-09-14 00:24:08"
+    "weather_report": "Boston awakens to a tranquil sunshine, casting a warm glow over the city and its surroundings. The day is poised to bask in pleasant temperatures, reaching a comfortable warmth almost inviting for those who seek a leisurely stroll or a moment spent on a sunlit bench. The air is brisk, with a gentle Northwest breeze trailing through, creating a delightful interplay of warmth and coolness that refreshes the senses. Clarity reigns in the sky, unmarred by fog or haze, allowing expansive views of both urban and natural landscapes.\n\nAs the sun dips tonight, it will yield to a clear, serene evening, a perfect backdrop for reflections or a quiet conversation under the stars. With the temperature dipping to a moderate chill, dressing in layers becomes wise\u2014a light sweater or a cozy scarf to ward off the evening breeze. The day invites simple pleasures: perhaps a visit to a local coffee shop paired with a stroll along the waterfront or even some time spent in Boston's lush parks, where the harmony of nature and urban life coexists seamlessly. The conditions beckon one to appreciate the subtleties of a late summer day transitioning gracefully into autumn, offering a gentle reminder of nature's ever-changing beauty.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-09-14 10:54:24"
 }
