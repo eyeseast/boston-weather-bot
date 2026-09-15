@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-14T20:00:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 35.689417154665,
-            "wind_speed_mph": null,
-            "wind_direction": null,
+            "timestamp": "2026-09-15T03:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-14T16:00:00-04:00",
-                "endTime": "2026-09-14T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 75,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 75. Northwest wind around 12 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-09-14T18:00:00-04:00",
+                "startTime": "2026-09-14T23:00:00-04:00",
                 "endTime": "2026-09-15T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 50,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "5 to 9 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 50. North wind 5 to 9 mph."
+                "detailedForecast": "Clear, with a low around 50. North wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-09-15T06:00:00-04:00",
+                "endTime": "2026-09-15T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 69. Northeast wind around 7 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon casts a crisp, radiant sunlight that dances over the landscape, promising a high of around 75 degrees. The gentle northwest breeze whispers through the trees, carrying with it a sense of comfort and ease\u2014a perfect backdrop for those wandering the streets or lingering in a cozy caf\u00e9. As the sun begins its descent, the evening will unfold under a blanket of clarity, with temperatures delicately dipping to about 50 degrees. \n\nThis is no ordinary day; this is an invitation to step outside and embrace the beauty that surrounds you. A light jacket or sweater will suffice, ideal for strolling along the Charles River or visiting the Public Garden, where the rich colors of the turning leaves are beginning to flirt with autumn. Perhaps indulge in a leisurely book at a sun-drenched park bench, sip a warm brew from a nearby caf\u00e9, or simply take in the soothing ambiance that a clear day bestows. With the sky unmarked by clouds, the charm of Boston is laid bare, inviting all to savor the gentle embrace of September in this vibrant city.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2026-09-14 16:13:49"
+    "weather_report": "As the night cloaks Boston in a gentle embrace, the atmosphere resonates with a tranquil clarity. The sky, unblemished by fog or haze, allows the twinkling city lights to cast a warm glow against the backdrop of the vast expanse. With temperatures dipping to a comfortable 50 degrees, an impetuous north wind whispers through the streets, inviting evening strollers to don a light jacket or wrap themselves in a cozy shawl.\n\nAwakening to Tuesday, the city anticipates a splendid morning laden with sunshine, urging its inhabitants to emerge from their night\u2019s rest and embrace the brightness ahead. The forecasted high of nearly 69 degrees hints at an invigorating day, where the gentle northeast breeze carries hints of autumn, yet retains the lingering warmth of summer. As the sun climbs higher, consider a leisurely walk along the Charles, where vibrant foliage will soon begin to unfurl its colors, or perhaps a visit to a local caf\u00e9 for a quiet moment with a favorite book. In this period of soft transition, light layers will serve well\u2014perhaps a crisp shirt or a light sweater, suitable for both the sun and the mild breeze. Today promises to be a gentle reminder of nature\u2019s ever-changing artistry, inviting you to step out, breathe deeply, and enjoy the serenity it has to offer.",
+    "color_code": "#B0E0E6",
+    "timestamp": "2026-09-15 00:24:44"
 }
