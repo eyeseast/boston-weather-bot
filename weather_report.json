@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-19T18:20:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 48.582347990729,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 90,
+            "timestamp": "2026-09-19T21:45:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
+            "humidity": 59.039027369333,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 50,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-19T14:00:00-04:00",
-                "endTime": "2026-09-19T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 64. East wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-09-19T18:00:00-04:00",
                 "endTime": "2026-09-20T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 47. Southeast wind 2 to 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-09-20T06:00:00-04:00",
+                "endTime": "2026-09-20T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,100?size=medium",
+                "shortForecast": "Rain Showers",
+                "detailedForecast": "Rain showers between 10am and 5pm, then rain showers and patchy fog. Mostly cloudy, with a high near 62. Southeast wind 3 to 7 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sky stretches broadly with a gentle embrace of mostly sunny hues, inviting the serene warmth of a day that hovers near 64 degrees. The east wind, a soft whisper at around six miles per hour, adds a delicate touch to the atmosphere, perfectly complementing the clarity of the day. As twilight approaches, the clouds will cradle the evening in a partly cloudy shroud, the temperatures gracefully slipping to about 47 degrees. Expect a subtle southeast breeze that will make the nighttime walk an engaging experience under the muted glow of city lights.\n\nFor those venturing out, a well-layered outfit would strike the perfect balance against the day\u2019s gentle warmth and evening coolness. Imagine donning a light sweater over a comfortable shirt, paired with durable trousers suitable for a leisurely stroll or perhaps a brisk jaunt through the Adelard S. O\u2019Neill State Park. As the sun traces its arc across the sky, it\u2019s an opportune moment to seek out a tranquil caf\u00e9 patio with a view, sipping on a warm beverage while people-watching, or meandering down the Charles River Esplanade as the sky gradually transitions into evening shades. This day, neither too warm nor too chilly, invites a peaceful exploration of the familiar yet ever-changing landscape of the city.",
-    "color_code": "#D1EFD8",
-    "timestamp": "2026-09-19 14:31:12"
+    "weather_report": "As twilight descends over Boston, the air carries a crispness that hints at the approaching chill, settling softly around 47 degrees. A veil of clouds drapes the sky, lending a subdued yet contemplative atmosphere. Tomorrow promises an embrace of rainy showers beginning mid-morning, the gentle patter of drops heralding a sense of renewal, though perhaps tinged with a touch of melancholy. The forecast speaks of patchy fog, transforming the familiar skyline into an ethereal silhouette that dances with the imagination.\n\nDressing for the evening calls for cozy layers\u2014perhaps a soft sweater to ward off the cooler breeze, coupled with a light jacket for those venturing outside. A stroll through the quieter streets might yield moments of reflection as the faint sounds of the bustling city are muffled by the enveloping clouds. As you anticipate a day filled with rain, consider the allure of indoor delights\u2014perhaps settling into a favorite cafe with a warm drink, watching the world blur and transform beyond the window, or diving into a captivating book that carries you away from the drizzle outside.",
+    "color_code": "#A6A9A1",
+    "timestamp": "2026-09-19 18:15:56"
 }
