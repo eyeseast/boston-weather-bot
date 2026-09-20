@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-20T18:20:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
-            "humidity": 72.401374699018,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 160,
+            "timestamp": "2026-09-20T22:00:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
+            "humidity": 82.385951628273,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 120,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-20T14:00:00-04:00",
-                "endTime": "2026-09-20T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy, with a high near 62. Southeast wind around 7 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-09-20T18:00:00-04:00",
                 "endTime": "2026-09-21T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,80?size=medium",
                 "shortForecast": "Light Rain",
                 "detailedForecast": "Rain and patchy fog. Cloudy, with a low around 56. Northeast wind 2 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-09-21T06:00:00-04:00",
+                "endTime": "2026-09-21T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 17
+                },
+                "windSpeed": "12 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
+                "shortForecast": "Patchy Fog then Mostly Cloudy",
+                "detailedForecast": "Patchy fog and a slight chance of rain before 7am. Mostly cloudy, with a high near 66. Northeast wind around 12 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "A veil of grey shrouds Boston this afternoon, the atmosphere thick with rain and a gentle fog that softly blurs the edges of familiar landmarks. The city, wrapped in a damp embrace, carries whispers of moisture in the air while the southeast wind carries a soft sigh through the trees. With a high temperature hovering near a comfy yet nondescript 62 degrees, the urban landscape may seem muted and introspective, a canvas painted in shades of clouded skies and shimmering raindrops.\n\nAs twilight approaches, the rain will continue its gentle rhythm, pooling reminders of autumn\u2019s arrival on cobblestones. The temperature will slide down to a soft 56 degrees, inviting you to slip into something warm and snug; a light jacket or a cozy scarf may serve as your shield against the chill. This weather, while far from the sun-soaked vibrancy of summer, offers an invitation to find solace in quieter activities. Consider wrapping yourself in the warmth of your favorite nook with a book, or perhaps probing the depths of downtown's caf\u00e9s, where the aroma of brewing coffee mingles with the sound of rain against window panes. Alternatively, an evening stroll through the persistent mist might lead to unexpected conversations, as fellow wanderers embrace the weather\u2019s rather unsettling charm.",
+    "weather_report": "As twilight descends upon Boston, the air carries a persistent mist, tinged with the scent of impending rain. Cloud cover blankets the city, shrouding the skyline in a muted veil, while patchy fog lends an ethereal quality to the evening. With a temperature lingering around a comforting 56 degrees, it feels like the sort of night to indulge in the cozy embrace of a knit sweater or light jacket. The gentle northeast breeze whispers at about 9 mph, a subtle reminder that nature is at play, preparing to release the much-anticipated rainfall that promises to envelop the city overnight.\n\nAs we look ahead, Monday greets us slowly, with a chance of lingering fog offering a touch of mystery to the morning commute. As the day warms to a mild 66 degrees, it presents the opportunity for gentle adventures\u2014a stroll through the Almost Autumn landscapes, where the leaves begin to hint at their upcoming transformation. With only a slight chance of rain before dawn, consider partaking in a leisurely breakfast at a local caf\u00e9, savouring the rhythm of a quiet morning while savoring a warm drink. Embrace the gray sky, for it bears gifts\u2014from the patter of rain to the comforting connection it provides with the world around us.",
     "color_code": "#A9A9A9",
-    "timestamp": "2026-09-20 14:36:46"
+    "timestamp": "2026-09-20 18:18:45"
 }
