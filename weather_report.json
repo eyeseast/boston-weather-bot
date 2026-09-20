@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-20T04:05:00+00:00",
-            "temperature_f": 46.4,
-            "temperature_c": 8,
-            "humidity": 100,
+            "timestamp": "2026-09-20T12:35:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 82.135480367498,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Clear"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-09-20T00:00:00-04:00",
-                "endTime": "2026-09-20T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 47,
+                "name": "Today",
+                "startTime": "2026-09-20T08:00:00-04:00",
+                "endTime": "2026-09-20T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 60,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 98
                 },
-                "windSpeed": "3 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 47. South wind around 3 mph."
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/rain,20/rain,100?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain before 3pm, then rain and patchy fog. Cloudy, with a high near 60. Southeast wind 3 to 7 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-09-20T06:00:00-04:00",
-                "endTime": "2026-09-20T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 62,
+                "name": "Tonight",
+                "startTime": "2026-09-20T18:00:00-04:00",
+                "endTime": "2026-09-21T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 55,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "3 to 7 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,100?size=medium",
-                "shortForecast": "Rain Showers",
-                "detailedForecast": "Rain showers between 10am and 5pm, then rain showers and patchy fog. Mostly cloudy, with a high near 62. Southeast wind 3 to 7 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,80?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain and patchy fog before 5am, then patchy fog and a slight chance of rain. Cloudy, with a low around 55. Northeast wind 3 to 10 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "In the hushed hours just before dawn, Boston rests under a quilt of soft clouds, hinting at the rain that will soon envelop the city. As the night lingers on, the temperature drapes itself around the low forties, while a gentle breeze stirs from the south, bringing with it a promise of moisture. On the morrow, the atmosphere shifts dramatically as rain showers will cascade between ten in the morning and five in the evening, painting the landscape with a glistening sheen. The high will hover in the low sixties, suggesting a cooldown against the remnants of summer. That 100% chance of precipitation indicates a day best spent indoors, with only the brave venturing into the misty embrace of the outdoors.\n\nAs one prepares to meet the day, layering becomes essential. A light, water-resistant jacket paired with comfortable trousers would guard against the chill and moisture, ensuring warmth without sacrificing comfort. Perhaps take this time to delve into a good book at a cozy caf\u00e9, where the scent of freshly brewed coffee mingles with the sound of soft conversation. Alternatively, an afternoon at a local museum can provide both refuge from the elements and a flavorful taste of culture, igniting the spirit while the rains dance outside.",
-    "color_code": "#7A7D78",
-    "timestamp": "2026-09-20 00:26:26"
+    "weather_report": "As Boston continues to awaken under a drab, gray canvas, a persistent drizzle punctuates the early hours. The air is thick and damp, with the promise of more rain throughout the day, wrapping the city in a cloak of humidity and patchy fog. The cloying clouds sit like an uninvited guest, veiling the skyline, blurring the edges of familiar buildings. Today\u2019s high will barely graze the mid-sixties, leaving little room for warmth in the air; the low tonight will mirror this cool embrace, settling close to fifty-five as the drizzle dissipates but the fog lingers, casting a ghostly hue over the evening.\n\nIn such weather, layers will be your ally. A light waterproof jacket serves well against the rain, while a cozy sweater offers refuge against the chill. An umbrella may be a necessary companion, though it might as well be a ship at sea\u2014adrift in the wind and constant gray. With the world outside dull and muted, consider a leisurely stroll through the quiet streets; the charm of Boston under a light rain has a tranquil beauty all its own. Perhaps ducking into a local caf\u00e9 for a warm cup of coffee or finding solace in a quiet bookshop can transform this overcast day into a cozy retreat. Let the rain be a reminder to savor the small moments, as the city rolls through the day in its own rhythmic pulse of muted charm.",
+    "color_code": "#8B9FBB",
+    "timestamp": "2026-09-20 08:58:12"
 }
