@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-21T04:05:00+00:00",
-            "temperature_f": 60.8,
-            "temperature_c": 16,
-            "humidity": 100,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 350,
-            "description": "Light Rain and Fog/Mist"
+            "timestamp": "2026-09-21T14:35:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 76.998577407491,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 20,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-09-20T18:00:00-04:00",
-                "endTime": "2026-09-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "2 to 9 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100/rain,80?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain and patchy fog. Cloudy, with a low around 56. Northeast wind 2 to 9 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2026-09-21T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-09-21T10:00:00-04:00",
                 "endTime": "2026-09-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 17
+                    "value": 3
                 },
-                "windSpeed": "12 mph",
+                "windSpeed": "8 to 12 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Mostly Cloudy",
-                "detailedForecast": "Patchy fog and a slight chance of rain before 7am. Mostly cloudy, with a high near 66. Northeast wind around 12 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 66. Northeast wind 8 to 12 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-09-21T18:00:00-04:00",
+                "endTime": "2026-09-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "3 to 10 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 51. Northeast wind 3 to 10 mph."
             }
         ]
     },
-    "weather_report": "As the night unfolds in Boston, a gentle, persistent rain settles over the city, woven through with patches of fog that blur the edges of familiar streets and buildings. The atmosphere is muted, as if the world has cloaked itself in a delicate veil, bringing an intimacy to the surroundings that beckons quiet reflection. With temperatures hovering around a soft 56 degrees, a subtle chill creeps in, carried by a whisper of northeast winds. The symphony of rain against windowpanes seems to invite you to linger indoors, wrapped in the warmth of a favorite blanket, perhaps accompanied by a steaming cup of tea.\n\nAs dawn approaches, expect a slow emergence from the shroud of mist, with only the slightest chance of rain lingering until early morning. The day promises mostly cloudy skies and a high that reaches a comfortable 66 degrees, perfect for a stroll under an umbrella or a leisurely caf\u00e9 visit, where you might savor the simple joy of watching the world awaken through a foggy window. In this transitional weather, clothing layers will serve you well; a light jacket paired with a cozy scarf will offer comfort against the remaining coolness in the air while leaving room for a hopeful embrace of the brighter moments ahead. Given the ambiance of the day, why not find solace in a local bookshop, losing yourself amongst the pages, or take a stroll through the city\u2019s historic streets where whispers of the past and the present entwine like the fog itself?",
-    "color_code": "#7F7F7F",
-    "timestamp": "2026-09-21 00:24:34"
+    "weather_report": "The day unfolds in Boston with a gentle promise of brightness, the sky daubed with patches of soft clouds drifting lazily aside to reveal a tranquil blue. The atmosphere is refreshingly cool, a delightful contrast to the lingering warmth of summer, inviting those who wander outdoors to embrace the gentle northeast breeze. As the sun battles the clouds, the air breathes a hint of crispness\u2014ideal for those who savor the transition of seasons. \n\nTonight, the clouds will dance closer together, wrapping the city in a cozy embrace as temperatures fall into a comfortable slumber. As you plan your day, consider a light jacket for the evening, perhaps a stylish scarf to add a touch of flair. This splendid weather beckons for myriad activities: a leisurely stroll along the Charles River, where the reflections on the water mirror the ever-changing tapestry above, or perhaps a visit to a nearby caf\u00e9 to sip a warm drink and lose yourself in the pages of a long-neglected novel. Engaging in simple pleasures in such pleasant conditions invites the heart to beat just a little slower, a reminder of life\u2019s sweet subtleties.",
+    "color_code": "#A6B6C1",
+    "timestamp": "2026-09-21 10:59:19"
 }
