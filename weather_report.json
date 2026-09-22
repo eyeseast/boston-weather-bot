@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-22T19:25:00+00:00",
-            "temperature_f": 60.8,
-            "temperature_c": 16,
-            "humidity": 59.039027369333,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Clear"
+            "timestamp": "2026-09-22T22:30:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 54.624817014396,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 50,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-22T15:00:00-04:00",
-                "endTime": "2026-09-22T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 63. Northeast wind around 13 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-09-22T18:00:00-04:00",
                 "endTime": "2026-09-23T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 52. Northeast wind 6 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-09-23T06:00:00-04:00",
+                "endTime": "2026-09-23T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 7
+                },
+                "windSpeed": "12 to 16 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 63. Northeast wind 12 to 16 mph, with gusts as high as 29 mph."
             }
         ]
     },
-    "weather_report": "Boston bathes in a gentle embrace of sunlight this afternoon, the sky adorned with the soft, wispy presence of clouds that only hint at the delights of the day ahead. As the temperature nudges toward a pleasant 63 degrees, a light northeast breeze weaves through the streets, carrying with it a sense of serene anticipation. As daylight lengthens, it invites both wanderers and those simply seeking solace outside; perhaps one might stroll along the Charles River, allowing the rhythmic flow of water to cradle their thoughts.\n\nAs twilight beckons, the evening promises a comfortable low around 52. The partly cloudy sky will watch over the city like a watchful guardian, a modest wind whispering sweet goodnights as it rustles the leaves. This is a time for cozy sweaters and maybe a warm cup of tea enjoyed on a balcony or an intimate gathering with friends, exchanging stories beneath the unobtrusive glow of an early autumn sky. The freshness of the air lends itself to an engaging conversation about dreams and aspirations, perfectly encapsulating a day that balances the vibrancy of life and the peace of the approaching night.",
-    "color_code": "#A7C6D9",
-    "timestamp": "2026-09-22 15:39:30"
+    "weather_report": "As twilight envelops Boston, the evening carries a whisper of warmth and the gentle caress of a northeast breeze. With the sky transitioning from day to night, the dramatic clouds are painted with hues of amber and soft lavender, hinting at the promise of a serene night ahead. As the temperature settles around a comfortable 52 degrees, the atmosphere is refreshed but mild, offering a pleasant escape from the bustling day.\n\nTomorrow, the sun will rise to greet a mostly clear sky, inviting all to step outside and embrace the crisp air. A high around 63 will likely beckon locals to don light layers\u2014a soft sweater or a light jacket will suffice as the winds pick up intensity. The combination of a steady breeze and gusts that dance through the trees creates an invigorating backdrop for a day outdoors. Whether it's a leisurely stroll along the charmed streets of Beacon Hill or a quiet moment with a book in one of the city's inviting parks, tomorrow promises moments of tranquility amidst life\u2019s rhythms.",
+    "color_code": "#FFA500",
+    "timestamp": "2026-09-22 18:50:05"
 }
