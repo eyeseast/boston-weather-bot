@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-21T20:00:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 48.85613300924,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 60,
+            "timestamp": "2026-09-22T04:00:00+00:00",
+            "temperature_f": 48.2,
+            "temperature_c": 9,
+            "humidity": 100,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-09-21T16:00:00-04:00",
-                "endTime": "2026-09-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 66,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 66. Northeast wind around 9 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-09-21T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-09-22T00:00:00-04:00",
                 "endTime": "2026-09-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 53,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "2 to 9 mph",
+                "windSpeed": "3 to 9 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 53. Northeast wind 2 to 9 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 53. Northeast wind 3 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-09-22T06:00:00-04:00",
+                "endTime": "2026-09-22T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "9 to 13 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 63. Northeast wind 9 to 13 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, a gentle warmth embraces the city, promising a delightful blend of sun and ease. With the sun casting a soft glow upon the landscape, the air, curling lightly with a northeast breeze, feels refreshingly crisp yet comfortable. The clouds linger, weaving themselves gracefully into a tapestry of blue and white, their presence evident but not overwhelming, indicating a calm transition from day to evening. The high temperature dances around the mid-sixties, inviting residents to step outside and relish the serenity before night descends.\n\nAs twilight approaches, the clouds will gather slightly thicker, ushering in a cozy ambiance, with the temperature gently dipping to a mild fifty-three. This is an ideal time for thoughtful endeavors, perhaps a leisurely stroll through the park or a quiet moment on a balcony, savoring the day's fading light. Attire of light layers is advisable, balancing the day\u2019s warmth with the cool embrace of the evening ahead. A light jacket or cardigan would suffice, allowing for comfort while maintaining a stylish edge. As the day draws to a close, Boston maintains an air of tranquility, suggesting that both the pace and the scene lend themselves beautifully to life's more subtle pleasures today.",
-    "color_code": "#B0C4D8",
-    "timestamp": "2026-09-21 16:20:27"
+    "weather_report": "In the gentle embrace of a mostly cloudy night, Boston stirs restlessly beneath a soft quilt of clouds, the air cool and crisp with whispers of autumn. As the hours drift toward morning, darkness lingers, punctuated by the subtle flicker of city lights, hinting at the life that pulses just below the surface of this serene exterior. A light northeast breeze occasionally brushes against the skin, cool but refreshing, making it a fitting evening for a cozy gathering indoors or a leisurely stroll beneath the soft glow of street lamps.\n\nAs dawn breaks, the forecast ushers in a partly sunny Tuesday, inviting the city to wake with a gentle nudge. By midday, the sun peeks through the cloud cover, promising to warm the day to a comfortable high, while the northeast winds maintain a steady, refreshing cadence. It's a delightful moment to savor the outdoors: perhaps a quiet walk along the Charles River, where the reflections on the water mirror the city's quiet elegance. Dressing in layers is key\u2014a light jacket over a comfortable sweater should suffice, allowing for the ease of movement that an autumn day demands. As the day unfolds, Boston\u2019s charm is maximized; between the cool air and the teasing warmth of the sun, one might find it perfect for exploring the winding streets of Beacon Hill or indulging in a serene afternoon with a book at the public garden, savoring the simple pleasures that this day has to offer.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-09-22 00:20:11"
 }
