@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-24T03:53:00+00:00",
-            "temperature_f": 53.06,
-            "temperature_c": 11.7,
-            "humidity": 71.415154619405,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 50,
-            "description": "Clear"
+            "timestamp": "2026-09-24T13:00:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 71.84904007654,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 40,
+            "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-09-24T00:00:00-04:00",
-                "endTime": "2026-09-24T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 51. Northeast wind around 12 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-09-24T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-09-24T09:00:00-04:00",
                 "endTime": "2026-09-24T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 62,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 1
                 },
-                "windSpeed": "12 to 15 mph",
+                "windSpeed": "13 to 16 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 62. Northeast wind 12 to 15 mph, with gusts as high as 29 mph."
+                "detailedForecast": "Mostly sunny, with a high near 62. Northeast wind 13 to 16 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-09-24T18:00:00-04:00",
+                "endTime": "2026-09-25T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 51,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "10 to 15 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 51. Northeast wind 10 to 15 mph."
             }
         ]
     },
-    "weather_report": "As the clock ticks into the early hours, Boston lies draped in a tranquil veil of clarity, the stars twinkling like distant whispers in a night sky that seems to breathe softly. The air, a gentle 51 degrees, carries the crispness of autumn, heralded by a midnight breeze from the northeast. Tonight, the city wears a serene demeanor, devoid of fog, allowing the faint glow of its lights to twinkle against the backdrop of darkness, creating a soothing palette of evening hues.\n\nAs dawn approaches, the promise of a bright Thursday unfurls. Expect a burst of sunshine illuminating Boston's landmarks, with temperatures reaching a pleasing 62 degrees. The northeast wind, brisk at 12 to 15 mph, will invigorate the air, occasionally gusting with a spirited flair that beckons you to embrace the outdoors. As you prepare for the day, consider wrapping yourself in layers; perhaps a comfortable sweater atop your shirt will serve well against the briskness, with a light jacket to guard against the whistling breeze. The indigo twilight gives way to a day perfectly suited for leisurely strolls along the Charles River or a quiet visit to one of the city\u2019s charming caf\u00e9s, offering a cozy retreat for sipping warm beverages while watching the world awaken. Today is not merely another day; it is a gentle reminder to savor the simple joys that accompany a sunlit morning.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2026-09-24 00:13:11"
+    "weather_report": "Today in Boston, the sky paints a subdued canvas, primarily brushed with gentle shades of blue dotted by wispy clouds. The air, crisp and fresh, carries the promise of a day that feels decidedly pleasant. The breeze, with a touch of coolness, beckons you to step outside and drink in the atmosphere. As the temperature approaches an easy 62 degrees, it is an exquisite day to wear something layered\u2014a light sweater over a comfortable shirt perhaps\u2014ideal for transitioning from the refreshing morning air to the warmth of midday.\n\nAs the sun makes its presence felt, the lingering thoughts of yesterday\u2019s chaotic weather fade like distant memories. Tonight, a soft shroud of clouds will weave itself over the sky as the temperature dips to a cozy 51 degrees. It becomes a perfect evening to wrap yourself in a light jacket or cardigan, perhaps while strolling along the Charles River or finding solace in a quiet caf\u00e9. Given the atmospheric clarity, this day carries an invitation to indulge in the mundane pleasures of life\u2014enjoying a walk through the Public Garden, finding a snug corner in your favorite bookstore, or simply sipping coffee while watching the world pass by. The charm of a Boston day like this lies not in grand pursuits, but in appreciating the everyday moments that make life rich and vibrant.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2026-09-24 09:26:17"
 }
