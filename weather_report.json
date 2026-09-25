@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-25T04:10:00+00:00",
-            "temperature_f": 48.2,
-            "temperature_c": 9,
-            "humidity": 81.486420017859,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 10,
+            "timestamp": "2026-09-25T13:20:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 76.681069549305,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 20,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-09-25T00:00:00-04:00",
-                "endTime": "2026-09-25T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 52,
+                "name": "Today",
+                "startTime": "2026-09-25T09:00:00-04:00",
+                "endTime": "2026-09-25T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 69,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 29
                 },
-                "windSpeed": "14 mph",
+                "windSpeed": "15 to 22 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 52. Northeast wind around 14 mph."
+                "icon": "https://api.weather.gov/icons/land/day/wind_bkn/rain,30?size=medium",
+                "shortForecast": "Partly Sunny then Chance Light Rain",
+                "detailedForecast": "A chance of rain after 4pm. Partly sunny, with a high near 69. Northeast wind 15 to 22 mph, with gusts as high as 35 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
-                "name": "Friday",
-                "startTime": "2026-09-25T06:00:00-04:00",
-                "endTime": "2026-09-25T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 67,
+                "name": "Tonight",
+                "startTime": "2026-09-25T18:00:00-04:00",
+                "endTime": "2026-09-26T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 55,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 33
+                    "value": 62
                 },
-                "windSpeed": "15 to 24 mph",
+                "windSpeed": "20 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/wind_bkn/rain,30?size=medium",
-                "shortForecast": "Mostly Cloudy then Chance Rain",
-                "detailedForecast": "A chance of rain after 2pm. Mostly cloudy, with a high near 67. Northeast wind 15 to 24 mph, with gusts as high as 41 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,50/rain,60?size=medium",
+                "shortForecast": "Rain Likely",
+                "detailedForecast": "A chance of rain before 2am, then rain likely and patchy fog. Cloudy, with a low around 55. Northeast wind around 20 mph, with gusts as high as 45 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "As the twilight hours gently embrace Boston, a soft veil of clouds drapes the skies, hinting at the cool embrace of an autumn night. The air, tinged with a crispness that beckons for layers, rests at a tranquil 52 degrees, while a northeast wind whispers through the streets, inviting those who venture out to bundle up a bit. With the chance of rain advancing in the afternoon, a story of shifting clouds and possible droplets will unfold on Friday. \n\nTomorrow dawns with the promise of a mostly cloudy day, the heat peeking around 67, yet tempered by a persistent breeze. Gusts may flirt with intensity, teasing the trees and rattling leaves. For those seeking a bit of adventure amid the unpredictability, a light rain jacket might serve as both shield and companion for a wander through the city's parks or a late-afternoon cafe visit, where the aroma of coffee mingles with the earthy scent of approaching rain. The ambiance of Boston, colored by the golden-hued leaves and the backdrop of a changing season, is perfect for quiet exploration\u2014perhaps a visit to a local bookshop or a leisurely stroll along the waterfront, where reflections dance upon the water's surface, surely making for a day that, though cloudy, reveals its own subdued beauty.",
-    "color_code": "#A9B2C3",
-    "timestamp": "2026-09-25 00:25:43"
+    "weather_report": "In Boston this morning, the air is crisp, a hint of autumn beginning to weave its way through the foliage and streets. The sky hangs above in a muted embrace, partly sunny with a soft light that suffuses the atmosphere, though clouds are gathering, hinting at the possibility of rain later in the afternoon. A gentle northeast wind stirs, carrying the fresh scent of impending rain, while the temperatures linger around a comfortable 69 degrees. As the day unfolds, expect a misty shroud to envelop the city, especially as night approaches and the chance of rain escalates. That gentle breeze may escalate to more vigorous gusts at times, suggesting a subtle urgency to secure your belongings.\n\nAs you step outside later, perhaps to stroll along the Charles or wander through the bustling streets of downtown, consider donning a light jacket, one that shields against both the wind and those fleeting rain droplets. With the evolving weather, it\u2019s the perfect opportunity to embrace a warm cup of coffee or tea from a local caf\u00e9; the conversations within will be lively as people gather to escape the damp chill seeping in. The fog that may settle in tonight offers an ethereal backdrop for reflective walks under city lights, creating an atmosphere rich for contemplation or unwinding after a bustling day.",
+    "color_code": "#7f9c9c",
+    "timestamp": "2026-09-25 09:30:25"
 }
