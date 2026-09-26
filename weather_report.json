@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-26T04:20:00+00:00",
-            "temperature_f": 60.8,
-            "temperature_c": 16,
-            "humidity": 72.218947621294,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 40,
-            "description": "Cloudy"
+            "timestamp": "2026-09-26T18:50:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 93.65072411462,
+            "wind_speed_mph": null,
+            "wind_direction": null,
+            "description": "Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-09-26T00:00:00-04:00",
-                "endTime": "2026-09-26T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 50
-                },
-                "windSpeed": "20 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,50?size=medium",
-                "shortForecast": "Chance Rain",
-                "detailedForecast": "A chance of rain. Cloudy, with a low around 55. Northeast wind around 20 mph, with gusts as high as 40 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-09-26T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-09-26T15:00:00-04:00",
                 "endTime": "2026-09-26T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 59,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
+                    "value": 99
+                },
+                "windSpeed": "24 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and showers and thunderstorms. Cloudy, with a high near 59. Northeast wind around 24 mph, with gusts as high as 46 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-09-26T18:00:00-04:00",
+                "endTime": "2026-09-27T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 55,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
                     "value": 100
                 },
-                "windSpeed": "20 to 24 mph",
+                "windSpeed": "22 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,80/rain,100?size=medium",
-                "shortForecast": "Heavy Rain",
-                "detailedForecast": "Rain. Cloudy, with a high near 59. Northeast wind 20 to 24 mph, with gusts as high as 47 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra,100?size=medium",
+                "shortForecast": "Patchy Fog",
+                "detailedForecast": "Patchy fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 55. Northeast wind around 22 mph, with gusts as high as 46 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
             }
         ]
     },
-    "weather_report": "As the night deepens over Boston, the air hangs heavy with the promise of rain, and the city seems to retreat into a shroud of clouds. Low temperatures around 55 degrees create a damp chill, accentuated by a brisk northeast wind that whistles through the streets. The darkened cityscape glimmers with muted reflections of lights, but clarity is obscured by the gathering gloom and the anticipation of precipitation. With the wind gusts propelling up to 40 mph, anyone venturing out will want to dress warmly, layers in soft fabrics assisting against the bite of the breeze.\n\nAs dawn approaches, the forecast reveals an unrelenting canvas of rain and overcast skies. The high of 59 degrees will scarcely seem warm against the relentless drizzle, a heavy downpour expected to transform the streets into glistening rivers. For those considering their plans, indoor activities would best complement the dreary mood\u2014a leisurely stroll through a cozy bookstore, a long-lost movie in a snug theater, or perhaps settling into a quaint caf\u00e9 with a steaming mug of coffee to savor the ambiance. As the day unfolds, let the backdrop of rain and wind guide your pursuits, finding comfort in the stillness of a city washed anew.",
-    "color_code": "#4A4E65",
-    "timestamp": "2026-09-26 00:30:11"
+    "weather_report": "As the afternoon unfolds in Boston, the sky is shrouded in a thick quilt of clouds, casting an overcast pallor over the city. The air carries a damp chill, intensifying the sense of the day\u2019s blend of fog and impending storms. With winds swirling around at a brisk pace, punctuated by gusty bursts, one feels the omnipresent moisture in the air, hinting at the rain that has already begun to lightly patter against windows and sidewalks.\n\nThe forecast forebodes an evening equally draped in humidity, with heavy rains set to accompany the patchy fog that will linger well into the night. It is advisable to don a waterproof jacket and sturdy footwear if venturing outside, as the weather lays a rather gloomy tableau, demanding a sensible approach to comfort. Rather than seeking traditional outdoor delights, this is a moment to savor the stillness indoors. Perhaps a visit to a cozy caf\u00e9, where one can lose themselves in the pages of an absorbing novel or share thoughts over warm drinks, would be a fitting escape. Otherwise, simply retreating to the familiar comforts of home with a favorite film and snacks may be just the remedy against the tempestuous backdrop.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2026-09-26 15:08:02"
 }
