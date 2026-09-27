@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-09-27T04:30:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
-            "humidity": 93.698536677741,
+            "timestamp": "2026-09-27T13:30:00+00:00",
+            "temperature_f": 59.0,
+            "temperature_c": 15,
+            "humidity": 93.745817353204,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Rain and Fog/Mist"
+            "description": "Heavy Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-09-27T00:00:00-04:00",
-                "endTime": "2026-09-27T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-09-27T09:00:00-04:00",
+                "endTime": "2026-09-27T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 95
+                },
+                "windSpeed": "15 to 20 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,100/tsra,90?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Rain showers before 11am, then showers and thunderstorms. Cloudy, with a high near 63. Northeast wind 15 to 20 mph, with gusts as high as 38 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-09-27T18:00:00-04:00",
+                "endTime": "2026-09-28T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 56,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 100
+                    "value": 90
                 },
-                "windSpeed": "21 mph",
+                "windSpeed": "13 to 16 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,100?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a low around 56. Northeast wind around 21 mph, with gusts as high as 43 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-09-27T06:00:00-04:00",
-                "endTime": "2026-09-27T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 100
-                },
-                "windSpeed": "18 to 23 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog and showers and thunderstorms before 2pm, then patchy fog and showers and thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 64. Northeast wind 18 to 23 mph, with gusts as high as 45 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+                "icon": "https://api.weather.gov/icons/land/night/tsra,80/tsra,90?size=medium",
+                "shortForecast": "Showers And Thunderstorms",
+                "detailedForecast": "Showers and thunderstorms. Cloudy, with a low around 56. Northeast wind 13 to 16 mph, with gusts as high as 31 mph. Chance of precipitation is 90%. New rainfall amounts between three quarters and one inch possible."
             }
         ]
     },
-    "weather_report": "As midnight drapes Boston in a shroud of humid fog, the air feels thick and expectant, alive with the promise of the storms that are soon to roll through. The forecast is insistent: showers and thunderstorms, heavy rains lurking in the distance, and gusts of wind battling to shake the city awake. It is a night that cradles both the whisper of the sea and the electric crackle of impending rain. The temperature hovers at a cool 56 degrees, setting the stage for a day that offers little more than a continuation of this overcast melancholy. \n\nAs dawn rises, the fog will persist alongside sporadic showers, interspersed with moments of thunder that rumbled would shake your very core. The day will fail to fully awaken, remaining cloaked in a muted palette that mirrors the somber tones outside. For those who venture out, practicality is key; a sturdy raincoat and waterproof boots will serve well, while the embrace of a light sweater will keep the chill at bay. Given the tumultuous weather, indoor pursuits might beckon. A leisurely stroll through a nearby gallery could provide a welcome escape from the damp streets, or perhaps the warmth of a cozy caf\u00e9 with the seductive aroma of brewing coffee and the turn of a page in a well-loved book. Under such conditions, taking the time to simply exist within the storm seems a wise choice, savoring the soothing sound of rain against the window as the world outside transforms.",
-    "color_code": "#8B8B8B",
-    "timestamp": "2026-09-27 00:48:25"
+    "weather_report": "As the morning unfurls over Boston, the city finds itself enveloped in a somber shroud of heavy clouds and steady rain, punctuated by the occasional distant rumble of thunder. Visibility is markedly reduced, lending an eerie stillness to the atmosphere. The grey-laden sky looms overhead as droplets persistently tap against windows, suggesting an unwelcome but familiar autumn chill. The high of 63 feels chilly amidst the gusty northeast winds, which sweep through the streets with a brisk intensity that almost invites a shiver.\n\nWith evening approaching, the weather remains steadfastly uninviting. Expect continued showers and potential thunderstorms throughout the night, accompanied by a low nearing 56, all nestled under that same thick cloud cover. This dreary tableau calls for practical attire: opt for waterproof jackets and sturdy footwear, along with warm layers to ward off the dampness. While the allure of a brisk walk has certainly dimmed, it could be a perfect evening for a cozy night indoors, perhaps lost in the pages of a good book or enjoying the contemplative calm of a hot drink as the rain dances against the roof. In these moments, when nature\u2019s whims turn towards the tempestuous, there lies a certain kind of beauty worth embracing.",
+    "color_code": "#6B7C9B",
+    "timestamp": "2026-09-27 09:45:30"
 }
