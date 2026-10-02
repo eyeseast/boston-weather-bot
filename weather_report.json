@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-02T04:35:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 93.884545007364,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 170,
+            "timestamp": "2026-10-02T14:20:00+00:00",
+            "temperature_f": 77.0,
+            "temperature_c": 25,
+            "humidity": 65.145510455717,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 240,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-10-02T01:00:00-04:00",
-                "endTime": "2026-10-02T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 65,
+                "name": "Today",
+                "startTime": "2026-10-02T10:00:00-04:00",
+                "endTime": "2026-10-02T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 81,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 28
                 },
                 "windSpeed": "12 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 65. Southwest wind around 12 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,30?size=medium",
+                "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 5pm. Partly sunny, with a high near 81. Southwest wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Friday",
-                "startTime": "2026-10-02T06:00:00-04:00",
-                "endTime": "2026-10-02T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 83,
+                "name": "Tonight",
+                "startTime": "2026-10-02T18:00:00-04:00",
+                "endTime": "2026-10-03T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 56,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 14
+                    "value": 41
                 },
-                "windSpeed": "13 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 83. Southwest wind around 13 mph, with gusts as high as 24 mph."
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/bkn?size=medium",
+                "shortForecast": "Chance Rain Showers then Mostly Cloudy",
+                "detailedForecast": "A chance of rain showers before midnight. Mostly cloudy, with a low around 56. Northwest wind 6 to 9 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As dawn gently unravels its subtle threads across Boston, the air is expectant, carrying a breath of warmth from the southwest. Overnight clouds have given way to a patchwork of partially sunny skies, where the sun promises to paint the day with hues of gold amid soft, billowing clouds. With temperatures poised to flirt with the low 80s, it's a day that invites gentle adventures outside, whether wandering through the manicured pathways of the Boston Common or seeking a quiet corner in one of the city\u2019s hidden gardens. \n\nAs the morning unfolds, a mild breeze dances through the streets, tousling hair and rustling leaves, while the whispers of yesterday\u2019s warmth linger in the air. It\u2019s a wonderful opportunity to don light layers\u2014perhaps a comfortable shirt beneath a soft jacket to ward off any unexpected chill as the evening draws near. The world outside beckons for simple pleasures: perhaps a stroll through a bustling market to enjoy seasonal fruits and fresh pastries, or an invitation to sit with a book on a sun-drenched bench, where the rhythm of soft conversations creates a symphony of everyday life. Today is a tapestry of pleasant moments waiting to be stitched together, inviting all to step into the embrace of a lovely autumn day.",
-    "color_code": "#FFD700",
-    "timestamp": "2026-10-02 01:05:57"
+    "weather_report": "Boston greets the day with a gentle disposition, its skies carrying the promise of warmth beneath a veil of fine, drifting clouds. The sun, rising gracefully in its autumnal path, casts a soft glow over the city's historic architecture and vibrant foliage. As the temperature inches toward a pleasant warmth, one can feel the stir of a southwest breeze, rustling the leaves and inviting a little adventure. However, as twilight approaches, the clouds may conspire to weave in a few damp surprises, with a chance of rain that could linger just before midnight.\n\nGiven the breezy and slightly humid air, a comfortable light jacket or a cozy cardigan will enhance the experience without weighing you down. The late afternoon could be the perfect time for an informal stroll through the heart of Boston, perhaps meandering along the Esplanade or exploring the narrow streets of Beacon Hill, where the cobblestones hold the whispers of the city\u2019s past. As evening takes hold, the allure of a coffee shop becomes tempting, a cozy nook where you might pause, savor a warm drink, and watch as the day drifts into night, cloaked in soft clouds and promises of rain.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2026-10-02 10:37:05"
 }
