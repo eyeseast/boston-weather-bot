@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-03T18:45:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 48.85613300924,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 90,
-            "description": "Mostly Clear"
+            "timestamp": "2026-10-03T22:30:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 71.84904007654,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 100,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-10-03T15:00:00-04:00",
-                "endTime": "2026-10-03T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 67. East wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-10-03T18:00:00-04:00",
                 "endTime": "2026-10-04T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 48. Northeast wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-10-04T06:00:00-04:00",
+                "endTime": "2026-10-04T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 19
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
+                "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 4pm. Mostly sunny, with a high near 63. East wind 6 to 9 mph. Chance of precipitation is 20%."
             }
         ]
     },
-    "weather_report": "This afternoon, Boston basks in radiant sunshine, a gentle warmth that fills the air with promise. The forecast anticipates a high of around 67, with a light breeze whispering softly from the east. As the sun makes its leisurely descent, the sky unfolds in a tapestry of azure, punctuated by wisps of cloud\u2014a perfect backdrop for an afternoon stroll through the city\u2019s storied streets or perhaps a leisurely sit in one of its many parks. \n\nTonight, the clarity persists, offering a serene transition to a mostly clear evening. The temperature will gently lower to a comfortable 48, ideal for wrapping oneself in a lightweight jacket or a cozy sweater, a prelude to the autumn evenings that grow crisper with each passing day. It\u2019s a time when one might find solace in quiet corners of favorite caf\u00e9s, sipping warm beverages while the urban hum settles into a peaceful lull. For those with a penchant for the outdoors, the fading light presents an invitation for a contemplative walk under the stars, where the city\u2019s pulse becomes a soft heartbeat against the tranquility of night.",
-    "color_code": "#65AEDD",
-    "timestamp": "2026-10-03 15:07:11"
+    "weather_report": "As twilight approaches over Boston, the evening promises a gentle serenity, characterized by mostly clear skies enveloping the city. With temperatures dipping to a cozy 48 degrees, a light northeast breeze whispers through the air, adding a refreshing touch to the crispness of fall. The horizon is adorned with the soft palette of dusk, blending warm hues that hint at the day's retreat and the night\u2019s embrace. \n\nLooking ahead to Sunday, the city awakes to the possibility of sporadic rain showers in the late afternoon, but for now, the daylight holds a modest charm, with mostly sunny features and a high reaching near 63. The eastward wind remains gentle, encouraging leisurely strolls through nearby parks or casual gatherings on cafe patios, ideal for savoring warm beverages. As you step into the day, consider layering up with a light jacket and perhaps a cozy scarf, perfect for welcoming brisk breezes or tucking away in case of an unexpected shower. Whether you're exploring the cobbled streets or meandering along the waterfront, let the unfolding autumn day inspire quiet moments of simple pleasures in this vibrant city.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2026-10-03 18:46:50"
 }
