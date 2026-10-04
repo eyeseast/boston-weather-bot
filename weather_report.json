@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-04T05:00:00+00:00",
-            "temperature_f": 46.4,
-            "temperature_c": 8,
-            "humidity": 93.403401079213,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
-            "description": "Fog/Mist"
+            "timestamp": "2026-10-04T13:35:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 87.749358083507,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 10,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-10-04T00:00:00-04:00",
-                "endTime": "2026-10-04T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 48,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 48. Northeast wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-10-04T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-10-04T09:00:00-04:00",
                 "endTime": "2026-10-04T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 63,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 19
+                    "value": 22
                 },
-                "windSpeed": "6 to 10 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/sct/rain_showers,20?size=medium",
-                "shortForecast": "Mostly Sunny then Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 4pm. Mostly sunny, with a high near 63. Northeast wind 6 to 10 mph. Chance of precipitation is 20%."
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain_showers,20?size=medium",
+                "shortForecast": "Partly Sunny then Slight Chance Rain Showers",
+                "detailedForecast": "A slight chance of rain showers after 5pm. Partly sunny, with a high near 63. East wind 6 to 9 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-10-04T18:00:00-04:00",
+                "endTime": "2026-10-05T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 39
+                },
+                "windSpeed": "1 to 6 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/rain_showers,40/rain_showers,20?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers before 1am. Mostly cloudy, with a low around 52. North wind 1 to 6 mph. Chance of precipitation is 40%. New rainfall amounts between a quarter and half of an inch possible."
             }
         ]
     },
-    "weather_report": "As the evening deepens over Boston, the cool air whispers a calm solace, settling at a gentle low near 48 degrees. The faint touch of a northeast wind carries a hint of crispness, rendering the night predominantly clear, with distant city lights twinkling like stars fallen upon the earth. It is a moment gentle enough for contemplation, where solitude outside may invite the hush of night to weave deeper into one\u2019s thoughts.\n\nAs dawn approaches, Sunday promises a tantalizing contrast of sun and occasional clouds. While the chance of rain appears minimal, a sliver of uncertainty beckons, wrapping the day in an intriguing, casual cloak. Daytime temperatures will rise toward a comfortable mid-60s, ideal for an afternoon stroll along the River Esplanade or a leisurely brunch at a cafe by the waterfront. Dress in layers\u2014perhaps a light jacket over a soft sweater\u2014and step out with ease, allowing the sun\u2019s warmth to envelop you as the breeze tickles your skin. The subtle chance of rain might call for an umbrella tucked away in a bag, not as a foreboding omen but rather as a whimsical companion to navigate the day's shifting moods. Whether one wanders through the lush parks or indulges in the artful rhythms of caf\u00e9 chatter, today will unfold as a tender symphony of autumn's embrace.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-10-04 01:21:42"
+    "weather_report": "As the morning unfolds over Boston, the air carries a brisk freshness, whispering of autumn's slow embrace. Slashes of vibrant foliage punctuate the landscape, hinting at what\u2019s to come as the day wears on. With the sun shining intermittently through a patchwork of clouds, there\u2019s a gentle warmth that invites you outside, while the cool breeze, brushed with a hint of moisture, adds a layer of invigorating chill. \n\nThe forecast warns of slight chances for rain showers later in the afternoon, a prelude to the evening\u2019s more determined embrace of clouds and a higher likelihood of rain before midnight. As such, those venturing out would do well to don layers\u2014perhaps a lightweight jacket over a comfortable shirt, sturdy shoes for the variable terrain, and a well-prepared umbrella tucked conveniently in hand. A leisurely stroll through one of Boston's parks or a visit to a local caf\u00e9, where the aroma of coffee swirls amid the soft hum of conversation, would make for a delightful way to spend the day. Take a moment to enjoy the subtle beauty of this transitional season, for even with clouds threatening to gather, there is a serene charm in the cool autumn air.",
+    "color_code": "#A5B1B1",
+    "timestamp": "2026-10-04 09:51:07"
 }
