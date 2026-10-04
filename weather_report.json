@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-04T19:00:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 55.656762504377,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 120,
-            "description": "Mostly Cloudy"
+            "timestamp": "2026-10-04T22:35:00+00:00",
+            "temperature_f": 57.2,
+            "temperature_c": 14,
+            "humidity": 87.749358083507,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 70,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-10-04T15:00:00-04:00",
-                "endTime": "2026-10-04T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 24
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20?size=medium",
-                "shortForecast": "Slight Chance Rain Showers",
-                "detailedForecast": "A slight chance of rain showers after 4pm. Cloudy, with a high near 63. East wind around 8 mph. Chance of precipitation is 20%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-10-04T18:00:00-04:00",
                 "endTime": "2026-10-05T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain_showers,30/bkn?size=medium",
                 "shortForecast": "Chance Rain Showers then Mostly Cloudy",
                 "detailedForecast": "A chance of rain showers before 11pm. Mostly cloudy, with a low around 50. North wind 1 to 6 mph. Chance of precipitation is 30%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-10-05T06:00:00-04:00",
+                "endTime": "2026-10-05T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 66,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 14 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 66. West wind 3 to 14 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, the skies wear a quilt of grey, heavy yet unyielding, hinting at the day\u2019s possible showers. A gentle East wind dances through the trees, bringing forth the faintest promise of rain. The temperature hovers near a cool embrace, ideal for a light jacket or sweater, perhaps even a scarf to ward off the lingering chill as the evening approaches. It is a day that encourages contemplation, urging you to seek shelter in the nearby caf\u00e9, where the aroma of coffee mingles with the patter of raindrops that will soon grace the sidewalks.\n\nAs twilight settles in, the clouds may spill their contents, offering a brief but refreshing reprieve from the warm days of summer. A light drizzle is likely before nightfall, urging you to take a moment to enjoy the soft whispers of rain on rooftops, creating a backdrop for quiet reflection. As the city glimmers under the embrace of the coming night, a walk along the river may be a delightful way to savor the subdued atmosphere, the air rich with the scent of damp earth and possibility. Embrace the gentleness of the season; it calls for cozy gatherings or perhaps a captivating book, as you find solace in the rhythm of the world outside your window.",
-    "color_code": "#A2A2A2",
-    "timestamp": "2026-10-04 15:23:09"
+    "weather_report": "As twilight gently settles over Boston, a soft gray blanket of clouds embraces the horizon. The air is cool, hinting at the coming chill of autumn, as the temperature hovers around a modest fifty degrees. While the chance of rain lingers like an afterthought in the evening sky, the breeze, though light, carries with it whispers of the day\u2019s warmth, now fading. With a 30% chance of rain before night takes full command, one might want to keep an umbrella handy, yet it seems like more of a precaution than a necessity.\n\nLooking toward Monday, anticipate a delightful shift as sunshine breaks through. The forecast promises a sunny disposition with temperatures nudging close to 66 degrees. A gentle westward wind will dance through the trees, creating rustles reminiscent of laughter amongst the leaves. As for attire, consider layering; a light jacket will provide comfort against the chill of the evening, while a more breathable shirt underneath will keep you ready for the mid-afternoon warmth. \n\nShould one seek purpose amidst such transitional weather, a thoughtful evening stroll along the waterfront could be just the remedy, paired with a warm beverage in hand to embrace the coolness. Locals might also find solace in discovering a cozy caf\u00e9 to reflect on the fading light or perhaps a small bookstore to lose oneself among the pages. The night, while not radiant, holds its own charm, inviting quiet contemplation and the gentle thrill of approaching change.",
+    "color_code": "#A4B0B7",
+    "timestamp": "2026-10-04 18:55:35"
 }
