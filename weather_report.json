@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-08T05:10:00+00:00",
-            "temperature_f": 55.4,
-            "temperature_c": 13,
-            "humidity": 76.681069549305,
-            "wind_speed_mph": 28.991520000000005,
+            "timestamp": "2026-10-08T08:40:00+00:00",
+            "temperature_f": 53.6,
+            "temperature_c": 12,
+            "humidity": 93.602371756764,
+            "wind_speed_mph": 20.696724000000003,
             "wind_direction": 190,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-10-08T01:00:00-04:00",
-                "endTime": "2026-10-08T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 52,
+                "name": "Today",
+                "startTime": "2026-10-08T11:00:00-04:00",
+                "endTime": "2026-10-08T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 71,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 2
+                    "value": 28
                 },
                 "windSpeed": "12 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 52. Southwest wind around 12 mph."
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,20?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers before 1pm. Sunny, with a high near 71. West wind around 12 mph, with gusts as high as 26 mph. Chance of precipitation is 30%."
             },
             {
                 "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-10-08T06:00:00-04:00",
-                "endTime": "2026-10-08T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 73,
+                "name": "Tonight",
+                "startTime": "2026-10-08T18:00:00-04:00",
+                "endTime": "2026-10-09T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 48,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 29
+                    "value": 0
                 },
-                "windSpeed": "14 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,30/rain_showers,20?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers after 9am. Partly sunny, with a high near 73. Southwest wind around 14 mph, with gusts as high as 26 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 48. West wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "As the night settles over Boston, a gentle clarity envelops the city, with a low temperature reminiscent of a soft embrace around 52 degrees. The southwest breeze whispers through the streets, offering a hint of the day's promise. Tomorrow anticipates a playful dance of clouds and sun, with the possibility of rain showers emerging post-morning. The air, warm and inviting, holds the potential for delightful moments under the partly sunny sky, while the brisk wind brings an exhilarating touch, urging passersby to feel the rhythm of the day.\n\nAs the morning unfolds, it may be wise to dress in layers\u2014a light sweater or jacket paired with comfortable attire to navigate both the warmth of the sun and the occasional shower. For those with a taste for the simple pleasures of life, a stroll through the local parks could provide a refreshing escape, or perhaps a leisurely visit to a nearby caf\u00e9 would be ideal to sip warm beverages while watching the world ease into its day. Embrace the moments of beauty that unfold with each passing hour as Boston greets a new day infused with mingling warmth and the hint of gentle rain.",
-    "color_code": "#A8B5A2",
-    "timestamp": "2026-10-08 01:32:56"
+    "weather_report": "The morning sun shines brightly over Boston, casting a warm glow across the cityscape, while the trees don their vibrant autumnal hues, a fantastic backdrop to the lingering shadows of the fading summer. With a playful breeze brushing against the skin, it feels like a soft embrace of early fall. The forecast promises a delightful continuation of these conditions, with temperatures climbing to a pleasant high, making it an inviting day for those looking to absorb the city's charm.\n\nAs the noon hour approaches, the prospects of rain seem to dissolve, yielding instead to bright, clear skies. The air is crisp and invigorating, perfect for a leisurely stroll along the Boston Common or a delightful visit to any of the local caf\u00e9s that beckon with the aroma of freshly brewed coffee. Given the westward winds and temperate conditions, a light jacket would suffice, allowing you to savor the outdoors without the weighty encumbrance of heavier attire. Tonight, as the sun dips low and the stars gently wake, the chill will deepen, suggesting a cozy evening may be best spent unwinding indoors with a good book or enjoying quiet conversation by the fire.",
+    "color_code": "#A8D8E0",
+    "timestamp": "2026-10-08 11:26:29"
 }
