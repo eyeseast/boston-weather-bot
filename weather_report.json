@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-10T04:53:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 250,
-            "description": ""
+            "timestamp": "2026-10-10T14:05:00+00:00",
+            "temperature_f": 55.4,
+            "temperature_c": 13,
+            "humidity": 54.362216651364,
+            "wind_speed_mph": 33.17918400000001,
+            "wind_direction": 330,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-10-10T01:00:00-04:00",
-                "endTime": "2026-10-10T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 42,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 42. West wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Saturday",
-                "startTime": "2026-10-10T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-10-10T10:00:00-04:00",
                 "endTime": "2026-10-10T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 63,
+                "temperature": 62,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 63. Northwest wind 2 to 7 mph."
+                "detailedForecast": "Sunny, with a high near 62. Northwest wind 2 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-10-10T18:00:00-04:00",
+                "endTime": "2026-10-11T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "1 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 44. South wind around 1 mph."
             }
         ]
     },
-    "weather_report": "As the early hours of Saturday unfurl in Boston, a gentle calm blankets the city, teasing the promise of a bright and inviting day ahead. The night coolness still lingers, with a crispness in the air that suggests a comfortable autumn chill, ideal for a soft sweater or light jacket. The stars may have long since given way to the amber glow of city lights, yet there is a hush that feels timeless\u2014a prelude to the morning sun that will soon peek over the horizon.\n\nBy daybreak, the sun will rise in a clear slate of brilliant blue, casting light over the historic streets and waterfront, creating a tableau of vibrancy and warmth. With temperatures climbing to a delightful 63 degrees, the day will be perfect for a leisurely stroll through the Boston Common, where the foliage begins to hint at its autumnal palette. The gentle northwest breeze will whisper through the trees, spreading the scent of fallen leaves and the promise of cozy gatherings.\n\nEmbrace the simplicity of this autumnal day; it invites one to savor the little things\u2014perhaps a stop at a local caf\u00e9 for a warm cup of coffee, or an exploration of the city's rich tapestry of parks and waterfronts. As the clock moves through the hours, let the refreshing clarity of the air inspire moments of quiet reflection or the joy of shared laughter with friends. A day such as this beckons subtle adventures, urging you to pause and appreciate the beauty stitched into the everyday fabric of life in Boston.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-10-10 01:21:15"
+    "weather_report": "The day unfurls in Boston, wrapped in azure skies that stretch far beyond the horizon. The sunlight bathes the city in a gentle warmth, beckoning with an inviting high that flirts with 62 degrees. A light northwestern breeze whispers through the streets, bringing with it the refreshing scent of autumn leaves. As the hours roll forward, the sun will sink low, giving way to a tranquil night, where temperatures nestle comfortably around 44 degrees\u2014a softness that hints at a cozy evening in.\n\nWith such pleasant conditions at hand, consider a light sweater over a simple t-shirt, perhaps paired with well-loved jeans and sneakers, making the perfect ensemble for a stroll through Boston's vibrant neighborhoods. This weather calls for lingering conversations at a quaint outdoor caf\u00e9 or perhaps a leisurely walk along the Charles River, where the foliage dances in gentle autumn hues. Those captivated by the city's history may find solace in wandering through the Freedom Trail, each step echoing tales of yore under the delightful, clear sky. Embrace the charm of the day, for it holds within it the promise of unhurried moments and serene exploration.",
+    "color_code": "#A7B7D9",
+    "timestamp": "2026-10-10 10:22:30"
 }
