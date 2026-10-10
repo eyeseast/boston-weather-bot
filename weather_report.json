@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-09T20:20:00+00:00",
-            "temperature_f": 66.2,
-            "temperature_c": 19,
-            "humidity": 37.062116320647,
-            "wind_speed_mph": 49.688244000000005,
-            "wind_direction": 290,
-            "description": "Clear"
+            "timestamp": "2026-10-10T04:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": 12.0798,
+            "wind_direction": 250,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-10-09T16:00:00-04:00",
-                "endTime": "2026-10-09T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 67,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 67. West wind around 13 mph, with gusts as high as 30 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-10-09T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-10-10T01:00:00-04:00",
                 "endTime": "2026-10-10T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "7 to 10 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 42. West wind 7 to 10 mph, with gusts as high as 26 mph."
+                "detailedForecast": "Mostly clear, with a low around 42. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-10-10T06:00:00-04:00",
+                "endTime": "2026-10-10T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 63,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "2 to 7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 63. Northwest wind 2 to 7 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a gentle sun casts its warm embrace over the city, inviting those outdoors to savor the crispness of crisp fall air. With the temperature flirting near sixty-seven degrees, the westward breeze whisks through the streets, carrying with it the earthy scent of changing leaves. The sky, adorned with scattered clouds, offers patches of blue that feel almost like an artist's brushstrokes, framing the day with a sense of clarity and promise. As the evening approaches, a transition looms, with a forecast calling for a drop to a cooler forty-two degrees. The wind will soften, but its presence lingers, reminding us of autumn\u2019s inevitable arrival.\n\nFor those stepping out, a light jacket or cardigan may serve well, perfectly matched with jeans or comfortable trousers to navigate the cool air of the upcoming night. Consider a stroll along the Charles, where the reflections of the trees blend achingly with the water\u2019s surface, or a visit to one of the intimate caf\u00e9s that dot the streets, their warmth inviting you to shelter from the chill. As the day wanes, let the crispness awaken your senses, coaxing you to find solace in a cup of something warm, shared either in solitude or among friends.",
-    "color_code": "#A3C1D4",
-    "timestamp": "2026-10-09 16:42:42"
+    "weather_report": "As the early hours of Saturday unfurl in Boston, a gentle calm blankets the city, teasing the promise of a bright and inviting day ahead. The night coolness still lingers, with a crispness in the air that suggests a comfortable autumn chill, ideal for a soft sweater or light jacket. The stars may have long since given way to the amber glow of city lights, yet there is a hush that feels timeless\u2014a prelude to the morning sun that will soon peek over the horizon.\n\nBy daybreak, the sun will rise in a clear slate of brilliant blue, casting light over the historic streets and waterfront, creating a tableau of vibrancy and warmth. With temperatures climbing to a delightful 63 degrees, the day will be perfect for a leisurely stroll through the Boston Common, where the foliage begins to hint at its autumnal palette. The gentle northwest breeze will whisper through the trees, spreading the scent of fallen leaves and the promise of cozy gatherings.\n\nEmbrace the simplicity of this autumnal day; it invites one to savor the little things\u2014perhaps a stop at a local caf\u00e9 for a warm cup of coffee, or an exploration of the city's rich tapestry of parks and waterfronts. As the clock moves through the hours, let the refreshing clarity of the air inspire moments of quiet reflection or the joy of shared laughter with friends. A day such as this beckons subtle adventures, urging you to pause and appreciate the beauty stitched into the everyday fabric of life in Boston.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-10-10 01:21:15"
 }
