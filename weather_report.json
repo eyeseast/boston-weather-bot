@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-14T19:45:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 64.719860273836,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 280,
-            "description": "Light Rain"
+            "timestamp": "2026-10-15T03:45:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
+            "humidity": 72.218947621294,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 300,
+            "description": "Partly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-10-14T16:00:00-04:00",
-                "endTime": "2026-10-14T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 75,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 11
-                },
-                "windSpeed": "10 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 75. West wind around 10 mph, with gusts as high as 22 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-10-14T18:00:00-04:00",
+                "name": "Overnight",
+                "startTime": "2026-10-15T00:00:00-04:00",
                 "endTime": "2026-10-15T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 49,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 1
+                    "value": 0
                 },
-                "windSpeed": "7 to 12 mph",
+                "windSpeed": "12 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 49. Northwest wind 7 to 12 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Mostly clear, with a low around 49. Northwest wind around 12 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-10-15T06:00:00-04:00",
+                "endTime": "2026-10-15T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 12 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 60. North wind 3 to 12 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon sun casts a gentle glow over Boston, the air is imbued with a comforting warmth, a near-75-degree embrace, against the light caress of a modest west wind. The sky exhibits a remarkably clear character, interrupted only by wisps of cloud that seem to dance lazily, bringing a touch of whimsy to a day that promises to be both pleasant and invigorating.\n\nLater, as twilight beckons, temperatures will dip gracefully to around 49 degrees, the northwest winds swirling softly, keeping the evening crisp yet inviting. It's a time to don a light sweater, perhaps even a scarf if one is prone to chill, as the stars begin to dot the impending night sky. Given this delightful backdrop, one might find joy in a leisurely stroll along the Boston waterfront, where the reflections of the dwindling sunlight converse with the water's surface. Alternatively, a visit to a charming caf\u00e9\u2014perhaps tucked away in Beacon Hill\u2014would nourish both body and spirit, an excellent choice for a late afternoon or early evening respite. The day, in all its understated glory, invites a connection with nature, a moment to breathe deeply and appreciate the dance of the seasons.",
-    "color_code": "#A8CBA0",
-    "timestamp": "2026-10-14 16:04:46"
+    "weather_report": "As the night deepens in Boston, a calm serenity blankets the city, punctuated only by the glow of scattered lights shimmering against the backdrop of a crisp, clear sky. With temperatures settling gently around 49 degrees, the air carries a refreshing chill, that breezy northwest wind whispering through the streets. The early hours invite a quiet appreciation of the night\u2014the kind of night where one might contemplate the world while bundled in a light jacket, perhaps sipping a warm drink to savor the tranquility that lingers in the air.\n\nCome Thursday, the dawn will unfold with the sun casting its golden rays across a waking landscape. Promising a high near 60, the day is set to be both invigorating and pleasant, accompanied by soft winds drifting from the north. It is a day well-suited to wander through local parks, relish an afternoon coffee at a quaint caf\u00e9, or explore the charm of Boston\u2019s neighborhoods, all while dressed in layers that evoke both comfort and style. As the sun ascends, expect the clouds to part, revealing a cobalt canvas above, perfectly inviting for leisurely strolls or quiet moments spent reading by the window. The atmosphere encourages a connection to the rhythm of the changing seasons, reminding us of the simple delights that each day may hold.",
+    "color_code": "#A8C8C0",
+    "timestamp": "2026-10-15 00:07:05"
 }
