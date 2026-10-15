@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-15T19:25:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": null,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 230,
+            "timestamp": "2026-10-15T22:40:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 71.281266407174,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-10-15T15:00:00-04:00",
-                "endTime": "2026-10-15T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 62,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 62. Northeast wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-10-15T18:00:00-04:00",
                 "endTime": "2026-10-16T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
                 "detailedForecast": "Partly cloudy, with a low around 45. Southeast wind 3 to 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-10-16T06:00:00-04:00",
+                "endTime": "2026-10-16T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 70
+                },
+                "windSpeed": "9 to 14 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,70/tsra,60?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers before 8am, then rain showers likely and patchy fog between 8am and 5pm, then a chance of showers and thunderstorms. Cloudy, with a high near 69. South wind 9 to 14 mph, with gusts as high as 24 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "A vibrant autumn afternoon envelops Boston, with sunlight spilling across the cityscape and creating a warmth that belies the crispness in the air. The high temperature flirts with the low sixties, a reminder of the changing season as leaves turn to shades of amber and gold, painting the backdrop with an artist\u2019s flair. The gentle north-easterly breeze whispers through the streets, inviting residents to step outside and relish this fleeting moment of clarity. \n\nAs evening approaches, clouds will cradle the sky, bringing a degree of mystery to the night, mingling with stars that will eventually find their way through. The temperature will dip, urging anyone still out to embrace a light jacket or sweater for warmth. With such delightful weather, one might indulge in a leisurely stroll along the Charles River, relishing the rustle of leaves underfoot and watching the boats glide across the water\u2019s surface. Perhaps a quiet visit to one of Boston's beloved caf\u00e9s would provide the perfect haven to savor a warm beverage while contemplating the beauty of the day.",
-    "color_code": "#B8D6F7",
-    "timestamp": "2026-10-15 15:47:00"
+    "weather_report": "As dusk settles over Boston, the air carries a gentle yet crisp chill, lingering at around 45 degrees. The remnants of daylight are yielding to a night adorned with patchy clouds, where a subtle southeast breeze plays with the leaves and whispers secrets of the approaching rain. Tonight offers a canvas of serenity except for the soft teetering of wind, inviting one to wrap themselves in a light jacket or sweater for the evening stroll.\n\nTomorrow heralds a shift, as the promise of rain begins to weave into the fabric of the day. Cloudy skies will blanket the city, with the likelihood of showers and the possibility of a rumbling thunderstorm. The high will reach a temperate 69 degrees, perfect for a light layering, ensuring comfort whether you're exploring cozy coffee shops or running last-minute errands. As the dew settles and hints of fog weave through the alleyways after the rains, consider taking a leisurely walk among the city\u2019s quieter corners, or perhaps indulging in a moment of reflection at one of Boston\u2019s serene parks. The air will be rich with the scent of wet earth and possibility, more poignant than the usual commute. Embrace the soft glow of the city lights as you take in the vibrant life around you, serenaded by the soft patter of rain.",
+    "color_code": "#3E4E88",
+    "timestamp": "2026-10-15 18:58:04"
 }
