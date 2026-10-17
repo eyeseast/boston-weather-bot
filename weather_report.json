@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-17T18:00:00+00:00",
-            "temperature_f": 50.0,
-            "temperature_c": 10,
-            "humidity": 49.831135182182,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 320,
-            "description": "Partly Cloudy"
+            "timestamp": "2026-10-17T21:50:00+00:00",
+            "temperature_f": 46.4,
+            "temperature_c": 8,
+            "humidity": 45.751790094093,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 330,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-10-17T14:00:00-04:00",
-                "endTime": "2026-10-17T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 51,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 51. North wind around 13 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-10-17T18:00:00-04:00",
                 "endTime": "2026-10-18T06:00:00-04:00",
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Widespread Frost",
                 "detailedForecast": "Widespread frost after 11pm. Mostly clear, with a low around 31. North wind 3 to 9 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-10-18T06:00:00-04:00",
+                "endTime": "2026-10-18T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 54,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Widespread Frost then Sunny",
+                "detailedForecast": "Widespread frost before 9am. Sunny, with a high near 54. Northeast wind around 3 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston, the sun peeks out intermittently from a patchwork of clouds, casting a pale light that dances across the vibrant tapestry of fall foliage, hinting at the warmth to come despite the crispness of the air. The temperature hovers around a cool 51 degrees, accompanied by a gentle but steady north wind that whispers through the trees and carries the promise of a clear evening. As the day slips into twilight, widespread frost will blanket the city, inviting a rare beauty to the already stunning landscape\u2014a reminder of the transitional season we find ourselves in.\n\nAs dusk approaches, one might dress in layers, embracing the need for a warm jacket against the chill while allowing for a lighter top to enjoy the daytime sun. Comfortable shoes would beckon to explore the city\u2019s quieter corners, perhaps to take a leisurely stroll along the Charles River or wander through one of Boston's many parks, where the rustling leaves recall the turning of the seasons. Tonight will call for coziness at home or perhaps a visit to a local caf\u00e9, where the scent of coffee mingles with the crisp evening air, making for a splendid way to wrap up the day amidst the beauty of an autumn evening.",
-    "color_code": "#A6A69B",
-    "timestamp": "2026-10-17 14:19:09"
+    "weather_report": "As twilight descends upon Boston, a serene calm envelops the city, accentuated by the gentle chill in the air. The night beckons with promises of widespread frost, a reminder to those wandering the streets to bundle up against the sharp touch of autumn. The temperatures are poised to dip to a crisp 31 degrees, challenging even the most seasoned sweater enthusiast. A north breeze dances through the evening hours, creating a lively atmosphere, punctuated by gusts that may rattle the branches but not the spirit of the city dwellers.\n\nAs morning approaches, the frost will greet the sun, painting the landscape with a glistening sheen. The day will unfold in gentle sunlight, coaxing highs of 54 degrees that invite a light jacket or a cozy scarf\u2014perfect companions for a leisurely stroll through the leaf-strewn parks or a visit to one of the local cafes buzzing with warmth. The northeast wind will softly sweep through, providing just enough bite to remind you that winter is lurking not far behind. It\u2019s a day for quiet exploration, perhaps wandering along the Charles River where reflections shimmer against the still water or finding a cozy nook in one of Boston's historic libraries. The air is invigorating, a canvas for the toasty joys of cinnamon spiced lattes or the comfort of a good book. Overall, it promises a beautiful yet brisk Saturday to embrace the simple pleasures of life.",
+    "color_code": "#A0B3C4",
+    "timestamp": "2026-10-17 18:05:35"
 }
