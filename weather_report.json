@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-18T03:35:00+00:00",
-            "temperature_f": 32.0,
-            "temperature_c": 0,
-            "humidity": 86.394921766766,
+            "timestamp": "2026-10-18T11:55:00+00:00",
+            "temperature_f": 30.2,
+            "temperature_c": -1,
+            "humidity": 86.289933081164,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,30 +18,11 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-10-18T00:00:00-04:00",
-                "endTime": "2026-10-18T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Widespread Frost",
-                "detailedForecast": "Widespread frost. Clear, with a low around 31. North wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-10-18T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-10-18T08:00:00-04:00",
                 "endTime": "2026-10-18T18:00:00-04:00",
                 "isDaytime": true,
-                "temperature": 54,
+                "temperature": 55,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -49,14 +30,33 @@
                     "value": 0
                 },
                 "windSpeed": "3 mph",
-                "windDirection": "NE",
+                "windDirection": "N",
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Widespread Frost then Sunny",
-                "detailedForecast": "Widespread frost before 9am. Sunny, with a high near 54. Northeast wind around 3 mph."
+                "shortForecast": "Patchy Frost then Sunny",
+                "detailedForecast": "Patchy frost before 9am. Sunny, with a high near 55. North wind around 3 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-10-18T18:00:00-04:00",
+                "endTime": "2026-10-19T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "1 to 5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 38. South wind 1 to 5 mph."
             }
         ]
     },
-    "weather_report": "In Boston tonight, the air is crisp and still, whispering of imminent frost as temperatures dip to a low near 31 degrees. The soft glow of city lights twinkles in the distance under a canopy of clarity, beckoning those bold enough to venture into the night. As morning approaches, the city will awaken to widespread frost, giving way to a bright, sunny day that holds the promise of warmth with a high around 54 degrees. A gentle breeze from the northeast greets the day, wrapping Boston in a cool embrace before the sun takes command. \n\nAs the sun rises, it will illuminate the frost-laden ground and bring a fresh vibrancy to the landscape, inviting residents to embrace the outdoors. Dressing in layers will be advisable, with a light jacket providing comfort against the morning chill, while still allowing for the ease of shedding it as the sun climbs higher. Consider a stroll through the nearby parks, where the splendor of the season unfurls in golden hues, or perhaps a quiet moment at a local caf\u00e9, where one can savor a warm drink while watching the world come alive. The day is painted with the promise of simple pleasures, ideal for those seeking to relish the balance of cool autumn air and bright sunshine.",
-    "color_code": "#A2A2A2",
-    "timestamp": "2026-10-18 00:00:15"
+    "weather_report": "As the sun generously spills its light over Boston this morning, the crisp air, imbued with the lingering chill that precedes a bright autumn day, beckons for a fresh embrace of nature. Isolated patches of frost indicative of the season remind us that it's time to wrap ourselves warmly; however, the promise of clear skies and temperatures nudging towards a comfortable 55 invigorate the spirit. A gentle north wind stirs lazily in the background, offering a soft rustle that contrasts beautifully with the tranquil expanse stretching before us, showcasing the fiery hues of fall foliage, a tapestry only nature could weave.\n\nAs the sun continues its ascent, tonight promises to descend into a quiet calm, with temperatures winding down to a mild 38. Dress in layers to enjoy the day's warmth but keep a sweater close for the evening's embrace. This day invites you to indulge in simple pleasures; perhaps a leisurely stroll through the vibrantly colored streets or a quiet moment at a local caf\u00e9, sipping a warm drink while watching the world shuffle by. There's an invitation to relish the beauty and solitude that such a day imparts, a chance to revel in the delightful turn of the seasons while immersing oneself in the serene charm that only Boston can offer.",
+    "color_code": "#FFD700",
+    "timestamp": "2026-10-18 08:31:30"
 }
