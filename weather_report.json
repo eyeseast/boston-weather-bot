@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-20T20:00:00+00:00",
-            "temperature_f": 60.8,
-            "temperature_c": 16,
-            "humidity": 44.78682951445,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 60,
+            "timestamp": "2026-10-20T23:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-10-20T16:00:00-04:00",
-                "endTime": "2026-10-20T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 60,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 60. Northeast wind around 12 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-10-20T18:00:00-04:00",
+                "startTime": "2026-10-20T20:00:00-04:00",
                 "endTime": "2026-10-21T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "9 to 14 mph",
+                "windSpeed": "8 to 12 mph",
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 44. Northeast wind 9 to 14 mph, with gusts as high as 25 mph."
+                "detailedForecast": "Mostly clear, with a low around 44. Northeast wind 8 to 12 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-10-21T06:00:00-04:00",
+                "endTime": "2026-10-21T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "14 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 52. Northeast wind around 14 mph, with gusts as high as 26 mph."
             }
         ]
     },
-    "weather_report": "The afternoon light spills across Boston, casting a golden glow that dances off the remnants of autumn foliage. With temperatures hovering near sixty, and a gentle northeast breeze whispering through the trees, the day feels both invigorating and refreshing. It\u2019s a moment where the air is crisp, invigorated by wind gusts that rise to twenty-three miles per hour, inviting a deeper breath, a slight shiver that hints at the chill of the darkening evening.\n\nAs twilight approaches, the skies remain mostly clear, offering a canvas where the lingering sunlight can play before yielding to dusk. By evening's descent, temperatures will dip to a comfortable forty-four, urging a light jacket or a cozy sweater to stave off the growing coolness. Picture yourself strolling along the delightful streets of Beacon Hill, perhaps wrapping your hands around a warm cup of coffee from a nearby caf\u00e9, or standing momentarily to watch the sun\u2019s last glimmers bounce off the Charles River, a quiet reminder of the beauty that urban life can hold. There\u2019s an uncomplicated pleasure in these early hours of evening, a perfect time to relish simple walks or indulge in a leisurely bike ride before dusk settles into the bustling city, offering a serene balance to the autumnal charm.",
-    "color_code": "#F0E68C",
-    "timestamp": "2026-10-20 16:17:20"
+    "weather_report": "As the night envelops Boston, a gentle clarity reveals itself amidst the shimmering city lights. The air is cool, a whisper of autumn settling in with a touch of anticipation for the midnight chill, promising a low around 44. With a northeast wind stirring softly at 8 to 12 mph, those venturing out might feel the occasional gust, a playful reminder of the season's shift. The night is mostly clear, inviting a contemplative stroll along the waterfront or a quiet moment in a cozy caf\u00e9, where warm drinks can briefly stave off the crispness.\n\nLooking ahead, Wednesday dawns with a mix of clouds, as if nature herself is reluctant to release the sun entirely. The temperature will hover around 52, a brisk promise that encourages layering \u2014 perhaps a light sweater beneath a well-worn jacket, complemented by a scarf that dances in the wind. The northeast gusts could ramp up to 26 mph, making a brisk walk or a trip to the local market brisk and refreshing, but be prepared for a slight chill that nudges at the neck and wrists. As the day unfolds, consider taking in the autumn-laden parks where the leaves put on their final show, or savoring the indoor comforts of a cherished bookstore, lost in stories as perplexing as the weather itself. In this blend of cool air and puffs of cloud, Boston offers a tangible slice of early autumn's essence.",
+    "color_code": "#2C3E50",
+    "timestamp": "2026-10-20 20:43:39"
 }
