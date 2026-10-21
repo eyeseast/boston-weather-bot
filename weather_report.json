@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-21T08:00:00+00:00",
+            "timestamp": "2026-10-21T12:00:00+00:00",
             "temperature_f": 46.4,
             "temperature_c": 8,
             "humidity": 70.697540658389,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 360,
-            "description": "Clear"
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 10,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-10-21T03:00:00-04:00",
-                "endTime": "2026-10-21T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "13 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 43. Northeast wind around 13 mph, with gusts as high as 23 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-10-21T06:00:00-04:00",
+                "name": "Today",
+                "startTime": "2026-10-21T08:00:00-04:00",
                 "endTime": "2026-10-21T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 52,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a high near 52. Northeast wind around 14 mph, with gusts as high as 28 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-10-21T18:00:00-04:00",
+                "endTime": "2026-10-22T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 10
+                },
+                "windSpeed": "13 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 44. North wind around 13 mph."
             }
         ]
     },
-    "weather_report": "As the early hours of the morning stretch into the quiet Boston skyline, a crispness hangs in the air, whispering of colder days ahead. The clouds linger like a soft veil, promising a day void of sunshine but rich in that unique, muted light that fills the city with a gentle glow. The breeze, brisk and determined, carries a chill, nudging against the outlines of buildings and rustling the leaves. If one were to step outside, a sweater or light jacket would be a suitable companion, warding off the coolness while allowing for the dance of movement in the brisk air.\n\nAs the sun struggles to break through the layers of clouds, Boston will awaken slowly, inviting its residents to enjoy the kind of day that encourages quiet reflection or the gentle bustle of routine. The streets may not be bustling with the usual warmth of fall sunlight, but they offer an opportunity for a leisurely stroll through the neighborhoods, perhaps stopping by a cozy caf\u00e9 for coffee, or indulging in a thoughtful read at a nearby park, the cool air lending clarity to each breath. The day may not call for grand escapades, yet the simple pleasure of the ordinary offers its own kind of richness in this softly overcast embrace.",
-    "color_code": "#B0C4D0",
-    "timestamp": "2026-10-21 04:22:29"
+    "weather_report": "As dawn unfurls her arms over Boston, the skies remain draped in a quilt of gray, hinting at the moisture that lingers in the air yet refusing to let it fall as rain. The brisk northeast wind whispers through the streets, feeling almost invigorating, while the trees sway gently, their leaves\u2014mostly fallen\u2014scatter in muted hues against the asphalt backdrop. The forecast suggests a high of 52, a temperature that can coax one into light layers, perhaps a long-sleeved shirt beneath a cozy sweater, topped with a light jacket to ward off the bite of the wind. While there may not be an invitation to bask in sunlight today, the ambiance has its own understated charm.\n\nIn this somewhat subdued lighting, the opportunity arises for quiet reflection or leisurely pursuits. A stroll through the nearby parks, layered in autumn\u2019s finest colors, offers a chance to absorb the tranquility that settles over the city. One might find solace in a local caf\u00e9, sipping a warm beverage while watching the world scurry past, or perhaps even take a detour into a hidden bookstore, savoring moments amid the hushed whispers of pages turning. Today may not boast the brilliance of a blue-skied afternoon, but its character holds a beauty all its own, best enjoyed through thoughtful wanderings and simple pleasures.",
+    "color_code": "#A8A8A8",
+    "timestamp": "2026-10-21 08:25:17"
 }
