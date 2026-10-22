@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-21T15:55:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 66.720955975373,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Mostly Clear"
+            "timestamp": "2026-10-22T00:20:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 76.193074639467,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 30,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-10-21T12:00:00-04:00",
-                "endTime": "2026-10-21T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 52. Northeast wind around 14 mph, with gusts as high as 28 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-10-21T18:00:00-04:00",
+                "startTime": "2026-10-21T20:00:00-04:00",
                 "endTime": "2026-10-22T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 10
+                    "value": 4
                 },
                 "windSpeed": "13 mph",
-                "windDirection": "N",
+                "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 44. North wind around 13 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 44. Northeast wind around 13 mph, with gusts as high as 23 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-10-22T06:00:00-04:00",
+                "endTime": "2026-10-22T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "9 to 14 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 60. North wind 9 to 14 mph, with gusts as high as 25 mph."
             }
         ]
     },
-    "weather_report": "Boston basks in a muted autumn afternoon, with a quilt of clouds draping the sky, softly filtering the late-season light. The cool air carries a whisper of the north, nudging leaves into a gentle dance and offering a refreshing embrace as one steps outside. A high of about fifty-two brings a crispness that beckons a cozy sweater or light jacket, perhaps complemented by a timeless scarf that can ward off the playful gusts sweeping through the city. As the day draws on, the clouds promise to linger, crafting a serene backdrop for evening strolls along the Charles or a quiet moment in one of Boston's leafy parks.\n\nTonight\u2019s descent into coolness invites a retreat indoors, but for those who wish to embrace the evening air, a brisk walk with a warm beverage in hand could be just the ticket. Urban explorers might find the soft glow of streetlights illuminating the cobblestones of Beacon Hill particularly enchanting, the charm of the neighborhoods heightened by the crispness of the season. All the while, the passage of time reminds us that even under a cloudy sky, the beauty of Boston unfolds\u2014one gentle breath of autumn air at a time.",
-    "color_code": "#A3B5C5",
-    "timestamp": "2026-10-21 12:17:01"
+    "weather_report": "As the twilight descends over Boston, a veil of clouds spreads across the sky, settling into the evening with a soft, subdued glow. The air is brisk, hinting at the cooler night ahead, as the thermometer dips to around 44 degrees. A northeasterly wind laces through the city, offering reminders of autumn's approach with gusts that dance like playful whispers across the landscape. While tonight may feel a touch chillier, the drama of the evening clouds provides an enchanting backdrop, imbuing the city with a reflective quiet, ideal for cozy pursuits or leisurely strolls through familiar streets illuminated by soft lamp light.\n\nLooking forward to Thursday, the promise of sunshine will break through the clouds, lifting spirits as the day warms to a respectful 60 degrees. A gentle north wind will carry away the hesitance of the night, inviting Bostonians to step outside with light layers, perhaps a thin sweater or a light jacket\u2014perfect attire for the brilliance that awaits. With such a lovely day on the horizon, one might consider exploring the quaint caf\u00e9s tucked away in the corners of the city or taking a low-key walk along the Charles River, breathing in the crisp fall air and savoring the vibrant hues of foliage in transition. It\u2019s a time for simplicity and appreciation in the heart of a city alive with opportunity.",
+    "color_code": "#5A8A69",
+    "timestamp": "2026-10-21 20:44:01"
 }
