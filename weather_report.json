@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-25T08:00:00+00:00",
-            "temperature_f": 28.4,
-            "temperature_c": -2,
-            "humidity": 92.863965557739,
+            "timestamp": "2026-10-25T12:00:00+00:00",
+            "temperature_f": 30.2,
+            "temperature_c": -1,
+            "humidity": 92.920792863957,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,45 +18,45 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-10-25T04:00:00-04:00",
-                "endTime": "2026-10-25T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 37,
+                "name": "Today",
+                "startTime": "2026-10-25T08:00:00-04:00",
+                "endTime": "2026-10-25T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 67,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "2 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 37. West wind around 2 mph."
+                "windSpeed": "3 to 7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
+                "shortForecast": "Areas Of Frost then Sunny",
+                "detailedForecast": "Areas of frost before 9am. Sunny, with a high near 67. Southwest wind 3 to 7 mph."
             },
             {
                 "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-10-25T06:00:00-04:00",
-                "endTime": "2026-10-25T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 64,
+                "name": "Tonight",
+                "startTime": "2026-10-25T18:00:00-04:00",
+                "endTime": "2026-10-26T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 41,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
                     "value": 0
                 },
-                "windSpeed": "3 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 64. Southwest wind around 3 mph."
+                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
+                "shortForecast": "Clear",
+                "detailedForecast": "Clear, with a low around 41. Southwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As the early morning hours unfold in Boston, a tranquil stillness blankets the city, punctuated only by the gentle whispers of a light breeze. The sky unfurls in its clarity, adorned by the embracing vestiges of night slowly yielding to the promise of dawn. The air is crisp, tinged with the cool temperament of fall, hinting at a low of about 37 degrees. It is a moment of calm before the sun showcases its golden grace, painting the day ahead with the warmth of summer\u2019s nostalgia. By midday, expect the sun to assert itself amidst the blue expanse, with temperatures rising towards a pleasant 64. \n\nAs you contemplate your attire, consider layering to embrace both the refreshing morning chill and the balmy afternoon sun. A light sweater or jacket thrown over a comfortable shirt would serve you well in this transitional weather, allowing for easy adjustments as the day progresses. For the adventurous spirit, a stroll through the city streets or along the waterfront beckons, where the vibrant colors of the trees can be admired as they begin to turn. An afternoon visit to a local caf\u00e9, perhaps to sip on a warm beverage while watching the world flow by, might just be the perfect complement to this idyllic Sunday.",
-    "color_code": "#A8C4D4",
-    "timestamp": "2026-10-25 04:20:18"
+    "weather_report": "In this serene morning, Boston awakens under a backdrop kissed by the gentle caress of sunlight, the air crisp with the remnants of night, hinting at the frosty embrace felt before dawn. A soft breeze whispers through the trees, promising a day that will stretch toward a pleasant warmth, the high expected to reach a balmy 67. The sky, unblemished by clouds, offers a canvas of cobalt, enhancing the rich hues of autumn leaves that adorn the streets and parks, inviting all to bask in the outdoor embrace this day provides.\n\nAs evening approaches, the clear skies will remain a reassuring constant, with temperatures dipping to a cool 41, urging one to don a light jacket or perhaps a cozy scarf for warmth. It\u2019s a day that calls for leisurely strolls through the vibrant neighborhoods, a gentle bike ride along the Charles, or moments spent in tranquil parks, where laughter and casual conversations mingle with the rustling leaves. Such moments hold the promise of simple joy as the sun sets, painting the horizon in warm oranges and deep purples, making it an ideal time to reflect and enjoy the straightforward pleasures of life.",
+    "color_code": "#A3C1DA",
+    "timestamp": "2026-10-25 08:21:58"
 }
