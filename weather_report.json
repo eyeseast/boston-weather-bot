@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-26T07:31:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
+            "timestamp": "2026-10-26T15:50:00+00:00",
+            "temperature_f": 62.6,
+            "temperature_c": 17,
             "humidity": null,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 280,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-10-26T04:00:00-04:00",
-                "endTime": "2026-10-26T06:00:00-04:00",
-                "isDaytime": false,
-                "temperature": 40,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 40. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2026-10-26T06:00:00-04:00",
+                "name": "This Afternoon",
+                "startTime": "2026-10-26T12:00:00-04:00",
                 "endTime": "2026-10-26T18:00:00-04:00",
                 "isDaytime": true,
                 "temperature": 68,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "8 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 68. West wind around 8 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 68. West wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-10-26T18:00:00-04:00",
+                "endTime": "2026-10-27T06:00:00-04:00",
+                "isDaytime": false,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "6 to 9 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 43. Northwest wind 6 to 9 mph."
             }
         ]
     },
-    "weather_report": "As dawn unfolds over Boston, a soft grace settles upon the city, ushered in by a clear overnight sky that promises a serene day ahead. With temperatures rolling in at a brisk low of 40, the air feels crisp yet invigorating, inviting early risers to embrace the fresh ambiance. The gentle whisper of a southwest wind brushes through the tree branches, adding a delicate rustle to the morning stillness.\n\nOn this promising Monday, the sun will soon take center stage, casting a warm glow with highs reaching for the welcoming embrace of 68 degrees. It\u2019s the perfect day to embark on a leisurely stroll along the Charles River, where the warmth of the sun mingles with the coolness of autumn air\u2014ideal for layered attire, perhaps a light sweater paired with comfortable jeans. Enjoy the hues of fall as they blanket the landscape, or seek out a quaint caf\u00e9 for an afternoon cup of coffee, where time seems to stretch in appreciation of the beauty that surrounds. This day holds a tangible sense of tranquility, inviting you to savor the moment and find joy in the ordinary pleasures that Boston has to offer.",
-    "color_code": "#A8D8B0",
-    "timestamp": "2026-10-26 04:29:49"
+    "weather_report": "As afternoon light bathes Boston in a gentle embrace, the atmosphere boasts mostly sunny skies that appear inviting and warm, with a pleasant high nudging toward the upper sixties. A light breeze whispers from the west, adding a touch of vitality to the air, perfect for an afternoon stroll or perhaps a quiet moment in a park, where the autumn leaves whisper secrets in a riot of colors. The clouds\u2014those delicate brushstrokes across the vast blue expanse\u2014suggest a sense of mildness and clarity, harmonizing beautifully with the day\u2019s unfolding narrative.\n\nAs evening edges closer, the embrace of clouds becomes more pronounced, casting a soft veil over the town and preparing for the coolness that night will bring, with temperatures dipping to a modest forty-three. The northwest wind carries a crisp reminder of the season, inviting you to don a light jacket as you venture out. It\u2019s an ideal time for a leisurely walk down the cobbled streets, perhaps stopping at a local caf\u00e9 for a warm cup of something delightful, or simply to enjoy the ambiance of the city\u2014a gentle interplay of warmth and chill, light and shadow. In essence, it's a day that beckons the soul to embrace both the vitality of now and the serenity of the coming dusk, drawing one into the comforting rhythm of daily life.",
+    "color_code": "#A8DAD8",
+    "timestamp": "2026-10-26 12:20:27"
 }
