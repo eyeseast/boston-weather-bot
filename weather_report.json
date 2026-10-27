@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-26T15:50:00+00:00",
-            "temperature_f": 62.6,
-            "temperature_c": 17,
+            "timestamp": "2026-10-26T23:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
             "humidity": null,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 280,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-10-26T12:00:00-04:00",
-                "endTime": "2026-10-26T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 68,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 68. West wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-10-26T18:00:00-04:00",
+                "startTime": "2026-10-26T20:00:00-04:00",
                 "endTime": "2026-10-27T06:00:00-04:00",
                 "isDaytime": false,
-                "temperature": 43,
+                "temperature": 42,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "6 to 9 mph",
                 "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 43. Northwest wind 6 to 9 mph."
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 42. Northwest wind 6 to 9 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tuesday",
+                "startTime": "2026-10-27T06:00:00-04:00",
+                "endTime": "2026-10-27T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "3 to 9 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 53. North wind 3 to 9 mph."
             }
         ]
     },
-    "weather_report": "As afternoon light bathes Boston in a gentle embrace, the atmosphere boasts mostly sunny skies that appear inviting and warm, with a pleasant high nudging toward the upper sixties. A light breeze whispers from the west, adding a touch of vitality to the air, perfect for an afternoon stroll or perhaps a quiet moment in a park, where the autumn leaves whisper secrets in a riot of colors. The clouds\u2014those delicate brushstrokes across the vast blue expanse\u2014suggest a sense of mildness and clarity, harmonizing beautifully with the day\u2019s unfolding narrative.\n\nAs evening edges closer, the embrace of clouds becomes more pronounced, casting a soft veil over the town and preparing for the coolness that night will bring, with temperatures dipping to a modest forty-three. The northwest wind carries a crisp reminder of the season, inviting you to don a light jacket as you venture out. It\u2019s an ideal time for a leisurely walk down the cobbled streets, perhaps stopping at a local caf\u00e9 for a warm cup of something delightful, or simply to enjoy the ambiance of the city\u2014a gentle interplay of warmth and chill, light and shadow. In essence, it's a day that beckons the soul to embrace both the vitality of now and the serenity of the coming dusk, drawing one into the comforting rhythm of daily life.",
-    "color_code": "#A8DAD8",
-    "timestamp": "2026-10-26 12:20:27"
+    "weather_report": "As evening deepens over Boston, a gentle serenity cloaks the city, with mostly clear skies above casting a tranquil glow. The chill of the night settles in, whispering promises of autumn. At this hour, the temperature lingers around a crisp 42 degrees, and the northwest winds play softly, rustling through the unseen trees, carrying with them the faintest scents of the season. There\u2019s a certain clarity in the air, a satisfying stillness that invites introspection and quiet enjoyment of life\u2019s simple pleasures.\n\nTomorrow heralds a sun-kissed day, as the city awakens to bright skies and a high near 53. The north wind will continue its soft caress, a constant companion for those who venture out. This is the kind of day that beckons you to step outside, perhaps for a brisk walk along the Charles River, where the glimmering waters reflect the radiant blue above. It would be wise to wrap yourself in layers, a cozy sweater and perhaps a light jacket, as the cool air reminds you of the fleeting warmth of the summer gone by. Engage with the world at a leisurely pace; grab a cup of coffee from your favorite haunt, or simply wander through the abundant parks, staving off the chill with the warmth of good company or a good book.",
+    "color_code": "#A1C9D0",
+    "timestamp": "2026-10-26 20:45:03"
 }
