@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-10-28T19:20:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
-            "humidity": 35.601377229691,
-            "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 300,
+            "timestamp": "2026-10-29T00:00:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 86.902676258922,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-10-28T14:00:00-04:00",
-                "endTime": "2026-10-28T18:00:00-04:00",
-                "isDaytime": true,
-                "temperature": 56,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 56. Southwest wind around 3 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-10-28T18:00:00-04:00",
+                "startTime": "2026-10-28T19:00:00-04:00",
                 "endTime": "2026-10-29T06:00:00-04:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 42. Southwest wind around 6 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-10-29T06:00:00-04:00",
+                "endTime": "2026-10-29T18:00:00-04:00",
+                "isDaytime": true,
+                "temperature": 68,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 68. Southwest wind 6 to 10 mph."
             }
         ]
     },
-    "weather_report": "As afternoon melts into evening in Boston, the sky dons a delicate veil of softly drifting clouds, painting a serene backdrop to the cityscape. A gentle breeze from the southwest whispers through the trees, while the air remains pleasantly cool, hinting at the autumn season\u2019s embrace. With the high of about 56 degrees, the day offers a comforting reprieve from summer\u2019s heat. As evening settles in, leading us into a night of clearer skies and a low dipping to 42, one might feel the anticipation of crisp air spilling through windows, inviting cozy moments indoors.\n\nFor those venturing out this evening, a light jacket will serve as a suitable companion, offering warmth without the bulk, allowing for an easy stroll through the city's charming streets. Whether savoring a coffee at a local caf\u00e9, indulging in a quiet moment at the park, or simply taking in the fading light as it bathes the horizon in whispers of color, tonight hints at the simple pleasures life has to offer. Embrace the understated beauty of this autumn day, as the air turns cooler and the evening beckons with a promise of crisp serenity.",
-    "color_code": "#D1E7E1",
-    "timestamp": "2026-10-28 16:12:39"
+    "weather_report": "As evening embraces Boston, the atmosphere maintains a gentle clarity, a rare interlude where the stars might just peep through the lingering veil of night. With a soothing whisper of a southwest breeze, the temperature dips lazily to around 42 degrees, inviting a snug embrace of layers. A well-knit sweater or a light jacket will serve you well should you find yourself outside, ideally cradling a warm cup or perhaps sharing quiet moments under the canopy of the open sky, where the faintest outline of the city lights merge with the simple serenity of distant hills.\n\nLooking ahead, tomorrow unfurls with the promise of sunshine and a high hovering near 68, a day ripe for exploration. The air will be infused with a crisp freshness, invigorating the senses and beckoning you to meander through the sidewalks or perhaps wander along the Charles, where reflections of the tree-lined banks would dance in the sunlight. With the winds picking softly up into a comforting rhythm, it's an opportune moment to wear something light yet prepared, a cheerful blend of layers that can easily adapt to the warmth that awaits. Consider a leisurely stroll through the historic avenues or a visit to a local caf\u00e9, where laughter and the aroma of fresh brews create an inviting tableau to savor.",
+    "color_code": "#4A90E2",
+    "timestamp": "2026-10-28 20:34:03"
 }
