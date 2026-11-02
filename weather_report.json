@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-01T18:53:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": null,
-            "wind_speed_mph": 16.91172,
-            "wind_direction": 310,
+            "timestamp": "2026-11-01T22:55:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 65.174364282646,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-11-01T15:00:00-05:00",
-                "endTime": "2026-11-01T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 59. West wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-11-01T18:00:00-05:00",
+                "startTime": "2026-11-01T19:00:00-05:00",
                 "endTime": "2026-11-02T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
                 "shortForecast": "Clear",
                 "detailedForecast": "Clear, with a low around 42. Southwest wind around 9 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-11-02T06:00:00-05:00",
+                "endTime": "2026-11-02T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 69,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 69. Southwest wind around 10 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds beneath a radiant sun, casting a golden hue over the city and its surroundings. With a gentle breeze from the west, the atmosphere is crisp yet inviting, encouraging thoughtful wanderings through the vibrant remnants of autumn. The trees, painted in warm shades of amber and scarlet, stand against a backdrop of clear skies, offering a perfect tableau for an invigorating stroll along the Charles River or a quiet moment in one of the many parks dotting the landscape.\n\nAs evening approaches, the clarity of the day promises a serene night, encouraging outdoor plans or simple pleasures like sipping warm cider on the porch. The temperatures will dip to a refreshing coolness, making layers a wise choice\u2014perhaps a light sweater or a comfortable jacket to ward off the evening chill. A stroll through the cobblestone streets of Beacon Hill or a visit to a cozy caf\u00e9 might beckon. As the day wanes, the stars will begin to twinkle overhead, filling the cool air with a sense of calm and promise, making one appreciate the beauty of a Boston twilight.",
-    "color_code": "#F5B62D",
-    "timestamp": "2026-11-01 15:09:30"
+    "weather_report": "As dusk enfolds Boston, a tranquil clarity settles over the landscape, marked by a refreshing coolness that whispers of autumn's embrace. The skies tonight, embracing a serene stillness, promise an intimate nighttime experience, with temperatures gracefully dipping towards 42. A gentle breeze from the southwest adds a soft caress to the air, urging passersby to don a light jacket or a cozy sweater as they traverse the city's expansive charm.\n\nTomorrow beckons with a promise of sunshine, casting a warm glow across the cityscape as the day unfolds. Afternoon temperatures are forecasted to rise comfortably near 69, inviting residents and visitors alike to step outside and explore. From leisurely strolls along the Charles River to discovering quaint coffee shops tucked away in the Back Bay, the day's charm calls for relaxed attire\u2014perhaps a light shirt or sweater complemented by well-fitted jeans. As the sun sets, the fading warmth will linger, providing a perfect backdrop for evening gatherings or quiet moments spent reflecting on the beauty cast across the horizon.",
+    "color_code": "#A8C263",
+    "timestamp": "2026-11-01 19:31:16"
 }
