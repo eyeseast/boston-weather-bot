@@ -7,36 +7,17 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-03T19:30:00+00:00",
-            "temperature_f": 73.4,
-            "temperature_c": 23,
-            "humidity": 27.013513332628,
-            "wind_speed_mph": 37.286316,
-            "wind_direction": 220,
-            "description": "Clear"
+            "timestamp": "2026-11-03T23:55:00+00:00",
+            "temperature_f": 62.6,
+            "temperature_c": 17,
+            "humidity": 48.306889338497,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 180,
+            "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-11-03T15:00:00-05:00",
-                "endTime": "2026-11-03T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 73,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 2
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy. High near 73, with temperatures falling to around 64 in the afternoon. Southwest wind around 6 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
                 "startTime": "2026-11-03T18:00:00-05:00",
                 "endTime": "2026-11-04T06:00:00-05:00",
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 4
                 },
-                "windSpeed": "6 mph",
+                "windSpeed": "7 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 52. Southwest wind around 6 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 52. Southwest wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Wednesday",
+                "startTime": "2026-11-04T06:00:00-05:00",
+                "endTime": "2026-11-04T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 76,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 5
+                },
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny. High near 76, with temperatures falling to around 68 in the afternoon. Southwest wind 7 to 12 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, a quilt of clouds drapes across the sky, wrapping the city in a cloak of soft gray hues that evoke a sense of tranquility. The temperature hangs around a pleasant 73 degrees, though a gentle descent to 64 beckons as the day proceeds, hinting at a calm transition into evening. The southwest wind, barely perceptible at six miles per hour, carries with it a whisper of warmth that stirs the crispness enveloping autumn, inviting both the thoughtful passerby and those seeking moments of quiet reflection.\n\nAs the smattering of sunlight finds its way through the cloud cover, it paints the leaves in vibrant tones of amber and crimson, hinting at the allure of a leisurely walk beneath the boughs. Smart layering would serve well today; a light jacket or cardigan could be a wise companion if one ventures outside as the charm of the day wanes. Perhaps indulge in an afternoon visit to a favorite coffee shop, allowing the aroma of freshly brewed comfort to wrap around you like an embrace, or take a quiet stroll along the Charles, where the reflections of the muted sky dance on the water's surface. There is a certain beauty in these subdued moments, where one can savor the delicate interplay of fading warmth and the enchanting chill of the approaching evening.",
-    "color_code": "#C0C0C0",
-    "timestamp": "2026-11-03 15:10:12"
+    "weather_report": "As the evening unfolds over Boston, a thick quilt of cloud blankets the city, dimming the light but not entirely extinguishing it. The temperature hovers gently around fifty-two degrees, where the cool air carries whispers of autumn, urging you to wear layers. A soft southwesterly breeze dances around, nearly imperceptible at first, yet its presence hints at a warmer day to come. \n\nTomorrow promises a vivid return of sunshine, with temperatures rising to a pleasant seventy-six. The day will be a gradual transformation, as the warmth seeps in and those fluffy clouds retreat, revealing a brilliant expanse of azure. Such a day invites a variety of pursuits; perhaps an afternoon stroll along the Charles, where leaves crunch underfoot, or finding a favorite caf\u00e9 to enjoy the blend of warmth and light filtering through the windows. Dressing in comfortable layers\u2014light enough for the day but cozy enough for the evening chill\u2014will serve you well as the sun dips. In this moment, the city lies in quiet anticipation, preparing to step into the embrace of autumn\u2019s splendor.",
+    "color_code": "#AFA8A0",
+    "timestamp": "2026-11-03 19:28:30"
 }
