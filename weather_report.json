@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-04T07:45:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 76.519987759453,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-11-04T11:55:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 93.504015298216,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 120,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-04T03:00:00-05:00",
-                "endTime": "2026-11-04T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 4
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
-                "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 52. Southwest wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-11-04T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-11-04T07:00:00-05:00",
                 "endTime": "2026-11-04T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 76,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 3
                 },
-                "windSpeed": "7 to 12 mph",
+                "windSpeed": "6 to 10 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 76, with temperatures falling to around 68 in the afternoon. Southwest wind 7 to 12 mph."
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 76, with temperatures falling to around 69 in the afternoon. Southwest wind 6 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-04T18:00:00-05:00",
+                "endTime": "2026-11-05T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 58. Southwest wind around 9 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, the city is enveloped in a gentle embrace of partial cloud cover, setting a serene tone for the night\u2019s unwinding. A soft breeze whispers through the streets, hinting at the pleasant warmth that the day is promised to bring. As the sun rises, the skies will clear, allowing warmth to cascade over the city with the afternoon air settling comfortably around sixty-eight degrees. \n\nWith the winds flowing in from the southwest, a light jacket or layered attire will serve one well, offering both comfort against the lingering chill of the morning and the potential heat of the midday sun. It's a perfect day for a contemplative stroll through the arboretum or perhaps a leisurely coffee on a sunlit terrace, where the beauty of Boston unfolds in its enchanting architectural grace. Engaging in simple pleasures, like reading a well-loved book amidst nature's embrace or chatting with a friend while indulging in local pastries, feels particularly inviting as this late autumn day unfolds.",
-    "color_code": "#A0C1D7",
-    "timestamp": "2026-11-04 03:14:14"
+    "weather_report": "As dawn breaks over Boston, a gentle clarity envelops the city, promising a day that is delightfully sunny. The warmth climbs to nearly 76 degrees, yet by afternoon, the air will cool to a comfortable 69, with only a whisper of a southwest breeze. The horizon is painted in hues of gold and azure, inviting you outdoors to savor the season. Tonight, the sky will hold onto its grace, cooling to a tranquil 58 degrees, perfect for an evening stroll or perhaps indulging in quiet reflections under the stars.\n\nGiven the day's lovely ambiance, dressing in layers would blend comfort and style seamlessly. A light shirt or blouse, paired with a soft cardigan, can serve well against the day's inviting warmth while remaining snug enough for lower evening temperatures. It\u2019s an ideal day for leisurely activities\u2014perhaps a quiet walk through the Boston Common, where the trees are shedding their autumn leaves, or finding a cozy spot at a local caf\u00e9 to sip on a warm drink while watching the world pass by. The city beckons for a blend of exploration and relaxation, embracing the beauty of this perfect fall day.",
+    "color_code": "#84C1FF",
+    "timestamp": "2026-11-04 07:16:07"
 }
