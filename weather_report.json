@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-05T07:45:00+00:00",
-            "temperature_f": 59.0,
-            "temperature_c": 15,
-            "humidity": 93.745817353204,
+            "timestamp": "2026-11-05T11:45:00+00:00",
+            "temperature_f": 60.8,
+            "temperature_c": 16,
+            "humidity": 87.926615024549,
             "wind_speed_mph": 16.589592000000003,
-            "wind_direction": 210,
-            "description": "Mostly Cloudy"
+            "wind_direction": 170,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-05T03:00:00-05:00",
-                "endTime": "2026-11-05T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 59,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 59. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-11-05T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-11-05T07:00:00-05:00",
                 "endTime": "2026-11-05T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 74,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 15
+                    "value": 6
                 },
-                "windSpeed": "8 to 14 mph",
+                "windSpeed": "8 to 13 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/day/fog/rain,20?size=medium",
-                "shortForecast": "Patchy Fog then Slight Chance Light Rain",
-                "detailedForecast": "Patchy fog between 7am and 8am, then a slight chance of rain between 1pm and 2pm. Partly sunny, with a high near 74. Southwest wind 8 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 20%."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 74. Southwest wind 8 to 13 mph, with gusts as high as 24 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-05T18:00:00-05:00",
+                "endTime": "2026-11-06T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 53
+                },
+                "windSpeed": "6 to 10 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,50?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain between 9pm and 2am, then a chance of rain and patchy fog. Cloudy, with a low around 62. Southwest wind 6 to 10 mph, with gusts as high as 22 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "In the quiet hours before dawn, Boston finds itself wrapped in a cloak of mostly cloudy skies, with the air holding a soft chill around 59 degrees. A gentle southwest breeze whispers through the stillness, hinting at a slowly awakening day. As the morning unfolds, expect patches of fog to grace certain locales, a fleeting veil that will lift by mid-morning, revealing a landscape poised to embrace a touch of brightness.\n\nBy midday, the city will bask in the warmth of a partly sunny afternoon, reaching close to 74 degrees. While the chance of a light rain comes and goes with the wandering clouds, the day nonetheless promises a blend of crisp and refreshing moments. Dressing in layers will serve you well; a light sweater or cardigan over your favorite shirt is perfect for the early hours, while a more casual outfit will fit the lazy afternoon spell. As the sky opens up, consider meandering through a local park or finding a cozy corner in a caf\u00e9, where the world outside can be enjoyed with a warmed cup of something soothing. The day holds potential for simple walks and quiet reflections, inviting you to savor the small pleasures that come with a transitional November day in this historic city.",
-    "color_code": "#A8B8B4",
-    "timestamp": "2026-11-05 03:15:37"
+    "weather_report": "As dawn gently nudges the city awake, Boston finds itself wrapped in a soft embrace of clouds, the morning air echoing with the promise of autumn. The day unfolds under a mostly cloudy sky, delicate shades of gray brushing against the horizon, hinting at the warmth to come. With temperatures expected to rise to a pleasant 74 degrees, the scene is set for a balmy day, though the whisper of a southwest wind carries the crispness of fall, urging residents to step outside with a light jacket or sweater. \n\nThe approaching evening looms with the possibility of rain, drizzles that might dampen the streets but are unlikely to mar the spirit of the day. As night lingers closer, clouds may escort patchy fog, painting a dreamy picture of twilight\u2014the perfect backdrop for a soothing stroll along the Charles River or a contemplative sip of tea at an inviting caf\u00e9. Layers will serve well, an ensemble to brave both warmth and the subtle chill that lingers in the air. So, as you traverse this dynamic tapestry of the weather, let the splendor of an autumn day and the scent of rain\u2014a sweet harbinger of change\u2014guide your plans. Perhaps an afternoon visit to a local market or a leisurely walk through the fall-colored parks might just be the antidote to the more predictable weekend routines.",
+    "color_code": "#C0C0C0",
+    "timestamp": "2026-11-05 07:16:10"
 }
