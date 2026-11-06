@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-06T07:40:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": 100,
-            "wind_speed_mph": 12.401928,
-            "wind_direction": 180,
-            "description": "Cloudy"
+            "timestamp": "2026-11-06T15:45:00+00:00",
+            "temperature_f": 66.2,
+            "temperature_c": 19,
+            "humidity": 93.929774401027,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 250,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-06T03:00:00-05:00",
-                "endTime": "2026-11-06T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 64,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 66
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/tsra,70?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely and patchy fog and a slight chance of thunderstorms. Cloudy, with a low around 64. Southwest wind around 7 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Friday",
-                "startTime": "2026-11-06T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-11-06T11:00:00-05:00",
                 "endTime": "2026-11-06T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 69,
@@ -52,11 +33,30 @@
                 "windDirection": "S",
                 "icon": "https://api.weather.gov/icons/land/day/tsra,100?size=medium",
                 "shortForecast": "Rain",
-                "detailedForecast": "Rain and a chance of thunderstorms and patchy fog before 1pm, then rain and patchy fog and a slight chance of thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 69. South wind around 7 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+                "detailedForecast": "Rain and a chance of thunderstorms and patchy fog before 1pm, then rain and patchy fog and a slight chance of thunderstorms. Some of the storms could produce heavy rain. Cloudy, with a high near 69. South wind around 7 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-06T18:00:00-05:00",
+                "endTime": "2026-11-07T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 56,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 98
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/tsra,100/tsra,80?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain and patchy fog and a slight chance of thunderstorms. Cloudy, with a low around 56. Southwest wind around 5 mph. Chance of precipitation is 100%. New rainfall amounts between a half and three quarters of an inch possible."
             }
         ]
     },
-    "weather_report": "In Boston, the night unfolds under a heavy blanket of clouds, bringing whispers of rain and the distant rumble of thunder that may soon echo through the city. A thick fog lurks in the nooks and crannies of the landscape, softening outlines and blurring the edges of familiar forms. The air is humid, heavy with the promise of approaching storms and a temperature that hovers comfortably near 64 degrees. For those stepping out, a light jacket could offer solace from the dampness, a companion against the chill that clings to the skin.\n\nAs dawn approaches, the city awaits a day fully draped in rain and the potential for thunderous roars. Expect the skies to remain subdued, allowing little room for the sun to break through. The day's high of 69 will feel cool and moist, making it a perfect companion for indoor pursuits. Cozy cafes beckon, inviting you to savor a warm drink while gazing out at the dance of raindrops on windows. Perhaps a quiet stroll through Boston's iconic streets would be fitting, though an umbrella would be wise. With rain likely to accumulate throughout the morning, it\u2019s wise to reserve outdoor adventures for another day, choosing instead the comfort of warmth and shelter along your path.",
-    "color_code": "#6B8E23",
-    "timestamp": "2026-11-06 03:14:29"
+    "weather_report": "In Boston, the day unfolds under a shroud of gray, where heavy rain falls and the air is thick with moisture. The dim light reveals a gloomy atmosphere, with patchy fog swirling through the streets and the promise of thunderstorms lingering like an unanswered question. As the clouds embrace the city, the temperature hovers around a pleasant but damp 69 degrees, while the soft breeze from the south whispers through the trees. With the chance of precipitation soaring to a staggering 100%, there\u2019s no denying the wetness permeating the air, leaving one to ponder the day's possibilities amidst this atmospheric embrace.\n\nAs evening approaches, the rain is set to continue its steady descent, with expectant clouds fostering a subtle chill, dropping the temperature down to around 56. The conditions call for earnest preparation\u2014an umbrella is essential, and one might very well reach for a comfortable waterproof jacket, perhaps even layering a soft scarf around the neck to ward off the cool night air. Ideal activities might include finding a quiet corner of a cozy caf\u00e9, where the comforting warmth and the scent of freshly brewed coffee can be savored while the rain dances against the windows, or perhaps venturing into a local bookstore, immersing oneself in the pages of a long-overdue read. The weather lends itself to introspection, where moments spent indoors can cultivate a sense of peace amidst the storm.",
+    "color_code": "#808080",
+    "timestamp": "2026-11-06 11:11:28"
 }
