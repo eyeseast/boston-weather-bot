@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-05T19:40:00+00:00",
-            "temperature_f": 71.6,
-            "temperature_c": 22,
-            "humidity": 68.773495222447,
-            "wind_speed_mph": 37.286316,
+            "timestamp": "2026-11-05T23:40:00+00:00",
+            "temperature_f": 68.0,
+            "temperature_c": 20,
+            "humidity": 88.27004464254,
+            "wind_speed_mph": 33.17918400000001,
             "wind_direction": 200,
-            "description": "Light Rain"
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-11-05T15:00:00-05:00",
-                "endTime": "2026-11-05T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 73,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 21
-                },
-                "windSpeed": "14 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,20?size=medium",
-                "shortForecast": "Slight Chance Light Rain",
-                "detailedForecast": "A slight chance of rain before 5pm. Mostly cloudy, with a high near 73. South wind around 14 mph, with gusts as high as 28 mph. Chance of precipitation is 20%."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-11-05T18:00:00-05:00",
+                "startTime": "2026-11-05T19:00:00-05:00",
                 "endTime": "2026-11-06T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 62,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 63
                 },
-                "windSpeed": "6 to 14 mph",
+                "windSpeed": "7 to 12 mph",
                 "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/rain,20/rain,60?size=medium",
                 "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain between 11pm and 3am, then rain likely and patchy fog. Mostly cloudy, with a low around 62. Southwest wind 6 to 14 mph, with gusts as high as 26 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "detailedForecast": "A chance of rain between 11pm and 3am, then rain likely and patchy fog. Mostly cloudy, with a low around 62. Southwest wind 7 to 12 mph, with gusts as high as 23 mph. Chance of precipitation is 60%. New rainfall amounts between a tenth and quarter of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-11-06T06:00:00-05:00",
+                "endTime": "2026-11-06T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 70,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 92
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/day/tsra,80/tsra,90?size=medium",
+                "shortForecast": "Rain",
+                "detailedForecast": "Rain likely and patchy fog before 10am, then rain and patchy fog and a slight chance of thunderstorms. Cloudy, with a high near 70. South wind 3 to 8 mph. Chance of precipitation is 90%. New rainfall amounts between 1 and 2 inches possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a gentle haze softens the edges of the skyline, casting a muted ambiance over the city. The air holds a promise of rain, a fleeting chance brushing past these moments before evening, with clouds weaving a delicate tapestry in shades of gray. With a warm breeze whispering through the streets, temperatures linger near a comfortable 73 degrees. While today's sky bears the weight of uncertainty, it also offers a quiet beauty\u2014one that invites a stroll along the Charles River, perhaps followed by a visit to a cozy caf\u00e9, where the clatter of cups and murmurs of conversation warm the spirit against the cool, fresh air.\n\nAs night approaches, expect rain to weave its way into the narrative, bringing with it the comforting embrace of a low 62 degrees and patchy fog that may blanket the neighborhoods in a mystique of soft whispers. The wind, though lighter than earlier, still holds a playful energy, suggesting one should trade lighter attire for a layer that will ward off the chill. As evening settles in, the prospect of rain may not be enough to deter those seeking solace in a book or a quiet evening in\u2014plenty of indoor havens await. Wrap yourself in something snug, and let the sounds of the world outside guide your thoughts as the clouds roll in, turning the city into a canvas painted with the promise of rest and reflection.",
-    "color_code": "#A7A8AA",
-    "timestamp": "2026-11-05 15:10:18"
+    "weather_report": "As the evening deepens in Boston, the shadows lengthen while a veil of cloud cover settles over the city like a softly draped curtain, suggestive of an unfolding narrative. The air carries with it a brief but significant hint of rain, whispering promises of moisture as it interacts with the lingering warmth of the day. A gentle southwest breeze rustles through the trees, and the low murmur of distant thunder could be expected to juxtapose with the symphony of an urban night. This evening is set to embrace a comfortable 62 degrees, but don\u2019t let that fool you into complacency; the forecast hints at a 60% chance of rain before twilight succumbs to night.\n\nLooking ahead to Friday, prepare for a continuation of this humid embrace, where rain is not merely likely but almost assured, flowing with a lively gusto that may very well accompany patchy fog. With temperatures hovering around 70, the air will feel thick and heavy, a palpable presence reminding you of the need for preparation. As raindrops dance on rooftops, it might be wise to adopt layers\u2014perhaps a light, water-resistant jacket over a classic sweater. As the world outside becomes grayed and muted, seek solace in a cozy caf\u00e9, where the soothing aroma of coffee mingles with the taste of rich pastries. Engage in a quiet conversation with a friend or lose yourself in a book, allowing the rhythmic pitter-patter of rain to create a soothing backdrop. Such moments urge you to venture out, not in brisk activity, but rather to revel in tranquility, making the most of this moody day.",
+    "color_code": "#777777",
+    "timestamp": "2026-11-05 19:28:54"
 }
