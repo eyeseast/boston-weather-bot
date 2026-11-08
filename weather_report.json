@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-08T07:30:00+00:00",
+            "timestamp": "2026-11-08T11:30:00+00:00",
             "temperature_f": 46.4,
             "temperature_c": 8,
-            "humidity": 93.403401079213,
+            "humidity": 81.352547127259,
             "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 230,
-            "description": "Fog/Mist"
+            "wind_direction": 280,
+            "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-08T02:00:00-05:00",
-                "endTime": "2026-11-08T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 67
-                },
-                "windSpeed": "8 to 12 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/rain_showers,70?size=medium",
-                "shortForecast": "Rain Showers Likely",
-                "detailedForecast": "Rain showers likely and patchy fog. Cloudy, with a low around 45. Northwest wind 8 to 12 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-11-08T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-11-08T07:00:00-05:00",
                 "endTime": "2026-11-08T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 58,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 6
+                    "value": 2
                 },
                 "windSpeed": "8 to 14 mph",
                 "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 58. West wind 8 to 14 mph, with gusts as high as 26 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-08T18:00:00-05:00",
+                "endTime": "2026-11-09T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 41,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 41. Southwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As the night drapes softly over Boston, a hush falls through the city under a veil of rain showers and patchy fog. The air carries with it a chill, inviting a gentle embrace as it settles around a cool 45 degrees. With winds whispering from the northwest, this quiet evening promises occasional interruptions as raindrops dance on rooftops, inviting thoughts of cozy evenings inside. \n\nEchoing into tomorrow, the sun will rise to greet us, ushering in a day painted in warm strokes of blue. As the clouds part, Boston will revel in the clarity of a mostly sunny sky with temperatures reaching toward a comfortable 58 degrees. A spirited westerly breeze, playful yet gentle, may tease the strands of your hair but ultimately makes for an invigorating walk through the streets. Dress in layers, perhaps a light windbreaker over a well-loved sweater, perfect for a stroll or a quiet moment at a caf\u00e9, where the warm ambience of conversation and the lingering aroma of coffee welcome you. So whether you choose to wander the cobblestone sidewalks or bask in a sunlit window, embrace the pleasantness of November in Boston, while the world breathes deeply, shimmering with the soft promise of change.",
-    "color_code": "#A9C0D8",
-    "timestamp": "2026-11-08 03:12:45"
+    "weather_report": "The morning light gently spills across Boston, bathing the city in a soft radiance that speaks to the waning warmth of autumn. Today greets us with a mostly sunny disposition, as the high climbs toward a comfortable 58 degrees, while a brisk west wind dances through the air, offering refreshing gusts that might just tousle your hair. The remnants of overnight clouds have given way to clarity, revealing a horizon where the silhouette of the city stands proudly against a backdrop of deepening blue. There is no sign of fog; instead, the atmosphere carries a crispness that invigorates the spirit.\n\nAs the day unfolds, a gentle chill will linger in the air, making it wise to don a light jacket or a cozy sweater when you step out. A stroll along the Charles River could be just the prescription for enjoying this splendid day, where the merge of nature and cityscape creates a canvas of serenity. Alternatively, perhaps a visit to a local caf\u00e9, where the aroma of freshly brewed coffee invites you to savor a moment of stillness, sounds appealing. As twilight approaches, you might find the evening equally inviting, with partly cloudy skies allowing for a glimpse of the stars against the cool night. Today holds potential for beauty and quiet reflection if you choose to embrace it.",
+    "color_code": "#A0C1D6",
+    "timestamp": "2026-11-08 07:13:27"
 }
