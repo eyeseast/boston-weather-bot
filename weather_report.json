@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-08T19:20:00+00:00",
-            "temperature_f": 55.4,
-            "temperature_c": 13,
-            "humidity": 62.484658407133,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 270,
-            "description": "Cloudy"
+            "timestamp": "2026-11-09T00:10:00+00:00",
+            "temperature_f": 48.2,
+            "temperature_c": 9,
+            "humidity": 66.069675859941,
+            "wind_speed_mph": 12.401928,
+            "wind_direction": 260,
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-11-08T15:00:00-05:00",
-                "endTime": "2026-11-08T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 58,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "15 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 58. West wind around 15 mph, with gusts as high as 29 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-11-08T18:00:00-05:00",
+                "startTime": "2026-11-08T19:00:00-05:00",
                 "endTime": "2026-11-09T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 42,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 3
                 },
-                "windSpeed": "12 mph",
-                "windDirection": "W",
+                "windSpeed": "8 mph",
+                "windDirection": "SW",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 42. West wind around 12 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Partly cloudy, with a low around 42. Southwest wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Monday",
+                "startTime": "2026-11-09T06:00:00-05:00",
+                "endTime": "2026-11-09T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 57,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 14
+                },
+                "windSpeed": "8 to 13 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 57. West wind 8 to 13 mph, with gusts as high as 24 mph."
             }
         ]
     },
-    "weather_report": "As the afternoon light filters through a canopy of drifting clouds, Boston finds itself graced with mostly sunny skies, a prelude to a serene evening. The air carries a briskness, as a west wind dances with gusts, bringing a refreshing chill that invigorates the spirit but calls for a light jacket or a cozy sweater. The view stretches across the horizon, hinting at mild colors of late autumn, where the trees subtly wear their seasonal finery and the city skyline stands resolutely against the backdrop, a reminder of the warmth and vibrancy contained within.\n\nAs twilight approaches, the forecast whispers of a partly cloudy night, where temperatures gently descend, ushering in a comfortably cool ambiance. An evening stroll along the Charles might beckon those seeking tranquility, while others might settle into a quiet corner of a favorite caf\u00e9, a book in hand, relishing the calm before the night wraps the city in a gentle embrace. The day invites simple pleasures, capturing the essence of late fall in New England\u2014a time for reflection and small delights amidst the rustling leaves and fading light.",
-    "color_code": "#A1C2D2",
-    "timestamp": "2026-11-08 15:09:15"
+    "weather_report": "As twilight deepens over Boston, the air is crisp, hinting at the cooling embrace of autumn, with temperatures dipping to a refreshing 42 degrees. A gentle southwest breeze rustles through the streets, whispering of a night that will remain partly cloudy\u2014a perfect backdrop for the shimmering city lights scattered across the horizon. With the beauty of the evening sky peeking through, it\u2019s a moment to pause and appreciate the mosaic of light against the dark.\n\nLooking ahead to tomorrow, the day promises to unfold gracefully, with the sun emerging to bathe the city in a soft, golden light. Expected highs near 57 degrees will invite wanderers and locals alike to don layers that balance warmth with comfort. A light jacket and a scarf would serve well against the west wind, which may rise to playful gusts, adding an exhilarating touch to any afternoon stroll. Amid this agreeable weather, afternoons can best be spent exploring the local caf\u00e9s, indulging in a warm beverage while observing the world drift by from a cozy window seat, or perhaps wandering through the charming streets, where the unmistakable sights of autumn foliage provide a visual feast.\n\nAs night settles once again, the allure of gathering with friends around an outdoor fire pit or taking a leisurely train ride along the coastline will beckon\u2014offering not just warmth but shared moments wrapped in laughter and conversation amidst the serene backdrop of Boston\u2019s night sky.",
+    "color_code": "#3B4D6E",
+    "timestamp": "2026-11-08 19:31:29"
 }
