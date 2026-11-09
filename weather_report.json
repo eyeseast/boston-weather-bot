@@ -7,22 +7,41 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-09T03:45:00+00:00",
-            "temperature_f": 42.8,
-            "temperature_c": 6,
-            "humidity": 87.000902360951,
-            "wind_speed_mph": 0.0,
-            "wind_direction": 0,
+            "timestamp": "2026-11-09T11:30:00+00:00",
+            "temperature_f": 46.4,
+            "temperature_c": 8,
+            "humidity": 65.848771416258,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 250,
             "description": "Mostly Clear"
         },
         "forecast": [
             {
                 "number": 1,
+                "name": "Today",
+                "startTime": "2026-11-09T07:00:00-05:00",
+                "endTime": "2026-11-09T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 58,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 16
+                },
+                "windSpeed": "7 to 10 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/bkn?size=medium",
+                "shortForecast": "Slight Chance Rain Showers then Partly Sunny",
+                "detailedForecast": "A slight chance of rain showers between 11am and noon. Partly sunny, with a high near 58. West wind 7 to 10 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-11-08T23:00:00-05:00",
-                "endTime": "2026-11-09T06:00:00-05:00",
+                "startTime": "2026-11-09T18:00:00-05:00",
+                "endTime": "2026-11-10T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 42,
+                "temperature": 39,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -30,33 +49,14 @@
                     "value": 3
                 },
                 "windSpeed": "8 mph",
-                "windDirection": "SW",
+                "windDirection": "W",
                 "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
                 "shortForecast": "Partly Cloudy",
-                "detailedForecast": "Partly cloudy, with a low around 42. Southwest wind around 8 mph."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2026-11-09T06:00:00-05:00",
-                "endTime": "2026-11-09T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 14
-                },
-                "windSpeed": "8 to 13 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny, with a high near 57. West wind 8 to 13 mph, with gusts as high as 24 mph."
+                "detailedForecast": "Partly cloudy, with a low around 39. West wind around 8 mph."
             }
         ]
     },
-    "weather_report": "As the night unfolds over Boston, a tranquil hush settles across the city, with the air carrying a crisp chill, inviting the evening wanderer to don a light jacket. The skies are partly cloudy, casting a gentle veil over the urban landscape, and the low temperature lingers around 42 degrees, promising a cool reprieve from the day\u2019s bustle. Tomorrow, the sun will introduce itself with a soft radiance, illuminating the city as temperatures rise to a respectable 57. The westward winds will dance through the streets, offering a refreshing embrace and teasing the tree branches, while gusts may stir up the fallen leaves, painting the sidewalks with shades of autumn.\n\nIn these mild conditions, the city offers a quiet charm. A leisurely stroll through one of Boston\u2019s historic neighborhoods could reveal the quiet beauty of architecture blending with nature. Perhaps an evening find at a cozy caf\u00e9, where warm drinks await, could serve as a perfect pairing with the cool breeze. As daylight arrives, consider visiting the waterfront or a nearby park, where the new warmth invites longer stays outdoors. Here, the canvas of the day unfolds, with everyday activities enriched by the gentle embrace of the cooler weather. As you plan your attire, think layers: a light sweater or scarf paired with comfortable shoes to walk the scenic routes of this beloved city.",
-    "color_code": "#4e5b6e",
-    "timestamp": "2026-11-08 23:13:47"
+    "weather_report": "In Boston, the early light of day reveals a landscape tinged with the promise of a crisp autumn. The sky, a canvas of soft grays and gentle blues, hints at a fleeting moment where the sun might peek through, though a veil of clouds cloaks its ascent. A slight chance of rain lingers until noon, a whisper of uncertainty that gives way to a day hovering around cool temperatures. The westward winds carry a coolness, bidding residents to wrap themselves in layers that both embrace warmth and allow for a touch of breathability, ideally a light jacket over a cozy sweater.\n\nAs day unfolds, the weather beckons opportunities for simple enjoyment amidst the urban tapestry. A stroll along the Charles River could prove refreshing, each step met with a slight chill that invigorates the spirit. Perhaps a visit to a local caf\u00e9, where the aroma of freshly brewed coffee blends seamlessly with the crisp air, would be an ideal escape. In the twilight hours, the cloud cover promises a peaceful evening, one bathed in quiet contemplation, as the night wraps the city in its gentle embrace. Dressed thoughtfully and ready to savor the day's nuances, one might find solace in the charm of Boston\u2019s understated beauty on this autumn day.",
+    "color_code": "#A3C1D4",
+    "timestamp": "2026-11-09 07:16:20"
 }
