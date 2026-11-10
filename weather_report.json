@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-10T07:55:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 75.690542144641,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 240,
+            "timestamp": "2026-11-10T11:35:00+00:00",
+            "temperature_f": 37.4,
+            "temperature_c": 3,
+            "humidity": 93.14153052995,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-10T03:00:00-05:00",
-                "endTime": "2026-11-10T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 41,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 1
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 41. West wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-11-10T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-11-10T07:00:00-05:00",
                 "endTime": "2026-11-10T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny, with a high near 57. West wind 6 to 10 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-10T18:00:00-05:00",
+                "endTime": "2026-11-11T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 43. West wind around 7 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of the early morning hours, Boston rests under a blanket of clarity, the city\u2019s lights shimmering like scattered stars across the gentle horizon. The night air is crisp, hinting at the promise of a pleasant day ahead. As the sun prepares to rise, the atmosphere remains mostly clear, with the temperature holding steady around a cool 41 degrees. A soft, westward breeze whispers through the streets, creating a serene backdrop for those wrapping themselves in layers, perhaps pulling on a light jacket to stave off the chill.\n\nAs Tuesday unfolds, the forecast invites you to relish in bright, mostly sunny skies and a high near 57. This pleasant interlude is perfect for leisurely strolls through the Commons or quiet moments spent with a warm cup of coffee at a favorite caf\u00e9. Dressed in comfortable layers, you might consider a cozy scarf and sturdy shoes, ready for the simple joys of the day. The clear skies and gentle winds call for exploration\u2014perhaps a visit to a local museum or a leisurely walk along the harbor, where the reflections of the city dance on the water. Embrace the tranquility that this mid-autumn day affords, finding joy in the ordinary as you revel in the beauty of Boston at this serene hour.",
-    "color_code": "#A2B2C8",
-    "timestamp": "2026-11-10 03:14:47"
+    "weather_report": "As morning unfolds over Boston, a mild clarity drapes the city, heralding the promise of a day brightened by sunshine and gentle breezes. The air carries a hint of crispness, teetering between the embrace of autumn and the preparations for winter. Visibility stretches far, revealing the contours of the urban landscape, while the trees surrounding their urban counterpart wear the fading vestiges of fall foliage, a tapestry of earthy tones framed against a cobalt sky that suggests an invitation to explore.\n\nAs the hours advance, the temperature will gracefully orbit around a pleasant 57 degrees, prompting attire that balances comfort with a touch of warmth. A light jacket will serve well as a companion for those meandering through parks or indulging in a leisurely coffee by the river, where the world seems to pause, if only briefly. The westward breeze will dance lightly through the streets, encouraging a walk or a quiet moment on a sun-kissed bench, where the simple act of observation can transform into a fitting canvas for reflection. An evening's descent will carry with it a promise of clarity, as a deepening twilight settles in, beckoning either a cozy night in with a favorite book or perhaps a gentle stroll beneath the starlit expanse above.",
+    "color_code": "#A2B1C3",
+    "timestamp": "2026-11-10 07:15:26"
 }
