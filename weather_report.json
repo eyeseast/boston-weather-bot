@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-11T07:55:00+00:00",
-            "temperature_f": 39.2,
-            "temperature_c": 4,
-            "humidity": 93.195121939331,
+            "timestamp": "2026-11-11T11:35:00+00:00",
+            "temperature_f": 35.6,
+            "temperature_c": 2,
+            "humidity": 100,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-11T03:00:00-05:00",
-                "endTime": "2026-11-11T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 43,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 43. West wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Veterans Day",
-                "startTime": "2026-11-11T06:00:00-05:00",
+                "startTime": "2026-11-11T07:00:00-05:00",
                 "endTime": "2026-11-11T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 56,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "2 to 8 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 56. West wind 2 to 8 mph."
+                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
+                "shortForecast": "Mostly Sunny",
+                "detailedForecast": "Mostly sunny, with a high near 56. West wind 2 to 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-11T18:00:00-05:00",
+                "endTime": "2026-11-12T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 41,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "3 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 41. North wind around 3 mph."
             }
         ]
     },
-    "weather_report": "In the stillness of night, Boston wears a shroud of tranquility, radiating a calm serenity beneath clear, twinkling skies. As one embraces the soft chill that descends around 43 degrees, a whisper of a west wind wanders through the streets, brushing against the warm glow of city lights. These early hours hold a gentle promise of the beauty that tomorrow will unfurl, where the sun will rise with intention, casting sunlight over the landscape and signaling a high of 56 degrees. The day, expected to be bright and clear, invites reflective walks along the Charles River or a leisurely stroll through the winding streets of Beacon Hill, where the charm of brick and ivy awaits.\n\nAs the day beckons with its sunny disposition, one might consider layering themselves in light yet warm fabrics to greet the crisp air comfortably. A soft sweater over a casual shirt, paired perhaps with well-worn jeans, will do just nicely. This is a day not just to dress for comfort, but to embody a casual elegance as one ventures out\u2014maybe to explore a quaint caf\u00e9 or indulge in the seasonal whims of a local market. With no fog in sight and the skies stretching vast and clear, the world around Boston holds the allure of a fresh beginning, perfect for savoring simple joys in the embrace of autumn.",
-    "color_code": "#A9C3D4",
-    "timestamp": "2026-11-11 03:13:59"
+    "weather_report": "As the morning unfolds in Boston, the city greets Veterans Day under a predominantly sunny sky that reflects a gentle warmth. The stillness in the air hints at a tranquil day ahead, although evening promises to wrap itself in a cloak of clouds. The sun casts long shadows, offering a crispness that speaks to the heart of autumn, making the approach of winter palpable. A soft breeze rustles through the trees, barely whispering at the edges of the city, while the air is clear enough to carry distant sounds\u2014a reminder of life stirring in the streets below.\n\nFor those venturing out today, a light jacket will suffice against the cool that lingers, especially as the day wanes and the temperatures retreat into the low forties. This gentle weather offers an invitation to explore, perhaps browsing through the local market, where the bounty of the season awaits, or enjoying a leisurely stroll along the waterfront, a canvas painted with shimmering reflections and laughter. As the afternoon sun dips lower, consider settling in at a cozy caf\u00e9, where the aroma of freshly brewed coffee mingles with the warmth of conversation\u2014perfect for savoring the day\u2019s quiet charm.",
+    "color_code": "#A9D6E1",
+    "timestamp": "2026-11-11 07:16:01"
 }
