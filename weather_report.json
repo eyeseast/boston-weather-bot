@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-11T19:40:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
-            "humidity": null,
+            "timestamp": "2026-11-11T23:55:00+00:00",
+            "temperature_f": 42.8,
+            "temperature_c": 6,
+            "humidity": 75.519709049237,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Veterans Day",
-                "startTime": "2026-11-11T15:00:00-05:00",
-                "endTime": "2026-11-11T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 57,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Partly Sunny",
-                "detailedForecast": "Partly sunny. High near 57, with temperatures falling to around 51 in the afternoon. Northwest wind around 7 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-11-11T18:00:00-05:00",
+                "startTime": "2026-11-11T19:00:00-05:00",
                 "endTime": "2026-11-12T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/ovc?size=medium",
                 "shortForecast": "Cloudy",
                 "detailedForecast": "Cloudy, with a low around 40. North wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-11-12T06:00:00-05:00",
+                "endTime": "2026-11-12T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 52,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 62
+                },
+                "windSpeed": "6 to 15 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,20/rain_showers,60?size=medium",
+                "shortForecast": "Rain Showers Likely",
+                "detailedForecast": "Rain showers likely after 7am. Cloudy, with a high near 52. Northeast wind 6 to 15 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds over Boston, a tranquil blend of clouds and sunlight bathes the city in a gentle embrace. The air, cool and crisp, hovers near a comfortable 57 degrees, with a subtle shift to a cooler 51 as the day waxes wan. Beneath a soft blanket of overcast, the horizon reveals its subtle allure\u2014an invitation to explore beneath the fading light, where shadows begin to stretch long against the earth. The north wind whispers softly, carrying hints of the approaching evening chill.\n\nIn this delicate dance of a November day, one might find joy in a simple stroll through one of the city\u2019s historic neighborhoods, where the charm of brownstones intermingles with the quiet rustle of fallen leaves. A light jacket will serve both form and function, ensuring warmth while allowing you to savor that brisk air. Perhaps a cozy caf\u00e9 calls, its welcoming ambiance a fine refuge for warming hands around a hot beverage, where one can pause and reflect. Today expresses a delightful simplicity, a day reminding us that beauty often lies in the understated\u2014a fitting tribute to the season\u2019s embrace.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-11-11 15:10:23"
+    "weather_report": "As twilight descends upon Boston, a soft blanket of clouds lingers in the evening sky, creating a muted atmosphere that beckons introspection. The temperatures dip toward a cool 40 degrees, accompanied by a gentle north wind whispering through the streets. Although the daylight has waned, the connecting blanket of city lights glimmers faintly underneath the overcast sky, casting an almost ethereal glow over familiar rooftops and bustling avenues.\n\nLooking ahead to tomorrow, Boston will awaken to the promise of rain. The gently falling showers, likely to begin with the dawn, may cast a somber hue on the day. With a high creeping toward 52 degrees and a northeast wind carrying with it the scent of moisture, it is a day best spent indoors or suited for activities that welcome the rhythm of rain. One might find solace in the embrace of a coffee shop, lingering over a warm drink while the droplets dance on the windowpane, or perhaps lose oneself in the spines of a beloved novel, the world outside murky yet beautifully alive. As the forecast suggests occasional showers and a likelihood of rain, dressing in layers will help navigate the chill and damp\u2014think cozy sweaters and a trusty raincoat. \n\nTomorrow offers plenty of opportunities to embrace the gentler side of life, where serenity and warmth can indeed be found amidst the clouds and whispers of rain.",
+    "color_code": "#7C7D90",
+    "timestamp": "2026-11-11 19:29:53"
 }
