@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-12T19:35:00+00:00",
-            "temperature_f": 53.6,
-            "temperature_c": 12,
-            "humidity": 66.720955975373,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 90,
+            "timestamp": "2026-11-13T00:10:00+00:00",
+            "temperature_f": 51.8,
+            "temperature_c": 11,
+            "humidity": 71.281266407174,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 40,
             "description": "Mostly Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-11-12T15:00:00-05:00",
-                "endTime": "2026-11-12T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 57
-                },
-                "windSpeed": "16 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely. Cloudy, with a high near 52. Northeast wind around 16 mph, with gusts as high as 29 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-11-12T18:00:00-05:00",
+                "startTime": "2026-11-12T19:00:00-05:00",
                 "endTime": "2026-11-13T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 40,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/rain,90/rain,100?size=medium",
                 "shortForecast": "Light Rain",
                 "detailedForecast": "Rain. Cloudy, with a low around 40. Northeast wind around 16 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New rainfall amounts between a quarter and half of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-11-13T06:00:00-05:00",
+                "endTime": "2026-11-13T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 42,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 81
+                },
+                "windSpeed": "9 to 17 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/rain,80/rain,30?size=medium",
+                "shortForecast": "Light Rain",
+                "detailedForecast": "Rain. Cloudy, with a high near 42. North wind 9 to 17 mph, with gusts as high as 28 mph. Chance of precipitation is 80%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds, Boston settles beneath a blanket of somber clouds, shading the city in muted tones. Rain is likely to grace the sidewalks soon, driven by a steady northeast breeze that carries hints of chill, making the air feel crisper than the temperature might suggest. The forecast anticipates moisture accumulating gradually, with a significant downpour expected as the day shifts toward evening. Life beneath these heavy gray skies offers a certain introspective charm; however, there is a sense of dampness that invites indoor pursuits rather than outdoor wandering.\n\nFor those braving the elements today, bundling up in a waterproof jacket and sturdy footwear is advisable, perhaps best accented by a snug scarf to guard against the nippy gusts. The air carries the rich scent of impending rain, suggesting a good book or a quiet caf\u00e9 could provide refuge from the encroaching showers. Alternately, a stroll through an art gallery or a leisurely exploration of Boston's historic nooks might reveal a comforting familiarity against the wet backdrop. The time draws near for warm drinks and soft lighting, offering a comforting pause before the chill of evening settles in.",
-    "color_code": "#B0B0B0",
-    "timestamp": "2026-11-12 15:10:38"
+    "weather_report": "As night drapes itself over Boston, a persistent rain taps softly against windows, a serenade to those seeking the warmth of home. Clouds stretch across the sky, gathering like an audience preparing for a shadowy performance, while the wind whispers solemnly, reminiscent of distant travels. The temperature hovers near the low forties, inviting a retreat into cozier garments \u2014 perhaps a woolen sweater beneath a waterproof jacket, and sturdy shoes to brave the slick streets. Venture out with an umbrella, for the night belongs to a hundred percent chance of precipitation, with each drop composing a melancholic symphony amidst the city lights.\n\nTomorrow brings a continuation of this somber tableau, as the rain lingers throughout the day. Gone are the chillier gusts of the past few evenings, replaced instead by a tempered north wind that allows one to face the elements with a touch less urgency. The forecast calls for higher clouds, but the moisture in the air robs much of the day of vibrant clarity. If one finds themselves seeking reprieve from the weather, an afternoon spent browsing local bookstores, sipping warm coffee in a cozy caf\u00e9, or experimenting with silent contemplation in art galleries offers a charming counterpoint to the dreariness outside. For those more adventurous, a quick dash between buildings and umbrellas can turn the uneventful into the thrilling, transforming an ordinary Thursday into an unexpected escapade.",
+    "color_code": "#A9A9A9",
+    "timestamp": "2026-11-12 19:28:58"
 }
