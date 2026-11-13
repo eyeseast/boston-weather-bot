@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-13T07:41:00+00:00",
-            "temperature_f": 44.06,
-            "temperature_c": 6.7,
-            "humidity": 92.692530298592,
-            "wind_speed_mph": 20.93832,
-            "wind_direction": null,
-            "description": ""
+            "timestamp": "2026-11-13T11:40:00+00:00",
+            "temperature_f": 37.4,
+            "temperature_c": 3,
+            "humidity": 93.14153052995,
+            "wind_speed_mph": 45.581112000000005,
+            "wind_direction": 360,
+            "description": "Light Rain"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-13T03:00:00-05:00",
-                "endTime": "2026-11-13T06:00:00-05:00",
-                "isDaytime": false,
+                "name": "Today",
+                "startTime": "2026-11-13T07:00:00-05:00",
+                "endTime": "2026-11-13T18:00:00-05:00",
+                "isDaytime": true,
                 "temperature": 40,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 95
+                    "value": 74
                 },
-                "windSpeed": "12 mph",
-                "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Light Rain",
-                "detailedForecast": "Rain. Cloudy, with a low around 40. Northeast wind around 12 mph, with gusts as high as 29 mph. Chance of precipitation is 100%. New rainfall amounts between a tenth and quarter of an inch possible."
+                "windSpeed": "5 to 12 mph",
+                "windDirection": "N",
+                "icon": "https://api.weather.gov/icons/land/day/rain,70/rain,20?size=medium",
+                "shortForecast": "Light Rain Likely",
+                "detailedForecast": "Rain likely before 1pm. Mostly cloudy, with a high near 40. North wind 5 to 12 mph, with gusts as high as 28 mph. Chance of precipitation is 70%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
-                "name": "Friday",
-                "startTime": "2026-11-13T06:00:00-05:00",
-                "endTime": "2026-11-13T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 45,
+                "name": "Tonight",
+                "startTime": "2026-11-13T18:00:00-05:00",
+                "endTime": "2026-11-14T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 34,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 56
+                    "value": 8
                 },
-                "windSpeed": "5 to 12 mph",
+                "windSpeed": "6 mph",
                 "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/day/rain,60/rain,20?size=medium",
-                "shortForecast": "Light Rain Likely",
-                "detailedForecast": "Rain likely before 1pm. Mostly cloudy, with a high near 45. North wind 5 to 12 mph, with gusts as high as 28 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a low around 34. North wind around 6 mph."
             }
         ]
     },
-    "weather_report": "The night cloaks Boston in a thick blanket of muted gray, each droplet of rain echoing softly against pavements, as if nature itself whispers secrets known only to the darkened streets. As dawn creeps gradually over the horizon, the sky remains stubbornly clouded, a harbinger of the dampness yet to come. The forecast hints at a struggle between the lingering chill and the rain that is determined to embrace the city through the night. Temperatures will hover near the lower end of the seasonal spectrum, draping the day in a sense of dampened enthusiasm, where sunbeams remain merely a faint memory.\n\nAs Friday unfolds, expect rain to linger like an uninvited guest, though it may loosen its grip by early afternoon. Woolen garments and waterproof layers will be the thoughtful companions to navigate this brisk day. Avoid the temptation of lighter attire; the wind, with its sharp nips, will remind you of its presence. Rather than venturing out for grand escapades, perhaps find solace in the comfort of a favorite caf\u00e9, where the scent of freshly brewed coffee competes gently with the pitter-patter of precipitation outside. A walk through sheltered pathways could also afford a poignant moment with the city\u2019s familiar sights, or perhaps settle into that book you\u2019ve been meaning to read, while the rain dances its quiet choreography outside.",
-    "color_code": "#778899",
-    "timestamp": "2026-11-13 03:13:38"
+    "weather_report": "In Boston this morning, the sky hangs heavy with a blanket of gray clouds, a prelude to the rain that is expected to swirl in before the day advances too far. The atmosphere remains chill, an uninviting embrace with temperatures lingering near the low forties. A north wind brushes through, its brisk touch urging those who venture outside to dress warmly, perhaps in layers\u2014a woolen sweater beneath a water-resistant coat would be prudent. \n\nAs the morning edges towards afternoon, the likelihood of rain decreases slightly but maintains a presence, offering only the slightest chance of a waning drizzle. One might find solace in the cozy corners of a cafe, sipping a warm brew while watching the world pass under the muted light. For those inclined to embrace the elements, a brisk walk accompanied by the rhythmic patter of light rain could stir a sense of invigorating clarity amidst the dreariness. While the charms of a market stroll or a leisurely park visit may be dampened by the weather, the day still offers a canvas for quiet reflection and the warmth of indoor pursuits.",
+    "color_code": "#B0B0B0",
+    "timestamp": "2026-11-13 07:15:30"
 }
