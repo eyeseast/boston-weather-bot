@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-14T19:30:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 52.747049946288,
-            "wind_speed_mph": 41.39344800000001,
-            "wind_direction": 280,
+            "timestamp": "2026-11-15T00:00:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 65.174364282646,
+            "wind_speed_mph": 16.589592000000003,
+            "wind_direction": 270,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-11-14T15:00:00-05:00",
-                "endTime": "2026-11-14T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "8 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 45. West wind around 8 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-11-14T18:00:00-05:00",
+                "startTime": "2026-11-14T19:00:00-05:00",
                 "endTime": "2026-11-15T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 33,
@@ -50,13 +31,32 @@
                 },
                 "windSpeed": "8 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 33. West wind around 8 mph."
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 33. West wind around 8 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-11-15T06:00:00-05:00",
+                "endTime": "2026-11-15T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 49,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "8 to 12 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny, with a high near 49. Northwest wind 8 to 12 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the afternoon unfolds under a shroud of gray, the clouds lingering softly overhead, casting a muted light that subtly drains the colors from the scene. With temperatures hovering around a brisk 45 degrees, a light west wind brushes through the streets, hinting at the persistent chill typical of the season. Tonight, the expected low dips to a chilly 33 degrees, a reminder that autumn's embrace is still firmly planted here.\n\nAs you venture out, sensible attire is a must; a cozy sweater layered beneath a warm jacket will provide comfort against the penetrating coolness. Consider a wool scarf to shield against the wind that whispers through the alleys. This afternoon, you might find delightful respite in a quiet caf\u00e9, where the aroma of freshly brewed coffee invites contemplation or conversation. Alternatively, a leisurely stroll along the Charles might reveal the subtle beauty of autumn transitioning into winter, as the trees shed their leaves in a graceful farewell. Whether you take refuge indoors or embrace the brisk air outside, today offers a canvas painted in cool tones, perfect for contemplative moments amidst the fleeting beauty of Boston's late fall.",
-    "color_code": "#A6A6A6",
-    "timestamp": "2026-11-14 15:09:00"
+    "weather_report": "As night gently blankets Boston, a calm serenity envelops the city, punctuated only by the soft glow of distant lights. The air is brisk, a whisper of the coolness that foretells the low of 33 degrees. Clouds drift lazily across the sky, lending a partial cover to the stars yet allowing the moon\u2019s muted glow to seep through now and then, offering just enough light to savor the quiet of the evening. The gentle westward wind adds a refreshing touch, inviting layers to keep warm\u2014perhaps a woolen sweater accompanied by a light coat, suitable for a leisurely stroll along the Charles River, or to pause at a favored caf\u00e9 for a warm beverage.\n\nAs dawn breaks on Sunday, Boston will welcome a sunny revitalization, casting a cheerful glow over the city and promising a high near 49 degrees. The northwest winds will bring lively gusts, encouraging brisk movement and an invigorating atmosphere, perfect for outdoor activities. Consider a visit to the Boston Public Garden or a casual walk along the Freedom Trail; the clear sky and pleasant temperatures offer an ideal backdrop for a small adventure. Layering light clothes with a warm scarf and perhaps a cap will strike the right balance between comfort and style, allowing one to fully embrace the adventure of the day, harmonizing with the city\u2019s rhythm as it wakes from its nighttime repose.",
+    "color_code": "#7F9FC4",
+    "timestamp": "2026-11-14 19:31:02"
 }
