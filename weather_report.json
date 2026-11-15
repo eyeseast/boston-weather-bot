@@ -7,10 +7,10 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-15T07:50:00+00:00",
-            "temperature_f": 28.4,
-            "temperature_c": -2,
-            "humidity": 100,
+            "timestamp": "2026-11-15T10:53:00+00:00",
+            "temperature_f": 28.04,
+            "temperature_c": -2.2,
+            "humidity": 95.655156933727,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
             "description": "Clear"
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-15T03:00:00-05:00",
-                "endTime": "2026-11-15T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 34,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 3
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 34. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-11-15T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-11-15T07:00:00-05:00",
                 "endTime": "2026-11-15T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 49,
@@ -48,15 +29,34 @@
                     "unitCode": "wmoUnit:percent",
                     "value": 2
                 },
-                "windSpeed": "6 to 10 mph",
+                "windSpeed": "7 to 10 mph",
                 "windDirection": "NW",
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
-                "detailedForecast": "Sunny, with a high near 49. Northwest wind 6 to 10 mph, with gusts as high as 22 mph."
+                "detailedForecast": "Sunny, with a high near 49. Northwest wind 7 to 10 mph, with gusts as high as 22 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-15T18:00:00-05:00",
+                "endTime": "2026-11-16T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 32,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 2
+                },
+                "windSpeed": "7 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 32. Northwest wind around 7 mph."
             }
         ]
     },
-    "weather_report": "As you awaken in Boston, the night retreats softly, bestowing a quiet clarity upon the city. The temperature hovers in the low chill, wrapping the landscape in an embrace around 34 degrees. A gentle northwest wind stirs, whispering through the streets, hinting at the invigorating day ahead. Come Sunday, the sun emerges, brightening the atmosphere with its golden touch, as temperatures rise near a crisp 49. That same northwest wind will carry the day's warmth, punctuated by gusts that dance playfully against your coat.\n\nA comfort awaits in the blend of sunlight and crisp air, a palette that invites you to step outside. Dress warmly, layering with a snug sweater beneath a sturdy jacket, to relish the invigorating caress of the breeze against your skin. As the sun climbs higher, consider a stroll along the Charles River, where the shimmering water reflects the clear sky, or perhaps visit one of Boston's many parks to revel in the simple joy of the day. The atmosphere beckons for calm contemplation\u2014maybe a good book and a cup of coffee on a park bench would suffice. Today is one of those rare opportunities to savor the world's quieter moments, away from the hustle, wrapped warmly in your thoughts as the landscape unfolds its aesthetic charm before you.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2026-11-15 03:13:20"
+    "weather_report": "As dawn breaks over Boston, the city awakens to a brisk morning bathed in sunlight, its golden hues illuminating the path ahead. The air carries a clarity that feels invigorating, devoid of any fog or haze, embodying the promise of an enjoyable day. The high temperature anticipated is a crisp 49 degrees, accompanied by a gentle northwesterly breeze that stirs the leaves and sends a playful chill down the spine, adding that invigorating hint of winter to the morning. Tonight, the skies will remain mostly clear, cooling down to a comfortable 32 degrees, allowing a serene evening to unfold.\n\nFor those venturing outside today, dressing in layers is wise; a light jacket or sweater will offer warmth against the cool wind, while a scarf could provide extra comfort as you navigate the vibrant streets or perhaps find a quiet spot in one of Boston's lovely parks. It\u2019s a day that invites exploration\u2014consider taking a leisurely stroll along the Charles River, where the beauty of the city aligns seamlessly with nature's tranquility. Alternatively, a visit to a local caf\u00e9 could provide a cozy respite, where hot coffee or tea warms both hands and spirit, crafting moments of connection in the heart of the bustling city.",
+    "color_code": "#87CEEB",
+    "timestamp": "2026-11-15 07:13:31"
 }
