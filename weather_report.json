@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-17T07:44:00+00:00",
-            "temperature_f": 24.98,
-            "temperature_c": -3.9,
-            "humidity": 96.316528453759,
+            "timestamp": "2026-11-17T11:45:00+00:00",
+            "temperature_f": 24.8,
+            "temperature_c": -4,
+            "humidity": 85.967788086354,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": "Fog/Mist"
+            "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-17T02:00:00-05:00",
-                "endTime": "2026-11-17T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 30,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "6 mph",
-                "windDirection": "NW",
-                "icon": "https://api.weather.gov/icons/land/night/skc?size=medium",
-                "shortForecast": "Clear",
-                "detailedForecast": "Clear, with a low around 30. Northwest wind around 6 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tuesday",
-                "startTime": "2026-11-17T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-11-17T07:00:00-05:00",
                 "endTime": "2026-11-17T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 57,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/skc?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 57, with temperatures falling to around 51 in the afternoon. West wind 5 to 9 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-17T18:00:00-05:00",
+                "endTime": "2026-11-18T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 1
+                },
+                "windSpeed": "9 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 39. West wind around 9 mph."
             }
         ]
     },
-    "weather_report": "As the tranquil night drapes its deep blue cloak over Boston, the city rests quietly, illuminated only by flickering lights that dance in the chill air. With temperatures settling to the low 30s and a gentle breeze whispering from the northwest, it's a night that demands a certain warmth\u2014perhaps a cozy blanket or a steaming mug of something comforting. As dawn draws near, a promise of clear skies emerges, setting the stage for a bright Tuesday ahead.\n\nThe sun will rise, casting golden rays and lifting temperatures toward a pleasant afternoon high of near 57. Yet, as the day unfolds, a subtle drop is expected, reminding us to embrace the layers. A light sweater or jacket will suffice, especially with a gentle west wind rustling through the trees, potentially stirring up gusts that remind us of the changing seasons. The clear, sunny disposition invites the heart to wander; one might find delight in a leisurely walk along the Charles, where the reflections glisten on the water, or perhaps enjoy a cup of coffee at a local caf\u00e9, the comforting aroma mingling with the crisp autumn air. It\u2019s a day that beckons simple joys\u2014so step outside and breathe deep; the world is waiting to share its beauty.",
-    "color_code": "#A3C1C3",
-    "timestamp": "2026-11-17 03:14:18"
+    "weather_report": "As Boston awakens to the embrace of a crisp autumn morning, the day unveils itself with a sunny disposition. The air, bracing yet mild, hints at a high of 57 degrees, gradually settling toward 51 by afternoon\u2014a gentle reminder of the season\u2019s progress. A soft west wind whispers through the streets, occasionally gusting, adding a playful chill that dances against skin when the sun dips behind the clouds. Tonight, the sky will remain mostly clear, inviting the stars to illuminate the evening with a low of 39.\n\nThe radiant daylight beckons for leisurely ventures; perhaps a stroll through the Commonwealth Avenue Mall, where the last vestiges of fall's foliage cling to their branches amidst crisp, fallen leaves. Alternatively, one might find solace in a quaint caf\u00e9, savoring a warm brew while the world unfolds outside. Dressing in layers is prudent\u2014perhaps a light jacket over a cozy sweater, supplemented by a scarf to fend off the cool gusts. Today is a canvas of clarity and warmth, a fleeting chance to savor autumn\u2019s embrace before winter's chill takes hold.",
+    "color_code": "#F3AA1C",
+    "timestamp": "2026-11-17 07:15:42"
 }
