@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-18T05:53:00+00:00",
+            "timestamp": "2026-11-18T10:53:00+00:00",
             "temperature_f": null,
             "temperature_c": null,
             "humidity": null,
-            "wind_speed_mph": 12.0798,
-            "wind_direction": 90,
-            "description": "Clear"
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-18T03:00:00-05:00",
-                "endTime": "2026-11-18T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 36,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 36. West wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Wednesday",
-                "startTime": "2026-11-18T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-11-18T07:00:00-05:00",
                 "endTime": "2026-11-18T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
                 "shortForecast": "Mostly Sunny",
                 "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 57 in the afternoon. West wind around 10 mph, with gusts as high as 21 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-18T18:00:00-05:00",
+                "endTime": "2026-11-19T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "8 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 39. West wind around 8 mph."
             }
         ]
     },
-    "weather_report": "As the quiet night envelops Boston, the air is crisp, promising a refreshing awakening. Glancing out toward the horizon, one can feel a sense of calm as the city\u2019s outline shimmers beneath the pale glow of streetlights. The temperature is mild, dipping just low enough to hint at the changing season, where warmth and chill dance together in delicate balance. The gentle west wind stirs, offering a soothing reprieve from the day's hustle.\n\nWith the dawn comes a promise of mostly sunny skies, a gentle embrace of sunlight that will gradually warm the world. As the day unfolds, temperatures will rise, reaching a peak that invites light layers\u2014perhaps a cozy sweater with a sturdy jacket for those fleeting moments of breeze. It\u2019s a day to relish in simple pleasures: a leisurely stroll along the Charles, pausing to breathe in the crisp air, our breath briefly misting in the coolness. A visit to a quiet caf\u00e9, with warm coffee cradled in hand, might also strike a perfect tone for this serene Wednesday. The day carries an air of pleasantness, perfect for resetting, whether by indulging in a book, or simply listening to the rustle of fallen leaves while wandering through the parks.",
-    "color_code": "#A3C1DA",
-    "timestamp": "2026-11-18 03:14:00"
+    "weather_report": "As dawn breaks gently over Boston, the city lies beneath a tranquil sky, mostly clear and inviting. The crisp air carries a distinct bite that tickles the senses, suggesting layers are necessary for those venturing outdoors. With a high expected to reach a comfortable 64 later in the day but dipping to a cool 39 tonight, dressing in versatile attire will be wise; a light jacket combined with a cozy sweater offers the perfect balance for this autumn day.\n\nToday\u2019s weather hints at a splendid opportunity to embrace the outdoors. The west wind rustles through the trees, ushering in a calming presence, while gentle gusts remind us of the season's transition. A stroll along the Charles River or a leisurely visit to the Public Garden would be delightful under the vast blue expanse overhead. Perhaps a warm cup of coffee in a nearby caf\u00e9 would provide the perfect respite for those seeking a moment of warmth and reflection. The picturesque morning light promises a pleasant atmosphere, punctuated by the rustle of leaves and the quiet hum of a city awakening.",
+    "color_code": "#A4C8E1",
+    "timestamp": "2026-11-18 07:15:19"
 }
