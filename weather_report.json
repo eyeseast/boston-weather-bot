@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-18T19:50:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
+            "timestamp": "2026-11-18T23:53:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
             "humidity": null,
-            "wind_speed_mph": 33.17918400000001,
-            "wind_direction": 270,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-11-18T14:00:00-05:00",
-                "endTime": "2026-11-18T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 63,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
-                "shortForecast": "Sunny",
-                "detailedForecast": "Sunny. High near 63, with temperatures falling to around 57 in the afternoon. West wind around 9 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-11-18T18:00:00-05:00",
+                "startTime": "2026-11-18T19:00:00-05:00",
                 "endTime": "2026-11-19T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 39,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
                 "shortForecast": "Mostly Clear",
                 "detailedForecast": "Mostly clear, with a low around 39. West wind around 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thursday",
+                "startTime": "2026-11-19T06:00:00-05:00",
+                "endTime": "2026-11-19T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 62,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "W",
+                "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
+                "shortForecast": "Sunny",
+                "detailedForecast": "Sunny. High near 62, with temperatures falling to around 55 in the afternoon. West wind around 5 mph."
             }
         ]
     },
-    "weather_report": "In Boston this afternoon, the sun casts a gentle glow over the city, illuminating the landscape in a warm embrace. The temperature, near the comfortable mid-sixties, will soon drift into the cooler embrace of late afternoon, coaxing the day toward an early evening chill of around 39 degrees. With a westward breeze rustling the trees at a modest speed, the atmosphere is buoyant yet crisp, stirring the senses and inviting a stroll.\n\nAs the sun descends, skimming the horizon with its golden hue, the skies remain mostly clear, offering a canvas of tranquility. This is the kind of day that beckons one to don a light sweater or jacket, perhaps a scarf that flutters lightly in the wind, while settling into the rhythms of the later hours. Simple pleasures await: a leisurely walk along the Charles River, where the water shimmers with reflections of the softening skies, or perhaps a visit to a cozy caf\u00e9, where the aroma of freshly brewed coffee mingles with the crisp air, providing comfort as the evening draws near. Given such pleasant conditions, there is little doubt that outdoor attractions in the neighborhood beckon, encouraging all to soak in the serene qualities of a late autumn day in Boston.",
-    "color_code": "#B0C4DE",
-    "timestamp": "2026-11-18 15:10:48"
+    "weather_report": "As the evening settles softly over Boston, the air carries a delicate chill, with temperatures gently dipping to the low 40s. The skies stretch overhead, unencumbered and mostly clear, offering a tranquil backdrop to the twinkling city lights below. A subtle breeze whispers through the streets, reminding those outdoors of the brisk autumnal air. Tomorrow promises a sunlit day, with warm rays inviting people to step outside and embrace the transition from cool morning to mildly temperate afternoon, where the warmth will gradually recede, leaving a lingering comfort as the sun sinks low in the sky.\n\nGiven this peaceful evening and the vibrant forecast ahead, dressing in layers would serve one well; a light jacket or sweater will cozy up against the evening's chill while allowing for the freedom to bask in the day's gentle warmth. A stroll along the Charles River could revive the spirit, or perhaps a quiet evening enjoyed over a good book in a favorite nook would provide solace amid the season's unfolding beauty. There's a softness in the air, a gentle reminder of the quiet joys to be found in autumn's embrace.",
+    "color_code": "#AFAFAF",
+    "timestamp": "2026-11-18 19:29:20"
 }
