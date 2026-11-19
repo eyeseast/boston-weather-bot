@@ -7,7 +7,7 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-19T06:53:00+00:00",
+            "timestamp": "2026-11-19T10:53:00+00:00",
             "temperature_f": null,
             "temperature_c": null,
             "humidity": null,
@@ -18,27 +18,8 @@
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-19T03:00:00-05:00",
-                "endTime": "2026-11-19T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 38,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "3 mph",
-                "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
-                "shortForecast": "Mostly Clear",
-                "detailedForecast": "Mostly clear, with a low around 38. West wind around 3 mph."
-            },
-            {
-                "number": 2,
-                "name": "Thursday",
-                "startTime": "2026-11-19T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-11-19T07:00:00-05:00",
                 "endTime": "2026-11-19T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/day/few?size=medium",
                 "shortForecast": "Sunny",
                 "detailedForecast": "Sunny. High near 66, with temperatures falling to around 57 in the afternoon. Southwest wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-19T18:00:00-05:00",
+                "endTime": "2026-11-20T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 39,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/night/few?size=medium",
+                "shortForecast": "Mostly Clear",
+                "detailedForecast": "Mostly clear, with a low around 39. Southwest wind around 5 mph."
             }
         ]
     },
-    "weather_report": "As the night gives way to dawn in Boston, the air is crisp, hinting at the chill of the approaching day. Tonight, moonlight softly blankets the city, while temperatures hover around a brisk thirty-eight degrees, under a sky that remains blissfully clear. There\u2019s a gentle, almost soothing whisper in the breeze as it drifts in from the west, punctuating the tranquility of the early hours.\n\nAs the morning unfolds, a promising warmth takes hold, the sun cresting the horizon in a spectacle of golden light. The forecast beckons for a sunny day ahead, with temperatures reaching a pleasant sixty-six degrees, though they may glide down to a more temperate fifty-seven by afternoon's embrace. This delightful shift invites one to shed those heavier layers for light sweaters and perhaps a well-loved pair of jeans, perfect for an afternoon stroll through the city parks or a visit to the local caf\u00e9, where the aroma of fresh coffee dances invitingly through the air. Simple pleasures await, like savoring the landscapes of Boston or even catching a thought-provoking book at a nearby shop. The day is poised to be a serene escape, encouraging the spirit to awaken alongside the sun.",
-    "color_code": "#A8C8D4",
-    "timestamp": "2026-11-19 03:14:07"
+    "weather_report": "In the heart of Boston this morning, the atmosphere unfolds with delightful clarity, illuminated by the soft, amber glow of the sun as it rises. The day promises a sunny demeanor, serenely wrapping the city in warmth, though the afternoon might prompt a retreat toward cooler temperatures. As the sun travels its arc, expect the serenity of clear skies and gentle breezes from the southwest, a reassuring companion for those wandering the streets or pursuing the humdrum rhythms of daily life. \n\nFor those contemplating their wardrobe, a sweater or light jacket would suffice against the cooler whispers of the afternoon, while layers might prove wise as they traverse both sunlit corners and shaded avenues. As one moves through the day, it is a perfect time for a leisurely stroll along the Charles River, or perhaps a quiet moment in one of Boston\u2019s many parks, where the brilliant colors of autumn linger in the air. The gentle ambience invites contemplation\u2014maybe a seat on a caf\u00e9 patio, a warm drink in hand, as you observe life bustling harmoniously around you.",
+    "color_code": "#FFD700",
+    "timestamp": "2026-11-19 07:15:22"
 }
