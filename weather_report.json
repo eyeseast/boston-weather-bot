@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-22T07:23:00+00:00",
-            "temperature_f": null,
-            "temperature_c": null,
-            "humidity": null,
+            "timestamp": "2026-11-22T11:40:00+00:00",
+            "temperature_f": 41.0,
+            "temperature_c": 5,
+            "humidity": 93.248095448059,
             "wind_speed_mph": 0.0,
             "wind_direction": 0,
-            "description": ""
+            "description": "Fog"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-22T03:00:00-05:00",
-                "endTime": "2026-11-22T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 45,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/fog?size=medium",
-                "shortForecast": "Patchy Fog",
-                "detailedForecast": "Patchy fog after 5am. Mostly cloudy, with a low around 45. South wind around 5 mph."
-            },
-            {
-                "number": 2,
-                "name": "Sunday",
-                "startTime": "2026-11-22T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-11-22T07:00:00-05:00",
                 "endTime": "2026-11-22T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 64,
@@ -51,12 +32,31 @@
                 "windSpeed": "7 mph",
                 "windDirection": "SE",
                 "icon": "https://api.weather.gov/icons/land/day/fog/rain,20?size=medium",
-                "shortForecast": "Patchy Fog then Slight Chance Light Rain",
-                "detailedForecast": "Patchy fog before 9am, then a slight chance of rain. Mostly cloudy, with a high near 64. Southeast wind around 7 mph. Chance of precipitation is 20%."
+                "shortForecast": "Areas Of Fog then Slight Chance Light Rain",
+                "detailedForecast": "Areas of fog before 9am, then a slight chance of rain. Mostly cloudy, with a high near 64. Southeast wind around 7 mph. Chance of precipitation is 20%."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-22T18:00:00-05:00",
+                "endTime": "2026-11-23T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 100
+                },
+                "windSpeed": "3 to 8 mph",
+                "windDirection": "NE",
+                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
+                "shortForecast": "Heavy Rain",
+                "detailedForecast": "A chance of rain before 7pm, then rain and patchy fog. Cloudy, with a low around 53. Northeast wind 3 to 8 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
             }
         ]
     },
-    "weather_report": "As the night deepens in Boston, a shroud of fog gently embraces the city, hinted by the muted glow of a waning moon. The air, cool and crisp, carries the unmistakable scent of damp earth, promising a dawning day that may bring more whispers of rain. The low temperature lingers around a modest 45 degrees, and with only the softest of winds rustling, it's a night that calls for comfort\u2014perhaps a light sweater and woolen scarf, snug enough to ward off the chill.\n\nSunday will awaken slowly, with morning fog lingering until around nine, ushering in a tapestry of clouds that may part to reveal glimpses of blue later on. With temperatures aspiring to reach a high near 64, the day might feel deceptively pleasant despite the clouds overhead. A chance of rain dances in the forecasts, albeit slight, suggesting that while raindrops may grace the city, they won't dominate the scene. Given the variable conditions, one might consider a leisurely stroll through the quieter corners of a neighborhood park or a serene visit to a local caf\u00e9, where warmth and solace abound. Perhaps take a moment to savor a good book or engage in gentle conversation, as nature prepares for the transformative bite of winter ahead.",
-    "color_code": "#B0C4D0",
-    "timestamp": "2026-11-22 03:13:25"
+    "weather_report": "As dawn breaks over Boston, a curtain of fog envelopes the city, casting a subdued veil over familiar sights. The air carries a chill, with humidity weaving through the streets, hinting at the rain that will soon arrive. The sky, painted in soft grays, hangs low, suggesting that nature has taken a moment to pause, to linger in this quiet interlude before the rain makes its entrance later in the day. Those venturing outside may find that a light jacket offers sufficient comfort against the morning chill, while a scarf could serve as a companion against the damp.\n\nAs the hours pass, expect the clouds to deepen in tone, the likelihood of rain swelling to an undeniable certainty. Today's forecast promises a minor flirtation with sunshine, but ultimately settles into a drizzle, draping Boston in the kind of cozy ambiance that invites contemplation. Perhaps a gentle stroll through the Public Garden, where the damp ground and soft rustling leaves create a symphony of natural rhythms, would be most fitting. Alternatively, an afternoon at a local caf\u00e9, the aroma of freshly brewed coffee mingling with the sound of raindrops against the window, offers a perfect sanctuary from the elements. Embrace the day with a quiet appreciation for the moment, and let the rain wash the world anew.",
+    "color_code": "#B0C4DE",
+    "timestamp": "2026-11-22 07:14:13"
 }
