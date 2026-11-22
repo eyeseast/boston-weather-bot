@@ -7,56 +7,56 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-21T19:30:00+00:00",
-            "temperature_f": 64.4,
-            "temperature_c": 18,
-            "humidity": null,
-            "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 190,
+            "timestamp": "2026-11-22T00:10:00+00:00",
+            "temperature_f": 44.6,
+            "temperature_c": 7,
+            "humidity": 70.499329419935,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-11-21T15:00:00-05:00",
-                "endTime": "2026-11-21T18:00:00-05:00",
+                "name": "Tonight",
+                "startTime": "2026-11-21T19:00:00-05:00",
+                "endTime": "2026-11-22T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 43,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "S",
+                "icon": "https://api.weather.gov/icons/land/night/bkn/fog?size=medium",
+                "shortForecast": "Mostly Cloudy then Patchy Fog",
+                "detailedForecast": "Patchy fog after 5am. Mostly cloudy, with a low around 43. South wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Sunday",
+                "startTime": "2026-11-22T06:00:00-05:00",
+                "endTime": "2026-11-22T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 64,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 0
+                    "value": 35
                 },
-                "windSpeed": "7 mph",
+                "windSpeed": "5 mph",
                 "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny. High near 64, with temperatures falling to around 57 in the afternoon. South wind around 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-11-21T18:00:00-05:00",
-                "endTime": "2026-11-22T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "7 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 44. South wind around 7 mph."
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,40?size=medium",
+                "shortForecast": "Mostly Cloudy then Chance Light Rain",
+                "detailedForecast": "A chance of rain after 4pm. Mostly cloudy, with a high near 64. South wind around 5 mph. Chance of precipitation is 40%."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston offers a tapestry of mostly sunny skies, inviting a gentle embrace from the South wind. The temperatures are in a delicate dance, starting around 64 before gracefully settling nearer to 57 as the afternoon wanes. The day wears its colors well, with soft blues and bright whites, hinting at a pleasant yet transitional late autumn atmosphere. As twilight approaches, the clouds will gathering in a modest way, ushering in a cool evening with temperatures dipping to a low of 44, underscoring the need for a light jacket or perhaps a cozy sweater as dusk settles over the city.\n\nGiven this inviting yet brisk weather, a stroll through one of Boston's picturesque parks or along the historic waterfront could nourish both spirit and body. Embrace the crispness of the air, perhaps with a warm beverage in hand, as you soak in the gentle shift between day and evening. The ambiance is not just pleasant but invites connections with nature and community, making it a fine day to wander or engage in quiet reflection as the shadows lengthen.",
-    "color_code": "#A3C3D4",
-    "timestamp": "2026-11-21 15:09:25"
+    "weather_report": "As evening descends upon Boston, a serene haze envelops the city, shrouded in an embrace of patchy fog that soon promises to deepen into the night. With temperatures dipping gracefully to the low forties, the air carries a cool whisper of autumn, invigorating yet somewhat chilled. The clouds linger overhead, casting a muted layer upon the landscape, their presence hinting at the rain that may grace the city come early afternoon tomorrow.\n\nAs you ponder your evening plans, consider opting for layers that keep you warm but not stifled\u2014a soft scarf and a light jacket would make a fine choice for a leisurely stroll through a nearby park or a quiet visit to a caf\u00e9 where the aromas of freshly brewed coffee invite relaxation. The upcoming potential for rain adds a touch of urgency to outdoor activities\u2014perhaps a visit to a beloved bookstore or art gallery before the skies shed their tears. Tonight is a canvas painted in subdued tones of gray, inviting quiet contemplation and intimate conversation rather than frenetic activity, allowing Bostonians a brief respite beneath the understated beauty of the night.",
+    "color_code": "#4B4E6D",
+    "timestamp": "2026-11-21 19:30:44"
 }
