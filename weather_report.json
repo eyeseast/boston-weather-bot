@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-23T07:45:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
-            "humidity": 93.698536677741,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 330,
+            "timestamp": "2026-11-23T11:45:00+00:00",
+            "temperature_f": 53.6,
+            "temperature_c": 12,
+            "humidity": 100,
+            "wind_speed_mph": 28.991520000000005,
+            "wind_direction": 300,
             "description": "Cloudy"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Overnight",
-                "startTime": "2026-11-23T03:00:00-05:00",
-                "endTime": "2026-11-23T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 53,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 32
-                },
-                "windSpeed": "9 mph",
-                "windDirection": "N",
-                "icon": "https://api.weather.gov/icons/land/night/rain,30?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain and patchy fog. Cloudy, with a low around 53. North wind around 9 mph, with gusts as high as 22 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
-                "name": "Monday",
-                "startTime": "2026-11-23T06:00:00-05:00",
+                "name": "Today",
+                "startTime": "2026-11-23T07:00:00-05:00",
                 "endTime": "2026-11-23T18:00:00-05:00",
                 "isDaytime": true,
                 "temperature": 66,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 5
+                    "value": 2
                 },
                 "windSpeed": "6 to 13 mph",
                 "windDirection": "W",
-                "icon": "https://api.weather.gov/icons/land/day/fog/bkn?size=medium",
-                "shortForecast": "Patchy Fog then Partly Sunny",
-                "detailedForecast": "Patchy fog before 8am. Partly sunny. High near 66, with temperatures falling to around 59 in the afternoon. West wind 6 to 13 mph, with gusts as high as 25 mph. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny. High near 66, with temperatures falling to around 59 in the afternoon. West wind 6 to 13 mph, with gusts as high as 25 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-23T18:00:00-05:00",
+                "endTime": "2026-11-24T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 38,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 4
+                },
+                "windSpeed": "7 to 12 mph",
+                "windDirection": "NW",
+                "icon": "https://api.weather.gov/icons/land/night/sct?size=medium",
+                "shortForecast": "Partly Cloudy",
+                "detailedForecast": "Partly cloudy, with a low around 38. Northwest wind 7 to 12 mph, with gusts as high as 22 mph."
             }
         ]
     },
-    "weather_report": "As dawn breaks over Boston, a gentle veil of patchy fog lingers, mingling with the coolness of the night air. The sky wears a brooding gray hue, hinting at a possible light rain as temperatures settle around the mid-fifties. A north wind carries whispers of chill, where gusts rustle the leaves and the early morning light begins to make its timid entrance. For those stirring from slumber, a light jacket or a cozy sweater will serve well against the lingering dampness. \n\nAs Monday unfolds, expect the fog to dissipate by late morning, allowing patches of sunshine to filter through with a promise of warmth. Although the afternoon may leave a trace of the day's earlier chill, the brief moments of sunlight will beckon one outdoors. Perhaps a stroll through a quiet park or along the waterfront, where the reflections in the water paint an ever-changing canvas of light and shadow. Embrace the day with a low-key adventure, a stroll perhaps, savoring the lingering autumn air before the chill of winter takes hold.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2026-11-23 03:17:02"
+    "weather_report": "As dawn unfolds over Boston, a cool air lingers, weaving gently through the streets. The day ahead promises moments of sun amid a canvas painted in soft clouds, with temperatures gradually sliding into the afternoon. The brisk breezes whisper secrets of the Atlantic, reminding us that the days of gentle warmth are slipping away as the season changes. \n\nDressing in layers is advisable; a light jacket may shield against the occasional gust while allowing for comfort during those moments when the sun breaks through the clouds. As daylight glides forward, consider simple pleasures \u2014 perhaps a quiet stroll through the Public Garden, where the remaining autumn leaves offer glimpses of color against a backdrop of serenity, or a visit to a local caf\u00e9 for a warming cup of coffee, perfect for savoring as you watch the city awaken. Such an afternoon is the essence of Boston, where elegance meets the everyday in a dance of crisp air and soft light.",
+    "color_code": "#A6B6B0",
+    "timestamp": "2026-11-23 07:16:57"
 }
