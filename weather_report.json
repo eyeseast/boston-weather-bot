@@ -7,22 +7,41 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-25T15:35:00+00:00",
-            "temperature_f": 41.0,
-            "temperature_c": 5,
-            "humidity": 52.193346719272,
-            "wind_speed_mph": 20.696724000000003,
-            "wind_direction": 360,
+            "timestamp": "2026-11-25T19:55:00+00:00",
+            "temperature_f": 42.8,
+            "temperature_c": 6,
+            "humidity": 56.503258937705,
+            "wind_speed_mph": 24.884388,
+            "wind_direction": 50,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Today",
-                "startTime": "2026-11-25T11:00:00-05:00",
+                "name": "This Afternoon",
+                "startTime": "2026-11-25T15:00:00-05:00",
                 "endTime": "2026-11-25T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 45,
+                "temperature": 44,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 0
+                },
+                "windSpeed": "5 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Mostly Cloudy",
+                "detailedForecast": "Mostly cloudy, with a high near 44. East wind around 5 mph."
+            },
+            {
+                "number": 2,
+                "name": "Tonight",
+                "startTime": "2026-11-25T18:00:00-05:00",
+                "endTime": "2026-11-26T06:00:00-05:00",
+                "isDaytime": false,
+                "temperature": 32,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -31,32 +50,13 @@
                 },
                 "windSpeed": "3 to 7 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/day/sct?size=medium",
-                "shortForecast": "Mostly Sunny",
-                "detailedForecast": "Mostly sunny, with a high near 45. Northeast wind 3 to 7 mph."
-            },
-            {
-                "number": 2,
-                "name": "Tonight",
-                "startTime": "2026-11-25T18:00:00-05:00",
-                "endTime": "2026-11-26T06:00:00-05:00",
-                "isDaytime": false,
-                "temperature": 31,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "2 to 6 mph",
-                "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a low around 31. Northeast wind 2 to 6 mph."
+                "detailedForecast": "Mostly cloudy, with a low around 32. Northeast wind 3 to 7 mph."
             }
         ]
     },
-    "weather_report": "In Boston, the day unfolds under a mostly sunny sky, the gentle light spilling across the city like a warm hug. The crisp air lingers just at the edge of chill, inviting a blend of scarves and jackets for those venturing out. The northeast wind whispers softly through the trees, barely perceptible but sufficient to invigorate the senses. As the sun climbs, temperatures flirt with 45 degrees, promising a pleasant respite from the typical early winter gloom.\n\nAs night approaches, the clouds will gather, muffling the day\u2019s warmth and bringing a cooler sweep with temperatures dipping to around 31. While the evening turns more contemplative, there remains a certain charm in taking a stroll through the city's quiet streets or perhaps enjoying a steaming cup of tea at a favored caf\u00e9. For those lucky enough to wander this urban landscape today, an ensemble of layers and sensible shoes will provide the comfort required for both the sun's embrace and the evening's cool retreat. Today feels like an invitation to pause and appreciate the subtle transitions of the season in a city that thrives on its own rhythm.",
-    "color_code": "#A4C8E1",
-    "timestamp": "2026-11-25 11:13:59"
+    "weather_report": "This afternoon in Boston, a muted palette of gray blankets the sky, creating an ambiance that is both serene and somewhat somber. The temperature reaches a cool embrace of approximately 44 degrees, accompanied by a gentle eastward breeze that rustles softly through the trees. As evening approaches, the clouds will continue to thicken, ushering in a night that dips to a brisk 32 degrees. Though fog may not weave through the streets, the atmosphere remains decidedly overcast, lending the city a tranquil, introspective quality.\n\nFor those navigating the day, layers will serve as faithful companions against the chill\u2014perhaps a woolen sweater beneath a light coat to balance comfort and style. As dusk falls, the allure of a cozy caf\u00e9 beckons, where one might lose track of time over a warm drink, or a stroll through the quiet, hushed streets could reveal the charm of Boston\u2019s often overlooked corners. Although outdoor pursuits may not spark the imagination today, the gentle hush of the day offers a perfect backdrop for reflection or creative endeavors indoors, inviting one to pause and savor the moment.",
+    "color_code": "#A0A6B6",
+    "timestamp": "2026-11-25 15:09:46"
 }
