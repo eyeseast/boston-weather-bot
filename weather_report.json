@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-25T19:55:00+00:00",
-            "temperature_f": 42.8,
-            "temperature_c": 6,
-            "humidity": 56.503258937705,
-            "wind_speed_mph": 24.884388,
-            "wind_direction": 50,
+            "timestamp": "2026-11-26T00:05:00+00:00",
+            "temperature_f": 33.8,
+            "temperature_c": 1,
+            "humidity": 80.375317381712,
+            "wind_speed_mph": 0.0,
+            "wind_direction": 0,
             "description": "Clear"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-11-25T15:00:00-05:00",
-                "endTime": "2026-11-25T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 44,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 0
-                },
-                "windSpeed": "5 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
-                "shortForecast": "Mostly Cloudy",
-                "detailedForecast": "Mostly cloudy, with a high near 44. East wind around 5 mph."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-11-25T18:00:00-05:00",
+                "startTime": "2026-11-25T19:00:00-05:00",
                 "endTime": "2026-11-26T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 32,
@@ -53,10 +34,29 @@
                 "icon": "https://api.weather.gov/icons/land/night/bkn?size=medium",
                 "shortForecast": "Mostly Cloudy",
                 "detailedForecast": "Mostly cloudy, with a low around 32. Northeast wind 3 to 7 mph."
+            },
+            {
+                "number": 2,
+                "name": "Thanksgiving Day",
+                "startTime": "2026-11-26T06:00:00-05:00",
+                "endTime": "2026-11-26T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 72
+                },
+                "windSpeed": "8 to 20 mph",
+                "windDirection": "E",
+                "icon": "https://api.weather.gov/icons/land/day/bkn/rain,70?size=medium",
+                "shortForecast": "Mostly Cloudy then Light Rain Likely",
+                "detailedForecast": "Rain likely after 1pm. Mostly cloudy, with a high near 53. East wind 8 to 20 mph, with gusts as high as 36 mph. Chance of precipitation is 70%. New rainfall amounts between a tenth and quarter of an inch possible."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston, a muted palette of gray blankets the sky, creating an ambiance that is both serene and somewhat somber. The temperature reaches a cool embrace of approximately 44 degrees, accompanied by a gentle eastward breeze that rustles softly through the trees. As evening approaches, the clouds will continue to thicken, ushering in a night that dips to a brisk 32 degrees. Though fog may not weave through the streets, the atmosphere remains decidedly overcast, lending the city a tranquil, introspective quality.\n\nFor those navigating the day, layers will serve as faithful companions against the chill\u2014perhaps a woolen sweater beneath a light coat to balance comfort and style. As dusk falls, the allure of a cozy caf\u00e9 beckons, where one might lose track of time over a warm drink, or a stroll through the quiet, hushed streets could reveal the charm of Boston\u2019s often overlooked corners. Although outdoor pursuits may not spark the imagination today, the gentle hush of the day offers a perfect backdrop for reflection or creative endeavors indoors, inviting one to pause and savor the moment.",
-    "color_code": "#A0A6B6",
-    "timestamp": "2026-11-25 15:09:46"
+    "weather_report": "As dusk settles over Boston, the air carries with it a gentle chill, hinting at the 32-degree evening that awaits. The night sky, draped in clouds, casts a muted light over the city, where the familiar outlines of rooftops and spires stand like loyal sentinels against a backdrop of shifting clouds. A whisper of wind, moving at a modest pace, nudges the leaves, adding a soft rustle to the evening's quiet demeanor. This layer of clouds will soon pave the way for a Thanksgiving Day forecast that promises to be much more dynamic, with rain expected to grace the city after lunch. \n\nAmidst the anticipated shower, the air will warm to a balmy 53 degrees, though the gust of wind might invoke a bit of a shiver now and then. Dressing in layers will be prudent; settle into a cozy sweater beneath a water-resistant jacket, ensuring comfort against both the chill and the drizzle. On a day tinged with probability and a hint of holiday cheer, consider a leisurely stroll through the neighborhood or a casual visit to your favorite local cafe, where the aroma of warm drinks will mingle with the rain-slicked streets outside. Moments spent watching the world from a window may prove to be just as delightful as braving the elements, allowing you to sip, reflect, and soak in the spirit of the season.",
+    "color_code": "#5F6B8C",
+    "timestamp": "2026-11-25 19:28:24"
 }
