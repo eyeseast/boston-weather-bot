@@ -7,41 +7,22 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-26T19:40:00+00:00",
-            "temperature_f": 44.6,
-            "temperature_c": 7,
-            "humidity": 70.499329419935,
+            "timestamp": "2026-11-27T00:00:00+00:00",
+            "temperature_f": null,
+            "temperature_c": null,
+            "humidity": null,
             "wind_speed_mph": null,
             "wind_direction": null,
-            "description": "Cloudy"
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Thanksgiving Day",
-                "startTime": "2026-11-26T13:00:00-05:00",
-                "endTime": "2026-11-26T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 52,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 54
-                },
-                "windSpeed": "16 to 25 mph",
-                "windDirection": "E",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 2pm. Cloudy, with a high near 52. East wind 16 to 25 mph, with gusts as high as 36 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-11-26T18:00:00-05:00",
+                "startTime": "2026-11-26T19:00:00-05:00",
                 "endTime": "2026-11-27T06:00:00-05:00",
                 "isDaytime": false,
-                "temperature": 47,
+                "temperature": 44,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
@@ -52,11 +33,30 @@
                 "windDirection": "NE",
                 "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
                 "shortForecast": "Heavy Rain",
-                "detailedForecast": "Rain. Cloudy. Low around 47, with temperatures rising to around 53 overnight. Northeast wind 13 to 26 mph, with gusts as high as 38 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+                "detailedForecast": "Rain. Cloudy. Low around 44, with temperatures rising to around 50 overnight. Northeast wind 13 to 26 mph, with gusts as high as 38 mph. Chance of precipitation is 100%. New rainfall amounts between 1 and 2 inches possible."
+            },
+            {
+                "number": 2,
+                "name": "Friday",
+                "startTime": "2026-11-27T06:00:00-05:00",
+                "endTime": "2026-11-27T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 60,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 39
+                },
+                "windSpeed": "14 mph",
+                "windDirection": "SE",
+                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
+                "shortForecast": "Chance Rain Showers",
+                "detailedForecast": "A chance of rain showers. Mostly cloudy. High near 60, with temperatures falling to around 53 in the afternoon. Southeast wind around 14 mph, with gusts as high as 26 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the afternoon unfolds in Boston, a dense blanket of clouds envelops the city, casting a muted, grayish hue over the skyline. The chill in the air signals that winter is knocking on the door, and the forecast points to an unrelenting drizzle that may commence shortly after two this afternoon. With brisk winds whipping through the streets, the East wind propelling at a steady pace, the sensation of cold will be palpable, urging residents to bundle up warmly. Expect temperatures to rise only slightly, offering little reprieve from the dampness that is set to blanket the city.\n\nAn evening of relentless rain awaits, transforming the streets into glistening pathways as the drops cascade from the heavens. With a 100% chance of precipitation, one should prepare for the possibility of being soaked before the evening's warmth seeps in. It would be wise to dress in layers; a waterproof jacket with a secure hood, sturdy footwear, and perhaps an umbrella to shield against the downpour. As you embrace the cozy confines of your home during tonight's monsoon, consider curling up with a good book or preparing a hearty meal. If you must venture out, savor the serenity that rain brings, treating yourself to a warm drink from a local caf\u00e9, with the soft sound of rain dancing against the windows to accompany you as the night unfolds.",
-    "color_code": "#A9A9A9",
-    "timestamp": "2026-11-26 15:10:46"
+    "weather_report": "As evening settles upon Boston, a persistent rain cloaks the city, giving a mirror-like sheen to the streets below. The clouds hang low in the sky, shrouding even the brightest lights in a muted glow, as if the city itself is wrapped in a delicate yet somber veil. With temperatures barely dipping, they are expected to hover around an unassuming 50 degrees, while the wind dances through the trees\u2014swift and assertive\u2014whispering tales of a night to come. The likelihood of more rain settles heavy in the air, suggesting that if one must venture outside, a sturdy umbrella and a waterproof jacket should be close companions.\n\nFriday holds a touch of promise, though remnants of tonight\u2019s downpour linger. A chance of showers will hang in the morning air, perhaps prompting a quiet pause and a reflection on the week past. The day may feel brisk, with temperatures gradually retreating to a cool 53 by afternoon. It\u2019s a time to don layers, perhaps a soft scarf and sensible shoes, ready to navigate puddles and the unexpected. While many might opt for the warmth of home, a stroll along the Charles might just offer insights and quiet moments amid the rhythmic sound of raindrops, a reminder that even the grayest days have their own beauty.",
+    "color_code": "#4a4a4a",
+    "timestamp": "2026-11-26 19:28:57"
 }
