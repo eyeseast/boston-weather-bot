@@ -7,19 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-27T03:40:00+00:00",
-            "temperature_f": 48.2,
-            "temperature_c": 9,
-            "humidity": 93.453994643448,
-            "wind_speed_mph": null,
-            "wind_direction": null,
-            "description": "Heavy Rain and Fog/Mist"
+            "timestamp": "2026-11-27T07:45:00+00:00",
+            "temperature_f": 50.0,
+            "temperature_c": 10,
+            "humidity": 93.504015298216,
+            "wind_speed_mph": 20.696724000000003,
+            "wind_direction": 10,
+            "description": "Light Rain and Fog/Mist"
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "Tonight",
-                "startTime": "2026-11-26T23:00:00-05:00",
+                "name": "Overnight",
+                "startTime": "2026-11-27T03:00:00-05:00",
                 "endTime": "2026-11-27T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 44,
@@ -27,13 +27,13 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 99
+                    "value": 40
                 },
-                "windSpeed": "13 to 23 mph",
+                "windSpeed": "5 to 9 mph",
                 "windDirection": "NE",
-                "icon": "https://api.weather.gov/icons/land/night/rain,100?size=medium",
-                "shortForecast": "Heavy Rain",
-                "detailedForecast": "Rain. Cloudy. Low around 44, with temperatures rising to around 50 overnight. Northeast wind 13 to 23 mph, with gusts as high as 38 mph. Chance of precipitation is 100%. New rainfall amounts between three quarters and one inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,40?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "A chance of rain and patchy fog before 4am, then patchy fog and a slight chance of rain. Cloudy. Low around 44, with temperatures rising to around 51 overnight. Northeast wind 5 to 9 mph, with gusts as high as 28 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             },
             {
                 "number": 2,
@@ -41,22 +41,22 @@
                 "startTime": "2026-11-27T06:00:00-05:00",
                 "endTime": "2026-11-27T18:00:00-05:00",
                 "isDaytime": true,
-                "temperature": 60,
+                "temperature": 61,
                 "temperatureUnit": "F",
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 39
+                    "value": 40
                 },
-                "windSpeed": "14 mph",
-                "windDirection": "SE",
-                "icon": "https://api.weather.gov/icons/land/day/rain_showers,40?size=medium",
-                "shortForecast": "Chance Rain Showers",
-                "detailedForecast": "A chance of rain showers. Mostly cloudy. High near 60, with temperatures falling to around 53 in the afternoon. Southeast wind around 14 mph, with gusts as high as 26 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
+                "windSpeed": "3 to 12 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/rain,30/rain,40?size=medium",
+                "shortForecast": "Chance Light Rain",
+                "detailedForecast": "Patchy fog before 7am, then a chance of rain and patchy fog. Mostly cloudy. High near 61, with temperatures falling to around 52 in the afternoon. Southwest wind 3 to 12 mph, with gusts as high as 30 mph. Chance of precipitation is 40%. New rainfall amounts less than a tenth of an inch possible."
             }
         ]
     },
-    "weather_report": "As the night unfolds over Boston, a thick curtain of cloud envelops the city, bringing with it a steady rain. The air is cool, hovering in the low 40s, with a hint of warmth beginning to creep in as temperatures rise steadily through the night. The northeast wind rustles through the darkened streets, gusting fiercely, adding a chill that clings to the skin. Those venturing out would do well to don a waterproof jacket and sturdy shoes, perhaps a scarf to ward off the brisk bite of the breeze. It\u2019s a night for staying cozy\u2014perhaps curling up with a good book, or enjoying a warm drink from a local caf\u00e9 as you listen to the rain tap against the windows.\n\nAs dawn breaks on Friday, the weather promises only a touch of respite. Rain showers will linger, casting a gray pallor over the skyline, while the temperature reaches into the upper 50s, dipping again as the afternoon approaches. The air will feel damp and the sky remains overcast. A light jacket or sweater may suffice for midday excursions, although a gentle wind may urge one to consider layering. It's a day more suited to quiet contemplation\u2014perhaps a stroll through a less-traveled park, where the rain-soaked ground glistens underfoot, or a visit to one of Boston's myriad museums, where the ambient warmth offers a stark contrast to the chill outside. With the promise of clouds and scattered showers, today might excel in intimacy rather than adventure, ideal for unwinding and reflecting on the world outside.",
-    "color_code": "#6B8E94",
-    "timestamp": "2026-11-26 23:12:52"
+    "weather_report": "In the stillness of the early morning, Boston finds itself cloaked in a soft veil of patchy fog, a whispering reminder that autumn is reluctant to release its grip. A hint of rain lingers in the air, and the temperatures are gently nudging upward, creating a cool yet refreshing atmosphere. As dawn breaks, the promise of a grey day unfolds. Though the clouds dominate the sky, they carry the potential for a brief dance of rain, perhaps just a few droplets that will kiss the ground and vanish into the ether. \n\nFor those venturing out, it might be best to don a light jacket over your usual attire\u2014something to guard against the teasing chill and the dampness that may accompany the fog. Sturdy shoes will serve you well, as the damp streets will call for careful navigation. The day ahead offers a few delightful diversions; perhaps a stroll along the Charles River to embrace the quiet charm of the foggy morning or a visit to a cozy caf\u00e9 where the aroma of fresh coffee wafts through the air, inviting companionship and contemplation. As the clouds hang heavy above, let them draw you into the softer moments of life, where calm prevails amid the mist.",
+    "color_code": "#6B7B9A",
+    "timestamp": "2026-11-27 03:14:51"
 }
