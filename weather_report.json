@@ -7,38 +7,19 @@
             "longitude": -71.133
         },
         "current_conditions": {
-            "timestamp": "2026-11-27T19:45:00+00:00",
-            "temperature_f": 57.2,
-            "temperature_c": 14,
-            "humidity": 62.716459074022,
+            "timestamp": "2026-11-27T23:53:00+00:00",
+            "temperature_f": 48.92,
+            "temperature_c": 9.4,
+            "humidity": 89.741574390528,
             "wind_speed_mph": 28.991520000000005,
-            "wind_direction": 200,
-            "description": "Cloudy"
+            "wind_direction": 220,
+            "description": ""
         },
         "forecast": [
             {
                 "number": 1,
-                "name": "This Afternoon",
-                "startTime": "2026-11-27T15:00:00-05:00",
-                "endTime": "2026-11-27T18:00:00-05:00",
-                "isDaytime": true,
-                "temperature": 55,
-                "temperatureUnit": "F",
-                "temperatureTrend": null,
-                "probabilityOfPrecipitation": {
-                    "unitCode": "wmoUnit:percent",
-                    "value": 45
-                },
-                "windSpeed": "12 mph",
-                "windDirection": "S",
-                "icon": "https://api.weather.gov/icons/land/day/rain,50?size=medium",
-                "shortForecast": "Chance Light Rain",
-                "detailedForecast": "A chance of rain after 4pm. Partly sunny, with a high near 55. South wind around 12 mph, with gusts as high as 22 mph. Chance of precipitation is 50%. New rainfall amounts less than a tenth of an inch possible."
-            },
-            {
-                "number": 2,
                 "name": "Tonight",
-                "startTime": "2026-11-27T18:00:00-05:00",
+                "startTime": "2026-11-27T19:00:00-05:00",
                 "endTime": "2026-11-28T06:00:00-05:00",
                 "isDaytime": false,
                 "temperature": 41,
@@ -46,17 +27,36 @@
                 "temperatureTrend": null,
                 "probabilityOfPrecipitation": {
                     "unitCode": "wmoUnit:percent",
-                    "value": 55
+                    "value": 87
                 },
                 "windSpeed": "12 mph",
                 "windDirection": "SW",
-                "icon": "https://api.weather.gov/icons/land/night/rain,60/bkn?size=medium",
-                "shortForecast": "Light Rain Likely then Mostly Cloudy",
-                "detailedForecast": "Rain likely and patchy fog before 7pm, then patchy fog and a slight chance of rain between 7pm and 9pm. Mostly cloudy, with a low around 41. Southwest wind around 12 mph. Chance of precipitation is 60%. New rainfall amounts less than a tenth of an inch possible."
+                "icon": "https://api.weather.gov/icons/land/night/rain,90/sct?size=medium",
+                "shortForecast": "Light Rain then Partly Cloudy",
+                "detailedForecast": "Rain and patchy fog before 9pm. Partly cloudy, with a low around 41. Southwest wind around 12 mph. Chance of precipitation is 90%. New rainfall amounts less than a tenth of an inch possible."
+            },
+            {
+                "number": 2,
+                "name": "Saturday",
+                "startTime": "2026-11-28T06:00:00-05:00",
+                "endTime": "2026-11-28T18:00:00-05:00",
+                "isDaytime": true,
+                "temperature": 53,
+                "temperatureUnit": "F",
+                "temperatureTrend": null,
+                "probabilityOfPrecipitation": {
+                    "unitCode": "wmoUnit:percent",
+                    "value": 3
+                },
+                "windSpeed": "9 to 13 mph",
+                "windDirection": "SW",
+                "icon": "https://api.weather.gov/icons/land/day/bkn?size=medium",
+                "shortForecast": "Partly Sunny",
+                "detailedForecast": "Partly sunny, with a high near 53. Southwest wind 9 to 13 mph, with gusts as high as 23 mph."
             }
         ]
     },
-    "weather_report": "This afternoon in Boston, clouds linger in the heavens, softening the sun's rays as they slightly pierce through the gray veil. The air carries a hint of humidity, hinting at the rain likely to arrive post-four o'clock. A gentle wind whispers from the south, urging one to embrace layers as temperatures hover around a cool 55 degrees. By the evening, the atmosphere is expected to shift; the promise of rain and the encroachment of patchy fog signal the transition to a more somber twilight. As night descends, the mercury will dip, leaving a chill that beckons for cozy attire.\n\nAs the day drifts towards dusk, the weather may not present itself as the ideal backdrop for grand outdoor adventures; yet, there exists a certain charm in this muted scene. Consider a leisurely walk through the quiet streets, where the scent of impending rain enriches the air. Enjoying a warm beverage at a caf\u00e9 might also serve as a solace against the gathering chill. It is a day best spent nurturing the spirit while staying connected with the rhythm of the city, allowing for moments of reflection amid the encroaching fog.",
-    "color_code": "#A2B2DC",
-    "timestamp": "2026-11-27 15:10:28"
+    "weather_report": "As dusk settles over Boston, the air hangs heavy with moisture, a testament to the evening rainfall that has marked the day. The skyline, softened by the veil of fog, glimmers faintly in the twilight, offering a glimpse of the city enshrined in its own reflections. The temperature rests comfortably cool, inviting you to don a cozy jacket\u2014perhaps a well-loved sweater that intertwines warmth with nostalgia. The southwest wind adds a gentle kiss of chill, whispering of the brisk hours yet to come. \n\nTomorrow\u2019s dawn promises a reprieve, unfurling partly sunny skies as the clouds dissipate into the ether, leaving behind a crisp canvas for the day ahead. With a hint of playful breeze, the atmosphere invites you to step outside and embrace the transition from warmth to coolness. Whether it\u2019s a stroll through the streets adorned with glinting holiday lights or a visit to a quaint caf\u00e9 where the aroma of freshly brewed coffee mingles with the crisp air, this late November day offers moments worth cherishing. As the evening progresses, settle in with a good book or perhaps explore the culinary layers of the city, indulging in comfort foods that harken to the heartwarming embrace of home.",
+    "color_code": "#474747",
+    "timestamp": "2026-11-27 19:27:57"
 }
